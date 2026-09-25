@@ -37,9 +37,6 @@
     <!--Warnings-->
     <s:String x:Key="S.Crash">Oh no, the app crashed :(</s:String>
     <s:String x:Key="S.Required">Required field</s:String>
-    <s:String x:Key="S.Warning.Net.Title">Missing Dependency</s:String>
-    <s:String x:Key="S.Warning.Net.Header">Net Framework 4.8 is not present</s:String>
-    <s:String x:Key="S.Warning.Net.Message">In order to properly use this app, you need to download the correct version of the .Net Framework.&amp;#10;Would you like to open the web page to download it?</s:String>
     <s:String x:Key="S.Warning.Single.Title">Only one instance permitted</s:String>
     <s:String x:Key="S.Warning.Single.Header">The app is already running</s:String>
     <s:String x:Key="S.Warning.Single.Message">ScreenToGif is already running, but apparently there's no window open. Check you system tray, a ScreenToGif icon must be there.</s:String>
@@ -59,11 +56,44 @@
     <s:String x:Key="S.Warning.Graphics.Action">Switch the graphics adapter set for ScreenToGif by opening Windows Settings > System > Display > Graphics Settings, or by clicking on the link below.</s:String>
     <s:String x:Key="S.Warning.Graphics.Action.Legacy">Switch the graphics adapter for ScreenToGif by opening the graphics settings of your graphics adapter.</s:String>
     <s:String x:Key="S.Warning.Graphics.Switch">Open Windows Settings</s:String>
-    
+
     <!--Keys-->
+    <s:String x:Key="S.Keys.Backspace">Backspace</s:String>
+    <s:String x:Key="S.Keys.Tab">Tab</s:String>
     <s:String x:Key="S.Keys.Enter">Enter</s:String>  
+    <s:String x:Key="S.Keys.PauseBreak">Pause/Break</s:String>
+    <s:String x:Key="S.Keys.CapsLock">Caps Lock</s:String>
     <s:String x:Key="S.Keys.Esc">Esc</s:String>  
-    <s:String x:Key="S.Keys.Space">Space</s:String>  
+    <s:String x:Key="S.Keys.Space">Space</s:String>
+    <s:String x:Key="S.Keys.PageUp">Page Up</s:String>
+    <s:String x:Key="S.Keys.PageDown">Page Down</s:String>
+    <s:String x:Key="S.Keys.Home">Home</s:String>
+    <s:String x:Key="S.Keys.End">End</s:String>
+    <s:String x:Key="S.Keys.Left">Arrow Left</s:String>
+    <s:String x:Key="S.Keys.Up">Arrow Up</s:String>
+    <s:String x:Key="S.Keys.Right">Arrow Right</s:String>
+    <s:String x:Key="S.Keys.Down">Arrow Down</s:String>
+    <s:String x:Key="S.Keys.PrintScreen">Print Screen</s:String>
+    <s:String x:Key="S.Keys.Insert">Insert</s:String>
+    <s:String x:Key="S.Keys.Delete">Delete</s:String>
+    <s:String x:Key="S.Keys.NumLock">Num Lock</s:String>
+    <s:String x:Key="S.Keys.ScrollLock">Scroll Lock</s:String>
+    <s:String x:Key="S.Keys.Shift">Shift</s:String>
+    <s:String x:Key="S.Keys.LeftShift">Left Shift</s:String>
+    <s:String x:Key="S.Keys.RightShift">Right Shift</s:String>
+    <s:String x:Key="S.Keys.Alt">Alt</s:String>
+    <s:String x:Key="S.Keys.LeftAlt">Left Alt</s:String>
+    <s:String x:Key="S.Keys.RightAlt">Right Alt</s:String>
+    <s:String x:Key="S.Keys.Ctrl">Control</s:String>
+    <s:String x:Key="S.Keys.LeftCtrl">Left Ctrl</s:String>
+    <s:String x:Key="S.Keys.RightCtrl">Right Ctrl</s:String>
+    <s:String x:Key="S.Keys.Windows">Windows</s:String>
+    <s:String x:Key="S.Keys.LeftWindows">Left Windows</s:String>
+    <s:String x:Key="S.Keys.RightWindows">Right Windows</s:String>
+    <s:String x:Key="S.Keys.NextTrack">Next Track</s:String>
+    <s:String x:Key="S.Keys.PreviousTrack">Previous Track</s:String>
+    <s:String x:Key="S.Keys.PlayPause">Play/Pause</s:String>
+    <s:String x:Key="S.Keys.Stop">Stop</s:String>
 
     <!--Mouse-->
     <s:String x:Key="S.Mouse.Right">Right-Click</s:String>  
@@ -947,6 +977,7 @@
     <s:String x:Key="S.Editor.File.Apng">Png animation</s:String>
     <s:String x:Key="S.Editor.File.Gif">Gif animation</s:String>
     <s:String x:Key="S.Editor.File.Webp">Webp animation</s:String>
+    <s:String x:Key="S.Editor.File.Avif">Avif animation</s:String>
     
     <s:String x:Key="S.Editor.File.Avi">Avi video</s:String>
     <s:String x:Key="S.Editor.File.Mkv">Matroska video</s:String>
@@ -1348,6 +1379,8 @@
     <s:String x:Key="S.KeyStrokes.IgnoreModifiers.Info">It will ignore lone key presses such as "Control", but it will not ignore "Control + C".</s:String>
     <s:String x:Key="S.KeyStrokes.IgnoreInjected">Ignore software simulated keystrokes.</s:String>
     <s:String x:Key="S.KeyStrokes.IgnoreInjected.Info">Only record user input keystrokes.</s:String>
+    <s:String x:Key="S.KeyStrokes.Translate">Translate the special keys.</s:String>
+    <s:String x:Key="S.KeyStrokes.Translate.Info">Useful if the language is other than English.</s:String>
     <s:String x:Key="S.KeyStrokes.Extend">Extend the exhibition of the key strokes.</s:String>
     <s:String x:Key="S.KeyStrokes.Earlier">Start the exhibition of the key strokes earlier.</s:String>
     <s:String x:Key="S.KeyStrokes.By">By (ms):</s:String>
@@ -1695,8 +1728,9 @@
     <s:String x:Key="S.SaveAs.KGySoft.Ditherer.InterleavedGradientNoiseDitherer.Info">Nonrandom gradient noise generated by a formula.</s:String>
 
     <s:String x:Key="S.SaveAs.KGySoft.Preview">Preview</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.Info">Use Control + Mouse Wheel to zoom into the preview image.&amp;#x0d;&amp;#x0a;&amp;#x0d;&amp;#x0a;⚠️ Note: The actually generated final frame may have a better quality if delta frames&amp;#x0d;&amp;#x0a;are allowed, and the selected quantizer optimizes the palette for each frame.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame">Show current frame.</s:String>
-    <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame.Info">When checked, the preview shows the current frame instead of a standard image example.</s:String>
+    <s:String x:Key="S.SaveAs.KGySoft.Preview.ShowCurrentFrame.Info">When checked, the preview demonstrates the settings on the current frame instead of a standard image example.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Preview.Refresh">Auto preview is disabled due to the high memory requirement of the current settings. Click to refresh the preview.</s:String>
     <s:String x:Key="S.SaveAs.KGySoft.Preview.Error">Failed to generate preview: {0}&amp;#x0d;&amp;#x0a;Click to try to generate it again.</s:String>
 
@@ -1749,6 +1783,7 @@
     <s:String x:Key="S.SaveAs.VideoOptions.Codec.Info">The video encoder, responsible for&amp;#10;converting the raw pixels to the output file.</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset">Preset:</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.None">None</s:String>
+    <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Placebo">Placebo</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.VerySlow">Very Slow</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Slower">Slower</s:String>
     <s:String x:Key="S.SaveAs.VideoOptions.CodecPreset.Slow">Slow</s:String>
