@@ -1,0 +1,6982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Subway Tooter)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-12 04:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/subway-tooter/"
+"strings/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "Subway Tooter"
+msgstr ""
+
+#, java-printf-format
+msgctxt "action_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "account_add"
+msgid "Add an account"
+msgstr "ஒரு கணக்கைச் சேர்"
+
+#, java-printf-format
+msgctxt "instance"
+msgid "Server"
+msgstr "சேவையகம்"
+
+#, java-printf-format
+msgctxt "user_mail_address"
+msgid "E-mail"
+msgstr "மின்னஞ்சல்"
+
+#, java-printf-format
+msgctxt "user_password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, java-printf-format
+msgctxt "ok"
+msgid "OK"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "விடு"
+
+#, java-printf-format
+msgctxt "instance_not_specified"
+msgid "Server not specified"
+msgstr "சேவையகம் குறிப்பிடப்படவில்லை"
+
+#, java-printf-format
+msgctxt "mail_not_specified"
+msgid "E-mail not specified"
+msgstr "மின்னஞ்சல் குறிப்பிடப்படவில்லை"
+
+#, java-printf-format
+msgctxt "password_not_specified"
+msgid "Password not specified"
+msgstr "கடவுச்சொல் குறிப்பிடப்படவில்லை"
+
+#, java-printf-format
+msgctxt "network_error"
+msgid "Network error."
+msgstr "பிணைய பிழை."
+
+#, java-printf-format
+msgctxt "error_response"
+msgid "Error response."
+msgstr "பிழை பதில்."
+
+#, java-printf-format
+msgctxt "api_error"
+msgid "API error. %1$s"
+msgstr "பநிஇ பிழை. %1$s"
+
+#, java-printf-format
+msgctxt "register_app_to_server"
+msgid "Registering this app to %1$s…"
+msgstr "இந்த பயன்பாட்டை %1$s க்கு பதிவு செய்தல்…"
+
+#, java-printf-format
+msgctxt "request_access_token"
+msgid "Requesting access token…"
+msgstr "அணுகல் கிள்ளாக்கைக் கோருகிறது…"
+
+#, java-printf-format
+msgctxt "request_api"
+msgid "Acquiring: %1$s %2$s"
+msgstr "பெறுதல்: %1$s %2$s"
+
+#, java-printf-format
+msgctxt "reading_api"
+msgid "Reading: %1$s %2$s"
+msgstr "படித்தல்: %1$s %2$s"
+
+#, java-printf-format
+msgctxt "column_empty"
+msgid "Use the bottom left menu button to add a column"
+msgstr "நெடுவரிசையைச் சேர்க்க கீழே இடது பட்டியல் பொத்தானைப் பயன்படுத்து"
+
+#, java-printf-format
+msgctxt "home"
+msgid "Home"
+msgstr "வீடு"
+
+#, java-printf-format
+msgctxt "local_timeline"
+msgid "Local timeline"
+msgstr "உள்ளக காலவரிசை"
+
+#, java-printf-format
+msgctxt "federate_timeline"
+msgid "Federated timeline"
+msgstr "கூட்டாட்சி காலவரிசை"
+
+#, java-printf-format
+msgctxt "login_required"
+msgid "Please set your access token from the account settings."
+msgstr "கணக்கு அமைப்புகளிலிருந்து உங்கள் அணுகல் கிள்ளாக்கை அமைக்கவும்."
+
+#, java-printf-format
+msgctxt "cancelled"
+msgid "Cancelled"
+msgstr "கைவிடப்பட்டது"
+
+#, java-printf-format
+msgctxt "account_pick"
+msgid "Select an account"
+msgstr "ஒரு கணக்கைத் தேர்ந்தெடு"
+
+#, java-printf-format
+msgctxt "account_confirmed"
+msgid "Account confirmed."
+msgstr "கணக்கு உறுதிப்படுத்தப்பட்டது."
+
+#, java-printf-format
+msgctxt "reply"
+msgid "Reply"
+msgstr "பதில்"
+
+#, java-printf-format
+msgctxt "default_"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "more"
+msgid "More"
+msgstr "மேலும்"
+
+#, java-printf-format
+msgctxt "close_column"
+msgid "Close the column"
+msgstr "நெடுவரிசையை மூடு"
+
+#, java-printf-format
+msgctxt "thumbnail"
+msgid "Thumbnail"
+msgstr "சிறுபடம்"
+
+#, java-printf-format
+msgctxt "reload"
+msgid "Reload"
+msgstr "மீண்டும்ஏற்று"
+
+#, java-printf-format
+msgctxt "favourites"
+msgid "Favourites"
+msgstr "பிடித்தவைகள்"
+
+#, java-printf-format
+msgctxt "notifications"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "reports"
+msgid "Reports"
+msgstr "அறிக்கைகள்"
+
+#, java-printf-format
+msgctxt "your_statuses"
+msgid "Your profile"
+msgstr "உங்கள் தன்விவரம்"
+
+#, java-printf-format
+msgctxt "statuses_of"
+msgid "Profile of %1$s"
+msgstr "%1$s தன்விவரம்"
+
+#, java-printf-format
+msgctxt "follow"
+msgid "Follow"
+msgstr "பின்தொடர்"
+
+#, java-printf-format
+msgctxt "following"
+msgid "Following"
+msgstr "பின்தொடரும்"
+
+#, java-printf-format
+msgctxt "followers"
+msgid "Followers"
+msgstr "பின்தொடர்பவர்கள்"
+
+#, java-printf-format
+msgctxt "statuses"
+msgid "Statuses"
+msgstr "நிலைகள்"
+
+#, java-printf-format
+msgctxt "hide"
+msgid "Hide"
+msgstr "மறை"
+
+#, java-printf-format
+msgctxt "nsfw"
+msgid "NSFW"
+msgstr "என்எச்எப்டபள்யு"
+
+#, java-printf-format
+msgctxt "tap_to_show"
+msgid "Tap to show"
+msgstr "காட்ட தட்டவும்"
+
+#, java-printf-format
+msgctxt "show"
+msgid "Show"
+msgstr "காட்டு"
+
+#, java-printf-format
+msgctxt "act_post"
+msgid "Composite post"
+msgstr "கலப்பு இடுகை"
+
+#, java-printf-format
+msgctxt "content_warning"
+msgid "Content warning"
+msgstr "உள்ளடக்க எச்சரிக்கை"
+
+#, java-printf-format
+msgctxt "please_add_account"
+msgid "You need to make an account to create post."
+msgstr "இடுகையை உருவாக்க நீங்கள் ஒரு கணக்கை உருவாக்க வேண்டும்."
+
+#, java-printf-format
+msgctxt "not_selected_2"
+msgid "(not selected)"
+msgstr "(தேர்ந்தெடுக்கப்படவில்லை)"
+
+#, java-printf-format
+msgctxt "content_warning_hint"
+msgid "Write your warning here"
+msgstr "உங்கள் எச்சரிக்கையை இங்கே எழுதுங்கள்"
+
+#, java-printf-format
+msgctxt "content_hint"
+msgid "The content of your post"
+msgstr "உங்கள் இடுகையின் உள்ளடக்கம்"
+
+#, java-printf-format
+msgctxt "status"
+msgid "Post"
+msgstr "இடுகை"
+
+#, java-printf-format
+msgctxt "list_empty"
+msgid "List empty"
+msgstr "காலியாக பட்டியல்"
+
+#, java-printf-format
+msgctxt "post_from"
+msgid "Post from"
+msgstr "இருந்து இடுகை"
+
+#, java-printf-format
+msgctxt "choose_account"
+msgid "Choose your account"
+msgstr "உங்கள் கணக்கைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "response_not_json"
+msgid "API response is not JSON."
+msgstr "பநிஇ பதில் சாதொபொகு அல்ல."
+
+#, java-printf-format
+msgctxt "attachment_too_many"
+msgid "up to 4 files is allowed."
+msgstr "4 கோப்புகள் வரை அனுமதிக்கப்படுகிறது."
+
+#, java-printf-format
+msgctxt "account_select_please"
+msgid "Select the account"
+msgstr "கணக்கைத் தேர்ந்தெடு"
+
+#, java-printf-format
+msgctxt "login_failed"
+msgid "Could not log in."
+msgstr "உள்நுழைய முடியவில்லை."
+
+#, java-printf-format
+msgctxt "file_size_too_big"
+msgid "The file is bigger than the limit of %1$dMB."
+msgstr "கோப்பு %1$dமெபை வரம்பை விட பெரியது."
+
+#, java-printf-format
+msgctxt "visibility_public"
+msgid "Public"
+msgstr "பொது"
+
+#, java-printf-format
+msgctxt "visibility_unlisted"
+msgid "Unlisted"
+msgstr "பட்டியலிடப்படாதது"
+
+#, java-printf-format
+msgctxt "visibility_private"
+msgid "Followers-only"
+msgstr "பின்தொடர்பவர்கள் மட்டுமே"
+
+#, java-printf-format
+msgctxt "visibility_direct"
+msgid "Direct"
+msgstr "நேரடி"
+
+#, java-printf-format
+msgctxt "visibility_web_setting"
+msgid "Trace web app setting"
+msgstr "வலை பயன்பாட்டு அமைப்பைக் கண்டறி"
+
+#, java-printf-format
+msgctxt "visibility_account_setting"
+msgid "Trace account setting"
+msgstr "கணக்கு அமைப்பைக் கண்டறி"
+
+#, java-printf-format
+msgctxt "visibility_local_public"
+msgid "Public (local)"
+msgstr "பொது (உள்ளூர்)"
+
+#, java-printf-format
+msgctxt "visibility_local_home"
+msgid "Home (local)"
+msgstr "வீடு (உள்ளூர்)"
+
+#, java-printf-format
+msgctxt "visibility_local_followers"
+msgid "Followers-only (local)"
+msgstr "பின்தொடர்பவர்கள்-மட்டும் (உள்ளூர்)"
+
+#, java-printf-format
+msgctxt "visibility_local_unlisted"
+msgid "Unlisted (local)"
+msgstr "பட்டியலிடப்படாத (உள்ளூர்)"
+
+#, java-printf-format
+msgctxt "choose_visibility"
+msgid "Choose visibility"
+msgstr "தெரிவுநிலையைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "confirm_delete_attachment"
+msgid "Remove this attachment?"
+msgstr "இந்த இணைப்பை அகற்றவா?"
+
+#, java-printf-format
+msgctxt "post_error_contents_empty"
+msgid "Please input content text."
+msgstr "உள்ளடக்க உரையை உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "post_error_contents_warning_empty"
+msgid "Please input content warning text."
+msgstr "உள்ளடக்க எச்சரிக்கை உரையை உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "wait_previous_operation"
+msgid "Please wait until last operation is over."
+msgstr "கடைசி செயல்பாடு முடியும் வரை காத்திருங்கள்."
+
+#, java-printf-format
+msgctxt "cant_remove_boost_while_favourited"
+msgid "Can't remove boost while favourited"
+msgstr "பிடித்ததாக இருக்கும்போது ஊக்கத்தை அகற்ற முடியாது"
+
+#, java-printf-format
+msgctxt "confirm"
+msgid "Confirm"
+msgstr "உறுதிப்படுத்து"
+
+#, java-printf-format
+msgctxt "confirm_boost_from"
+msgid ""
+"Boost this status from %1$s ? It's shown to all followers and on your "
+"profile page."
+msgstr ""
+"இந்த நிலையை %1$s இலிருந்து உயர்த்தவா? இது அனைத்து பின்தொடர்பவர்களுக்கும் உங்கள் சுயவிவரப் "
+"பக்கத்திலும் காட்டப்பட்டுள்ளது."
+
+#, java-printf-format
+msgctxt "confirm_unboost_from"
+msgid "Unboost this status from %1$s ?"
+msgstr "இந்த நிலையை %1$s இலிருந்து பூச முடியுமா?"
+
+#, java-printf-format
+msgctxt "confirm_favourite_from"
+msgid ""
+"Favourite this status from %1$s ? Notification will be sent to its author."
+msgstr ""
+"%1$s இலிருந்து இந்த நிலையை பிடித்ததா? அறிவிப்பு அதன் ஆசிரியருக்கு அனுப்பப்படும்."
+
+#, java-printf-format
+msgctxt "confirm_unfavourite_from"
+msgid "Unfavourite this status from %1$s ?"
+msgstr "%1$s இலிருந்து இந்த நிலையை ஏமாற்றுகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "confirm_unbookmark_from"
+msgid "Unbookmark this status from %1$s ?"
+msgstr "இந்த நிலையை %1$s இலிருந்து புத்தகமில்லை?"
+
+#, java-printf-format
+msgctxt "display_name_favourited_by"
+msgid "%1$s favourited"
+msgstr "%1$s சாதனை"
+
+#, java-printf-format
+msgctxt "display_name_boosted_by"
+msgid "%1$s boosted"
+msgstr "%1$s உயர்த்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "display_name_replied_by"
+msgid "%1$s replied"
+msgstr "%1$s பதிலளித்தது"
+
+#, java-printf-format
+msgctxt "display_name_mentioned_by"
+msgid "%1$s mentioned"
+msgstr "%1$s குறிப்பிடப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "display_name_voted_by"
+msgid "%1$s voted"
+msgstr "%1$s வாக்களித்தது"
+
+#, java-printf-format
+msgctxt "display_name_follow_request_by"
+msgid "%1$s sent follow request"
+msgstr "%1$s அனுப்பப்பட்ட கோரிக்கை"
+
+#, java-printf-format
+msgctxt "display_name_follow_request_accepted_by"
+msgid "%1$s accepted your follow request"
+msgstr "உங்கள் பின்தொடர் கோரிக்கையை %1$s ஏற்றுக்கொண்டது"
+
+#, java-printf-format
+msgctxt "display_name_quoted_by"
+msgid "%1$s quoted"
+msgstr "%1$s மேற்கோள் காட்டப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "display_name_posted_by"
+msgid "%1$s posted"
+msgstr "%1$s இடுகையிடப்படுகின்றது"
+
+#, java-printf-format
+msgctxt "display_name_updates_post"
+msgid "%1$s updates the post"
+msgstr "%1$s இடுகையை புதுப்பிக்கிறது"
+
+#, java-printf-format
+msgctxt "display_name_references_post"
+msgid "%1$s references your post"
+msgstr "%1$s உங்கள் இடுகையை குறிப்பிடுகின்றது"
+
+#, java-printf-format
+msgctxt "display_name_reaction_by"
+msgid "%1$s reactioned"
+msgstr "%1$s எதிர்வினை"
+
+#, java-printf-format
+msgctxt "display_name_followed_by"
+msgid "%1$s is following you"
+msgstr "%1$s உங்களைப் பின்தொடர்கின்றார்"
+
+#, java-printf-format
+msgctxt "display_name_unfollowed_by"
+msgid "%1$s unfollowed you"
+msgstr "%1$s உங்களைப் பின்தொடரவில்லை"
+
+#, java-printf-format
+msgctxt "display_name_signed_up"
+msgid "%1$s signed up on your server"
+msgstr "உங்கள் சேவையகத்தில் %1$s பதிவு செய்யப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "display_name_report"
+msgid "%1$s reported."
+msgstr "%1$s அறிக்கை."
+
+#, java-printf-format
+msgctxt "account"
+msgid "Account"
+msgstr "கணக்கு"
+
+#, java-printf-format
+msgctxt "account_setting"
+msgid "Account settings"
+msgstr "கணக்கு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "setting"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "app_setting"
+msgid "App settings"
+msgstr "பயன்பாட்டு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "column_list"
+msgid "Columns list"
+msgstr "நெடுவரிசை பட்டியல்"
+
+#, java-printf-format
+msgctxt "update_access_token"
+msgid "Update the access token"
+msgstr "அணுகல் கிள்ளாக்கைப் புதுப்பி"
+
+#, java-printf-format
+msgctxt "account_remove"
+msgid "Remove this account"
+msgstr "இந்த கணக்கை அகற்று"
+
+#, java-printf-format
+msgctxt "actions"
+msgid "Actions"
+msgstr "செயல்கள்"
+
+#, java-printf-format
+msgctxt "default_status_visibility"
+msgid "Default visibility"
+msgstr "இயல்புநிலை தெரிவுநிலை"
+
+#, java-printf-format
+msgctxt "confirm_before_boost"
+msgid "Confirm before boosting"
+msgstr "அதிகரிப்பதற்கு முன் உறுதிப்படுத்து"
+
+#, java-printf-format
+msgctxt "sensitive_content_default_open"
+msgid "Showing sensitive attachments by default"
+msgstr "இயல்பாகவே முக்கியமான இணைப்புகளைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "cw_default_open"
+msgid "Expand CWed content by default"
+msgstr "முன்னிருப்பாக CWED உள்ளடக்கத்தை விரிவாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "user"
+msgid "User"
+msgstr "பயனர்"
+
+#, java-printf-format
+msgctxt "confirm_account_remove"
+msgid ""
+"This account will be deleted and all the columns will be removed.\n"
+"Are you sure?"
+msgstr ""
+"இந்த கணக்கு நீக்கப்பட்டு அனைத்து நெடுவரிசைகளும் அகற்றப்படும்.\n"
+" நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "user_name_not_match"
+msgid "Username not match"
+msgstr "பயனர்பெயர் பொருந்தவில்லை"
+
+#, java-printf-format
+msgctxt "access_token_updated_for"
+msgid "%1$s's access token was updated."
+msgstr "%1$s இன் அணுகல் கிள்ளாக்கு புதுப்பிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "back_to_column_list"
+msgid "Go to column list when pressing \"Back\""
+msgstr "\"பேக்\" ஐ அழுத்தும்போது நெடுவரிசை பட்டியலுக்குச் செல்"
+
+#, java-printf-format
+msgctxt "account_empty"
+msgid "Account is not set up.Please add account."
+msgstr "கணக்கு அமைக்கப்படவில்லை. கணக்கைச் சேர்."
+
+#, java-printf-format
+msgctxt "dont_confirm_before_close_column"
+msgid "Close column without confirmation"
+msgstr "உறுதிப்படுத்தாமல் நெடுவரிசையை மூடு"
+
+#, java-printf-format
+msgctxt "drag_handle"
+msgid "Drag handle"
+msgstr "இழுவை கைப்பிடி"
+
+#, java-printf-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "column_list_desc"
+msgid ""
+"Swipe to delete. Long press to sort. Changes will be applied when reloading "
+"the view."
+msgstr ""
+"நீக்க ச்வைப். வரிசைப்படுத்த நீண்ட அழுத்தவும். பார்வையை மீண்டும் ஏற்றும்போது மாற்றங்கள் "
+"பயன்படுத்தப்படும்."
+
+#, java-printf-format
+msgctxt "last_selection"
+msgid "Last selection"
+msgstr "கடைசி தேர்வு"
+
+#, java-printf-format
+msgctxt "column_index"
+msgid "%1$d/%2$d"
+msgstr "%1$d/%2$d"
+
+#, java-printf-format
+msgctxt "reply_to_this_status"
+msgid "Reply to this post:"
+msgstr "இந்த இடுகைக்கு பதில்:"
+
+#, java-printf-format
+msgctxt "cant_change_account_when_attachment_specified"
+msgid "You can't switch accounts while there is media attachment."
+msgstr "மீடியா இணைப்பு இருக்கும்போது நீங்கள் கணக்குகளை மாற்ற முடியாது."
+
+#, java-printf-format
+msgctxt "column"
+msgid "Column"
+msgstr "நெடுவரிசை"
+
+#, java-printf-format
+msgctxt "conversation_view"
+msgid "Conversation view"
+msgstr "உரையாடல் பார்வை"
+
+#, java-printf-format
+msgctxt "conversation_around"
+msgid "Conversation around post:%1$s"
+msgstr "இடுகையைச் சுற்றி உரையாடல்:%1$s"
+
+#, java-printf-format
+msgctxt "instance_not_need_slash"
+msgid "Hostname of the server, without '/', '@'."
+msgstr "சேவையகத்தின் ஓச்ட்பெயர், '/', '@' இல்லாமல்."
+
+#, java-printf-format
+msgctxt "mail_address_not_contains_at_mark"
+msgid "Use e-mails that contains '@' and '.'"
+msgstr "'@' மற்றும் '.' கொண்ட மின்னஞ்சல்களைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "instance_hint"
+msgid "ex) mastodon.social"
+msgstr "எ.கா) Mastodon.ocial"
+
+#, java-printf-format
+msgctxt "mail_hint"
+msgid "ex) your@e-mail.address"
+msgstr "ex) your@e-mail.address"
+
+#, java-printf-format
+msgctxt "unfollow"
+msgid "Unfollow"
+msgstr "பின்தொடரவும்"
+
+#, java-printf-format
+msgctxt "follow_succeeded"
+msgid "Followed"
+msgstr "தொடர்ந்து"
+
+#, java-printf-format
+msgctxt "unfollow_succeeded"
+msgid "Unfollowed"
+msgstr "பின்தொடரப்பட்டது"
+
+#, java-printf-format
+msgctxt "mute"
+msgid "Mute"
+msgstr "முடக்கு"
+
+#, java-printf-format
+msgctxt "unmute"
+msgid "Unmute"
+msgstr "ஊன்"
+
+#, java-printf-format
+msgctxt "block"
+msgid "Block"
+msgstr "தொகுதி"
+
+#, java-printf-format
+msgctxt "unblock"
+msgid "Unblock"
+msgstr "தடை"
+
+#, java-printf-format
+msgctxt "report"
+msgid "Report"
+msgstr "அறிக்கை"
+
+#, java-printf-format
+msgctxt "cant_follow_locked_user"
+msgid "Could not follow the non-public user"
+msgstr "பொது அல்லாத பயனரைப் பின்பற்ற முடியவில்லை"
+
+#, java-printf-format
+msgctxt "unmute_succeeded"
+msgid "Unmuted"
+msgstr "அன்ச்டட்"
+
+#, java-printf-format
+msgctxt "mute_succeeded"
+msgid "Muted"
+msgstr "முடக்கிய"
+
+#, java-printf-format
+msgctxt "unblock_succeeded"
+msgid "Unblocked"
+msgstr "தடைசெய்யப்பட்டது"
+
+#, java-printf-format
+msgctxt "block_succeeded"
+msgid "Blocked"
+msgstr "தடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "report_reason"
+msgid "Reason for reporting"
+msgstr "புகாரளிப்பதற்கான காரணம்"
+
+#, java-printf-format
+msgctxt "comment_empty"
+msgid "You need to clarify your reason for reporting"
+msgstr "புகாரளிப்பதற்கான உங்கள் காரணத்தை நீங்கள் தெளிவுபடுத்த வேண்டும்"
+
+#, java-printf-format
+msgctxt "report_completed"
+msgid "Reported"
+msgstr "அறிக்கை"
+
+#, java-printf-format
+msgctxt "mention"
+msgid "Mention"
+msgstr "குறிப்பு"
+
+#, java-printf-format
+msgctxt "hashtag_of"
+msgid "Hashtag :#%1$s"
+msgstr "ஏச்டேக்:#%1$s"
+
+#, java-printf-format
+msgctxt "open_in_account"
+msgid "Open with %1$s"
+msgstr "%1$s உடன் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "open_web_page"
+msgid "Open web page"
+msgstr "வலைப்பக்கத்தைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "open_web_on_host"
+msgid "Open web page on %1$s"
+msgstr "வலைப்பக்கத்தை %1$s இல் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "follow_from_another_account"
+msgid "Follow from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து பின்பற்றவும்"
+
+#, java-printf-format
+msgctxt "search_of"
+msgid "Search \"%1$s\""
+msgstr "\"%1$s\" ஐத் தேடுங்கள்"
+
+#, java-printf-format
+msgctxt "search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "resolve_non_local_account"
+msgid "Load non local account"
+msgstr "உள்ளக கணக்கை ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "question"
+msgid "?"
+msgstr "?"
+
+#, java-printf-format
+msgctxt "confirm_close_column"
+msgid "Close this column?"
+msgstr "இந்த நெடுவரிசையை மூடவா?"
+
+#, java-printf-format
+msgctxt "favourite_from_another_account"
+msgid "Favourite from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து பிடித்தது"
+
+#, java-printf-format
+msgctxt "boost_from_another_account"
+msgid "Boost from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து உயர்த்தவும்"
+
+#, java-printf-format
+msgctxt "reaction_from_another_account"
+msgid "Reaction from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து எதிர்வினை"
+
+#, java-printf-format
+msgctxt "app_about"
+msgid "About this app"
+msgstr "இந்த பயன்பாடு பற்றி"
+
+#, java-printf-format
+msgctxt "oss_license"
+msgid "OSS license"
+msgstr "OSS உரிமம்"
+
+#, java-printf-format
+msgctxt "please_rate"
+msgid "Please take the time to review the app."
+msgstr "பயன்பாட்டை மதிப்பாய்வு செய்ய நேரம் ஒதுக்குங்கள்."
+
+#, java-printf-format
+msgctxt "rate_on_store"
+msgid "Rate on store"
+msgstr "கடையில் விகிதம்"
+
+#, java-printf-format
+msgctxt "please_donate"
+msgid "Please support this app."
+msgstr "இந்த பயன்பாட்டை ஆதரிக்கவும்."
+
+#, java-printf-format
+msgctxt "version_is"
+msgid "Version %1$s"
+msgstr "பதிப்பு %1$s"
+
+#, java-printf-format
+msgctxt "open_instance_website"
+msgid "Open https://%1$s/"
+msgstr "திறந்த https: //%1$s/"
+
+#, java-printf-format
+msgctxt "boost"
+msgid "Boost"
+msgstr "பூச்ட்"
+
+#, java-printf-format
+msgctxt "favourite"
+msgid "Favourite"
+msgstr "பிடித்த"
+
+#, java-printf-format
+msgctxt "mention2"
+msgid "Mention"
+msgstr "குறிப்பு"
+
+#, java-printf-format
+msgctxt "notification_count"
+msgid "%1$d notifications"
+msgstr "%1$d அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "app_exit"
+msgid "Close the app"
+msgstr "பயன்பாட்டை மூடு"
+
+#, java-printf-format
+msgctxt "ask_always"
+msgid "Always ask"
+msgstr "எப்போதும் கேளுங்கள்"
+
+#, java-printf-format
+msgctxt "open_column_list"
+msgid "Open column list"
+msgstr "நெடுவரிசை பட்டியலைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "back_button_action"
+msgid "Action of the \"Back\" button"
+msgstr "\"பின்\" பொத்தானின் செயல்"
+
+#, java-printf-format
+msgctxt "prior_local_url_when_open_attachment"
+msgid "prior local URL when open attachment"
+msgstr "திறந்த இணைப்பு போது முந்தைய உள்ளக முகவரி"
+
+#, java-printf-format
+msgctxt "disable_fast_scroller"
+msgid "Disable fast scroller (app restart required)"
+msgstr "ஃபாச்ட் ச்க்ரோலரை முடக்கு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "delete_succeeded"
+msgid "Deleted"
+msgstr "நீக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "developer"
+msgid "Developer"
+msgstr "உருவாக்குநர்"
+
+#, java-printf-format
+msgctxt "with_attachment"
+msgid "with attachment"
+msgstr "இணைப்புடன்"
+
+#, java-printf-format
+msgctxt "with_highlight"
+msgid "with highlight"
+msgstr "சிறப்பம்சத்துடன்"
+
+#, java-printf-format
+msgctxt "column_is_busy"
+msgid "Column is busy"
+msgstr "நெடுவரிசை பிசியாக உள்ளது"
+
+#, java-printf-format
+msgctxt "read_gap"
+msgid "Load missing messages"
+msgstr "காணாமல் போன செய்திகளை ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "muted_users"
+msgid "Muted users"
+msgstr "முடக்கிய பயனர்கள்"
+
+#, java-printf-format
+msgctxt "blocked_users"
+msgid "Blocked users"
+msgstr "தடுக்கப்பட்ட பயனர்கள்"
+
+#, java-printf-format
+msgctxt "end_of_list"
+msgid "end of the list"
+msgstr "பட்டியலின் முடிவு"
+
+#, java-printf-format
+msgctxt "send_text"
+msgid "Send text to apps"
+msgstr "பயன்பாடுகளுக்கு உரையை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "send_header_date"
+msgid "Date"
+msgstr "திகதி"
+
+#, java-printf-format
+msgctxt "send_header_from_acct"
+msgid "From-Acct"
+msgstr "முதல் ACCCT"
+
+#, java-printf-format
+msgctxt "send_header_from_name"
+msgid "From-Name"
+msgstr "பெயரிலிருந்து"
+
+#, java-printf-format
+msgctxt "send_header_content_warning"
+msgid "Content-Warning"
+msgstr "உள்ளடக்கம்-எச்சரிக்கை"
+
+#, java-printf-format
+msgctxt "send_header_url"
+msgid "Status-URL"
+msgstr "நிலை-உர்எல்"
+
+#, java-printf-format
+msgctxt "dont_close_column"
+msgid "Don't close column"
+msgstr "நெடுவரிசையை மூட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "column_has_dont_close_option"
+msgid "You can't close this column (check column settings)."
+msgstr ""
+"இந்த நெடுவரிசையை நீங்கள் மூட முடியாது (நெடுவரிசை அமைப்புகளை சரிபார்க்கவும்)."
+
+#, java-printf-format
+msgctxt "ui_theme"
+msgid "UI theme (app restart required)"
+msgstr "இடைமுகம் கருப்பொருள் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "theme_light"
+msgid "Light"
+msgstr "ஒளி"
+
+#, java-printf-format
+msgctxt "theme_dark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, java-printf-format
+msgctxt "theme_mastodon_dark"
+msgid "Mastodon Dark"
+msgstr "மாச்டோடன் இருண்ட"
+
+#, java-printf-format
+msgctxt "dont_show_boost"
+msgid "Don't show boosts"
+msgstr "ஊக்கங்களைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "dont_show_reply"
+msgid "Don't show replies"
+msgstr "பதில்களைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "regex_filter"
+msgid "Regex filter"
+msgstr "ரீசெக்ச் வடிகட்டி"
+
+#, java-printf-format
+msgctxt "regex_error"
+msgid "Regex error"
+msgstr "வழக்கவெளி பிழை"
+
+#, java-printf-format
+msgctxt "notification_delete"
+msgid "Empty notifications"
+msgstr "வெற்று அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "confirm_delete_notification"
+msgid ""
+"Your notification(s) on the server will be deleted.\n"
+"Are you sure?"
+msgstr ""
+"சேவையகத்தில் உங்கள் அறிவிப்பு (கள்) நீக்கப்படும்.\n"
+" நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "search_for"
+msgid "Search %1$s"
+msgstr "தேடல் %1$s"
+
+#, java-printf-format
+msgctxt "spoil_visibility_for_account"
+msgid "Visibility is spoiled for account."
+msgstr "கணக்கிற்காக தெரிவுநிலை கெட்டுப்போகிறது."
+
+#, java-printf-format
+msgctxt "contributor"
+msgid "contributor"
+msgstr "பங்களிப்பாளர்"
+
+#, java-printf-format
+msgctxt "thanks_for"
+msgid "Thanks for %1$s."
+msgstr "%1$s க்கு நன்றி."
+
+#, java-printf-format
+msgctxt "simple_list"
+msgid "Reduce buttons in timeline (app restart required)"
+msgstr "காலவரிசையில் பொத்தான்களைக் குறைக்கவும் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "refresh_after_ummute"
+msgid "After unmute items, reloading columns to refresh."
+msgstr ""
+"ஆன்மேட் உருப்படிகளுக்குப் பிறகு, புதுப்பிக்க நெடுவரிசைகளை மீண்டும் ஏற்றவும்."
+
+#, java-printf-format
+msgctxt "muted_app"
+msgid "Muted apps"
+msgstr "முடக்கிய பயன்பாடுகள்"
+
+#, java-printf-format
+msgctxt "application_is"
+msgid "app: %1$s"
+msgstr "பயன்பாடு: %1$s"
+
+#, java-printf-format
+msgctxt "mute_app_of"
+msgid "mute app \"%1$s\""
+msgstr "முடக்கு பயன்பாடு \"%1$s\""
+
+#, java-printf-format
+msgctxt "app_was_muted"
+msgid "App was muted."
+msgstr "பயன்பாடு முடக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "favourite_succeeded"
+msgid "Favourited"
+msgstr "சாதகமானது"
+
+#, java-printf-format
+msgctxt "unfavourite_succeeded"
+msgid "Unfavourited"
+msgstr "முதலீடு செய்யாதது"
+
+#, java-printf-format
+msgctxt "bookmark"
+msgid "Bookmark"
+msgstr "புத்தககுறி"
+
+#, java-printf-format
+msgctxt "bookmark_from_another_account"
+msgid "Bookmark from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து புக்மார்க்கு"
+
+#, java-printf-format
+msgctxt "bookmark_succeeded"
+msgid "Bookmarked"
+msgstr "புக்மார்க்கு செய்யப்பட்டது"
+
+#, java-printf-format
+msgctxt "bookmarks"
+msgid "Bookmarks"
+msgstr "புக்மார்க்குகள்"
+
+#, java-printf-format
+msgctxt "unbookmark_succeeded"
+msgid "Unbookmarked"
+msgstr "நூல் குறிக்கப்படாதது"
+
+#, java-printf-format
+msgctxt "boost_succeeded"
+msgid "Boosted"
+msgstr "உயர்த்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "unboost_succeeded"
+msgid "Unboosted"
+msgstr "பூச்ட்ட்"
+
+#, java-printf-format
+msgctxt "reaction_succeeded"
+msgid "Reacted"
+msgstr "எதிர்வினை"
+
+#, java-printf-format
+msgctxt "notification_option"
+msgid "notification option"
+msgstr "அறிவிப்பு விருப்பம்"
+
+#, java-printf-format
+msgctxt "sound"
+msgid "sound"
+msgstr "ஒலி"
+
+#, java-printf-format
+msgctxt "vibration"
+msgid "vibration"
+msgstr "அதிர்வு"
+
+#, java-printf-format
+msgctxt "led"
+msgid "LED"
+msgstr "எல்.ஈ.டி"
+
+#, java-printf-format
+msgctxt "follow_requests"
+msgid "Follow requests"
+msgstr "கோரிக்கைகளைப் பின்பற்றவும்"
+
+#, java-printf-format
+msgctxt "follow_request_ok"
+msgid "Accept the follow request"
+msgstr "பின்தொடர் கோரிக்கையை ஏற்றுக்கொள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "follow_request_ng"
+msgid "Decline the follow request"
+msgstr "பின்தொடர் கோரிக்கையை நிராகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "follow_request_rejected"
+msgid "You declined %1$s's follow request."
+msgstr "நீங்கள் %1$s இன் பின்தொடர்தல் கோரிக்கையை குறைத்தீர்கள்."
+
+#, java-printf-format
+msgctxt "follow_request_authorized"
+msgid "You accepted %1$s's follow request."
+msgstr "%1$s இன் பின்தொடர்தல் கோரிக்கையை நீங்கள் ஏற்றுக்கொண்டீர்கள்."
+
+#, java-printf-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "pseudo_account"
+msgid "Pseudo account"
+msgstr "போலி கணக்கு"
+
+#, java-printf-format
+msgctxt "pseudo_account_desc"
+msgid "Read only public data on the server without log in."
+msgstr "உள்நுழையாமல் சேவையகத்தில் பொது தரவை மட்டும் படிக்கவும்."
+
+#, java-printf-format
+msgctxt "server_confirmed"
+msgid "Server confirmed."
+msgstr "சேவையகம் உறுதிப்படுத்தப்பட்டது."
+
+#, java-printf-format
+msgctxt "not_available_for_pseudo_account"
+msgid "Unavailable for pseudo account"
+msgstr "போலி கணக்கிற்கு கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "not_available_for_misskey_account"
+msgid "Unavailable for Misskey account"
+msgstr "மிச்கி கணக்கிற்கு கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "not_available_for_mastodon_account"
+msgid "Unavailable for Mastodon account"
+msgstr "மாச்டோடன் கணக்கிற்கு கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "exit_app_when_close_protected_column"
+msgid ""
+"Exit app when trying to close protected column with \"Back\" button without "
+"confirmation"
+msgstr ""
+"உறுதிப்படுத்தப்படாமல் பாதுகாக்கப்பட்ட நெடுவரிசையை \"பின்\" பொத்தானைக் கொண்டு மூட "
+"முயற்சிக்கும்போது பயன்பாட்டிலிருந்து வெளியேறவும்"
+
+#, java-printf-format
+msgctxt "resize_image"
+msgid "Resize attachment image (JPEG, PNG)"
+msgstr "இணைப்பு படம் (JPEG, Png) மறுஅளவிடுங்கள்"
+
+#, java-printf-format
+msgctxt "dont_resize"
+msgid "Don't resize"
+msgstr "மறுஅளவிட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "long_side_pixel"
+msgid "Resize to %1$d pixels"
+msgstr "%1$d பிக்சல்களுக்கு மறுஅளவிடுங்கள்"
+
+#, java-printf-format
+msgctxt "resize_square_pixels"
+msgid "Resize to %1$d square pixels (equiv. %2$dx%2$d)"
+msgstr "%1$d சதுர பிக்சல்களுக்கு மறுஅளவிடுங்கள் (சமம். %2$dx %2$d)"
+
+#, java-printf-format
+msgctxt "resize_square_pixels_2"
+msgid "Resize to %1$d square pixels (equiv. %2$s)"
+msgstr "%1$d சதுர பிக்சல்களுக்கு (சமம். %2$s)"
+
+#, java-printf-format
+msgctxt "image_capture"
+msgid "Take a picture"
+msgstr "படம் எடுக்கவும்"
+
+#, java-printf-format
+msgctxt "video_capture"
+msgid "Capture a video"
+msgstr "வீடியோவைப் பிடிக்கவும்"
+
+#, java-printf-format
+msgctxt "voice_capture"
+msgid "Capture a voice"
+msgstr "ஒரு குரலைப் பிடிக்கவும்"
+
+#, java-printf-format
+msgctxt "attachment_uploading"
+msgid "Uploading media attachment…"
+msgstr "மீடியா இணைப்பைப் பதிவேற்றுவது…"
+
+#, java-printf-format
+msgctxt "attachment_uploaded"
+msgid "Media attachment was uploaded."
+msgstr "ஊடக இணைப்பு பதிவேற்றப்பட்டது."
+
+#, java-printf-format
+msgctxt "actions_for_status"
+msgid "Actions for this post"
+msgstr "இந்த இடுகைக்கான செயல்கள்"
+
+#, java-printf-format
+msgctxt "actions_for_user"
+msgid "Actions for this user"
+msgstr "இந்த பயனருக்கான செயல்கள்"
+
+#, java-printf-format
+msgctxt "open_profile"
+msgid "Open profile"
+msgstr "திறந்த சுயவிவரம்"
+
+#, java-printf-format
+msgctxt "send_message"
+msgid "Send message"
+msgstr "செய்தி அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "send_message_from_another_account"
+msgid "Send message from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து செய்தியை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "open_profile_from_another_account"
+msgid "Open profile from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து திறந்த சுயவிவரம்"
+
+#, java-printf-format
+msgctxt "confirm_block_user"
+msgid "Block %1$s?"
+msgstr "தொகுதி %1$s?"
+
+#, java-printf-format
+msgctxt "confirm_mute_user"
+msgid "Mute %1$s?"
+msgstr "முடக்கு %1$s?"
+
+#, java-printf-format
+msgctxt "confirm_delete_status"
+msgid "Delete this post?"
+msgstr "இந்த இடுகையை நீக்கவா?"
+
+#, java-printf-format
+msgctxt "nickname_label"
+msgid "Nickname and color (if specified, it's shown instead of full acct)"
+msgstr ""
+"புனைப்பெயர் மற்றும் வண்ணம் (குறிப்பிடப்பட்டால், இது முழு ACTT க்கு பதிலாக காட்டப்பட்டுள்ளது)"
+
+#, java-printf-format
+msgctxt "color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, java-printf-format
+msgctxt "reset"
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#, java-printf-format
+msgctxt "edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, java-printf-format
+msgctxt "acct"
+msgid "Acct"
+msgstr "Acct"
+
+#, java-printf-format
+msgctxt "preview"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#, java-printf-format
+msgctxt "nickname"
+msgid "Nickname"
+msgstr "புனைப்பெயர்"
+
+#, java-printf-format
+msgctxt "text_color"
+msgid "Text color"
+msgstr "உரை நிறம்"
+
+#, java-printf-format
+msgctxt "background_color"
+msgid "Background color"
+msgstr "பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "discard"
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "nickname_and_color_and_notification_sound"
+msgid "Nickname, Color, Notification sound"
+msgstr "புனைப்பெயர், நிறம், அறிவிப்பு ஒலி"
+
+#, java-printf-format
+msgctxt "nickname_and_color"
+msgid "Nickname and Color"
+msgstr "புனைப்பெயர் மற்றும் வண்ணம்"
+
+#, java-printf-format
+msgctxt "nickname_applied_after_reload"
+msgid "The change of nickname/color will be applied after reload column."
+msgstr ""
+"மறுஏற்றம் நெடுவரிசைக்குப் பிறகு புனைப்பெயர்/வண்ணத்தின் மாற்றம் பயன்படுத்தப்படும்."
+
+#, java-printf-format
+msgctxt "show_follow_button_in_button_bar"
+msgid "Show \"Follow\" button in button bar (app restart required)"
+msgstr ""
+"பொத்தான் பட்டியில் \"பின்தொடர்\" பொத்தானைக் காட்டு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "follow_requested"
+msgid "Follow request was sent."
+msgstr "பின்தொடர் கோரிக்கை அனுப்பப்பட்டது."
+
+#, java-printf-format
+msgctxt "confirmation"
+msgid "Confirmation"
+msgstr "உறுதிப்படுத்தல்"
+
+#, java-printf-format
+msgctxt "follow_locked_user"
+msgid "Follow locked user"
+msgstr "பூட்டப்பட்ட பயனரைப் பின்தொடரவும்"
+
+#, java-printf-format
+msgctxt "dont_confirm_again"
+msgid "Don't confirm again"
+msgstr "மீண்டும் உறுதிப்படுத்த வேண்டாம்"
+
+#, java-printf-format
+msgctxt "confirm_post_from"
+msgid "Post from %1$s?"
+msgstr "%1$s இலிருந்து இடுகையிடவா?"
+
+#, java-printf-format
+msgctxt "confirm_follow_who_from"
+msgid "Follow %1$s from %2$s?"
+msgstr "%2$s இலிருந்து %1$s ஐப் பின்பற்றவா?"
+
+#, java-printf-format
+msgctxt "confirm_unfollow_who_from"
+msgid "Unfollow %1$s from %2$s?"
+msgstr "%2$s இலிருந்து %1$s ஐப் பின்தொடர்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "confirm_follow_request_who_from"
+msgid "Send follow request from %2$s to the locked user %1$s?"
+msgstr ""
+"பூட்டப்பட்ட பயனருக்கு %2$s இலிருந்து பின்தொடர் கோரிக்கையை அனுப்பவும் %1$s?"
+
+#, java-printf-format
+msgctxt "follow_request_cant_remove_by_sender"
+msgid "seems the follow request can't be removed by its sender…"
+msgstr ""
+"பின்தொடர்தல் கோரிக்கையை அதன் அனுப்புநரால் அகற்ற முடியாது என்று தெரிகிறது…"
+
+#, java-printf-format
+msgctxt "profile"
+msgid "Profile"
+msgstr "சுயவிவரம்"
+
+#, java-printf-format
+msgctxt "profile_of"
+msgid "%1$s's profile"
+msgstr "%1$s இன் சுயவிவரம்"
+
+#, java-printf-format
+msgctxt "it_is_you"
+msgid "It's you."
+msgstr "இது நீங்கள்."
+
+#, java-printf-format
+msgctxt "refresh_after_toot"
+msgid "Refresh after posting"
+msgstr "இடுகையிட்ட பிறகு புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "refresh_scroll_to_toot"
+msgid "Refresh, scroll to the post"
+msgstr "புதுப்பிக்கவும், இடுகைக்கு உருட்டவும்"
+
+#, java-printf-format
+msgctxt "refresh_no_scroll"
+msgid "Refresh, don't scroll"
+msgstr "புதுப்பிக்கவும், உருட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "dont_refresh"
+msgid "Don't refresh"
+msgstr "புதுப்பிக்க வேண்டாம்"
+
+#, java-printf-format
+msgctxt "boosted_by"
+msgid "Boosted by…"
+msgstr "உயர்த்தப்பட்டது…"
+
+#, java-printf-format
+msgctxt "favourited_by"
+msgid "Favourited by…"
+msgstr "வழங்கியவர்…"
+
+#, java-printf-format
+msgctxt "hashtag"
+msgid "hashtag"
+msgstr "ஏச்டேக்"
+
+#, java-printf-format
+msgctxt "conversation"
+msgid "conversation"
+msgstr "உரையாடல்"
+
+#, java-printf-format
+msgctxt "account_picker_open_user_who"
+msgid "Account to open user %1$s?"
+msgstr "பயனர் %1$s ஐ திறக்க கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_add_timeline_of"
+msgid "Account to open %1$s?"
+msgstr "%1$s ஐ திறக்க கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_open_setting"
+msgid "Account to open setting?"
+msgstr "திறந்த அமைப்பிற்கு கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_favourite"
+msgid "Account to favourite?"
+msgstr "பிடித்ததற்கு கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_bookmark"
+msgid "Account to bookmark?"
+msgstr "புக்மார்க்கு கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_boost"
+msgid "Account to boost?"
+msgstr "அதிகரிக்க கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_reaction"
+msgid "Account to react?"
+msgstr "எதிர்வினையாற்ற கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_follow"
+msgid "Account to follow?"
+msgstr "பின்பற்ற வேண்டிய கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_toot"
+msgid "Account to post?"
+msgstr "இடுகையிட கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_mute"
+msgid "Account to mute user %1$s?"
+msgstr "முடக்கு பயனர் %1$s க்கு கணக்கு?"
+
+#, java-printf-format
+msgctxt "account_picker_block"
+msgid "Account to block user %1$s?"
+msgstr "பயனர் %1$s ஐத் தடுக்க கணக்கு?"
+
+#, java-printf-format
+msgctxt "qr_code"
+msgid "QR code"
+msgstr "QR குறியீடு"
+
+#, java-printf-format
+msgctxt "generating_qr_code"
+msgid "Making QR code…"
+msgstr "QR குறியீட்டை உருவாக்குதல்…"
+
+#, java-printf-format
+msgctxt "media_attachment"
+msgid "Media attachment"
+msgstr "ஊடக இணைப்பு"
+
+#, java-printf-format
+msgctxt "visibility"
+msgid "Visibility"
+msgstr "விழிமை"
+
+#, java-printf-format
+msgctxt "clear"
+msgid "Clear"
+msgstr "தெளிவான"
+
+#, java-printf-format
+msgctxt "toot"
+msgid "Post"
+msgstr "இடுகை"
+
+#, java-printf-format
+msgctxt "clear_text"
+msgid "Clear text"
+msgstr "உரையை அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "clear_text_and_media"
+msgid "Clear text and media"
+msgstr "உரை மற்றும் ஊடகங்களை அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "menu"
+msgid "Menu"
+msgstr "பட்டியல்"
+
+#, java-printf-format
+msgctxt "open_in_pseudo_account"
+msgid "Open in emulated account on %1$s"
+msgstr "%1$s இல் பின்பற்றப்பட்ட கணக்கில் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "color_and_background"
+msgid "Color and Background…"
+msgstr "நிறம் மற்றும் பின்னணி…"
+
+#, java-printf-format
+msgctxt "column_background"
+msgid "Column background"
+msgstr "நெடுவரிசை பின்னணி"
+
+#, java-printf-format
+msgctxt "pick_image"
+msgid "Pick an image"
+msgstr "ஒரு படத்தைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "pick_images_or_video"
+msgid "Pick images or video…"
+msgstr "படங்கள் அல்லது வீடியோவைத் தேர்ந்தெடுக்கவும்…"
+
+#, java-printf-format
+msgctxt "pick_images"
+msgid "Pick image(s)…"
+msgstr "படங்களைத் தேர்ந்தெடு)…"
+
+#, java-printf-format
+msgctxt "pick_videos"
+msgid "Pick video(s)…"
+msgstr "வீடியோ (களை) தேர்ந்தெடு…"
+
+#, java-printf-format
+msgctxt "pick_audios"
+msgid "Choose audio file(s)…"
+msgstr "ஆடியோ கோப்பு (களை) தேர்வு செய்யவும்…"
+
+#, java-printf-format
+msgctxt "image_alpha"
+msgid "Image alpha"
+msgstr "உருவ ஆல்பா"
+
+#, java-printf-format
+msgctxt "image"
+msgid "Image"
+msgstr "படம்"
+
+#, java-printf-format
+msgctxt "column_header"
+msgid "Column header"
+msgstr "நெடுவரிசை தலைப்பு"
+
+#, java-printf-format
+msgctxt "foreground_color"
+msgid "Foreground color"
+msgstr "முன்புற நிறம்"
+
+#, java-printf-format
+msgctxt "hashtag_and_visibility_not_match"
+msgid ""
+"this message contains hashtags, but message visibility is not public. "
+"normally hashtags are searchable only in public messages. Are you sure?"
+msgstr ""
+"இந்த செய்தியில் ஏச்டேக்குகள் உள்ளன, ஆனால் செய்தி தெரிவுநிலை பொதுவில் இல்லை. பொதுவாக "
+"ஏச்டேக்குகள் பொது செய்திகளில் மட்டுமே தேடப்படுகின்றன. நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "copy_st"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, java-printf-format
+msgctxt "send"
+msgid "Send"
+msgstr "அனுப்பு"
+
+#, java-printf-format
+msgctxt "mute_word"
+msgid "Ban word"
+msgstr "வார்த்தையை தடை செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "select_and_copy"
+msgid "Select and copy"
+msgstr "தேர்ந்தெடுத்து நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "search_web"
+msgid "Web search"
+msgstr "வலை தேடல்"
+
+#, java-printf-format
+msgctxt "muted_word"
+msgid "Banned words"
+msgstr "தடைசெய்யப்பட்ட வார்த்தைகள்"
+
+#, java-printf-format
+msgctxt "word_was_muted"
+msgid "The word was banned."
+msgstr "சொல் தடை செய்யப்பட்டது."
+
+#, java-printf-format
+msgctxt "copy_complete"
+msgid "Clipboard updated."
+msgstr "இடைநிலைப்பலகை புதுப்பிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "footer_color"
+msgid "Footer's color"
+msgstr "அடிக்குறிப்பின் நிறம்"
+
+#, java-printf-format
+msgctxt "button_background_color"
+msgid "Button's background color"
+msgstr "பொத்தானின் பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "button_foreground_color"
+msgid "Button's foreground color"
+msgstr "பொத்தானின் முன்புற நிறம்"
+
+#, java-printf-format
+msgctxt "tab_background_color"
+msgid "Tab's background color"
+msgstr "தாவலின் பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "tab_divider_color"
+msgid "Tab's divider color"
+msgstr "தாவலின் வகுப்பி நிறம்"
+
+#, java-printf-format
+msgctxt "open_status_from"
+msgid "Open status from"
+msgstr "இருந்து திறந்த நிலை"
+
+#, java-printf-format
+msgctxt "help_translation"
+msgid "Help improve the translation"
+msgstr "மொழிபெயர்ப்பை மேம்படுத்த உதவுங்கள்"
+
+#, java-printf-format
+msgctxt "dont_use_streaming_api"
+msgid "Refresh the feeds manually"
+msgstr "ஊட்டங்களை கைமுறையாக புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "dont_refresh_on_activity_resume"
+msgid "Disable auto-refresh when returning to the app."
+msgstr "பயன்பாட்டிற்குத் திரும்பும்போது ஆட்டோ-ரஃப்ரெசை முடக்கு."
+
+#, java-printf-format
+msgctxt "status_id_conversion_failed"
+msgid "Could not convert status ID."
+msgstr "நிலை ஐடியை மாற்ற முடியவில்லை."
+
+#, java-printf-format
+msgctxt "already_favourited"
+msgid "Already favourited."
+msgstr "ஏற்கனவே சாதகமானது."
+
+#, java-printf-format
+msgctxt "already_bookmarked"
+msgid "Already bookmarked."
+msgstr "ஏற்கனவே புக்மார்க்கு செய்யப்பட்டது."
+
+#, java-printf-format
+msgctxt "already_boosted"
+msgid "Already boosted."
+msgstr "ஏற்கனவே உயர்த்தப்பட்டது."
+
+#, java-printf-format
+msgctxt "dont_screen_off"
+msgid "Keep the screen on when using the app."
+msgstr "பயன்பாட்டைப் பயன்படுத்தும் போது திரையை வைத்திருங்கள்."
+
+#, java-printf-format
+msgctxt "hide_media_default"
+msgid "Hide all media"
+msgstr "எல்லா ஊடகங்களையும் மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "cant_close_column_by_back_button_when_multiple_column_shown"
+msgid ""
+"You can't close the column using the \"Back\" button when multiple columns "
+"are shown."
+msgstr ""
+"பல நெடுவரிசைகள் காண்பிக்கப்படும் போது \"பின்\" பொத்தானைப் பயன்படுத்தி நெடுவரிசையை மூட "
+"முடியாது."
+
+#, java-printf-format
+msgctxt "disable_tablet_mode"
+msgid "Disable tablet mode (app restart required)"
+msgstr "டேப்லெட் பயன்முறையை முடக்கு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#.  Density-independent pixels, written as dp (pronounced “dips”), are flexible units that scale to have uniform dimensions on any screen. https://material.io/design/layout/understanding-layout.html#pixel-density 
+#.
+#, java-printf-format
+msgctxt "minimum_column_width"
+msgid "Minimum column width (default=300dp, app restart required)"
+msgstr ""
+"குறைந்தபட்ச நெடுவரிசை அகலம் (இயல்புநிலை = 300 டிபி, பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "media_thumbnail_height"
+msgid "Media Thumbnail height (default=64dp, app restart required)"
+msgstr "மீடியா சிறு உயரம் (இயல்புநிலை = 64 டிபி, பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "account_picker_reply"
+msgid "Reply from?"
+msgstr "இருந்து பதில்?"
+
+#, java-printf-format
+msgctxt "account_picker_quote_toot"
+msgid "Account to \"quote post\"?"
+msgstr "\"மேற்கோள் இடுகை\" க்கு கணக்கு?"
+
+#, java-printf-format
+msgctxt "reply_from_another_account"
+msgid "Reply from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து பதிலளிக்கவும்"
+
+#, java-printf-format
+msgctxt "launcher_icon_by"
+msgid "Thanks to フタバ for the application icon."
+msgstr "பயன்பாட்டு ஐகானுக்கு ஃபுடாபாவுக்கு நன்றி."
+
+#, java-printf-format
+msgctxt "ssl_bug_7_0"
+msgid ""
+"Android 7.0 can only use the elliptic curve \"prime256v1\".\n"
+"Unfortunately your server seems to not support it.\n"
+"This bug has been fixed in Android 7.1.1.\n"
+"You can either upgrade your OS or ask the server administrator to add "
+"support to the elliptic curve \"prime256v1\".\n"
+"See also https://code.google.com/p/android/issues/detail?id=224438"
+msgstr ""
+"ஆண்ட்ராய்டு 7.0 நீள்வட்ட வளைவை \"PRIME256V1\" மட்டுமே பயன்படுத்த முடியும்.\n"
+" துரதிர்ச்டவசமாக உங்கள் சேவையகம் அதை ஆதரிக்கவில்லை என்று தெரிகிறது.\n"
+" இந்த பிழை ஆண்ட்ராய்டு 7.1.1 இல் சரி செய்யப்பட்டது.\n"
+" உங்கள் OS ஐ மேம்படுத்தலாம் அல்லது \"PRIME256V1\" என்ற நீள்வட்ட வளைவுக்கு ஆதரவைச் சேர்க்க "
+"சேவையக நிர்வாகியிடம் கேட்கலாம்.\n"
+" Https://code.google.com/p/android/issues/detail?id=224438 ஐயும் காண்க"
+
+#, java-printf-format
+msgctxt "timeline_font"
+msgid "Timeline font (app restart required)"
+msgstr "காலவரிசை எழுத்துரு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "timeline_font_bold"
+msgid "Bold timeline font (app restart required)"
+msgstr "தைரியமான காலவரிசை எழுத்துரு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "restore_draft"
+msgid "Restore from draft"
+msgstr "வரைவிலிருந்து மீட்டமைக்கவும்"
+
+#, java-printf-format
+msgctxt "select_draft"
+msgid "Which draft to restore ?"
+msgstr "எந்த வரைவு மீட்டெடுக்க?"
+
+#, java-printf-format
+msgctxt "account_in_draft_is_lost"
+msgid ""
+"The account used to make this draft has been removed from this app. The "
+"following context can not be restored: in_reply_to, media attachment"
+msgstr ""
+"இந்த வரைவை உருவாக்கப் பயன்படுத்தப்படும் கணக்கு இந்த பயன்பாட்டிலிருந்து அகற்றப்பட்டுள்ளது. "
+"பின்வரும் சூழலை மீட்டெடுக்க முடியாது: in_reply_to, மீடியா இணைப்பு"
+
+#, java-printf-format
+msgctxt "reply_to_in_draft_is_lost"
+msgid ""
+"The reply origin referred by the draft has been lost. The following context "
+"is removed: in_reply_to"
+msgstr ""
+"வரைவால் குறிப்பிடப்படும் பதில் தோற்றம் இழந்துவிட்டது. பின்வரும் சூழல் அகற்றப்பட்டது: "
+"in_reply_to"
+
+#, java-printf-format
+msgctxt "attachment_in_draft_is_lost"
+msgid "Some of the media attachments in the draft have been lost."
+msgstr "வரைவில் உள்ள சில ஊடக இணைப்புகள் இழந்துவிட்டன."
+
+#, java-printf-format
+msgctxt "app_data_export"
+msgid "Export app data"
+msgstr "பயன்பாட்டு தரவை ஏற்றுமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "app_data_import"
+msgid "Import app data"
+msgstr "பயன்பாட்டு தரவை இறக்குமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "app_data_import_desc"
+msgid ""
+"You can export data to any app that can receive data, but maybe you can "
+"import data only from device's storage or Google drive.\n"
+"Column background image may be not exported/imported over device.\n"
+"Timeline font is not exported/imported.\n"
+"Custom notification sound may be not exported/imported over device."
+msgstr ""
+"தரவைப் பெறக்கூடிய எந்தவொரு பயன்பாட்டிற்கும் நீங்கள் தரவை ஏற்றுமதி செய்யலாம், ஆனால் சாதனத்தின்"
+" சேமிப்பிடம் அல்லது கூகிள் டிரைவிலிருந்து மட்டுமே தரவை இறக்குமதி செய்யலாம்.\n"
+" நெடுவரிசை பின்னணி படம் சாதனத்தின் மீது ஏற்றுமதி செய்யப்படாமல்/இறக்குமதி செய்யப்படலாம்.\n"
+" காலவரிசை எழுத்துரு ஏற்றுமதி செய்யப்படவில்லை/இறக்குமதி செய்யப்படவில்லை.\n"
+" தனிப்பயன் அறிவிப்பு ஒலி சாதனத்தின் மீது ஏற்றுமதி செய்யப்படாமல்/இறக்குமதி செய்யப்படலாம்."
+
+#, java-printf-format
+msgctxt "app_data_import_confirm"
+msgid "Existing data (before import) will be cleared. Are you sure?"
+msgstr ""
+"தற்போதுள்ள தரவு (இறக்குமதிக்கு முன்) அழிக்கப்படும். நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "user_id_conversion_failed"
+msgid "Could not convert user ID."
+msgstr "பயனர் ஐடியை மாற்ற முடியவில்லை."
+
+#, java-printf-format
+msgctxt "draft_picker_desc"
+msgid "Long tap to delete."
+msgstr "நீக்க நீண்ட தட்டு."
+
+#, java-printf-format
+msgctxt "draft_deleted"
+msgid "Draft deleted."
+msgstr "வரைவு நீக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "dont_crop_media_thumbnail"
+msgid "Don't crop media thumbnail (app restart required)"
+msgstr "மீடியா சிறு உருவத்தை பயிர் செய்ய வேண்டாம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "tab_indicator_color"
+msgid "Tab's indicator color"
+msgstr "தாவலின் காட்டி நிறம்"
+
+#, java-printf-format
+msgctxt "plugin"
+msgid "Plugin"
+msgstr "சொருகு"
+
+#, java-printf-format
+msgctxt "select_plugin"
+msgid "Select plugin"
+msgstr "சொருகி தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "plugin_not_installed"
+msgid "Plugin not installed."
+msgstr "சொருகி நிறுவப்படவில்லை."
+
+#, java-printf-format
+msgctxt "language_code"
+msgid "en"
+msgstr "என்"
+
+#, java-printf-format
+msgctxt "tablet_mode"
+msgid "Tablet mode"
+msgstr "டேப்லெட் பயன்முறை"
+
+#, java-printf-format
+msgctxt "appearance"
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#, java-printf-format
+msgctxt "performance"
+msgid "Performance"
+msgstr "செயல்திறன்"
+
+#, java-printf-format
+msgctxt "behavior"
+msgid "Behavior"
+msgstr "நடத்தை"
+
+#, java-printf-format
+msgctxt "notification_on_off_desc"
+msgid "There is also an account setting to turn notifications off/on."
+msgstr "அறிவிப்புகளை அணைக்க/இயக்க ஒரு கணக்கு அமைப்பும் உள்ளது."
+
+#, java-printf-format
+msgctxt "post"
+msgid "Post"
+msgstr "இடுகை"
+
+#, java-printf-format
+msgctxt "post_compose_button_default_account"
+msgid "Default account when compose post button tapped"
+msgstr "இயல்புநிலை கணக்கு இடுகையிடப்பட்ட பொத்தானை எழுதும்போது"
+
+#, java-printf-format
+msgctxt "account_change_failed_old_draft_has_no_in_reply_to_url"
+msgid ""
+"Could not switch account. Old draft data has no in_reply_to_url, can't "
+"convert in_reply_to for selected server."
+msgstr ""
+"கணக்கை மாற்ற முடியவில்லை. பழைய வரைவு தரவுகளில் in_reply_to_url இல்லை, "
+"தேர்ந்தெடுக்கப்பட்ட சேவையகத்திற்கு in_reply_to ஐ மாற்ற முடியாது."
+
+#, java-printf-format
+msgctxt "in_reply_to_id_conversion_failed"
+msgid "\"in_reply_to\" ID conversion failed."
+msgstr "\"in_reply_to\" ஐடி மாற்றம் தோல்வியடைந்தது."
+
+#, java-printf-format
+msgctxt "prior_chrome_custom_tabs"
+msgid "Prioritise Google Chrome (if \"Custom Tabs\" is turned on)"
+msgstr ""
+"Google Chrome க்கு முன்னுரிமை கொடுங்கள் (\"தனிப்பயன் தாவல்கள்\" இயக்கப்பட்டிருந்தால்)"
+
+#, java-printf-format
+msgctxt "enable_speech"
+msgid "Enables speech"
+msgstr "பேச்சை செயல்படுத்துகிறது"
+
+#, java-printf-format
+msgctxt "url_omitted"
+msgid "(URL omitted)"
+msgstr "(URL தவிர்க்கப்பட்டது)"
+
+#, java-printf-format
+msgctxt "blocked_domains"
+msgid "Blocked domains"
+msgstr "தடுக்கப்பட்ட களங்கள்"
+
+#, java-printf-format
+msgctxt "block_domain_that"
+msgid "Block the whole domain \"%1$s\""
+msgstr "முழு களத்தையும் \"%1$s\" ஐத் தடுக்கவும்"
+
+#, java-printf-format
+msgctxt "confirm_block_domain"
+msgid "Really block the whole domain \"%1$s\"?"
+msgstr "\"%1$s\" முழு களத்தையும் உண்மையில் தடுக்கவா?"
+
+#, java-printf-format
+msgctxt "confirm_unblock_domain"
+msgid "Unblock the domain \"%1$s\"?"
+msgstr "\"%1$s\" டொமைனைத் தடுக்கவா?"
+
+#, java-printf-format
+msgctxt "text_to_speech_initializing"
+msgid "Starting TextToSpeech…"
+msgstr "உரை டோச்பீச் தொடங்குகிறது…"
+
+#, java-printf-format
+msgctxt "text_to_speech_initialize_failed"
+msgid "Could not start TextToSpeech. Status: %1$s"
+msgstr "உரை டோச்பீச் தொடங்க முடியவில்லை. நிலை: %1$s"
+
+#, java-printf-format
+msgctxt "text_to_speech_shutdown"
+msgid "TextToSpeech shut down…"
+msgstr "TextTospech மூடப்பட்டது…"
+
+#, java-printf-format
+msgctxt "show_post_button_bar_top"
+msgid "Show button bar at the top of posting screen"
+msgstr "இடுகையிடும் திரையின் மேலே பொத்தான் பட்டியைக் காட்டு"
+
+#, java-printf-format
+msgctxt "client_name"
+msgid "Client name (access token update required)"
+msgstr "கிளையன்ட் பெயர் (அணுகல் கிள்ளாக்கு புதுப்பிப்பு தேவை)"
+
+#, java-printf-format
+msgctxt "toot_search"
+msgid "Post search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "toot_search_msp"
+msgid "Post search (MSP)"
+msgstr "இடுகை தேடல் (எம்.எச்.பி)"
+
+#, java-printf-format
+msgctxt "toot_search_ts"
+msgid "Post search (ts)"
+msgstr "இடுகை தேடல் (TS)"
+
+#, java-printf-format
+msgctxt "toot_search_notestock"
+msgid "notestock search"
+msgstr "நோட்டெச்டாக் தேடல்"
+
+#, java-printf-format
+msgctxt "mastodon_search_portal"
+msgid "Mastodon search portal(JP)"
+msgstr "மாச்டோடன் தேடல் போர்டல் (சே.பி.)"
+
+#, java-printf-format
+msgctxt "search_desc_mastodon_api"
+msgid "Account/hashtag search using Mastodon API."
+msgstr "மாச்டோடன் பநிஇ பயன்படுத்தி கணக்கு/ஏச்டேக் தேடல்."
+
+#, java-printf-format
+msgctxt "toot_search_of"
+msgid "Post search \"%1$s\""
+msgstr "இடுகை தேடல் \"%1$s\""
+
+#, java-printf-format
+msgctxt "toot_search_msp_of"
+msgid "Post search (MSP) \"%1$s\""
+msgstr "இடுகை தேடல் (MSP) \"%1$s\""
+
+#, java-printf-format
+msgctxt "toot_search_ts_of"
+msgid "Post search (ts) \"%1$s\""
+msgstr "இடுகை தேடல் (TS) \"%1$s\""
+
+#, java-printf-format
+msgctxt "progress_synchronize_toot"
+msgid "Syncing post…"
+msgstr "இடுகை ஒத்திசைத்தல்…"
+
+#, java-printf-format
+msgctxt "send_header_account_name"
+msgid "Account-Name"
+msgstr "கணக்கு-பெயர்"
+
+#, java-printf-format
+msgctxt "send_header_account_acct"
+msgid "Account-Acct"
+msgstr "கணக்கு-அக்ச்டி"
+
+#, java-printf-format
+msgctxt "send_header_account_url"
+msgid "Account-Url"
+msgstr "கணக்கு-உர்எல்"
+
+#, java-printf-format
+msgctxt "send_header_account_created_at"
+msgid "Account-Created-At"
+msgstr "கணக்கு உருவாக்கிய-அட்"
+
+#, java-printf-format
+msgctxt "send_header_account_statuses_count"
+msgid "Account-Statuses-Count"
+msgstr "கணக்கு-நிலை-எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "send_header_account_followers_count"
+msgid "Account-Followers-Count"
+msgstr "கணக்கு-பின்தொடர்பவர்கள்-எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "send_header_account_following_count"
+msgid "Account-Following-Count"
+msgstr "கணக்கு-பின்தொடரும்-எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "send_header_account_locked"
+msgid "Account-Locked"
+msgstr "கணக்கு பூட்டப்பட்ட"
+
+#, java-printf-format
+msgctxt "send_header_account_image_avatar"
+msgid "Account-Image-Avatar"
+msgstr "கணக்கு-படம்-அவதார்"
+
+#, java-printf-format
+msgctxt "send_header_account_image_avatar_static"
+msgid "Account-Image-Avatar-Static"
+msgstr "கணக்கு-படம்-அவதார்-நிலையானது"
+
+#, java-printf-format
+msgctxt "send_header_account_image_header"
+msgid "Account-Image-Header"
+msgstr "கணக்கு-பட-தலைவர்"
+
+#, java-printf-format
+msgctxt "send_header_account_image_header_static"
+msgid "Account-Image-Header-Static"
+msgstr "கணக்கு-பட-தலைப்பு-நிலையானது"
+
+#, java-printf-format
+msgctxt "open_local_timeline_for"
+msgid "Open timeline of \"%1$s\""
+msgstr "\"%1$s\" இன் திறந்த காலவரிசை"
+
+#, java-printf-format
+msgctxt "notification_sound"
+msgid "Notification sound"
+msgstr "அறிவிப்பு ஒலி"
+
+#, java-printf-format
+msgctxt "timeline_font_size"
+msgid ""
+"Timeline font size\n"
+"(Unit:sp. leave empty to default. app restart required)\n"
+"…\n"
+"…"
+msgstr ""
+"காலவரிசை எழுத்துரு அளவு\n"
+" (அலகு: எச்பி. இயல்புநிலைக்கு காலியாக விடவும். பயன்பாட்டு மறுதொடக்கம் தேவை)\n"
+" …\n"
+" …"
+
+#, java-printf-format
+msgctxt "acct_font_size"
+msgid "Acct font size (Unit:sp. leave empty to default. app restart required)"
+msgstr ""
+"ACCT எழுத்துரு அளவு (அலகு: sp. இயல்புநிலைக்கு காலியாக விடவும். பயன்பாட்டு மறுதொடக்கம்"
+" தேவை)"
+
+#, java-printf-format
+msgctxt "dont_add_duplication_check_header"
+msgid "Don't add duplication check header"
+msgstr "நகல் காசோலை தலைப்பைச் சேர்க்க வேண்டாம்"
+
+#, java-printf-format
+msgctxt "show_quick_toot_bar"
+msgid "Show \"Quick Post\" bar (app restart required.)"
+msgstr "\"விரைவான இடுகை\" பட்டியைக் காட்டு (பயன்பாட்டு மறுதொடக்கம் தேவை.)"
+
+#, java-printf-format
+msgctxt "quick_toot_hint"
+msgid "Quick Post"
+msgstr "விரைவான இடுகை"
+
+#, java-printf-format
+msgctxt "search_is_not_available_on_pseudo_account"
+msgid "Search function is unavailable on pseudo account ."
+msgstr "போலி கணக்கில் தேடல் செயல்பாடு கிடைக்கவில்லை."
+
+#, java-printf-format
+msgctxt "conversation_from_another_account"
+msgid "Conversation view from another account"
+msgstr "மற்றொரு கணக்கிலிருந்து உரையாடல் பார்வை"
+
+#, java-printf-format
+msgctxt "show_avatar_image"
+msgid "Show avatar image"
+msgstr "அவதார் படத்தைக் காட்டு"
+
+#, java-printf-format
+msgctxt "quote_url"
+msgid "Quote URL…"
+msgstr "மேற்கோள் URL…"
+
+#, java-printf-format
+msgctxt "actions_for_notification"
+msgid "Actions for notification"
+msgstr "அறிவிப்புக்கான செயல்கள்"
+
+#, java-printf-format
+msgctxt "delete_this_notification"
+msgid "Delete this notification"
+msgstr "இந்த அறிவிப்பை நீக்கு"
+
+#, java-printf-format
+msgctxt "mute_this_conversation"
+msgid "Mute more notifications for this conversation"
+msgstr "இந்த உரையாடலுக்கான கூடுதல் அறிவிப்புகளை முடக்கவும்"
+
+#, java-printf-format
+msgctxt "unmute_this_conversation"
+msgid "Unmute more notifications for this conversation"
+msgstr "இந்த உரையாடலுக்கான கூடுதல் அறிவிப்புகளை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "input_access_token"
+msgid "Enter access token"
+msgstr "அணுகல் கிள்ளாக்கை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "input_access_token_desc"
+msgid "Specify access token instead of normal user authentication. (advanced)"
+msgstr ""
+"சாதாரண பயனர் அங்கீகாரத்திற்கு பதிலாக அணுகல் டோக்கனைக் குறிப்பிடவும். (மேம்பட்டது)"
+
+#, java-printf-format
+msgctxt "access_token_or_api_token"
+msgid "Access token (if using Misskey, please input API token)"
+msgstr ""
+"அணுகல் கிள்ளாக்கு (மிச்கியைப் பயன்படுத்தினால், தயவுசெய்து பநிஇ கிள்ளாக்கை உள்ளிடவும்)"
+
+#, java-printf-format
+msgctxt "token_not_specified"
+msgid "Please input access token."
+msgstr "அணுகல் கிள்ளாக்கை உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "quote_name"
+msgid "Quote name…"
+msgstr "மேற்கோள் பெயர்…"
+
+#, java-printf-format
+msgctxt "format_of_quote_name"
+msgid "Format of \"Quote name\" (set text that contains %1$s)"
+msgstr "\"மேற்கோள் பெயர்\" இன் வடிவம் ( %1$s ஐக் கொண்ட உரையை அமைக்கவும்)"
+
+#, java-printf-format
+msgctxt "dont_show_favourite"
+msgid "Don't show favourites"
+msgstr "பிடித்தவைகளைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "dont_show_follow"
+msgid "Don't show follows"
+msgstr "பின்வருமாறு காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "background_image"
+msgid "Background image"
+msgstr "பின்னணி படம்"
+
+#, java-printf-format
+msgctxt "background_image_alpha"
+msgid "Background image alpha"
+msgstr "பின்னணி பட ஆல்பா"
+
+#, java-printf-format
+msgctxt "acct_color"
+msgid "Acct text color"
+msgstr "ACCT உரை நிறம்"
+
+#, java-printf-format
+msgctxt "content_color"
+msgid "Content text color"
+msgstr "உள்ளடக்க உரை நிறம்"
+
+#, java-printf-format
+msgctxt "content_sample"
+msgid "(sample)The quick brown fox jumps over the lazy dog."
+msgstr "(மாதிரி) விரைவான பழுப்பு நரி சோம்பேறி நாய் மீது குதிக்கிறது."
+
+#, java-printf-format
+msgctxt "image_animation_enable"
+msgid "Enable image animation (Wastes a lot of battery)"
+msgstr "பட அனிமேசனை இயக்கவும் (நிறைய பேட்டரியை வீணாக்குகிறது)"
+
+#, java-printf-format
+msgctxt "acct_sample"
+msgid "(sample)username@server"
+msgstr "(மாதிரி) பயனர்பெயர்@சேவையகம்"
+
+#, java-printf-format
+msgctxt "mention_full_acct"
+msgid "Show mention as full acct (column reload required)"
+msgstr "முழு சட்டகை ஆகக் குறிப்பிடவும் (நெடுவரிசை மறுஏற்றம் தேவை)"
+
+#, java-printf-format
+msgctxt "remote_profile_warning"
+msgid ""
+"Information on remote profile pages may not be displayed accurately. Press "
+"here to view the profile in web browser."
+msgstr ""
+"தொலை சுயவிவர பக்கங்கள் பற்றிய தகவல்கள் துல்லியமாக காட்டப்படாது. வலை உலாவியில் "
+"சுயவிவரத்தைக் காண இங்கே அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "public_profile"
+msgid "Public profile"
+msgstr "பொது சுயவிவரம்"
+
+#, java-printf-format
+msgctxt "change_avatar"
+msgid "Change avatar icon"
+msgstr "அவதார் ஐகானை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "change_header"
+msgid "Change header image"
+msgstr "தலைப்பு படத்தை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "display_name"
+msgid "Display name"
+msgstr "காட்சி பெயர்"
+
+#, java-printf-format
+msgctxt "note"
+msgid "Note"
+msgstr "குறிப்பு"
+
+#, java-printf-format
+msgctxt "uri"
+msgid "URI"
+msgstr "யூரி"
+
+#, java-printf-format
+msgctxt "title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, java-printf-format
+msgctxt "email"
+msgid "E-mail"
+msgstr "மின்னஞ்சல்"
+
+#, java-printf-format
+msgctxt "description"
+msgid "Description"
+msgstr "விவரம்"
+
+#, java-printf-format
+msgctxt "description_long"
+msgid "Description (old Mastodon)"
+msgstr "விளக்கம் (பழைய மாச்டோடன்)"
+
+#, java-printf-format
+msgctxt "version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, java-printf-format
+msgctxt "instance_information_of"
+msgid "Server information of \"%1$s\""
+msgstr "\"%1$s\" இன் சேவையக செய்தி"
+
+#, java-printf-format
+msgctxt "instance_information"
+msgid "Server information"
+msgstr "சேவையக செய்தி"
+
+#, java-printf-format
+msgctxt "missing_mail_app"
+msgid "Missing e-mail app."
+msgstr "மின்னஞ்சல் பயன்பாட்டைக் காணவில்லை."
+
+#, java-printf-format
+msgctxt "relative_timestamp"
+msgid "Show relative timestamps"
+msgstr "உறவினர் நேர முத்திரைகளைக் காட்டு"
+
+#, java-printf-format
+msgctxt "time_within_second"
+msgid "just now"
+msgstr "இப்போது"
+
+#, java-printf-format
+msgctxt "relative_time_unit_second1"
+msgid "second"
+msgstr "இரண்டாவது"
+
+#, java-printf-format
+msgctxt "relative_time_unit_seconds"
+msgid "seconds"
+msgstr "நொடிகள்"
+
+#, java-printf-format
+msgctxt "relative_time_unit_minute1"
+msgid "minute"
+msgstr "நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "relative_time_unit_minutes"
+msgid "minutes"
+msgstr "நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "relative_time_unit_hour1"
+msgid "hour"
+msgstr "மணி"
+
+#, java-printf-format
+msgctxt "relative_time_unit_hours"
+msgid "hours"
+msgstr "மணி"
+
+#, java-printf-format
+msgctxt "relative_time_unit_day1"
+msgid "day"
+msgstr "நாள்"
+
+#, java-printf-format
+msgctxt "relative_time_unit_days"
+msgid "days"
+msgstr "நாட்கள்"
+
+#, java-printf-format
+msgctxt "relative_time_phrase_past"
+msgid "%1$d %2$s"
+msgstr "%1$d %2$s"
+
+#, java-printf-format
+msgctxt "relative_time_phrase_future"
+msgid "%1$d %2$s later"
+msgstr "%1$d %2$s க்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "notification_channel_description"
+msgid "This setting is used to adjust notification for %1$s"
+msgstr "இந்த அமைப்பு %1$s க்கான அறிவிப்பை சரிசெய்ய பயன்படுத்தப்படுகிறது"
+
+#, java-printf-format
+msgctxt "notification_style_after_oreo"
+msgid "Notification style"
+msgstr "அறிவிப்பு நடை"
+
+#, java-printf-format
+msgctxt "notification_for"
+msgid "Notification for %1$s"
+msgstr "%1$s க்கான அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "enquete_was_end"
+msgid "Enquete ended."
+msgstr "முடிந்தது."
+
+#, java-printf-format
+msgctxt "enquete_voted"
+msgid "Voted."
+msgstr "வாக்களித்தார்."
+
+#, java-printf-format
+msgctxt "enquete_vote_failed"
+msgid "Could not vote. %1$s"
+msgstr "வாக்களிக்க முடியவில்லை. %1$s"
+
+#, java-printf-format
+msgctxt "choice1"
+msgid "choice 1"
+msgstr "தேர்வு 1"
+
+#, java-printf-format
+msgctxt "choice2"
+msgid "choice 2"
+msgstr "தேர்வு 2"
+
+#, java-printf-format
+msgctxt "choice3"
+msgid "choice 3 (optional)"
+msgstr "தேர்வு 3 (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "choice4"
+msgid "choice 4 (optional)"
+msgstr "தேர்வு 4 (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "make_enquete"
+msgid "Make enquete"
+msgstr "என்குவலை உருவாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "dont_use_action_button_with_quick_toot_bar"
+msgid ""
+"Disable IME Action button when using \"Quick Post\" bar (app restart "
+"required)"
+msgstr ""
+"\"விரைவான இடுகை\" பட்டியைப் பயன்படுத்தும் போது IME செயல் பொத்தானை முடக்கு (பயன்பாட்டு "
+"மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "auto_cw"
+msgid ""
+"Auto hide long text (by setting \"line counts\" greater than 0. app restart "
+"required)"
+msgstr ""
+"தானாக மறை நீண்ட உரை (0 ஐ விட அதிகமாக \"வரி எண்ணிக்கைகள்\" அமைப்பதன் மூலம். பயன்பாட்டு "
+"மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "auto_cw_prefix"
+msgid "(Auto CW)"
+msgstr "(ஆட்டோ சி.டபிள்யூ)"
+
+#, java-printf-format
+msgctxt "enquete_item_is_empty"
+msgid "Enquete choice %1$d is empty."
+msgstr "Enquete தேர்வு %1$d காலியாக உள்ளது."
+
+#, java-printf-format
+msgctxt "enquete_item_too_long"
+msgid "Enquete choice %1$d is too long. Please decrease by %2$d character(s)."
+msgstr ""
+"Enquete தேர்வு %1$d மிக நீளமானது. தயவுசெய்து %2$d எழுத்து (கள்) குறைகிறது."
+
+#, java-printf-format
+msgctxt "enquete_item_duplicate"
+msgid "Enquete choice %1$d is a duplicate of another choice."
+msgstr "Enquete தேர்வு %1$d என்பது மற்றொரு தேர்வின் நகல்."
+
+#, java-printf-format
+msgctxt "profile_pin"
+msgid "Pin on profile"
+msgstr "சுயவிவரத்தில் முள்"
+
+#, java-printf-format
+msgctxt "profile_unpin"
+msgid "Unpin from profile"
+msgstr "சுயவிவரத்திலிருந்து அவிழ்த்து விடுங்கள்"
+
+#, java-printf-format
+msgctxt "profile_pin_progress"
+msgid "Changing pinned status…"
+msgstr "பின் நிலையை மாற்றுதல்…"
+
+#, java-printf-format
+msgctxt "length_warning"
+msgid ""
+"\"%1$s\" is too long (%2$d/%3$d characters).\n"
+"It is not acceptable in the standard server, but it may be acceptable in "
+"some servers.\n"
+"Are you sure?"
+msgstr ""
+"\"%1$s\" மிக நீளமானது (%2$d/%3$d எழுத்துக்கள்).\n"
+" இது நிலையான சேவையகத்தில் ஏற்றுக்கொள்ளப்படாது, ஆனால் சில சேவையகங்களில் இது "
+"ஏற்றுக்கொள்ளப்படலாம்.\n"
+" நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "short_acct_local_user"
+msgid "Short acct for local user (app restart required)"
+msgstr "உள்ளக பயனருக்கான குறுகிய ACCT (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "loading_notification_title"
+msgid "Loading notification…"
+msgstr "அறிவிப்பை ஏற்றுகிறது…"
+
+#, java-printf-format
+msgctxt "error_notification_title"
+msgid "Server timeout"
+msgstr "சேவையக நேரம் முடிந்தது"
+
+#, java-printf-format
+msgctxt "error_notification_summary"
+msgid "If on a destructed server, please remove its account from app."
+msgstr ""
+"அழிக்கப்பட்ட சேவையகத்தில் இருந்தால், தயவுசெய்து அதன் கணக்கை பயன்பாட்டிலிருந்து அகற்றவும்."
+
+#, java-printf-format
+msgctxt "open_hashtag_column"
+msgid "Open hashtag column"
+msgstr "திறந்த ஏச்டேக் நெடுவரிசை"
+
+#, java-printf-format
+msgctxt "quote_hashtag_of"
+msgid "Quote the hashtag \"%1$s\""
+msgstr "\"%1$s\" என்ற ஏச்டேக்கை மேற்கோள் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "quote_all_hashtag_of"
+msgid "Quote all hashtags \"%1$s\""
+msgstr "அனைத்து ஏச்டேக்குகளையும் \"%1$s\""
+
+#, java-printf-format
+msgctxt "parsing_response"
+msgid "Parsing response…"
+msgstr "பாகுபடுத்தும் பதில்…"
+
+#, java-printf-format
+msgctxt "video_pick"
+msgid "Pick video"
+msgstr "வீடியோவைத் தேர்ந்தெடுங்கள்"
+
+#, java-printf-format
+msgctxt "already_followed"
+msgid "Already followed."
+msgstr "ஏற்கனவே பின்பற்றப்பட்டது."
+
+#, java-printf-format
+msgctxt "cant_get_web_setting_visibility"
+msgid "Can't get visibility setting in web app."
+msgstr "வலை பயன்பாட்டில் தெரிவுநிலை அமைப்பைப் பெற முடியாது."
+
+#, java-printf-format
+msgctxt "mastodon_1_6_later"
+msgid "Mastodon 1.6 or later"
+msgstr "மாச்டோடன் 1.6 அல்லது அதற்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "user_count"
+msgid "Users"
+msgstr "பயனர்கள்"
+
+#, java-printf-format
+msgctxt "toot_count"
+msgid "Posts"
+msgstr "இடுகைகள்"
+
+#, java-printf-format
+msgctxt "domain_count"
+msgid "Connected domain count"
+msgstr "இணைக்கப்பட்ட டொமைன் எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "not_provided_mastodon_under_1_6"
+msgid "Not provided pre Mastodon 1.6"
+msgstr "முன் மாச்டோடன் 1.6 வழங்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "mime_type_missing"
+msgid "Missing media MIME type."
+msgstr "மீடியா மைம் வகை காணவில்லை."
+
+#, java-printf-format
+msgctxt "mime_type_not_acceptable"
+msgid "The media MIME type %1$s is not accepted."
+msgstr "மீடியா மைம் வகை %1$s ஏற்றுக்கொள்ளப்படவில்லை."
+
+#, java-printf-format
+msgctxt "dont_show_timeout"
+msgid "Don't show \"Server timeout\" notification"
+msgstr "\"சேவையக நேரம் முடிந்தது\" அறிவிப்பைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "emoji_category_people"
+msgid "People"
+msgstr "மக்கள்"
+
+#, java-printf-format
+msgctxt "emoji_category_nature"
+msgid "Nature"
+msgstr "இயற்கை"
+
+#, java-printf-format
+msgctxt "emoji_category_foods"
+msgid "Foods"
+msgstr "உணவுகள்"
+
+#, java-printf-format
+msgctxt "emoji_category_activity"
+msgid "Activity"
+msgstr "செய்கைப்பாடு"
+
+#, java-printf-format
+msgctxt "emoji_category_places"
+msgid "Places"
+msgstr "இடங்கள்"
+
+#, java-printf-format
+msgctxt "emoji_category_objects"
+msgid "Objects"
+msgstr "பொருள்கள்"
+
+#, java-printf-format
+msgctxt "emoji_category_symbols"
+msgid "Symbols"
+msgstr "குறியிடுகள்"
+
+#, java-printf-format
+msgctxt "emoji_category_flags"
+msgid "Flags"
+msgstr "கொடிகள்"
+
+#, java-printf-format
+msgctxt "emoji_category_others"
+msgid "Others"
+msgstr "மற்றவர்கள்"
+
+#, java-printf-format
+msgctxt "emoji_category_custom"
+msgid "Custom"
+msgstr "தனிப்பயன்"
+
+#, java-printf-format
+msgctxt "emoji_category_recent"
+msgid "Recent"
+msgstr "அண்மைக் கால"
+
+#, java-printf-format
+msgctxt "open_picker_emoji"
+msgid "Emoji picker…"
+msgstr "ஈமோசி பிக்கர்…"
+
+#, java-printf-format
+msgctxt "open_picker_tag"
+msgid "Hashtag picker…"
+msgstr "ஏச்டேக் பிக்கர்…"
+
+#, java-printf-format
+msgctxt "open_picker_mention"
+msgid "Mention picker…"
+msgstr "பிக்கரைக் குறிப்பிடவும்…"
+
+#, java-printf-format
+msgctxt "skin_tone_light"
+msgid "light skin tone"
+msgstr "ஒளி தோல் தொனி"
+
+#, java-printf-format
+msgctxt "skin_tone_medium_light"
+msgid "medium light skin tone"
+msgstr "நடுத்தர ஒளி தோல் தொனி"
+
+#, java-printf-format
+msgctxt "skin_tone_medium"
+msgid "medium skin tone"
+msgstr "நடுத்தர தோல் தொனி"
+
+#, java-printf-format
+msgctxt "skin_tone_medium_dark"
+msgid "medium dark skin tone"
+msgstr "நடுத்தர இருண்ட தோல் தொனி"
+
+#, java-printf-format
+msgctxt "skin_tone_dark"
+msgid "dark skin tone"
+msgstr "இருண்ட தோல் தொனி"
+
+#, java-printf-format
+msgctxt "disable_custom_emoji_animation"
+msgid "Disable custom Emoji animation (app restart and column reload required)"
+msgstr ""
+"தனிப்பயன் ஈமோசி அனிமேசனை முடக்கு (பயன்பாட்டு மறுதொடக்கம் மற்றும் நெடுவரிசை மறுஏற்றம் "
+"தேவை)"
+
+#, java-printf-format
+msgctxt "card_header_card"
+msgid "Card"
+msgstr "அட்டை"
+
+#, java-printf-format
+msgctxt "card_header_author"
+msgid "Author"
+msgstr "நூலாசிரியர்"
+
+#, java-printf-format
+msgctxt "card_header_provider"
+msgid "Provider"
+msgstr "வழங்குநர்"
+
+#, java-printf-format
+msgctxt "allow_non_space_before_emoji_code"
+msgid ""
+"Allow non-space character before emoji shortcode (Affect to display and "
+"post. to set display, please restart app and reload column. The emojis "
+"converted at posting can't be restored to shortcode.)"
+msgstr ""
+"ஈமோசி குறுக்குவழிக்கு முன் விண்வெளி அல்லாத எழுத்தை அனுமதிக்கவும் (காட்சியைக் "
+"காண்பிப்பதற்கும் இடுகையிடுவதற்கும் பாதிக்கப்படுகிறது. காட்சியை அமைக்க, தயவுசெய்து "
+"பயன்பாட்டை மறுதொடக்கம் செய்து நெடுவரிசையை மீண்டும் ஏற்றவும். இடுகையில் மாற்றப்பட்ட ஈமோசிகளை"
+" குறுக்குவழிக்கு மீட்டெடுக்க முடியாது.)"
+
+#, java-printf-format
+msgctxt "emoji"
+msgid "Emoji"
+msgstr "ஈமோசி"
+
+#, java-printf-format
+msgctxt "not_blocked"
+msgid "Not blocked."
+msgstr "தடுக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "not_muted"
+msgid "Not muted."
+msgstr "முடக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "media_description"
+msgid "(attachment %1$d) %2$s"
+msgstr "(இணைப்பு %1$d) %2$s"
+
+#, java-printf-format
+msgctxt "set_description"
+msgid "set description"
+msgstr "விளக்கத்தை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "attachment_description_cant_edit_while_uploading"
+msgid "Attachment description can't be edit while uploading."
+msgstr "இணைப்பு விளக்கத்தை பதிவேற்றும்போது திருத்த முடியாது."
+
+#, java-printf-format
+msgctxt "attachment_description"
+msgid "attachment description"
+msgstr "இணைப்பு விளக்கம்"
+
+#, java-printf-format
+msgctxt "description_empty"
+msgid "description is not specified."
+msgstr "விளக்கம் குறிப்பிடப்படவில்லை."
+
+#, java-printf-format
+msgctxt "attachment_description_sending"
+msgid "sending attachment description…"
+msgstr "இணைப்பு விளக்கத்தை அனுப்புகிறது…"
+
+#, java-printf-format
+msgctxt "hide_boost_in_home"
+msgid "Hide boosts by this user from your home TL"
+msgstr "உங்கள் வீட்டிலிருந்து இந்த பயனரின் ஊக்கங்களை மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "show_boost_in_home"
+msgid "Show boosts by this user from your home TL"
+msgstr "உங்கள் வீட்டிலிருந்து இந்த பயனரின் ஊக்கங்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "operation_succeeded"
+msgid "Done."
+msgstr "முடிந்தது."
+
+#, java-printf-format
+msgctxt "list_member_add_remove"
+msgid "Add/remove from lists…"
+msgstr "பட்டியல்களிலிருந்து சேர்க்க/அகற்று…"
+
+#, java-printf-format
+msgctxt "lists"
+msgid "Lists"
+msgstr "பட்டியல்கள்"
+
+#, java-printf-format
+msgctxt "list_show_member"
+msgid "show list users"
+msgstr "பட்டியல் பயனர்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "list_show_timeline"
+msgid "show list TL"
+msgstr "பட்டியலைக் காட்டு tl"
+
+#, java-printf-format
+msgctxt "list_member_of"
+msgid "\"%1$s\" list users"
+msgstr "\"%1$s\" பட்டியல் பயனர்கள்"
+
+#, java-printf-format
+msgctxt "list_tl_of"
+msgid "\"%1$s\" list"
+msgstr "\"%1$s\" பட்டியல்"
+
+#, java-printf-format
+msgctxt "list_create_hint"
+msgid "name of new list"
+msgstr "புதிய பட்டியலின் பெயர்"
+
+#, java-printf-format
+msgctxt "list_name_empty"
+msgid "please input name of new list."
+msgstr "புதிய பட்டியலின் பெயரை உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "list_created"
+msgid "new list created."
+msgstr "புதிய பட்டியல் உருவாக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "list_delete_confirm"
+msgid "Delete the list \"%1$s\"?"
+msgstr "\"%1$s\" பட்டியலை நீக்கவா?"
+
+#, java-printf-format
+msgctxt "list_member"
+msgid "List users"
+msgstr "பயனர்களை பட்டியலிடுங்கள்"
+
+#, java-printf-format
+msgctxt "list_timeline"
+msgid "List timeline"
+msgstr "காலவரிசை பட்டியல்"
+
+#, java-printf-format
+msgctxt "list_member_delete_confirm"
+msgid "Delete the list member \"%1$s\" from list \"%2$s\"?"
+msgstr "\"%1$s\" பட்டியல் உறுப்பினரை \"%2$s\" பட்டியலிலிருந்து நீக்கவா?"
+
+#, java-printf-format
+msgctxt "target_user"
+msgid "Target user"
+msgstr "இலக்கு பயனர்"
+
+#, java-printf-format
+msgctxt "list_owner"
+msgid "List owner"
+msgstr "பட்டியல் உரிமையாளர்"
+
+#, java-printf-format
+msgctxt "list_create"
+msgid "New list…"
+msgstr "புதிய பட்டியல்…"
+
+#, java-printf-format
+msgctxt "list"
+msgid "List"
+msgstr "பட்டியல்"
+
+#, java-printf-format
+msgctxt "list_not_supported"
+msgid "Lists is not supported on this server."
+msgstr "இந்த சேவையகத்தில் பட்டியல்கள் ஆதரிக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "cant_access_list"
+msgid "Can't access to lists"
+msgstr "பட்டியல்களை அணுக முடியாது"
+
+#, java-printf-format
+msgctxt "account_sync_failed"
+msgid "Could not sync account."
+msgstr "கணக்கை ஒத்திசைக்க முடியவில்லை."
+
+#, java-printf-format
+msgctxt "list_retry_with_follow"
+msgid ""
+"You are not following %1$s yet. Would you like to follow and then add to "
+"list?"
+msgstr ""
+"நீங்கள் இன்னும் %1$s ஐப் பின்பற்றவில்லை. நீங்கள் பின்தொடர விரும்புகிறீர்களா, பின்னர் பட்டியலில் "
+"சேர்க்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "cant_add_list_follow_requesting"
+msgid ""
+"Can't add user to list:\n"
+"Please retry 2,3 times. Or if user is \"locked\", please wait until for "
+"approval of follow request."
+msgstr ""
+"பட்டியலில் பயனரைச் சேர்க்க முடியாது:\n"
+" தயவுசெய்து 2,3 முறை மீண்டும் முயற்சிக்கவும். அல்லது பயனர் \"பூட்டப்பட்டிருந்தால்\" என்றால், "
+"பின்தொடர் கோரிக்கையின் ஒப்புதலுக்காக காத்திருக்கவும்."
+
+#, java-printf-format
+msgctxt "cant_add_list_follow_failed"
+msgid ""
+"Can't add user to list:\n"
+"follow operation failed."
+msgstr ""
+"பட்டியலில் பயனரைச் சேர்க்க முடியாது:\n"
+" செயல்பாட்டைப் பின்தொடரவும் தோல்வியடைந்தது."
+
+#, java-printf-format
+msgctxt "list_member_added"
+msgid "Added."
+msgstr "சேர்க்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "confirm_mute_notification_for_user"
+msgid "Mute notifications from this user"
+msgstr "இந்த பயனரிடமிருந்து முடக்கு அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "account_moved_to"
+msgid "%1$s has moved to:"
+msgstr "%1$s இதற்கு நகர்ந்தது:"
+
+#, java-printf-format
+msgctxt "jump_moved_user"
+msgid "%1$s has been moved. Would you like to check %2$s ?"
+msgstr "%1$s நகர்த்தப்பட்டுள்ளன. %2$s ஐ சரிபார்க்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "ignore_suggestion"
+msgid "ignore suggestion"
+msgstr "ஆலோசனையை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "list_not_created"
+msgid "(list is not created)"
+msgstr "(பட்டியல் உருவாக்கப்படவில்லை)"
+
+#, java-printf-format
+msgctxt "your_lists"
+msgid "Your lists"
+msgstr "உங்கள் பட்டியல்கள்"
+
+#, java-printf-format
+msgctxt "media_attachment_max_byte_size"
+msgid "Media attachment (image) bytes size limit (Unit:MB. The default is 8)"
+msgstr "மீடியா இணைப்பு (படம்) பைட்டுகள் அளவு வரம்பு (அலகு: எம்பி. இயல்புநிலை 8)"
+
+#, java-printf-format
+msgctxt "media_attachment_max_byte_size_movie"
+msgid "Media attachment (movie) bytes size limit (Unit:MB. The default is 40)"
+msgstr ""
+"மீடியா இணைப்பு (மூவி) பைட்டுகளின் அளவு வரம்பு (அலகு: எம்பி. இயல்புநிலை 40)"
+
+#, java-printf-format
+msgctxt "media_attachment_max_byte_size_pixelfed"
+msgid ""
+"Media attachment (Pixelfed) bytes size limit (Unit:MB. The default is 15)"
+msgstr ""
+"மீடியா இணைப்பு (பிக்செல்ஃப்) பைட்டுகள் அளவு வரம்பு (அலகு: எம்பி. இயல்புநிலை 15)"
+
+#, java-printf-format
+msgctxt "tootsearch"
+msgid "tootsearch (JP)"
+msgstr "டூட்சாச் (சே.பி.)"
+
+#, java-printf-format
+msgctxt "cant_handle_uri_of"
+msgid "Subway Tooter can't handle URI \"%1$s\". Please select other app."
+msgstr ""
+"சுரங்கப்பாதை கீச்சொலி முகவரி \"%1$s\" ஐ கையாள முடியாது. பிற பயன்பாட்டைத் "
+"தேர்ந்தெடுக்கவும்."
+
+#, java-printf-format
+msgctxt "use_internal_media_viewer"
+msgid "Use built-in media viewer"
+msgstr "உள்ளமைக்கப்பட்ட ஊடக பார்வையாளரைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "previous"
+msgid "Previous"
+msgstr "முந்தைய"
+
+#, java-printf-format
+msgctxt "next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, java-printf-format
+msgctxt "download"
+msgid "Download"
+msgstr "பதிவிறக்கம்"
+
+#, java-printf-format
+msgctxt "downloading"
+msgid "Downloading…"
+msgstr "பதிவிறக்கம்…"
+
+#, java-printf-format
+msgctxt "url_is_copied"
+msgid "URL copied to clipboard"
+msgstr "முகவரி இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "download_complete"
+msgid "Downloaded. %1$s"
+msgstr "பதிவிறக்கம். %1$s"
+
+#, java-printf-format
+msgctxt "download_failed"
+msgid "Download failed. %1$s"
+msgstr "பதிவிறக்கம் தோல்வியடைந்தது. %1$s"
+
+#, java-printf-format
+msgctxt "open_browser_of"
+msgid "Open \"%1$s\" in browser"
+msgstr "உலாவியில் \"%1$s\" ஐத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "open_in_browser"
+msgid "Open in browser"
+msgstr "உலாவியில் திற"
+
+#, java-printf-format
+msgctxt "share_url"
+msgid "Share URL"
+msgstr "முகவரி ஐப் பகிரவும்"
+
+#, java-printf-format
+msgctxt "share_url_more"
+msgid "Share URL…"
+msgstr "பகிர்வு URL…"
+
+#, java-printf-format
+msgctxt "copy_url"
+msgid "Copy URL to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு முகவரி ஐ நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "media_attachment_empty"
+msgid "Missing media attachments."
+msgstr "ஊடக இணைப்புகளைக் காணவில்லை."
+
+#, java-printf-format
+msgctxt "media_attachment_type_error"
+msgid ""
+"The type of media attachment is \"%1$s\". ST can't handle it, but you can "
+"try open in browser."
+msgstr ""
+"மீடியா இணைப்பு வகை \"%1$s\" ஆகும். செயின்ட் அதைக் கையாள முடியாது, ஆனால் நீங்கள் "
+"உலாவியில் திறக்க முயற்சி செய்யலாம்."
+
+#, java-printf-format
+msgctxt "video_buffering"
+msgid "Buffering…"
+msgstr "இடையக…"
+
+#, java-printf-format
+msgctxt "dont_repeat_download_to_same_url"
+msgid "Can't repeat downloading same URL in a few seconds."
+msgstr "சில நொடிகளில் அதே முகவரி ஐ பதிவிறக்குவதை மீண்டும் செய்ய முடியாது."
+
+#, java-printf-format
+msgctxt "zooming_of"
+msgid ""
+"(%4$d/%5$d) ×%3$.1f\n"
+"%1$d×%2$d"
+msgstr ""
+"(%4$d/%5$d) ×%3$.1f\n"
+"%1$d×%2$d"
+
+#, java-printf-format
+msgctxt "zooming_of_resized"
+msgid ""
+"(%4$d/%5$d) ×%3$.1f\n"
+"%1$d×%2$d (original %6$d×%7$d)"
+msgstr ""
+"(%4$d/%5$d)×%3$.1f\n"
+"%1$d×%2$d (original %6$d×%7$d)"
+
+#, java-printf-format
+msgctxt "media_attachment_still_uploading"
+msgid "Still uploading media."
+msgstr "இன்னும் ஊடகங்களை பதிவேற்றுகிறது."
+
+#, java-printf-format
+msgctxt "highlight_word"
+msgid "Highlight keyword"
+msgstr "முக்கிய சொல்லை முன்னிலைப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "new_item"
+msgid "New item…"
+msgstr "புதிய உருப்படி…"
+
+#, java-printf-format
+msgctxt "word_empty"
+msgid "Please input keyword."
+msgstr "முக்கிய சொல்லை உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "already_exist"
+msgid "already exist."
+msgstr "ஏற்கனவே உள்ளது."
+
+#, java-printf-format
+msgctxt "highlight_desc"
+msgid ""
+"Swipe leftwards to delete. You may need reload the check whether it is set."
+msgstr ""
+"நீக்க இடதுபுறமாக ச்வைப் செய்யவும். காசோலை அமைக்கப்பட்டிருக்கிறதா என்பதை மீண்டும் ஏற்றலாம்."
+
+#, java-printf-format
+msgctxt "check_sound"
+msgid "Play notification sound"
+msgstr "அறிவிப்பு ஒலி விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "keyword"
+msgid "Keyword"
+msgstr "முக்கிய சொல்"
+
+#, java-printf-format
+msgctxt "domain_block_from_pseudo"
+msgid "Can't use domain block from pseudo account."
+msgstr "போலி கணக்கிலிருந்து டொமைன் தொகுதியைப் பயன்படுத்த முடியாது."
+
+#, java-printf-format
+msgctxt "domain_block_from_local"
+msgid "Can't use domain block for your server."
+msgstr "உங்கள் சேவையகத்திற்கு டொமைன் தொகுதியைப் பயன்படுத்த முடியாது."
+
+#, java-printf-format
+msgctxt "always_show_application"
+msgid "Show (via) application name if possible"
+msgstr "முடிந்தால் (வழியாக) பயன்பாட்டு பெயரைக் காட்டு"
+
+#, java-printf-format
+msgctxt "force_gap_when_refresh"
+msgid "Force adding gap when refreshing top"
+msgstr ""
+"மேல் புத்துணர்ச்சியூட்டும் போது இடைவெளியைச் சேர்க்க கட்டாயப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "avatar_icon_size"
+msgid "Avatar icon size (Unit:dp. default:48. app restart required)"
+msgstr ""
+"அவதார் படவுரு அளவு (அலகு: டிபி. இயல்புநிலை: 48. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "avatar_icon_round_ratio"
+msgid "Avatar icon round ratio (Unit:%. default:33. app restart required)"
+msgstr ""
+"அவதார் படவுரு சுற்று விகிதம் (அலகு:%. இயல்புநிலை: 33. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "avatar_icon_dont_round"
+msgid "Don't round corner of avatar icon (app restart required)"
+msgstr "அவதார் ஐகானின் சுற்று மூலையில் வேண்டாம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "share_view_pool"
+msgid "Share view pool between columns"
+msgstr "நெடுவரிசைகளுக்கு இடையில் காட்சி குளம் பகிரவும்"
+
+#, java-printf-format
+msgctxt "rename"
+msgid "Rename…"
+msgstr "மறுபெயரிடுங்கள்…"
+
+#, java-printf-format
+msgctxt "allow_column_duplication"
+msgid "Allow column duplication"
+msgstr "நெடுவரிசை நகல் அனுமதிக்கவும்"
+
+#, java-printf-format
+msgctxt "system_notification_not_related"
+msgid "Not chosen when tapping system notification"
+msgstr "கணினி அறிவிப்பைத் தட்டும்போது தேர்வு செய்யப்படவில்லை"
+
+#, java-printf-format
+msgctxt "notification_type_mention"
+msgid "mention"
+msgstr "குறிப்பு"
+
+#, java-printf-format
+msgctxt "notification_type_follow"
+msgid "follow"
+msgstr "பின்தொடர்"
+
+#, java-printf-format
+msgctxt "notification_type_boost"
+msgid "boost"
+msgstr "பூச்ட்"
+
+#, java-printf-format
+msgctxt "notification_type_favourite"
+msgid "fav."
+msgstr "விரு."
+
+#, java-printf-format
+msgctxt "notification_type_reaction"
+msgid "reaction"
+msgstr "எதிர்வினை"
+
+#, java-printf-format
+msgctxt "notification_type_vote"
+msgid "vote"
+msgstr "வாக்களிக்கவும்"
+
+#, java-printf-format
+msgctxt "notification_type_post"
+msgid "post"
+msgstr "இடுகை"
+
+#, java-printf-format
+msgctxt "notification_type_update"
+msgid "post update"
+msgstr "புதுப்பிப்பு இடுகை"
+
+#, java-printf-format
+msgctxt "notification_type_status_reference"
+msgid "post referenced"
+msgstr "இடுகை குறிப்பிடப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "notification_type_status_reference_fedibird"
+msgid "post referenced (fedibird.com)"
+msgstr "இடுகை குறிப்பிடப்பட்டுள்ளது (fedibird.com)"
+
+#, java-printf-format
+msgctxt "notification_type_signup"
+msgid "(admin)user signup"
+msgstr "(நிர்வாகி) பயனர் பதிவுபெறுதல்"
+
+#, java-printf-format
+msgctxt "notification_type_report"
+msgid "(admin)report"
+msgstr "(நிர்வாகி) அறிக்கை"
+
+#, java-printf-format
+msgctxt "dont_show_normal_toot"
+msgid "Don't show normal posts"
+msgstr "சாதாரண இடுகைகளைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "dont_show_non_public_toot"
+msgid "Don't show non-public posts"
+msgstr "பொது அல்லாத இடுகைகளைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "set_focus_point"
+msgid "set focus point (Mastodon 2.3+)"
+msgstr "கவனம் புள்ளியை அமைக்கவும் (மாச்டோடன் 2.3+)"
+
+#, java-printf-format
+msgctxt "report_forward_to"
+msgid ""
+"The user belongs to server %1$s. Forward anonymoused copy of this report to "
+"that server?"
+msgstr ""
+"பயனர் சேவையக %1$s க்கு சொந்தமானது. இந்த அறிக்கையின் அநாமதேய நகலை அந்த சேவையகத்திற்கு "
+"அனுப்பவா?"
+
+#, java-printf-format
+msgctxt "locked_account"
+msgid "Locked account"
+msgstr "பூட்டப்பட்ட கணக்கு"
+
+#, java-printf-format
+msgctxt "contact"
+msgid "contact account"
+msgstr "தொடர்பு கணக்கு"
+
+#, java-printf-format
+msgctxt "languages"
+msgid "languages"
+msgstr "மொழிகள்"
+
+#, java-printf-format
+msgctxt "append_attachment_url_to_content"
+msgid "Append attachment URL to content text"
+msgstr "உள்ளடக்க உரையில் இணைப்பு முகவரி ஐ சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "hide_favourite_notification_from_user"
+msgid "Disable Fav/BT notifications from this user"
+msgstr "இந்த பயனரிடமிருந்து FAV/BT அறிவிப்புகளை முடக்கு"
+
+#, java-printf-format
+msgctxt "show_favourite_notification_from_user"
+msgid "Enable Fav/BT notifications from this user"
+msgstr "இந்த பயனரிடமிருந்து FAV/BT அறிவிப்புகளை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "fav_muted_user"
+msgid "FBN disabled users"
+msgstr "FBN ஊனமுற்ற பயனர்கள்"
+
+#, java-printf-format
+msgctxt "fav_muted_user_long"
+msgid "Fav/Boost notifications disabled users"
+msgstr "FAV/பூச்ட் அறிவிப்புகள் ஊனமுற்ற பயனர்கள்"
+
+#, java-printf-format
+msgctxt "fav_muted_user_desc"
+msgid ""
+"Ignore notifications from users on this list. Favourite, Boost, Follow "
+"Request, Reaction, etc."
+msgstr ""
+"இந்த பட்டியலில் பயனர்களிடமிருந்து அறிவிப்புகளை புறக்கணிக்கவும். பிடித்த, பூச்ட், கோரிக்கை"
+", எதிர்வினை போன்றவற்றைப் பின்பற்றுங்கள்."
+
+#, java-printf-format
+msgctxt "changed"
+msgid "Changed."
+msgstr "மாற்றப்பட்டது."
+
+#, java-printf-format
+msgctxt "thumbnails_arrange_vertically"
+msgid "Vertical arrange thumbnails (app restart required)"
+msgstr "செங்குத்து ஏற்பாடு சிறு உருவங்கள் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "instance_local"
+msgid "Server local"
+msgstr "உள்ளக சேவையகம்"
+
+#, java-printf-format
+msgctxt "pull_notification_check_interval"
+msgid "Pull notification check interval (Unit: minutes, default:15, min:15)"
+msgstr ""
+"அறிவிப்பு சோதனை இடைவெளியை இழுக்கவும் (அலகு: நிமிடங்கள், இயல்புநிலை: 15, நிமிடம்: 15)"
+
+#, java-printf-format
+msgctxt "follow_accept"
+msgid "accept"
+msgstr "ஏற்றுக்கொள்"
+
+#, java-printf-format
+msgctxt "follow_deny"
+msgid "deny"
+msgstr "மறுக்கவும்"
+
+#, java-printf-format
+msgctxt "follow_accept_confirm"
+msgid "Approve follow request from %1$s?"
+msgstr "%1$s இலிருந்து கோரிக்கையைப் பின்பற்றவா?"
+
+#, java-printf-format
+msgctxt "follow_deny_confirm"
+msgid "Reject follow request from %1$s?"
+msgstr "%1$s இலிருந்து கோரிக்கையைப் பின்பற்றவா?"
+
+#, java-printf-format
+msgctxt "direct_messages"
+msgid "Direct messages"
+msgstr "நேரடி செய்திகள்"
+
+#, java-printf-format
+msgctxt "unfavourite"
+msgid "Unfavourite"
+msgstr "விடுதலை"
+
+#, java-printf-format
+msgctxt "unboost"
+msgid "Unboost"
+msgstr "பூச்ட்"
+
+#, java-printf-format
+msgctxt "dont_retrieve_preview_card"
+msgid "Don't retrieve preview card"
+msgstr "முன்னோட்ட அட்டையை மீட்டெடுக்க வேண்டாம்"
+
+#, java-printf-format
+msgctxt "field_name1"
+msgid "label1"
+msgstr "சிட்டை 1"
+
+#, java-printf-format
+msgctxt "field_name2"
+msgid "label2"
+msgstr "சிட்டை 2"
+
+#, java-printf-format
+msgctxt "field_name3"
+msgid "label3"
+msgstr "விழுங்க"
+
+#, java-printf-format
+msgctxt "field_name4"
+msgid "label4"
+msgstr "சிட்டை 4"
+
+#, java-printf-format
+msgctxt "field_value1"
+msgid "value1"
+msgstr "மதிப்பு 1"
+
+#, java-printf-format
+msgctxt "field_value2"
+msgid "value2"
+msgstr "மதிப்பு 2"
+
+#, java-printf-format
+msgctxt "field_value3"
+msgid "value3"
+msgstr "மதிப்பு 3"
+
+#, java-printf-format
+msgctxt "field_value4"
+msgid "value4"
+msgstr "மதிப்பு 4"
+
+#, java-printf-format
+msgctxt "profile_metadata"
+msgid "Profile metadata"
+msgstr "சுயவிவர மேனிலை தரவு"
+
+#, java-printf-format
+msgctxt "available_mastodon_2_4_later"
+msgid "(available in Mastodon 2.4+)"
+msgstr "(மாச்டோடன் 2.4+ இல் கிடைக்கிறது)"
+
+#, java-printf-format
+msgctxt "confirm_boost_private_from"
+msgid "Boost private status from %1$s ? It's shown to all followers."
+msgstr ""
+"%1$s இலிருந்து தனியார் நிலையை அதிகரிக்கவா? இது அனைத்து பின்தொடர்பவர்களுக்கும் "
+"காட்டப்பட்டுள்ளது."
+
+#, java-printf-format
+msgctxt "boost_private_toot_not_allowed"
+msgid "Private post can not be boost by another person."
+msgstr "தனியார் பதவியை மற்றொரு நபரால் உயர்த்த முடியாது."
+
+#, java-printf-format
+msgctxt "update_push_subscription"
+msgid "Update push subscription"
+msgstr "புச் சந்தாவைப் புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "pseudo_account_not_supported"
+msgid "Pseudo accounts can't use notifications."
+msgstr "போலி கணக்குகள் அறிவிப்புகளைப் பயன்படுத்த முடியாது."
+
+#, java-printf-format
+msgctxt "instance_does_not_support_push_api"
+msgid "Push subscription is not supported on this server (version %1$s)."
+msgstr "இந்த சேவையகத்தில் புச் சந்தா ஆதரிக்கப்படவில்லை (பதிப்பு %1$s)."
+
+#, java-printf-format
+msgctxt "missing_fcm_device_id"
+msgid "Can't prepare FCM device ID. Please try again later."
+msgstr ""
+"FCM சாதன ஐடியை தயாரிக்க முடியாது. தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "missing_install_id"
+msgid "Can't prepare install ID. Please try again later."
+msgstr ""
+"நிறுவ ஐடியைத் தயாரிக்க முடியாது. தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "token_exported"
+msgid ""
+"Due to exporting application data or restoring from backup, this access "
+"token may be used by other devices as well. Because access tokens that are "
+"not used by other devices are required to use push notifications, we "
+"recommend updating the access token."
+msgstr ""
+"பயன்பாட்டுத் தரவை ஏற்றுமதி செய்வதன் காரணமாக அல்லது காப்புப்பிரதியில் இருந்து மீட்டமைப்பதன் "
+"காரணமாக, இந்த அணுகல் கிள்ளாக்கு பிற சாதனங்களாலும் பயன்படுத்தப்படலாம். மற்ற சாதனங்களால் "
+"பயன்படுத்தப்படாத டோக்கன்கள் புச் அறிவிப்புகளைப் பயன்படுத்த வேண்டியிருப்பதால், அணுகல் "
+"கிள்ளாக்கைப் புதுப்பிக்க பரிந்துரைக்கிறோம்."
+
+#, java-printf-format
+msgctxt "missing_push_api"
+msgid "This server has no push subscription API."
+msgstr "இந்த சேவையகத்தில் புச் சந்தா பநிஇ இல்லை."
+
+#, java-printf-format
+msgctxt "missing_push_scope"
+msgid ""
+"Your access token does not contains push scope. updating access token is "
+"recommended."
+msgstr ""
+"உங்கள் அணுகல் டோக்கனில் புச் நோக்கம் இல்லை. அணுகல் கிள்ளாக்கைப் புதுப்பித்தல் "
+"பரிந்துரைக்கப்படுகிறது."
+
+#, java-printf-format
+msgctxt "push_subscription_deleted"
+msgid "Push subscription deleted."
+msgstr "புச் சந்தா நீக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "push_subscription_updated"
+msgid "Push subscription updated."
+msgstr "சந்தா புதுப்பிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "push_subscription_not_exists"
+msgid "Push subscription not required."
+msgstr "புச் சந்தா தேவையில்லை."
+
+#, java-printf-format
+msgctxt "push_subscription_already_exists"
+msgid "Push subscription up to date."
+msgstr "சந்தாவை புதுப்பித்த நிலையில் தள்ளுங்கள்."
+
+#, java-printf-format
+msgctxt "user_agent"
+msgid "User-Agent HTTP header"
+msgstr "பயனர் முகவர் http தலைப்பு"
+
+#, java-printf-format
+msgctxt "user_agent_error"
+msgid "User-Agent can't contains NON-ASCII characters. [%1$s]"
+msgstr "பயனர்-முகவர் ASCII அல்லாத எழுத்துக்களைக் கொண்டிருக்க முடியாது. [%1$s]"
+
+#, java-printf-format
+msgctxt "none_or_hidden_following"
+msgid "Not following anyone, or hidden by setting."
+msgstr "யாரையும் பின்பற்றவில்லை, அல்லது அமைப்பதன் மூலம் மறைக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "none_or_hidden_followers"
+msgid "No followers, or hidden by setting."
+msgstr "பின்தொடர்பவர்கள் இல்லை, அல்லது அமைப்பதன் மூலம் மறைக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "yourself_can_see_your_network"
+msgid "Even if you choose to hide social graphs, yourself can see it."
+msgstr ""
+"சமூக வரைபடங்களை மறைக்க நீங்கள் தேர்வுசெய்தாலும், நீங்களே அதைப் பார்க்கலாம்."
+
+#, java-printf-format
+msgctxt "follow_follower_list_may_restrict"
+msgid ""
+"If the remote user choose to hide the social graph, only the followings/"
+"followers on this server will be displayed."
+msgstr ""
+"தொலை பயனர் சமூக வரைபடத்தை மறைக்க தேர்வுசெய்தால், இந்த சேவையகத்தில் "
+"பின்வரும்/பின்தொடர்பவர்கள் மட்டுமே காண்பிக்கப்படும்."
+
+#, java-printf-format
+msgctxt "trend_tag"
+msgid "Trending tags"
+msgstr "டிரெண்டிங் குறிச்சொற்கள்"
+
+#, java-printf-format
+msgctxt "trend_link"
+msgid "Trending links"
+msgstr "பிரபலமான இணைப்புகள்"
+
+#, java-printf-format
+msgctxt "trend_post"
+msgid "Trending posts"
+msgstr "பிரபலமான இடுகைகள்"
+
+#, java-printf-format
+msgctxt "people_talking"
+msgid "%1$d(%2$d) people talking"
+msgstr "%1$d (%2$d) மக்கள் பேசுகிறார்கள்"
+
+#, java-printf-format
+msgctxt "trend_tag_desc"
+msgid "The numbers indicate 'daily(weekly)'."
+msgstr "எண்கள் 'நாள்தோறும் (வாராந்திர)' என்பதைக் குறிக்கின்றன."
+
+#, java-printf-format
+msgctxt "redraft_and_delete"
+msgid "Redraft and delete"
+msgstr "மறுபிரவேசம் மற்றும் நீக்கு"
+
+#, java-printf-format
+msgctxt "cant_sync_toot"
+msgid "Can't synchronize post."
+msgstr "இடுகையை ஒத்திசைக்க முடியாது."
+
+#, java-printf-format
+msgctxt "cant_change_account_when_redraft"
+msgid "Can't change account while using redraft."
+msgstr "ரெட்ராஃப்டைப் பயன்படுத்தும் போது கணக்கை மாற்ற முடியாது."
+
+#, java-printf-format
+msgctxt "cant_change_account_when_edit"
+msgid "Can't change account while edit the post."
+msgstr "இடுகையைத் திருத்தும்போது கணக்கை மாற்ற முடியாது."
+
+#, java-printf-format
+msgctxt "delete_base_status_before_toot"
+msgid ""
+"Delete base status before posting. All of favourites/boosts will be lost. "
+"Replies will be disconnected. Media attachments will not kept on Mastodon "
+"pre-2.4.1 . Are you sure?"
+msgstr ""
+"இடுகையிடுவதற்கு முன் அடிப்படை நிலையை நீக்கு. பிடித்தவை/ஊக்கங்கள் அனைத்தும் இழக்கப்படும். "
+"பதில்கள் துண்டிக்கப்படும். ஊடக இணைப்புகள் மாச்டோடன் முன் -2.4.1 இல் வைக்கப்படாது. நீங்கள் "
+"உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "notification_tl_font_size"
+msgid ""
+"Notification TL font size\n"
+"(Unit: sp. leave empty to default. app restart required)\n"
+"…\n"
+"…"
+msgstr ""
+"அறிவிப்பு TL எழுத்துரு அளவு\n"
+" (அலகு: எச்பி. இயல்புநிலைக்கு காலியாக விடவும். பயன்பாட்டு மறுதொடக்கம் தேவை)\n"
+" …\n"
+" …"
+
+#, java-printf-format
+msgctxt "notification_tl_icon_size"
+msgid "Notification TL icon size (Unit:dp. default:24. app restart required)"
+msgstr ""
+"அறிவிப்பு TL படவுரு அளவு (அலகு: dp. இயல்புநிலை: 24. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "post_button_tapped_repeatly"
+msgid "Post button was tapped repeatedly"
+msgstr "அஞ்சல் பொத்தான் அடுத்தடுத்து தட்டப்பட்டது"
+
+#, java-printf-format
+msgctxt "regex_filter_matches_empty_string"
+msgid "Regex filter matches to empty string."
+msgstr "ரீசெக்ச் வடிகட்டி வெற்று சரத்துடன் பொருந்துகிறது."
+
+#, java-printf-format
+msgctxt "follow_suggestion"
+msgid "Follow suggestion"
+msgstr "ஆலோசனையைப் பின்பற்றவும்"
+
+#, java-printf-format
+msgctxt "close_all_columns"
+msgid "Close all columns"
+msgstr "அனைத்து நெடுவரிசைகளையும் மூடு"
+
+#, java-printf-format
+msgctxt "confirm_close_column_all"
+msgid "Really close all columns (exclude protected)?"
+msgstr "எல்லா நெடுவரிசைகளையும் உண்மையில் மூடு (பாதுகாக்கப்பட்டதை விலக்கவும்)?"
+
+#, java-printf-format
+msgctxt "keyword_filters"
+msgid "Keyword filters"
+msgstr "முக்கிய வடிப்பான்கள்"
+
+#, java-printf-format
+msgctxt "keyword_filter"
+msgid "Keyword filter"
+msgstr "முக்கிய வடிகட்டி"
+
+#, java-printf-format
+msgctxt "keyword_filter_new"
+msgid "New filter"
+msgstr "புதிய வடிகட்டி"
+
+#, java-printf-format
+msgctxt "keyword_filter_edit"
+msgid "Edit filter"
+msgstr "வடிகட்டியைத் திருத்து"
+
+#, java-printf-format
+msgctxt "filter_delete_confirm"
+msgid "Delete the filter '%1$s'?"
+msgstr "'%1$s' வடிப்பானை நீக்கவா?"
+
+#, java-printf-format
+msgctxt "filter_of"
+msgid "Filter '%1$s'"
+msgstr "'%1$s' ஐ வடிகட்டவும்"
+
+#, java-printf-format
+msgctxt "filtered"
+msgid "filtered"
+msgstr "வடிகட்டப்பட்டது"
+
+#, java-printf-format
+msgctxt "filter_phrase"
+msgid "Phrase"
+msgstr "சொற்றொடர்"
+
+#, java-printf-format
+msgctxt "filter_context"
+msgid "Filter contexts"
+msgstr "சூழல்களை வடிகட்டவும்"
+
+#, java-printf-format
+msgctxt "filter_options"
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+#, java-printf-format
+msgctxt "filter_irreversible"
+msgid "Irreversible"
+msgstr "மீளமுடியாத"
+
+#, java-printf-format
+msgctxt "filter_irreversible_long"
+msgid ""
+"Irreversible. Drop instead of hide. Filtered posts will disappear "
+"irreversibly, even if the filter is removed later."
+msgstr ""
+"மீளமுடியாத. மறைப்பதற்கு பதிலாக கைவிடவும். வடிகட்டி பின்னர் அகற்றப்பட்டாலும், வடிகட்டிய "
+"பதிவுகள் மாற்றமுடியாமல் மறைந்துவிடும்."
+
+#, java-printf-format
+msgctxt "filter_word_match"
+msgid "Whole word"
+msgstr "முழு சொல்"
+
+#, java-printf-format
+msgctxt "filter_word_match_long"
+msgid ""
+"Whole word. Recommended to enable only phrases consisting of alphanumeric "
+"characters."
+msgstr ""
+"முழு சொல். எண்ணெழுத்து எழுத்துக்களைக் கொண்ட சொற்றொடர்களை மட்டுமே இயக்க "
+"பரிந்துரைக்கப்படுகிறது."
+
+#, java-printf-format
+msgctxt "filter_expires_at"
+msgid "Expire"
+msgstr "காலாவதியாகுங்கள்"
+
+#, java-printf-format
+msgctxt "filter_home"
+msgid "home"
+msgstr "வீடு"
+
+#, java-printf-format
+msgctxt "filter_notification"
+msgid "notification"
+msgstr "அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "filter_public"
+msgid "public"
+msgstr "பொது"
+
+#, java-printf-format
+msgctxt "filter_thread"
+msgid "conversation"
+msgstr "உரையாடல்"
+
+#, java-printf-format
+msgctxt "filter_profile"
+msgid "profile"
+msgstr "சுயவிவரம்"
+
+#, java-printf-format
+msgctxt "dont_change"
+msgid "Don't change"
+msgstr "மாற்ற வேண்டாம்"
+
+#, java-printf-format
+msgctxt "filter_expire_unlimited"
+msgid "Unlimited"
+msgstr "வரம்பற்றது"
+
+#, java-printf-format
+msgctxt "filter_expire_30min"
+msgid "30 minutes after saving"
+msgstr "சேமித்த 30 நிமிடங்களுக்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "filter_expire_1hour"
+msgid "1 hour after saving"
+msgstr "சேமித்த 1 மணி நேரம்"
+
+#, java-printf-format
+msgctxt "filter_expire_6hour"
+msgid "6 hours after saving"
+msgstr "சேமித்த 6 மணி நேரம்"
+
+#, java-printf-format
+msgctxt "filter_expire_12hour"
+msgid "12 hours after saving"
+msgstr "சேமித்த 12 மணி நேரம்"
+
+#, java-printf-format
+msgctxt "filter_expire_1day"
+msgid "1 day after saving"
+msgstr "சேமித்த 1 நாள்"
+
+#, java-printf-format
+msgctxt "filter_expire_1week"
+msgid "1 week after saving"
+msgstr "சேமித்த 1 வாரத்திற்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "scroll_top_from_column_strip"
+msgid "Scroll to top when tapping visible column in column strip"
+msgstr ""
+"நெடுவரிசை ச்ட்ரிப்பில் புலப்படும் நெடுவரிசையைத் தட்டும்போது மேலே உருட்டவும்"
+
+#, java-printf-format
+msgctxt "delete_suggestion"
+msgid "Delete from follow suggestion…"
+msgstr "பின்தொடர் ஆலோசனையிலிருந்து நீக்கு…"
+
+#, java-printf-format
+msgctxt "delete_succeeded_confirm"
+msgid "Remove the user \"%1$s\"from follow suggestion?"
+msgstr "பின்தொடர்தல் ஆலோசனையிலிருந்து பயனரை \"%1$s\" ஐ அகற்றவா?"
+
+#, java-printf-format
+msgctxt "toot_context_parse_failed"
+msgid "Could not parse conversation."
+msgstr "உரையாடலை அலச முடியவில்லை."
+
+#, java-printf-format
+msgctxt "toot_default_text"
+msgid ""
+"Default text when composing post. (Does not affect to quick post bar, nor "
+"switching account in toot composition screen)"
+msgstr ""
+"இடுகையை உருவாக்கும் போது இயல்புநிலை உரை. (விரைவான போச்ட் பட்டியை பாதிக்காது, அல்லது "
+"கணக்கை டூட் கலவை திரையில் மாற்றாது)"
+
+#, java-printf-format
+msgctxt "list_divider_color"
+msgid "List divider color"
+msgstr "வகுப்பி வண்ணத்தை பட்டியலிடுங்கள்"
+
+#, java-printf-format
+msgctxt "display_replies_count"
+msgid "Show replies count"
+msgstr "பதில்களைக் காட்டு எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "display_boost_count"
+msgid "Show boosts count"
+msgstr "காட்டு எண்ணிக்கையை காட்டு"
+
+#, java-printf-format
+msgctxt "display_favourite_count"
+msgid "Show favourites count"
+msgstr "பிடித்தவை எண்ணிக்கையைக் காட்டு"
+
+#, java-printf-format
+msgctxt "replies_count_simple"
+msgid "0/1/1+"
+msgstr "0/1/1+"
+
+#, java-printf-format
+msgctxt "replies_count_actual"
+msgid "Actual"
+msgstr "உண்மையான"
+
+#, java-printf-format
+msgctxt "replies_count_none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "missing_available_account"
+msgid "There is no account available for this purpose."
+msgstr "இந்த நோக்கத்திற்காக கணக்கு எதுவும் கிடைக்கவில்லை."
+
+#, java-printf-format
+msgctxt "misskey_account_not_supported"
+msgid "Misskey account is not supported."
+msgstr "மிச்கி கணக்கு ஆதரிக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "misskey_cant_show_all_descendants"
+msgid ""
+"In Misskey, only direct replies to target note are enumerated. Not all "
+"descendants can be displayed."
+msgstr ""
+"மிச்கியில், இலக்கு குறிப்புக்கான நேரடி பதில்கள் மட்டுமே கணக்கிடப்படுகின்றன. எல்லா "
+"சந்ததியினரையும் காட்ட முடியாது."
+
+#, java-printf-format
+msgctxt "cant_get_misskey_app_secret"
+msgid ""
+"This Misskey server does not provide app secret in the response of /api/app/"
+"create API. Please consider updating the Misskey service version to server "
+"admin."
+msgstr ""
+"இந்த மிச்கி சேவையகம்/API/APP/API இன் பதிலில் பயன்பாட்டு ரகசியத்தை வழங்காது. சேவையக "
+"நிர்வாகிக்கு மிச்கி பணி பதிப்பைப் புதுப்பிப்பதைக் கவனியுங்கள்."
+
+#, java-printf-format
+msgctxt "visibility_style"
+msgid "<![CDATA[Visibility name & icon]]>"
+msgstr "<![CDATA[தெரிவுநிலை பெயர் &சின்னம்]]>"
+
+#, java-printf-format
+msgctxt "visibility_style_by_account"
+msgid "Fit to column account"
+msgstr "நெடுவரிசை கணக்கிற்கு பொருந்தும்"
+
+#, java-printf-format
+msgctxt "mastodon"
+msgid "Mastodon"
+msgstr "மாச்டோடன்"
+
+#, java-printf-format
+msgctxt "misskey"
+msgid "Misskey"
+msgstr "மிச்கி"
+
+#, java-printf-format
+msgctxt "visibility_home"
+msgid "Home"
+msgstr "வீடு"
+
+#, java-printf-format
+msgctxt "visibility_followers"
+msgid "Followers"
+msgstr "பின்தொடர்பவர்கள்"
+
+#, java-printf-format
+msgctxt "vote_count_text"
+msgid "%1$d votes"
+msgstr "%1$d வாக்குகள்"
+
+#, java-printf-format
+msgctxt "reaction_add"
+msgid "Add reaction"
+msgstr "எதிர்வினை சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "reaction_remove"
+msgid "Remove reaction"
+msgstr "எதிர்வினையை அகற்று"
+
+#, java-printf-format
+msgctxt "unknown_notification_from"
+msgid "unknown notification from %1$s"
+msgstr "%1$s இலிருந்து அறியப்படாத அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "dont_show_reaction"
+msgid "Don't show reaction"
+msgstr "எதிர்வினை காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "dont_show_vote"
+msgid "Don't show enquete"
+msgstr "என்கெட்டைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "boost_button_size"
+msgid "Boost button size (Unit:dp, default=40, app restart required)"
+msgstr ""
+"பூச்ட் பொத்தான் அளவு (அலகு: டிபி, இயல்புநிலை = 40, பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "boost_button_alignment"
+msgid "Boost button alignment (app restart required)"
+msgstr "பூச்ட் பொத்தான் சீரமைப்பு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "start"
+msgid "Start"
+msgstr "தொடங்கு"
+
+#, java-printf-format
+msgctxt "center"
+msgid "Center"
+msgstr "நடுவண்"
+
+#, java-printf-format
+msgctxt "end"
+msgid "End"
+msgstr "முடிவு"
+
+#, java-printf-format
+msgctxt "misskey_hybrid_timeline"
+msgid "Social timeline"
+msgstr "சமூக காலவரிசை"
+
+#, java-printf-format
+msgctxt "misskey_hybrid_timeline_long"
+msgid "Social TL (Misskey)"
+msgstr "சமூக டி.எல் (மிச்கி)"
+
+#, java-printf-format
+msgctxt "renote_to"
+msgid "Renote to %1$s"
+msgstr "ரிமோட் டு %1$s"
+
+#, java-printf-format
+msgctxt "quote_to"
+msgid "Quote to %1$s"
+msgstr "%1$s க்கு மேற்கோள்"
+
+#, java-printf-format
+msgctxt "reply_to"
+msgid "Reply to %1$s"
+msgstr "%1$s க்கு பதில்"
+
+#, java-printf-format
+msgctxt "deleted_at"
+msgid "deleted at %1$s"
+msgstr "%1$s இல் நீக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "already_reactioned"
+msgid "already reacted to."
+msgstr "ஏற்கனவே எதிர்வினையாற்றியது."
+
+#, java-printf-format
+msgctxt "not_reactioned"
+msgid "not yet reacted to."
+msgstr "இன்னும் எதிர்வினையாற்றவில்லை."
+
+#, java-printf-format
+msgctxt "unlisted_visibility"
+msgid "'Unlisted' visibility"
+msgstr "'பட்டியலிடப்படாத' தெரிவுநிலை"
+
+#, java-printf-format
+msgctxt "followers_visibility"
+msgid "'Followers' visibility"
+msgstr "'பின்தொடர்பவர்களின் தெரிவுநிலை"
+
+#, java-printf-format
+msgctxt "direct_with_user_visibility"
+msgid "'Direct to users' visibility"
+msgstr "'பயனர்களின் தெரிவுநிலைக்கு நேரடியாக"
+
+#, java-printf-format
+msgctxt "direct_only_me_visibility"
+msgid "'Direct only me' visibility"
+msgstr "'எனக்கு மட்டும் என்னை' தெரிவுநிலை"
+
+#, java-printf-format
+msgctxt "already_voted"
+msgid "Already voted."
+msgstr "ஏற்கனவே வாக்களித்தார்."
+
+#, java-printf-format
+msgctxt "endorse_set"
+msgid "Endorse in your profile"
+msgstr "உங்கள் சுயவிவரத்தில் ஒப்புதல் அளிக்கவும்"
+
+#, java-printf-format
+msgctxt "endorse_unset"
+msgid "Remove endorsement in your profile"
+msgstr "உங்கள் சுயவிவரத்தில் ஒப்புதலை அகற்று"
+
+#, java-printf-format
+msgctxt "endorse_succeeded"
+msgid "Endorsed."
+msgstr "ஒப்புதல்."
+
+#, java-printf-format
+msgctxt "remove_endorse_succeeded"
+msgid "Unendorsemed."
+msgstr "ஒப்புதல்நீக்குவெற்றி."
+
+#, java-printf-format
+msgctxt "follow_request_cancelled"
+msgid "Follow request cancelled."
+msgstr "கோரிக்கையைப் பின்பற்றவும் ரத்து செய்யப்பட்டது."
+
+#, java-printf-format
+msgctxt "confirm_cancel_follow_request_who_from"
+msgid "Cancel follow request from %2$s to %1$s?"
+msgstr "ரத்துசெய் %2$s முதல் %1$s வரை கோரிக்கையைப் பின்தொடரவும்?"
+
+#, java-printf-format
+msgctxt "reaction"
+msgid "Reaction"
+msgstr "எதிர்வினை"
+
+#, java-printf-format
+msgctxt "vote_polls"
+msgid "voting or its result"
+msgstr "வாக்களிப்பு அல்லது அதன் முடிவு"
+
+#, java-printf-format
+msgctxt "timeout_for_embed_media_viewer"
+msgid ""
+"Timeout for embedded media viewer (Unit:seconds, app restart(delete from app "
+"history) required)"
+msgstr ""
+"உட்பொதிக்கப்பட்ட மீடியா பார்வையாளருக்கான நேரம் முடிந்தது (அலகு: விநாடிகள், பயன்பாட்டு "
+"மறுதொடக்கம் (பயன்பாட்டு வரலாற்றிலிருந்து நீக்குதல்) தேவை)"
+
+#, java-printf-format
+msgctxt "timeout_for_server_api"
+msgid ""
+"Timeout for server API(Unit:seconds, app restart(delete from app history) "
+"required)"
+msgstr ""
+"சேவையக பநிஇ க்கான நேரம் முடிந்தது (அலகு: விநாடிகள், பயன்பாட்டு மறுதொடக்கம் (பயன்பாட்டு "
+"வரலாற்றிலிருந்து நீக்குதல்) தேவை)"
+
+#, java-printf-format
+msgctxt "link_color"
+msgid "Link color (app restart required)"
+msgstr "இணைப்பு நிறம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "missing_closeable_column"
+msgid "Missing closeable column in visible range."
+msgstr "புலப்படும் வரம்பில் மூடக்கூடிய நெடுவரிசையை காணவில்லை."
+
+#, java-printf-format
+msgctxt "dont_use_custom_tabs"
+msgid "Don't use (Chrome/Firefox) \"Custom Tabs\" when opening links"
+msgstr ""
+"இணைப்புகளைத் திறக்கும்போது (Chrome/Firefox) \"தனிப்பயன் தாவல்கள்\" பயன்படுத்த வேண்டாம்"
+
+#, java-printf-format
+msgctxt "privacy_policy"
+msgid "Privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, java-printf-format
+msgctxt "agree"
+msgid "I agree"
+msgstr "நான் ஒப்புக்கொள்கிறேன்"
+
+#, java-printf-format
+msgctxt "ltl_around_toot"
+msgid "Local TL around the post"
+msgstr "இடுகையைச் சுற்றி உள்ளக டி.எல்"
+
+#, java-printf-format
+msgctxt "ltl_around"
+msgid "Local timeline around…"
+msgstr "சுற்றி உள்ளக காலவரிசை…"
+
+#, java-printf-format
+msgctxt "ltl_around_of"
+msgid "Local timeline around %1$s"
+msgstr "உள்ளக காலவரிசை சுமார் %1$s"
+
+#, java-printf-format
+msgctxt "ftl_around_toot"
+msgid "Federated TL around the post"
+msgstr "இடுகையைச் சுற்றி கூட்டாட்சி டி.எல்"
+
+#, java-printf-format
+msgctxt "ftl_around"
+msgid "Federated timeline around…"
+msgstr "கூட்டாட்சி காலவரிசை…"
+
+#, java-printf-format
+msgctxt "ftl_around_of"
+msgid "Federated timeline around %1$s"
+msgstr "கூட்டாட்சி காலவரிசை %1$s"
+
+#, java-printf-format
+msgctxt "account_tl_around_toot"
+msgid "Account TL around the post"
+msgstr "இடுகையைச் சுற்றி கணக்கு"
+
+#, java-printf-format
+msgctxt "account_tl_around"
+msgid "Account timeline around…"
+msgstr "கணக்கு காலவரிசை…"
+
+#, java-printf-format
+msgctxt "account_tl_around_of"
+msgid "Account timeline around %1$s"
+msgstr "கணக்கு காலவரிசை %1$s"
+
+#, java-printf-format
+msgctxt "verified_at"
+msgid "verified at"
+msgstr "சரிபார்க்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "use_old_api"
+msgid "Use old API"
+msgstr "பழைய பநிஇ பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "around_toot_limitation_warning"
+msgid ""
+"\"Timeline around the specified time\" feature has limitation for the server "
+"Mastodon pre-2.6.0. It is impossible to get a little newer timeline from the "
+"specified time."
+msgstr ""
+"\"குறிப்பிட்ட நேரத்தைச் சுற்றி காலவரிசை\" நற்பொருத்தம் சேவையக மாச்டோடன் முன் -2.6.0 க்கு "
+"வரம்பைக் கொண்டுள்ளது. குறிப்பிட்ட நேரத்திலிருந்து கொஞ்சம் புதிய காலவரிசையைப் பெறுவது "
+"சாத்தியமில்லை."
+
+#, java-printf-format
+msgctxt "card_description_length"
+msgid "Preview card description characters limit"
+msgstr "முன்னோட்ட அட்டை விளக்கம் எழுத்துக்கள் வரம்பு"
+
+#, java-printf-format
+msgctxt "status_deleted_at"
+msgid "This note has been deleted at %1$s"
+msgstr "இந்த குறிப்பு %1$s இல் நீக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "status_deleted"
+msgid "This note has been deleted"
+msgstr "இந்த குறிப்பு நீக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "conversation_without_reply"
+msgid "(no reply)"
+msgstr "(பதில் இல்லை)"
+
+#, java-printf-format
+msgctxt "show_conversation"
+msgid "Show conversation"
+msgstr "உரையாடலைக் காட்டு"
+
+#, java-printf-format
+msgctxt "participants"
+msgid "Participants:"
+msgstr "பங்கேற்பாளர்கள்:"
+
+#, java-printf-format
+msgctxt "participants_and_more"
+msgid "… and more"
+msgstr "… மேலும்"
+
+#, java-printf-format
+msgctxt "conversation_to"
+msgid "To:"
+msgstr "இதற்கு:"
+
+#, java-printf-format
+msgctxt "use_quote_toot"
+msgid "Use \"Quote Post\". (customized server)"
+msgstr "\"மேற்கோள் இடுகை\" ஐப் பயன்படுத்தவும். (தனிப்பயனாக்கப்பட்ட சேவையகம்)"
+
+#, java-printf-format
+msgctxt "mute_application_confirm"
+msgid "Mute the app \"%1$s\"?"
+msgstr "\"%1$s\" பயன்பாட்டை முடக்கவா?"
+
+#, java-printf-format
+msgctxt "boost_button_alpha"
+msgid ""
+"Boost button alpha opacity (Unit:%. app restart required. also affected of "
+"content text alpha.)"
+msgstr ""
+"பூச்ட் பொத்தான் ஆல்பா ஒளிபுகாநிலை (அலகு:%. பயன்பாட்டு மறுதொடக்கம் தேவை. உள்ளடக்க உரை "
+"ஆல்பாவையும் பாதிக்கிறது.)"
+
+#, java-printf-format
+msgctxt "toot_background_color"
+msgid "Post background color"
+msgstr "பின்னணி நிறத்தை இடுங்கள்"
+
+#, java-printf-format
+msgctxt "column_color_default"
+msgid "Column color default"
+msgstr "நெடுவரிசை வண்ண இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "header_background_color"
+msgid "Header background color"
+msgstr "தலைப்பு பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "header_foreground_color"
+msgid "Header foreground color"
+msgstr "தலைப்பு முன்புற நிறம்"
+
+#, java-printf-format
+msgctxt "content_background_color"
+msgid "Content background color"
+msgstr "உள்ளடக்க பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "content_acct_color"
+msgid "Content acct color"
+msgstr "உள்ளடக்க ACCT நிறம்"
+
+#, java-printf-format
+msgctxt "content_text_color"
+msgid "Content text color"
+msgstr "உள்ளடக்க உரை நிறம்"
+
+#, java-printf-format
+msgctxt "quick_toot_bar_background_color"
+msgid "Quick post bar background color"
+msgstr "விரைவான போச்ட் பார் பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "dont_show_preview_card"
+msgid "Don't show preview card"
+msgstr "முன்னோட்ட அட்டையைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "instance_does_not_support_push_api_pleroma"
+msgid "Push subscription API is not supported on this server (maybe Pleroma)."
+msgstr "புச் சந்தா பநிஇ இந்த சேவையகத்தில் ஆதரிக்கப்படவில்லை (ஒருவேளை ப்ளெரோமா)."
+
+#, java-printf-format
+msgctxt "quote_renote"
+msgid "Quoted renote (Misskey)"
+msgstr "மேற்கோள் ரெனோட் (மிச்கி)"
+
+#, java-printf-format
+msgctxt "blank_cw"
+msgid "(blank CW)"
+msgstr "(வெற்று சி.டபிள்யூ)"
+
+#, java-printf-format
+msgctxt "actions_for_instance"
+msgid "Actions for this server"
+msgstr "இந்த சேவையகத்திற்கான செயல்கள்"
+
+#, java-printf-format
+msgctxt "animation"
+msgid "Animation"
+msgstr "அனிமேசன்"
+
+#, java-printf-format
+msgctxt "tls_handshake"
+msgid "TLS Handshake"
+msgstr ""
+
+#, java-printf-format
+msgctxt "links"
+msgid "Links"
+msgstr "இணைப்புகள்"
+
+#, java-printf-format
+msgctxt "profile_directory"
+msgid "Directory"
+msgstr "அடைவு"
+
+#, java-printf-format
+msgctxt "profile_directory_of"
+msgid "Directory of \"%1$s\""
+msgstr "\"%1$s\" அடைவு"
+
+#, java-printf-format
+msgctxt "about_this_instance"
+msgid "About this server"
+msgstr "இந்த சேவையகம் பற்றி"
+
+#, java-printf-format
+msgctxt "top_page"
+msgid "Top page"
+msgstr "முதல் பக்கம்"
+
+#, java-printf-format
+msgctxt "show_open_sticker"
+msgid "Show OpenSticker (column reload required)"
+msgstr "ஓபன்ச்டிக்கரைக் காட்டு (நெடுவரிசை மறுஏற்றம் தேவை)"
+
+#, java-printf-format
+msgctxt "location"
+msgid "Location"
+msgstr "இடம்"
+
+#, java-printf-format
+msgctxt "birthday"
+msgid "Birthday"
+msgstr "பிறந்த நாள்"
+
+#, java-printf-format
+msgctxt "existing_account"
+msgid "Log in"
+msgstr "புகுபதிகை"
+
+#, java-printf-format
+msgctxt "existing_account_desc"
+msgid "Log in as existing account."
+msgstr "இருக்கும் கணக்காக உள்நுழைக."
+
+#, java-printf-format
+msgctxt "create_account"
+msgid "Create account"
+msgstr "கணக்கை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "create_account_desc"
+msgid "Create new account on specified server."
+msgstr "குறிப்பிட்ட சேவையகத்தில் புதிய கணக்கை உருவாக்கவும்."
+
+#, java-printf-format
+msgctxt "user_name_hint"
+msgid "ex.) MonaLisa"
+msgstr "எ.கா.) மோனாலிசா"
+
+#, java-printf-format
+msgctxt "user_name"
+msgid "User name"
+msgstr "பயனர் பெயர்"
+
+#, java-printf-format
+msgctxt "email_hint"
+msgid "ex.) monalisa@gmail.com"
+msgstr "எ.கா.) monalisa@gmail.com"
+
+#, java-printf-format
+msgctxt "password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, java-printf-format
+msgctxt "password_hint"
+msgid "Enter the password…"
+msgstr "கடவுச்சொல்லை உள்ளிடவும்…"
+
+#, java-printf-format
+msgctxt "terms"
+msgid "terms"
+msgstr "விதிமுறைகள்"
+
+#, java-printf-format
+msgctxt "agree_terms"
+msgid "I agree to the terms of service"
+msgstr "பணி விதிமுறைகளை நான் ஒப்புக்கொள்கிறேன்"
+
+#, java-printf-format
+msgctxt "instance_rules"
+msgid "Server rules"
+msgstr "சேவையக விதிகள்"
+
+#, java-printf-format
+msgctxt "username_empty"
+msgid "Please specify the user name."
+msgstr "பயனர் பெயரைக் குறிப்பிடவும்."
+
+#, java-printf-format
+msgctxt "email_empty"
+msgid "Please specify the e-mail address."
+msgstr "மின்னஞ்சல் முகவரியைக் குறிப்பிடவும்."
+
+#, java-printf-format
+msgctxt "password_empty"
+msgid "Please specify the password."
+msgstr "கடவுச்சொல்லைக் குறிப்பிடவும்."
+
+#, java-printf-format
+msgctxt "username_not_need_atmark"
+msgid "The username can not contain \"@\" or \"/\"."
+msgstr "பயனர்பெயரில் \"@\" அல்லது \"/\" இருக்க முடியாது."
+
+#, java-printf-format
+msgctxt "pseudo_account_cant_get_follow_list"
+msgid "Can't read follow list from pseudo account."
+msgstr "போலி கணக்கிலிருந்து பின்தொடர் பட்டியலைப் படிக்க முடியாது."
+
+#, java-printf-format
+msgctxt "reaction_remove_confirm"
+msgid "Remove your reaction \"%1$s\"?"
+msgstr "உங்கள் எதிர்வினையை \"%1$s\" ஐ அகற்றவா?"
+
+#, java-printf-format
+msgctxt "scheduled_status"
+msgid "Scheduled post"
+msgstr "திட்டமிடப்பட்ட இடுகை"
+
+#, java-printf-format
+msgctxt "unspecified"
+msgid "Unspecified"
+msgstr "குறிப்பிடப்படாத"
+
+#, java-printf-format
+msgctxt "scheduled_status_sent"
+msgid "Scheduled status was sent."
+msgstr "திட்டமிடப்பட்ட நிலை அனுப்பப்பட்டது."
+
+#, java-printf-format
+msgctxt "scheduled_status_delete_confirm"
+msgid "Delete this scheduled status?"
+msgstr "இந்த திட்டமிடப்பட்ட நிலையை நீக்கவா?"
+
+#, java-printf-format
+msgctxt "scheduled_post_deleted"
+msgid "Deleted."
+msgstr "நீக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "scheduled_status_list"
+msgid "Scheduled status list"
+msgstr "திட்டமிடப்பட்ட நிலை பட்டியல்"
+
+#, java-printf-format
+msgctxt "cant_change_account_when_editing_scheduled_status"
+msgid "Can't change account when editing scheduled status."
+msgstr "திட்டமிடப்பட்ட நிலையைத் திருத்தும்போது கணக்கை மாற்ற முடியாது."
+
+#, java-printf-format
+msgctxt "delete_scheduled_status_before_update"
+msgid "Delete scheduled status before posting. Are you sure?"
+msgstr ""
+"இடுகையிடுவதற்கு முன் திட்டமிடப்பட்ட நிலையை நீக்கு. நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "reply_icon_size"
+msgid "Reply icon size (Unit: dp. Default:24. App restart required)"
+msgstr ""
+"பதில் படவுரு அளவு (அலகு: டிபி. இயல்புநிலை: 24. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "header_icon_size"
+msgid "Header icon size (Unit: dp. Default:24. App restart required)"
+msgstr ""
+"தலைப்பு படவுரு அளவு (அலகு: டிபி. இயல்புநிலை: 24. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "header_text_size"
+msgid "Header text size (Unit: sp. Default:14. App restart required)"
+msgstr ""
+"தலைப்பு உரை அளவு (அலகு: எச்பி. இயல்புநிலை: 14. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "strip_icon_size"
+msgid "Column strip icon size (Unit: dp. Default:30. App restart required)"
+msgstr ""
+"நெடுவரிசை துண்டு படவுரு அளவு (அலகு: டிபி. இயல்புநிலை: 30. பயன்பாட்டு மறுதொடக்கம் "
+"தேவை)"
+
+#, java-printf-format
+msgctxt "all"
+msgid "All"
+msgstr "அனைத்தும்"
+
+#, java-printf-format
+msgctxt "show_links_in_context_menu"
+msgid "Show links in context menu"
+msgstr "சூழல் பட்டியலில் இணைப்புகளைக் காண்பி"
+
+#, java-printf-format
+msgctxt "scheduled_status_requires_mastodon_2_7_0"
+msgid "Scheduled status requires Mastodon 2.7.0 or later."
+msgstr "திட்டமிடப்பட்ட நிலைக்கு மாச்டோடன் 2.7.0 அல்லது அதற்குப் பிறகு தேவை."
+
+#, java-printf-format
+msgctxt "move_notifications_quick_filter_to_column_setting"
+msgid ""
+"Show notifications quick filter in column setting (app restart required)"
+msgstr ""
+"அறிவிப்புகளைக் காண்பி நெடுவரிசை அமைப்பில் விரைவான வடிகட்டி (பயன்பாட்டு மறுதொடக்கம் "
+"தேவை)"
+
+#, java-printf-format
+msgctxt "copy_account_id"
+msgid "Copy account ID %1$s"
+msgstr "கணக்கு ஐடி %1$s நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "open_in_admin_ui"
+msgid "Open in admin web UI"
+msgstr "நிர்வாகி வலை இடைமுகம் இல் திறக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "show_acct_in_system_notification"
+msgid "Show acct (instead of user name) in system notification"
+msgstr "கணினி அறிவிப்பில் ACCT (பயனர் பெயருக்கு பதிலாக) காட்டு"
+
+#, java-printf-format
+msgctxt "show_link_underline"
+msgid "Show link underline"
+msgstr "இணைப்பு அடிக்கோடிட்டுக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "official_account"
+msgid "Official account"
+msgstr "அதிகாரப்பூர்வ கணக்கு"
+
+#, java-printf-format
+msgctxt "releases"
+msgid "Releases"
+msgstr "வெளியீடுகள்"
+
+#, java-printf-format
+msgctxt "timezone"
+msgid "Time zone (app restart required)"
+msgstr "நேர மண்டலம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "device_timezone"
+msgid "Device time zone"
+msgstr "சாதன நேர மண்டலம்"
+
+#, java-printf-format
+msgctxt "hashtag_extra_any"
+msgid "Additional tags: any (tags without #)"
+msgstr "கூடுதல் குறிச்சொற்கள்: ஏதேனும் ( #இல்லாத குறிச்சொற்கள்)"
+
+#, java-printf-format
+msgctxt "hashtag_extra_all"
+msgid "Additional tags: all (tags without #)"
+msgstr "கூடுதல் குறிச்சொற்கள்: அனைத்தும் ( #இல்லாத குறிச்சொற்கள்)"
+
+#, java-printf-format
+msgctxt "hashtag_extra_none"
+msgid "Additional tags: none (tags without #)"
+msgstr "கூடுதல் குறிச்சொற்கள்: எதுவுமில்லை ( #இல்லாத குறிச்சொற்கள்)"
+
+#, java-printf-format
+msgctxt "hashtag_title_any"
+msgid "or %1$s"
+msgstr "அல்லது %1$s"
+
+#, java-printf-format
+msgctxt "hashtag_title_all"
+msgid "and %1$s"
+msgstr "மற்றும் %1$s"
+
+#, java-printf-format
+msgctxt "hashtag_title_none"
+msgid "without %1$s"
+msgstr "%1$s இல்லாமல்"
+
+#, java-printf-format
+msgctxt "add"
+msgid "Add"
+msgstr "கூட்டு"
+
+#, java-printf-format
+msgctxt "show_clear_button_in_search_bar"
+msgid "Show clear button on search bar (app restart required)"
+msgstr "தேடல் பட்டியில் தெளிவான பொத்தானைக் காட்டு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "event_background_color"
+msgid "Event background color"
+msgstr "நிகழ்வு பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "unfollow_misskey"
+msgid "Unfollow (Misskey)"
+msgstr "பின்தொடர்வது (மிச்கி)"
+
+#, java-printf-format
+msgctxt "follow_request_misskey"
+msgid "Follow request (Misskey)"
+msgstr "கோரிக்கையைப் பின்பற்றவும் (மிச்கி)"
+
+#, java-printf-format
+msgctxt "dont_remove_deleted_toot_from_timeline"
+msgid "Don't remove deleted posts from timeline"
+msgstr "நீக்கப்பட்ட இடுகைகளை காலவரிசையிலிருந்து அகற்ற வேண்டாம்"
+
+#, java-printf-format
+msgctxt "dont_show_column_background_image"
+msgid "Don't show column background image"
+msgstr "நெடுவரிசை பின்னணி படத்தைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "allow_multiple_choice"
+msgid "Allow multiple choice"
+msgstr "பல தேர்வை அனுமதிக்கவும்"
+
+#, java-printf-format
+msgctxt "hide_totals"
+msgid "Hide totals until expire"
+msgstr "காலாவதியாகும் வரை மொத்தங்களை மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "expiration"
+msgid "Expiration"
+msgstr "காலாவதி"
+
+#, java-printf-format
+msgctxt "poll_dont_make"
+msgid "Don't make poll"
+msgstr "வாக்கெடுப்பு செய்ய வேண்டாம்"
+
+#, java-printf-format
+msgctxt "poll_make"
+msgid "Make poll"
+msgstr "வாக்கெடுப்பு செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "poll_make_friends_nico"
+msgid "Make poll (friends.nico API)"
+msgstr "வாக்கெடுப்பை உருவாக்குங்கள் (நண்பர்கள்.ரிகோ ஏபிஐ)"
+
+#, java-printf-format
+msgctxt "plus"
+msgid "+"
+msgstr ""
+
+#, java-printf-format
+msgctxt "poll_expire_days"
+msgid "days"
+msgstr "நாட்கள்"
+
+#, java-printf-format
+msgctxt "poll_expire_hours"
+msgid "hours"
+msgstr "மணி"
+
+#, java-printf-format
+msgctxt "poll_expire_minutes"
+msgid "minutes"
+msgstr "நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "vote_1"
+msgid "1 vote"
+msgstr "1 வாக்கு"
+
+#, java-printf-format
+msgctxt "vote_2"
+msgid "%1$d votes."
+msgstr "%1$d வாக்குகள்."
+
+#, java-printf-format
+msgctxt "vote_expire_at"
+msgid "time limit: %1$s"
+msgstr "நேர வரம்பு: %1$s"
+
+#, java-printf-format
+msgctxt "vote_count_unavailable"
+msgid "??? votes"
+msgstr "??? வாக்குகள்"
+
+#, java-printf-format
+msgctxt "vote_button"
+msgid "Vote"
+msgstr "வாக்களிக்கவும்"
+
+#, java-printf-format
+msgctxt "end_of_polling_from"
+msgid "End of polling from %1$s"
+msgstr "%1$s இலிருந்து வாக்குப்பதிவின் முடிவு"
+
+#, java-printf-format
+msgctxt "open_hashtag_from_account"
+msgid "Open hashtag(from %1$s) column"
+msgstr "திறந்த ஏச்டேக் ( %1$s இலிருந்து) நெடுவரிசையை திறந்து வைக்கவும்"
+
+#, java-printf-format
+msgctxt "hashtag_from_acct"
+msgid "Hashtag from account"
+msgstr "கணக்கிலிருந்து ஏச்டேக்"
+
+#, java-printf-format
+msgctxt "hashtag_of_from"
+msgid "Hashtag #%1$s from %2$s"
+msgstr "%2$s இலிருந்து # %1$s ஏச்டேக்"
+
+#, java-printf-format
+msgctxt "boost_with_visibility"
+msgid "Boost with visibility"
+msgstr "தெரிவுநிலையுடன் அதிகரிக்கும்"
+
+#, java-printf-format
+msgctxt "confirm_private_boost_from"
+msgid "Boost this status from %1$s ? It's shown to all followers."
+msgstr ""
+"இந்த நிலையை %1$s இலிருந்து உயர்த்தவா? இது அனைத்து பின்தொடர்பவர்களுக்கும் காட்டப்பட்டுள்ளது."
+
+#, java-printf-format
+msgctxt "quick_toot_menu"
+msgid "Quick post menu"
+msgstr "விரைவான இடுகை பட்டியல்"
+
+#, java-printf-format
+msgctxt "input"
+msgid "Input"
+msgstr "உள்ளீடு"
+
+#, java-printf-format
+msgctxt "polls_choice_not_selected"
+msgid "Please select 1 or more choices."
+msgstr "1 அல்லது அதற்கு மேற்பட்ட தேர்வுகளைத் தேர்ந்தெடுக்கவும்."
+
+#, java-printf-format
+msgctxt "custom_emoji_separator_zwsp"
+msgid "use ZWSP instead of space for custom emoji separator"
+msgstr ""
+"தனிப்பயன் ஈமோசி பிரிப்பானுக்கு இடத்திற்கு பதிலாக ZWSP ஐப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "fixed_phrase"
+msgid "fixed phrase"
+msgstr "நிலையான சொற்றொடர்"
+
+#, java-printf-format
+msgctxt "mark_sensitive_by_default"
+msgid "Always mark media as sensitive (when posting)"
+msgstr "எப்போதும் மீடியாவை உணர்திறன் என்று குறிக்கவும் (இடுகையிடும்போது)"
+
+#, java-printf-format
+msgctxt "load_preference_from_web_ui"
+msgid "Load some preferences from WebUI"
+msgstr "WebUI இலிருந்து சில விருப்பங்களை ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "notifications_from_acct"
+msgid "Notifications from user"
+msgstr "பயனரிடமிருந்து அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "notifications_from"
+msgid "Notifications from %1$s"
+msgstr "%1$s இலிருந்து அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "show_translate_button"
+msgid "Show translate button"
+msgstr "மொழிபெயர்ப்பு பொத்தானைக் காட்டு"
+
+#, java-printf-format
+msgctxt "translate"
+msgid "Translate"
+msgstr "மொழிபெயர்த்திடு"
+
+#, java-printf-format
+msgctxt "translation_app"
+msgid "Translation app"
+msgstr "மொழிபெயர்ப்பு பயன்பாடு"
+
+#, java-printf-format
+msgctxt "missing_app_can_receive_action_send"
+msgid "Missing app that can receive ACTION_SEND."
+msgstr "Action_send ஐப் பெறக்கூடிய பயன்பாடு காணாமல் போனது."
+
+#, java-printf-format
+msgctxt "select_destination_app_and_back"
+msgid "Select the destination app, then back to app setting."
+msgstr "இலக்கு பயன்பாட்டைத் தேர்ந்தெடுத்து, பயன்பாட்டு அமைப்புக்குத் திரும்பு."
+
+#, java-printf-format
+msgctxt "custom_share_button_1"
+msgid "Custom share button 1"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 1"
+
+#, java-printf-format
+msgctxt "custom_share_button_2"
+msgid "Custom share button 2"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 2"
+
+#, java-printf-format
+msgctxt "custom_share_button_3"
+msgid "Custom share button 3"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 3"
+
+#, java-printf-format
+msgctxt "custom_share_button_4"
+msgid "Custom share button 4"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 4"
+
+#, java-printf-format
+msgctxt "custom_share_button_5"
+msgid "Custom share button 5"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 5"
+
+#, java-printf-format
+msgctxt "custom_share_button_6"
+msgid "Custom share button 6"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 6"
+
+#, java-printf-format
+msgctxt "custom_share_button_7"
+msgid "Custom share button 7"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 7"
+
+#, java-printf-format
+msgctxt "custom_share_button_8"
+msgid "Custom share button 8"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 8"
+
+#, java-printf-format
+msgctxt "custom_share_button_9"
+msgid "Custom share button 9"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 9"
+
+#, java-printf-format
+msgctxt "custom_share_button_10"
+msgid "Custom share button 10"
+msgstr "தனிப்பயன் பகிர்வு பொத்தான் 10"
+
+#, java-printf-format
+msgctxt "custom_share_app_not_found"
+msgid ""
+"the share target app is not installed. please configure it in "
+"\"App setting/behavior\"."
+msgstr ""
+"பங்கு இலக்கு பயன்பாடு நிறுவப்படவில்லை. தயவுசெய்து அதை \"பயன்பாட்டு அமைப்பு/நடத்தை\" இல் "
+"உள்ளமைக்கவும்."
+
+#, java-printf-format
+msgctxt "additional_buttons_position"
+msgid "Additional buttons position (app restart required)"
+msgstr "கூடுதல் பொத்தான்கள் நிலை (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "top"
+msgid "Top"
+msgstr "மேலே"
+
+#, java-printf-format
+msgctxt "bottom"
+msgid "Bottom"
+msgstr "கீழே"
+
+#, java-printf-format
+msgctxt "switch_button_color"
+msgid "Switch button color"
+msgstr "சுவிட்ச் பொத்தான் நிறம்"
+
+#, java-printf-format
+msgctxt "max_toot_chars"
+msgid ""
+"maximum character count in status (0:default. if server provides "
+"max_toot_chars, this setting is ignored.)"
+msgstr ""
+"நிலையில் அதிகபட்ச எழுத்து எண்ணிக்கை (0: இயல்புநிலை. சேவையகம் max_toot_chars ஐ "
+"வழங்கினால், இந்த அமைப்பு புறக்கணிக்கப்படுகிறது.)"
+
+#, java-printf-format
+msgctxt "read_more_hashtag"
+msgid "Read more hashtags"
+msgstr "மேலும் படிக்க ஏச்டேக்குகள்"
+
+#, java-printf-format
+msgctxt "read_more_account"
+msgid "Read more accounts"
+msgstr "மேலும் கணக்குகளைப் படியுங்கள்"
+
+#, java-printf-format
+msgctxt "read_more_status"
+msgid "Read more posts"
+msgstr "மேலும் இடுகைகளைப் படிக்கவும்"
+
+#, java-printf-format
+msgctxt "muted_users_from_pseudo_account"
+msgid "Muted users from pseudo account"
+msgstr "போலி கணக்கிலிருந்து முடக்கிய பயனர்கள்"
+
+#, java-printf-format
+msgctxt "order_active"
+msgid "Recently active"
+msgstr "அண்மைக் காலத்தில் செயலில்"
+
+#, java-printf-format
+msgctxt "order_new"
+msgid "New arrivals"
+msgstr "புதிய வருகை"
+
+#, java-printf-format
+msgctxt "local_only"
+msgid "Local only"
+msgstr "உள்ளக மட்டும்"
+
+#, java-printf-format
+msgctxt "last_active"
+msgid "Last active"
+msgstr "கடைசியாக செயலில்"
+
+#, java-printf-format
+msgctxt "profile_directory_not_supported_on_misskey"
+msgid "Profile directory is not supported on Misskey"
+msgstr "சுயவிவர அடைவு மிச்கியில் ஆதரிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "show_in_directory"
+msgid "Show in directory"
+msgstr "கோப்பகத்தில் காட்டு"
+
+#, java-printf-format
+msgctxt "featured_hashtags"
+msgid "Featured hashtags"
+msgstr "சிறப்பு ஏச்டேக்குகள்"
+
+#, java-printf-format
+msgctxt "custom_emoji"
+msgid "Custom emoji"
+msgstr "தனிப்பயன் ஈமோசி"
+
+#, java-printf-format
+msgctxt "windows_insets_color"
+msgid ""
+"Window insets color (such as OS's status/navigation bar)(app restart "
+"required)"
+msgstr ""
+"சாளர இன்செட்டுகள் வண்ணம் (OS இன் நிலை/வழிசெலுத்தல் பட்டி போன்றவை) (பயன்பாட்டு மறுதொடக்கம் "
+"தேவை)"
+
+#, java-printf-format
+msgctxt "pixelfed_does_not_allow_reply_with_media"
+msgid "Pixelfed does not allow reply with media attachment."
+msgstr "பிக்செல்ஃப் மீடியா இணைப்புடன் பதிலை அனுமதிக்காது."
+
+#, java-printf-format
+msgctxt "pixelfed_does_not_allow_post_without_media"
+msgid "Pixelfed does not allow post (not reply) without media attachment."
+msgstr "பிக்செல்ஃப் மீடியா இணைப்பு இல்லாமல் இடுகையை (பதில் இல்லை) அனுமதிக்காது."
+
+#, java-printf-format
+msgctxt "hashtag_contains_ascii_and_not_ascii"
+msgid ""
+"Hashtag %1$s contains both of ASCII and non-ASCII characters. It may be a "
+"typo. Are you sure?"
+msgstr ""
+"ஏச்டேக் %1$s ASCII மற்றும் ASCII அல்லாத எழுத்துக்கள் இரண்டையும் கொண்டுள்ளது. இது ஒரு "
+"எழுத்துப்பிழையாக இருக்கலாம். நீங்கள் உறுதியாக இருக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "warn_hashtag_ascii_and_non_ascii"
+msgid "Warn if hashtag contains both of ASCII and non-ASCII characters"
+msgstr ""
+"ஏச்டேக்கில் ASCII மற்றும் ASCII அல்லாத எழுத்துக்கள் உள்ளன என்பதை எச்சரிக்கவும்"
+
+#, java-printf-format
+msgctxt "enable_connect_to_pixelfed_server"
+msgid "Enable connect to Pixelfed server (experimental. many problems)"
+msgstr "பிக்செல்ஃப் செய்யப்பட்ட சேவையகத்துடன் இணைக்கவும் (சோதனை. பல சிக்கல்கள்)"
+
+#, java-printf-format
+msgctxt "reason_create_account"
+msgid "Reason why you want to create an account on this server (optional)"
+msgstr ""
+"இந்த சேவையகத்தில் ஒரு கணக்கை உருவாக்க நீங்கள் விரும்புவதற்கான காரணம் (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "cross_account_actions"
+msgid "Cross-account actions"
+msgstr "குறுக்கு கணக்கு நடவடிக்கைகள்"
+
+#, java-printf-format
+msgctxt "account_timeline"
+msgid "Account timeline"
+msgstr "கணக்கு காலவரிசை"
+
+#, java-printf-format
+msgctxt "around_this_toot"
+msgid "Around the post"
+msgstr "இடுகையைச் சுற்றி"
+
+#, java-printf-format
+msgctxt "your_toot"
+msgid "Your post"
+msgstr "உங்கள் இடுகை"
+
+#, java-printf-format
+msgctxt "extra_actions"
+msgid "Extra actions"
+msgstr "கூடுதல் செயல்கள்"
+
+#, java-printf-format
+msgctxt "block_domain"
+msgid "Block whole domain"
+msgstr "முழு களத்தைத் தடு"
+
+#, java-printf-format
+msgctxt "instance_actions_for"
+msgid "Actions for the server \"%1$s\""
+msgstr "சேவையகத்திற்கான செயல்கள் \"%1$s\""
+
+#, java-printf-format
+msgctxt "quick_toot_omit_account_selection"
+msgid "When using quick post, omit account selection if possible"
+msgstr ""
+"விரைவான இடுகையைப் பயன்படுத்தும் போது, முடிந்தால் கணக்கு தேர்வை தவிர்க்கவும்"
+
+#, java-printf-format
+msgctxt "separate_notification_group_for_reply"
+msgid "Separate notification groups for reply"
+msgstr "பதிலளிக்க அறிவிப்புக் குழுக்கள்"
+
+#, java-printf-format
+msgctxt "timeline_line_spacing"
+msgid ""
+"Timeline line spacing (floating number is used as line spacing multiplier. "
+"leave empty to default. app restart required)"
+msgstr ""
+"காலவரிசை வரி இடைவெளி (மிதக்கும் எண் வரி இடைவெளி பெருக்கமாக பயன்படுத்தப்படுகிறது. "
+"இயல்புநிலைக்கு காலியாக விடவும். பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "always_expand_context_menu_sub_items"
+msgid "Always expand sub-items of context menu"
+msgstr "சூழல் மெனுவின் துணை உருப்படிகளை எப்போதும் விரிவாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "release_notes_latest"
+msgid "Release notes (v%1$s)"
+msgstr "வெளியீட்டு குறிப்புகள் (v%1$s)"
+
+#, java-printf-format
+msgctxt "release_notes_updated"
+msgid "Release notes (v%1$s→v%2$s)"
+msgstr "வெளியீட்டு குறிப்புகள் (v%1$s → V%2$s)"
+
+#, java-printf-format
+msgctxt "test"
+msgid "Test"
+msgstr "தேர்வு"
+
+#, java-printf-format
+msgctxt "please_help_translation"
+msgid "Please help translation!"
+msgstr "மொழிபெயர்ப்புக்கு உதவுங்கள்!"
+
+#, java-printf-format
+msgctxt "show_bookmark_button"
+msgid "Show bookmark button (app restart required)"
+msgstr "புத்தகக்குறி பொத்தானைக் காட்டு (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "show_filtered_word"
+msgid "Show filtered word"
+msgstr "வடிகட்டப்பட்ட வார்த்தையைக் காட்டு"
+
+#, java-printf-format
+msgctxt "enable_domain_timeline"
+msgid "Enable domain timeline"
+msgstr "டொமைன் காலவரிசையை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "fedibird_domain_timeline"
+msgid "(fedibird)Domain timeline"
+msgstr "(ஃபெடிபர்ட்) டொமைன் காலவரிசை"
+
+#, java-printf-format
+msgctxt "domain_timeline"
+msgid "Domain timeline"
+msgstr "டொமைன் காலவரிசை"
+
+#, java-printf-format
+msgctxt "domain_timeline_of"
+msgid "%1$s domain timeline"
+msgstr "%1$s டொமைன் காலவரிசை"
+
+#, java-printf-format
+msgctxt "language_filter"
+msgid "Language filter"
+msgstr "மொழி வடிகட்டி"
+
+#, java-printf-format
+msgctxt "export"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, java-printf-format
+msgctxt "import_"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#, java-printf-format
+msgctxt "language_code_default"
+msgid "(default)"
+msgstr "(இயல்புநிலை)"
+
+#, java-printf-format
+msgctxt "language_code_unknown"
+msgid "(unknown)"
+msgstr "(தெரியவில்லை)"
+
+#, java-printf-format
+msgctxt "language_show"
+msgid "Show"
+msgstr "காட்டு"
+
+#, java-printf-format
+msgctxt "language_hide"
+msgid "Hide"
+msgstr "மறை"
+
+#, java-printf-format
+msgctxt "language"
+msgid "Language"
+msgstr "மொழி"
+
+#, java-printf-format
+msgctxt "show_hide"
+msgid "Show/Hide"
+msgstr "காட்டு/மறைக்க"
+
+#, java-printf-format
+msgctxt "language_filter_description"
+msgid "column reload required to apply filter."
+msgstr "வடிகட்டியைப் பயன்படுத்துவதற்கு நெடுவரிசை மறுஏற்றம் தேவை."
+
+#, java-printf-format
+msgctxt "clear_all"
+msgid "Clear all"
+msgstr "அனைத்தையும் அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "presets"
+msgid "Presets"
+msgstr "முன்னமைவுகள்"
+
+#, java-printf-format
+msgctxt "custom"
+msgid "Custom"
+msgstr "தனிப்பயன்"
+
+#, java-printf-format
+msgctxt "language_code_hint"
+msgid "choose preset or input language code"
+msgstr "முன்னமைக்கப்பட்ட அல்லது உள்ளீட்டு மொழி குறியீட்டைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "language_is"
+msgid "lang: %1$s"
+msgstr "வெறும்: %1$s"
+
+#, java-printf-format
+msgctxt "always_show_language"
+msgid "Always show language"
+msgstr "எப்போதும் மொழியைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "drawable_list"
+msgid "Drawable list"
+msgstr ""
+
+#, java-printf-format
+msgctxt "developer_options"
+msgid "Developer options"
+msgstr "உருவாக்குபவர் விருப்பங்கள்"
+
+#, java-printf-format
+msgctxt "justify_window_content_portrait"
+msgid "Justify window content (Portrait)(app restart required)"
+msgstr ""
+"சாளர உள்ளடக்கத்தை நியாயப்படுத்துங்கள் (உருவப்படம்) (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "follow_request"
+msgid "Follow request"
+msgstr "கோரிக்கையைப் பின்பற்றவும்"
+
+#, java-printf-format
+msgctxt "push_notification_server_key_missing"
+msgid ""
+"Push notification will not work because server misconfiguration. Server "
+"public key is missing."
+msgstr ""
+"சேவையக தவறான கட்டமைப்பு என்பதால் புச் அறிவிப்பு இயங்காது. சேவையக பொது விசை இல்லை."
+
+#, java-printf-format
+msgctxt "push_notification_server_key_empty"
+msgid ""
+"Push notification will not work because server misconfiguration. Server "
+"public key is empty."
+msgstr ""
+"சேவையக தவறான கட்டமைப்பு என்பதால் புச் அறிவிப்பு இயங்காது. சேவையக பொது விசை காலியாக "
+"உள்ளது."
+
+#, java-printf-format
+msgctxt "divide_notification"
+msgid "Divide notifications"
+msgstr "அறிவிப்புகளை பிரிக்கவும்"
+
+#, java-printf-format
+msgctxt "announcements"
+msgid "Announcements"
+msgstr "அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "announcements_index"
+msgid "%1$d/%2$d"
+msgstr "%1$d/%2$d"
+
+#, java-printf-format
+msgctxt "announcements_period1"
+msgid "Event Period: %1$s"
+msgstr "நிகழ்வு காலம்: %1$s"
+
+#, java-printf-format
+msgctxt "announcements_period2"
+msgid "Event Period: %1$s…%2$s"
+msgstr "நிகழ்வு காலம்: %1$s… %2$s"
+
+#, java-printf-format
+msgctxt "edited_at"
+msgid "Edited: %1$s"
+msgstr "திருத்தப்பட்டது: %1$s"
+
+#, java-printf-format
+msgctxt "hide_followers_count"
+msgid "Hide followers count"
+msgstr "பின்தொடர்பவர்களை மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "emojione_shortcode_support"
+msgid "EmojiOne shortcode support"
+msgstr "ஈமோசியோன் குறுக்குவழி உதவி"
+
+#, java-printf-format
+msgctxt "emojione_shortcode_support_desc"
+msgid ""
+"The posts made by old Mastodon may contain emojione's shortcode even if the "
+"server have been updated."
+msgstr ""
+"ஓல்ட் மாச்டோடன் தயாரித்த இடுகைகளில் சேவையகம் புதுப்பிக்கப்பட்டிருந்தாலும் ஈமோசியோனின் "
+"குறுக்குவழி இருக்கலாம்."
+
+#, java-printf-format
+msgctxt "copy_to_clipboard"
+msgid "Copy to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "copied_to_clipboard"
+msgid "Copied to clipboard."
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "language_filter_quit_waring"
+msgid "Language filter is not saved. exit anyway?"
+msgstr "மொழி வடிகட்டி சேமிக்கப்படவில்லை. எப்படியும் வெளியேறவா?"
+
+#, java-printf-format
+msgctxt "keyword_filter_quit_waring"
+msgid "Keyword filter is not saved. exit anyway?"
+msgstr "முக்கிய வடிகட்டி சேமிக்கப்படவில்லை. எப்படியும் வெளியேறவா?"
+
+#, java-printf-format
+msgctxt "import_completed_please_restart_app"
+msgid "Import completed. Please restart app."
+msgstr "இறக்குமதி முடிந்தது. பயன்பாட்டை மறுதொடக்கம் செய்யுங்கள்."
+
+#, java-printf-format
+msgctxt "delete_custom_emoji_cache"
+msgid "Delete custom emoji cache"
+msgstr "தனிப்பயன் ஈமோசி தற்காலிக சேமிப்பை நீக்கு"
+
+#, java-printf-format
+msgctxt "antenna_list"
+msgid "Antenna list"
+msgstr "ஆண்டெனா பட்டியல்"
+
+#, java-printf-format
+msgctxt "antenna_timeline"
+msgid "Antenna TL"
+msgstr "ஆண்டெனா டி.எல்"
+
+#, java-printf-format
+msgctxt "antenna_timeline_of"
+msgid "Antenna TL '%1$s'"
+msgstr "ஆண்டெனா tl '%1$s'"
+
+#, java-printf-format
+msgctxt "antenna_list_misskey"
+msgid "Antenna list (Misskey 12+)"
+msgstr "ஆண்டெனா பட்டியல் (மிச்கி 12+)"
+
+#, java-printf-format
+msgctxt "quote_toot"
+msgid "Quote post (customized server)"
+msgstr "மேற்கோள் இடுகை (தனிப்பயனாக்கப்பட்ட சேவையகம்)"
+
+#, java-printf-format
+msgctxt "quote_toot_bt"
+msgid "Quote boost outer (debug purpose)"
+msgstr ""
+
+#, java-printf-format
+msgctxt "quote"
+msgid "Quote"
+msgstr "மேற்கோள்"
+
+#, java-printf-format
+msgctxt "promoted"
+msgid "Promoted"
+msgstr "ஊக்குவிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "featured"
+msgid "Featured"
+msgstr "இடம்பெற்றது"
+
+#, java-printf-format
+msgctxt "remote_only"
+msgid "Remote only"
+msgstr "தொலைநிலை மட்டும்"
+
+#, java-printf-format
+msgctxt "invites_enabled"
+msgid "Users can create invitations"
+msgstr "பயனர்கள் அழைப்பிதழ்களை உருவாக்கலாம்"
+
+#, java-printf-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "no"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "muted_quote"
+msgid "Muted quote"
+msgstr "முடக்கிய மேற்கோள்"
+
+#, java-printf-format
+msgctxt "button_accent_color"
+msgid "Button accent color"
+msgstr "பொத்தான் உச்சரிப்பு நிறம்"
+
+#, java-printf-format
+msgctxt "search_bar_background_color"
+msgid "Search bar background color (app restart required)"
+msgstr "தேடல் பட்டி பின்னணி வண்ணம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "announcement_background_color"
+msgid "Announcements background color (app restart required)"
+msgstr "அறிவிப்புகள் பின்னணி நிறம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "conversation_main_toot_background_color"
+msgid "Focused in conversation post background color"
+msgstr "உரையாடல் இடுகை பின்னணி நிறத்தில் கவனம் செலுத்தியது"
+
+#, java-printf-format
+msgctxt "verified_link_background_color"
+msgid "Verified link background color (app restart required)"
+msgstr "சரிபார்க்கப்பட்ட இணைப்பு பின்னணி நிறம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "verified_link_foreground_color"
+msgid "Verified link foreground color (app restart required)"
+msgstr "சரிபார்க்கப்பட்ட இணைப்பு முன்புற வண்ணம் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "screen_bottom_padding"
+msgid "Screen bottom padding (Unit: dp. Default:0. App restart required)"
+msgstr ""
+"திரை கீழ் திணிப்பு (அலகு: டிபி. இயல்புநிலை: 0. பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "personal_notes"
+msgid "Personal notes"
+msgstr "தனிப்பட்ட குறிப்புகள்"
+
+#, java-printf-format
+msgctxt "personal_notes_of"
+msgid "Personal notes of %1$s"
+msgstr "%1$s இன் தனிப்பட்ட குறிப்புகள்"
+
+#, java-printf-format
+msgctxt "custom_thumbnail"
+msgid "Custom thumbnail"
+msgstr "தனிப்பயன் சிறுபடம்"
+
+#, java-printf-format
+msgctxt "close_emoji_picker_when_selected"
+msgid "Close emoji picker after selecting emoji"
+msgstr "ஈமோசியைத் தேர்ந்தெடுத்த பிறகு ஈமோசி பிக்கரை மூடு"
+
+#, java-printf-format
+msgctxt "new_version_available"
+msgid "New version available! %1$s"
+msgstr "புதிய பதிப்பு கிடைக்கிறது! %1$s"
+
+#, java-printf-format
+msgctxt "app_name_with_version"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#, java-printf-format
+msgctxt "release_note_with_assets"
+msgid "Release note (Please find the APK file in assets section.)"
+msgstr ""
+"வெளியீட்டு குறிப்பு (தயவுசெய்து APK கோப்பை சொத்துக்கள் பிரிவில் கண்டுபிடிக்கவும்.)"
+
+#, java-printf-format
+msgctxt "release_note"
+msgid "Release note"
+msgstr "வெளியீட்டு குறிப்பு"
+
+#, java-printf-format
+msgctxt "check_beta_release"
+msgid "Check beta release"
+msgstr "பீட்டா வெளியீட்டை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "exit_reasons"
+msgid "Exit reasons"
+msgstr ""
+
+#, java-printf-format
+msgctxt "read_gap_head"
+msgid "Read gap head"
+msgstr "இடைவெளி தலையைப் படியுங்கள்"
+
+#, java-printf-format
+msgctxt "read_gap_tail"
+msgid "Read gap tail"
+msgstr "இடைவெளி வால் படிக்கவும்"
+
+#, java-printf-format
+msgctxt "scroll_position_after_read_gap_from_head"
+msgid "Scroll position after read gap from head"
+msgstr "தலையிலிருந்து இடைவெளியைப் படித்த பிறகு உருட்டவும்"
+
+#, java-printf-format
+msgctxt "scroll_position_after_read_gap_from_tail"
+msgid "Scroll position after read gap from tail"
+msgstr "வால் இருந்து இடைவெளியைப் படித்த பிறகு உருட்டவும்"
+
+#, java-printf-format
+msgctxt "gap_head"
+msgid "Head of gap"
+msgstr "இடைவெளி தலை"
+
+#, java-printf-format
+msgctxt "gap_tail"
+msgid "Tail of gap"
+msgstr "இடைவெளியின் வால்"
+
+#, java-printf-format
+msgctxt "ignore_text_in_shared_media"
+msgid "Don't append extra text that come with shared media from external apps"
+msgstr ""
+"வெளிப்புற பயன்பாடுகளிலிருந்து பகிரப்பட்ட ஊடகத்துடன் வரும் கூடுதல் உரையை சேர்க்க வேண்டாம்"
+
+#, java-printf-format
+msgctxt "input_sharp_itself"
+msgid "Input '#' itself"
+msgstr "உள்ளீடு '#'"
+
+#, java-printf-format
+msgctxt "notify_posts_from_this_user"
+msgid "Notify posts from this user"
+msgstr "இந்த பயனரின் இடுகைகளுக்கு அறிவிக்கவும்"
+
+#, java-printf-format
+msgctxt "stop_notify_posts_from_this_user"
+msgid "Stop notify posts from this user"
+msgstr "இந்த பயனரின் இடுகைகளுக்கு அறிவிப்பதை நிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "gap"
+msgid "Gap"
+msgstr "இடைவெளி"
+
+#, java-printf-format
+msgctxt "powered_by_open_sticker"
+msgid "Using OpenSticker API."
+msgstr "OpenSticker பநிஇ ஐப் பயன்படுத்துதல்."
+
+#, java-printf-format
+msgctxt "speech"
+msgid "Speech"
+msgstr "பேச்சு"
+
+#, java-printf-format
+msgctxt "duration"
+msgid "Duration"
+msgstr "காலம்"
+
+#, java-printf-format
+msgctxt "duration_indefinite"
+msgid "Indefinite"
+msgstr "காலவரையற்றது"
+
+#, java-printf-format
+msgctxt "duration_minutes_5"
+msgid "5 minutes"
+msgstr "5 நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "duration_minutes_30"
+msgid "30 minutes"
+msgstr "30 நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "duration_hours_1"
+msgid "1 hour"
+msgstr "1 மணி நேரம்"
+
+#, java-printf-format
+msgctxt "duration_hours_6"
+msgid "6 hours"
+msgstr "6 மணி நேரம்"
+
+#, java-printf-format
+msgctxt "duration_days_1"
+msgid "1 day"
+msgstr "1 நாள்"
+
+#, java-printf-format
+msgctxt "duration_days_3"
+msgid "3 days"
+msgstr "3 நாட்கள்"
+
+#, java-printf-format
+msgctxt "duration_days_7"
+msgid "7 days"
+msgstr "7 நாட்கள்"
+
+#, java-printf-format
+msgctxt "notestock"
+msgid "notestock"
+msgstr ""
+
+#, java-printf-format
+msgctxt "toot_search_notestock_of"
+msgid "notestock search \"%1$s\""
+msgstr "நோட்டெச்டாக் தேடல் \"%1$s\""
+
+#, java-printf-format
+msgctxt "update_push_subscription_not_force"
+msgid "Update push subscription(not force)"
+msgstr ""
+
+#, java-printf-format
+msgctxt "reset_notification_tracking_status"
+msgid "Reset notification tracking status"
+msgstr "அறிவிப்பு கண்காணிப்பு நிலையை மீட்டமைக்கவும்"
+
+#, java-printf-format
+msgctxt "web_browser"
+msgid "Web browser"
+msgstr "வலை உலாவி"
+
+#, java-printf-format
+msgctxt "size_1920_1080"
+msgid "1920x1080"
+msgstr "1920x1080"
+
+#, java-printf-format
+msgctxt "visibility_unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, java-printf-format
+msgctxt "visibility_limited"
+msgid "Limited"
+msgstr "வரையறுக்கப்பட்ட"
+
+#, java-printf-format
+msgctxt "visibility_mutual"
+msgid "Mutual"
+msgstr "பரச்பர"
+
+#, java-printf-format
+msgctxt "server_has_no_support_of_visibility"
+msgid "Server has no support of visibility '%1$s'."
+msgstr "'%1$s' தெரிவுநிலைக்கு சேவையகத்திற்கு எந்த ஆதரவும் இல்லை."
+
+#, java-printf-format
+msgctxt "show_emoji_picker_other_category"
+msgid "Show emoji picker other category"
+msgstr "ஈமோசி பிக்கர் பிற வகையைக் காட்டு"
+
+#, java-printf-format
+msgctxt "in_app_unicode_emoji"
+msgid "use in-app Unicode Emoji (app restart required)"
+msgstr ""
+"பயன்பாட்டில் உள்ள யூனிகோட் ஈமோசியைப் பயன்படுத்தவும் (பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "emoji_category_composite_tones"
+msgid "Composite Tones"
+msgstr "கலப்பு டோன்கள்"
+
+#, java-printf-format
+msgctxt "resend_confirm_mail"
+msgid "Resend confirm mail…"
+msgstr "அஞ்சலை உறுதிப்படுத்தவும்…"
+
+#, java-printf-format
+msgctxt "update_mail_address"
+msgid "Update e-mail address"
+msgstr "மின்னஞ்சல் முகவரியைப் புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "resend_confirm_mail_requested"
+msgid "Resending confirm E-mail was requested."
+msgstr "மீண்டும் உறுதிப்படுத்தும் மின்னஞ்சல் கோரப்பட்டது."
+
+#, java-printf-format
+msgctxt "confirm_mail_description"
+msgid ""
+"After requesting resending confirm E-mail,\n"
+"- please check the mail on your mailer.\n"
+"- open confirm link in the mail.\n"
+"- close this dialog and reload column."
+msgstr ""
+"மறுசீரமைக்கப்பட்ட மின்னஞ்சலை மறுசீரமைத்த பிறகு,\n"
+" - உங்கள் அஞ்சலில் அஞ்சலை சரிபார்க்கவும்.\n"
+" - அஞ்சலில் உறுதிப்படுத்தல் இணைப்பைத் திறக்கவும்.\n"
+" - இந்த உரையாடலை மூடி, நெடுவரிசையை மீண்டும் ஏற்றவும்."
+
+#, java-printf-format
+msgctxt "push_notification_filter"
+msgid "Push notification filter"
+msgstr "அறிவிப்பு வடிகட்டியை அழுத்தவும்"
+
+#, java-printf-format
+msgctxt "no_one"
+msgid "No one"
+msgstr "யாரும் இல்லை"
+
+#, java-printf-format
+msgctxt "reactioned_posts"
+msgid "Reactioned posts"
+msgstr "எதிர்விளைவுகள்"
+
+#, java-printf-format
+msgctxt "reactions"
+msgid "Reactions"
+msgstr "எதிர்வினைகள்"
+
+#, java-printf-format
+msgctxt "cant_reaction_remote_custom_emoji"
+msgid "can't reaction with remote custom emoji %1$s"
+msgstr "தொலைநிலை தனிப்பயன் ஈமோசி %1$s உடன் எதிர்வினை செய்ய முடியாது"
+
+#, java-printf-format
+msgctxt "keep_reaction_space"
+msgid "Keep Spacing for Reactions"
+msgstr "எதிர்வினைகளுக்கு இடைவெளியைத் தொடருங்கள்"
+
+#, java-printf-format
+msgctxt "long_tap_to_delete"
+msgid "long tap to delete"
+msgstr "நீக்க நீண்ட தட்டு"
+
+#, java-printf-format
+msgctxt "suggestion_source"
+msgid "Suggestion source"
+msgstr "பரிந்துரை மூல"
+
+#, java-printf-format
+msgctxt "cant_leave_empty_keyword"
+msgid "Can't leave empty keyword."
+msgstr "வெற்று முக்கிய சொல்லை விட முடியாது."
+
+#, java-printf-format
+msgctxt "cant_save_duplicated_keyword"
+msgid "Can't save duplicated keyword."
+msgstr "நகல் முக்கிய சொல்லைச் சேமிக்க முடியாது."
+
+#, java-printf-format
+msgctxt "discard_changes"
+msgid "Discard changes?"
+msgstr "மாற்றங்களை நிராகரிக்கவா?"
+
+#, java-printf-format
+msgctxt "saved"
+msgid "saved."
+msgstr "சேமிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "not_available_for_current_accounts"
+msgid "Unavailable for current accounts"
+msgstr "நடப்பு கணக்குகளுக்கு கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "confirm_reaction"
+msgid "Reaction %1$s from %2$s?"
+msgstr "%2$s இலிருந்து %1$s?"
+
+#, java-printf-format
+msgctxt "confirm_reaction_to_pleroma"
+msgid ""
+"Reaction custom emoji %1$s from %2$s to server %3$s that may not support "
+"custom emoji reaction. Continue?"
+msgstr ""
+"எதிர்வினை தனிப்பயன் ஈமோசி எதிர்வினையை ஆதரிக்காமல் போகக்கூடிய எதிர்வினை தனிப்பயன் ஈமோசி "
+"%1$s %2$s முதல் சேவையகம் %3$s வரை. தொடரவா?"
+
+#, java-printf-format
+msgctxt "multi_window_post"
+msgid "Multi window for post activity (experimental)"
+msgstr "பிந்தைய செயல்பாட்டிற்கான பல சாளரம் (சோதனை)"
+
+#, java-printf-format
+msgctxt "many_window_post"
+msgid "Many window for post activity (experimental)"
+msgstr "பிந்தைய செயல்பாட்டிற்கான பல சாளரம் (சோதனை)"
+
+#, java-printf-format
+msgctxt "mfm_decoration_enabled"
+msgid "(Misskey)Show text decorations"
+msgstr "(மிசி) உரை அலங்காரங்களைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "mfm_show_unsupported_markup"
+msgid "(Misskey)Show unsupported markups"
+msgstr "(மிசி) ஆதரிக்கப்படாத மார்க்அப்களைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "show_media_description"
+msgid "Show media description"
+msgstr "ஊடக விளக்கத்தைக் காட்டு"
+
+#, java-printf-format
+msgctxt "background_pattern"
+msgid "Background pattern"
+msgstr "பின்னணி முறை"
+
+#, java-printf-format
+msgctxt "use_twemoji_emoji"
+msgid "Use Twemoji emoji"
+msgstr "ட்வெமோசி ஈமோசியைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "open_column_from_url"
+msgid "Open column from URL…"
+msgstr "முகவரி இலிருந்து நெடுவரிசையைத் திறக்கவும்…"
+
+#, java-printf-format
+msgctxt "url_empty"
+msgid "please input URL of user or status."
+msgstr "பயனர் அல்லது அந்தச்தின் முகவரி ஐ உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "url_of_user_or_status"
+msgid "URL of user or status"
+msgstr "பயனர் அல்லது அந்தச்தின் முகவரி"
+
+#, java-printf-format
+msgctxt "url_parse_failed"
+msgid "parse error."
+msgstr "இந்த பிழை."
+
+#, java-printf-format
+msgctxt "unbookmark"
+msgid "Unbookmark"
+msgstr "புத்தகமரம்"
+
+#, java-printf-format
+msgctxt "event_text_alpha"
+msgid ""
+"Text alpha for some notifications (0.0～1.0, default=1. app restart required)"
+msgstr ""
+"சில அறிவிப்புகளுக்கான உரை ஆல்பா (0.0 ～ 1.0, இயல்புநிலை = 1. பயன்பாட்டு மறுதொடக்கம் "
+"தேவை)"
+
+#, java-printf-format
+msgctxt "attachment_handling_start"
+msgid "Initializing…"
+msgstr "தொடங்குதல்…"
+
+#, java-printf-format
+msgctxt "attachment_handling_compress"
+msgid "Compressing…"
+msgstr "அமுக்குதல்…"
+
+#, java-printf-format
+msgctxt "attachment_handling_compress_ratio"
+msgid "Compressing %1$d%%…"
+msgstr "சுருக்கம்%1$d %%…"
+
+#, java-printf-format
+msgctxt "attachment_handling_uploading"
+msgid "Uploading %1$d%%…"
+msgstr "பதிவேற்றுவது%1$d %%…"
+
+#, java-printf-format
+msgctxt "attachment_handling_waiting"
+msgid "Waiting response…"
+msgstr "காத்திருப்பு பதில்…"
+
+#, java-printf-format
+msgctxt "attachment_handling_waiting_async"
+msgid "Waiting response(asynchronized)…"
+msgstr "காத்திருப்பு பதில் (ஒத்திசைவற்றது)…"
+
+#, java-printf-format
+msgctxt "option_deprecated_mastodon342"
+msgid ""
+"(This option is deprecated for Mastodon 3.4.2+. App uses information from "
+"the server.)"
+msgstr ""
+"(இந்த விருப்பம் மாச்டோடன் 3.4.2+ க்கு நீக்கப்பட்டது. பயன்பாடு சேவையகத்திலிருந்து தகவல்களைப் "
+"பயன்படுத்துகிறது.)"
+
+#, java-printf-format
+msgctxt "movie_transcode"
+msgid "Movie transcoding"
+msgstr "மூவி டிரான்ச்கோடிங்"
+
+#, java-printf-format
+msgctxt "movie_transcode_mode"
+msgid "Mode"
+msgstr "பயன்முறை"
+
+#, java-printf-format
+msgctxt "movie_transcode_max_bitrate"
+msgid ""
+"Max bitrate (Unit:bits per second. default=2,000,000. Also it may be reduced "
+"by server configuration.)"
+msgstr ""
+"மேக்ச் பிட்ரேட் (அலகு: நொடிக்கு பிட்கள். இயல்புநிலை = 2,000,000. மேலும் இது சேவையக "
+"உள்ளமைவால் குறைக்கப்படலாம்.)"
+
+#, java-printf-format
+msgctxt "movie_transcode_max_frame_rate"
+msgid ""
+"Max frame rate(Unit:frames per second. default=30. Also it may be reduced by "
+"server configuration.)"
+msgstr ""
+"அதிகபட்ச பிரேம் வீதம் (அலகு: நொடிக்கு பிரேம்கள். இயல்புநிலை = 30. மேலும் இது சேவையக "
+"உள்ளமைவால் குறைக்கப்படலாம்.)"
+
+#, java-printf-format
+msgctxt "movie_transcode_max_square_pixels"
+msgid ""
+"Max square pixels(default=2304000. Also it may be reduced by server "
+"configuration.)"
+msgstr ""
+"அதிகபட்ச சதுர படப்புள்ளிகள் (இயல்புநிலை = 2304000. மேலும் இது சேவையக உள்ளமைவால் "
+"குறைக்கப்படலாம்.)"
+
+#, java-printf-format
+msgctxt "always"
+msgid "Always"
+msgstr "எப்போதும்"
+
+#, java-printf-format
+msgctxt "auto"
+msgid "Auto"
+msgstr "தானி"
+
+#, java-printf-format
+msgctxt "status_edit"
+msgid "Edit (Mastodon 3.5.0+)"
+msgstr "திருத்து (மாச்டோடன் 3.5.0+)"
+
+#, java-printf-format
+msgctxt "edited"
+msgid "edited"
+msgstr "திருத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "edit_history"
+msgid "Edit history"
+msgstr "வரலாற்றைத் திருத்து"
+
+#, java-printf-format
+msgctxt "post_language_code"
+msgid "Language code of Post (leave empty to use device's language setting)"
+msgstr ""
+"இடுகையின் மொழி குறியீடு (சாதனத்தின் மொழி அமைப்பைப் பயன்படுத்த காலியாக விடவும்)"
+
+#, java-printf-format
+msgctxt "device_language"
+msgid "(device's language)"
+msgstr "(சாதனத்தின் மொழி)"
+
+#, java-printf-format
+msgctxt "skin_tones"
+msgid "Skin tones"
+msgstr "தோல் டோன்கள்"
+
+#, java-printf-format
+msgctxt "skin_tone_unspecified"
+msgid "Unspecified"
+msgstr "குறிப்பிடப்படாத"
+
+#, java-printf-format
+msgctxt "search_emojis"
+msgid "Search emojis…"
+msgstr "ஈமோசிகளைத் தேடுங்கள்…"
+
+#, java-printf-format
+msgctxt "categories"
+msgid "Categories"
+msgstr "வகைகள்"
+
+#, java-printf-format
+msgctxt "error"
+msgid "Error"
+msgstr "பிழை"
+
+#, java-printf-format
+msgctxt "emoji_picker_custom_of"
+msgid "Custom: %1$s"
+msgstr "தனிப்பயன்: %1$s"
+
+#, java-printf-format
+msgctxt "others"
+msgid "Others"
+msgstr "மற்றவர்கள்"
+
+#, java-printf-format
+msgctxt "post_error_attachments_duplicated"
+msgid "Misskey does not allow duplicate in attachments."
+msgstr "இணைப்புகளில் நகல் அனுமதிக்காது."
+
+#, java-printf-format
+msgctxt "use_web_settings"
+msgid "(Use web setting)"
+msgstr "(வலை அமைப்பைப் பயன்படுத்தவும்)"
+
+#, java-printf-format
+msgctxt "content"
+msgid "Content"
+msgstr "உள்ளடக்கம்"
+
+#, java-printf-format
+msgctxt "enable_misskey_notification_check"
+msgid "Enable notification check for Misskey server (unstable)"
+msgstr "மிசி சேவையகத்திற்கான அறிவிப்பு காசோலையை இயக்கவும் (நிலையற்றது)"
+
+#, java-printf-format
+msgctxt "old_devices_warning"
+msgid "End of support for older devices"
+msgstr "பழைய சாதனங்களுக்கான ஆதரவின் முடிவு"
+
+#, java-printf-format
+msgctxt "followed_tags"
+msgid "Followed hashtags"
+msgstr "ஏச்டேக்குகளைத் தொடர்ந்து"
+
+#, java-printf-format
+msgctxt "follow_hashtag_of"
+msgid "Follow %1$s"
+msgstr "%1$s ஐப் பின்தொடரவும்"
+
+#, java-printf-format
+msgctxt "unfollow_hashtag_of"
+msgid "Unfollow %1$s"
+msgstr "பின்பற்ற %1$s"
+
+#, java-printf-format
+msgctxt "conversation_with_reference"
+msgid "conversation + reference"
+msgstr "உரையாடல் + குறிப்பு"
+
+#, java-printf-format
+msgctxt "tootsearch_discontinued"
+msgid "Tootsearch service discontinued on 2022/12/25."
+msgstr "டூட்ச் தேடல் பணி 2022/12/25 அன்று நிறுத்தப்பட்டது."
+
+#, java-printf-format
+msgctxt "msp_discontinued"
+msgid "Mastodon Search Portal service was discontinued."
+msgstr "மாச்டோடன் தேடல் போர்டல் பணி நிறுத்தப்பட்டது."
+
+#, java-printf-format
+msgctxt "permission_rational_notifications"
+msgid "to check/show notifications, the app need runtime permission."
+msgstr "அறிவிப்புகளை சரிபார்க்க/காட்ட, பயன்பாட்டிற்கு இயக்க நேர இசைவு தேவை."
+
+#, java-printf-format
+msgctxt "permission_denied_notifications"
+msgid "Missing app permission to show notifications."
+msgstr "அறிவிப்புகளைக் காட்ட பயன்பாட்டு இசைவு இல்லை."
+
+#, java-printf-format
+msgctxt "permission_rational_download_manager"
+msgid "Permission required to use DownloadManager."
+msgstr "DownloadManager ஐப் பயன்படுத்த இசைவு தேவை."
+
+#, java-printf-format
+msgctxt "permission_denied_download_manager"
+msgid "Missing app permission to use DownloadManager."
+msgstr "DownloadManager ஐப் பயன்படுத்த பயன்பாட்டு இசைவு இல்லை."
+
+#, java-printf-format
+msgctxt "permission_rational_media_access"
+msgid "Permission required to access the device's media data."
+msgstr "சாதனத்தின் மீடியா தரவை அணுக இசைவு தேவை."
+
+#, java-printf-format
+msgctxt "permission_denied_media_access"
+msgid "Missing app permission to access the device's media data."
+msgstr "சாதனத்தின் மீடியா தரவை அணுக பயன்பாட்டு இசைவு இல்லை."
+
+#, java-printf-format
+msgctxt "popup_background_color"
+msgid "Popup background color"
+msgstr "பாப்அப் பின்னணி நிறம்"
+
+#, java-printf-format
+msgctxt "filter_title"
+msgid "Filter title"
+msgstr "வடிகட்டி தலைப்பு"
+
+#, java-printf-format
+msgctxt "filter_action"
+msgid "Filter action"
+msgstr "வடிகட்டி செயல்"
+
+#, java-printf-format
+msgctxt "filter_action_warn"
+msgid "Hide, but warn about filter."
+msgstr "மறைக்க, ஆனால் வடிகட்டி பற்றி எச்சரிக்கவும்."
+
+#, java-printf-format
+msgctxt "filter_action_hide"
+msgid "Hide. (for old server, it works as Irreversible)"
+msgstr "மறை. (பழைய சேவையகத்தைப் பொறுத்தவரை, இது மாற்ற முடியாததாக செயல்படுகிறது)"
+
+#, java-printf-format
+msgctxt "keyword_or_phrase"
+msgid "Keyword or phrase"
+msgstr "முக்கிய சொல் அல்லது சொற்றொடர்"
+
+#, java-printf-format
+msgctxt "add_keyword_or_phrase"
+msgid "Add Keyword or phrase"
+msgstr "முக்கிய சொல் அல்லது சொற்றொடரைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "filter_keyword_empty"
+msgid "filter keyword(s) is empty."
+msgstr "வடிகட்டி முக்கிய சொல் (கள்) காலியாக உள்ளது."
+
+#, java-printf-format
+msgctxt "filter_title_empty"
+msgid "filter title is empty."
+msgstr "வடிகட்டி தலைப்பு காலியாக உள்ளது."
+
+#, java-printf-format
+msgctxt "acct_customize"
+msgid "Acct customize"
+msgstr "Acct தனிப்பயனாக்கு"
+
+#, java-printf-format
+msgctxt "delete_confirm"
+msgid "delete \"%1$s\" ?"
+msgstr "\"%1$s\" ஐ நீக்கவா?"
+
+#, java-printf-format
+msgctxt "color_theme_changed"
+msgid ""
+"Default color theme has been updated. This may conflict with your customized "
+"color settings. We recommend reviewing the colors section in app settings."
+msgstr ""
+"இயல்புநிலை வண்ண கருப்பொருள் புதுப்பிக்கப்பட்டுள்ளது. இது உங்கள் தனிப்பயனாக்கப்பட்ட வண்ண "
+"அமைப்புகளுடன் முரண்படக்கூடும். பயன்பாட்டு அமைப்புகளில் வண்ணங்கள் பகுதியை மதிப்பாய்வு செய்ய "
+"பரிந்துரைக்கிறோம்."
+
+#, java-printf-format
+msgctxt "tablet_snap"
+msgid "Align column edge to screen edge when scrolling (app restart required)"
+msgstr ""
+"ச்க்ரோலிங் செய்யும் போது நெடுவரிசை விளிம்பை திரை விளிம்பிற்கு சீரமைக்கவும் (பயன்பாட்டு "
+"மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "server_host_name"
+msgid "Server's host name"
+msgstr "சேவையகத்தின் புரவலன் பெயர்"
+
+#, java-printf-format
+msgctxt "input_server_name_desc"
+msgid ""
+"・The host name part in the server's URL.\n"
+"・without http:// or trailing /path… .\n"
+"・Mastodon server list: https://joinmastodon.org/servers"
+msgstr ""
+"சேவையகம் சேவையகத்தின் முகவரி இல் புரவலன் பெயர் பகுதி.\n"
+" Ht http: // அல்லது பின்னால்/பாதை இல்லாமல்….\n"
+" ・ மாச்டோடன் சேவையக பட்டியல்: https://joinmastodon.org/servers"
+
+#, java-printf-format
+msgctxt "authentication_select"
+msgid "Select authentication method"
+msgstr "அங்கீகார முறையைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "authentication_select_desc"
+msgid "Select how to access the server from below."
+msgstr "கீழே இருந்து சேவையகத்தை எவ்வாறு அணுகுவது என்பதைத் தேர்ந்தெடுக்கவும்."
+
+#, java-printf-format
+msgctxt "server_host_name_cant_contains_it"
+msgid "host name can't contains [%1$s]."
+msgstr "புரவலன் பெயரில் [%1$s] இருக்க முடியாது."
+
+#, java-printf-format
+msgctxt "next_step"
+msgid "Next step"
+msgstr "அடுத்த அடி"
+
+#, java-printf-format
+msgctxt "user_creation_not_supported"
+msgid "[%1$s, %2$s] server type does not support user registration from app."
+msgstr "[ %1$s, %2$s] சேவையக வகை பயன்பாட்டிலிருந்து பயனர் பதிவை ஆதரிக்காது."
+
+#, java-printf-format
+msgctxt "confirm_remove_column_mark_as_dont_close"
+msgid "Remove column that mark as \"don't close\" ?"
+msgstr "\"மூடாதே\" என்று குறிக்கும் நெடுவரிசையை அகற்றவா?"
+
+#.  通知チャネル 
+#.
+#, java-printf-format
+msgctxt "alert"
+msgid "Alert"
+msgstr "விழிப்புணர்வு"
+
+#, java-printf-format
+msgctxt "alert_notification_desc"
+msgid "shows various alerts"
+msgstr "பல்வேறு விழிப்பூட்டல்களைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "push_message"
+msgid "Push message"
+msgstr "செய்தி தள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "push_message_desc"
+msgid "shows various push messages from SNS server."
+msgstr "SNS சேவையகத்திலிருந்து பல்வேறு புச் செய்திகளைக் காட்டுகிறது."
+
+#, java-printf-format
+msgctxt "pull_notification"
+msgid "Pull notification"
+msgstr "அறிவிப்பை இழுக்கவும்"
+
+#, java-printf-format
+msgctxt "pull_notification_desc"
+msgid "notifications pulled from SNS"
+msgstr "SNS இலிருந்து அறிவிப்புகள் இழுக்கப்படுகின்றன"
+
+#, java-printf-format
+msgctxt "push_worker"
+msgid "Push notification handler"
+msgstr "அறிவிப்பு கையாளுபவர் தள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "push_worker_desc"
+msgid "processing tasks about push notification"
+msgstr "புச் அறிவிப்பு பற்றிய பணிகளை செயலாக்குகிறது"
+
+#, java-printf-format
+msgctxt "polling_foregrounder_desc"
+msgid "polling new notifications from SNS"
+msgstr "SNS இலிருந்து புதிய அறிவிப்புகளை வாக்களித்தல்"
+
+#, java-printf-format
+msgctxt "server_timeout"
+msgid "Server timeout"
+msgstr "சேவையக நேரம் முடிந்தது"
+
+#, java-printf-format
+msgctxt "server_timeout_desc"
+msgid "showing errors about checking notifications from SNS"
+msgstr "SNS இலிருந்து அறிவிப்புகளை சரிபார்ப்பது பற்றிய பிழைகளைக் காட்டுகிறது"
+
+#.  アプリ設定 
+#.
+#, java-printf-format
+msgctxt "push_distributor"
+msgid "Push distributor"
+msgstr "புச் விநியோகச்தர்"
+
+#, java-printf-format
+msgctxt "push_distributor_desc"
+msgid "select push distributer that is used to deliver push notification,"
+msgstr "புச் அறிவிப்பை வழங்க பயன்படும் புச் விநியோகச்தரைத் தேர்ந்தெடுக்கவும்,"
+
+#.  プッシュサービス選択 
+#.
+#, java-printf-format
+msgctxt "select_push_delivery_service"
+msgid "Select push delivery service"
+msgstr "புச் டெலிவரி சேவையைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "firebase_cloud_messaging"
+msgid "Google FCM(Firebase Cloud Messaging)"
+msgstr "கூகிள் எஃப்.சி.எம் (ஃபயர்பேச் முகில் மெசேசிங்)"
+
+#, java-printf-format
+msgctxt "none"
+msgid "none"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "approved"
+msgid "Approved."
+msgstr "அங்கீகரிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "push_subscription_keep_using"
+msgid "Continues current subscription."
+msgstr "தற்போதைய சந்தாவைத் தொடர்கிறது."
+
+#, java-printf-format
+msgctxt "push_subscription_off_unread_notification"
+msgid "Continues current subscription. (sendReadMessage has been turned off.)"
+msgstr "தொடர்ச்சியான தற்போதைய சந்தா. (ஒரு செய்தி அணைக்கப்பட்டுள்ளது.)"
+
+#, java-printf-format
+msgctxt "push_subscription_delete_current"
+msgid "Push subscription has been canceled."
+msgstr "புச் சந்தா ரத்து செய்யப்பட்டுள்ளது."
+
+#, java-printf-format
+msgctxt "push_subscription_app_server_hash_missing_but_ok"
+msgid ""
+"The push delivery service has not been registered on the app server, but "
+"there is no problem because the subscription is not required."
+msgstr ""
+"பயன்பாட்டு சேவையகத்தில் புச் டெலிவரி பணி பதிவு செய்யப்படவில்லை, ஆனால் சந்தா தேவையில்லை "
+"என்பதால் எந்த பிரச்சனையும் இல்லை."
+
+#, java-printf-format
+msgctxt "push_subscription_app_server_hash_missing_error"
+msgid ""
+"The push delivery service could not be registered with the app server. "
+"Selecting the push delivery service again may improve the situation."
+msgstr ""
+"புச் டெலிவரி சேவையை பயன்பாட்டு சேவையகத்துடன் பதிவு செய்ய முடியவில்லை. புச் டெலிவரி "
+"சேவையைத் தேர்ந்தெடுப்பது நிலைமையை மேம்படுத்தக்கூடும்."
+
+#, java-printf-format
+msgctxt "incorrect_chars"
+msgid "incorrect chars \"%1$s\""
+msgstr "தவறான எழுத்துக்கள் \"%1$s\""
+
+#, java-printf-format
+msgctxt "account_list"
+msgid "Account list"
+msgstr "கணக்கு பட்டியல்"
+
+#, java-printf-format
+msgctxt "post_reset_confirm"
+msgid "Save to drafts and edit new post?"
+msgstr "வரைவுகளைச் சேமித்து புதிய இடுகையைத் திருத்தவா?"
+
+#, java-printf-format
+msgctxt "removing_old_distributer"
+msgid "Removing old distributer…"
+msgstr "பழைய விநியோகச்தரை நீக்குதல்…"
+
+#, java-printf-format
+msgctxt "test_progress_dialog"
+msgid "progress dialog test"
+msgstr "முன்னேற்ற உரையாடல் சோதனை"
+
+#, java-printf-format
+msgctxt "push_subscription_is_not_required"
+msgid ""
+"Push subscription is not required because notifications not enabled, or push "
+"distributer is not enabled."
+msgstr ""
+"புச் சந்தா தேவையில்லை, ஏனெனில் அறிவிப்புகள் இயக்கப்படவில்லை, அல்லது புச் விநியோகச்தர் "
+"இயக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "push_subscription_is_not_required_delete_secret_keys"
+msgid "Secret key is no longer used, and it has been deleted."
+msgstr "ரகசிய விசை இனி பயன்படுத்தப்படாது, அது நீக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "push_subscription_exists_but_not_created_by_this_device"
+msgid "Push subscription is found, but not created by this device."
+msgstr "புச் சந்தா காணப்படுகிறது, ஆனால் இந்த சாதனத்தால் உருவாக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "push_subscription_creating_new_secret_key"
+msgid "Creating secret key…"
+msgstr "ரகசிய விசையை உருவாக்குதல்…"
+
+#, java-printf-format
+msgctxt "push_subscription_creating"
+msgid "Creating new push subscription…"
+msgstr "புதிய புச் சந்தாவை உருவாக்குதல்…"
+
+#, java-printf-format
+msgctxt "push_subscription_server_key_saved"
+msgid "Server key has been saved."
+msgstr "சேவையக விசை சேமிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "push_subscription_completed"
+msgid "Push subscription completed."
+msgstr "புச் சந்தா முடிந்தது."
+
+#, java-printf-format
+msgctxt "push_message_re_decode"
+msgid "Reprocessing"
+msgstr "மறு செயலாக்கம்"
+
+#, java-printf-format
+msgctxt "push_message_save_to_download_folder"
+msgid "Save to download folder"
+msgstr "கோப்புறையைப் பதிவிறக்க சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "push_message_save_to_download_folder_with_secret_key"
+msgid ""
+"Save to download folder (with secret key. Be careful with data security, "
+"This is dangerous!)"
+msgstr ""
+"பதிவிறக்க கோப்புறையில் சேமிக்கவும் (ரகசிய விசையுடன். தரவு பாதுகாப்பில் கவனமாக இருங்கள்"
+", இது ஆபத்தானது!)"
+
+#, java-printf-format
+msgctxt "push_message_history"
+msgid "Push message history"
+msgstr "செய்தி வரலாற்றை தள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "alert_test"
+msgid "test alert notification"
+msgstr "சோதனை எச்சரிக்கை அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "saved_to"
+msgid "Saved to %1$s"
+msgstr "%1$s க்கு சேமிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "view"
+msgid "View"
+msgstr "பார்வை"
+
+#, java-printf-format
+msgctxt "notification_permission_not_granted"
+msgid "notification permission not granted"
+msgstr "அறிவிப்பு இசைவு வழங்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "push_notification_use"
+msgid "Use push subscription to receive notification."
+msgstr "அறிவிப்பைப் பெற புச் சந்தாவைப் பயன்படுத்தவும்."
+
+#, java-printf-format
+msgctxt "pull_notification_use"
+msgid "Use pull check periodically to load notification."
+msgstr "அறிவிப்பை ஏற்றுவதற்கு அவ்வப்போது புல் காசோலை பயன்படுத்தவும்."
+
+#, java-printf-format
+msgctxt "server_configuration"
+msgid "Server configuration"
+msgstr "சேவையக உள்ளமைவு"
+
+#, java-printf-format
+msgctxt "fedibird_capacities"
+msgid "Fedibird capacities"
+msgstr "ஃபெடிபேர்ட் திறன்கள்"
+
+#, java-printf-format
+msgctxt "push_subscription_exists_updateing"
+msgid "Updating current push subscription…"
+msgstr "தற்போதைய புச் சந்தாவைப் புதுப்பித்தல்…"
+
+#, java-printf-format
+msgctxt "manually_update"
+msgid "Manually update"
+msgstr "கைமுறையாக புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "notification_push_distributor_disabled"
+msgid "Notification push distributor not selected."
+msgstr "அறிவிப்பு புச் விநியோகச்தர் தேர்ந்தெடுக்கப்படவில்லை."
+
+#, java-printf-format
+msgctxt "notification_accent_color"
+msgid "Notification accent color"
+msgstr "அறிவிப்பு உச்சரிப்பு நிறம்"
+
+#, java-printf-format
+msgctxt "pleroma_features"
+msgid "Pleroma features"
+msgstr "பிளெரோமா நற்பொருத்தங்கள்"
+
+#, java-printf-format
+msgctxt "unified_push_got_new_endpoint_url"
+msgid "Got new UnifiedPush endpoint URL…"
+msgstr "புதிய ஒருங்கிணைந்த புச் எண்ட்பாயிண்ட் முகவரி கிடைத்தது…"
+
+#, java-printf-format
+msgctxt "removing_old_fcm_token"
+msgid "Removing expired FCM device token from app server…"
+msgstr "பயன்பாட்டு சேவையகத்திலிருந்து காலாவதியான FCM சாதன கிள்ளாக்கை நீக்குதல்…"
+
+#, java-printf-format
+msgctxt "removing_old_unified_push_url"
+msgid "Removing expired UnifiedPush endpoint URL from app server…"
+msgstr ""
+"பயன்பாட்டு சேவையகத்திலிருந்து காலாவதியான ஒருங்கிணைந்த புச் எண்ட்பாயிண்ட் முகவரி ஐ "
+"நீக்குதல்…"
+
+#, java-printf-format
+msgctxt "sending_push_distributor_info_to_app_server"
+msgid "Sending push service information to app server…"
+msgstr "பயன்பாட்டு சேவையகத்திற்கு புச் பணி தகவல்களை அனுப்புகிறது…"
+
+#, java-printf-format
+msgctxt "push_distributor_not_available"
+msgid ""
+"Push distributor is not available. You can receive push notifications by "
+"installing a UnifiedPush compatible push delivery app. see https://"
+"unifiedpush.org/"
+msgstr ""
+"புச் விநியோகச்தர் கிடைக்கவில்லை. ஒருங்கிணைந்த புச் இணக்கமான புச் டெலிவரி பயன்பாட்டை "
+"நிறுவுவதன் மூலம் நீங்கள் புச் அறிவிப்புகளைப் பெறலாம். https://unifiedpush.org/ ஐப் "
+"பார்க்கவும்"
+
+#, java-printf-format
+msgctxt "glide_test"
+msgid "glide test"
+msgstr "சறுக்கு சோதனை"
+
+#, java-printf-format
+msgctxt "default_post_account_default_action"
+msgid "viewing column account(phone), or ask always(tablet)"
+msgstr ""
+"நெடுவரிசை கணக்கைப் பார்ப்பது (தொலைபேசி), அல்லது எப்போதும் கேளுங்கள் (டேப்லெட்)"
+
+#, java-printf-format
+msgctxt "quick_post_account"
+msgid "Quick post account"
+msgstr "விரைவான இடுகை கணக்கு"
+
+#, java-printf-format
+msgctxt "show_username_on_filtered_post"
+msgid "Show username on filtered post"
+msgstr "வடிகட்டப்பட்ட இடுகையில் பயனர்பெயரைக் காட்டு"
+
+#, java-printf-format
+msgctxt "log_save_level"
+msgid "Log collection level"
+msgstr "பதிவு சேகரிப்பு நிலை"
+
+#, java-printf-format
+msgctxt "log_all"
+msgid "all"
+msgstr ""
+
+#, java-printf-format
+msgctxt "log_verbose"
+msgid "verbose"
+msgstr ""
+
+#, java-printf-format
+msgctxt "log_debug"
+msgid "debug"
+msgstr ""
+
+#, java-printf-format
+msgctxt "log_info"
+msgid "info"
+msgstr ""
+
+#, java-printf-format
+msgctxt "log_warn"
+msgid "warn"
+msgstr ""
+
+#, java-printf-format
+msgctxt "log_error"
+msgid "error"
+msgstr ""
+
+#, java-printf-format
+msgctxt "log_assert"
+msgid "assert"
+msgstr ""
+
+#, java-printf-format
+msgctxt "send_log_email"
+msgid "Send logs by e-mail"
+msgstr "மின்னஞ்சல் மூலம் பதிவுகளை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "bug_report"
+msgid "Bug report"
+msgstr "பிழை அறிக்கை"
+
+#, java-printf-format
+msgctxt "bug_report_desc"
+msgid ""
+"The app keeps logs for the past few days, but does not send them outside "
+"without permission. It is only referenced when the user explicitly sends "
+"logs."
+msgstr ""
+"பயன்பாடு கடந்த சில நாட்களாக பதிவுகளை வைத்திருக்கிறது, ஆனால் அவற்றை அனுமதியின்றி "
+"வெளியே அனுப்பாது. பயனர் வெளிப்படையாக பதிவுகளை அனுப்பும்போது மட்டுமே இது "
+"குறிப்பிடப்படுகிறது."
+
+#, java-printf-format
+msgctxt "log_save_level_desc"
+msgid ""
+"Log severity level. Logs with a severity less than this setting will not be "
+"collected."
+msgstr ""
+"பதிவு தீவிர நிலை. இந்த அமைப்பைக் காட்டிலும் குறைவான தீவிரத்தன்மை கொண்ட பதிவுகள் "
+"சேகரிக்கப்படாது."
+
+#, java-printf-format
+msgctxt "image_alpha_too_low"
+msgid "background image alpha is too low. can you view the image?"
+msgstr "பின்னணி பட ஆல்பா மிகக் குறைவு. படத்தைப் பார்க்க முடியுமா?"
+
+#, java-printf-format
+msgctxt "enable_deprecated_something"
+msgid "Enable deprecated something"
+msgstr "எதையாவது நீக்கியது"
+
+#, java-printf-format
+msgctxt "misskey_support_end"
+msgid "Misskey support has ended"
+msgstr "மிச்கி உதவி முடிந்தது"
+
+#, java-printf-format
+msgctxt "emoji_size_mastodon"
+msgid "(Mastodon)Custom emoji scaling(Unit:%. default:100)"
+msgstr "(மாச்டோடன்) தனிப்பயன் ஈமோசி அளவிடுதல் (அலகு:%. இயல்புநிலை: 100)"
+
+#, java-printf-format
+msgctxt "emoji_size_misskey"
+msgid "(Misskey)Custom emoji scaling(Unit:%。default:250)"
+msgstr "(மிசி) தனிப்பயன் ஈமோசி அளவிடுதல் (அலகு:%。 இயல்புநிலை: 250)"
+
+#, java-printf-format
+msgctxt "emoji_size_reaction"
+msgid "Reaction emoji scaling(Unit:%。default:150)"
+msgstr "எதிர்வினை ஈமோசி அளவிடுதல் (அலகு:%。 இயல்புநிலை: 150)"
+
+#, java-printf-format
+msgctxt "emoji_size_user_name"
+msgid "User name emoji scaling(Unit:%。default:100)"
+msgstr "பயனர் பெயர் ஈமோசி அளவிடுதல் (அலகு:%。 இயல்புநிலை: 100)"
+
+#, java-printf-format
+msgctxt "emoji_wide_mode"
+msgid "Wide custom emoji"
+msgstr "பரந்த தனிப்பயன் ஈமோசி"
+
+#, java-printf-format
+msgctxt "enabled"
+msgid "Enabled"
+msgstr "இயக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "disabled"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "emoji_texture_pixels"
+msgid ""
+"Emoji texture max pixels(Unix:pixels, default: 128. task kill required. "
+"reduce to 64 if your device's RAM is not enough)"
+msgstr ""
+"ஈமோசி அமைப்பு அதிகபட்ச படப்புள்ளிகள் (யூனிக்ச்: படப்புள்ளிகள், இயல்புநிலை: 128. பணியைக் "
+"கொலை தேவை. உங்கள் சாதனத்தின் ரேம் போதுமானதாக இல்லாவிட்டால் 64 ஆக குறைக்கவும்)"
+
+#, java-printf-format
+msgctxt "emoji_picker_category_collapse"
+msgid ""
+"Collapse emoji picker categories (turning off it will very slow if your "
+"servers has a lot of emojis)"
+msgstr ""
+"ஈமோசி பிக்கர் வகைகளை சரிவது (உங்கள் சேவையகங்களில் நிறைய ஈமோசிகள் இருந்தால் அதை அணைக்க "
+"மிகவும் மெதுவாக இருக்கும்)"
+
+#, java-printf-format
+msgctxt "unfollow_hashtag_confirm"
+msgid "unfollow hashtag \"%1$s\"?"
+msgstr "\"%1$s\" ஆச்டாக்?"
+
+#, java-printf-format
+msgctxt "plugin_app_intro"
+msgid "Introduction to plug-in apps"
+msgstr "செருகுநிரல் பயன்பாடுகளுக்கு அறிமுகம்"
+
+#, java-printf-format
+msgctxt "autocomplete_list_loading"
+msgid "loading autocomplete list…"
+msgstr "தன்னியக்கவியல் பட்டியலை ஏற்றுகிறது…"
+
+#, java-printf-format
+msgctxt "media_count"
+msgid "%1$d attachments (tap to see all)"
+msgstr "%1$d இணைப்புகள் (அனைத்தையும் பார்க்க தட்டவும்)"
+
+#, java-printf-format
+msgctxt "applied_when_post"
+msgid "applied when post."
+msgstr "இடுகையின் போது பயன்படுத்தப்படும்."
+
+#, java-printf-format
+msgctxt "exceed_reaction_per_account"
+msgid "Reaction limit is %1$d."
+msgstr "எதிர்வினை வரம்பு %1$d ஆகும்."
+
+#, java-printf-format
+msgctxt "copy_reaction_name"
+msgid "Copy reaction name"
+msgstr "எதிர்வினை பெயரை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "send_to_other_app"
+msgid "Send to other app"
+msgstr "பிற பயன்பாட்டிற்கு அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "save_to_local_folder"
+msgid "Save to local folder"
+msgstr "உள்ளக கோப்புறையில் சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "app_data_export_import"
+msgid "Export/Import app data"
+msgstr "பயன்பாட்டு தரவை ஏற்றுமதி/இறக்குமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "translate_or_custom_share"
+msgid "Translate/Custom share buttons"
+msgstr "மொழிபெயர்க்க/தனிப்பயன் பகிர்வு பொத்தான்கள்"
+
+#, java-printf-format
+msgctxt "search_result"
+msgid "%1$d/%2$d%3$s"
+msgstr ""
+
+#, java-printf-format
+msgctxt "toggle_regexp"
+msgid ".+?"
+msgstr ".+?"
+
+#, java-printf-format
+msgctxt "use_webp_format_if_server_accepts"
+msgid "Use WebP format if server accepts."
+msgstr "சேவையகம் ஏற்றுக்கொண்டால் WebP வடிவமைப்பைப் பயன்படுத்தவும்."
+
+#, java-printf-format
+msgctxt "detail"
+msgid "Detail"
+msgstr "விவரம்"
+
+#, java-printf-format
+msgctxt "emoji_detail"
+msgid "Emoji detail"
+msgstr "ஈமோசி விவரம்"
+
+#, java-printf-format
+msgctxt "post_404_desc"
+msgid "(Or, you reply to follower-only post from other account)"
+msgstr ""
+"(அல்லது, மற்ற கணக்கிலிருந்து பின்தொடர்பவர் மட்டுமே இடுகைக்கு பதிலளிக்கிறீர்கள்)"
+
+#, java-printf-format
+msgctxt "rearrange"
+msgid "rearrange"
+msgstr "மறுசீரமைக்கவும்"
+
+#, java-printf-format
+msgctxt "attachment_rearrange_desc"
+msgid "Drag to rearrange."
+msgstr "மறுசீரமைக்க இழுக்கவும்."
+
+#, java-printf-format
+msgctxt "language_filter_importing"
+msgid "Importing language filter…"
+msgstr "மொழி வடிகட்டியை இறக்குமதி செய்தல்…"
+
+#, java-printf-format
+msgctxt "language_filter_loading"
+msgid "Loading available languages…"
+msgstr "கிடைக்கக்கூடிய மொழிகளை ஏற்றுகிறது…"
+
+#, java-printf-format
+msgctxt "language_name_montenegrin"
+msgid "Montenegrin"
+msgstr "மாண்டினெக்ரின்"
+
+#, java-printf-format
+msgctxt "agg_boosts"
+msgid "Agg. boosts"
+msgstr "Agg. ஊக்கங்கள்"
+
+#, java-printf-format
+msgctxt "agg_status_limit"
+msgid "prove posts limit"
+msgstr "இடுகைகளின் வரம்பு நிரூபிக்கவும்"
+
+#, java-printf-format
+msgctxt "display_name_boosted_by_agg"
+msgid "%1$s and %2$s followings boosted."
+msgstr "%1$s மற்றும் %2$s பின்தொடர்தல் அதிகரித்தது."
+
+#, java-printf-format
+msgctxt "notification_type_severed_relationships"
+msgid "severed relationships"
+msgstr "துண்டிக்கப்பட்ட உறவுகள்"
+
+#, java-printf-format
+msgctxt "servered_relationships_domain_block"
+msgid "%1$s admin/moderator has blocked domain %2$s."
+msgstr "%1$s நிர்வாகம்/மதிப்பீட்டாளர் டொமைன் %2$s ஐத் தடுத்துள்ளார்."
+
+#, java-printf-format
+msgctxt "servered_relationships_account_suspension"
+msgid "%1$s admin/moderator has suspended account %2$s."
+msgstr "%1$s நிர்வாகம்/மதிப்பீட்டாளர் கணக்கு %2$s ஐ இடைநீக்கம் செய்துள்ளார்."
+
+#, java-printf-format
+msgctxt "servered_relationships_user_domain_block"
+msgid "user %1$s have blocked domain %2$s."
+msgstr "பயனர் %1$s டொமைன் %2$s ஐத் தடுத்துள்ளன."
+
+#, java-printf-format
+msgctxt "count_following_1"
+msgid "%1$d account you follow"
+msgstr "நீங்கள் பின்பற்றும் %1$d கணக்கு"
+
+#, java-printf-format
+msgctxt "count_followings"
+msgid "%1$d accounts you follow"
+msgstr "நீங்கள் பின்பற்றும் %1$d கணக்குகள்"
+
+#, java-printf-format
+msgctxt "count_follower_1"
+msgid "%1$d of your follower"
+msgstr "உங்கள் பின்தொடர்பவரின் %1$d"
+
+#, java-printf-format
+msgctxt "count_followers"
+msgid "%1$d of your followers"
+msgstr "உங்களைப் பின்தொடர்பவர்களில் %1$d"
+
+#, java-printf-format
+msgctxt "losts_join"
+msgid "and"
+msgstr "மற்றும்"
+
+#, java-printf-format
+msgctxt "lost_relationships"
+msgid "you lost %1$s."
+msgstr "நீங்கள் %1$s இழந்துவிட்டீர்கள்."
+
+#, java-printf-format
+msgctxt "check_details_web_ui"
+msgid "Check details in Web UI."
+msgstr "வலை இடைமுகம் இல் விவரங்களைச் சரிபார்க்கவும்."
+
+#, java-printf-format
+msgctxt "back"
+msgid "back"
+msgstr "பின்"

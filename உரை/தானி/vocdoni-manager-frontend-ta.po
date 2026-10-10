@@ -1,0 +1,1194 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Vocdoni)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-22 08:52+0200\n"
+"PO-Revision-Date: 2025-03-24 11:16\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/vocdoni/manager-frontend/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+msgctxt "accept"
+msgid "I accept <l>{{ what }}</l>"
+msgstr "நான் <l> {{ what }} </l> ஐ ஏற்றுக்கொள்கிறேன்"
+
+msgctxt "account.address"
+msgid "Address"
+msgstr "முகவரி"
+
+msgctxt "account.balance"
+msgid "Balance"
+msgstr "இருப்பு"
+
+msgctxt "account.btn.details_already_copied"
+msgid "I have copied my Entity details"
+msgstr "எனது நிறுவன விவரங்களை நகலெடுத்துள்ளேன்"
+
+msgctxt "account.btn.download_backup"
+msgid "Download backup file"
+msgstr "காப்புப்பிரதி கோப்பைப் பதிவிறக்கவும்"
+
+msgctxt "account.btn.import"
+msgid "Import and login"
+msgstr "இறக்குமதி செய்து உள்நுழைக"
+
+msgctxt "account.created"
+msgid "Done creating account!"
+msgstr "கணக்கை உருவாக்கியது!"
+
+msgctxt "account.creating"
+msgid "Creating account, please wait..."
+msgstr "கணக்கை உருவாக்குதல், தயவுசெய்து காத்திருங்கள் ..."
+
+msgctxt "account.drag_to_import"
+msgid "Click or drag your backup file here for easy import"
+msgstr ""
+"எளிதாக இறக்குமதி செய்ய உங்கள் காப்பு கோப்பை இங்கே சொடுக்கு செய்யவும் அல்லது "
+"இழுக்கவும்"
+
+msgctxt "account.error.cannot_create"
+msgid "An error ocurred trying to create the account. Please, try it again"
+msgstr ""
+"கணக்கை உருவாக்க முயற்சிக்கும் பிழை ஏற்பட்டது. தயவுசெய்து, மீண்டும் "
+"முயற்சிக்கவும்"
+
+msgctxt "account.error.cannot_import"
+msgid "An error ocurred trying import the account. Please, try it again"
+msgstr ""
+"கணக்கை இறக்குமதி செய்ய முயற்சிக்கும் பிழை ஏற்பட்டது. தயவுசெய்து, மீண்டும் "
+"முயற்சிக்கவும்"
+
+msgctxt "account.error.missing_name"
+msgid "You need to specify an account name"
+msgstr "நீங்கள் ஒரு கணக்கு பெயரைக் குறிப்பிட வேண்டும்"
+
+msgctxt "account.error.missing_password"
+msgid "The password is required to decrypt everything!"
+msgstr "எல்லாவற்றையும் மறைகுறியாக்க கடவுச்சொல் தேவை!"
+
+msgctxt "account.error.missing_seed"
+msgid "The seed is mandatory"
+msgstr "விதை கட்டாயமாகும்"
+
+msgctxt "account.error.not_found_description"
+msgid ""
+"It looks like your account is not linked to an existing entity. Do you want "
+"to create it now?"
+msgstr ""
+"உங்கள் கணக்கு ஏற்கனவே இருக்கும் நிறுவனத்துடன் இணைக்கப்படவில்லை என்று "
+"தெரிகிறது. இப்போது அதை உருவாக்க விரும்புகிறீர்களா?"
+
+msgctxt "account.error.password_missmatch"
+msgid "The two passwords that you entered do not match!"
+msgstr "நீங்கள் உள்ளிட்ட இரண்டு கடவுச்சொற்கள் பொருந்தவில்லை!"
+
+msgctxt "account.import_file_restriction"
+msgid "Only .json files are supported"
+msgstr ".Json கோப்புகள் மட்டுமே ஆதரிக்கப்படுகின்றன"
+
+msgctxt "account.import_finish"
+msgid ""
+"Now finish the process by setting an entity name and the expected password "
+"for the key pair."
+msgstr ""
+"இப்போது ஒரு நிறுவனத்தின் பெயர் மற்றும் முக்கிய சோடிக்கு எதிர்பார்க்கப்படும் "
+"கடவுச்சொல்லை அமைப்பதன் மூலம் செயல்முறையை முடிக்கவும்."
+
+msgctxt "account.import_title"
+msgid "Import account"
+msgstr "கணக்கு இறக்குமதி"
+
+msgctxt "account.manually_set"
+msgid "Or manually set your details below:"
+msgstr "அல்லது உங்கள் விவரங்களை கைமுறையாக கீழே அமைக்கவும்:"
+
+msgctxt "account.name"
+msgid "Name"
+msgstr "பெயர்"
+
+msgctxt "account.please_copy_details"
+msgid "Please, make a copy of the following details before you continue"
+msgstr ""
+"தயவுசெய்து, நீங்கள் தொடர்வதற்கு முன் பின்வரும் விவரங்களின் நகலை உருவாக்கவும்"
+
+msgctxt "account.private_key"
+msgid "Private key"
+msgstr "தனிப்பட்ட விசை"
+
+msgctxt "account.public_key"
+msgid "Public key"
+msgstr "பொது விசை"
+
+msgctxt "account.seed"
+msgid "Account seed"
+msgstr "கணக்கு விதை"
+
+msgctxt "account.title"
+msgid "Account"
+msgstr "கணக்கு"
+
+msgctxt "action_in_progress"
+msgid "Action in progress..."
+msgstr "செயலில் செயலில் ..."
+
+msgctxt "btn.back"
+msgid "Go back"
+msgstr "திரும்பிச் செல்லுங்கள்"
+
+msgctxt "btn.cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+msgctxt "btn.copy_link"
+msgid "Copy link"
+msgstr "இணைப்பை நகலெடுக்கவும்"
+
+msgctxt "btn.create"
+msgid "Create"
+msgstr "உருவாக்கு"
+
+msgctxt "btn.edit"
+msgid "Edit"
+msgstr "தொகு"
+
+msgctxt "btn.ok"
+msgid "Ok"
+msgstr "சரி"
+
+msgctxt "btn.remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+msgctxt "btn.retry"
+msgid "Retry"
+msgstr "மீண்டும் முயற்சிக்கவும்"
+
+msgctxt "btn.save"
+msgid "Save"
+msgstr "சேமி"
+
+msgctxt "btn.saving"
+msgid "Saving"
+msgstr "சேமிப்பு"
+
+msgctxt "cannot_import"
+msgid "Cannot import members {{ error }}"
+msgstr "உறுப்பினர்களை இறக்குமதி செய்ய முடியாது {{ error }}"
+
+msgctxt "confirm"
+msgid "Confirm"
+msgstr "உறுதிப்படுத்தவும்"
+
+msgctxt "confirm_delete"
+msgid "Are you sure you want to remove {{ name }}?"
+msgstr "{{ name }} ஐ அகற்ற விரும்புகிறீர்களா?"
+
+msgctxt "connected"
+msgid "Connected"
+msgstr "இணைக்கப்பட்டுள்ளது"
+
+msgctxt "connecting"
+msgid "Connecting to the network. Please wait..."
+msgstr "பிணையத்துடன் இணைக்கிறது. தயவுசெய்து காத்திருங்கள் ..."
+
+msgctxt "duplicate_email"
+msgid "Duplicate email"
+msgstr "நகல் மின்னஞ்சல்"
+
+msgctxt "entity.btn.create"
+msgid "Create entity"
+msgstr "நிறுவனத்தை உருவாக்கவும்"
+
+msgctxt "entity.btn.manage"
+msgid "Manage my entity"
+msgstr "எனது நிறுவனத்தை நிர்வகிக்கவும்"
+
+msgctxt "entity.error.loading"
+msgid "There was an error loading the entity data"
+msgstr "நிறுவன தரவை ஏற்றுவதில் பிழை ஏற்பட்டது"
+
+msgctxt "entity.error.not_found"
+msgid "Entity not found"
+msgstr "நிறுவனம் காணப்படவில்லை"
+
+msgctxt "entity.error.not_found_description"
+msgid "The entity you are looking for cannot be found"
+msgstr "நீங்கள் தேடும் நிறுவனத்தை கண்டுபிடிக்க முடியாது"
+
+msgctxt "entity.field.callback_secret"
+msgid "Callback secret"
+msgstr "கால்பேக் மறைபொருள்"
+
+msgctxt "entity.field.callback_url"
+msgid "Callback URL"
+msgstr "கால்பேக் முகவரி"
+
+msgctxt "entity.field.org_email"
+msgid "Organization e-mail"
+msgstr "அமைப்பு மின்னஞ்சல்"
+
+msgctxt "entity.field.org_name"
+msgid "Organization name"
+msgstr "அமைப்பு பெயர்"
+
+msgctxt "entity.heads-up"
+msgid ""
+"Keep in mind that everything is encrypted on your browser. If your device "
+"breaks, is lost, stolen, or has data corruption, there is no way for Vocdoni"
+" to recover your entity."
+msgstr ""
+"உங்கள் உலாவியில் எல்லாம் குறியாக்கம் செய்யப்பட்டுள்ளது என்பதை நினைவில் "
+"கொள்ளுங்கள். உங்கள் சாதனம் உடைந்தால், தொலைந்துவிட்டால், திருடப்பட்டால் "
+"அல்லது தரவு ஊழல் இருந்தால், உங்கள் நிறுவனத்தை மீட்டெடுக்க வோக்டோனிக்கு எந்த "
+"வழியும் இல்லை."
+
+msgctxt "entity.loading"
+msgid "Loading the details of the entity..."
+msgstr "நிறுவனத்தின் விவரங்களை ஏற்றுகிறது ..."
+
+msgctxt "entity.qr_note"
+msgid ""
+"By scanning this QR code with Vocdoni's App a user can subscribe to the "
+"activity of your organization."
+msgstr ""
+"இந்த QR குறியீட்டை Vocdoni இன் பயன்பாட்டுடன் ச்கேன் செய்வதன் மூலம் ஒரு பயனர்"
+" உங்கள் நிறுவனத்தின் செயல்பாட்டிற்கு குழுசேரலாம்."
+
+msgctxt "entity.title.create"
+msgid "Create your entity"
+msgstr "உங்கள் நிறுவனத்தை உருவாக்கவும்"
+
+msgctxt "entity.title.new"
+msgid "New entity"
+msgstr "புதிய நிறுவனம்"
+
+msgctxt "entity.title.share"
+msgid "Share"
+msgstr "பங்கு"
+
+msgctxt "entity.welcome"
+msgid ""
+"Welcome! In the next steps you're about to create an entity in Vocdoni. <br "
+"/> It's important to keep the password and all the information of the next "
+"page in a safe place, it is the only way to access your entity."
+msgstr ""
+"வரவேற்கிறோம்! அடுத்த படிகளில் நீங்கள் வோக்டோனியில் ஒரு நிறுவனத்தை உருவாக்கப்"
+" போகிறீர்கள். <br /> கடவுச்சொல் மற்றும் அடுத்த பக்கத்தின் அனைத்து "
+"தகவல்களையும் பாதுகாப்பான இடத்தில் வைத்திருப்பது முதன்மை, இது உங்கள் "
+"நிறுவனத்தை அணுகுவதற்கான ஒரே வழி."
+
+msgctxt "error.cannot_connect"
+msgid "Could not connect"
+msgstr "இணைக்க முடியவில்லை"
+
+msgctxt "error.cannot_read_entity_metadata"
+msgid "Could not read the entity metadata"
+msgstr "நிறுவன மெட்டாடேட்டாவைப் படிக்க முடியவில்லை"
+
+msgctxt "error.connection"
+msgid "Oops! There has been a problem while connecting to our services."
+msgstr "அச்சச்சோ! எங்கள் சேவைகளுடன் இணைக்கும்போது ஒரு சிக்கல் உள்ளது."
+
+msgctxt "error.file_format_unknown"
+msgid "Unknown file format uploaded"
+msgstr "தெரியாத கோப்பு வடிவம் பதிவேற்றப்பட்டது"
+
+msgctxt "error.general"
+msgid "The web encountered a general error"
+msgstr "வலை ஒரு பொதுவான பிழையை எதிர்கொண்டது"
+
+msgctxt "error.insufficient_funds"
+msgid "Not enough balance"
+msgstr "Not enough balance"
+
+msgctxt "error.insufficient_funds_note"
+msgid ""
+"To continue with the transaction you need to get some {{ token }} tokens.<br"
+" /> Copy the following address and get in touch with us: "
+"<code>{{address}}</code>"
+msgstr ""
+"பரிவர்த்தனையைத் தொடர நீங்கள் சில {{ token }} டோக்கன்களைப் பெற வேண்டும்."
+
+msgctxt "error.invalid_claims_found"
+msgid "Found {{ total }} invalid claims"
+msgstr "காணப்பட்டது {{ total }} தவறான உரிமைகோரல்கள்"
+
+msgctxt "error.invalid_email"
+msgid "It must be a valid email"
+msgstr "இது சரியான மின்னஞ்சலாக இருக்க வேண்டும்"
+
+msgctxt "error.invalid_format_contents"
+msgid "The data does not seem to have a correct format"
+msgstr "தரவுகளில் சரியான வடிவம் இருப்பதாகத் தெரியவில்லை"
+
+msgctxt "error.invalid_request"
+msgid "The requested data is not valid"
+msgstr "கோரப்பட்ட தரவு செல்லுபடியாகாது"
+
+msgctxt "error.invalid_spreadsheet_data"
+msgid "The entered data doesn't seem correct, please, check it."
+msgstr "உள்ளிட்ட தரவு சரியாகத் தெரியவில்லை, தயவுசெய்து, சரிபார்க்கவும்."
+
+msgctxt "error.invalid_uri"
+msgid "Must be either an http or an ipfs link"
+msgstr "ஒரு HTTP அல்லது IPFS இணைப்பாக இருக்க வேண்டும்"
+
+msgctxt "error.not_found"
+msgid "Not found"
+msgstr "கண்டுபிடிக்கப்படவில்லை"
+
+msgctxt "error.oops"
+msgid "Oops, this is an error."
+msgstr "அச்சச்சோ, இது ஒரு பிழை."
+
+msgctxt "error.retry"
+msgid "Try again"
+msgstr "மீண்டும் முயற்சிக்கவும்"
+
+msgctxt "error.timeout"
+msgid "The request took too long"
+msgstr "கோரிக்கை அதிக நேரம் எடுத்தது"
+
+msgctxt "error.update"
+msgid ""
+"There was an error updating the blockchain information. Refresh the page if "
+"you don't see changes in a while."
+msgstr ""
+"பிளாக்செயின் தகவலைப் புதுப்பிப்பதில் பிழை ஏற்பட்டது. சிறிது நேரத்தில் "
+"மாற்றங்களை நீங்கள் காணவில்லை என்றால் பக்கத்தைப் புதுப்பிக்கவும்."
+
+msgctxt "error.wrong_password"
+msgid "Could not unlock the wallet. Please, check your password."
+msgstr ""
+"பணப்பையை திறக்க முடியவில்லை. தயவுசெய்து, உங்கள் கடவுச்சொல்லை சரிபார்க்கவும்."
+
+msgctxt "field.actions"
+msgid "Actions"
+msgstr "செயல்கள்"
+
+msgctxt "field.email"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+msgctxt "field.last_name"
+msgid "Last name"
+msgstr "கடைசி பெயர்"
+
+msgctxt "field.name"
+msgid "Name"
+msgstr "பெயர்"
+
+msgctxt "field.tags"
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+msgctxt "field.validated"
+msgid "Validated"
+msgstr "சரிபார்க்கப்பட்டது"
+
+msgctxt "image_uploader.error.filesize"
+msgid "The image is bigger than the current filesize limit ({{ limit }})"
+msgstr "தற்போதைய கோப்பு சேர்க்கை வரம்பை விட படம் பெரியது ({{ limit }})"
+
+msgctxt "image_uploader.error.mime"
+msgid ""
+"Only jpg and png files are allowed. The file you uploaded is not valid."
+msgstr ""
+"JPG மற்றும் PNG கோப்புகள் மட்டுமே அனுமதிக்கப்படுகின்றன. நீங்கள் பதிவேற்றிய "
+"கோப்பு செல்லுபடியாகாது."
+
+msgctxt "image_uploader.upload"
+msgid "Upload image"
+msgstr "படத்தைப் பதிவேற்றவும்"
+
+msgctxt "image_uploader.uploading"
+msgid "Uploading image"
+msgstr "படத்தை பதிவேற்றுகிறது"
+
+msgctxt "loading"
+msgid "Loading..."
+msgstr "ஏற்றுகிறது ..."
+
+msgctxt "login.btn.create"
+msgid "Create an entity"
+msgstr "ஒரு நிறுவனத்தை உருவாக்கவும்"
+
+msgctxt "login.btn.import"
+msgid "Import an entity"
+msgstr "ஒரு நிறுவனத்தை இறக்குமதி செய்யுங்கள்"
+
+msgctxt "login.btn.sign_in"
+msgid "Sign in"
+msgstr "விடுபதிகை"
+
+msgctxt "login.description"
+msgid ""
+"From this page you can create and manage your entity, publish news, manage "
+"censuses and create voting processes."
+msgstr ""
+"இந்த பக்கத்திலிருந்து நீங்கள் உங்கள் நிறுவனத்தை உருவாக்கலாம் மற்றும் "
+"நிர்வகிக்கலாம், செய்திகளை வெளியிடலாம், கணக்கெடுப்புகளை நிர்வகிக்கலாம் "
+"மற்றும் வாக்களிக்கும் செயல்முறைகளை உருவாக்கலாம்."
+
+msgctxt "login.password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+msgctxt "members.btn.create_census"
+msgid "Create voting census"
+msgstr "வாக்களிக்கும் கணக்கெடுப்பை உருவாக்குங்கள்"
+
+msgctxt "members.btn.download_template"
+msgid "Download template"
+msgstr "வார்ப்புருவைப் பதிவிறக்கவும்"
+
+msgctxt "members.btn.download_validation_links"
+msgid "Download validation links"
+msgstr "சரிபார்ப்பு இணைப்புகளைப் பதிவிறக்கவும்"
+
+msgctxt "members.btn.import"
+msgid "Import data"
+msgstr "தரவை இறக்குமதி செய்யுங்கள்"
+
+msgctxt "members.btn.row_add"
+msgid "+ Add a row"
+msgstr "+ ஒரு வரிசையைச் சேர்க்கவும்"
+
+msgctxt "members.btn.row_delete"
+msgid "- Delete row"
+msgstr "- வரிசையை நீக்கு"
+
+msgctxt "members.census_name"
+msgid "Enter census name"
+msgstr "மக்கள் தொகை கணக்கெடுப்பு பெயரை உள்ளிடவும்"
+
+msgctxt "members.import.confirm"
+msgid "Confirm import"
+msgstr "இறக்குமதியை உறுதிப்படுத்தவும்"
+
+msgctxt "members.import.confirm_note"
+msgid ""
+"If the content in the preview is correct, click on the button to continue."
+msgstr ""
+"முன்னோட்டத்தில் உள்ள உள்ளடக்கம் சரியாக இருந்தால், தொடர பொத்தானைக் சொடுக்கு "
+"செய்க."
+
+msgctxt "members.import.description"
+msgid ""
+"In this section you can add new members to your organization's database. "
+"Once you upload the spreadsheet file with the attributes of each user, an "
+"individual validation link will be generated which you will have to send to "
+"each user so that they can register in the entity."
+msgstr ""
+"இந்த பிரிவில் உங்கள் நிறுவனத்தின் தரவுத்தளத்தில் புதிய உறுப்பினர்களைச் "
+"சேர்க்கலாம். ஒவ்வொரு பயனரின் பண்புகளுடனும் நீங்கள் விரிதாள் கோப்பை "
+"பதிவேற்றியதும், ஒரு தனிப்பட்ட சரிபார்ப்பு இணைப்பு உருவாக்கப்படும், அதை "
+"நீங்கள் ஒவ்வொரு பயனருக்கும் அனுப்ப வேண்டியிருக்கும், இதனால் அவர்கள் "
+"நிறுவனத்தில் பதிவு செய்யலாம்."
+
+msgctxt "members.import.manual"
+msgid "Manual import"
+msgstr "கையேடு இறக்குமதி"
+
+msgctxt "members.import.preview"
+msgid "Data preview"
+msgstr "தரவு முன்னோட்டம்"
+
+msgctxt "members.import.select_file_first"
+msgid "Select a file to upload first"
+msgstr "முதலில் பதிவேற்ற ஒரு கோப்பைத் தேர்ந்தெடுக்கவும்"
+
+msgctxt "members.import.template"
+msgid ""
+"Use the following spreadsheet template to upload a list with new members"
+msgstr ""
+"புதிய உறுப்பினர்களுடன் பட்டியலைப் பதிவேற்ற பின்வரும் விரிதாள் வார்ப்புருவைப்"
+" பயன்படுத்தவும்"
+
+msgctxt "members.import.title"
+msgid "Members import"
+msgstr "உறுப்பினர்கள் இறக்குமதி செய்கிறார்கள்"
+
+msgctxt "members.list.census_note"
+msgid ""
+"You can create censuses to give voting rights to users who have been "
+"previously validated."
+msgstr ""
+"முன்னர் சரிபார்க்கப்பட்ட பயனர்களுக்கு வாக்களிக்கும் உரிமையை வழங்க நீங்கள் "
+"கணக்கெடுப்பை உருவாக்கலாம்."
+
+msgctxt "members.list.description"
+msgid ""
+"This is the list of members of your entity. From here you can generate "
+"validation links so that they can register and give them the right to vote. "
+"You will be able to create censuses for voting processes with those members "
+"who are registered."
+msgstr ""
+"இது உங்கள் நிறுவனத்தின் உறுப்பினர்களின் பட்டியல். இங்கிருந்து நீங்கள் "
+"சரிபார்ப்பு இணைப்புகளை உருவாக்கலாம், இதன்மூலம் அவர்கள் பதிவுசெய்து "
+"அவர்களுக்கு வாக்களிக்கும் உரிமையை வழங்கலாம். பதிவுசெய்யப்பட்ட "
+"உறுப்பினர்களுடன் வாக்களிக்கும் செயல்முறைகளுக்கான மக்கள் தொகை கணக்கெடுப்புகளை"
+" நீங்கள் உருவாக்க முடியும்."
+
+msgctxt "members.list.title"
+msgid "Members list"
+msgstr "உறுப்பினர்கள் பட்டியல்"
+
+msgctxt "members.list.tools"
+msgid "Tools"
+msgstr "கருவிகள்"
+
+msgctxt "members.list.tools_note"
+msgid ""
+"Validation links are used to register members in your organization. Download"
+" the list of links and send each member their link so they can register."
+msgstr ""
+"உங்கள் நிறுவனத்தில் உறுப்பினர்களை பதிவு செய்ய சரிபார்ப்பு இணைப்புகள் "
+"பயன்படுத்தப்படுகின்றன. இணைப்புகளின் பட்டியலைப் பதிவிறக்கி, ஒவ்வொரு "
+"உறுப்பினருக்கும் அவற்றின் இணைப்பை அனுப்புங்கள், இதனால் அவர்கள் பதிவு "
+"செய்யலாம்."
+
+msgctxt "menu.censuses"
+msgid "Censuses"
+msgstr "மக்கள் தொகை கணக்கெடுப்புகள்"
+
+msgctxt "menu.communication"
+msgid "Communication"
+msgstr "தொடர்பு"
+
+msgctxt "menu.create_post"
+msgid "Create post"
+msgstr "இடுகையை உருவாக்கவும்"
+
+msgctxt "menu.details"
+msgid "Details"
+msgstr "விவரங்கள்"
+
+msgctxt "menu.import"
+msgid "Import members"
+msgstr "இறக்குமதி உறுப்பினர்கள்"
+
+msgctxt "menu.members"
+msgid "Members"
+msgstr "உறுப்பினர்கள்"
+
+msgctxt "menu.news"
+msgid "News"
+msgstr "செய்தி"
+
+msgctxt "menu.participation"
+msgid "Participation"
+msgstr "பங்கேற்பு"
+
+msgctxt "menu.settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgctxt "menu.users"
+msgid "Users management"
+msgstr "பயனர்கள் மேலாண்மை"
+
+msgctxt "news.confirm_delete"
+msgid ""
+"The selected post will be no longer accessible and this action cannot be "
+"undone. Do you want to continue?"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட இடுகை இனி அணுக முடியாது, மேலும் இந்த செயலை செயல்தவிர்க்க"
+" முடியாது. நீங்கள் தொடர விரும்புகிறீர்களா?"
+
+msgctxt "news.delete_error"
+msgid "The post could not be deleted"
+msgstr "இடுகையை நீக்க முடியவில்லை"
+
+msgctxt "news.deleted_successfuly"
+msgid "The post has been deleted successfully"
+msgstr "The post has been deleted successfully"
+
+msgctxt "news.field.content"
+msgid "Content"
+msgstr "உள்ளடக்கம்"
+
+msgctxt "news.field.header_image"
+msgid "Header image"
+msgstr "தலைப்பு படம்"
+
+msgctxt "news.field.header_image_note"
+msgid "If you don't have images, try to find one at unsplash.com."
+msgstr ""
+"உங்களிடம் படங்கள் இல்லையென்றால், unsplash.com இல் ஒன்றைக் கண்டுபிடிக்க "
+"முயற்சிக்கவும்."
+
+msgctxt "news.field.title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+msgctxt "news.title.feed"
+msgid "News feed"
+msgstr "செய்தி ஊட்டம்"
+
+msgctxt "news.title.header"
+msgid "Header"
+msgstr "தலைப்பி"
+
+msgctxt "news.title.new"
+msgid "New post"
+msgstr "புதிய இடுகை"
+
+msgctxt "or"
+msgid "or"
+msgstr "அல்லது"
+
+msgctxt "password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+msgctxt "password_confirm"
+msgid "Confirm password"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+
+msgctxt "policy"
+msgid "the privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+msgctxt "powered_by"
+msgid "Powered by Vocdoni"
+msgstr "வோக்டோனியால் இயக்கப்படுகிறது"
+
+msgctxt "process.actions"
+msgid "Actions"
+msgstr "செயல்கள்"
+
+msgctxt "process.btn.cast_vote"
+msgid "Cast my vote"
+msgstr "என் வாக்குகளை செலுத்துங்கள்"
+
+msgctxt "process.btn.confirm"
+msgid "Confirm your vote"
+msgstr "உங்கள் வாக்குகளை உறுதிப்படுத்தவும்"
+
+msgctxt "process.btn.create"
+msgid "Create process"
+msgstr "செயல்முறையை உருவாக்கவும்"
+
+msgctxt "process.btn.documentation"
+msgid "Docs"
+msgstr "கோப்புகள்"
+
+msgctxt "process.btn.goto_vote"
+msgid "Vote"
+msgstr "வாக்களிக்கவும்"
+
+msgctxt "process.btn.login"
+msgid "Log in"
+msgstr "புகுபதிகை"
+
+msgctxt "process.btn.mark_ended"
+msgid "Mark as ended"
+msgstr "முடிவடைந்தபடி குறி"
+
+msgctxt "process.btn.new"
+msgid "New"
+msgstr "புதிய"
+
+msgctxt "process.btn.option_add"
+msgid "+ Add option"
+msgstr "+ விருப்பத்தைச் சேர்க்கவும்"
+
+msgctxt "process.btn.publish"
+msgid "Publish final process"
+msgstr "இறுதி செயல்முறையை வெளியிடுங்கள்"
+
+msgctxt "process.btn.question_add"
+msgid "+ Add question"
+msgstr "+ கேள்வியைச் சேர்க்கவும்"
+
+msgctxt "process.btn.remove"
+msgid "Remove process from entity"
+msgstr "நிறுவனத்திலிருந்து செயல்முறையை அகற்று"
+
+msgctxt "process.btn.requests"
+msgid "Questions and answers"
+msgstr "கேள்விகள் மற்றும் பதில்கள்"
+
+msgctxt "process.census_size"
+msgid "Census size"
+msgstr "மக்கள் தொகை கணக்கெடுப்பு அளவு"
+
+msgctxt "process.channels.intro"
+msgid ""
+"Voting using the Vocdoni App is the only method that currently guarantees "
+"full anonimity and maximum security."
+msgstr ""
+"VOCDONI பயன்பாட்டைப் பயன்படுத்தி வாக்களிப்பது தற்போது முழு அனோனிமிட்டி "
+"மற்றும் அதிகபட்ச பாதுகாப்புக்கு பொறுப்பு அளிக்கும் ஒரே முறையாகும்."
+
+msgctxt "process.channels.list"
+msgid "Web voting is offered as an additional alternative when:"
+msgstr "வலை வாக்களிப்பு கூடுதல் மாற்றாக வழங்கப்படுகிறது:"
+
+msgctxt "process.channels.list_items"
+msgid ""
+"Live streaming is enabled;Access to non-registered users must be "
+"guaranteed;Attribute authentication is selected to define participants."
+msgstr ""
+"நேரடி ச்ட்ரீமிங் இயக்கப்பட்டது; பதிவு செய்யப்படாத பயனர்களுக்கான அணுகல் "
+"பொறுப்பு அளிக்கப்பட வேண்டும்; பங்கேற்பாளர்களை வரையறுக்க பண்புக்கூறு ஏற்பு "
+"தேர்ந்தெடுக்கப்படுகிறது."
+
+msgctxt "process.confirm_mark_ended"
+msgid ""
+"The process will be marked as ended and the vote scrutiny will be triggered "
+"(if necessary). Do you want to continue?"
+msgstr ""
+"செயல்முறை முடிவடைந்ததாகக் குறிக்கப்பட்டு, வாக்கு ஆய்வு தூண்டப்படும் "
+"(தேவைப்பட்டால்). நீங்கள் தொடர விரும்புகிறீர்களா?"
+
+msgctxt "process.confirm_vote"
+msgid ""
+"You're about to vote. This action cannot be undone! Do you want to continue?"
+msgstr ""
+"நீங்கள் வாக்களிக்கப் போகிறீர்கள். இந்த செயலை செயல்தவிர்க்க முடியாது! நீங்கள்"
+" தொடர விரும்புகிறீர்களா?"
+
+msgctxt "process.create_note"
+msgid ""
+"Creating the process will register it into the blockchain, wich <b>cannot be"
+" undone</b>. Do you want to continue?"
+msgstr ""
+"செயல்முறையை உருவாக்குவது அதை பிளாக்செயினில் பதிவு செய்யும், wich <b> "
+"செயல்தவிர்க்க முடியாது </b>. நீங்கள் தொடர விரும்புகிறீர்களா?"
+
+msgctxt "process.created"
+msgid "The voting process with ID {{ id }} has been created. {{ warn }}"
+msgstr ""
+"ஐடி {{ warn } with உடன் வாக்களிக்கும் செயல்முறை உருவாக்கப்பட்டுள்ளது. {{ id "
+"}}"
+
+msgctxt "process.creating"
+msgid "Creating process..."
+msgstr "செயல்முறையை உருவாக்குதல் ..."
+
+msgctxt "process.detailed_info"
+msgid "Detailed info (explorer)"
+msgstr "விரிவான செய்தி (எக்ச்ப்ளோரர்)"
+
+msgctxt "process.details"
+msgid "Process details"
+msgstr "செயல்முறை விவரங்கள்"
+
+msgctxt "process.end_block"
+msgid "End block"
+msgstr "இறுதித் தொகுதி"
+
+msgctxt "process.end_date"
+msgid "End date (estimated)"
+msgstr "இறுதி தேதி (மதிப்பிடப்பட்டது)"
+
+msgctxt "process.error.cannot_create"
+msgid "The voting process could not be created"
+msgstr "வாக்களிக்கும் செயல்முறையை உருவாக்க முடியவில்லை"
+
+msgctxt "process.error.cannot_load"
+msgid "There was an error loading the votes"
+msgstr "வாக்குகளை ஏற்றுவதில் பிழை ஏற்பட்டது"
+
+msgctxt "process.error.cannot_vote"
+msgid "Could not register your vote"
+msgstr "உங்கள் வாக்குகளை பதிவு செய்ய முடியவில்லை"
+
+msgctxt "process.error.census"
+msgid "Could not check census. Try again."
+msgstr ""
+"மக்கள் தொகை கணக்கெடுப்பை சரிபார்க்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."
+
+msgctxt "process.error.census_invalid"
+msgid "Invalid census data"
+msgstr "தவறான மக்கள் தொகை கணக்கெடுப்பு தரவு"
+
+msgctxt "process.error.census_undefined"
+msgid "Error grabbing proper census for selection"
+msgstr "தேர்வுக்கு சரியான மக்கள் தொகை கணக்கெடுப்பைப் பிடிப்பது"
+
+msgctxt "process.error.emails"
+msgid "There was an error sending the emails though."
+msgstr "மின்னஞ்சல்களை அனுப்புவதில் பிழை ஏற்பட்டது."
+
+msgctxt "process.error.ends_soon"
+msgid "The end date needs to be after the start date"
+msgstr "தொடக்க தேதிக்குப் பிறகு இறுதி தேதி இருக்க வேண்டும்"
+
+msgctxt "process.error.generic"
+msgid "One or more processes could not be loaded"
+msgstr "ஒன்று அல்லது அதற்கு மேற்பட்ட செயல்முறைகளை ஏற்ற முடியவில்லை"
+
+msgctxt "process.error.invalid_dates"
+msgid "The dates are not valid"
+msgstr "தேதிகள் செல்லுபடியாகாது"
+
+msgctxt "process.error.invalid_frame"
+msgid "The start date needs to be before the end one"
+msgstr "தொடக்க தேதி முடிவுக்கு முன் இருக்க வேண்டும்"
+
+msgctxt "process.error.invalid_private_key"
+msgid "The private key is not valid"
+msgstr "தனிப்பட்ட விசை செல்லுபடியாகாது"
+
+msgctxt "process.error.missing_title"
+msgid "The process must have a title"
+msgstr "செயல்முறைக்கு ஒரு தலைப்பு இருக்க வேண்டும்"
+
+msgctxt "process.error.not_found"
+msgid "Entity or process not found"
+msgstr "நிறுவனம் அல்லது செயல்முறை கிடைக்கவில்லை"
+
+msgctxt "process.error.not_found_description"
+msgid "Either the entity or the process you are looking for cannot be found"
+msgstr "நீங்கள் தேடும் நிறுவனம் அல்லது செயல்முறையை கண்டுபிடிக்க முடியாது"
+
+msgctxt "process.error.not_in_census"
+msgid "You are not in the census"
+msgstr "நீங்கள் மக்கள் தொகை கணக்கெடுப்பில் இல்லை"
+
+msgctxt "process.error.select_all"
+msgid "Please, choose your vote for all questions."
+msgstr "தயவுசெய்து, எல்லா கேள்விகளுக்கும் உங்கள் வாக்குகளைத் தேர்வுசெய்க."
+
+msgctxt "process.error.starts_soon"
+msgid "The start date needs to be at least a few minutes in the future"
+msgstr "தொடக்க தேதி எதிர்காலத்தில் குறைந்தது சில நிமிடங்கள் இருக்க வேண்டும்"
+
+msgctxt "process.error.status"
+msgid "Could not load the process status"
+msgstr "செயல்முறை நிலையை ஏற்ற முடியவில்லை"
+
+msgctxt "process.error.timeout"
+msgid "The list of voting processes took too long to load"
+msgstr "வாக்களிக்கும் செயல்முறைகளின் பட்டியல் ஏற்றுவதற்கு அதிக நேரம் எடுத்தது"
+
+msgctxt "process.error.wrong_value"
+msgid "The chosen value for this option has an invalid value"
+msgstr ""
+"இந்த விருப்பத்திற்கான தேர்ந்தெடுக்கப்பட்ட மதிப்பு தவறான மதிப்பைக் "
+"கொண்டுள்ளது"
+
+msgctxt "process.field.app_unavailable"
+msgid "Not available within the app."
+msgstr "பயன்பாட்டில் கிடைக்கவில்லை."
+
+msgctxt "process.field.census_root"
+msgid "Census Root"
+msgstr "மக்கள் தொகை கணக்கெடுப்பு வேர்"
+
+msgctxt "process.field.census_uri"
+msgid "Census URI"
+msgstr "மக்கள் தொகை கணக்கெடுப்பு"
+
+msgctxt "process.field.census_uri_note"
+msgid "Either a merkle tree URI or a CA endpoint url"
+msgstr "ஒரு மெர்கில் மரம் யூரி அல்லது சி.ஏ எண்ட்பாயிண்ட் முகவரி"
+
+msgctxt "process.field.description"
+msgid "Description"
+msgstr "விவரம்"
+
+msgctxt "process.field.docs_button"
+msgid "Documentation button"
+msgstr "ஆவணப்படுத்தல் பொத்தான்"
+
+msgctxt "process.field.docs_button_note"
+msgid "Will show a Documentation button linking to where you want."
+msgstr ""
+"நீங்கள் விரும்பும் இடத்துடன் இணைக்கும் ஆவணப்படுத்தல் பொத்தானைக் "
+"காண்பிக்கும்."
+
+msgctxt "process.field.end"
+msgid "Vote end"
+msgstr "வாக்களிக்கும் முடிவு"
+
+msgctxt "process.field.import_census"
+msgid "Import census"
+msgstr "மக்கள் தொகை கணக்கெடுப்பை இறக்குமதி செய்யுங்கள்"
+
+msgctxt "process.field.import_census_note"
+msgid ""
+"Manually set the census root and uri (for CA voting, won't send e-mails nor "
+"other automated processes)"
+msgstr ""
+"மக்கள் தொகை கணக்கெடுப்பு ரூட் மற்றும் யுஆர்ஐ (CA வாக்களிப்பதற்காக, "
+"மின்னஞ்சல்களையோ அல்லது பிற தானியங்கி செயல்முறைகளையோ அனுப்பாது)"
+
+msgctxt "process.field.import_spreadsheet"
+msgid "From spreadsheet (Attribute auth.)"
+msgstr "விரிதாளில் இருந்து (பண்புக்கூறு அங்கீகாரம்.)"
+
+msgctxt "process.field.import_spreadsheet_note"
+msgid ""
+"Voters will be authenticated completing a form with the attributes of the "
+"spreadsheet. This method does not allow to use the App to vote. The "
+"spreadsheet file is never uploaded and only a fingerprint of the user "
+"attributes is used for the authentication."
+msgstr ""
+"விரிதாளின் பண்புகளுடன் ஒரு படிவத்தை நிறைவு செய்வதில் வாக்காளர்கள் "
+"அங்கீகரிக்கப்படுவார்கள். இந்த முறை பயன்பாட்டை வாக்களிக்க பயன்படுத்த "
+"அனுமதிக்காது. விரிதாள் கோப்பு ஒருபோதும் பதிவேற்றப்படவில்லை மற்றும் பயனர் "
+"பண்புகளின் கைரேகை மட்டுமே அங்கீகாரத்திற்கு பயன்படுத்தப்படுகிறது."
+
+msgctxt "process.field.live_streaming"
+msgid "Live streaming"
+msgstr "நேரடி ச்ட்ரீமிங்"
+
+msgctxt "process.field.participants"
+msgid "Participants"
+msgstr "பங்கேற்பாளர்கள்"
+
+msgctxt "process.field.participants_all"
+msgid "All members"
+msgstr "அனைத்து உறுப்பினர்களும்"
+
+msgctxt "process.field.period"
+msgid "Period"
+msgstr "காலசுழற்சி"
+
+msgctxt "process.field.publishing"
+msgid "Publishing"
+msgstr "வெளியீடு"
+
+msgctxt "process.field.qna_button"
+msgid "Questions and answers button"
+msgstr "கேள்விகள் மற்றும் பதில்கள் பொத்தான்"
+
+msgctxt "process.field.qna_button_note"
+msgid "Will show a QnA button linking to where you want."
+msgstr "நீங்கள் விரும்பும் இடத்துடன் இணைக்கும் QNA பொத்தானைக் காண்பிக்கும்."
+
+msgctxt "process.field.questions.blank"
+msgid "Blank"
+msgstr "வெற்று"
+
+msgctxt "process.field.questions.no"
+msgid "No"
+msgstr "இல்லை"
+
+msgctxt "process.field.questions.title"
+msgid "Questions"
+msgstr "கேள்விகள்"
+
+msgctxt "process.field.questions.yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+msgctxt "process.field.real_time_results"
+msgid "Real-time results"
+msgstr "நிகழ்நேர முடிவுகள்"
+
+msgctxt "process.field.real_time_results_note"
+msgid "Vote results can be seen before the process has ended."
+msgstr "செயல்முறை முடிவடைவதற்கு முன்பு வாக்கு முடிவுகளைக் காணலாம்."
+
+msgctxt "process.field.start"
+msgid "Vote start"
+msgstr "வாக்களிப்பு தொடக்க"
+
+msgctxt "process.field.title"
+msgid "Process title"
+msgstr "செயல்முறை தலைப்பு"
+
+msgctxt "process.field.voting_channels"
+msgid "Voting channels"
+msgstr "வாக்களிக்கும் சேனல்கள்"
+
+msgctxt "process.field.web_voting"
+msgid "Web voting"
+msgstr "வலை வாக்களிப்பு"
+
+msgctxt "process.field.web_voting_note"
+msgid ""
+"Allows non-registered members to vote on a web page via a voting link that "
+"will be sent via e-mail. Registered members must vote using Vocdoni App "
+"anyway."
+msgstr ""
+"பதிவு செய்யப்படாத உறுப்பினர்கள் மின்னஞ்சல் வழியாக அனுப்பப்படும் வாக்களிப்பு "
+"இணைப்பு வழியாக ஒரு வலைப்பக்கத்தில் வாக்களிக்க அனுமதிக்கிறது. "
+"பதிவுசெய்யப்பட்ட உறுப்பினர்கள் எப்படியும் VOCDONI பயன்பாட்டைப் பயன்படுத்தி "
+"வாக்களிக்க வேண்டும்."
+
+msgctxt "process.filter.active"
+msgid "Only active"
+msgstr "செயலில் மட்டுமே"
+
+msgctxt "process.filter.all"
+msgid "All processes"
+msgstr "அனைத்து செயல்முறைகளும்"
+
+msgctxt "process.filter.ended"
+msgid "Only ended"
+msgstr "மட்டுமே முடிந்தது"
+
+msgctxt "process.general"
+msgid "General"
+msgstr "பொது"
+
+msgctxt "process.id"
+msgid "Process ID"
+msgstr "செயல்முறை ஐடி"
+
+msgctxt "process.loading"
+msgid "Loading process details..."
+msgstr "செயல்முறை விவரங்களை ஏற்றுகிறது ..."
+
+msgctxt "process.loading_results"
+msgid "Loading results..."
+msgstr "முடிவுகளை ஏற்றுகிறது ..."
+
+msgctxt "process.login_title"
+msgid "Enter your data"
+msgstr "உங்கள் தரவை உள்ளிடவும்"
+
+msgctxt "process.login_uri"
+msgid "Login URI"
+msgstr "யூரி உள்நுழைவு"
+
+msgctxt "process.media"
+msgid "Media"
+msgstr "ஊடகம்"
+
+msgctxt "process.new"
+msgid "New process"
+msgstr "புதிய செயல்முறை"
+
+msgctxt "process.nullifier_note"
+msgid "Please, store the following code as the unique receipt of your ballot:"
+msgstr ""
+"தயவுசெய்து, உங்கள் வாக்குச்சீட்டின் தனித்துவமான ரசீதாக பின்வரும் குறியீட்டை "
+"சேமிக்கவும்:"
+
+msgctxt "process.question_number"
+msgid "Question {{ num }}"
+msgstr "கேள்வி {{ num }}"
+
+msgctxt "process.results"
+msgid "Results"
+msgstr "முடிவுகள்"
+
+msgctxt "process.start_block"
+msgid "Start block"
+msgstr "தொடக்க தொகுதி"
+
+msgctxt "process.start_date"
+msgid "Start date (estimated)"
+msgstr "தொடக்க தேதி (மதிப்பிடப்பட்டது)"
+
+msgctxt "process.status.active"
+msgid "Active"
+msgstr "செயலில்"
+
+msgctxt "process.status.can_vote"
+msgid "You can vote"
+msgstr "நீங்கள் வாக்களிக்கலாம்"
+
+msgctxt "process.status.closed"
+msgid "Closed"
+msgstr "மூடப்பட்டது"
+
+msgctxt "process.status.ended"
+msgid "The voting process has ended"
+msgstr "வாக்களிக்கும் செயல்முறை முடிந்தது"
+
+msgctxt "process.status.finished"
+msgid "Finished {{ date }}"
+msgstr "முடிந்தது {{ date }}"
+
+msgctxt "process.status.finishes"
+msgid "Finishes {{ date }}"
+msgstr "முடிக்கிறது {{ date }}"
+
+msgctxt "process.status.inactive"
+msgid "Not yet active"
+msgstr "இன்னும் செயலில் இல்லை"
+
+msgctxt "process.status.not_started"
+msgid "Voting hasn't started yet"
+msgstr "வாக்களிப்பு இன்னும் தொடங்கவில்லை"
+
+msgctxt "process.status.submitting"
+msgid "Sending your vote"
+msgstr "உங்கள் வாக்குகளை அனுப்புகிறது"
+
+msgctxt "process.status.title"
+msgid "Status"
+msgstr "நிலை"
+
+msgctxt "process.status.unsynced"
+msgid "Not in sync"
+msgstr "ஒத்திசைவில் இல்லை"
+
+msgctxt "process.status.vote_registered"
+msgid "Your vote has been registered"
+msgstr "உங்கள் வாக்கு பதிவு செய்யப்பட்டுள்ளது"
+
+msgctxt "process.step.balance"
+msgid "Check balance"
+msgstr "இருப்பு சரிபார்க்கவும்"
+
+msgctxt "process.step.census"
+msgid "Create census"
+msgstr "மக்கள் தொகை கணக்கெடுப்பை உருவாக்கவும்"
+
+msgctxt "process.step.create"
+msgid "Create process"
+msgstr "செயல்முறையை உருவாக்கவும்"
+
+msgctxt "process.step.emails"
+msgid "Send emails"
+msgstr "மின்னஞ்சல்களை அனுப்பவும்"
+
+msgctxt "process.submitted"
+msgid "Your vote has been submitted"
+msgstr "உங்கள் வாக்கு சமர்ப்பிக்கப்பட்டுள்ளது"
+
+msgctxt "process.submitted_note"
+msgid "Your vote has been received and processed successfully"
+msgstr "உங்கள் வாக்கு பெறப்பட்டு வெற்றிகரமாக செயலாக்கப்பட்டுள்ளது"
+
+msgctxt "process.thanks"
+msgid "Thank you for voting!"
+msgstr "வாக்களித்ததற்கு நன்றி!"
+
+msgctxt "process.time_frame"
+msgid "Time frame"
+msgstr "கால அளவு"
+
+msgctxt "process.type"
+msgid "Process type"
+msgstr "செயல்முறை வகை"
+
+msgctxt "process.vote_registered_on"
+msgid "Your vote has been registered on {{ date }}"
+msgstr "உங்கள் வாக்கு {{ date }} இல் பதிவு செய்யப்பட்டுள்ளது"
+
+msgctxt "process.votes_received"
+msgid "Votes received: {{ total }}"
+msgstr "பெறப்பட்ட வாக்குகள்: {{ total }}"
+
+msgctxt "process.voting"
+msgid "Voting"
+msgstr "வாக்களிப்பு"
+
+msgctxt "process.your_selections"
+msgid "These are your selections:"
+msgstr "இவை உங்கள் தேர்வுகள்:"
+
+msgctxt "tos"
+msgid "the terms of service"
+msgstr "பணி விதிமுறைகள்"
+
+msgctxt "uploader.spreadsheets_note"
+msgid "Drag & drop or click to browse files"
+msgstr ""
+"கோப்புகளை உலாவவும் அல்லது சொடுக்கு செய்யவும் அல்லது சொடுக்கு செய்யவும்"

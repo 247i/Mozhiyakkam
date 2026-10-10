@@ -1,0 +1,2163 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Syphon)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-06 03:22+0200\n"
+"PO-Revision-Date: 2025-03-09 15:37+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/syphon/syphon/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, placeholders:{}
+msgctxt "title-intro"
+msgid "Welcome to {}"
+msgstr "{To க்கு வருக"
+
+#, placeholders:{}
+msgctxt "header-login"
+msgid "take back the chat"
+msgstr "அரட்டையை மீண்டும் எடுத்துக் கொள்ளுங்கள்"
+
+#, placeholders:{}
+msgctxt "header-intro"
+msgid ""
+"Privacy and freedom\n"
+"without the hassle."
+msgstr ""
+"தனியுரிமை மற்றும் விடுதலை\n"
+" தொந்தரவு இல்லாமல்."
+
+#, placeholders:{}
+msgctxt "header-signup-username"
+msgid "Create a username"
+msgstr "பயனர்பெயரை உருவாக்கவும்"
+
+#, placeholders:{}
+msgctxt "header-general"
+msgid "General"
+msgstr "பொது"
+
+#, placeholders:{}
+msgctxt "header-ordering"
+msgid "Ordering"
+msgstr "வரிசைப்படுத்துதல்"
+
+#, placeholders:{}
+msgctxt "header-media"
+msgid "Media"
+msgstr "ஊடகம்"
+
+#, placeholders:{}
+msgctxt "header-media-auto-download"
+msgid "Media auto-download"
+msgstr "மீடியா ஆட்டோ-டவுன்லோட்"
+
+#, placeholders:{}
+msgctxt "header-update-password"
+msgid "Update Password"
+msgstr "கடவுச்சொல்லைப் புதுப்பிக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-verification"
+msgid "Verification"
+msgstr "சரிபார்ப்பு"
+
+#, placeholders:{}
+msgctxt "title-view-delete-devices"
+msgid "Confirm Device Removal"
+msgstr "சாதனம் அகற்றுவதை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-view-search-groups"
+msgid "Explore Groups"
+msgstr "குழுக்களை ஆராயுங்கள்"
+
+#, placeholders:{}
+msgctxt "title-view-search-users"
+msgid "Search Users"
+msgstr "பயனர்களைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "title-view-invite-users"
+msgid "Invite Users"
+msgstr "பயனர்களை அழைக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-view-chat-users"
+msgid "All Chat Users"
+msgstr "அனைத்து அரட்டை பயனர்களும்"
+
+#, placeholders:{}
+msgctxt "title-view-create-group"
+msgid "Create A Group Chat"
+msgstr "குழு அரட்டையை உருவாக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-view-create-group-public"
+msgid "Create A Public Group"
+msgstr "ஒரு பொதுக் குழுவை உருவாக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-view-devices"
+msgid "Devices"
+msgstr "சாதனங்கள்"
+
+#, placeholders:{}
+msgctxt "title-view-settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "title-view-theming"
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#, placeholders:{}
+msgctxt "title-view-advanced"
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+#, placeholders:{}
+msgctxt "title-view-invite"
+msgid "Invite"
+msgstr "அழைக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-view-settings-chat"
+msgid "Chats"
+msgstr "அரட்டைகள்"
+
+#, placeholders:{}
+msgctxt "title-view-privacy"
+msgid "Privacy & Security"
+msgstr "தனியுரிமை மற்றும் பாதுகாப்பு"
+
+#, placeholders:{}
+msgctxt "title-view-homeserver-search"
+msgid "Find Your Homeserver"
+msgstr "உங்கள் ஓம்சர்வரைக் கண்டுபிடி"
+
+#, placeholders:{}
+msgctxt "title-view-profile"
+msgid "Set up Your Profile"
+msgstr "உங்கள் சுயவிவரத்தை அமைக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-proxy-use-proxy"
+msgid "Use a Proxy"
+msgstr "ப்ராக்சியைப் பயன்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-proxy-host"
+msgid "Modify Proxy Host"
+msgstr "பதிலாள் ஓச்டை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "title-proxy-port"
+msgid "Modify Proxy Port"
+msgstr "பதிலாள் போர்ட்டை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "title-proxy-use-basic-authentication"
+msgid "Use Proxy Authentication"
+msgstr "பதிலாள் அங்கீகாரத்தைப் பயன்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-proxy-username"
+msgid "Modify Proxy Username"
+msgstr "பதிலாள் பயனர்பெயரை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "title-proxy-password"
+msgid "Modify Proxy Password"
+msgstr "பதிலாள் கடவுச்சொல்லை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "title-lock-overlay"
+msgid "Please enter passcode."
+msgstr "கடவுக்குறியீட்டை உள்ளிடவும்."
+
+#, placeholders:{}
+msgctxt "title-search-unencrypted"
+msgid "Search Unencrypted"
+msgstr "மறைகுறியாக்கப்படாததைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "title-confirm-lock-overlay"
+msgid "Please confirm passcode."
+msgstr "கடவுக்குறியீட்டை உறுதிப்படுத்தவும்."
+
+#, placeholders:{}
+msgctxt "title-message-details"
+msgid "Message Details"
+msgstr "செய்தி விவரங்கள்"
+
+#, placeholders:{}
+msgctxt "title-send-media-message"
+msgid "Send Media Message"
+msgstr "மீடியா செய்தியை அனுப்பவும்"
+
+#, placeholders:{}
+msgctxt "title-send-media-message-unencrypted"
+msgid "Send Media Message (Unencrypted)"
+msgstr "மீடியா செய்தியை அனுப்பவும் (மறைகுறியாக்கப்படாதது)"
+
+#, placeholders:{}
+msgctxt "title-toggle-autocorrect"
+msgid "Keyboard autocorrect"
+msgstr "விசைப்பலகை தன்னியக்கவியல்"
+
+#, placeholders:{}
+msgctxt "title-toggle-suggestions"
+msgid "Keyboard word suggestions"
+msgstr "விசைப்பலகை சொல் பரிந்துரைகள்"
+
+#, placeholders:{}
+msgctxt "title-dialog-key-backup-warning"
+msgid "Key Backup Warning"
+msgstr "முக்கிய காப்புப்பிரதி எச்சரிக்கை"
+
+#, placeholders:{}
+msgctxt "title-dialog-delete-keys"
+msgid "Confirm Deleting Keys"
+msgstr "விசைகளை நீக்குவதை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-confirm-linkout"
+msgid "Confirm Opening Link"
+msgstr "திறப்பு இணைப்பை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-encryption"
+msgid "Encrypt Chat?"
+msgstr "அரட்டை குறியாக்கவா?"
+
+#, placeholders:{}
+msgctxt "title-dialog-captcha"
+msgid "Complete Captcha"
+msgstr "முழுமையான கேப்ட்சா"
+
+#, placeholders:{}
+msgctxt "title-dialog-terms"
+msgid "Confirm Terms Of Service"
+msgstr "பணி விதிமுறைகளை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-terms-alpha"
+msgid "Confirm Open Alpha Terms Of Service"
+msgstr "திறந்த ஆல்பா பணி விதிமுறைகளை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-email-requirement"
+msgid "Email requirement"
+msgstr "மின்னஞ்சல் தேவை"
+
+#, placeholders:{}
+msgctxt "title-dialog-email-requirement-verified"
+msgid "Email verification"
+msgstr "மின்னஞ்சல் சரிபார்ப்பு"
+
+#, placeholders:{}
+msgctxt "title-dialog-accept-invite"
+msgid "Accept Invite?"
+msgstr "அழைப்பை ஏற்றுக்கொள்கிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "title-dialog-chat-color"
+msgid "Select Chat Color"
+msgstr "அரட்டை வண்ணத்தைத் தேர்ந்தெடுக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-draft-preview"
+msgid "Draft Preview"
+msgstr "வரைவு முன்னோட்டம்"
+
+#, placeholders:{}
+msgctxt "title-dialog-logout"
+msgid "Logout"
+msgstr "வெளியேற்றம்"
+
+#, placeholders:{}
+msgctxt "title-dialog-sync-interval"
+msgid "Modify Sync Interval"
+msgstr "ஒத்திசைவு இடைவெளியை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-chat-with-user"
+msgid "Chat with {}"
+msgstr "{Bith உடன் அரட்டையடிக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-attempt-chat-with-user"
+msgid "Try chatting with {}"
+msgstr "{} உடன் அரட்டையடிக்க முயற்சிக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-user-verification"
+msgid "User verification"
+msgstr "பயனர் சரிபார்ப்பு"
+
+#, placeholders:{}
+msgctxt "title-confirm-password"
+msgid "Confirm Password"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-confirm-email"
+msgid "Confirm Email"
+msgstr "மின்னஞ்சலை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-device-rename"
+msgid "Rename a device"
+msgstr "ஒரு சாதனத்தை மறுபெயரிடுங்கள்"
+
+#, placeholders:{}
+msgctxt "title-blocked-users"
+msgid "Blocked Users"
+msgstr "தடுக்கப்பட்ட பயனர்கள்"
+
+#, placeholders:{}
+msgctxt "title-import-session-keys"
+msgid "Restore Session Keys"
+msgstr "அமர்வு விசைகளை மீட்டமைக்கவும்"
+
+#, placeholders:{}
+msgctxt "title-export-session-keys"
+msgid "Backup Session Keys"
+msgstr "காப்பு அமர்வு விசைகள்"
+
+#, placeholders:{}
+msgctxt "title-dialog-backup-session-keys"
+msgid "Backup Session Keys"
+msgstr "காப்பு அமர்வு விசைகள்"
+
+#, placeholders:{}
+msgctxt "title-dialog-confirm-deactivate-account"
+msgid "Confirm Deactivate Account"
+msgstr "செயலிழக்கக் கணக்கை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-confirm-deactivate-account-final"
+msgid "Confirm Deactivate Account Final"
+msgstr "கணக்கு இறுதிப் போட்டியை செயலிழக்க உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-remove-screen-lock"
+msgid "Remove Screen Lock"
+msgstr "திரை பூட்டை அகற்று"
+
+#, placeholders:{}
+msgctxt "title-dialog-enter-screen-lock-pin"
+msgid "Enter your current screen lock pin"
+msgstr "உங்கள் தற்போதைய திரை பூட்டு முள் உள்ளிடவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-enter-new-screen-lock-pin"
+msgid "Enter your new screen lock pin"
+msgstr "உங்கள் புதிய திரை பூட்டு முள் உள்ளிடவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-verify-new-screen-lock-pin"
+msgid "Enter your pin again to verify"
+msgstr "சரிபார்க்க உங்கள் முள் மீண்டும் உள்ளிடவும்"
+
+#, placeholders:{}
+msgctxt "title-dialog-photo-permission"
+msgid "Permission Required"
+msgstr "இசைவு தேவை"
+
+#, placeholders:{}
+msgctxt "title-dialog-block-user"
+msgid "Block User"
+msgstr "தொகுதி பயனர்"
+
+#, placeholders:{}
+msgctxt "subtitle-proxy-use-proxy"
+msgid "This will force all traffic leaving Syphon to do so via a proxy"
+msgstr ""
+"இது சிபோனிலிருந்து வெளியேறும் அனைத்து போக்குவரத்தையும் பதிலாள் வழியாக "
+"அவ்வாறு செய்ய கட்டாயப்படுத்தும்"
+
+#, placeholders:{}
+msgctxt "subtitle-proxy-use-basic-authentication"
+msgid "Provide username and password to authenticate with a proxy"
+msgstr "பதிலாள் மூலம் அங்கீகரிக்க பயனர்பெயர் மற்றும் கடவுச்சொல்லை வழங்கவும்"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-sync-interval"
+msgid ""
+"Amount of time in seconds the app wait\n"
+"between syncing"
+msgstr ""
+"நொடிகளில் நேரம் நேரம் காத்திருக்கிறது\n"
+" ஒத்திசைவுக்கு இடையில்"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-sync-toggle"
+msgid "Toggle syncing with the matrix server"
+msgstr "மேட்ரிக்ச் சேவையகத்துடன் ஒத்திசைவை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-read-receipts"
+msgid ""
+"If read receipts are disabled or private, other users will not be able to "
+"see when you have read their messages."
+msgstr ""
+"வாசிப்பு ரசீதுகள் முடக்கப்பட்டிருந்தால் அல்லது தனிப்பட்டதாக இருந்தால், "
+"நீங்கள் அவர்களின் செய்திகளைப் படிக்கும்போது மற்ற பயனர்களால் பார்க்க "
+"முடியாது."
+
+#, placeholders:{}
+msgctxt "subtitle-toggle-autocorrect"
+msgid "Beware that keyboards may send autocorrect data to third-parties"
+msgstr ""
+"விசைப்பலகைகள் மூன்றாம் தரப்பினருக்கு தன்னியக்க மதிப்பை அனுப்பக்கூடும் "
+"என்பதில் கவனமாக"
+
+#, placeholders:{}
+msgctxt "subtitle-toggle-suggestions"
+msgid "Beware that keyboards may send suggestions data to third-parties"
+msgstr ""
+"விசைப்பலகைகள் மூன்றாம் தரப்பினருக்கு பரிந்துரைகளின் தரவை அனுப்பக்கூடும் "
+"என்பதில் கவனமாக"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-show-membership-events"
+msgid "Show membership changes within the chat"
+msgstr "அரட்டையில் உறுப்பினர் மாற்றங்களைக் காட்டு"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-enter-sends"
+msgid "Pressing the enter key will send a message"
+msgstr "ENTER விசையை அழுத்தினால் ஒரு செய்தியை அனுப்பும்"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-24h-format"
+msgid "Show message timestamps using 24 hour format"
+msgstr "24 மணிநேர வடிவமைப்பைப் பயன்படுத்தி செய்தி நேர முத்திரைகளைக் காட்டு"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-dismiss-keyboard"
+msgid "Dismiss the keyboard after sending a message"
+msgstr "செய்தியை அனுப்பிய பின் விசைப்பலகை நிராகரிக்கவும்"
+
+#, placeholders:{}
+msgctxt "subtitle-settings-view-uploaded-media"
+msgid "See all uploaded data, even those unaccessible from messages"
+msgstr ""
+"பதிவேற்றிய அனைத்து தரவையும் காண்க, செய்திகளிலிருந்து அணுக முடியாதவை கூட"
+
+#, placeholders:{}
+msgctxt "subtitle-images-audio-video-files"
+msgid "Images, Audio, Video, Files"
+msgstr "படங்கள், ஆடியோ, வீடியோ, கோப்புகள்"
+
+#, placeholders:{}
+msgctxt "subtitle-theme-settings"
+msgid "Theme {}, Font {}"
+msgstr "கருப்பொருள் {}, எழுத்துரு {}"
+
+#, placeholders:{}
+msgctxt "subtitle-privacy-settings"
+msgid "Screen Lock {}, Registration Lock {}"
+msgstr "திரை பூட்டு {}, பதிவு பூட்டு {}"
+
+#, placeholders:{}
+msgctxt "subtitle-manual-sync"
+msgid "Perform a forced matrix sync based on last sync timestamp"
+msgstr ""
+"கடைசி ஒத்திசைவு நேர முத்திரையின் அடிப்படையில் கட்டாய மேட்ரிக்ச் ஒத்திசைவைச் "
+"செய்யுங்கள்"
+
+#, placeholders:{}
+msgctxt "subtitle-force-full-sync"
+msgid "Perform a forced full sync of all user data and messages"
+msgstr ""
+"அனைத்து பயனர் தரவு மற்றும் செய்திகளின் கட்டாய முழு ஒத்திசைவைச் செய்யுங்கள்"
+
+#, placeholders:{}
+msgctxt "label-import-session-keys"
+msgid "Restore Keys"
+msgstr "விசைகளை மீட்டமைக்கவும்"
+
+#, placeholders:{}
+msgctxt "label-export-session-keys"
+msgid "Backup Keys"
+msgstr "காப்பு விசைகள்"
+
+#, placeholders:{}
+msgctxt "label-searching"
+msgid "Searching…"
+msgstr "தேடுகிறது…"
+
+#, placeholders:{}
+msgctxt "label-search-homeservers"
+msgid "Search for homeservers…"
+msgstr "ஓம்சர்சர்களைத் தேடுங்கள்…"
+
+#, placeholders:{}
+msgctxt "label-search-user"
+msgid "Search for a user…"
+msgstr "ஒரு பயனரைத் தேடுங்கள்…"
+
+#, placeholders:{}
+msgctxt "label-search-users"
+msgid "Search for users…"
+msgstr "பயனர்களைத் தேடுங்கள்…"
+
+#, placeholders:{}
+msgctxt "label-search-results"
+msgid "Search Results"
+msgstr "தேடல் முடிவுகள்"
+
+#, placeholders:{}
+msgctxt "label-syncing-chats"
+msgid "syncing chats…"
+msgstr "அரட்டைகளை ஒத்திசைத்தல்…"
+
+#, placeholders:{}
+msgctxt "label-on"
+msgid "On"
+msgstr "ஆன்"
+
+#, placeholders:{}
+msgctxt "label-off"
+msgid "Off"
+msgstr "அணை"
+
+#, placeholders:{}
+msgctxt "label-private"
+msgid "Private"
+msgstr "தனிப்பட்ட"
+
+#, placeholders:{}
+msgctxt "label-email"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#, placeholders:{}
+msgctxt "label-users"
+msgid "Users"
+msgstr "பயனர்கள்"
+
+#, placeholders:{}
+msgctxt "label-back"
+msgid "Go Back"
+msgstr "திரும்பிச் செல்லுங்கள்"
+
+#, placeholders:{}
+msgctxt "label-close"
+msgid "close"
+msgstr "மூடு"
+
+#, placeholders:{}
+msgctxt "label-send"
+msgid "Send"
+msgstr "அனுப்பு"
+
+#, placeholders:{}
+msgctxt "label-download-image"
+msgid "Load Image"
+msgstr "படத்தை ஏற்றவும்"
+
+#, placeholders:{}
+msgctxt "label-users-recent"
+msgid "Recent Users"
+msgstr "அண்மைக் கால பயனர்கள்"
+
+#, placeholders:{}
+msgctxt "label-users-results"
+msgid "Matched Users"
+msgstr "பொருந்திய பயனர்கள்"
+
+#, placeholders:{}
+msgctxt "label-users-known"
+msgid "Known Users"
+msgstr "அறியப்பட்ட பயனர்கள்"
+
+#, placeholders:{}
+msgctxt "label-chat-default"
+msgid "New Chat"
+msgstr "புதிய அரட்டை"
+
+#, placeholders:{}
+msgctxt "label-messages-empty"
+msgid "no messages found"
+msgstr "செய்திகள் எதுவும் கிடைக்கவில்லை"
+
+#, placeholders:{}
+msgctxt "label-call-invite"
+msgid "User invited you to a voice call"
+msgstr "பயனர் உங்களை குரல் அழைப்புக்கு அழைத்தார்"
+
+#, placeholders:{}
+msgctxt "label-call-hangup"
+msgid "User ended a voice call"
+msgstr "பயனர் ஒரு குரல் அழைப்பை முடித்தார்"
+
+#, placeholders:{}
+msgctxt "label-groups-empty"
+msgid "no groups found"
+msgstr "குழுக்கள் எதுவும் கிடைக்கவில்லை"
+
+#, placeholders:{}
+msgctxt "label-message-encrypted"
+msgid "Encrypted Message"
+msgstr "மறைகுறியாக்கப்பட்ட செய்தி"
+
+#, placeholders:{}
+msgctxt "label-message-matrix"
+msgid "Matrix message"
+msgstr "அணி செய்தி"
+
+#, placeholders:{}
+msgctxt "label-message-matrix-unencrypted"
+msgid "Matrix message (unencrypted)"
+msgstr "மேட்ரிக்ச் செய்தி (மறைகுறியாக்கப்படாதது)"
+
+#, placeholders:{}
+msgctxt "label-deleted-message"
+msgid "This message was deleted"
+msgstr "இந்த செய்தி நீக்கப்பட்டது"
+
+#, placeholders:{}
+msgctxt "label-terms-of-service"
+msgid "Terms of Service"
+msgstr "பணி விதிமுறைகள்"
+
+#, placeholders:{}
+msgctxt "label-search-unencrypted"
+msgid "Search Unencrypted"
+msgstr "மறைகுறியாக்கப்படாததைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "label-about"
+msgid "About"
+msgstr "பற்றி"
+
+#, placeholders:{}
+msgctxt "label-chat-settings"
+msgid "Chat Settings"
+msgstr "அரட்டை அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "label-color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, placeholders:{}
+msgctxt "label-timestamp"
+msgid "Timestamp"
+msgstr "நேர முத்திரை"
+
+#, placeholders:{}
+msgctxt "label-none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, placeholders:{}
+msgctxt "label-syncing"
+msgid "Syncing"
+msgstr "ஒத்திசைவு"
+
+#, placeholders:{}
+msgctxt "label-stopped"
+msgid "Stopped"
+msgstr "நிறுத்தப்பட்டது"
+
+#, placeholders:{}
+msgctxt "label-version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, placeholders:{}
+msgctxt "label-seconds"
+msgid "seconds"
+msgstr "நொடிகள்"
+
+#, placeholders:{}
+msgctxt "label-search-for-user"
+msgid "Search for a user..."
+msgstr "ஒரு பயனரைத் தேடுங்கள் ..."
+
+#, placeholders:{}
+msgctxt "label-current-password"
+msgid "Current Password"
+msgstr "தற்போதைய கடவுச்சொல்"
+
+#, placeholders:{}
+msgctxt "label-new-password"
+msgid "New Password"
+msgstr "புதிய கடவுச்சொல்"
+
+#, placeholders:{}
+msgctxt "label-confirm-new-password"
+msgid "Confirm New Password"
+msgstr "புதிய கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "label-always"
+msgid "Always"
+msgstr "எப்போதும்"
+
+#, placeholders:{}
+msgctxt "label-default-room-notification"
+msgid "Default (Argon)"
+msgstr "இயல்புநிலை (ஆர்கான்)"
+
+#, placeholders:{}
+msgctxt "label-fab-search"
+msgid "Search Chats"
+msgstr "அரட்டைகளைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "label-fab-create-dm"
+msgid "Direct Message"
+msgstr "நேரடி செய்தி"
+
+#, placeholders:{}
+msgctxt "label-fab-create-group"
+msgid "Start Group Chat"
+msgstr "குழு அரட்டையைத் தொடங்கவும்"
+
+#, placeholders:{}
+msgctxt "label-fab-create-public"
+msgid "Start Public Chat"
+msgstr "பொது அரட்டையைத் தொடங்கவும்"
+
+#, placeholders:{}
+msgctxt "button-login"
+msgid "log in"
+msgstr "புகுபதிகை"
+
+#, placeholders:{}
+msgctxt "button-login-sso"
+msgid "single sign on"
+msgstr "ஒற்றை அடையாளம்"
+
+#, placeholders:{}
+msgctxt "button-save"
+msgid "save"
+msgstr "சேமி"
+
+#, placeholders:{}
+msgctxt "button-next"
+msgid "continue"
+msgstr "தொடரவும்"
+
+#, placeholders:{}
+msgctxt "button-finish"
+msgid "finish"
+msgstr "முடிக்க"
+
+#, placeholders:{}
+msgctxt "button-start-chat"
+msgid "let's chat"
+msgstr "அரட்டை அடிப்போம்"
+
+#, placeholders:{}
+msgctxt "button-create"
+msgid "create"
+msgstr "உருவாக்கு"
+
+#, placeholders:{}
+msgctxt "button-cancel"
+msgid "cancel"
+msgstr "ரத்துசெய்"
+
+#, placeholders:{}
+msgctxt "button-quit"
+msgid "quit"
+msgstr "வெளியேறு"
+
+#, placeholders:{}
+msgctxt "button-confirm"
+msgid "got it"
+msgstr "கிடைத்தது"
+
+#, placeholders:{}
+msgctxt "button-confirm-alt"
+msgid "ok"
+msgstr "சரி"
+
+#, placeholders:{}
+msgctxt "button-confirm-formal"
+msgid "confirm"
+msgstr "உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "button-enable"
+msgid "enable"
+msgstr "இயக்கு"
+
+#, placeholders:{}
+msgctxt "button-delete-keys"
+msgid "delete keys"
+msgstr "விசைகளை நீக்கு"
+
+#, placeholders:{}
+msgctxt "button-block-user"
+msgid "Block User"
+msgstr "தொகுதி பயனர்"
+
+#, placeholders:{}
+msgctxt "button-leave-chat"
+msgid "Leave Chat"
+msgstr "அரட்டையை விட்டு விடுங்கள்"
+
+#, placeholders:{}
+msgctxt "button-delete-chat"
+msgid "delete chat"
+msgstr "அரட்டையை நீக்கு"
+
+#, placeholders:{}
+msgctxt "button-archive-chat"
+msgid "archive chat"
+msgstr "காப்பக அரட்டை"
+
+#, placeholders:{}
+msgctxt "button-select-all"
+msgid "select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, placeholders:{}
+msgctxt "button-chat-details"
+msgid "chat details"
+msgstr "அரட்டை விவரங்கள்"
+
+#, placeholders:{}
+msgctxt "button-send-verification"
+msgid "send verification email"
+msgstr "சரிபார்ப்பு மின்னஞ்சலை அனுப்பவும்"
+
+#, placeholders:{}
+msgctxt "button-confirm-verification"
+msgid "confirm verification"
+msgstr "சரிபார்ப்பை உறுதிப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "button-deactivate"
+msgid "deactivate"
+msgstr "செயலிழக்கச் செய்யுங்கள்"
+
+#, placeholders:{}
+msgctxt "button-reset-password"
+msgid "reset password"
+msgstr "கடவுச்சொல்லை மீட்டமைக்கவும்"
+
+#, placeholders:{}
+msgctxt "button-dismiss"
+msgid "Dismiss"
+msgstr "தள்ளுபடி"
+
+#, placeholders:{}
+msgctxt "button-text-agreement"
+msgid "I Agree"
+msgstr "நான் ஒப்புக்கொள்கிறேன்"
+
+#, placeholders:{}
+msgctxt "button-text-see-users"
+msgid "See All Users"
+msgstr "அனைத்து பயனர்களையும் காண்க"
+
+#, placeholders:{}
+msgctxt "button-text-login-question"
+msgid "Already have a username?"
+msgstr "ஏற்கனவே பயனர்பெயர் உள்ளதா?"
+
+#, placeholders:{}
+msgctxt "button-text-signup-question"
+msgid "Don't have a username?"
+msgstr "பயனர்பெயர் இல்லையா?"
+
+#, placeholders:{}
+msgctxt "button-text-login"
+msgid "Login"
+msgstr "புகுபதிவு"
+
+#, placeholders:{}
+msgctxt "button-text-signup-action"
+msgid "Create One"
+msgstr "ஒன்றை உருவாக்கவும்"
+
+#, placeholders:{}
+msgctxt "button-text-load-captcha"
+msgid "Load Captcha"
+msgstr "கேப்ட்சாவை ஏற்றவும்"
+
+#, placeholders:{}
+msgctxt "button-text-confirmed"
+msgid "Confirmed"
+msgstr "உறுதிப்படுத்தப்பட்டது"
+
+#, placeholders:{}
+msgctxt "button-text-create-group"
+msgid "New Group"
+msgstr "புதிய குழு"
+
+#, placeholders:{}
+msgctxt "button-text-mark-all-read"
+msgid "Mark All Read"
+msgstr "எல்லா வாசிப்பையும் குறிக்கவும்"
+
+#, placeholders:{}
+msgctxt "button-text-invite"
+msgid "Invite Friends"
+msgstr "நண்பர்களை அழைக்கவும்"
+
+#, placeholders:{}
+msgctxt "button-text-settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "button-text-support"
+msgid "Help"
+msgstr "உதவி"
+
+#, placeholders:{}
+msgctxt "button-text-go-back"
+msgid "go back"
+msgstr "திரும்பிச் செல்லுங்கள்"
+
+#, placeholders:{}
+msgctxt "button-text-reject"
+msgid "reject"
+msgstr "நிராகரிக்கவும்"
+
+#, placeholders:{}
+msgctxt "button-text-accept"
+msgid "accept"
+msgstr "ஏற்றுக்கொள்"
+
+#, placeholders:{}
+msgctxt "button-text-lets-encrypt"
+msgid "let's encrypt"
+msgstr "குறியாக்கம் செய்வோம்"
+
+#, placeholders:{}
+msgctxt "button-text-import"
+msgid "import"
+msgstr "இறக்குமதி"
+
+#, placeholders:{}
+msgctxt "button-text-confirm-delete-keys"
+msgid "Delete Keys"
+msgstr "விசைகளை நீக்கு"
+
+#, placeholders:{}
+msgctxt "button-text-remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+#, placeholders:{}
+msgctxt "button-save-message-edit"
+msgid "Save Message Edit"
+msgstr "செய்தி திருத்து சேமிக்கவும்"
+
+#, placeholders:{}
+msgctxt "button-gallery"
+msgid "Gallery"
+msgstr "கேலரி"
+
+#, placeholders:{}
+msgctxt "button-file"
+msgid "File"
+msgstr "கோப்பு"
+
+#, placeholders:{}
+msgctxt "button-contact"
+msgid "Contact"
+msgstr "தொடர்பு"
+
+#, placeholders:{}
+msgctxt "button-location"
+msgid "Location"
+msgstr "இடம்"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-toggle-direct-chat"
+msgid "Direct Chat"
+msgstr "நேரடி அரட்டை"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-notification-setting"
+msgid "Notification Settings"
+msgstr "அறிவிப்பு அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-notifications"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-vibrate"
+msgid "Vibration"
+msgstr "அதிர்வு"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-notification-sound"
+msgid "Notification Sound"
+msgstr "அறிவிப்பு ஒலி"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-privacy-status"
+msgid "Privacy and Status"
+msgstr "தனியுரிமை மற்றும் நிலை"
+
+#, placeholders:{}
+msgctxt "list-item-chat-detail-view-key"
+msgid "View Encryption Key"
+msgstr "குறியாக்க விசையைக் காண்க"
+
+#, placeholders:{}
+msgctxt "list-item-mute-for-one-hour"
+msgid "Mute for 1 hour"
+msgstr "1 மணி நேரம் முடக்கு"
+
+#, placeholders:{}
+msgctxt "list-item-mute-for-hours"
+msgid "Mute for {} hours"
+msgstr "}} மணிநேரங்களுக்கு முடக்கு"
+
+#, placeholders:{}
+msgctxt "list-item-mute-for-one-day"
+msgid "Mute for 1 day"
+msgstr "1 நாள் முடக்கு"
+
+#, placeholders:{}
+msgctxt "list-item-mute-for-days"
+msgid "Mute for {} days"
+msgstr "}} நாட்களுக்கு முடக்கு"
+
+#, placeholders:{}
+msgctxt "list-item-settings-notification"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-privacy"
+msgid "Privacy"
+msgstr "தனியுரிமை"
+
+#, placeholders:{}
+msgctxt "list-item-settings-sms"
+msgid "SMS and MMS"
+msgstr "எச்.எம்.எச் மற்றும் எம்.எம்.எச்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-logout"
+msgid "Logout"
+msgstr "வெளியேற்றம்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-proxy"
+msgid "Proxy Settings"
+msgstr "பதிலாள் அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-proxy-host"
+msgid "Host"
+msgstr "விருந்தோம்பி"
+
+#, placeholders:{}
+msgctxt "list-item-settings-proxy-port"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-proxy-username"
+msgid "Proxy Username"
+msgstr "பதிலாள் பயனர்பெயர்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-proxy-password"
+msgid "Proxy Password"
+msgstr "பதிலாள் கடவுச்சொல்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-sync-interval"
+msgid "Sync Interval"
+msgstr "ஒத்திசைவு இடைவெளி"
+
+#, placeholders:{}
+msgctxt "list-item-settings-sync-toggle"
+msgid "Toggle Syncing"
+msgstr "ஒத்திசைவை மாற்றவும்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-read-receipts"
+msgid "Read Receipts"
+msgstr "ரசீதுகளைப் படியுங்கள்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-language"
+msgid "Language"
+msgstr "மொழி"
+
+#, placeholders:{}
+msgctxt "list-item-settings-show-membership-events"
+msgid "Show Membership Events"
+msgstr "உறுப்பினர் நிகழ்வுகளைக் காட்டு"
+
+#, placeholders:{}
+msgctxt "list-item-settings-enter-sends"
+msgid "Enter Key Sends"
+msgstr "விசை அனுப்புவதை உள்ளிடவும்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-24h-format"
+msgid "24 Hour Time Format"
+msgstr "24 மணி நேர நேர வடிவம்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-dismiss-keyboard"
+msgid "Dismiss Keyboard"
+msgstr "விசைப்பலகை நிராகரிக்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-sort-by"
+msgid "Sort By"
+msgstr "வரிசைப்படுத்தவும்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-group-by"
+msgid "Group By"
+msgstr "குழு"
+
+#, placeholders:{}
+msgctxt "list-item-settings-view-uploaded-media"
+msgid "View all uploaded Media"
+msgstr "பதிவேற்றிய அனைத்து ஊடகங்களையும் காண்க"
+
+#, placeholders:{}
+msgctxt "list-item-settings-auto-download"
+msgid "Auto Download"
+msgstr "ஆட்டோ பதிவிறக்கம்"
+
+#, placeholders:{}
+msgctxt "list-item-settings-when-using-mobile-data"
+msgid "When using mobile data"
+msgstr "மொபைல் தரவைப் பயன்படுத்தும் போது"
+
+#, placeholders:{}
+msgctxt "list-item-settings-when-using-wi-fi"
+msgid "When using Wi-Fi"
+msgstr "வைஃபை பயன்படுத்தும் போது"
+
+#, placeholders:{}
+msgctxt "list-item-settings-when-roaming"
+msgid "When Roaming"
+msgstr "ரோமிங் செய்யும் போது"
+
+#, placeholders:{}
+msgctxt "list-item-settings-manual-sync"
+msgid "Manual Sync"
+msgstr "கையேடு ஒத்திசைவு"
+
+#, placeholders:{}
+msgctxt "list-item-settings-force-full-sync"
+msgid "Force Full Sync"
+msgstr "முழு ஒத்திசைவை கட்டாயப்படுத்துங்கள்"
+
+#, placeholders:{}
+msgctxt "list-item-user-details-invite-to-room"
+msgid "Invite to Room"
+msgstr "அறைக்கு அழைக்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-user-details-start-chat"
+msgid "Chat with {}"
+msgstr "{Bith உடன் அரட்டையடிக்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-user-details-send-message"
+msgid "Send A Message"
+msgstr "ஒரு செய்தியை அனுப்பவும்"
+
+#, placeholders:{}
+msgctxt "list-item-user-details-view-profile"
+msgid "View Profile"
+msgstr "சுயவிவரத்தைக் காண்க"
+
+#, placeholders:{}
+msgctxt "list-item-user-details-unblock-user"
+msgid "Unblock User"
+msgstr "பயனரைத் தடைசெய்க"
+
+#, placeholders:{}
+msgctxt "list-item-user-details-block-user"
+msgid "Block User"
+msgstr "தொகுதி பயனர்"
+
+#, placeholders:{}
+msgctxt "list-item-image-options-photo-select-method"
+msgid "Photo Select Method"
+msgstr "புகைப்படம் தேர்ந்தெடுக்கப்பட்ட முறை"
+
+#, placeholders:{}
+msgctxt "list-item-image-options-take-photo"
+msgid "Take Photo"
+msgstr "புகைப்படம் எடுக்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-image-options-pick-from-gallery"
+msgid "Pick from Gallery"
+msgstr "கேலரியில் இருந்து தேர்வு"
+
+#, placeholders:{}
+msgctxt "list-item-image-options-remove-photo"
+msgid "Remove Photo"
+msgstr "புகைப்படத்தை அகற்று"
+
+#, placeholders:{}
+msgctxt "list-item-context-switcher-user-display-name"
+msgid "{} (Encrypted User)"
+msgstr "{} (மறைகுறியாக்கப்பட்ட பயனர்)"
+
+#, placeholders:{}
+msgctxt "list-item-context-switcher-accounts"
+msgid "Accounts"
+msgstr "கணக்குகள்"
+
+#, placeholders:{}
+msgctxt "list-item-context-switcher-add-account"
+msgid "Add Account"
+msgstr "கணக்கைச் சேர்க்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-advanced-settings-licenses"
+msgid "Open Source Licenses"
+msgstr "திறந்த மூல உரிமங்கள்"
+
+#, placeholders:{}
+msgctxt "list-item-advanced-settings-start-background"
+msgid "Start Background Service"
+msgstr "பின்னணி சேவையைத் தொடங்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-advanced-settings-stop-background"
+msgid "Stop All Services"
+msgstr "எல்லா சேவைகளையும் நிறுத்துங்கள்"
+
+#, placeholders:{}
+msgctxt "list-item-advanced-settings-test-notifications"
+msgid "Test Notifications"
+msgstr "அறிவிப்புகளை சோதிக்கவும்"
+
+#, placeholders:{}
+msgctxt "list-item-advanced-settings-test-sync-loop"
+msgid "Test Background Sync Loop"
+msgstr "சோதனை பின்னணி ஒத்திசைவு லூப்"
+
+#, placeholders:{}
+msgctxt "list-item-advanced-settings-force-function"
+msgid "Force Function"
+msgstr "ஆற்றல் செயல்பாடு"
+
+#, placeholders:{}
+msgctxt "list-item-sent"
+msgid "Sent"
+msgstr "அனுப்பப்பட்டது"
+
+#, placeholders:{}
+msgctxt "list-item-received"
+msgid "Received"
+msgstr "பெறப்பட்டது"
+
+#, placeholders:{}
+msgctxt "list-item-via"
+msgid "Platform"
+msgstr "இயங்குதளம்"
+
+#, placeholders:{}
+msgctxt "list-item-from"
+msgid "From"
+msgstr "இருந்து"
+
+#, placeholders:{}
+msgctxt "list-item-read-by"
+msgid "Seen By"
+msgstr "பார்த்தது"
+
+#, placeholders:{}
+msgctxt "alert-restart-app-effect"
+msgid "You'll need to close and restart the app for this to take effect"
+msgstr ""
+"இது நடைமுறைக்கு வர நீங்கள் பயன்பாட்டை மூடிவிட்டு மறுதொடக்கம் செய்ய வேண்டும்"
+
+#, placeholders:{}
+msgctxt "alert-invite-user-unknown"
+msgid ""
+"This user doesn't appear to exist within matrix, but you can attempt to invite them anyway.\n"
+"\n"
+"Make sure you have the correct name before trying."
+msgstr ""
+"இந்த பயனர் மேட்ரிக்சில் இருப்பதாகத் தெரியவில்லை, ஆனால் நீங்கள் எப்படியும் அவற்றை அழைக்க முயற்சி செய்யலாம்.\n"
+"\n"
+" முயற்சிக்கும் முன் உங்களுக்கு சரியான பெயர் இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
+
+#, placeholders:{}
+msgctxt "alert-feature-in-progress"
+msgid "🛠 This feature is coming soon"
+msgstr "Feature இந்த நற்பொருத்தம் விரைவில் வருகிறது"
+
+#, placeholders:{}
+msgctxt "alert-message-failed"
+msgid "Message Failed To Send"
+msgstr "செய்தி அனுப்பத் தவறிவிட்டது"
+
+#, placeholders:{}
+msgctxt "alert-homeserver-invalid"
+msgid ""
+"This server failed the 'well-known' check. Make sure the server is "
+"configured correctly."
+msgstr ""
+"இந்த சேவையகம் 'நன்கு அறியப்பட்ட' காசோலையில் தோல்வியடைந்தது. சேவையகம் சரியாக "
+"உள்ளமைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்."
+
+#, placeholders:{}
+msgctxt "alert-offline"
+msgid "Looks like you may be offline. Check your connection and try again."
+msgstr ""
+"நீங்கள் ஆஃப்லைனில் இருக்கலாம் என்று தெரிகிறது. உங்கள் இணைப்பைச் சரிபார்த்து "
+"மீண்டும் முயற்சிக்கவும்."
+
+#, placeholders:{}
+msgctxt "alert-unknown"
+msgid "Unknown Error Occurred"
+msgstr "தெரியாத பிழை ஏற்பட்டது"
+
+#, placeholders:{}
+msgctxt "alert-could-not-launch-url"
+msgid "Could not launch {}"
+msgstr "தொடங்க முடியவில்லை {}"
+
+#, placeholders:{}
+msgctxt "alert-no-images-found"
+msgid "No Images Found."
+msgstr "படங்கள் எதுவும் கிடைக்கவில்லை."
+
+#, placeholders:{}
+msgctxt "alert-storage-access-required-for-keys"
+msgid "Enter the password for this session key import."
+msgstr "இந்த அமர்வு விசை இறக்குமதிக்கான கடவுச்சொல்லை உள்ளிடவும்."
+
+#, placeholders:{}
+msgctxt "alert-wait-for-full-sync-before-switching"
+msgid "Wait for full sync to finish before switching accounts"
+msgstr ""
+"கணக்குகளை மாற்றுவதற்கு முன் முழு ஒத்திசைவு முடிவடையும் வரை காத்திருங்கள்"
+
+#, placeholders:{}
+msgctxt "alert-log-out-enable-multiaccount"
+msgid "You must logout of your\\ncurrent session to enable multiaccounts"
+msgstr "மல்டியாக்யூட்டுகளை இயக்க உங்கள் \\ ncurrent அமர்வின் உள்நுழைய வேண்டும்"
+
+#, placeholders:{}
+msgctxt "alert-copied-to-clipboard"
+msgid "Copied to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது"
+
+#, placeholders:{}
+msgctxt "prompt-homeserver-select"
+msgid "Select your username and homeserver"
+msgstr "உங்கள் பயனர்பெயர் மற்றும் ஓம்சர்வர் என்பதைத் தேர்ந்தெடுக்கவும்"
+
+#, placeholders:{}
+msgctxt "prompt-confirm-deactivate"
+msgid "Enter your password below to confirm deactivation"
+msgstr "செயலிழக்கத்தை உறுதிப்படுத்த கீழே உங்கள் கடவுச்சொல்லை உள்ளிடவும்"
+
+#, placeholders:{}
+msgctxt "placeholder-topic"
+msgid "No Topic Description"
+msgstr "தலைப்பு விளக்கம் இல்லை"
+
+#, placeholders:{}
+msgctxt "content-thanks"
+msgid ""
+"Thanks for trying out {}!\n"
+"\n"
+msgstr "முயற்சித்ததற்கு நன்றி {}!\n"
+
+#, placeholders:{}
+msgctxt "content-support-dialog"
+msgid ""
+"The Syphon community is here to help you however we can.\n"
+"\n"
+"Feel free to join our Support chat or send us an email. Please be aware email can take anywhere from 1-5+ business days for a reply!"
+msgstr ""
+"எங்களால் முடிந்தாலும் உங்களுக்கு உதவ சிஃபோன் சமூகம் இங்கே உள்ளது.\n"
+"\n"
+" எங்கள் உதவி அரட்டையில் சேர தயங்க அல்லது எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள். தயவுசெய்து எச்சரிக்கையாக இருங்கள் மின்னஞ்சல் ஒரு பதிலுக்கு 1-5+ வணிக நாட்களிலிருந்து எங்கும் எடுக்கலாம்!"
+
+#, placeholders:{}
+msgctxt "content-password-recommendation"
+msgid ""
+"Try thinking up 3 or more random\n"
+"words you'll easily remember"
+msgstr ""
+"3 அல்லது அதற்கு மேற்பட்ட சீரற்ற சிந்திக்க முயற்சிக்கவும்\n"
+" நீங்கள் எளிதாக நினைவில் கொள்ளும் வார்த்தைகள்"
+
+#, placeholders:{}
+msgctxt "content-intro-section-one"
+msgid ""
+"{} works by using an encrypted \n"
+"and decentralized network \n"
+"called "
+msgstr ""
+"Chirt ஒரு மறைகுறியாக்கப்பட்டதைப் பயன்படுத்துவதன் மூலம் செயல்படுகிறது\n"
+" மற்றும் பரவலாக்கப்பட்ட பிணையம்\n"
+" அழைக்கப்பட்டார்"
+
+#, placeholders:{}
+msgctxt "content-intro-section-two"
+msgid "Matrix enables you to message others"
+msgstr "மேட்ரிக்ச் மற்றவர்களுக்கு செய்தி அனுப்ப உங்களுக்கு உதவுகிறது"
+
+#, placeholders:{}
+msgctxt "content-intro-section-two-part-two"
+msgid ""
+"\n"
+"privately and control "
+msgstr ""
+"\n"
+"தனிப்பட்ட மற்றும் கட்டுப்பாடு"
+
+#, placeholders:{}
+msgctxt "content-intro-section-two-part-three"
+msgid ""
+"where the\n"
+"messages are stored"
+msgstr ""
+"எங்கே\n"
+" செய்திகள் சேமிக்கப்படுகின்றன"
+
+#, placeholders:{}
+msgctxt "content-intro-section-three"
+msgid ""
+"Both Matrix and {} are developed\n"
+"openly by organizations and people,\n"
+"not corporations"
+msgstr ""
+"மேட்ரிக்ச் மற்றும் {} இரண்டும் உருவாக்கப்பட்டுள்ளன\n"
+" நிறுவனங்கள் மற்றும் மக்களால் வெளிப்படையாக,\n"
+" நிறுவனங்கள் அல்ல"
+
+#, placeholders:{}
+msgctxt "content-intro-section-four"
+msgid ""
+"By using {} and other Matrix clients,\n"
+"we can make private messaging \n"
+"accessible to everyone"
+msgstr ""
+"{} மற்றும் பிற மேட்ரிக்ச் வாடிக்கையாளர்களைப் பயன்படுத்துவதன் மூலம்,\n"
+" நாங்கள் தனியார் செய்தியை செய்யலாம்\n"
+" அனைவருக்கும் அணுகலாம்"
+
+#, placeholders:{}
+msgctxt "content-captcha-warning"
+msgid ""
+"Some Matrix servers require captcha confirmation provided by Google through reCAPTCHA. \n"
+"\n"
+"If you'd prefer not to complete this captcha, you may need to go back to server select and choose a different server for account creation."
+msgstr ""
+"சில மேட்ரிக்ச் சேவையகங்களுக்கு கூகிள் ரெக்காப்ட்சா மூலம் வழங்கிய கேப்ட்சா உறுதிப்படுத்தல் தேவைப்படுகிறது.\n"
+"\n"
+" இந்த கேப்ட்சாவை முடிக்க வேண்டாம் என்று நீங்கள் விரும்பினால், நீங்கள் மீண்டும் சேவையகத்திற்குச் சென்று கணக்கு உருவாக்கத்திற்கு வேறு சேவையகத்தைத் தேர்வு செய்ய வேண்டியிருக்கும்."
+
+#, placeholders:{}
+msgctxt "content-dialog-devices-delete"
+msgid "You will have to sign in again on these devices if you remove them."
+msgstr "இந்த சாதனங்களை நீங்கள் அகற்றினால் அவற்றை மீண்டும் உள்நுழைய வேண்டும்."
+
+#, placeholders:{}
+msgctxt "content-dialog-devices-key-export"
+msgid ""
+"Are you sure you want to backup this device's encryption key? It may make it"
+" available to others if you're not careful!"
+msgstr ""
+"இந்த சாதனத்தின் குறியாக்க விசையை காப்புப் பிரதி எடுக்க விரும்புகிறீர்களா? "
+"நீங்கள் கவனமாக இல்லாவிட்டால் அது மற்றவர்களுக்கு கிடைக்கக்கூடும்!"
+
+#, placeholders:{}
+msgctxt "content-dialog-device-rename"
+msgid "Enter the new public display name for this device."
+msgstr "இந்த சாதனத்திற்கான புதிய பொது காட்சி பெயரை உள்ளிடவும்."
+
+#, placeholders:{}
+msgctxt "content-dialog-photo-permission"
+msgid ""
+"Photos Permission is needed to access the gallery. Would you like to "
+"continue to the app settings?"
+msgstr ""
+"கேலரியை அணுக புகைப்படங்கள் இசைவு தேவை. பயன்பாட்டு அமைப்புகளுக்குத் தொடர "
+"விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "content-dialog-block-user"
+msgid ""
+"If you block {}, you will not be able to see their messages and you will "
+"immediately leave this chat."
+msgstr ""
+"நீங்கள் {that ஐத் தடுத்தால், அவர்களின் செய்திகளை நீங்கள் காண முடியாது, "
+"உடனடியாக இந்த அரட்டையை விட்டுவிடுவீர்கள்."
+
+#, placeholders:{}
+msgctxt "content-notification-background"
+msgid "Background connection enabled"
+msgstr "பின்னணி இணைப்பு இயக்கப்பட்டது"
+
+#, placeholders:{}
+msgctxt "content-signup-email-requirement"
+msgid ""
+"This homeserver requires an email for registration. Your email will be "
+"visible to whoever or whatever is in control of the homeserver. Make sure "
+"you trust this homeserver before submitting this information"
+msgstr ""
+"இந்த ஓம்சருக்கு பதிவு செய்ய ஒரு மின்னஞ்சல் தேவைப்படுகிறது. உங்கள் மின்னஞ்சல்"
+" யாருடைய அல்லது எதுவுமே ஓம்சர்வரின் கட்டுப்பாட்டில் இருக்கும். இந்த தகவலைச் "
+"சமர்ப்பிப்பதற்கு முன் இந்த ஓம்சர்வரை நம்புகிறீர்கள் என்பதை உறுதிப்படுத்திக் "
+"கொள்ளுங்கள்"
+
+#, placeholders:{}
+msgctxt "content-signup-email-verification"
+msgid ""
+"This homeserver requires a verified email to complete registration. You'll "
+"need to click the link in the email address to continue. Make sure you trust"
+" this homeserver before clicking the verification link."
+msgstr ""
+"இந்த ஓம்சருக்கு பதிவு செய்ய சரிபார்க்கப்பட்ட மின்னஞ்சல் தேவைப்படுகிறது. தொடர"
+" மின்னஞ்சல் முகவரியில் உள்ள இணைப்பைக் சொடுக்கு செய்ய வேண்டும். சரிபார்ப்பு "
+"இணைப்பைக் சொடுக்கு செய்வதற்கு முன் இந்த ஓம்சர்வரை நம்புகிறீர்கள் என்பதை "
+"உறுதிப்படுத்திக் கொள்ளுங்கள்."
+
+#, placeholders:{}
+msgctxt "content-signup-captcha-requirement"
+msgid ""
+"This homeserver requires a captcha\n"
+" before you can create an account."
+msgstr ""
+"இந்த ஓம்சருக்கு ஒரு கேப்ட்சா தேவை\n"
+" நீங்கள் ஒரு கணக்கை உருவாக்குவதற்கு முன்."
+
+#, placeholders:{}
+msgctxt "content-forgot-email-verification"
+msgid ""
+"A verification email will be sent to your inbox before resetting your "
+"password. After verification, you'll be able to set and confirm a new "
+"password."
+msgstr ""
+"உங்கள் கடவுச்சொல்லை மீட்டமைப்பதற்கு முன் சரிபார்ப்பு மின்னஞ்சல் உங்கள் "
+"இன்பாக்சுக்கு அனுப்பப்படும். சரிபார்ப்புக்குப் பிறகு, புதிய கடவுச்சொல்லை "
+"அமைத்து உறுதிப்படுத்த முடியும்."
+
+#, placeholders:{}
+msgctxt "content-confirm-password-reset"
+msgid ""
+"Click on the link sent to your email. After clicking the link, press the "
+"continue button below to change your password."
+msgstr ""
+"உங்கள் மின்னஞ்சலுக்கு அனுப்பப்பட்ட இணைப்பைக் சொடுக்கு செய்க. இணைப்பைக் "
+"சொடுக்கு செய்த பிறகு, உங்கள் கடவுச்சொல்லை மாற்ற கீழே உள்ள தொடர்ந்து பொத்தானை"
+" அழுத்தவும்."
+
+#, placeholders:{}
+msgctxt "content-password-requirements"
+msgid ""
+"Each homeserver may have different requirements for passwords.\n"
+"\n"
+"If you're having trouble, try creating a password including a lower-case letter, an upper-case letter, a number and a symbol, and with at least 8 characters"
+msgstr ""
+"ஒவ்வொரு ஓம்சர்வரும் கடவுச்சொற்களுக்கு வெவ்வேறு தேவைகளைக் கொண்டிருக்கலாம்.\n"
+"\n"
+" உங்களுக்கு சிக்கல் இருந்தால், ஒரு சிறிய கடிதம், மேல் வழக்கு கடிதம், எண் மற்றும் அடையாளம் உள்ளிட்ட கடவுச்சொல்லை உருவாக்க முயற்சிக்கவும், குறைந்தது 8 எழுத்துக்கள்"
+
+#, placeholders:{}
+msgctxt "content-sync-interval"
+msgid ""
+"Syncing works by submitting a long poll request to a matrix server. The sync"
+" interval is not how frequently it will sync, but how frequently it will "
+"attempt a new long poll request."
+msgstr ""
+"மேட்ரிக்ச் சேவையகத்திற்கு நீண்ட வாக்கெடுப்பு கோரிக்கையை சமர்ப்பிப்பதன் மூலம்"
+" ஒத்திசைவு. ஒத்திசைவு இடைவெளி அது எவ்வளவு அடிக்கடி ஒத்திசைக்கப்படும் "
+"என்பதல்ல, ஆனால் இது ஒரு புதிய நீண்ட வாக்கெடுப்பு கோரிக்கையை எவ்வளவு அடிக்கடி"
+" முயற்சிக்கும்."
+
+#, placeholders:{}
+msgctxt "content-proxy-host"
+msgid "The host for your proxy"
+msgstr "உங்கள் ப்ராக்சிக்கான புரவலன்"
+
+#, placeholders:{}
+msgctxt "content-proxy-port"
+msgid "The port your proxy is listening on"
+msgstr "துறைமுகம் உங்கள் பதிலாள் கேட்கிறது"
+
+#, placeholders:{}
+msgctxt "content-proxy-username"
+msgid "The username for authenticating with your proxy"
+msgstr "உங்கள் ப்ராக்சியுடன் அங்கீகரிப்பதற்கான பயனர்பெயர்"
+
+#, placeholders:{}
+msgctxt "content-proxy-password"
+msgid "The password for authenticating with your proxy"
+msgstr "உங்கள் ப்ராக்சியுடன் அங்கீகரிப்பதற்கான கடவுச்சொல்"
+
+#, placeholders:{}
+msgctxt "content-dialog-confirm-password"
+msgid "Please confirm your password (Default)"
+msgstr "உங்கள் கடவுச்சொல்லை உறுதிப்படுத்தவும் (இயல்புநிலை)"
+
+#, placeholders:{}
+msgctxt "content-notification-style-type-inbox"
+msgid "Group new messages within one notification"
+msgstr "ஒரு அறிவிப்புக்குள் புதிய செய்திகளை குழு"
+
+#, placeholders:{}
+msgctxt "content-notification-style-type-latest"
+msgid "Show one notification with the most recent message"
+msgstr "மிக அண்மைக் கால செய்தியுடன் ஒரு அறிவிப்பைக் காட்டுங்கள்"
+
+#, placeholders:{}
+msgctxt "content-notification-style-type-itemized"
+msgid "A new notification will appear for every new message"
+msgstr "ஒவ்வொரு புதிய செய்திக்கும் புதிய அறிவிப்பு தோன்றும்"
+
+#, placeholders:{}
+msgctxt "content-import-session-keys-enter-password"
+msgid "Enter the password for this session key file."
+msgstr "இந்த அமர்வு விசை கோப்பிற்கான கடவுச்சொல்லை உள்ளிடவும்."
+
+#, placeholders:{}
+msgctxt "content-export-session-keys-enter-password"
+msgid "Enter a password to encrypt your session keys."
+msgstr "உங்கள் அமர்வு விசைகளை குறியாக்க கடவுச்சொல்லை உள்ளிடவும்."
+
+#, placeholders:{}
+msgctxt "content-import-session-keys"
+msgid ""
+"Enter the password for this session key file.\n"
+"\n"
+"Please be aware the import may take a while to complete."
+msgstr ""
+"இந்த அமர்வு விசை கோப்பிற்கான கடவுச்சொல்லை உள்ளிடவும்.\n"
+"\n"
+" இறக்குமதி முடிக்க சிறிது நேரம் ஆகலாம் என்பதை நினைவில் கொள்க."
+
+#, placeholders:{}
+msgctxt "content-export-session-keys"
+msgid ""
+"Enter a password for this session key backup.\n"
+"\n"
+"Please be aware the export may take a while to complete."
+msgstr ""
+"இந்த அமர்வு விசை காப்புப்பிரதிக்கு கடவுச்சொல்லை உள்ளிடவும்.\n"
+"\n"
+" ஏற்றுமதி முடிக்க சிறிது நேரம் ஆகலாம் என்பதை நினைவில் கொள்க."
+
+#, placeholders:{}
+msgctxt "content-logout-confirm"
+msgid "Are you sure you want to log out?"
+msgstr "நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "content-logout-multiaccount-confirm"
+msgid ""
+"\n"
+"\n"
+"Since you have other accounts, logging out will switch you to another account session."
+msgstr ""
+"\n"
+"உங்களிடம் பிற கணக்குகள் இருப்பதால், உள்நுழைவது உங்களை மற்றொரு கணக்கு அமர்வுக்கு மாற்றும்."
+
+#, placeholders:{}
+msgctxt "content-remove-screen-lock"
+msgid ""
+"Are you sure you want to remove the screen lock? This will also remove the "
+"pin protection of the cache"
+msgstr ""
+"திரை பூட்டை அகற்ற விரும்புகிறீர்களா? இது தற்காலிக சேமிப்பின் முள் "
+"பாதுகாப்பையும் அகற்றும்"
+
+#, placeholders:{}
+msgctxt "content-key-backup-warning"
+msgid ""
+"Due to background processing on iOS, your scheduled backup may or may not fire based on battery, processing power, and other factors.\n"
+"\n"
+"Always make sure your backups are being saved appropriately."
+msgstr ""
+"ஐஇமு இல் பின்னணி செயலாக்கத்தின் காரணமாக, உங்கள் திட்டமிடப்பட்ட காப்புப்பிரதி பேட்டரி, செயலாக்க ஆற்றல் மற்றும் பிற காரணிகளின் அடிப்படையில் தீப்பிடிக்கலாம் அல்லது இல்லாமல் போகலாம்.\n"
+"\n"
+" உங்கள் காப்புப்பிரதிகள் சரியான முறையில் சேமிக்கப்படுவதை எப்போதும் உறுதிப்படுத்திக் கொள்ளுங்கள்."
+
+#, placeholders:{}
+msgctxt "message-edited-append"
+msgid " (edited)"
+msgstr "(திருத்தப்பட்டது)"
+
+#, placeholders:{}
+msgctxt "confirm-linkout"
+msgid ""
+"Are you sure you want to open the following link?\n"
+"\n"
+"{}"
+msgstr ""
+"பின்வரும் இணைப்பை நீங்கள் திறக்க விரும்புகிறீர்களா?\n"
+"\n"
+" {}"
+
+#, placeholders:{}
+msgctxt "confirm-delete-keys"
+msgid ""
+"Are you sure you want to delete your encryption keys for this device? This "
+"is very destructive and will probably render all your encrypted messages "
+"undecryptable."
+msgstr ""
+"இந்த சாதனத்திற்கான உங்கள் குறியாக்க விசைகளை நீக்க விரும்புகிறீர்களா? இது "
+"மிகவும் அழிவுகரமானது, மேலும் உங்கள் மறைகுறியாக்கப்பட்ட எல்லா செய்திகளையும் "
+"சரிபார்க்க முடியாததாக வழங்கும்."
+
+#, placeholders:{}
+msgctxt "confirm-invite"
+msgid "Are you sure you want to invite the following users?"
+msgstr "பின்வரும் பயனர்களை அழைக்க விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-invites-multiple"
+msgid ""
+"Are you sure you want to invite the selected users to the following chat?"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட பயனர்களை பின்வரும் அரட்டைக்கு அழைக்க விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-start-chat"
+msgid ""
+"Even if you don't send a message, the user will still see your invite to "
+"chat."
+msgstr ""
+"நீங்கள் ஒரு செய்தியை அனுப்பாவிட்டாலும், அரட்டையடிக்க உங்கள் அழைப்பை பயனர் "
+"இன்னும் பார்ப்பார்."
+
+#, placeholders:{}
+msgctxt "confirm-attempt-chat"
+msgid ""
+"Even if you don't send a message, the user will still see your invite to chat if they exist.\n"
+"\n"
+"Do you want to try chatting with this username?"
+msgstr ""
+"நீங்கள் ஒரு செய்தியை அனுப்பாவிட்டாலும், அவர்கள் அரட்டையடிக்க உங்கள் அழைப்பை பயனர் இன்னும் பார்ப்பார்.\n"
+"\n"
+" இந்த பயனர்பெயருடன் அரட்டையடிக்க முயற்சிக்க விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-terms-of-service"
+msgid ""
+"THIS SOFTWARE ({}) IS PROVIDED BY THE AUTHOR ''AS IS'' AND ANY EXPRESS OR "
+"IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF"
+" MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO "
+"EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, "
+"SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,"
+" PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;"
+" OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, "
+"WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR "
+"OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF "
+"ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+msgstr ""
+"இந்த மென்பொருள் ({}) ஆசிரியரால் வழங்கப்படுகிறது '' '' மற்றும் எந்தவொரு "
+"வெளிப்படையான அல்லது மறைமுகமான உத்தரவாதங்களும், ஆனால் ஒரு குறிப்பிட்ட "
+"நோக்கத்திற்காக வணிகத்தன்மை மற்றும் உடற்தகுதி ஆகியவற்றின் மறைமுகமான "
+"உத்தரவாதங்கள் உட்பட, ஆனால் அவை மட்டும் அல்ல. எந்தவொரு சந்தர்ப்பத்திலும், "
+"எந்தவொரு நேரடி, மறைமுக, தற்செயலான, சிறப்பு, முன்மாதிரியான, அல்லது அதன் "
+"விளைவாக ஏற்படும் சேதங்களுக்கும் (மாற்று பொருட்கள் அல்லது சேவைகளை வாங்குவது "
+"உட்பட, ஆனால் மட்டுப்படுத்தப்படவில்லை; பயன்பாட்டு இழப்பு, தரவு அல்லது "
+"இலாபங்கள்; அத்தகைய சேதம்."
+
+#, placeholders:{}
+msgctxt "confirm-enable-notifications"
+msgid ""
+"Your device will now prompt you to turn on notifications for {}.\n"
+"\n"
+"Do you want to turn on message notifications?"
+msgstr ""
+"உங்கள் சாதனம் இப்போது {for க்கான அறிவிப்புகளை இயக்கும்படி கேட்கும்.\n"
+"\n"
+" செய்தி அறிவிப்புகளை இயக்க விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-auth-verification"
+msgid ""
+"In order to perform this action, you'll need to enter your password again"
+msgstr "இந்த செயலைச் செய்ய, உங்கள் கடவுச்சொல்லை மீண்டும் உள்ளிட வேண்டும்"
+
+#, placeholders:{}
+msgctxt "confirm-alpha-version"
+msgid "Please be aware this app is still very much in Alpha.\n"
+msgstr ""
+"தயவுசெய்து இந்த பயன்பாடு இன்னும் ஆல்பாவில் இருப்பதை அறிந்து கொள்ளுங்கள்.\n"
+
+#, placeholders:{}
+msgctxt "confirm-alpha-warning"
+msgid ""
+"Do not use, nor do I recommend using, Syphon where proven and independently "
+"verified security is required.\n"
+msgstr ""
+"நிரூபிக்கப்பட்ட மற்றும் சுயாதீனமாக சரிபார்க்கப்பட்ட பாதுகாப்பு தேவைப்படும் "
+"இடத்தில் பயன்படுத்த வேண்டாம், அல்லது பயன்படுத்த பரிந்துரைக்க வேண்டாம்.\n"
+
+#, placeholders:{}
+msgctxt "confirm-alpha-warning-alt"
+msgid ""
+"You may lose data using this application as features and bugs are worked "
+"out.\n"
+msgstr ""
+"நற்பொருத்தங்கள் மற்றும் பிழைகள் தயாரிக்கப்படுவதால் இந்த பயன்பாட்டைப் "
+"பயன்படுத்தி தரவை நீங்கள் இழக்க நேரிடும்.\n"
+
+#, placeholders:{}
+msgctxt "confirm-terms-of-service-alt"
+msgid ""
+"Please read the below terms and conditions for this application and if you agree tap \"I Agree\" to continue:\n"
+"\n"
+msgstr ""
+"தயவுசெய்து இந்த பயன்பாட்டிற்கான கீழே உள்ள விதிமுறைகளையும் நிபந்தனைகளையும் "
+"படிக்கவும், நீங்கள் ஒப்புக்கொண்டால் தொடர \"நான் ஒப்புக்கொள்கிறேன்\" என்பதைத்"
+" தட்டவும்:\n"
+
+#, placeholders:{}
+msgctxt "confirm-invite-accept"
+msgid ""
+"If you accept this chat invite, the users in the chat will be made aware "
+"you've accepted. Are you sure you want to accept now?"
+msgstr ""
+"இந்த அரட்டை அழைப்பை நீங்கள் ஏற்றுக்கொண்டால், அரட்டையில் உள்ள பயனர்கள் "
+"நீங்கள் ஏற்றுக்கொண்டீர்கள் என்பதை அறிந்து கொள்வார்கள். நீங்கள் இப்போது "
+"ஏற்றுக்கொள்ள விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-encryption"
+msgid ""
+"After you encrypt a chat, you cannot go back to sending messages "
+"unencrypted. Are you sure you want to encrypt this chat?"
+msgstr ""
+"நீங்கள் ஒரு அரட்டையை குறியாக்கிய பிறகு, மறைகுறியாக்கப்பட்ட செய்திகளை "
+"அனுப்புவதற்கு நீங்கள் திரும்பிச் செல்ல முடியாது. இந்த அரட்டையை குறியாக்க "
+"விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-encryption-group"
+msgid ""
+"After you encrypt a chat, you cannot go back to sending messages unencrypted. Are you sure you want to encrypt this group chat?\n"
+"\n"
+"Please be aware Group E2EE is still a work in progress. You may lose message data!"
+msgstr ""
+"நீங்கள் ஒரு அரட்டையை குறியாக்கிய பிறகு, மறைகுறியாக்கப்பட்ட செய்திகளை அனுப்புவதற்கு நீங்கள் திரும்பிச் செல்ல முடியாது. இந்த குழு அரட்டையை குறியாக்க விரும்புகிறீர்களா?\n"
+"\n"
+" தயவுசெய்து குழு E2EE இன்னும் ஒரு வேலையில் உள்ளது என்பதை அறிந்து கொள்ளுங்கள். நீங்கள் செய்தி தரவை இழக்க நேரிடும்!"
+
+#, placeholders:{}
+msgctxt "confirm-advanced-colors"
+msgid ""
+"Are you sure you want to use advanced color selection?\n"
+"\n"
+"Selecting the same color\n"
+"as the background may prevent you from seeing parts of the app!"
+msgstr ""
+"மேம்பட்ட வண்ணத் தேர்வைப் பயன்படுத்த விரும்புகிறீர்களா?\n"
+"\n"
+" அதே நிறத்தைத் தேர்ந்தெடுப்பது\n"
+" பயன்பாட்டின் சில பகுதிகளைப் பார்ப்பதிலிருந்து பின்னணி உங்களைத் தடுக்கக்கூடும்!"
+
+#, placeholders:{}
+msgctxt "confirm-archive-chat-single"
+msgid ""
+"Are you sure you want to archive the chat \"{}\"?\n"
+"{} does not yet support viewing archived chats."
+msgstr ""
+"அரட்டையை \"{}\" காப்பகப்படுத்த விரும்புகிறீர்களா?\n"
+" {} காப்பகப்படுத்தப்பட்ட அரட்டைகளைப் பார்ப்பதை இன்னும் ஆதரிக்கவில்லை."
+
+#, placeholders:{}
+msgctxt "confirm-archive-chat-multi"
+msgid ""
+"Are you sure you want to archive all {} selected chats?\n"
+"{} does not yet support viewing archived chats."
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட அனைத்து அரட்டைகளையும் காப்பகப்படுத்த விரும்புகிறீர்களா?\n"
+" {} காப்பகப்படுத்தப்பட்ட அரட்டைகளைப் பார்ப்பதை இன்னும் ஆதரிக்கவில்லை."
+
+#, placeholders:{}
+msgctxt "confirm-delete-chat-single"
+msgid ""
+"Are you sure you want to delete the chat \"{}\"? Messages sent in this chat "
+"will be lost forever."
+msgstr ""
+"அரட்டையை \"{}\" நீக்க விரும்புகிறீர்களா? இந்த அரட்டையில் அனுப்பப்பட்ட "
+"செய்திகள் என்றென்றும் இழக்கப்படும்."
+
+#, placeholders:{}
+msgctxt "confirm-delete-chat-multi"
+msgid ""
+"Are you sure you want to delete all {} selected chats? Messages sent in "
+"these chats will be lost forever."
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட அனைத்து அரட்டைகளையும் நீக்க விரும்புகிறீர்களா? இந்த "
+"அரட்டைகளில் அனுப்பப்பட்ட செய்திகள் என்றென்றும் இழக்கப்படும்."
+
+#, placeholders:{}
+msgctxt "confirm-leave-chat-single"
+msgid "Are you sure you want to leave the chat \"{}\"?"
+msgstr "அரட்டையை \"{}\" விட்டுவிட விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-leave-chat-single-nonpublic"
+msgid ""
+"This is not a public chat. You will not be able to rejoin this chat without "
+"an invitation."
+msgstr ""
+"இது பொது அரட்டை அல்ல. அழைப்பிதழ் இல்லாமல் நீங்கள் மீண்டும் இந்த அரட்டையில் "
+"சேர முடியாது."
+
+#, placeholders:{}
+msgctxt "confirm-leave-chat-multi"
+msgid "Are you sure you want to leave all {} selected chats?"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட அனைத்து அரட்டைகளையும் விட்டுவிட விரும்புகிறீர்களா?"
+
+#, placeholders:{}
+msgctxt "confirm-leave-chat-multi-nonpublic"
+msgid ""
+"Some or all of these chats are not public. You will not be able to rejoin "
+"these chats without an invitation."
+msgstr ""
+"இந்த அரட்டைகள் சில அல்லது அனைத்தும் பொதுவில் இல்லை. அழைப்பிதழ் இல்லாமல் "
+"நீங்கள் மீண்டும் இந்த அரட்டைகளில் சேர முடியாது."
+
+#, placeholders:{}
+msgctxt "confirm-block-user"
+msgid ""
+"If you block {}, you will not be able to see their messages and you will "
+"immediately leave this chat."
+msgstr ""
+"நீங்கள் {that ஐத் தடுத்தால், அவர்களின் செய்திகளை நீங்கள் காண முடியாது, "
+"உடனடியாக இந்த அரட்டையை விட்டுவிடுவீர்கள்."
+
+#, placeholders:{}
+msgctxt "warning-deactivate-account"
+msgid ""
+"THIS WILL PERMANENTLY DELETE YOUR ACCOUNT\n"
+"\n"
+"You will be unable to recover any data or access for this account after deactivation.\n"
+"Please take careful consideration before doing this!"
+msgstr ""
+"இது உங்கள் கணக்கை நிரந்தரமாக நீக்கும்\n"
+"\n"
+" செயலிழந்த பிறகு இந்த கணக்கிற்கான எந்த தரவையும் அணுகலையும் மீட்டெடுக்க முடியாது.\n"
+" இதைச் செய்வதற்கு முன் கவனமாக பரிசீலிக்கவும்!"
+
+#, placeholders:{}
+msgctxt "warning-deactivate-account-final"
+msgid ""
+"There is no way to recover this account after it's deleted. You will immediately be logged out of your account and it will become unavailable.\n"
+"\n"
+"This is your final warning regarding deactivation. If you are sure, press deactivate below."
+msgstr ""
+"இந்த கணக்கு நீக்கப்பட்ட பிறகு அதை மீட்டெடுக்க வழி இல்லை. நீங்கள் உடனடியாக உங்கள் கணக்கிலிருந்து வெளியேற்றப்படுவீர்கள், அது கிடைக்காது.\n"
+"\n"
+" செயலிழக்க தொடர்பான உங்கள் இறுதி எச்சரிக்கை இது. நீங்கள் உறுதியாக இருந்தால், கீழே செயலிழக்க அழுத்தவும்."
+
+#, placeholders:{}
+msgctxt "label-send-unencrypted"
+msgid "Send unencrypted message"
+msgstr "மறைகுறியாக்கப்பட்ட செய்தியை அனுப்பவும்"
+
+#, placeholders:{}
+msgctxt "label-send-encrypted"
+msgid "Send encrypted message"
+msgstr "மறைகுறியாக்கப்பட்ட செய்தியை அனுப்பவும்"
+
+#, placeholders:{}
+msgctxt "label-show-attachment-options"
+msgid "Open attachment options"
+msgstr "இணைப்பு விருப்பங்களைத் திறக்கவும்"
+
+#, placeholders:{}
+msgctxt "label-default"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#, placeholders:{}
+msgctxt "popup-menu-item-search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, placeholders:{}
+msgctxt "popup-menu-item-all-media"
+msgid "All Media"
+msgstr "அனைத்து ஊடகங்களும்"
+
+#, placeholders:{}
+msgctxt "popup-menu-item-chat-settings"
+msgid "Chat Settings"
+msgstr "அரட்டை அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "popup-menu-item-invite-friends"
+msgid "Invite Friends"
+msgstr "நண்பர்களை அழைக்கவும்"
+
+#, placeholders:{}
+msgctxt "popup-menu-item-mute-notifications"
+msgid "Mute Notifications"
+msgstr "முடக்கு அறிவிப்புகள்"
+
+#, placeholders:{}
+msgctxt "semantics-image-intro"
+msgid "Relaxed, lounging User"
+msgstr "நிதானமான, சத்தமிடும் பயனர்"
+
+#, placeholders:{}
+msgctxt "semantics-image-private-message"
+msgid "A person holding up a private message bubble"
+msgstr "ஒரு தனிப்பட்ட செய்தி குமிழியை வைத்திருக்கும் நபர்"
+
+#, placeholders:{}
+msgctxt "semantics-image-intro-section-third"
+msgid "People lounging around and messaging each other"
+msgstr "மக்கள் ஒருவருக்கொருவர் சுற்றித் திரிகிறார்கள்"
+
+#, placeholders:{}
+msgctxt "semantics-image-intro-section-four"
+msgid "Two different people feeling confident and lookin' good"
+msgstr ""
+"இரண்டு வெவ்வேறு நபர்கள் நம்பிக்கையுடன் உணர்கிறார்கள், அழகாக இருக்கிறார்கள்"
+
+#, placeholders:{}
+msgctxt "semantics-image-empty-chat-list"
+msgid "Several tiny, cute monsters peering out behind foliage."
+msgstr "பல சிறிய, அழகான அரக்கர்கள் பசுமையாக பின்னால் வெளியேறுகிறார்கள்."
+
+#, placeholders:{}
+msgctxt "semantics-image-terms-of-service"
+msgid "Hand holding a phone with a terms of service checkbox checked"
+msgstr "பணி விதிமுறைகள் சரிபார்க்கப்பட்ட தொலைபேசியை வைத்திருத்தல்"
+
+#, placeholders:{}
+msgctxt "semantics-image-signup-username"
+msgid "Person resting elbow on I.D. card"
+msgstr "ஐ.டி.யில் முழங்கையை ஓய்வெடுக்கும் நபர். அட்டை"
+
+#, placeholders:{}
+msgctxt "semantics-image-password-reset"
+msgid "Person resting arm ontop a letter with a checkbox inside"
+msgstr "நபர் மேலே ஒரு கடிதத்துடன் ஒரு கடிதத்தில் கை ஓய்வெடுக்கிறார்"
+
+#, placeholders:{}
+msgctxt "semantics-create-public-room"
+msgid "Create A Public Room"
+msgstr "ஒரு பொது அறையை உருவாக்கவும்"
+
+#, placeholders:{}
+msgctxt "semantics-image-password-update"
+msgid "User thinking up a password in a swirl of wind"
+msgstr "பயனர் ஒரு கடவுச்சொல்லை காற்றின் சுழற்சியில் சிந்திக்கிறார்"
+
+#, placeholders:{}
+msgctxt "semantics-close-actions-ring"
+msgid "Close Actions Ring"
+msgstr "நெருக்கமான செயல்கள் வளையம்"
+
+#, placeholders:{}
+msgctxt "semantics-open-actions-ring"
+msgid "Open Actions Ring"
+msgstr "திறந்த செயல்கள் வளையம்"
+
+#, placeholders:{}
+msgctxt "label-proxy-host"
+msgid "Hostname"
+msgstr "புரவலன்பெயர்"
+
+#, placeholders:{}
+msgctxt "label-proxy-port"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#, placeholders:{}
+msgctxt "label-proxy-username"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#, placeholders:{}
+msgctxt "label-proxy-password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, placeholders:{}
+msgctxt "label-password"
+msgid "password"
+msgstr "கடவுச்சொல்"
+
+#, placeholders:{}
+msgctxt "tooltip-search-users"
+msgid "Search users"
+msgstr "பயனர்களைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "tooltip-profile-settings"
+msgid "Profile and Settings"
+msgstr "சுயவிவரம் மற்றும் அமைப்புகள்"
+
+#, placeholders:{}
+msgctxt "tooltip-search-chats"
+msgid "Search Chats"
+msgstr "அரட்டைகளைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "tooltip-search-unencrypted"
+msgid "Search Unencrypted"
+msgstr "மறைகுறியாக்கப்படாததைத் தேடுங்கள்"
+
+#, placeholders:{}
+msgctxt "tooltip-cancel-reply"
+msgid "Cancel Reply"
+msgstr "பதிலை ரத்துசெய்"
+
+#, placeholders:{}
+msgctxt "tooltip-message-details"
+msgid "Message Details"
+msgstr "செய்தி விவரங்கள்"
+
+#, placeholders:{}
+msgctxt "tooltip-delete-message"
+msgid "Delete Message"
+msgstr "செய்தியை நீக்கு"
+
+#, placeholders:{}
+msgctxt "tooltip-edit-message"
+msgid "Edit Message"
+msgstr "செய்தியைத் திருத்தவும்"
+
+#, placeholders:{}
+msgctxt "tooltip-copy-message-content"
+msgid "Copy Message Content"
+msgstr "செய்தி உள்ளடக்கத்தை நகலெடுக்கவும்"
+
+#, placeholders:{}
+msgctxt "tooltip-quote-and-reply"
+msgid "Quote and Reply"
+msgstr "மேற்கோள் மற்றும் பதில்"
+
+#, placeholders:{}
+msgctxt "tooltip-share-chats"
+msgid "Share Chats"
+msgstr "சேர்காட்"

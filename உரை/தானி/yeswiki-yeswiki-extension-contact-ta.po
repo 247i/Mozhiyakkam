@@ -1,0 +1,473 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (YesWiki)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 17:53+0200\n"
+"PO-Revision-Date: 2025-06-10 21:28\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/yeswiki/yeswiki-extension-contact/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+msgctxt "return[]->'CONTACT_ACTION_ABONNEMENT'"
+msgid "Action {{abonnement ...}}"
+msgstr "செயல் {{abonnement ...}}"
+
+msgctxt "return[]->'CONTACT_MAIL_REQUIRED'"
+msgid "le paramètre mail, obligatoire, est manquant."
+msgstr "அஞ்சல் அளவுரு, கட்டாயமாக இல்லை."
+
+msgctxt "return[]->'CONTACT_ACTION_CONTACT'"
+msgid "Action {{contact ...}}"
+msgstr "செயல் {{contact ...}}"
+
+msgctxt "return[]->'CONTACT_ACTION_DESABONNEMENT'"
+msgid "Action {{desabonnement ...}}"
+msgstr "செயல் {{desabonnement ...}}"
+
+msgctxt "return[]->'CONTACT_ACTION_LISTSUBSCRIPTION'"
+msgid "Action {{listsubscription ...}}"
+msgstr "செயல் {{listsubscription ...}}"
+
+msgctxt "return[]->'CONTACT_ACTION_MAILINGLIST'"
+msgid "Action {{mailinglist ...}}"
+msgstr "செயல் {{mailinglist ...}}"
+
+msgctxt "return[]->'CONTACT_PARAMETER_LIST_REQUIRED'"
+msgid ""
+"paramètre \"list\" obligatoire (il s'agit de l'adresse mail de la liste de "
+"diffusion)"
+msgstr "கட்டாய \"பட்டியல்\" அளவுரு (இது ஒளிபரப்பு பட்டியலின் மின்னஞ்சல் முகவரி)"
+
+msgctxt "return[]->'CONTACT_MAILS_TO_ADD_OR_REMOVE'"
+msgid "Mails à ajouter ou à supprimer de la liste"
+msgstr "பட்டியலிலிருந்து சேர்க்க அல்லது நீக்க மின்னஞ்சல்கள்"
+
+msgctxt "return[]->'CONTACT_SENT_TO_THE_LIST'"
+msgid "Envoi à la liste"
+msgstr "பட்டியலுக்கு அனுப்புகிறது"
+
+msgctxt "return[]->'CONTACT_THE_EMAIL'"
+msgid "l'email"
+msgstr "l'ail"
+
+msgctxt "return[]->'CONTACT_SUBMIT_OTHER_EMAILS'"
+msgid "Entrer d'autres mails"
+msgstr "என்டர் டி ஆட்ரெச் அஞ்சல்கள்"
+
+msgctxt "return[]->'CONTACT_OK'"
+msgid "OK"
+msgstr "சரி"
+
+msgctxt "return[]->'CONTACT_BTN_SUBSCRIBE'"
+msgid "Abonner"
+msgstr "வெறுப்பவர்"
+
+msgctxt "return[]->'CONTACT_BTN_UNSUBSCRIBE'"
+msgid "Désabonner"
+msgstr "குழுவிலகவும்"
+
+msgctxt "return[]->'CONTACT_FOR_ALL_THOSE_EMAILS'"
+msgid "Pour toutes ces adresses mails"
+msgstr "டூட்ச் செச் முகவரி அஞ்சல்களை ஊற்றவும்"
+
+msgctxt "return[]->'CONTACT_TRY_WITH_OTHER_EMAILS'"
+msgid "Essayer avec d'autres mails dans le texte"
+msgstr "கட்டுரை அவெக் டி ஆட்ரெச் மெயில்ச் டான்ச் லு டெக்ச்டே"
+
+msgctxt "return[]->'CONTACT_NO_EMAILS_FOUND_IN_THIS_TEXT'"
+msgid "Pas d'adresses mails trouvées dans le texte fourni"
+msgstr "வழங்கப்பட்ட உரையில் மின்னஞ்சல் முகவரிகள் எதுவும் காணப்படவில்லை"
+
+msgctxt "return[]->'CONTACT_ENTER_TEXT_WITH_EMAILS_INSIDE'"
+msgid ""
+"Entrez un texte contenant des mails dedans pour les extraire, qu'importe les"
+" séparateurs (virgules, point-virgules, deux points, espaces, tabulations, "
+"retours à la ligne) ou le texte entre"
+msgstr ""
+"பிரித்தெடுக்க மின்னஞ்சல்களைக் கொண்ட ஒரு உரையை உள்ளிடவும், பிரிப்பான்கள் "
+"எதுவாக இருந்தாலும் (காற்புள்ளிகள், அரைக்காற்புள்ளிகள், இரண்டு புள்ளிகள், "
+"இடங்கள், தாவல்கள், வரி பின்னூட்டங்கள்) அல்லது இடையிலான உரை"
+
+msgctxt "return[]->'CONTACT_YOUR_EMAIL_LIST'"
+msgid "Votre liste d'adresses mails"
+msgstr "Withre liste d'dresses அஞ்சல்கள்"
+
+msgctxt "return[]->'CONTACT_EXTRACT_EMAILS_FROM_TEXT'"
+msgid "Extraire les mails de ce texte"
+msgstr "எக்ச்ட்ரேர் லெச் மெயில்ச் டி சி டெக்ச்டே"
+
+msgctxt "return[]->'CONTACT_MUST_BE_ADMIN_TO_USE_THIS_ACTION'"
+msgid "il faut être dans le groupe admins pour utiliser cette action"
+msgstr "இந்த செயலைப் பயன்படுத்த நீங்கள் நிர்வாகக் குழுவில் இருக்க வேண்டும்"
+
+msgctxt "return[]->'CONTACT_YOUR_NAME'"
+msgid "Votre nom"
+msgstr "வோட்ரே நோம்"
+
+msgctxt "return[]->'CONTACT_YOUR_MAIL'"
+msgid "Votre adresse mail"
+msgstr "வோட்ரே அட்ரெச் மெயில்"
+
+msgctxt "return[]->'CONTACT_SUBJECT'"
+msgid "Sujet du message"
+msgstr "சுசெட் டு செய்தி"
+
+msgctxt "return[]->'CONTACT_YOUR_MESSAGE'"
+msgid "Votre message"
+msgstr "வோர்ட்ரே செய்தி"
+
+msgctxt "return[]->'CONTACT_SEND_MESSAGE'"
+msgid "Envoyer le message"
+msgstr "தூதர் லே செய்தி"
+
+msgctxt "return[]->'CONTACT_LISTSUBSCRIBE_REQUIRED'"
+msgid ""
+"le paramètre \"list\", contenant l'adresse électronique de la liste, du type"
+" nomliste@domaine.ext, est obligatoire"
+msgstr ""
+"பெயரின் மின்னஞ்சல் முகவரியைக் கொண்ட \"பட்டியல்\" அளவுரு, nameist@domeine.ext"
+" வகை, கட்டாயமாகும்"
+
+msgctxt "return[]->'CONTACT_USER_NOT_LOGGED_IN'"
+msgid "il faut être identifié pour accéder aux actions possibles."
+msgstr "சாத்தியமான செயல்களை அணுக நீங்கள் அடையாளம் காணப்பட வேண்டும்."
+
+msgctxt "return[]->'CONTACT_USER_NO_EMAIL'"
+msgid "il faut être identifié pour accéder aux actions possibles."
+msgstr "சாத்தியமான செயல்களை அணுக நீங்கள் அடையாளம் காணப்பட வேண்டும்."
+
+msgctxt "return[]->'CONTACT_ENTER_NAME'"
+msgid "Vous devez entrer un nom."
+msgstr "வூச் டெவ்ச் எனர்னர் அன் நோம்."
+
+msgctxt "return[]->'CONTACT_ENTER_SENDER_MAIL'"
+msgid "Vous devez entrer une adresse mail pour l'expéditeur."
+msgstr "அனுப்புநருக்கு மின்னஞ்சல் முகவரியை உள்ளிட வேண்டும்."
+
+msgctxt "return[]->'CONTACT_SENDER_MAIL_INVALID'"
+msgid "Vous devez entrer une adresse mail valide pour l'expéditeur."
+msgstr ""
+"அனுப்புநருக்கு செல்லுபடியாகும் மின்னஞ்சல் முகவரியை நீங்கள் உள்ளிட வேண்டும்."
+
+msgctxt "return[]->'CONTACT_ENTER_RECEIVER_MAIL'"
+msgid "Vous devez entrer une adresse mail pour le destinataire."
+msgstr "வூச் டெவ்ச் எனர்னர் யு.என்."
+
+msgctxt "return[]->'CONTACT_RECEIVER_MAIL_INVALID'"
+msgid "Vous devez entrer une adresse mail valide pour le destinataire."
+msgstr "வூச் டீவ்ச் எனர்னர் யு.என்."
+
+msgctxt "return[]->'CONTACT_ENTER_MESSAGE'"
+msgid "Veuillez entrer un message. Il doit faire au minimum 10 caractères."
+msgstr ""
+"தயவுசெய்து ஒரு செய்தியை உள்ளிடவும். இது குறைந்தது 10 எழுத்துக்களைச் செய்ய "
+"வேண்டும்."
+
+msgctxt "return[]->'CONTACT_MESSAGE_SUCCESSFULLY_SENT'"
+msgid "Votre message a bien été envoyé. Merci!"
+msgstr "உங்கள் செய்தி அனுப்பப்பட்டுள்ளது. நன்றி!"
+
+msgctxt "return[]->'CONTACT_MESSAGE_NOT_SENT'"
+msgid ""
+"Une erreur s'est produite lors de l'envoi du message. Veuillez contacter "
+"l'administrateur du site pour qu'il puisse régler le problème."
+msgstr ""
+"Une erreure s'est produite lors de l'envoi du message. Veuillez contacter "
+"l'admistrateur du site pour qu'il puisse regler le probleme."
+
+msgctxt "return[]->'CONTACT_SUBSCRIBE_ORDER_SENT'"
+msgid ""
+"Votre demande concernant votre abonnement a bien été prise en compte. Merci!"
+msgstr ""
+"உங்கள் சந்தா தொடர்பான உங்கள் கோரிக்கை கணக்கில் எடுத்துக் கொள்ளப்பட்டுள்ளது. "
+"நன்றி!"
+
+msgctxt "return[]->'CONTACT_UNSUBSCRIBE_ORDER_SENT'"
+msgid ""
+"Votre demande concernant votre désabonnement a bien été prise en compte. "
+"Merci!"
+msgstr ""
+"உங்கள் குழுவிலகப்பட்ட உங்கள் கோரிக்கை கணக்கில் எடுத்துக்கொள்ளப்பட்டுள்ளது. "
+"நன்றி!"
+
+msgctxt "return[]->'CONTACT_HANDLER_MAIL_FOR_CONNECTED'"
+msgid "L'envoi de mail est réservé aux personnes identifiées."
+msgstr ""
+"அடையாளம் காணப்பட்ட நபர்களுக்கு மின்னஞ்சல் அனுப்புவது ஒதுக்கப்பட்டுள்ளது."
+
+msgctxt "return[]->'CONTACT_LOGIN_IF_CONNECTED'"
+msgid "Si vous avez un identifiant, veuillez vous identifier."
+msgstr "Si vous avez un அடையாளம், வீலெச் வூச் அடையாளங்காட்டி."
+
+msgctxt "return[]->'CONTACT_SUBSCRIBE'"
+msgid "S'abonner"
+msgstr "கீழே இறங்குங்கள்"
+
+msgctxt "return[]->'CONTACT_FROM'"
+msgid "de"
+msgstr "டி"
+
+msgctxt "return[]->'CONTACT_TEMPLATE_NOT_FOUND'"
+msgid "Fichier de template non trouvé"
+msgstr "Fichier de வார்ப்புரு அல்ல"
+
+msgctxt "return[]->'CONTACT_MESSAGE_SENT_FROM'"
+msgid "Message envoyé à partir de"
+msgstr "செய்தி தூதர் à பார்ட்டிர் டி"
+
+msgctxt "return[]->'CONTACT_PERIOD'"
+msgid "Recevoir le contenu de cette page par email de manière"
+msgstr "Greavoir le contenu de cette page par மின்னஞ்சல் de maniere"
+
+msgctxt "return[]->'CONTACT_DAILY'"
+msgid "Journalière"
+msgstr "செய்தித் தாள்"
+
+msgctxt "return[]->'CONTACT_WEEKLY'"
+msgid "Hebdomadaire"
+msgstr "எப்டோமாடேர்"
+
+msgctxt "return[]->'CONTACT_MONTHLY'"
+msgid "Mensuelle"
+msgstr "மென்சுவல்"
+
+msgctxt "return[]->'CONTACT_UNSUBSCRIBE'"
+msgid "Se désabonner"
+msgstr "குழுவிலகவும்"
+
+msgctxt "return[]->'CONTACT_SUCCESS_SUBSCRIBE'"
+msgid "Vous êtes maintenant abonné de manière "
+msgstr "Vous êtes maintenant abonné de maniere "
+
+msgctxt "return[]->'CONTACT_SUCCESS_UNSUBSCRIBE'"
+msgid "Vous avez bien été désabonné"
+msgstr "வூச் அவெச் பீன் எட் டெசபோனே"
+
+msgctxt "return[]->'CONTACT_THIS_MESSAGE'"
+msgid "Ce message est envoyé par un visiteur depuis la fiche"
+msgstr "Ce செய்தி est envoyé par un visituer depuis la fiche"
+
+msgctxt "return[]->'CONTACT_FROM_FORM'"
+msgid "du formulaire"
+msgstr "டு ஃபார்முலேர்"
+
+msgctxt "return[]->'CONTACT_FROM_WEBSITE'"
+msgid "du site"
+msgstr "டு தளம்"
+
+msgctxt "return[]->'CONTACT_REPLY'"
+msgid "Vous pouvez lui écrire un message à"
+msgstr "Vous pouvez lui écrire un செய்தி à"
+
+msgctxt "return[]->'CONTACT_REPLY2'"
+msgid "en répondant à ce mail"
+msgstr "என் répondant à ce mail"
+
+msgctxt "return[]->'CONTACT_TO_PLACEHOLDER'"
+msgid "Adresse mail du destinataire"
+msgstr "அட்ரெச் மெயில் டு டெச்டினாடேர்"
+
+msgctxt "return[]->'CONTACT_SENDMAIL_INFO'"
+msgid "On envoie les mails pour la période"
+msgstr "என்வோய் லெச் மெயில்களில் லா பெரியோடை ஊற்றவும்"
+
+msgctxt "return[]->'CONTACT_SENDMAIL_ERROR'"
+msgid ""
+"La période n'a pas été renseignée ou n'a pas de valeur standard (month, week"
+" ou day)."
+msgstr ""
+"La période n'a pas été renensignée o ou n'a pas de valure தரநிலை (மாதம், வார"
+" நாள்)."
+
+msgctxt "return[]->'CONTACT_DAILY_REPORT'"
+msgid "rapport journalier du"
+msgstr "ரைட்போர்ட் சர்னியர் டு"
+
+msgctxt "return[]->'CONTACT_WEEKLY_REPORT'"
+msgid "rapport hebdomadaire du"
+msgstr "நல்ல எப்டோமாடேர் டு"
+
+msgctxt "return[]->'CONTACT_MONTHLY_REPORT'"
+msgid "rapport mensuel du"
+msgstr "நல்ல மென்சுவல் டு"
+
+msgctxt "return[]->'CONTACT_ENTRY_ADDED'"
+msgid "nouvelle fiche ajoutee"
+msgstr "புதிய சேர்க்கப்பட்ட தாள்"
+
+msgctxt "return[]->'CONTACT_ENTRY_CHANGED'"
+msgid "fiche modifiee"
+msgstr "மாற்றியமைக்கப்பட்ட தாள்"
+
+msgctxt "return[]->'CONTACT_IN_FORM'"
+msgid "dans le formulaire"
+msgstr "டான்ச் லு ஃபார்முலேர்"
+
+msgctxt "return[]->'CONTACT_DELETED_LIST'"
+msgid "liste supprimee"
+msgstr "SUPPRIMEE ஐ பட்டியலிடுங்கள்"
+
+msgctxt "return[]->'CONTACT_USED_IP'"
+msgid "IP utilisee"
+msgstr "ஐபி பயன்பாடு"
+
+msgctxt "return[]->'CONTACT_WELCOME_ON'"
+msgid "Bienvenue sur"
+msgstr "பியென்வென் சுர்"
+
+msgctxt "return[]->'CONTACT_YOUR_ENTRY'"
+msgid "Votre fiche"
+msgstr "வோட்ரே ஃபிச்"
+
+msgctxt "return[]->'CONTACT_HELP_IN_NOTIFICATION'"
+msgid "allez sur le site pour gérer votre inscription"
+msgstr "அலெச் சுர் லே தளத்தை ஊற்ற வேண்டும்"
+
+msgctxt "return[]->'CONTACT_NEW_USER_SUBJECT'"
+msgid "Vos nouveaux identifiants sur le site"
+msgstr "VOS Nouveaux அடையாளங்காட்டிகள் சுர் லே தளம்"
+
+msgctxt "return[]->'AB_contact_group_label'"
+msgid "Actions d'envoi d'e-mail/listes"
+msgstr "செயல்கள் d'envoi d'ary-mail/listes"
+
+msgctxt "return[]->'AB_abonnement_action_mail_label'"
+msgid "E-mail de la liste de discussion"
+msgstr "மின்னஞ்சல் டி லா லிச்டே டி கலந்துரையாடல்"
+
+msgctxt "return[]->'AB_abonnement_action_label'"
+msgid "S'abonner à une liste de discussion"
+msgstr "S'abonner à une liste de கலந்துரையாடல்"
+
+msgctxt "return[]->'AB_abonnement_template_label'"
+msgid "template"
+msgstr "வார்ப்புரு"
+
+msgctxt "return[]->'AB_abonnement_class_label'"
+msgid "classe"
+msgstr "கிளாச்"
+
+msgctxt "return[]->'AB_abonnement_mailinglist_label'"
+msgid "Liste de discussion"
+msgstr "பட்டியல் விவாதம்"
+
+msgctxt "return[]->'AB_deabonnement_action_label'"
+msgid "Se désabonner d'une liste de discussion"
+msgstr "Se désabonner d'ne liste de கலந்துரையாடல்"
+
+msgctxt "return[]->'AB_contact_action_label'"
+msgid "Afficher un formulaire de contact"
+msgstr "Afficher un fumlured de contiction"
+
+msgctxt "return[]->'AB_contact_action_mail_label'"
+msgid "E-mail du destinataire"
+msgstr "மின்னஞ்சல் டு டெச்டினாடேர்"
+
+msgctxt "return[]->'AB_contact_action_entete_label'"
+msgid "Préfixe automatique de l'objet du mail"
+msgstr "ப்ரெஃபிக்ச் ஆட்டோமேட்டிக் டி எல் ஒப்செட் டு மெயில்"
+
+msgctxt "return[]->'AB_contact_action_entete_default'"
+msgid "Envoyé depuis le site..."
+msgstr "என்வாய் டெபூயிச் லே தளம் ..."
+
+msgctxt "return[]->'AB_contact_action_template_label'"
+msgid "Template personnalisé"
+msgstr "வார்ப்புரு ஆளுமை"
+
+msgctxt "return[]->'AB_contact_action_template_hint'"
+msgid "Ex. : complete-contact-form.tpl.html"
+msgstr "முன்னாள். : முழுமையான தொடர்பு-படிவம் .Tpl.html"
+
+msgctxt "return[]->'AB_contact_action_class_label'"
+msgid "classe css"
+msgstr "கிளாச் சி.எச்.எச்"
+
+msgctxt "return[]->'AB_listsubscription_action_label'"
+msgid "listsubscription"
+msgstr "ListSubscription"
+
+msgctxt "return[]->'AB_mailperiod_action_label'"
+msgid "S'abonner pour recevoir périodiquement le contenu d'une page par email"
+msgstr ""
+"S'abonner pour regevoir périodigment le contenu d'ne par par மின்னஞ்சல்"
+
+msgctxt "return[]->'AB_mailperiod_action_hint'"
+msgid ""
+"Pour que cette action fonctionne vous devez vérifier certains paramètres sur"
+" votre serveur. Voir la documentation sur https://yeswiki.net/?MailPeriod"
+msgstr ""
+"கியூ செட் ஆக்சன் ஃபோன்க்சன் வூச் டிவெச் வெரிஃபையர் சான்றிதழ்கள் பரம எட்ரச் "
+"சுர் வோட்ரே சர்வர். Voir LA ஆவணங்கள் சுர் https://yeswiki.net/?mailperiod"
+
+msgctxt "return[]->'AB_mailinglist_action_label'"
+msgid "Inscrire massivement des mails à une newsletter"
+msgstr "Inscrire massivement des mails à une செய்திமடல்"
+
+msgctxt "return[]->'AB_mailinglist_action_description'"
+msgid ""
+"Action permettant d'inscrire ou désinscrire massivement des mails à une "
+"newsletter"
+msgstr ""
+"ஒரு செய்திமடலுக்கு மின்னஞ்சல்களை பெருமளவில் பதிவுசெய்ய அல்லது "
+"குழுவிலகுவதற்கான நடவடிக்கை"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_USE_LONG_WIKI_URLS_IN_EMAILS'"
+msgid "Ajouter 'wiki=' aux liens vers ce wiki dans les e-mails"
+msgstr ""
+"அசூட்டர் 'விக்கி =' ஆக்ச் லீன்ச் வெர்சச் சி.இ விக்கி டான்ச் லெச் "
+"மின்னஞ்சல்கள்"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_MAIL_FUNC'"
+msgid "Mode d'envoi des mails (\"smtp\" ou \"mail\")"
+msgstr "அஞ்சல் அனுப்பும் முறை (\"SMTP\" அல்லது \"அஞ்சல்\")"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_SMTP_HOST'"
+msgid "Serveur SMTP (ex: \"smtp.mondomaine.ext\")"
+msgstr "Servur smtp (எ.கா: \"smtp.mondomeaine.ext\")"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_SMTP_PORT'"
+msgid "Port SMTP (généralement 465 ou 587)"
+msgstr "SMTP துறைமுகம் (பொதுவாக 465 அல்லது 587)"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_SMTP_USER'"
+msgid "Utilisateur SMTP (souvent le mail)"
+msgstr "SMTP பயனர் (பெரும்பாலும் மின்னஞ்சல்)"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_SMTP_PASS'"
+msgid "Mot de passe SMTP"
+msgstr "SMTP கடவுச்சொல்"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_FROM'"
+msgid ""
+"Utilisateur indiqué comme émetteur du mail (pour éviter les spams doit être "
+"le même que l'utilisateur smtp)"
+msgstr ""
+"மின்னஞ்சல் வழங்குநராக சுட்டிக்காட்டப்பட்ட பயனர் (ச்பேமைத் தவிர்ப்பது SMTP "
+"பயனரைப் போலவே இருக்க வேண்டும்)"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_REPLY_TO'"
+msgid "Utilisateur auquel la réponse mail sera envoyée"
+msgstr "அஞ்சல் பதில் அனுப்பப்படும் பயனர்"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_DEBUG'"
+msgid "Mode verbeux pour débugguer (mettre 2 pour avoir des informations)"
+msgstr "தொடங்குவதற்கு வெர்போச் பயன்முறை (தகவல் பெற 2 வைக்கவும்)"
+
+msgctxt "return[]->'EDIT_CONFIG_GROUP_CONTACT'"
+msgid "Envoi des e-mails"
+msgstr "Envoi des மின்னஞ்சல்கள்"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_CONTACT_DISABLE_EMAIL_FOR_PASSWORD'"
+msgid ""
+"Désactiver l'envoie d'email pour ré-initaliser un mot de passe (ex: LDAP, "
+"SSO)"
+msgstr ""
+"கடவுச்சொல்லை மீட்டமைக்க மின்னஞ்சல் அனுப்பும் முடக்கு (எ.கா: எல்.டி.ஏ.பி, "
+"எச்.எச்.ஓ)"

@@ -1,0 +1,608 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: நிதியியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "accounting concept"
+msgstr "கணக்கியல் கருத்துக்கள்"
+
+msgid "accounting entity concept"
+msgstr "கணக்கியல் தனித்தன்மை கருத்து"
+
+msgid "accounting period concept"
+msgstr "கணக்கியல் காலக் கருத்து"
+
+msgid "accounting year"
+msgstr "கணக்காண்டு"
+
+msgid "accrued expense"
+msgstr "அட்டுறுச் செலவு"
+
+msgid "accrued revenue"
+msgstr "அட்டுறு வருமானம்"
+
+msgid "advance"
+msgstr "முன்பணம்"
+
+msgid "annual general meeting"
+msgstr "ஆண்டு பொதுக் கூட்டம்"
+
+msgid "appreciation (in value)"
+msgstr "மதிப்புயர்வு"
+
+msgid "assets account"
+msgstr "சொத்துக் கணக்கு"
+
+msgid "balance sheet"
+msgstr "ஐந்தொகை, இருப்புநிலைக் குறிப்பு"
+
+msgid "bank"
+msgstr "வைப்பகம்"
+
+msgid "banking ombudsman"
+msgstr "வங்கிய குறைத்தீர்ப்பாணையம்"
+
+msgid "banknote"
+msgstr "பணத்தாள்"
+
+msgid "bearer bond"
+msgstr "கொணர்பவர் கடனீடு"
+
+msgid "bills receivable"
+msgstr "வரவுக்குரிய உண்டியல்கள்"
+
+msgid "board of directors"
+msgstr "இயக்குநரவை, இயக்குநர் வாரியம்"
+
+msgid "bond"
+msgstr "கடனீடு"
+
+msgid "book-keeping"
+msgstr "கணக்கு வைப்பு"
+
+msgid "borrowed capital"
+msgstr "கடன் முதல்"
+
+msgid "bourse"
+msgstr "பங்கு மாற்றகம்"
+
+msgid "branch account(s)"
+msgstr "கிளைக் கணக்கு(கள்)"
+
+msgid "branch adjustment account"
+msgstr "கிளை சரிகட்டும் கணக்கு"
+
+msgid "branch assets account"
+msgstr "கிளை சொத்துக் கணக்கு"
+
+msgid "branch expenses account"
+msgstr "கிளை செலவுக் கணக்கு"
+
+msgid "brand (name)"
+msgstr "முத்திரைப் பெயர்"
+
+msgid "business entity concept"
+msgstr "தொழில் தனித்தன்மை கருத்து"
+
+msgid "call money"
+msgstr "அழைப்புப் பணம்"
+
+msgid "call option"
+msgstr "வாங்கல் சூதம்"
+
+msgid "capital"
+msgstr "மூலதனம்"
+
+msgid "capital reserve"
+msgstr "மூலதனக் காப்பு"
+
+msgid "cash transaction"
+msgstr "ரொக்க நடவடிக்கை"
+
+msgid "challan"
+msgstr "செலுத்துச்சீட்டு"
+
+msgid "chartered accountant"
+msgstr "பட்டயக் கணக்கர்"
+
+msgid "consignment"
+msgstr "அனுப்பீடு"
+
+msgid "convertible debenture"
+msgstr "மாற்றத்தக்க கடன்பத்திரம்"
+
+msgid "cost accounting"
+msgstr "அடக்கவிலை கணக்கவியல்"
+
+msgid "cost audit"
+msgstr "அடக்கமதிப்பு தணிக்கை"
+
+msgid "counterfoil"
+msgstr "எதிரிதழ்"
+
+msgid "credit card"
+msgstr "கடனட்டை"
+
+msgid "credit note"
+msgstr "வரவுக் குறிப்பு"
+
+msgid "credit transaction"
+msgstr "கடன் நடவடிக்கை"
+
+msgid "creditor"
+msgstr "கடனாளர், கடனீந்தர்"
+
+msgid "creditor's ledger"
+msgstr "கடனீந்தோர் பேரேடு"
+
+msgid "currency exchange"
+msgstr "பணமாற்றம், நாணயமாற்றம்"
+
+msgid "currency note"
+msgstr "பணத்தாள்"
+
+msgid "current account"
+msgstr "நடப்பு கணக்கு"
+
+msgid "current asset"
+msgstr "நடப்பு சொத்து"
+
+msgid "day trading"
+msgstr "பகல் வணிகம்"
+
+msgid "debenture"
+msgstr "கடனியம்"
+
+msgid "debit balance"
+msgstr "பற்று நிலுவை"
+
+msgid "debit card"
+msgstr "பற்றட்டை"
+
+msgid "debt collector"
+msgstr "கடன்மீட்பர்"
+
+msgid "debt instrument"
+msgstr "கடன் பத்திரம்"
+
+msgid "debtor"
+msgstr "கடனாளி"
+
+msgid "debtor's ledger"
+msgstr "கடனாளிகள் பேரேடு"
+
+msgid "deflation"
+msgstr "பணவாட்டம்"
+
+msgid "demand"
+msgstr "தேவைப்பாடு"
+
+msgid "departmental account"
+msgstr "துறைவாரி கணக்கு, திணைக்களக் கணக்கு"
+
+msgid "dependant branch(es)"
+msgstr "சார்பு கிளை(கள்)"
+
+msgid "deposit"
+msgstr "வைப்புத்தொகை"
+
+msgid "depositor"
+msgstr "வைப்புத்தொகையாளர்"
+
+msgid "depreciation"
+msgstr "தேய்மானம்"
+
+msgid "derivative"
+msgstr "சார்பியம்"
+
+msgid "diminution (in value)"
+msgstr "மதிப்பிழப்பு"
+
+msgid "direct expense(s)"
+msgstr "நேரடி செலவினம்(ங்கள்)"
+
+msgid "dividend"
+msgstr "பங்காதாயம், ஈவுத்தொகை"
+
+msgid "dividend coupon"
+msgstr "பங்காதயச் சீட்டு"
+
+msgid "dividend warrant"
+msgstr "பங்காதாய உரிமையாணை"
+
+msgid "double-entry accounting"
+msgstr "இரட்டைப் பதிவு கணக்கியல்"
+
+msgid "electronic funds transfer"
+msgstr "மின்னணு நிதி மாற்றல், நிதி மின்மாற்றல்"
+
+msgid "employee provident fund"
+msgstr "ஊழியர் சேமநிதி"
+
+msgid "entry load"
+msgstr "நுழைவு கட்டணம்"
+
+msgid "erection expense"
+msgstr "நிறுவுச் செலவு"
+
+msgid "exit load"
+msgstr "வெளியேறு கட்டணம்"
+
+msgid "expenses payable"
+msgstr "செலுத்தவேண்டிய செலவுகள்"
+
+msgid "face value"
+msgstr "முகமதிப்பு"
+
+msgid "fictitous asset(s)"
+msgstr "கற்பனைச் சொத்து(க்கள்)"
+
+msgid "final account"
+msgstr "இறுதி கணக்கு"
+
+msgid "finance & accounting"
+msgstr "நிதியியல் & கணக்கியல்"
+
+msgid "financial accounting"
+msgstr "நிதிநிலைக் கணக்கியல்"
+
+msgid "fixed asset"
+msgstr "நிலையான சொத்து"
+
+msgid "fixed capital"
+msgstr "நிலை மூலதனம்"
+
+msgid "fluctuating capital"
+msgstr "மாறும் மூலதனம்"
+
+msgid "forwarding"
+msgstr "மேலனுப்புகை"
+
+msgid "futures trading"
+msgstr "முன்பேர வணிகம், முன்பேர வர்த்தகம்"
+
+msgid "general ledger"
+msgstr "பொது பேரேடு"
+
+msgid "general partnership"
+msgstr "பொதுக் கூட்டாண்மை"
+
+msgid "gilt fund"
+msgstr "உயர் பாதுகாப்பு நிதி"
+
+msgid "going concern concept"
+msgstr "நிறுவனத் தொடர்ச்சி கருத்து"
+
+msgid "government company"
+msgstr "அரசு நிறுமம்"
+
+msgid "hire purchase"
+msgstr "தவணைமுறைக் கொள்முதல்"
+
+msgid "immovable property"
+msgstr "அசையாச் சொத்து"
+
+msgid "income and expenditure account"
+msgstr "வரவு செலவுக் கணக்கு"
+
+msgid "independent branch(es)"
+msgstr "தனித்தியங்கும் கிளை(கள்)"
+
+msgid "indirect expense(s)"
+msgstr "மறைமுக செலவினம்(ங்கள்)"
+
+msgid "individual depositor account"
+msgstr "தனிநபர் வைப்புத்தொகையாளர் கணக்கு"
+
+msgid "inflation"
+msgstr "பணவீக்கம்"
+
+msgid "initial public offer"
+msgstr "பங்கு வெளியீடு திட்டம்"
+
+msgid "insolvency"
+msgstr "நொடிப்பு"
+
+msgid "instrument of transfer"
+msgstr "உரிமை மாற்றுப் பத்திரம்"
+
+msgid "intangible asset(s)"
+msgstr "புலனாகாத சொத்து(க்கள்)"
+
+msgid "interest account"
+msgstr "வட்டிக் கணக்கு"
+
+msgid "inventories"
+msgstr "இருப்புச் சரக்கு"
+
+msgid "investment company"
+msgstr "முதலீட்டு நிறுமம்"
+
+msgid "joint stock company"
+msgstr "கூட்டுப் பங்கு நிறுமம்"
+
+msgid "joint venture"
+msgstr "இணைவினை, கூட்டு முயற்சி"
+
+msgid "ledger"
+msgstr "பேரேடு"
+
+msgid "limited company"
+msgstr "வரையறுக்கப்பட்ட நிறுமம்"
+
+msgid "limited partnership"
+msgstr "வரையறுத்தக் கூட்டாண்மை"
+
+msgid "loose leaf ledger"
+msgstr "விடுதாள் பேரேடு"
+
+msgid "magnetic ink charecter recognition (micr)"
+msgstr "காந்தெழுத்துணர்(வு)"
+
+msgid "market price"
+msgstr "சந்தை விலை"
+
+msgid "memorandum of understanding"
+msgstr "புரிந்துணர்வு ஒப்பந்தம்"
+
+msgid "merchandise"
+msgstr "வணிகச்சரக்கு"
+
+msgid "merchantile agent"
+msgstr "வணிக முகவர்"
+
+msgid "micr checque"
+msgstr "காந்தெழுத்துணர் காசோலை"
+
+msgid "money transfer"
+msgstr "பணமாற்றல்"
+
+msgid "mutual fund"
+msgstr "பரஸ்பர நிதி, சமநல நிதி"
+
+msgid "net asset value"
+msgstr "நிகர சொத்து மதிப்பு"
+
+msgid "net worth"
+msgstr "நிகர மதிப்பு"
+
+msgid "nominal asset(s)"
+msgstr "பெயரளவுச் சொத்து(க்கள்)"
+
+msgid "non-corporate enterprise"
+msgstr "கூட்டுருவாக்கம் பெறாத நிறுவனம்"
+
+msgid "obsolescence"
+msgstr "வழக்கற்றுப் போதல், வழக்கொழிந்த"
+
+msgid "open cheque"
+msgstr "கீறாக் காசோலை"
+
+msgid "option"
+msgstr "சூதம்"
+
+msgid "overdraft"
+msgstr "மேல்வரைப்பற்று"
+
+msgid "overhead"
+msgstr "மேற்செலவு"
+
+msgid "particular partnership"
+msgstr "குறிப்பிட்டக் கூட்டாண்மை"
+
+msgid "partition"
+msgstr "பிரிவினை"
+
+msgid "partner by estoppel"
+msgstr "முரண்தடை கூட்டாளி"
+
+msgid "partner by holding out"
+msgstr "உரிமைப் போலிக் கூட்டாளி"
+
+msgid "partnership"
+msgstr "கூட்டாண்மை"
+
+msgid "partnership deed"
+msgstr "கூட்டாண்மை ஒப்பாவணம்"
+
+msgid "partnership-at-will"
+msgstr "விருப்ப முறிக் கூட்டாண்மை"
+
+msgid "payments and receipts account"
+msgstr "செலுத்தல் பெறுதல் கணக்கு"
+
+msgid "petty cash"
+msgstr "சில்லரை ரொக்கம்"
+
+msgid "petty expense(s)"
+msgstr "சில்லரைச் செலவு(கள்)"
+
+msgid "planning period"
+msgstr "திட்டக் காலம்"
+
+msgid "policy"
+msgstr "கொள்கை"
+
+msgid "preferred share"
+msgstr "முன்னுரிமைப் பங்கு"
+
+msgid "preliminary expense"
+msgstr "தொடக்க செலவினம்"
+
+msgid "proceeding(s)"
+msgstr "நடவடிக்கை(கள்)"
+
+msgid "produce exchange"
+msgstr "விளைபொருள் மாற்றகம்"
+
+msgid "profit tax"
+msgstr "லாப வரி"
+
+msgid "proforma invoice"
+msgstr "வாங்குபொருள் விவரப்பட்டி"
+
+msgid "promissory note"
+msgstr "கடன் வாக்குறுதி"
+
+msgid "property account"
+msgstr "சொத்துக் கணக்கு"
+
+msgid "proporsal form"
+msgstr "காப்பீடு விண்ணப்பம், காப்புறுதி விண்ணப்பம்"
+
+msgid "proportional reserve system"
+msgstr "விகித காப்பு முறை"
+
+msgid "provident fund"
+msgstr "சேமநிதி"
+
+msgid "provision"
+msgstr "ஒதுக்கீடு"
+
+msgid "provision"
+msgstr "ஒதுக்கு"
+
+msgid "public corporation"
+msgstr "பொதுக் கூட்டுரு"
+
+msgid "public deposit"
+msgstr "பொது வைப்பு"
+
+msgid "public limited company"
+msgstr "வரையறுக்கப்பட்ட பொது நிறுமம்"
+
+msgid "published reserve"
+msgstr "வெளிப்படுத்தப்பட்டக் காப்பு"
+
+msgid "purchase order"
+msgstr "கொள்முதல் ஆணை"
+
+msgid "purchase returns book"
+msgstr "கொள்முதல் திருப்ப ஏடு"
+
+msgid "purchases book"
+msgstr "கொள்முதல் ஏடு"
+
+msgid "put option"
+msgstr "விற்றல் சூதம்"
+
+msgid "receipt"
+msgstr "பற்றுச்சீட்டு"
+
+msgid "rectification entry"
+msgstr "பிழை திருத்தப் பதிவுகள்"
+
+msgid "registration charge(s)"
+msgstr "பதிவுக் கட்டணம்(ங்கள்)"
+
+msgid "repo (repurchase agreement)"
+msgstr "மீள்வணிகம்"
+
+msgid "repo rate"
+msgstr "மீள்வாங்கல் வீதம்"
+
+msgid "reserve"
+msgstr "காப்பு"
+
+msgid "reserve fund"
+msgstr "காப்பு நிதி"
+
+msgid "revenue loss"
+msgstr "நடப்பிழப்பு"
+
+msgid "revenue reserve"
+msgstr "நடப்புக் காப்பு"
+
+msgid "risk"
+msgstr "இடர்"
+
+msgid "sales budget"
+msgstr "விற்பனை பொக்கீடு"
+
+msgid "sales returns book"
+msgstr "விறிபனை திருப்ப ஏடு"
+
+msgid "secret reserve"
+msgstr "இரகசியக் காப்பு"
+
+msgid "self balancing ledger"
+msgstr "தானே சரிகட்டிக்கொள்ளும் பேரேடு"
+
+msgid "seperate legal entity"
+msgstr "தனி சட்டஉரு"
+
+msgid "share"
+msgstr "பங்கு"
+
+msgid "share capital"
+msgstr "பங்கு மூலதனம்"
+
+msgid "share warrant"
+msgstr "பங்கு சான்றாணை"
+
+msgid "simple interest"
+msgstr "தனி வட்டி"
+
+msgid "single-entry system"
+msgstr "ஒற்றைப் பதிவு கணக்குமுறை"
+
+msgid "sinking fund"
+msgstr "கடனடைப்பு நிதி"
+
+msgid "sole proprietor"
+msgstr "தனிநபர் உரிமையாளர்"
+
+msgid "sole proprietorship/tradership"
+msgstr "தனியாள் வணிகம் (முறை)"
+
+msgid "sponsorship"
+msgstr "நல்கை"
+
+msgid "stock broker"
+msgstr "பங்குத் தரகர்"
+
+msgid "stock exchange"
+msgstr "பங்கு மாற்றகம்"
+
+msgid "stock market"
+msgstr "பங்குச் சந்தை"
+
+msgid "stock sheet"
+msgstr "சரக்குப் பட்டியல்"
+
+msgid "supply"
+msgstr "அளிப்பு"
+
+msgid "term deposite"
+msgstr "பருவகால வைப்பு"
+
+msgid "treasury bill"
+msgstr "கருவூல உறுதிச்சீட்டு"
+
+msgid "trial balance"
+msgstr "இருப்புநிலை சோதனை"
+
+msgid "trust account"
+msgstr "காப்பாளர் கணக்கு, தர்மகர்த்தா கணக்கு"
+
+msgid "unearned income"
+msgstr "ஈட்டப்படாத வருமானம்"
+
+msgid "unrestricted liability"
+msgstr "வரையறையற்றப் பொறுப்பு"
+
+msgid "value added tax"
+msgstr "மதிப்புக் கூட்டு வரி"
+
+msgid "voucher"
+msgstr "சான்றுச்சீட்டு"

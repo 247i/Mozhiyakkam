@@ -1,0 +1,1458 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (KitchenOwl)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-04 22:03+0200\n"
+"PO-Revision-Date: 2025-01-19 07:37+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/kitchenowl/kitchenowl/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
+
+#, icu-message-format
+msgctxt "about"
+msgid "About"
+msgstr "விவரம்"
+
+#, icu-message-format
+msgctxt "accountCreate"
+msgid "Create account"
+msgstr "புதிய கணக்கு"
+
+#, icu-message-format
+msgctxt "accountCreateHint"
+msgid ""
+"Your username and name are public, so pick something you're comfortable "
+"sharing with others."
+msgstr ""
+"உங்கள் பெயர் மற்றும் பயனர்பெயர் வெளிப்படையானவை. எனவே பிறறோடு பகிரும் "
+"நோக்கத்தோடு அமைத்துக்கொள்ளவும்."
+
+#, icu-message-format
+msgctxt "accountCreateTitle"
+msgid "Create your KitchenOwl account"
+msgstr "உங்கள் கிச்சன் அவுல் கணக்கை உருவாக்க"
+
+#, icu-message-format
+msgctxt "accountDelete"
+msgid "Delete account"
+msgstr "கணக்கை நீக்கு"
+
+#, icu-message-format
+msgctxt "accountDeleteConfirmation"
+msgid "Are you sure you want to delete your account?"
+msgstr "உங்கள் கணக்கு நீக்கப்படும். சம்மதமா?"
+
+#, icu-message-format
+msgctxt "accountLinkedWithOtherUser"
+msgid "Account already linked to another user"
+msgstr "கணக்கு வேறொரு பயனருடன் தொடர்புடையது"
+
+#, icu-message-format
+msgctxt "accountsLinked"
+msgid "Linked accounts"
+msgstr "இணைக்கப்பட்ட கணக்குகள்"
+
+#, icu-message-format
+msgctxt "add"
+msgid "Add"
+msgstr "சேர்க்க"
+
+#, icu-message-format
+msgctxt "addCategory"
+msgid "Add category"
+msgstr "புதிய வகை சேர்க்க"
+
+#, icu-message-format
+msgctxt "addDescriptionFromSource"
+msgid "Add description from source"
+msgstr "மூலத்திலிருந்து விளக்கத்தைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "addItemTitle"
+msgid "Add items"
+msgstr "உருப்படிகளைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "addLanguage"
+msgid "Add language"
+msgstr "புதிய மொழியை சேர்க்க"
+
+#, case-insensitive, icu-message-format, placeholders:$LANG$
+msgctxt "addLanguageConfirm"
+msgid ""
+"Are you sure you want to set the language to '{lang}'? This cannot be undone"
+" and will add items and categories to your household."
+msgstr ""
+"மொழியை '{lang}' என அமைக்க விரும்புகிறீர்களா? இது செயல்தவிர்க்க முடியாது, "
+"மேலும் உங்கள் வீட்டுக்கு உருப்படிகளையும் வகைகளையும் சேர்க்கும்."
+
+#, case-insensitive, icu-message-format, placeholders:$NUMBER$
+msgctxt "addNumberIngredients"
+msgid "Add {number} ingredients"
+msgstr "{number} பொருட்களைச் சேர்க்கவும்"
+
+#, case-insensitive, icu-message-format, placeholders:$NUMBER$
+msgctxt "addRecipeToPlanner"
+msgid "Add to meal plan ({number} serves)"
+msgstr "உணவுத் திட்டத்தில் சேர்க்கவும் ({number} பணி செய்கிறது)"
+
+#. A shorter title/button text used wherever the space is limited. Excludes
+#. the number of yields.
+#, icu-message-format
+msgctxt "addRecipeToPlannerShort"
+msgid "Add to meal plan"
+msgstr "உணவு திட்டத்தில் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "addShoppingList"
+msgid "Add shopping list"
+msgstr "புதிய ஷாப்பிங் பட்டியல்"
+
+#, icu-message-format
+msgctxt "addTag"
+msgid "Add tag"
+msgstr "குறிச்சொல்லைச் சேர்க்கவும்"
+
+#, case-insensitive, icu-message-format, placeholders:$NAME$
+msgctxt "addedBy"
+msgid "Added by {name}"
+msgstr "{name} ஆல் சேர்க்கப்பட்டது"
+
+#, icu-message-format
+msgctxt "address"
+msgid "Address"
+msgstr "முகவரி"
+
+#, icu-message-format
+msgctxt "admin"
+msgid "Admin"
+msgstr "நிர்வாகி"
+
+#, icu-message-format
+msgctxt "analysingWebsite"
+msgid "Analysing website..."
+msgstr "வலைத்தளத்தை பகுப்பாய்வு செய்தல் ..."
+
+#, icu-message-format
+msgctxt "appDescription"
+msgid "KitchenOwl helps you organize your grocery life."
+msgstr "கிச்சன்அவுல் உங்கள் மளிகை பொருள் விவரங்களை ஒழுங்குபடுத்த உதவுகிறது."
+
+#. The title of the app
+#, icu-message-format
+msgctxt "appTitle"
+msgid "KitchenOwl"
+msgstr "கிச்சன்அவுல்"
+
+#, icu-message-format
+msgctxt "back"
+msgid "Back"
+msgstr "பின்"
+
+#, icu-message-format
+msgctxt "balances"
+msgid "Balances"
+msgstr "கையிருப்பு"
+
+#, icu-message-format, ignore-same
+msgctxt "budget"
+msgid "Budget"
+msgstr "பட்ஜெட்"
+
+#, icu-message-format
+msgctxt "budgetSet"
+msgid "Set budget"
+msgstr "பட்ஜெட் போட"
+
+#, icu-message-format
+msgctxt "camera"
+msgid "Camera"
+msgstr "கேமரா"
+
+#, icu-message-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்து"
+
+#, icu-message-format
+msgctxt "categories"
+msgid "Categories"
+msgstr "வகைகள்"
+
+#, icu-message-format
+msgctxt "categoriesMerge"
+msgid "Merge categories"
+msgstr "வகைகளை சேர்"
+
+#, icu-message-format
+msgctxt "category"
+msgid "Category"
+msgstr "வகை"
+
+#, icu-message-format
+msgctxt "categoryDelete"
+msgid "Delete category"
+msgstr "வகையை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$CATEGORY$
+msgctxt "categoryDeleteConfirmation"
+msgid ""
+"Are you sure you want to delete {category}? This will remove the category "
+"from all items."
+msgstr ""
+"{category} நீக்கப்படும், சம்மதமா? இது அனைத்து பொருட்களிலிருந்தும் இவ்வகையை "
+"நீக்கிவிடும்."
+
+#, icu-message-format
+msgctxt "categoryEdit"
+msgid "Edit category"
+msgstr "வகையை திருத்த"
+
+#, case-insensitive, icu-message-format, placeholders:$CATEGORY$
+msgctxt "categoryExpenseDeleteConfirmation"
+msgid ""
+"Are you sure you want to delete {category}? This will remove the category "
+"from all expenses."
+msgstr ""
+"{category} நீக்கப்படும், சம்மதமா? செலவுகள் அனைத்திலிருந்தும் இவ்வகை "
+"நீக்கப்படும்."
+
+#, icu-message-format
+msgctxt "changeIcon"
+msgid "Change icon"
+msgstr "ஐகானை மாற்றவும்"
+
+#, icu-message-format
+msgctxt "clear"
+msgid "Clear"
+msgstr "தெளிவான"
+
+#, icu-message-format
+msgctxt "colorSelect"
+msgid "Select a color"
+msgstr "நிறத்தை தேர்ந்தெடு"
+
+#, icu-message-format
+msgctxt "confirm"
+msgid "Confirm"
+msgstr "உறுதிபடுத்து"
+
+#, icu-message-format
+msgctxt "cookingTime"
+msgid "Cooking time"
+msgstr "சமையல் நேரம்"
+
+#, icu-message-format
+msgctxt "copied"
+msgid "Copied"
+msgstr "நகலெடுக்கப்பட்டது"
+
+#, icu-message-format
+msgctxt "daily"
+msgid "Daily"
+msgstr "தினமும்"
+
+#, icu-message-format
+msgctxt "dangerZone"
+msgid "Danger Zone"
+msgstr "ஆபத்தான பகுதி"
+
+#, icu-message-format
+msgctxt "darkmode"
+msgid "Dark mode"
+msgstr "இருண்ட பயன்முறை"
+
+#, icu-message-format
+msgctxt "date"
+msgid "Date"
+msgstr "தேதி"
+
+#, icu-message-format
+msgctxt "defaultKey"
+msgid "Default key"
+msgstr "இயல்புநிலை விசை"
+
+#, icu-message-format
+msgctxt "defaultWord"
+msgid "Default"
+msgstr "இயல்பு"
+
+#, icu-message-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "description"
+msgid "Description"
+msgstr "விளக்கம்"
+
+#, icu-message-format
+msgctxt "done"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#, icu-message-format
+msgctxt "dynamicAccentColor"
+msgid "Dynamic accent color"
+msgstr "மாறும் உச்சரிப்பு நிறம்"
+
+#, icu-message-format
+msgctxt "email"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#, icu-message-format
+msgctxt "emailInvalid"
+msgid "Invalid email"
+msgstr "தவறான மின்னஞ்சல்"
+
+#, icu-message-format
+msgctxt "emailNotVerified"
+msgid "Not verified"
+msgstr "சரிபார்க்கப்படவில்லை"
+
+#, icu-message-format
+msgctxt "emailResendVerification"
+msgid "Resend verification email"
+msgstr "சரிபார்ப்பு மின்னஞ்சலை மீண்டும் அனுப்பு"
+
+#, icu-message-format
+msgctxt "emailSuccessfullyVerified"
+msgid "Email successfully verified!"
+msgstr "மின்னஞ்சல் சரிபார்க்கப்பட்டது!"
+
+#, icu-message-format
+msgctxt "emailUpdate"
+msgid "Update email"
+msgstr "மின்னஞ்சலை மேம்படுத்து"
+
+#, icu-message-format
+msgctxt "emailUsed"
+msgid "The email is already associated with an account"
+msgstr "இந்த மின்னஞ்சல் வேறொரு கணக்கில் பயன்படுத்தப்பட்டுள்ளது"
+
+#, icu-message-format
+msgctxt "error"
+msgid "An error occurred"
+msgstr "பிழை ஏற்பட்டுவிட்டது"
+
+#, icu-message-format
+msgctxt "excludeFromStatistics"
+msgid "Exclude from statistics"
+msgstr "புள்ளிவிவரங்களில் சேர்க்க வேண்டாம்"
+
+#, icu-message-format
+msgctxt "expense"
+msgid "Expense"
+msgstr "செலவு"
+
+#, icu-message-format
+msgctxt "expenseAdd"
+msgid "Add expense"
+msgstr "செலவை சேர்க்க"
+
+#, icu-message-format
+msgctxt "expenseAmount"
+msgid "Amount"
+msgstr "தொகை"
+
+#, icu-message-format
+msgctxt "expenseCategories"
+msgid "Expense categories"
+msgstr "செலவு வகைகள்"
+
+#, icu-message-format
+msgctxt "expenseEdit"
+msgid "Edit expense"
+msgstr "செலவை திருத்து"
+
+#, icu-message-format
+msgctxt "expenseEmpty"
+msgid "No expenses, start by creating one!"
+msgstr "செலவுகள் இல்லை. புதிதாக ஒன்றை சேர்க்கவும்!"
+
+#, icu-message-format
+msgctxt "expenseFactor"
+msgid "Factor"
+msgstr "காரணி"
+
+#, icu-message-format
+msgctxt "expenseOverviewComparedToPreviousMonth"
+msgid "Compared to previous months"
+msgstr "சென்ற மாதத்துடன் ஒப்பிடுகையில்"
+
+#, case-insensitive, icu-message-format, placeholders:$MONTH$
+msgctxt "expenseOverviewTotalTitle"
+msgid "Total expenses for {month}:"
+msgstr "{month} மாதத்தின் மொத்த செலவுகள்:"
+
+#, icu-message-format
+msgctxt "expensePaidBy"
+msgid "Paid by"
+msgstr "பணம் செலுத்தியது"
+
+#, icu-message-format
+msgctxt "expensePaidFor"
+msgid "Paid for"
+msgstr "பணம் செலுத்தப்பட்டது"
+
+#, icu-message-format
+msgctxt "expenseReceivedBy"
+msgid "Received by"
+msgstr "பெறப்பட்டது"
+
+#, icu-message-format
+msgctxt "expenseReceivedFor"
+msgid "Received for"
+msgstr "இவருக்காகப் பெறப்பட்டது"
+
+#, icu-message-format
+msgctxt "export"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, icu-message-format
+msgctxt "features"
+msgid "Features"
+msgstr "அம்சங்கள்"
+
+#, case-insensitive, icu-message-format, placeholders:$FIELD$
+msgctxt "fieldCannotBeEmpty"
+msgid "{field} cannot be empty."
+msgstr "{field} காலியாக இருக்கமுடியாது."
+
+#, icu-message-format
+msgctxt "forceOfflineMode"
+msgid "Force offline mode"
+msgstr "இணைப்பில்லாத பயன்முறையை கட்டாயப்படுத்துங்கள்"
+
+#, icu-message-format
+msgctxt "gallery"
+msgid "Gallery"
+msgstr "தொகுப்பு"
+
+#, icu-message-format
+msgctxt "general"
+msgid "General"
+msgstr "பொது"
+
+#, icu-message-format
+msgctxt "go"
+msgid "Go"
+msgstr "போ"
+
+#, icu-message-format
+msgctxt "grid"
+msgid "Grid"
+msgstr "வலைவாய்"
+
+#, icu-message-format
+msgctxt "helpTranslate"
+msgid "Help translate"
+msgstr "மொழிபெயர்ப்பில் உதவ"
+
+#, case-insensitive, icu-message-format, placeholders:$NAME$
+msgctxt "hi"
+msgid "Hi {name}!"
+msgstr "ஆய் {name}!"
+
+#, icu-message-format
+msgctxt "household"
+msgid "Household"
+msgstr "வீடு"
+
+#, icu-message-format
+msgctxt "householdDelete"
+msgid "Delete household"
+msgstr "வீட்டை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$HOUSEHOLD$
+msgctxt "householdDeleteConfirmation"
+msgid ""
+"Are you sure you want to delete {household}? This will delete any items, "
+"recipes, and expenses associated with that household."
+msgstr ""
+"{household} ஐ நீக்க விரும்புகிறீர்களா? இது அந்த வீட்டோடு தொடர்புடைய எந்தவொரு"
+" உருப்படிகள், சமையல் குறிப்புகள் மற்றும் செலவுகளை நீக்கிவிடும்."
+
+#, icu-message-format
+msgctxt "householdEmpty"
+msgid "No households, start by creating one!"
+msgstr "வீடுகள் ஏதுமில்லை, புதிதாக ஒன்றை சேர்க்கவும்!"
+
+#, icu-message-format
+msgctxt "householdLeave"
+msgid "Leave household"
+msgstr "வீட்டை விட்டு வெளியேறு"
+
+#, case-insensitive, icu-message-format, placeholders:$HOUSEHOLD$
+msgctxt "householdLeaveConfirmation"
+msgid "Are you sure you want to leave {household}?"
+msgstr "{household} விட்டு வெளியேற சம்மதமா?"
+
+#, icu-message-format
+msgctxt "householdNew"
+msgid "New household"
+msgstr "புதிய வீடு"
+
+#, icu-message-format
+msgctxt "householdSwitch"
+msgid "Switch household"
+msgstr "வீட்டை மாற்ற"
+
+#, icu-message-format
+msgctxt "households"
+msgid "Households"
+msgstr "வீடுகள்"
+
+#, icu-message-format
+msgctxt "icon"
+msgid "Icon"
+msgstr "படவுரு"
+
+#, icu-message-format
+msgctxt "imageSelect"
+msgid "Select an image"
+msgstr "ஒரு படத்தைத் தேர்ந்தெடுக்கவும்"
+
+#, icu-message-format
+msgctxt "import"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#, icu-message-format
+msgctxt "importStartedHint"
+msgid "Import started, this may take a few minutes."
+msgstr "இறக்குமதி துவங்கியது, இது முடிய சில நிமிடங்கள் ஆகலாம்."
+
+#, icu-message-format
+msgctxt "income"
+msgid "Income"
+msgstr "வரவு"
+
+#, icu-message-format
+msgctxt "ingredients"
+msgid "Ingredients"
+msgstr "உட்பொருட்கள்"
+
+#, icu-message-format
+msgctxt "ingredientsOptional"
+msgid "Optional ingredients"
+msgstr "கட்டாயமில்லாத உட்பொருட்கள்"
+
+#, icu-message-format
+msgctxt "itemDelete"
+msgid "Delete item"
+msgstr "பொருளை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$ITEM$
+msgctxt "itemDeleteConfirmation"
+msgid ""
+"Are you sure you want to delete {item}? This will remove the item from any "
+"recipe containing it."
+msgstr ""
+"{item} நீக்க விரும்புகிறீர்களா? இது உருப்படியைக் கொண்ட எந்த "
+"செய்முறையிலிருந்தும் அகற்றும்."
+
+#, icu-message-format
+msgctxt "itemRemoveInteraction"
+msgid "Remove item interaction"
+msgstr "உருப்படி தொடர்புகளை அகற்று"
+
+#, icu-message-format
+msgctxt "itemSize"
+msgid "Item size"
+msgstr "உருப்படி அளவு"
+
+#, icu-message-format
+msgctxt "items"
+msgid "Items"
+msgstr "உருப்படிகள்"
+
+#, icu-message-format
+msgctxt "itemsAdd"
+msgid "Add items"
+msgstr "உருப்படிகளைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "itemsMerge"
+msgid "Merge items"
+msgstr "உருப்படிகளை ஒன்றிணைக்கவும்"
+
+#, case-insensitive, icu-message-format, placeholders:$ITEM$:$OTHER$
+msgctxt "itemsMergeConfirmation"
+msgid ""
+"Are you sure you want to merge {item} and {other}? This cannot be undone."
+msgstr ""
+"நீங்கள் நிச்சயமாக {item} மற்றும் {other} ஒன்றிணைக்க விரும்புகிறீர்களா? இதை "
+"செயல்தவிர்க்க முடியாது."
+
+#, icu-message-format
+msgctxt "itemsOptional"
+msgid "Optional items"
+msgstr "விருப்ப உருப்படிகள்"
+
+#, icu-message-format
+msgctxt "itemsRecent"
+msgid "Recent items"
+msgstr "அண்மைக் கால உருப்படிகள்"
+
+#, icu-message-format
+msgctxt "language"
+msgid "Language"
+msgstr "மொழி"
+
+#, icu-message-format
+msgctxt "languageSelect"
+msgid "Select a language"
+msgstr "ஒரு மொழியைத் தேர்ந்தெடுக்கவும்"
+
+#, icu-message-format
+msgctxt "larger"
+msgid "Larger"
+msgstr "பெரியது"
+
+#, icu-message-format
+msgctxt "lastUsed"
+msgid "Last used"
+msgstr "கடைசியாக பயன்படுத்தப்பட்டது"
+
+#. As in link social account (e.g. Google)
+#, icu-message-format
+msgctxt "link"
+msgid "Link"
+msgstr "இணைப்பு"
+
+#, icu-message-format
+msgctxt "list"
+msgid "List"
+msgstr "பட்டியல்"
+
+#, icu-message-format
+msgctxt "lltCreate"
+msgid "Create long-lived token"
+msgstr "நீண்ட கால கிள்ளாக்கை உருவாக்கவும்"
+
+#, icu-message-format
+msgctxt "lltDelete"
+msgid "Delete long-lived token"
+msgstr "நீண்ட கால கிள்ளாக்கை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$TOKEN$
+msgctxt "lltDeleteConfirmation"
+msgid ""
+"Are you sure you want to delete long-lived token '{token}'? This cannot be "
+"undone."
+msgstr ""
+"நீண்ட கால கிள்ளாக்கு '{token}' ஐ நீக்க விரும்புகிறீர்களா? இதை செயல்தவிர்க்க "
+"முடியாது."
+
+#, icu-message-format
+msgctxt "lltNotShownAgain"
+msgid "Save the token; you won't be able to see it again"
+msgstr "கிள்ளாக்கை சேமிக்கவும்; நீங்கள் அதை மீண்டும் பார்க்க முடியாது"
+
+#, icu-message-format
+msgctxt "lltWarningContent"
+msgid ""
+"Are you sure you want to create a long-lived token? This could potentially "
+"be a security risk. The token does not expire and gives full access to your "
+"account."
+msgstr ""
+"நீங்கள் நீண்ட கால கிள்ளாக்கை உருவாக்க விரும்புகிறீர்களா? இது பாதுகாப்பு "
+"அபாயமாக இருக்கலாம். கிள்ளாக்கு காலாவதியாகாது மற்றும் உங்கள் கணக்கிற்கு முழு "
+"அணுகலை வழங்குகிறது."
+
+#, icu-message-format
+msgctxt "lltWarningTitle"
+msgid "Do you know what you're doing?"
+msgstr "நீங்கள் என்ன செய்கிறீர்கள் என்று உங்களுக்குத் தெரியுமா?"
+
+#, icu-message-format
+msgctxt "llts"
+msgid "Long-lived tokens"
+msgstr "நீண்ட கால டோக்கன்கள்"
+
+#, icu-message-format
+msgctxt "login"
+msgid "Login"
+msgstr "புகுபதிவு"
+
+#, icu-message-format
+msgctxt "loginTo"
+msgid "Login to"
+msgstr "உள்நுழைவு"
+
+#, icu-message-format
+msgctxt "logout"
+msgid "Logout"
+msgstr "வெளியேற்றம்"
+
+#, case-insensitive, icu-message-format, placeholders:$NAME$
+msgctxt "logoutName"
+msgid "Logout {name}"
+msgstr "வெளியேறு {name}"
+
+#, icu-message-format
+msgctxt "longerThanExpected"
+msgid "This is taking longer than expected"
+msgstr "இது எதிர்பார்த்ததை விட அதிக நேரம் எடுக்கும்"
+
+#, icu-message-format
+msgctxt "longPressToReorder"
+msgid "Long press to reorder"
+msgstr "மறுவரிசைப்படுத்த நீண்ட அழுத்தவும்"
+
+#, icu-message-format
+msgctxt "markAsPaid"
+msgid "Mark as paid"
+msgstr "பணம் செலுத்தியதாக குறிக்கவும்"
+
+#, icu-message-format
+msgctxt "mealPlanner"
+msgid "Meal planner"
+msgstr "உணவு திட்டமிடுபவர்"
+
+#, icu-message-format
+msgctxt "member"
+msgid "Member"
+msgstr "உறுப்பினர்"
+
+#, icu-message-format
+msgctxt "memberAdd"
+msgid "Add member"
+msgstr "உறுப்பினரைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "memberRemove"
+msgid "Remove member"
+msgstr "உறுப்பினரை அகற்று"
+
+#, icu-message-format
+msgctxt "members"
+msgid "Members"
+msgstr "உறுப்பினர்கள்"
+
+#, icu-message-format
+msgctxt "merge"
+msgid "Merge"
+msgstr "ஒன்றிணைக்கவும்"
+
+#, icu-message-format
+msgctxt "minutesAbbrev"
+msgid "min"
+msgstr "மணித்துளி"
+
+#, icu-message-format
+msgctxt "moneyTransfer"
+msgid "Money transfer"
+msgstr "பணமாற்றல்"
+
+#, icu-message-format
+msgctxt "monthly"
+msgid "Monthly"
+msgstr "மாதாந்திர"
+
+#, icu-message-format
+msgctxt "more"
+msgid "More"
+msgstr "மேலும்"
+
+#, icu-message-format
+msgctxt "name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, icu-message-format
+msgctxt "next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, icu-message-format
+msgctxt "noTags"
+msgid "No tags"
+msgstr "குறிச்சொற்கள் இல்லை"
+
+#, icu-message-format
+msgctxt "none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, icu-message-format
+msgctxt "now"
+msgid "Now"
+msgstr "இப்போது"
+
+#, icu-message-format
+msgctxt "offlineMessage"
+msgid "You're offline"
+msgstr "நீங்கள் இணைப்பில்லாத"
+
+#, icu-message-format
+msgctxt "okay"
+msgid "Okay"
+msgstr "சரி"
+
+#, icu-message-format
+msgctxt "onboardingLoading"
+msgid "Importing language, this could take a while. Please be patient :)"
+msgstr ""
+"மொழியை இறக்குமதி செய்வது, இதற்கு சிறிது நேரம் ஆகலாம். தயவுசெய்து பொறுமையாக "
+"இருங்கள் :)"
+
+#, case-insensitive, icu-message-format, placeholders:$NAME$
+msgctxt "onboardingSettingsTitle"
+msgid "Hi {name}, let's set up the server!"
+msgstr "ஆய் {name}, சேவையகத்தை அமைப்போம்!"
+
+#, icu-message-format
+msgctxt "onboardingTitle"
+msgid "Let's create a user"
+msgstr "ஒரு பயனரை உருவாக்குவோம்"
+
+#, icu-message-format
+msgctxt "optional"
+msgid "Optional"
+msgstr "விரும்பினால்"
+
+#, icu-message-format
+msgctxt "or"
+msgid "or"
+msgstr "அல்லது"
+
+#, icu-message-format
+msgctxt "ordering"
+msgid "Ordering"
+msgstr "வரிசைப்படுத்துதல்"
+
+#, icu-message-format
+msgctxt "other"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, icu-message-format
+msgctxt "overview"
+msgid "Overview"
+msgstr "கண்ணோட்டம்"
+
+#, case-insensitive, icu-message-format, placeholders:$NAMEA$:$NAMEB$
+msgctxt "owesAB"
+msgid "{nameA} owes {nameB}"
+msgstr "{nameA} owas {nameB}"
+
+#, icu-message-format
+msgctxt "pageNotFound"
+msgid "Couldn't find this page"
+msgstr "இந்த பக்கத்தைக் கண்டுபிடிக்க முடியவில்லை"
+
+#, icu-message-format
+msgctxt "password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, icu-message-format
+msgctxt "passwordFieldTooShort"
+msgid "Password too short"
+msgstr "கடவுச்சொல் மிகக் குறைவு"
+
+#, icu-message-format
+msgctxt "passwordForgot"
+msgid "Forgot password?"
+msgstr "கடவுச்சொல்லை மறந்துவிட்டீர்களா?"
+
+#, icu-message-format
+msgctxt "passwordRepeat"
+msgid "Repeat password"
+msgstr "கடவுச்சொல்லை மீண்டும் செய்யவும்"
+
+#, icu-message-format
+msgctxt "passwordRepeatNoMatch"
+msgid "The passwords don't match"
+msgstr "கடவுச்சொற்கள் பொருந்தவில்லை"
+
+#, icu-message-format
+msgctxt "passwordReset"
+msgid "Reset password"
+msgstr "கடவுச்சொல்லை மீட்டமைக்கவும்"
+
+#, icu-message-format
+msgctxt "passwordSave"
+msgid "Update password"
+msgstr "கடவுச்சொல்லைப் புதுப்பிக்கவும்"
+
+#, icu-message-format
+msgctxt "personal"
+msgid "Personal"
+msgstr "தனிப்பட்ட"
+
+#, icu-message-format
+msgctxt "planner"
+msgid "Planner"
+msgstr "திட்டமிடுபவர்"
+
+#, icu-message-format
+msgctxt "plannerEmpty"
+msgid "No meals planned, start by selecting one of your recipes!"
+msgstr ""
+"உணவு திட்டமிடப்படவில்லை, உங்கள் சமையல் ஒன்றைத் தேர்ந்தெடுப்பதன் மூலம் "
+"தொடங்கவும்!"
+
+#, icu-message-format
+msgctxt "plannerTitle"
+msgid "Your planned meals"
+msgstr "உங்கள் திட்டமிட்ட உணவு"
+
+#, icu-message-format
+msgctxt "preparationTime"
+msgid "Preparation time"
+msgstr "தயாரிப்பு நேரம்"
+
+#, icu-message-format
+msgctxt "privacyPolicy"
+msgid "Privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, case-insensitive, icu-message-format, placeholders:$PRIVACYPOLICY$
+msgctxt "privacyPolicyAgree"
+msgid "By creating an account you agree to our {privacyPolicy}"
+msgstr ""
+"ஒரு கணக்கை உருவாக்குவதன் மூலம் நீங்கள் எங்கள் {privacyPolicy}க்கு "
+"ஒப்புக்கொள்கிறீர்கள்"
+
+#, icu-message-format
+msgctxt "private"
+msgid "Private"
+msgstr "தனிப்பட்ட"
+
+#, icu-message-format
+msgctxt "privateRecipeDescription"
+msgid "Only members of the household can view the recipe."
+msgstr "வீட்டு உறுப்பினர்கள் மட்டுமே செய்முறையைப் பார்க்க முடியும்."
+
+#, icu-message-format
+msgctxt "profile"
+msgid "Profile"
+msgstr "சுயவிவரம்"
+
+#, icu-message-format
+msgctxt "public"
+msgid "Public"
+msgstr "பொது"
+
+#, icu-message-format
+msgctxt "publicRecipeDescription"
+msgid "Anyone with the link to this recipe can view it."
+msgstr "இந்த செய்முறைக்கான இணைப்பு உள்ள எவரும் இதைக் காணலாம்."
+
+#, icu-message-format
+msgctxt "recentItemsCategorize"
+msgid "Categorize recent items"
+msgstr "அண்மைக் கால உருப்படிகளை வகைப்படுத்தவும்"
+
+#, icu-message-format
+msgctxt "recipeAdd"
+msgid "Add recipe"
+msgstr "செய்முறையைச் சேர்க்கவும்"
+
+#, case-insensitive, icu-message-format, placeholders:$HOUSEHOLDNAME$
+msgctxt "recipeAddToHousehold"
+msgid "Add to {householdName}"
+msgstr "{householdName} இல் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "recipeAddUrl"
+msgid "Add recipe from URL"
+msgstr "முகவரி இலிருந்து செய்முறையைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "recipeDelete"
+msgid "Delete recipe"
+msgstr "செய்முறையை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$RECIPE$
+msgctxt "recipeDeleteConfirmation"
+msgid "Are you sure you want to remove {recipe}?"
+msgstr "நீங்கள் நிச்சயமாக {recipe} அகற்ற விரும்புகிறீர்களா?"
+
+#, icu-message-format
+msgctxt "recipeEdit"
+msgid "Edit recipe"
+msgstr "செய்முறையைத் திருத்து"
+
+#, icu-message-format
+msgctxt "recipeEmpty"
+msgid "No recipes, start by adding one!"
+msgstr "சமையல் இல்லை, ஒன்றைச் சேர்ப்பதன் மூலம் தொடங்கவும்!"
+
+#, icu-message-format
+msgctxt "recipeEmptySearch"
+msgid "No recipes found :("
+msgstr "சமையல் எதுவும் கிடைக்கவில்லை :("
+
+#, icu-message-format
+msgctxt "recipeImageSelect"
+msgid "Select a recipe image"
+msgstr "செய்முறை படத்தைத் தேர்ந்தெடுக்கவும்"
+
+#, icu-message-format
+msgctxt "recipeNew"
+msgid "New recipe"
+msgstr "புதிய செய்முறை"
+
+#, icu-message-format
+msgctxt "recipeSource"
+msgid "Recipe source"
+msgstr "செய்முறை மூல"
+
+#, icu-message-format
+msgctxt "recipes"
+msgid "Recipes"
+msgstr "சமையல்"
+
+#, icu-message-format
+msgctxt "recipesOverwrite"
+msgid "Overwrite recipes"
+msgstr "ஓவர்ரைட் ரெசிபிகளை"
+
+#, icu-message-format
+msgctxt "recipesOverwriteDescription"
+msgid "If activated, existing recipes with the same name will be overwritten"
+msgstr ""
+"செயல்படுத்தப்பட்டால், அதே பெயருடன் இருக்கும் சமையல் குறிப்புகள் "
+"மேலெழுதப்படும்"
+
+#, icu-message-format
+msgctxt "recipesRecent"
+msgid "Recent"
+msgstr "அண்மைக் கால"
+
+#, icu-message-format
+msgctxt "recipesSuggested"
+msgid "Suggested"
+msgstr "பரிந்துரைக்கப்பட்டது"
+
+#, icu-message-format
+msgctxt "redo"
+msgid "Redo"
+msgstr "மீண்டும்செய்"
+
+#, icu-message-format
+msgctxt "refresh"
+msgid "Refresh"
+msgstr "புதுப்பிப்பு"
+
+#, icu-message-format
+msgctxt "rememberLastShoppingList"
+msgid "Remember the last used shopping list"
+msgstr "கடைசியாக பயன்படுத்தப்பட்ட சாப்பிங் பட்டியலை நினைவில் கொள்ளுங்கள்"
+
+#, icu-message-format
+msgctxt "remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+#, icu-message-format
+msgctxt "rename"
+msgid "Rename"
+msgstr "மறுபெயரிடுங்கள்"
+
+#, icu-message-format
+msgctxt "reportIssue"
+msgid "Report an issue"
+msgstr "ஒரு சிக்கலைப் புகாரளிக்கவும்"
+
+#, icu-message-format
+msgctxt "reset"
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#, icu-message-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, icu-message-format
+msgctxt "searchHint"
+msgid "Looking for something?"
+msgstr "ஏதாவது தேடுகிறீர்களா?"
+
+#, icu-message-format
+msgctxt "server"
+msgid "Server"
+msgstr "சேவையகம்"
+
+#, icu-message-format
+msgctxt "serverChange"
+msgid "Switch server"
+msgstr "சேவையகம் சுவிட்ச்"
+
+#, icu-message-format
+msgctxt "sessions"
+msgid "Sessions"
+msgstr "அமர்வுகள்"
+
+#, icu-message-format
+msgctxt "set"
+msgid "Set"
+msgstr "கணம்"
+
+#, icu-message-format
+msgctxt "settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, icu-message-format
+msgctxt "setupTitle"
+msgid "Hey there! Ready to shop?"
+msgstr "ஏய் அங்கே! சாப்பிங் செய்ய தயாரா?"
+
+#, icu-message-format
+msgctxt "share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, icu-message-format
+msgctxt "shoppingList"
+msgid "Shopping list"
+msgstr "சாப்பிங் பட்டியல்"
+
+#, case-insensitive, icu-message-format, placeholders:$ENTRIESCOUNT$
+msgctxt "shoppingListContainsEntries"
+msgid ""
+"{entriesCount, plural, =0{The shopping list contains no items.} =1{The "
+"shopping list contains 1 item.} other{The shopping list contains "
+"{entriesCount} items.}}"
+msgstr ""
+"{entriesCount, plural, =0{The shopping list contains no items.} =1{The "
+"shopping list contains 1 item.} other{கடைஉலாபட்டியலில் {entriesCount} "
+"உருப்படிகள் உள்ளது.}}"
+
+#, icu-message-format
+msgctxt "shoppingListDelete"
+msgid "Delete shopping list"
+msgstr "சாப்பிங் பட்டியலை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$SHOPPINGLIST$
+msgctxt "shoppingListDeleteConfirmation"
+msgid "Are you sure you want to delete {shoppingList}?"
+msgstr "{shoppingList} நீக்க விரும்புகிறீர்களா?"
+
+#, icu-message-format
+msgctxt "shoppingListEdit"
+msgid "Edit shopping list"
+msgstr "சாப்பிங் பட்டியலைத் திருத்தவும்"
+
+#, icu-message-format
+msgctxt "shoppingListStyle"
+msgid "Shopping list style"
+msgstr "சாப்பிங் பட்டியல் பாணி"
+
+#, icu-message-format
+msgctxt "shoppingLists"
+msgid "Shopping lists"
+msgstr "சாப்பிங் பட்டியல்கள்"
+
+#, case-insensitive, icu-message-format, placeholders:$PROVIDER$
+msgctxt "signInWith"
+msgid "Sign in with {provider}"
+msgstr "{provider} உடன் உள்நுழைக"
+
+#, icu-message-format
+msgctxt "signup"
+msgid "Sign up"
+msgstr "பதிவு செய்க"
+
+#, icu-message-format
+msgctxt "skip"
+msgid "Skip"
+msgstr "தவிர்"
+
+#, icu-message-format
+msgctxt "smaller"
+msgid "Smaller"
+msgstr "சிறிய"
+
+#, icu-message-format
+msgctxt "sortingAlgorithmic"
+msgid "Algorithmic"
+msgstr "வழிமுறை"
+
+#, icu-message-format
+msgctxt "sortingAlphabetical"
+msgid "Alphabetical"
+msgstr "அகரவரிசை"
+
+#, icu-message-format
+msgctxt "start"
+msgid "Start"
+msgstr "தொடங்கு"
+
+#, icu-message-format
+msgctxt "supportDevelopment"
+msgid "Support the development"
+msgstr "வளர்ச்சியை ஆதரிக்கவும்"
+
+#, icu-message-format
+msgctxt "swipeToDelete"
+msgid "Swipe to delete"
+msgstr "நீக்க ச்வைப்"
+
+#, icu-message-format
+msgctxt "swipeToDeleteAndLongPressToReorder"
+msgid "Swipe to delete and long press to reorder"
+msgstr "நீக்குவதற்கு ச்வைப் செய்து மறுவரிசைப்படுத்த நீண்ட அழுத்தவும்"
+
+#, icu-message-format
+msgctxt "swipeToRemove"
+msgid "Swipe to remove"
+msgstr "அகற்ற ச்வைப்"
+
+#, icu-message-format
+msgctxt "tagDelete"
+msgid "Delete tag"
+msgstr "குறிச்சொல்லை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$TAG$
+msgctxt "tagDeleteConfirmation"
+msgid ""
+"Are you sure you want to delete {tag}? This will remove the tag from any "
+"recipe containing it."
+msgstr ""
+"நீங்கள் நிச்சயமாக {tag} நீக்க விரும்புகிறீர்களா? இது அதைக் கொண்ட எந்த "
+"செய்முறையிலிருந்தும் குறிச்சொல்லை அகற்றும்."
+
+#, icu-message-format
+msgctxt "tagEdit"
+msgid "Edit tag"
+msgstr "குறிச்சொல் திருத்து"
+
+#, icu-message-format
+msgctxt "tags"
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+#, icu-message-format
+msgctxt "tap"
+msgid "Tap"
+msgstr "தட்டவும்"
+
+#, icu-message-format
+msgctxt "themeDark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, icu-message-format
+msgctxt "themeLight"
+msgid "Light"
+msgstr "ஒளி"
+
+#, icu-message-format
+msgctxt "themeMode"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+#, icu-message-format
+msgctxt "themeSystem"
+msgid "System"
+msgstr "மண்டலம்"
+
+#, icu-message-format
+msgctxt "total"
+msgid "Total"
+msgstr "மொத்தம்"
+
+#, icu-message-format
+msgctxt "totalTime"
+msgid "Total time"
+msgstr "மொத்த நேரம்"
+
+#, icu-message-format
+msgctxt "tutorialItemDescription1"
+msgid ""
+"When searching for items, you can add an amount at the start of your query, "
+"and it will be added as a description."
+msgstr ""
+"உருப்படிகளைத் தேடும்போது, உங்கள் வினவலின் தொடக்கத்தில் ஒரு தொகையைச் "
+"சேர்க்கலாம், அது ஒரு விளக்கமாக சேர்க்கப்படும்."
+
+#, icu-message-format
+msgctxt "tutorialItemDescription2"
+msgid ""
+"Or, if amounts are not enough, use a comma to separate the item name and "
+"description."
+msgstr ""
+"அல்லது, தொகைகள் போதுமானதாக இல்லாவிட்டால், உருப்படி பெயர் மற்றும் விளக்கத்தை "
+"பிரிக்க கமாவைப் பயன்படுத்தவும்."
+
+#, icu-message-format
+msgctxt "tutorialRecipeDescription"
+msgid ""
+"Inside of recipes, you can use Markdown. Basic features are headlines "
+"specified with hash signs, numbered lists for instruction steps, and "
+"references to ingredients using an at sign followed by the ingredient name."
+msgstr ""
+"சமையல் உள்ளே, நீங்கள் மார்க் டவுனைப் பயன்படுத்தலாம். அடிப்படை "
+"நற்பொருத்தங்கள் ஆச் அறிகுறிகளுடன் குறிப்பிடப்பட்டுள்ள தலைப்புச் செய்திகள், "
+"அறிவுறுத்தல் படிகளுக்கான எண்ணற்ற பட்டியல்கள் மற்றும் மூலப்பொருள் பெயரைத் "
+"தொடர்ந்து AT அடையாளத்தைப் பயன்படுத்தும் பொருட்களுக்கான குறிப்புகள்."
+
+#, case-insensitive, icu-message-format, placeholders:$URL$
+msgctxt "tutorialRecipeMore"
+msgid "For more information, visit the [documentation]({url})."
+msgstr "மேலும் தகவலுக்கு, [ஆவணங்கள்] ({url}) ஐப் பார்வையிடவும்."
+
+#, icu-message-format
+msgctxt "uncategorized"
+msgid "Uncategorized"
+msgstr "வகைப்படுத்தப்படாதது"
+
+#, icu-message-format
+msgctxt "underConstruction"
+msgid "Under construction"
+msgstr "கட்டுமானத்தின் கீழ்"
+
+#, icu-message-format
+msgctxt "undo"
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#. As in remove link to social account (e.g. Google)
+#, icu-message-format
+msgctxt "unlink"
+msgid "Unlink"
+msgstr "இணைக்கவும்"
+
+#, icu-message-format
+msgctxt "unreachableMessage"
+msgid "Hmmmm… couldn't reach server"
+msgstr "அ்ம்ம்… சேவையகத்தை அடைய முடியவில்லை"
+
+#, icu-message-format
+msgctxt "unsavedChangesBody"
+msgid "Are you sure you want to go back?"
+msgstr "நீங்கள் திரும்பிச் செல்ல விரும்புகிறீர்களா?"
+
+#, icu-message-format
+msgctxt "unsavedChangesTitle"
+msgid "You have unsaved changes"
+msgstr "நீங்கள் சேமிக்கப்படாத மாற்றங்கள் உள்ளன"
+
+#, icu-message-format
+msgctxt "unsupportedBackendMessage"
+msgid "The server version is not supported, please update the backend"
+msgstr ""
+"சேவையக பதிப்பு ஆதரிக்கப்படவில்லை, தயவுசெய்து பின்தளத்தில் புதுப்பிக்கவும்"
+
+#, icu-message-format
+msgctxt "unsupportedFrontendMessage"
+msgid "The app version is not supported, please update the app"
+msgstr ""
+"பயன்பாட்டு பதிப்பு ஆதரிக்கப்படவில்லை, தயவுசெய்து பயன்பாட்டைப் "
+"புதுப்பிக்கவும்"
+
+#, icu-message-format
+msgctxt "unsupportedScrapeMessage"
+msgid "This website is not supported"
+msgstr "இந்த வலைத்தளம் ஆதரிக்கப்படவில்லை"
+
+#, icu-message-format
+msgctxt "usedIn"
+msgid "Used in"
+msgstr "பயன்படுத்தப்படுகிறது"
+
+#, icu-message-format
+msgctxt "user"
+msgid "User"
+msgstr "பயனர்"
+
+#, icu-message-format
+msgctxt "userAdd"
+msgid "Add user"
+msgstr "பயனரைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "userDelete"
+msgid "Delete user"
+msgstr "பயனரை நீக்கு"
+
+#, case-insensitive, icu-message-format, placeholders:$USER$
+msgctxt "userDeleteConfirmation"
+msgid "Are you sure you want to remove {user}?"
+msgstr "{user} ஐ அகற்ற விரும்புகிறீர்களா?"
+
+#, icu-message-format
+msgctxt "userNotSignedIn"
+msgid "You need to be signed in to link an account"
+msgstr "ஒரு கணக்கை இணைக்க நீங்கள் உள்நுழைய வேண்டும்"
+
+#, icu-message-format
+msgctxt "userSearchHint"
+msgid "Type a name"
+msgstr "ஒரு பெயரைத் தட்டச்சு செய்க"
+
+#, icu-message-format
+msgctxt "username"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#, icu-message-format
+msgctxt "usernameInvalid"
+msgid "Username cannot contain '@'"
+msgstr "பயனர்பெயர் '@' ஐக் கொண்டிருக்க முடியாது"
+
+#, icu-message-format
+msgctxt "usernameUnavailable"
+msgid "The username is unavailable"
+msgstr "பயனர்பெயர் கிடைக்கவில்லை"
+
+#, icu-message-format
+msgctxt "users"
+msgid "Users"
+msgstr "பயனர்கள்"
+
+#, icu-message-format
+msgctxt "weekly"
+msgid "Weekly"
+msgstr "வாராந்திர"
+
+#, icu-message-format
+msgctxt "welcomeBack"
+msgid "Welcome back"
+msgstr "மீண்டும் வருக"
+
+#, icu-message-format
+msgctxt "writeMarkdownHere"
+msgid "You can use markdown here!"
+msgstr "நீங்கள் இங்கே மார்க் டவுனைப் பயன்படுத்தலாம்!"
+
+#, icu-message-format
+msgctxt "wrongUsernameOrPassword"
+msgid "Wrong username or password"
+msgstr "தவறான பயனர்பெயர் அல்லது கடவுச்சொல்"
+
+#, icu-message-format
+msgctxt "yearly"
+msgid "Yearly"
+msgstr "ஆண்டு"
+
+#, icu-message-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, icu-message-format
+msgctxt "yields"
+msgid "Yields"
+msgstr "மகசூல்"
+
+#, icu-message-format
+msgctxt "you"
+msgid "you"
+msgstr "நீங்கள்"

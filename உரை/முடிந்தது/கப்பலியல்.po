@@ -1,0 +1,134 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: கப்பலியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "cargo"
+msgstr "சரக்கு"
+
+msgid "cargo ship"
+msgstr "சரக்குக் கப்பல்"
+
+msgid "check-in"
+msgstr "பயண ஆயத்தம்"
+
+msgid "container"
+msgstr "சரக்குப் பெட்டகம்"
+
+msgid "customs"
+msgstr "சுங்கம், ஆயம்"
+
+msgid "dock"
+msgstr "கப்பல் கூடம்"
+
+msgid "dry dock"
+msgstr "உலர்துறை"
+
+msgid "effective aperture"
+msgstr "செயல்திறப்பு"
+
+msgid "emergency position indicating radio beacon"
+msgstr "அவசர இடங்காட்டொளி"
+
+msgid "global marine distress safety system"
+msgstr "உலகக் கடலின்னல் காப்பமைப்பு"
+
+msgid "global orbitting navigation satellite system"
+msgstr "கடலோடல் செயற்கைக்கோள் அமைப்பு"
+
+msgid "harbour"
+msgstr "துறை"
+
+msgid "hull"
+msgstr "கடலுடல்"
+
+msgid "inmarsat"
+msgstr "கடற்சாரச் செயற்கைக்கோள்"
+
+msgid "jetty"
+msgstr "இறங்குதுறை"
+
+msgid "marine"
+msgstr "கடற்சார"
+
+msgid "medium wave"
+msgstr "நடுவலை"
+
+msgid "meteriological"
+msgstr "வானிலையியல்"
+
+msgid "nautical chart"
+msgstr "வழிகாணல் வரைப்படம்"
+
+msgid "nautical mile"
+msgstr "கடல்மைல்"
+
+msgid "nav-aid"
+msgstr "கடலோடல் கருவி"
+
+msgid "navigation"
+msgstr "கடலோடல்"
+
+msgid "navigation system"
+msgstr "கடலோடமைப்பு"
+
+msgid "navigational aid"
+msgstr "கடலோடல் கருவி"
+
+msgid "navigational chart"
+msgstr "கடலோடல் வரைப்படம்"
+
+msgid "navtex"
+msgstr "கடற்தந்தி"
+
+msgid "pier"
+msgstr "பாந்து"
+
+msgid "port"
+msgstr "துறைமுகம்"
+
+msgid "quay"
+msgstr "தொற்றொதுக்கம்"
+
+msgid "radar"
+msgstr "கதிரலைக் கும்பா"
+
+msgid "radio-beacon"
+msgstr "சுழலலை"
+
+msgid "radiotelephone"
+msgstr "வானொலிப்பேசி"
+
+msgid "radiotelephone telecommunication network"
+msgstr "வானொலிப்பேசி தொலைத்தொடபுப் பிணையம்"
+
+msgid "sea-terrain"
+msgstr "கடற்கூறு"
+
+msgid "ship"
+msgstr "கப்பல்"
+
+msgid "synthetic aperture radar"
+msgstr "தொகுத்திறப்புக் கும்பா"
+
+msgid "terrain"
+msgstr "பரப்புக்கூறு"
+
+msgid "ultrasound"
+msgstr "ஊடொலி"
+
+msgid "wharf"
+msgstr "உமம்"
+
+msgid "x-ray"
+msgstr "ஊடுக்கதிர்"

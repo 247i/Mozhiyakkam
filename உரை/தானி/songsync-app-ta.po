@@ -1,0 +1,914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (SongSync)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-27 22:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/songsync/app/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "SongSync"
+msgstr ""
+
+#, java-printf-format
+msgctxt "batch_download_lyrics"
+msgid "Batch download lyrics"
+msgstr "தொகுதி பதிவிறக்க பாடல்"
+
+#, java-printf-format
+msgctxt "get_lyrics"
+msgid "Get lyrics"
+msgstr "பாடல் கிடைக்கும்"
+
+#, java-printf-format
+msgctxt "try_again"
+msgid "Try again"
+msgstr "மீண்டும் முயற்சிக்கவும்"
+
+#, java-printf-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "error"
+msgid "Error"
+msgstr "பிழை"
+
+#, java-printf-format
+msgctxt "this_track_has_no_lyrics"
+msgid "This track has no lyrics"
+msgstr "இந்த பாதையில் பாடல் இல்லை"
+
+#, java-printf-format
+msgctxt "ok"
+msgid "OK"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "no"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "downloading_lyrics"
+msgid "Downloading lyrics"
+msgstr "பாடல் பதிவிறக்குகிறது"
+
+#, java-printf-format
+msgctxt "song"
+msgid "Song: %1$s"
+msgstr "பாடல்: %1$s"
+
+#, java-printf-format
+msgctxt "progress"
+msgid "Progress: %1$d/%2$d (%3$d%%)"
+msgstr "முன்னேற்றம்:%1$d/%2$d (%3$d %%)"
+
+#, java-printf-format
+msgctxt "success_failed"
+msgid "Success: %1$d, No lyrics: %2$d, Failed: %3$d"
+msgstr "வெற்றி: %1$d, பாடல் இல்லை: %2$d, தோல்வியுற்றது: %3$d"
+
+#, java-printf-format
+msgctxt "please_do_not_close_the_app_this_may_take_a_while"
+msgid "Please do not close the app, this may take a while"
+msgstr "தயவுசெய்து பயன்பாட்டை மூட வேண்டாம், இதற்கு சிறிது நேரம் ஆகலாம்"
+
+#, java-printf-format
+msgctxt "download_complete"
+msgid "Download complete"
+msgstr "முழுமையான பதிவிறக்கம்"
+
+#, java-printf-format
+msgctxt "success"
+msgid "Success: %1$d"
+msgstr "வெற்றி: %1$d"
+
+#, java-printf-format
+msgctxt "failed"
+msgid "Failed: %1$d"
+msgstr "தோல்வியுற்றது: %1$d"
+
+#, java-printf-format
+msgctxt "spotify_api_rate_limit_reached"
+msgid "Spotify API rate limit reached"
+msgstr "Spotify பநிஇ விகித வரம்பு எட்டப்பட்டது"
+
+#, java-printf-format
+msgctxt "please_try_again_later"
+msgid "Please try again later"
+msgstr "தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்"
+
+#, java-printf-format
+msgctxt "save_lrc_file"
+msgid "Save .lrc file"
+msgstr ".Lrc கோப்பைச் சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "no_results"
+msgid "No results"
+msgstr "முடிவுகள் இல்லை"
+
+#, java-printf-format
+msgctxt "no_internet_server"
+msgid "No internet connection or server is down"
+msgstr "இணைய இணைப்பு அல்லது சேவையகம் இல்லை"
+
+#, java-printf-format
+msgctxt "unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, java-printf-format
+msgctxt "generated_using"
+msgid "Generated using SongSync"
+msgstr ""
+
+#, java-printf-format
+msgctxt "what_is_songsync"
+msgid ""
+"SongSync is an app that lets you to download synced lyrics (.lrc files) for "
+"your local music library."
+msgstr ""
+"உங்கள் உள்ளக இசை நூலகத்திற்கான ஒத்திசைக்கப்பட்ட பாடல் (.lrc கோப்புகள்) பதிவிறக்கம் செய்ய "
+"உங்களை அனுமதிக்கும் ஒரு பயன்பாடு Sostingync ஆகும்."
+
+#, java-printf-format
+msgctxt "extra_what_is_songsync"
+msgid ""
+"You can also search for specific songs to get their lyrics (and save them to "
+"downloads)."
+msgstr ""
+"குறிப்பிட்ட பாடல்களின் பாடல்களைப் பெற நீங்கள் தேடலாம் (மேலும் அவற்றை பதிவிறக்கங்களில் "
+"சேமிக்கவும்)."
+
+#, java-printf-format
+msgctxt "app_version"
+msgid "App version: %1$s"
+msgstr "பயன்பாட்டு பதிப்பு: %1$s"
+
+#, java-printf-format
+msgctxt "spotify_for_developers"
+msgid "Spotify for Developers"
+msgstr "டெவலப்பர்களுக்கான Spotify"
+
+#, java-printf-format
+msgctxt "spotifylyrics_api"
+msgid "SpotifyLyrics API"
+msgstr ""
+
+#, java-printf-format
+msgctxt "about_songsync"
+msgid "About SongSync"
+msgstr "பாடல்கள் பற்றி"
+
+#, java-printf-format
+msgctxt "how_we_get_lyrics"
+msgid ""
+"SongSync uses SpotifyLyrics API to get lyrics for songs. You can find more "
+"information about SpotifyLyrics API on their GitHub page."
+msgstr ""
+"பாடல்களுக்கான வரிகள் பெற Spotifielyrics பநிஇ ஐப் பயன்படுத்துகிறது. SpotifyLirics "
+"பநிஇ பற்றிய கூடுதல் தகவல்களை அவர்களின் அறிவிலிமையம் பக்கத்தில் காணலாம்."
+
+#, java-printf-format
+msgctxt "view_on_github"
+msgid "View on GitHub"
+msgstr "கிட்அப்பில் காண்க"
+
+#, java-printf-format
+msgctxt "we_are_open_source"
+msgid ""
+"SongSync is an open-source project. You can find the source code on GitHub."
+msgstr ""
+"பாடல்கள் ஒரு திறந்த மூல திட்டம். நீங்கள் கிதுபில் மூலக் குறியீட்டைக் காணலாம்."
+
+#, java-printf-format
+msgctxt "contributors"
+msgid "Contributors"
+msgstr "பங்களிப்பாளர்கள்"
+
+#, java-printf-format
+msgctxt "github"
+msgid "GitHub"
+msgstr ""
+
+#, java-printf-format
+msgctxt "telegram"
+msgid "Telegram"
+msgstr ""
+
+#, java-printf-format
+msgctxt "bugs_or_suggestions_contact_us"
+msgid ""
+"Found a bug? Have a suggestion? Want to contribute? Feel free to contact me "
+"on my Telegram group."
+msgstr ""
+"ஒரு பிழை கிடைத்ததா? பரிந்துரை உள்ளதா? பங்களிக்க வேண்டுமா? எனது தந்தி குழுவில் என்னை "
+"தொடர்பு கொள்ள தயங்க."
+
+#, java-printf-format
+msgctxt "telegram_group"
+msgid "Telegram group"
+msgstr "தந்தி குழு"
+
+#, java-printf-format
+msgctxt "create_issue"
+msgid "You can also create an issue on GitHub (link above)."
+msgstr "நீங்கள் கிதுபிலும் ஒரு சிக்கலை உருவாக்கலாம் (மேலே உள்ள இணைப்பு)."
+
+#, java-printf-format
+msgctxt "spotify_api"
+msgid "Spotify API"
+msgstr ""
+
+#, java-printf-format
+msgctxt "source_code"
+msgid "Source code"
+msgstr "மூலக் குறியீடு"
+
+#, java-printf-format
+msgctxt "support"
+msgid "Support"
+msgstr "உதவி"
+
+#, java-printf-format
+msgctxt "contributor"
+msgid "Contributor"
+msgstr "பங்களிப்பாளர்"
+
+#, java-printf-format
+msgctxt "developer"
+msgid "Developer"
+msgstr "உருவாக்குநர்"
+
+#, java-printf-format
+msgctxt "lead_developer"
+msgid "Lead developer"
+msgstr "முன்னணி உருவாக்குபவர்"
+
+#, java-printf-format
+msgctxt "close_app"
+msgid "Close app"
+msgstr "பயன்பாட்டை மூடு"
+
+#, java-printf-format
+msgctxt "permission_denied"
+msgid "Permission denied"
+msgstr "இசைவு மறுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "requires_higher_storage_permissions"
+msgid ""
+"This app requires storage access for scanning your music library and saving "
+"lyrics."
+msgstr ""
+"இந்த பயன்பாட்டிற்கு உங்கள் இசை நூலகத்தை ச்கேன் செய்வதற்கும் பாடல் வரிகளைச் சேமிப்பதற்கும் "
+"சேமிப்பக அணுகல் தேவைப்படுகிறது."
+
+#, java-printf-format
+msgctxt "already_granted_restart"
+msgid "Already granted? Try restarting the app."
+msgstr "ஏற்கனவே வழங்கப்பட்டதா? பயன்பாட்டை மறுதொடக்கம் செய்ய முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "no_internet_connection"
+msgid "No internet connection"
+msgstr "இணைய இணைப்பு இல்லை"
+
+#, java-printf-format
+msgctxt "you_need_internet_connection"
+msgid "You need internet connection to use this app."
+msgstr "இந்த பயன்பாட்டைப் பயன்படுத்த உங்களுக்கு இணைய இணைப்பு தேவை."
+
+#, java-printf-format
+msgctxt "check_your_connection"
+msgid "Please check your connection and try again."
+msgstr "உங்கள் இணைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "if_connected_spotify_down"
+msgid "If you are connected, Spotify might be down. Please try again later."
+msgstr ""
+"நீங்கள் இணைக்கப்பட்டிருந்தால், Spotify கீழே இருக்கலாம். தயவுசெய்து பின்னர் மீண்டும் "
+"முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "home"
+msgid "Home"
+msgstr "வீடு"
+
+#, java-printf-format
+msgctxt "about"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "song_name_no_args"
+msgid "Song name"
+msgstr "பாடல் பெயர்"
+
+#, java-printf-format
+msgctxt "artist_name_no_args"
+msgid "Artist name"
+msgstr "கலைஞரின் பெயர்"
+
+#, java-printf-format
+msgctxt "lyrics_copied_to_clipboard"
+msgid "Lyrics copied to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்ட பாடல்"
+
+#, java-printf-format
+msgctxt "album_cover"
+msgid "Album cover"
+msgstr "ஆல்பம் கவர்"
+
+#, java-printf-format
+msgctxt "file_saved_to"
+msgid "File saved to %1$s"
+msgstr "கோப்பு %1$s க்கு சேமிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "copy_lyrics_to_clipboard"
+msgid "Copy lyrics to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு வரிகளை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "local_song"
+msgid "Local song"
+msgstr "உள்ளக பாடல்"
+
+#, java-printf-format
+msgctxt "cloud_song"
+msgid "Cloud song"
+msgstr "முகில் பாடல்"
+
+#, java-printf-format
+msgctxt "edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, java-printf-format
+msgctxt "selected_count"
+msgid "Selected %1$d"
+msgstr "தேர்ந்தெடுக்கப்பட்ட %1$d"
+
+#, java-printf-format
+msgctxt "back"
+msgid "Back"
+msgstr "பின்"
+
+#, java-printf-format
+msgctxt "select_all"
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, java-printf-format
+msgctxt "invert_selection"
+msgid "Invert selection"
+msgstr "தலைகீழ் தேர்வு"
+
+#, java-printf-format
+msgctxt "no_lyrics"
+msgid "No lyrics: %1$d"
+msgstr "பாடல் இல்லை: %1$d"
+
+#, java-printf-format
+msgctxt "this_will_download_lyrics_for_all_songs"
+msgid ""
+"This will download lyrics for one song. Existing lyrics for songs will be "
+"overwritten with new ones. This may be less accurate than downloading lyrics "
+"one by one. Are you sure you want to continue?"
+msgid_plural ""
+"This will download lyrics for %1$d songs. Existing lyrics for songs will be "
+"overwritten with new ones. This may be less accurate than downloading lyrics "
+"one by one. Are you sure you want to continue?"
+msgstr[0] ""
+"இது ஒரு பாடலுக்கான வரிகளை பதிவிறக்கும். பாடல்களுக்கான தற்போதைய வரிகள் புதியவற்றுடன் "
+"மேலெழுதப்படும். பாடல் வரிகளை ஒவ்வொன்றாக பதிவிறக்குவதை விட இது குறைவான துல்லியமாக "
+"இருக்கலாம். நீங்கள் தொடர விரும்புகிறீர்களா?"
+msgstr[1] ""
+"இது %1$d பாடல்களுக்கான வரிகளை பதிவிறக்கும். பாடல்களுக்கான தற்போதைய வரிகள் புதியவற்றுடன்"
+" மேலெழுதப்படும். பாடல் வரிகளை ஒவ்வொன்றாக பதிவிறக்குவதை விட இது குறைவான துல்லியமாக "
+"இருக்கலாம். நீங்கள் தொடர விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "invalid_query"
+msgid "Invalid query"
+msgstr "தவறான வினவல்"
+
+#, java-printf-format
+msgctxt "clear"
+msgid "Clear"
+msgstr "தெளிவான"
+
+#, java-printf-format
+msgctxt "check_for_updates"
+msgid "Check for updates"
+msgstr "புதுப்பிப்புகளை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "checking_for_updates"
+msgid "Checking for updates"
+msgstr "புதுப்பிப்புகளைச் சரிபார்க்கிறது"
+
+#, java-printf-format
+msgctxt "update_available"
+msgid "Update available"
+msgstr "புதுப்பிப்பு கிடைக்கிறது"
+
+#, java-printf-format
+msgctxt "changelog"
+msgid ""
+"Changelog:\n"
+"%1$s"
+msgstr ""
+"சேஞ்ச்லாக்:\n"
+" %1$s"
+
+#, java-printf-format
+msgctxt "download"
+msgid "Download"
+msgstr "பதிவிறக்கம்"
+
+#, java-printf-format
+msgctxt "up_to_date"
+msgid "You're using latest version"
+msgstr "நீங்கள் அண்மைக் கால பதிப்பைப் பயன்படுத்துகிறீர்கள்"
+
+#, java-printf-format
+msgctxt "error_checking_for_updates"
+msgid "Error checking for updates"
+msgstr "புதுப்பிப்புகளைச் சரிபார்ப்பதில் பிழை"
+
+#, java-printf-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "filters"
+msgid "Filters"
+msgstr "வடிப்பான்கள்"
+
+#, java-printf-format
+msgctxt "no_lyrics_only"
+msgid "Only show songs without LRC file lyrics"
+msgstr "எல்ஆர்சி கோப்புப் பாடல் வரிகள் இல்லாமல் பாடல்களை மட்டும் காண்பி"
+
+#, java-printf-format
+msgctxt "ignore_folders"
+msgid "Ignore folders"
+msgstr "கோப்புறைகளை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "credentials_saved"
+msgid "Credentials saved"
+msgstr "நற்சான்றிதழ்கள் சேமிக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "invalid_credentials"
+msgid "Invalid credentials"
+msgstr "தவறான நற்சான்றிதழ்கள்"
+
+#, java-printf-format
+msgctxt "spotify_client_secret"
+msgid "Spotify Client Secret"
+msgstr "Spotify கிளையன்ட் மறைபொருள்"
+
+#, java-printf-format
+msgctxt "spotify_client_id"
+msgid "Spotify Client ID"
+msgstr "Spotify கிளையன்ட் ஐடி"
+
+#, java-printf-format
+msgctxt "way_to_get_token"
+msgid "Way to get Spotify token"
+msgstr "Spotify கிள்ளாக்கைப் பெறுவதற்கான வழி"
+
+#, java-printf-format
+msgctxt "cant_be_empty"
+msgid "Fields can't be empty"
+msgstr "புலங்கள் காலியாக இருக்க முடியாது"
+
+#, java-printf-format
+msgctxt "default_keys"
+msgid "Default API credentials"
+msgstr "இயல்புநிலை பநிஇ நற்சான்றிதழ்கள்"
+
+#, java-printf-format
+msgctxt "web_player_keys"
+msgid "Web Player API"
+msgstr "வெப் பிளேயர் பநிஇ"
+
+#, java-printf-format
+msgctxt "custom_keys"
+msgid "Custom API credentials"
+msgstr "தனிப்பயன் பநிஇ நற்சான்றிதழ்கள்"
+
+#, java-printf-format
+msgctxt "change_api_strategy"
+msgid ""
+"You can also try alternative ways to connect to Spotify network in settings."
+msgstr ""
+"அமைப்புகளில் Spotify நெட்வொர்க்குடன் இணைக்க மாற்று வழிகளையும் முயற்சி செய்யலாம்."
+
+#, java-printf-format
+msgctxt "theme"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "pure_black_theme"
+msgid "Pure black theme"
+msgstr "தூய கருப்பு கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "restart_the_app"
+msgid "Restart the app for the changes to take effect"
+msgstr "மாற்றங்கள் நடைமுறைக்கு வர பயன்பாட்டை மறுதொடக்கம் செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "sd_card"
+msgid "SD Card"
+msgstr "எச்டி அட்டை"
+
+#, java-printf-format
+msgctxt "set_sd_path"
+msgid ""
+"Set the path to your SD card here. This is required for Android 10 and below."
+msgstr ""
+"உங்கள் எச்டி கார்டுக்கான பாதையை இங்கே அமைக்கவும். ஆண்ட்ராய்டு 10 மற்றும் அதற்குக் கீழே இது "
+"தேவைப்படுகிறது."
+
+#, java-printf-format
+msgctxt "no_sd_card_path_set"
+msgid "No SD card path set!"
+msgstr "எச்டி அட்டை பாதை அமைக்கப்படவில்லை!"
+
+#, java-printf-format
+msgctxt "sd_card_path_set_successfully"
+msgid "SD card path set successfully!"
+msgstr "எச்டி அட்டை பாதை வெற்றிகரமாக அமைக்கப்பட்டுள்ளது!"
+
+#, java-printf-format
+msgctxt "clear_sd_card_path"
+msgid "Clear"
+msgstr "தெளிவான"
+
+#, java-printf-format
+msgctxt "set_sd_card_path"
+msgid "Set"
+msgstr "கணம்"
+
+#, java-printf-format
+msgctxt "set_sd_path_warn"
+msgid ""
+"You are using an older version of Android. Make sure that you have set the "
+"SD card path in the settings. If you have not, please cancel this dialog and "
+"set it."
+msgstr ""
+"நீங்கள் ஆண்ட்ராய்டு இன் பழைய பதிப்பைப் பயன்படுத்துகிறீர்கள். அமைப்புகளில் எச்டி அட்டை பாதையை "
+"அமைத்துள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள். உங்களிடம் இல்லையென்றால், தயவுசெய்து இந்த "
+"உரையாடலை ரத்து செய்து அமைக்கவும்."
+
+#, java-printf-format
+msgctxt "thanks_to"
+msgid "Thanks to"
+msgstr "நன்றி"
+
+#, java-printf-format
+msgctxt "syncedlyrics_py"
+msgid "Syncedlyrics (for Netease headers and LrcLib)"
+msgstr "ஒத்திசைவு (நெட்ச் தலைப்புகள் மற்றும் எல்ஆர்சிநூல்)"
+
+#, java-printf-format
+msgctxt "statusbar_lyrics_ext"
+msgid "Statusbar lyrics ext (For Netease)"
+msgstr "நிலை பட்டி பாடல் விரிவாக்கம் (நேட்டேசுக்கு)"
+
+#, java-printf-format
+msgctxt "open_website"
+msgid "Open website"
+msgstr "திறந்த வலைத்தளம்"
+
+#, java-printf-format
+msgctxt "provider"
+msgid "Lyrics provider"
+msgstr "பாடல் வழங்குநர்"
+
+#, java-printf-format
+msgctxt "provider_summary"
+msgid "Please select lyrics provider below"
+msgstr "கீழே உள்ள பாடல் வழங்குநரைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore"
+msgid "Ignore"
+msgstr "புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "internal_error"
+msgid "Internal error: %s"
+msgstr "உள் பிழை: %s"
+
+#, java-printf-format
+msgctxt "disable_marquee"
+msgid "Disable Marquee Text"
+msgstr "மார்க்யூ உரையை முடக்கு"
+
+#, java-printf-format
+msgctxt "disable_marquee_summary"
+msgid "Disable moving text animation in app"
+msgstr "பயன்பாட்டில் நகரும் உரை அனிமேசனை முடக்கு"
+
+#, java-printf-format
+msgctxt "include_translation"
+msgid "Include translation"
+msgstr "மொழிபெயர்ப்பு சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "include_translation_summary"
+msgid ""
+"Include translated lyrics when getting song lyrics from Netease provider"
+msgstr ""
+"நெட்ச் வழங்குநரிடமிருந்து பாடல் வரிகளைப் பெறும்போது மொழிபெயர்க்கப்பட்ட பாடல் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "embed_lyrics_in_file"
+msgid "Embed lyrics to file"
+msgstr "கோப்புக்கு வரிகள் உட்பொதிக்கவும்"
+
+#, java-printf-format
+msgctxt "embedded_lyrics_in_file"
+msgid "Lyrics has been embedded to the song file"
+msgstr "பாடல் கோப்பில் பாடல் பதிக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "embed_non_local_song_error"
+msgid "You tried to embed the lyrics to a non-local file. Aborting operation."
+msgstr ""
+"உள்ளக அல்லாத கோப்பில் பாடல் வரிகளை உட்பொதிக்க முயற்சித்தீர்கள். கைவிடுதல் செயல்பாடு."
+
+#, java-printf-format
+msgctxt "multi_person_word_by_word"
+msgid "Multi-person word by word lyrics"
+msgstr "சொல் பாடல் மூலம் பல நபர் சொல்"
+
+#, java-printf-format
+msgctxt "multi_person_word_by_word_summary2"
+msgid ""
+"Use multi-person lyrics format when getting lyrics from supported provider"
+msgstr ""
+"உதவி வழங்குநரிடமிருந்து பாடல் வரும்போது பல நபர் பாடல் வடிவமைப்பைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "offset"
+msgid "Offset"
+msgstr "ஈடுசெய்யும்"
+
+#, java-printf-format
+msgctxt "song_path"
+msgid "Show song path"
+msgstr "பாடல் பாதையைக் காட்டு"
+
+#, java-printf-format
+msgctxt "song_path_description"
+msgid "Show the path of a song file on song list"
+msgstr "பாடல் பட்டியலில் ஒரு பாடல் கோப்பின் பாதையை காட்டு"
+
+#, java-printf-format
+msgctxt "synced_lyrics"
+msgid "Get Unsynced Lyrics"
+msgstr "கட்டுப்பாடற்ற பாடல் கிடைக்கும்"
+
+#, java-printf-format
+msgctxt "synced_lyrics_summary"
+msgid ""
+"Toggle to get unsynced lyrics from Musixmatch when synced lyrics aren't "
+"found."
+msgstr ""
+"ஒத்திசைக்கப்பட்ட பாடல் கிடைக்காதபோது மியூச்மாட்சிலிருந்து சொல்லப்படாத பாடல்களைப் பெற "
+"மாற்று."
+
+#, java-printf-format
+msgctxt "title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, java-printf-format
+msgctxt "artist"
+msgid "Artist"
+msgstr "கலைஞர்"
+
+#, java-printf-format
+msgctxt "album"
+msgid "Album"
+msgstr "ஆல்பம்"
+
+#, java-printf-format
+msgctxt "year"
+msgid "Year"
+msgstr "ஆண்டு"
+
+#, java-printf-format
+msgctxt "duration"
+msgid "Duration"
+msgstr "காலம்"
+
+#, java-printf-format
+msgctxt "ascending"
+msgid "Ascending"
+msgstr "ஏறுதல்"
+
+#, java-printf-format
+msgctxt "descending"
+msgid "Descending"
+msgstr "இறங்கு"
+
+#, java-printf-format
+msgctxt "sort"
+msgid "Sort"
+msgstr "வரிசைப்படுத்து"
+
+#, java-printf-format
+msgctxt "offset_mode"
+msgid "Offset mode"
+msgstr "ஆஃப்செட் பயன்முறை"
+
+#, java-printf-format
+msgctxt "offset_mode_summary"
+msgid "Directly modify the lyrics timestamps instead of using offset LRC tag"
+msgstr ""
+"ஆஃப்செட் எல்.ஆர்.சி குறிச்சொல்லைப் பயன்படுத்துவதற்குப் பதிலாக பாடல் நேர முத்திரைகளை "
+"நேரடியாக மாற்றவும்"
+
+#, java-printf-format
+msgctxt "settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "date_added"
+msgid "Date added"
+msgstr "தேதி சேர்க்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "date_modified"
+msgid "Date modified"
+msgstr "தேதி மாற்றியமைக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "translation"
+msgid "Translation"
+msgstr "மொழிபெயர்ப்பு"
+
+#, java-printf-format
+msgctxt "help_us_translate"
+msgid "Help us translate the app to your language!"
+msgstr "பயன்பாட்டை உங்கள் மொழியில் மொழிபெயர்க்க எங்களுக்கு உதவுங்கள்!"
+
+#, java-printf-format
+msgctxt "translation_website"
+msgid "Open Weblate"
+msgstr "வலைபெயர்ப்பு திறக்கவும்"
+
+#, java-printf-format
+msgctxt "showing_lyrics_for"
+msgid "Showing lyrics for"
+msgstr "இது பாடல்"
+
+#, java-printf-format
+msgctxt "by"
+msgid "by"
+msgstr "மூலம்"
+
+#, java-printf-format
+msgctxt "accept"
+msgid "Accept"
+msgstr "ஏற்றுக்கொள்"
+
+#, java-printf-format
+msgctxt "song_lyrics"
+msgid "Song lyrics"
+msgstr "பாடல் வரிகள்"
+
+#, java-printf-format
+msgctxt "lyrics_subtitle"
+msgid "Retrieved song lyrics that will be sent to the application "
+msgstr "மீட்டெடுக்கப்பட்ட பாடல் வரிகள் விண்ணப்பத்திற்கு அனுப்பப்படும் "
+
+#, java-printf-format
+msgctxt "song_name_not_provided"
+msgid "The song name has not been provided"
+msgstr "பாடல் பெயர் வழங்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "unknown_error_occurred"
+msgid "An unknown error occurred"
+msgstr "தெரியாத பிழை ஏற்பட்டது"
+
+#, java-printf-format
+msgctxt "pure_black_theme_summary"
+msgid "Use pure black theme when dark mode is enabled"
+msgstr "இருண்ட பயன்முறை இயக்கப்பட்டால் தூய கருப்பு கருப்பொருளைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "all_files_access"
+msgid "All files access"
+msgstr "எல்லா கோப்புகளும் அணுகலாம்"
+
+#, java-printf-format
+msgctxt "all_files_access_description"
+msgid ""
+"Required for saving lrc files in song's directory without opening the file "
+"picker each time"
+msgstr ""
+"ஒவ்வொரு முறையும் கோப்பு தேர்வாளரைத் திறக்காமல் பாடலின் கோப்பகத்தில் எல்.ஆர்.சி கோப்புகளைச் "
+"சேமிக்க வேண்டும்"
+
+#, java-printf-format
+msgctxt "show_notification_permission"
+msgid "Show notification (Optional)"
+msgstr "அறிவிப்பைக் காட்டு (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "show_notification_description"
+msgid "Used to show download progress notification"
+msgstr "பதிவிறக்க முன்னேற்ற அறிவிப்பைக் காட்டப் பயன்படுகிறது"
+
+#, java-printf-format
+msgctxt "_continue"
+msgid "Continue"
+msgstr "தொடரவும்"
+
+#, java-printf-format
+msgctxt "init_screen_title"
+msgid "Welcome to SongSync!"
+msgstr "பாடல்களுக்கு வருக!"
+
+#, java-printf-format
+msgctxt "init_screen_description"
+msgid "To get started, please grant the following permissions:"
+msgstr "தொடங்க, தயவுசெய்து பின்வரும் அனுமதிகளை வழங்கவும்:"
+
+#, java-printf-format
+msgctxt "now_playing_song"
+msgid "Now playing song"
+msgstr "இப்போது பாடல் வாசிக்கும்"
+
+#, java-printf-format
+msgctxt "notification_access"
+msgid "Notification access (Optional)"
+msgstr "அறிவிப்பு அணுகல் (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "notification_access_description"
+msgid ""
+"This is used to retrieve the current song playing on your device. The app "
+"does not read any other notifications."
+msgstr ""
+"உங்கள் சாதனத்தில் விளையாடும் தற்போதைய பாடலை மீட்டெடுக்க இது பயன்படுகிறது. பயன்பாடு வேறு "
+"எந்த அறிவிப்புகளையும் படிக்கவில்லை."
+
+#, java-printf-format
+msgctxt "include_romanization"
+msgid "Include romanization"
+msgstr "ரோமானியமயமாக்கல் அடங்கும்"
+
+#, java-printf-format
+msgctxt "include_romanization_summary"
+msgid "Include romanized lyrics when getting song lyrics from Netease provider"
+msgstr ""
+"நெட்ச் வழங்குநரிடமிருந்து பாடல் வரிகளைப் பெறும்போது ரோமானிய பாடல்களைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "songs_count"
+msgid "%1$d song"
+msgid_plural "%1$d songs"
+msgstr[0] "%1$d பாடல்"
+msgstr[1] "%1$d பாடல்கள்"

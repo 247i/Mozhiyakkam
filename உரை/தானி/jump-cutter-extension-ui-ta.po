@@ -1,0 +1,802 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Jump Cutter)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-04 04:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/jump-cutter/"
+"extension-ui/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
+
+#. Extension's short description that is used in stores.
+#. 
+#. Advice:
+#. Also consider these, but make sure the alternative is actually better:
+#. 
+#. * "Skips (silence | silent parts) in videos, in real time"
+#. * "(Skips | Fast-forwards) (long) pauses between sentences (in videos)"
+#. * "(Skips | Fast-forwards) (long) pauses between sentences (in videos) — watch lectures 1.5x faster"
+#. * "Watch lectures ~1.5x faster by (fast-forwarding | skipping) (long) pauses between sentences"
+#. * "Watch lectures ~1.5x faster — (fast-forwards| skipping) (long) pauses between sentences"
+#. * "Watch lectures ~1.5x faster by skipping (their) silent parts (in real time)"
+#. * "Watch lectures ~1.5x faster with (automatic) (real-time) silence skipping"
+#. 
+#. Firstly, users must understand what it does. At the same time they must understand how they can use it and what they can achieve with it.
+#, ignore-translated, priority:300
+msgctxt "extensionDescription"
+msgid ""
+"Watch videos up to 2x faster by automatically skipping long pauses between "
+"sentences"
+msgstr ""
+"வாக்கியங்களுக்கு இடையில் தானாகவே நீண்ட இடைநிறுத்தங்களைத் தவிர்ப்பதன் மூலம் 2x வரை "
+"வீடியோக்களைப் பாருங்கள்"
+
+#, ignore-translated, priority:200
+msgctxt "enable"
+msgid "Enable"
+msgstr "இயக்கு"
+
+#. Toggle on or off
+msgctxt "toggleExtension"
+msgid "Toggle extension"
+msgstr "நீட்டிப்பை மாற்றவும்"
+
+#, priority:220
+msgctxt "skipLess"
+msgid "Skip less"
+msgstr "குறைவாக தவிர்க்கவும்"
+
+#, priority:220
+msgctxt "skipMore"
+msgid "Skip more"
+msgstr "மேலும் தவிர்க்கவும்"
+
+#, priority:130
+msgctxt "popupAdvancedMode"
+msgid "Advanced settings"
+msgstr "மேம்பட்ட அமைப்புகள்"
+
+#. The tooltip for a button that opens the options page, which not only includes options, but also some links.
+#, ignore-translated, priority:80
+msgctxt "more"
+msgid "More"
+msgstr "மேலும்"
+
+#, ignore-translated
+msgctxt "volume"
+msgid ""
+"Volume\n"
+"It's not the current loudness of the material, but its amplification "
+"multiplier, like on TV"
+msgstr ""
+"தொகுதி\n"
+" இது பொருளின் தற்போதைய ஒலி அல்ல, ஆனால் அதன் பெருக்க பெருக்கி, டிவியில் உள்ளது"
+
+#. Information about how much time the user has saved by using the extension.
+#, ignore-translated, priority:150
+msgctxt "timeSaved"
+msgid "Time saved info"
+msgstr "நேரம் சேமித்த செய்தி"
+
+#, case-insensitive, ignore-translated, placeholders:$DURATION$, priority:140
+msgctxt "overTheLast"
+msgid "Over the last $duration$"
+msgstr "கடைசி $duration$ மேல்"
+
+#, ignore-translated, priority:140
+msgctxt "numbersMeanings"
+msgid "Numbers' meanings (in order):"
+msgstr "எண்களின் அர்த்தங்கள் (வரிசையில்):"
+
+#, ignore-translated, priority:140
+msgctxt "timeSavedComparedToSounded"
+msgid ""
+"on average how much faster the video is effectively playing compared to "
+"sounded speed"
+msgstr "ஒலி வேகத்துடன் ஒப்பிடும்போது வீடியோ எவ்வளவு வேகமாக விளையாடுகிறது"
+
+#, ignore-translated, priority:140
+msgctxt "timeSavedComparedToIntrinsic"
+msgid ""
+"on average how much faster the video is effectively playing compared to "
+"normal (intrinsic) speed"
+msgstr ""
+"சாதாரண (உள்ளார்ந்த) வேகத்துடன் ஒப்பிடும்போது வீடியோ எவ்வளவு வேகமாக திறம்பட இயங்குகிறது"
+
+#, ignore-translated, priority:80
+msgctxt "timeSavedComparedToSoundedAbs"
+msgid "time saved compared to just playing the video at sounded speed"
+msgstr ""
+"வீடியோவை ஒலித்த வேகத்தில் விளையாடுவதோடு ஒப்பிடும்போது நேரம் சேமிக்கப்பட்டது"
+
+#, ignore-translated, priority:80
+msgctxt "timeSavedComparedToIntrinsicAbs"
+msgid ""
+"time saved compared to just playing the video at normal (intrinsic) speed"
+msgstr ""
+"இயல்பான (உள்ளார்ந்த) வேகத்தில் வீடியோவை விளையாடுவதோடு ஒப்பிடும்போது நேரம் சேமிக்கப்பட்டது"
+
+#, ignore-translated, priority:80
+msgctxt "wouldHaveLastedIfSpeedWasSounded"
+msgid "how long playback would take at sounded speed WITHOUT skipping silence"
+msgstr "ம .னத்தைத் தவிர்க்காமல் ஃப்ளேபேக் எவ்வளவு நேரம் எடுக்கும்"
+
+#, ignore-translated, priority:80
+msgctxt "wouldHaveLastedIfSpeedWasIntrinsic"
+msgid ""
+"how long playback would take at normal (intrinsic) speed WITHOUT skipping "
+"silence"
+msgstr ""
+"ம .னத்தைத் தவிர்க்காமல் சாதாரண (உள்ளார்ந்த) வேகத்தில் பிளேபேக் எவ்வளவு நேரம் எடுக்கும்"
+
+#, ignore-translated, priority:135
+msgctxt "timeSavedPercentage"
+msgid "Equivalent time saved percentage:"
+msgstr "சமமான நேரம் சேமிக்கப்பட்ட சதவீதம்:"
+
+#, ignore-translated, priority:135
+msgctxt "comparedToSounded"
+msgid "compared to sounded"
+msgstr "ஒலியுடன் ஒப்பிடும்போது"
+
+#, ignore-translated, priority:135
+msgctxt "comparedToIntrinsic"
+msgid "compared to normal (intrinsic)"
+msgstr "இயல்புடன் ஒப்பிடும்போது (உள்ளார்ந்த)"
+
+msgctxt "estimatedRemainingDuration"
+msgid "Estimated remaining real-time duration:"
+msgstr "மீதமுள்ள நிகழ்நேர காலம் மதிப்பிடப்பட்டுள்ளது:"
+
+#, priority:190
+msgctxt "noSuitableElement"
+msgid "Could not find a suitable media element on the page"
+msgstr "பக்கத்தில் பொருத்தமான ஊடக உறுப்பைக் கண்டுபிடிக்க முடியவில்லை"
+
+#, ignore-translated
+msgctxt "retry"
+msgid "Retry"
+msgstr "மீண்டும் முயற்சிக்கவும்"
+
+#, case-insensitive, ignore-translated, placeholders:$TYPE$
+msgctxt "alsoSearchFor"
+msgid "Also search for $type$ elements"
+msgstr "$type$ கூறுகளையும் தேடுங்கள்"
+
+#. Change what media elements we consider eligible
+msgctxt "changeElementSearchCriteria"
+msgid "Change search criteria…"
+msgstr "தேடல் அளவுகோல்களை மாற்றவும்…"
+
+#, ignore-translated
+msgctxt "audio"
+msgid "audio"
+msgstr "ஆடியோ"
+
+#, ignore-translated
+msgctxt "video"
+msgid "video"
+msgstr "ஒளிதோற்றம்"
+
+#, priority:190
+msgctxt "contentScriptFail"
+msgid "Couldn't execute the content script on this page"
+msgstr "இந்த பக்கத்தில் உள்ளடக்க ச்கிரிப்டை இயக்க முடியவில்லை"
+
+#. You are free to replace `$openLocalFile$` with plain text (e.g. `Want to **open a local file**?`), if the simple substitution doesn't sound right in your language.
+#. 
+#. This message usually (but not always) appears when the user attempts to open a local file in such a way that the extension can't process it. So this string is mostly a suggestion, but is also a question.
+#. The placeholder will be substituted with [this  string](https://hosted.weblate.org/translate/jump-cutter/extension-ui/en/?checksum=d62d96289106e118).
+#, case-insensitive, ignore-placeholders, ignore-translated, placeholders:$OPENLOCALFILE$, regex:^.*[*]{2}.+[*]{2}.*$
+msgctxt "suggestOpenLocalFile"
+msgid "Want to **$openLocalFile$**?"
+msgstr "உள்ளக கோப்பை **திறக்க வேண்டுமா**?"
+
+#. Open a file that is stored on your computer
+#, priority:180
+msgctxt "openLocalFile"
+msgid "open a local file"
+msgstr "உள்ளக கோப்பைத் திறக்கவும்"
+
+#, ignore-translated
+msgctxt "loading"
+msgid "Loading"
+msgstr "ஏற்றுகிறது"
+
+#, priority:190
+msgctxt "useExperimentalAlgorithm"
+msgid "Use experimental algorithm"
+msgstr "சோதனை வழிமுறையைப் பயன்படுத்தவும்"
+
+#, ignore-translated, priority:150
+msgctxt "useExperimentalAlgorithmTooltip"
+msgid ""
+"➕ 🆕 Now works on most websites!\n"
+"➕ Allows skipping silent parts entirely instead of playing them at a faster "
+"rate.\n"
+"➕ No audio distortion or delay.\n"
+"➖ May break playback-related functionality on some websites.\n"
+"➖ The chart won't display the actual volume on silent parts (it will just "
+"show 0 instead)."
+msgstr ""
+"➕ 🆕 இப்போது பெரும்பாலான வலைத்தளங்களில் வேலை செய்கிறது!\n"
+" Silenies அமைதியான பகுதிகளை வேகமான விகிதத்தில் விளையாடுவதற்குப் பதிலாக அவற்றை "
+"முழுவதுமாகத் தவிர்க்க அனுமதிக்கிறது.\n"
+" Audion ஆடியோ விலகல் அல்லது நேரந்தவறுகை இல்லை.\n"
+" Wesites சில வலைத்தளங்களில் பிளேபேக் தொடர்பான செயல்பாட்டை உடைக்கலாம்.\n"
+" ➖ விளக்கப்படம் அமைதியான பகுதிகளில் உண்மையான அளவைக் காட்டாது (இது அதற்கு பதிலாக 0 ஐக்"
+" காண்பிக்கும்)."
+
+#. Possible consequences are the next two strings:
+#. 
+#. * https://hosted.weblate.org/translate/jump-cutter/extension-ui/en/?checksum=d2358245ecf7d06e
+#. * https://hosted.weblate.org/translate/jump-cutter/extension-ui/en/?checksum=9f17bbdaef1f2729
+#. 
+#. Wrapping anything into `**` is not necessary. This is a part that will be shown in italics. You can simply omit all the `**` as if it's a regular string. This way nothing will be shown in italics.
+#, case-insensitive, ignore-translated, placeholders:$CONSEQUENCES$, regex:^.*[*]{2}.*[*]{2}.*$
+msgctxt "mediaUnsupported"
+msgid "This media is **likely** unsupported — $consequences$."
+msgstr "இந்த ஊடகம் **சாத்தியமான** ஆதரிக்கப்படாதது — $consequences$."
+
+#, ignore-translated
+msgctxt "couldGetMuted"
+msgid "it could get muted if we attach to it"
+msgstr "நாம் அதை இணைத்தால் அது முடக்கலாம்"
+
+#, ignore-translated
+msgctxt "silenceSkippingWontWork"
+msgid "silence skipping won't work properly"
+msgstr "ம silence னத்தைத் தவிர்ப்பது சரியாக வேலை செய்யாது"
+
+#. A direct link to the video. Is both a suggestion and a command.
+#, priority:190
+msgctxt "tryOpeningDirectly"
+msgid "Try opening it directly"
+msgstr "அதை நேரடியாக திறக்க முயற்சிக்கவும்"
+
+#, ignore-translated
+msgctxt "or"
+msgid "Or"
+msgstr "அல்லது"
+
+#, ignore-translated
+msgctxt "tryAttachAnyway"
+msgid "Try to attach anyway"
+msgstr "எப்படியும் இணைக்க முயற்சி செய்யுங்கள்"
+
+#, ignore-translated
+msgctxt "refreshIfMuted"
+msgid "Refresh the page if the media got muted"
+msgstr "ஊடகங்கள் முடக்கப்பட்டால் பக்கத்தைப் புதுப்பிக்கவும்"
+
+#. How quiet it needs to get before we speed up the video.
+#, ignore-multiple-failures, priority:210
+msgctxt "volumeThreshold"
+msgid "Lowest speech loudness"
+msgstr "மிகக் குறைந்த பேச்சு ஒலி"
+
+#, ignore-translated, priority:160
+msgctxt "volumeThresholdTooltip"
+msgid ""
+"When the current audio volume is below this value, speed up.\n"
+"On the chart, this is the red 🟥 horizontal line. The blue 🟦 line is the "
+"current volume, so when the blue line is below the red, it is considered to "
+"be silence."
+msgstr ""
+"தற்போதைய ஆடியோ தொகுதி இந்த மதிப்புக்கு கீழே இருக்கும்போது, வேகத்தை அதிகரிக்கவும்.\n"
+" விளக்கப்படத்தில், இது சிவப்பு 🟥 கிடைமட்ட கோடு. நீல 🟦 வரி தற்போதைய தொகுதி, எனவே "
+"நீலக்கோடு சிவப்பு நிறத்திற்கு கீழே இருக்கும்போது, அது ம .னமாக கருதப்படுகிறது."
+
+#. The speed at which we play the video when it's currently NOT silent, the "normal" speed.
+#, ignore-multiple-failures, priority:210
+msgctxt "soundedSpeed"
+msgid "Regular speed"
+msgstr "வழக்கமான விரைவு"
+
+#, ignore-translated, priority:155
+msgctxt "soundedSpeedTooltip"
+msgid ""
+"The speed at which we play the video when it's currently NOT silent, the "
+"\"normal\" speed.\n"
+"On the chart, the parts that were played at this speed have green 🟩 "
+"background."
+msgstr ""
+"வீடியோ தற்போது அமைதியாக இல்லாதபோது நாங்கள் விளையாடும் விரைவு, \"சாதாரண\" வேகம்.\n"
+" விளக்கப்படத்தில், இந்த வேகத்தில் விளையாடிய பகுதிகள் பச்சை -பின்னணியைக் கொண்டுள்ளன."
+
+#. The speed at which we play the silent parts
+#, priority:210
+msgctxt "silenceSpeed"
+msgid "Silence speed"
+msgstr "ம silence ன விரைவு"
+
+#. `$relativeNote$` could be empty or assume the value of [the next string](https://hosted.weblate.org/translate/jump-cutter/extension-ui/en/?checksum=c0f1161a27082f67) (see the screenshots).
+#, case-insensitive, ignore-translated, placeholders:$RELATIVENOTE$, priority:155
+msgctxt "silenceSpeedTooltip"
+msgid ""
+"The speed at which we play the silent parts.\n"
+"On the chart, the parts that were played at this speed have red 🟥 "
+"background.$relativeNote$\n"
+"⚠️ If this value is very high (> ~4) the beginnings of sentences may also "
+"start getting skipped (it's like \"Margin before\" is smaller)."
+msgstr ""
+"அமைதியான பகுதிகளை நாங்கள் விளையாடும் வேகம்.\n"
+" விளக்கப்படத்தில், இந்த வேகத்தில் விளையாடிய பகுதிகள் சிவப்பு 🟥 பின்னணியைக் "
+"கொண்டுள்ளன.$relativeNote$\n"
+"⚠️ இந்த மதிப்பு மிக அதிகமாக இருந்தால் (> ~ 4) வாக்கியங்களின் தொடக்கமும் தவிர்க்கத் "
+"தொடங்கலாம் (இது \"விளிம்பு முன்\" சிறியது போன்றது)."
+
+#, ignore-translated, priority:150
+msgctxt "silenceSpeedTooltipRelativeNote"
+msgid ""
+"\n"
+"Note that it is specified as a multiplier of the sounded speed, so e.g. if "
+"sounded speed is 1.5 and silence speed is 2, the resulting absolute value "
+"will be 3. You can change this behavior on the options page."
+msgstr ""
+"\n"
+"இது ஒலிக்கும் வேகத்தின் பெருக்கமாக குறிப்பிடப்பட்டுள்ளது என்பதை நினைவில் கொள்க, எனவே எ.கா"
+". ஒலி விரைவு 1.5 ஆகவும், ம silence ன விரைவு 2 ஆகவும் இருந்தால், இதன் விளைவாக "
+"முழுமையான மதிப்பு 3 ஆக இருக்கும். இந்த நடத்தையை விருப்பங்கள் பக்கத்தில் மாற்றலாம்."
+
+#. Talking about video playback speed, i.e. "silence speed (relative to sounded speed)". See the screenshot with an explanation.
+#, ignore-translated, priority:180
+msgctxt "relativeToSounded"
+msgid "relative to sounded speed"
+msgstr "ஒலி வேகத்துடன் தொடர்புடையது"
+
+#. Talking about playback speed, i.e. "absolute speed".
+#, ignore-translated, priority:180
+msgctxt "absolute"
+msgid "absolute"
+msgstr "தனி, சார்பிலா"
+
+#. When it's currently silent and then we encounter a loud part, how many seconds prior to it we need to slow down (switch to sounded speed).
+#. This is mostly to ensure that you can clearly hear the very first letters when someone begins to speak.
+#, ignore-translated, priority:170
+msgctxt "marginBefore"
+msgid "Margin before"
+msgstr "முன் விளிம்பு"
+
+#, ignore-translated, priority:120
+msgctxt "marginBeforeTooltip"
+msgid ""
+"When it's currently silent and then we encounter a loud part, how many "
+"seconds prior to it we need to slow down (switch to sounded speed).\n"
+"This is mostly to ensure that you can clearly hear the very first letters "
+"when someone begins to speak.\n"
+"\n"
+"⚠️ Note that non-zero values will cause audio DISTORTION when switching from "
+"silence to sounded speed AND will add constant audio DELAY equivalent to the "
+"value of this setting. These drawbacks do not apply if you use the "
+"\"experimental algorithm\"."
+msgstr ""
+"இது தற்போது அமைதியாக இருக்கும்போது, பின்னர் நாம் ஒரு உரத்த பகுதியை எதிர்கொள்கிறோம், "
+"அதற்கு எத்தனை வினாடிகளுக்கு முன்பு நாம் மெதுவாக இருக்க வேண்டும் (ஒலி வேகத்திற்கு "
+"மாறவும்).\n"
+" யாராவது பேசத் தொடங்கும் போது முதல் கடிதங்களை நீங்கள் தெளிவாகக் கேட்க முடியும் என்பதை "
+"உறுதிப்படுத்த இது பெரும்பாலும் உள்ளது.\n"
+"\n"
+" Meaze பூச்சியமற்ற மதிப்புகள் ம silence னத்திலிருந்து ஒலிக்கும் வேகத்திற்கு மாறும்போது "
+"ஆடியோ விலகலை ஏற்படுத்தும் என்பதை நினைவில் கொள்க, மேலும் இந்த அமைப்பின் மதிப்புக்கு சமமான "
+"நிலையான ஆடியோ தாமதத்தை சேர்க்கும். நீங்கள் \"சோதனை வழிமுறையை\" பயன்படுத்தினால் இந்த "
+"குறைபாடுகள் பொருந்தாது."
+
+#. This is similar to "margin before". When it was loud and then became silent, how many seconds we need to wait before speeding up (switching to silence speed).
+#. This is mostly to keep pauses in the speech at least to some degree so words don't get mushed together and to ensure that you can clearly hear the very last letters in a sentence.
+#, ignore-translated, priority:170
+msgctxt "marginAfter"
+msgid "Margin after"
+msgstr "விளிம்பு பிறகு"
+
+#, ignore-translated, priority:120
+msgctxt "marginAfterTooltip"
+msgid ""
+"This is similar to \"margin before\". When it was loud and then became "
+"silent, how many seconds we need to wait before speeding up (switching to "
+"silence speed).\n"
+"This is mostly to keep pauses in the speech at least to some degree so words "
+"don't get mushed together and to ensure that you can clearly hear the very "
+"last letters in a sentence.\n"
+"Unlike \"margin before\" this doesn't cause audio distortion & delay (but "
+"it's not to say that these settings are interchangeable)."
+msgstr ""
+"இது \"விளிம்பு முன்\" போன்றது. அது சத்தமாகவும் பின்னர் அமைதியாகவும் இருந்தபோது, "
+"வேகப்படுத்துவதற்கு முன்பு எத்தனை வினாடிகள் காத்திருக்க வேண்டும் (ம silence னம் வேகத்திற்கு"
+" மாறுகிறது).\n"
+" இது பெரும்பாலும் பேச்சில் இடைநிறுத்தங்களை குறைந்தபட்சம் ஓரளவாவது வைத்திருக்க வேண்டும், "
+"எனவே சொற்கள் ஒன்றிணைக்கப்படாது, மேலும் ஒரு வாக்கியத்தின் கடைசி கடிதங்களை நீங்கள் தெளிவாகக் "
+"கேட்க முடியும் என்பதை உறுதிப்படுத்தவும்.\n"
+" \"விளிம்பு முன்\" போலல்லாமல் இது ஆடியோ விலகல் மற்றும் தாமதத்தை ஏற்படுத்தாது (ஆனால் இந்த "
+"அமைப்புகள் ஒன்றோடொன்று மாறக்கூடியவை என்று சொல்ல முடியாது)."
+
+#, priority:203
+msgctxt "fileInputLabel"
+msgid ""
+"Drop one or several files here\n"
+"or click to select"
+msgstr ""
+"ஒன்று அல்லது பல கோப்புகளை இங்கே விடுங்கள்\n"
+" அல்லது தேர்ந்தெடுக்க சொடுக்கு செய்க"
+
+msgctxt "general"
+msgid "General"
+msgstr "பொது"
+
+#, priority:105
+msgctxt "wheneverPlaybackRateChangesFromOtherScripts"
+msgid "Whenever playback rate gets changed by other scripts"
+msgstr "பிற ச்கிரிப்ட்களால் பின்னணி விகிதம் மாற்றப்படும் போதெல்லாம்"
+
+#, priority:105
+msgctxt "updateSoundedSpeedWheneverItChangesOnWebsite"
+msgid ""
+"I want to control playback rate (sounded speed) through the website's UI or "
+"through other extensions, not just this one. This will update sounded speed "
+"whenever playback rate gets changed."
+msgstr ""
+"வலைத்தளத்தின் இடைமுகம் மூலமாகவோ அல்லது பிற நீட்டிப்புகள் மூலமாகவோ பிளேபேக் வீதத்தை (ஒலி "
+"வேகத்தை) கட்டுப்படுத்த விரும்புகிறேன், இது மட்டுமல்ல. பிளேபேக் விகிதம் மாறும்போதெல்லாம் "
+"இது வேகமான வேகத்தை புதுப்பிக்கும்."
+
+#, priority:105
+msgctxt "preventOtherScriptsFromChangingPlaybackRate"
+msgid ""
+"On some websites I visit, playback rate is getting changed in an unexpected "
+"manner. Don't let them change playback rate set by this extension."
+msgstr ""
+"நான் பார்வையிடும் சில வலைத்தளங்களில், பிளேபேக் வீதம் எதிர்பாராத விதத்தில் மாற்றப்பட்டு "
+"வருகிறது. இந்த நீட்டிப்பால் அமைக்கப்பட்ட பின்னணி வீதத்தை மாற்ற வேண்டாம்."
+
+#, priority:105
+msgctxt "doNothingWheneverPlaybackRateChanges"
+msgid ""
+"None of the above. Simply ignore playback rate changes from other scripts."
+msgstr ""
+"மேலே எதுவும் இல்லை. மற்ற ச்கிரிப்ட்களிலிருந்து பின்னணி வீத மாற்றங்களை புறக்கணிக்கவும்."
+
+#. Only manipulate speed of elements of these types
+#, priority:105
+msgctxt "applyTo"
+msgid "Apply to"
+msgstr "பொருந்தும்"
+
+msgctxt "none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, case-insensitive, placeholders:$TYPE$, priority:105
+msgctxt "applyToOnly"
+msgid "$type$ elements only"
+msgstr "$type$ கூறுகள் மட்டுமே"
+
+msgctxt "applyToBoth"
+msgid "Both video and audio elements"
+msgstr "வீடியோ மற்றும் ஆடியோ கூறுகள் இரண்டும்"
+
+#. It's a setting name, not a direction to the user
+msgctxt "omitMutedElements"
+msgid "Don't apply to muted media elements"
+msgstr "முடக்கிய ஊடக கூறுகளுக்கு விண்ணப்பிக்க வேண்டாம்"
+
+#, priority:105
+msgctxt "silenceSpeedSpecificationMethod"
+msgid "Silence speed specification method"
+msgstr "ம silence ன வேக விவரக்குறிப்பு முறை"
+
+msgctxt "absoluteSilenceSpeedClarification"
+msgid " (a.k.a. relative to normal (intrinsic) media speed)"
+msgstr " (a.k.a. இயல்பான (உள்ளார்ந்த) ஊடக வேகத்துடன் தொடர்புடையது)"
+
+#, priority:5, read-only
+msgctxt "enableDesyncCorrection"
+msgid ""
+"Enable correction of audio-video desynchronization (side effect: for the "
+"most part unnoticeable stutter every minute or so)"
+msgstr ""
+
+#. Note: you are free to not use the placeholders and just replace them with plain text.
+#, case-insensitive, ignore-multiple-failures, placeholders:$MARGINBEFORELABEL$:$MARGINAFTERLABEL$:$USEEXPERIMENTALALGORITHMLABEL$
+msgctxt "useSeparateMarginSettingsForDifferentAlgorithms"
+msgid ""
+"Use separate silence skipping settings for different algorithms (related to "
+"the \"$useExperimentalAlgorithmLabel$\" setting)"
+msgstr ""
+"வெவ்வேறு வழிமுறைகளுக்குத் தனித்தனி அமைதித் தவிர்ப்பது அமைப்புகளைப் பயன்படுத்தவும் ("
+"\"$useExperimentalAlgorithmLabel$\" அமைப்போடு தொடர்புடையது)"
+
+msgctxt "hotkeys"
+msgid "Hotkeys"
+msgstr "ஆட்கீச்"
+
+msgctxt "hotkey"
+msgid "Hotkey"
+msgstr "ஆட்ச்கி"
+
+#, priority:103
+msgctxt "enableHotkeys"
+msgid "Enable hotkeys"
+msgstr "ஆட்கீசை இயக்கவும்"
+
+#. Note: you are free to replace `$switch$` with plain text (e.g. `The difference between "switch" and "=" is...`)
+#, case-insensitive, placeholders:$SWITCH$
+msgctxt "hotkeysNotes"
+msgid ""
+"Modifier keys (Ctrl, Shift, etc.) are supported.\n"
+"Several actions can be bound to a single key. This can be utilized to create "
+"\"profiles\".\n"
+"The difference between \"$switch$\" and \"=\" (a.k.a \"set\") actions is "
+"that \"$switch$\" toggles the value between the previous value and the "
+"hotkey's argument, while \"set\" always sets it to the argument's value.\n"
+"Hotkeys are also active when the popup is open."
+msgstr ""
+"மாற்றியமைக்கும் விசைகள் (Ctrl, உயர்த்து போன்றவை) ஆதரிக்கப்படுகின்றன.\n"
+" பல செயல்களை ஒரு விசையுடன் பிணைக்க முடியும். \"சுயவிவரங்களை\" உருவாக்க இதைப் "
+"பயன்படுத்தலாம்.\n"
+" \"$switch$\" மற்றும் \"=\" (a.k.a \"செட்\") செயல்களுக்கு இடையிலான வேறுபாடு "
+"என்னவென்றால், \"$switch$\" முந்தைய மதிப்புக்கும் ஆட்கியின் வாதத்திற்கும் இடையிலான மதிப்பை "
+"மாற்றுகிறது, அதே நேரத்தில் \"செட்\" அதை எப்போதும் வாதத்தின் மதிப்புக்கு அமைக்கிறது.\n"
+" பாப்அப் திறந்திருக்கும்போது ஆட்கிகளும் செயலில் உள்ளன."
+
+#. See the previous string. The context is hotkeys that can switch some numeric setting between two values (e.g. 1 and 3). So "Activate/deactivate" probably won't be a good translation.
+msgctxt "switch"
+msgid "switch"
+msgstr "ஆளி, நிலைமாறி"
+
+msgctxt "rewind"
+msgid "Rewind (seconds)"
+msgstr "முன்னாடி (விநாடிகள்)"
+
+msgctxt "advance"
+msgid "Advance (seconds)"
+msgstr "முன்கூட்டியே (விநாடிகள்)"
+
+msgctxt "togglePause"
+msgid "Pause/unpause"
+msgstr "இடைவெளி/உண்மையற்றது"
+
+msgctxt "toggleMute"
+msgid "Mute/unmute"
+msgstr "முடக்கு/அசைவு"
+
+msgctxt "decreaseVolume"
+msgid "Decrease volume (%)"
+msgstr "அளவைக் குறைக்கவும் (%)"
+
+msgctxt "increaseVolume"
+msgid "Increase volume (%)"
+msgstr "அளவை அதிகரிக்கவும் (%)"
+
+msgctxt "action"
+msgid "Action"
+msgstr "செயல்"
+
+msgctxt "value"
+msgid "Value"
+msgstr "மதிப்பு"
+
+msgctxt "overrideWebsiteHotkeys"
+msgid "Override website hotkeys"
+msgstr "வலைத்தள ஆட்கீசை மேலெழுதவும்"
+
+msgctxt "removeBinding"
+msgid "Remove binding"
+msgstr "பிணைப்பை அகற்று"
+
+msgctxt "addBinding"
+msgid "Add new hotkey"
+msgstr "புதிய ஆட்ச்கி சேர்க்கவும்"
+
+msgctxt "openPopup"
+msgid "Open popup"
+msgstr "திறந்த பாப்அப்"
+
+#. A button to change something (currently the shortcut combination).
+msgctxt "edit"
+msgid "Edit"
+msgstr "தொகு"
+
+msgctxt "popup"
+msgid "Popup"
+msgstr "பாப் அப்"
+
+#. The title of a settings section dedicated to the chart
+msgctxt "chart"
+msgid "Chart"
+msgstr "விளக்கப்படம்"
+
+msgctxt "chartLengthInSeconds"
+msgid "Length in seconds"
+msgstr "விநாடிகளில் நீளம்"
+
+msgctxt "chartJumpPeriod"
+msgid ""
+"Jump period, %. Expressed as a fraction of chart length. Set to 0 for smooth "
+"movement (no jumps)."
+msgstr ""
+"சம்ப் காலம், %. விளக்கப்பட நீளத்தின் ஒரு பகுதியாக வெளிப்படுத்தப்படுகிறது. மென்மையான "
+"இயக்கத்திற்கு 0 ஆக அமைக்கவும் (தாவல்கள் இல்லை)."
+
+msgctxt "chartWidthPx"
+msgid "Width (pixels)"
+msgstr "அகலம் (பிக்சல்கள்)"
+
+msgctxt "chartHeightPx"
+msgid "Height (pixels)"
+msgstr "உயரம் (பிக்சல்கள்)"
+
+msgctxt "chartSpeed"
+msgid "Movement speed"
+msgstr "இயக்க விரைவு"
+
+msgctxt "chartSpeedIntrinsicTime"
+msgid "Same as the current video speed"
+msgstr "தற்போதைய வீடியோ வேகத்தைப் போலவே"
+
+msgctxt "chartSpeedSoundedSpeedTime"
+msgid "Same as the current video speed, relative to sounded speed"
+msgstr "தற்போதைய வீடியோ வேகத்தைப் போலவே, ஒலிக்கும் வேகத்துடன் தொடர்புடையது"
+
+msgctxt "chartSpeedRealTime"
+msgid "Constant (real-time)"
+msgstr "மாறிலி (நிகழ்நேர)"
+
+msgctxt "rangeSlidersAttributes"
+msgid "Range sliders' attributes"
+msgstr "ரேஞ்ச் ச்லைடர்களின் பண்புக்கூறுகள்"
+
+msgctxt "rangeSlidersAttributesNote"
+msgid ""
+"Be aware that browsers do not support playback rates above a certain limit.\n"
+"At the time of writing it's 16 for Chromium (Chrome, Edge) and 8 (by default)"
+" for Gecko (Firefox)."
+msgstr ""
+"உலாவிகள் ஒரு குறிப்பிட்ட வரம்பை விட பின்னணி விகிதங்களை ஆதரிக்காது என்பதை அறிந்து "
+"கொள்ளுங்கள்.\n"
+" எழுதும் நேரத்தில் இது குரோமியம் (குரோம், எட்ச்) மற்றும் 8 (இயல்புநிலையாக) கெக்கோ "
+"(பயர்பாக்ச்) க்கு 16 ஆகும்."
+
+msgctxt "min"
+msgid "Min"
+msgstr "மணித்துளி"
+
+msgctxt "max"
+msgid "Max"
+msgstr "அதிகபட்சம்"
+
+msgctxt "step"
+msgid "Step"
+msgstr "படி"
+
+msgctxt "input"
+msgid "Input"
+msgstr "உள்ளீடு"
+
+#. It's for the popup. Input may be a checkbox or a range slider. It's so that if you're using keyboard to control the inputs, hotkeys don't also get triggered.
+msgctxt "disableHotkeysWhileInputFocused"
+msgid "Disable hotkeys while an input is in focus"
+msgstr "உள்ளீடு கவனம் செலுத்தும்போது ஆட்கீசை முடக்கு"
+
+#, case-insensitive, placeholders:$ENABLECHECKBOXLABEL$
+msgctxt "autofocusEnabledInput"
+msgid "Autofocus the \"$enableCheckboxLabel$\" checkbox when popup opens"
+msgstr ""
+"ஆட்டோஃபோகச் பாப்அப் திறக்கும்போது \"$enableCheckboxLabel$\" தேர்வுப்பெட்டியை தேர்வு"
+
+#, case-insensitive, placeholders:$OPENLOCALFILELABEL$
+msgctxt "alwaysShowOpenLocalFileLink"
+msgid "Show the \"$openLocalFileLabel$\" link"
+msgstr "\"$openLocalFileLabel$\" இணைப்பைக் காட்டு"
+
+msgctxt "popupSpecificHotkeys"
+msgid "Popup-specific hotkeys"
+msgstr "பாப்அப்-குறிப்பிட்ட ஆட்கீச்"
+
+msgctxt "timeSavedAveragingMethod"
+msgid "Averaging method"
+msgstr "சராசரி முறை"
+
+msgctxt "timeSavedAveragingMethodAllTime"
+msgid "All-time average (no decay)"
+msgstr "எல்லா நேர சராசரி (சிதைவு இல்லை)"
+
+msgctxt "timeSavedAveragingMethodExponential"
+msgid "Only take into account the latest data (exponential decay)"
+msgstr "அண்மைக் கால தரவை மட்டுமே கணக்கில் எடுத்துக் கொள்ளுங்கள் (அதிவேக சிதைவு)"
+
+msgctxt "timeSavedAveragingWindowLength"
+msgid "Only take into account the last N seconds of playback"
+msgstr "பிளேபேக்கின் கடைசி n விநாடிகளை மட்டுமே கணக்கில் எடுத்துக்கொள்ளுங்கள்"
+
+msgctxt "timeSavedExponentialAveragingLatestDataWeight"
+msgid "Latest playback period averaging weight"
+msgstr "அண்மைக் கால திருப்பிச் செலுத்தும் காலம் சராசரி எடை"
+
+#, case-insensitive, placeholders:$LENGTH$
+msgctxt "timeSavedDataWeightDecayTimeConstant"
+msgid "Resulting data weight half-life: $length$ seconds"
+msgstr "இதன் விளைவாகத் தரவு எடை அரை ஆயுள்: $length$ வினாடிகள்"
+
+msgctxt "iconBadge"
+msgid "Extension's icon badge"
+msgstr "நீட்டிப்பின் படவுரு ஒட்டு"
+
+msgctxt "badgeWhatSettingToDisplayByDefault"
+msgid "What setting value to display by default"
+msgstr "இயல்புநிலையாக காண்பிக்க என்ன மதிப்பு"
+
+msgctxt "meta"
+msgid "Meta"
+msgstr "மெட்டா"
+
+msgctxt "downloadFromSync"
+msgid "Apply settings from sync storage"
+msgstr "ஒத்திசைவு சேமிப்பகத்திலிருந்து அமைப்புகளைப் பயன்படுத்துங்கள்"
+
+msgctxt "uploadToSync"
+msgid "Upload settings to sync storage"
+msgstr "சேமிப்பகத்தை ஒத்திசைக்க அமைப்புகளை பதிவேற்றவும்"
+
+#. Restore the settings' default values.
+#, priority:180
+msgctxt "resetToDefaults"
+msgid "Reset to defaults"
+msgstr "இயல்புநிலைகளுக்கு மீட்டமைக்கவும்"
+
+msgctxt "about"
+msgid "About"
+msgstr "பற்றி"
+
+msgctxt "license"
+msgid "License"
+msgstr "உரிமம்"
+
+msgctxt "helpTranslate"
+msgid "Help translate"
+msgstr "மொழிபெயர்க்க உதவுங்கள்"
+
+msgctxt "donate"
+msgid "Donate"
+msgstr "நன்கொடை"
+
+#. A.k.a. "Contact us". Link title for the contact email.
+msgctxt "contact"
+msgid "Contact"
+msgstr "தொடர்பு"
+
+msgctxt "chat"
+msgid "Chat"
+msgstr "அரட்டை"
+
+#. This is a link to another extension called [Snowflake](https://chrome.google.com/webstore/detail/snowflake/mafpmfcccpbjnhfhjnllmmalhifmlcie)
+msgctxt "runSnowflakeBridge"
+msgid ""
+"Help others circumvent censorship by simply installing (another) extension"
+msgstr ""
+"(மற்றொரு) நீட்டிப்பை நிறுவுவதன் மூலம் தணிக்கை செய்ய மற்றவர்களுக்கு உதவுங்கள்"
+
+#. Saving settings
+msgctxt "saving"
+msgid "Saving…"
+msgstr "சேமிப்பு…"
+
+#. Saved settings
+msgctxt "saved"
+msgid "Saved"
+msgstr "சேமிக்கப்பட்டது"
+
+#, priority:109
+msgctxt "hasErrors"
+msgid "Errors found"
+msgstr "பிழைகள் காணப்பட்டன"
+
+#, ignore-translated, priority:109
+msgctxt "showErrors"
+msgid "Show errors"
+msgstr "பிழைகளைக் காட்டு"

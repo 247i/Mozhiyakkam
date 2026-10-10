@@ -1,0 +1,1223 @@
+#
+msgid ""
+msgstr ""
+"Project-id-version: மூலிகை_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "abelmoschus esculentus"
+msgstr "வெண்டை"
+
+msgid "abelmoschus moschatus"
+msgstr "கந்துகஸ்தூரி"
+
+msgid "abies weebbiana"
+msgstr "தாலிசப்பத்திரி"
+
+msgid "abrus fruitiloculus"
+msgstr "வெண்குந்திரி, விடதரி"
+
+msgid "abrus precatorius"
+msgstr "குண்றிமணி"
+
+msgid "abulitum indicum"
+msgstr "துத்தி"
+
+msgid "acacia arabica"
+msgstr "கருவெல்லம்"
+
+msgid "acacia concuna"
+msgstr "சீக்காய், சீயக்காய்"
+
+msgid "acacia pennata"
+msgstr "காட்டுசிகை, இந்து"
+
+msgid "acacia polyacanthapolycantha"
+msgstr "சிலையுஞ்சில்"
+
+msgid "acalypha indica"
+msgstr "குப்பைமேனி"
+
+msgid "acalypha paniculata"
+msgstr "குப்பைமேனி"
+
+msgid "achyranthes aspera"
+msgstr "நாயுருவி"
+
+msgid "acorus calamus"
+msgstr "வசம்பு"
+
+msgid "adathoda tranquebariensis"
+msgstr "தவசு முருங்கை"
+
+msgid "adenan thera pavonia"
+msgstr "மஞ்சாடி, ஆனைக்குன்றுமணி"
+
+msgid "aegle marmelos"
+msgstr "வில்வம்"
+
+msgid "agave americana"
+msgstr "ஆனைக் கற்றாழை, யானைக் கற்றாழை"
+
+msgid "agave sisalana"
+msgstr "கதலை"
+
+msgid "ailanthus excelsa"
+msgstr "பெருமரம், நாரு"
+
+msgid "alangium lamarckii"
+msgstr "அழிஞ்சில்"
+
+msgid "alangium salviifolium"
+msgstr "அழிஞ்சில்"
+
+msgid "albizia lebbeck"
+msgstr "வாகை"
+
+msgid "albizia odoratissima"
+msgstr "கருவாகை"
+
+msgid "alfalfa"
+msgstr "குதிரைமசால்"
+
+msgid "aloe barbadensis"
+msgstr "சீமை மூசம்பரம்"
+
+msgid "aloe littoracis"
+msgstr "மூசம்பரம்"
+
+msgid "aloe vera"
+msgstr "சோத்துக் கற்றாழை"
+
+msgid "alonitum heterophyllum"
+msgstr "அதிவிடயம்"
+
+msgid "alpinia galanga"
+msgstr "அரத்தை"
+
+msgid "alternanthera sessilis"
+msgstr "பொன்னாங்கண்ணி"
+
+msgid "amaranthus spinosus"
+msgstr "முள்ளுக்கீரை"
+
+msgid "amaranthus tricolour"
+msgstr "அரைக்கீரை"
+
+msgid "ammnia vesicatorius"
+msgstr "நீர்மேல் நெருப்பு"
+
+msgid "amomum sublatum"
+msgstr "பெரிய ஏலக்கி"
+
+msgid "amorphophallus sylvaticus"
+msgstr "காட்டுச்சேனை"
+
+msgid "anacordium occidentale"
+msgstr "முந்திரி"
+
+msgid "anethum sowa"
+msgstr "சதகுப்பை"
+
+msgid "animated oats"
+msgstr "(காட்டுக்) காடைக்கண்ணி"
+
+msgid "anisochilus carnosum"
+msgstr "கர்ப்பூரவள்ளி"
+
+msgid "anisomeles malabarica"
+msgstr "பேய்மிரட்டி"
+
+msgid "annona squamosa"
+msgstr "சீத்தா"
+
+msgid "aponogeton natans"
+msgstr "கொட்டிக்கிழங்கு"
+
+msgid "aquilaria agallocha"
+msgstr "அகில், காகதுண்டம்"
+
+msgid "aristida setacea"
+msgstr "துடைப்பம்"
+
+msgid "aristolochia bractiata"
+msgstr "ஆடுதீண்டாப்பாளை"
+
+msgid "arum lyratum"
+msgstr "கொண்டை ராகிசு"
+
+msgid "arum oolocasia"
+msgstr "சேம்பு"
+
+msgid "asparagus racemosus"
+msgstr "தண்ணீர்விட்டான் கிழங்கு"
+
+msgid "asystasis gangetica"
+msgstr "நறுஞ்சுவைக் கீரை"
+
+msgid "atalantia monophylla"
+msgstr "காட்டு எலுமிச்சை"
+
+msgid "audiographus paniculata"
+msgstr "நிலவேம்பு"
+
+msgid "avena sativa"
+msgstr "(சீமைக்) காடைக்கண்ணி"
+
+msgid "avena sterillis"
+msgstr "(காட்டுக்) காடைக்கண்ணி"
+
+msgid "azadiracta indica"
+msgstr "வெம்பு"
+
+msgid "azima tetracantha"
+msgstr "முட்சங்கான்"
+
+msgid "bambusa arundinacea"
+msgstr "மூங்கிலிரிசி"
+
+msgid "baringtonia acutangula"
+msgstr "செங்கதப்பு"
+
+msgid "baringtonia racemosa"
+msgstr "சமுத்திரப் பழம்"
+
+msgid "barlenia priontis"
+msgstr "செம்முல்லி, காட்டுகானா"
+
+msgid "barleria cristata"
+msgstr "செம்முள்ளி"
+
+msgid "basella alba"
+msgstr "பசளைக் கீரை"
+
+msgid "basella rubra"
+msgstr "கொடிப்பசளைக் கீரை"
+
+msgid "bauhinia tomentosa"
+msgstr "இறுவாட்சி"
+
+msgid "berberis aristata"
+msgstr "மரமஞ்சள்"
+
+msgid "bixa orellana"
+msgstr "வருகமஞ்சள், மந்திரவஞ்சி"
+
+msgid "blumea lacera"
+msgstr "காட்டுமுள்ளங்கி"
+
+msgid "boerhavia diffusa"
+msgstr "மூக்குரட்டை"
+
+msgid "borassus flabellifer"
+msgstr "பனை"
+
+msgid "boverheavia repen"
+msgstr "மூக்கரத்தைக் கீரை"
+
+msgid "broyonia laciniosa"
+msgstr "ஐவிரலி"
+
+msgid "buchanania axillaris"
+msgstr "புளிமா"
+
+msgid "bulletwood"
+msgstr "மகிலா மரம்"
+
+msgid "burea frondosa"
+msgstr "பலசு"
+
+msgid "caesalina pulcherrima"
+msgstr "மயில்கொன்றை"
+
+msgid "calaba fruitcosa"
+msgstr "விழுந்தி"
+
+msgid "calamus rotang"
+msgstr "பிறப்பான் கிழங்கு"
+
+msgid "calculus bovis"
+msgstr "கோரோசனை"
+
+msgid "calotropis gigantea"
+msgstr "எருக்கன், அருக்கன், ஆள்மிரட்டி"
+
+msgid "cammelina benghalensis"
+msgstr "கானாம்வாழை"
+
+msgid "cannabis sativa"
+msgstr "கஞ்சா, ஆநந்தமூலம்"
+
+msgid "canthium parvifolium"
+msgstr "சிறுக்காரை"
+
+msgid "capparis brevispina"
+msgstr "ஆதந்தை"
+
+msgid "capparis horrida"
+msgstr "ஆதொண்டை"
+
+msgid "capparis zeylanica"
+msgstr "சுடுத்தொரட்டி"
+
+msgid "capsium annum"
+msgstr "மிளகாய்"
+
+msgid "capsium minimum roch."
+msgstr "சீமை மிளகாய்"
+
+msgid "carallumma umbellata"
+msgstr "கல்முளையான்"
+
+msgid "cardiospermum halicacabum"
+msgstr "முடக்கற்றான்"
+
+msgid "carmona retusa"
+msgstr "குரங்கு வெற்றிலை, குருவிச்சிப்பழம்"
+
+msgid "carrissa carandas"
+msgstr "களா, கிளா"
+
+msgid "carrissa spinarum"
+msgstr "சிறுக்களா"
+
+msgid "carum roxburghianum"
+msgstr "ஓமம்"
+
+msgid "cassia alata"
+msgstr "சீமையகத்தி"
+
+msgid "cassia anceolata"
+msgstr "நிலாவாரை"
+
+msgid "cassia augustifolia"
+msgstr "நாட்டு நிலவாகை"
+
+msgid "cassia auriculata"
+msgstr "ஆவாரை"
+
+msgid "cassia fistula"
+msgstr "சிறுக்கொன்றை"
+
+msgid "cassia tora"
+msgstr "தகரை"
+
+msgid "catharanthus roseus"
+msgstr "நித்தியகல்யாணி"
+
+msgid "centella asiatica"
+msgstr "வல்லாரை"
+
+msgid "cepparis zeylanica"
+msgstr "ஆதொண்டை"
+
+msgid "chestnut"
+msgstr "கஷ்கொட்டை"
+
+msgid "cinnamomium macrocarpum"
+msgstr "பெரிய லவங்கப்பட்டை"
+
+msgid "cissus quadrangularis"
+msgstr "பிரண்டை"
+
+msgid "cissus repens"
+msgstr "செம்பிரண்டை"
+
+msgid "citron"
+msgstr "கடார நாரத்தை"
+
+msgid "citrullus colocynthis"
+msgstr "ஆற்றுத்தும்மட்டி"
+
+msgid "citrus acida"
+msgstr "எளிமிச்சை"
+
+msgid "citrus medica"
+msgstr "கடார நாரத்தை"
+
+msgid "clemone gyrandra"
+msgstr "நிலவேளை"
+
+msgid "clemone viscova"
+msgstr "வேளை"
+
+msgid "cleome viscoza"
+msgstr "நாய்க்கடுகு"
+
+msgid "clerodendron inerme"
+msgstr "சங்கம் குப்பி"
+
+msgid "clerodendron phlomoides"
+msgstr "தழுதாரை"
+
+msgid "clerodendron phlomoides"
+msgstr "தழுதாரை"
+
+msgid "clerodendron serratum"
+msgstr "கண்டுபரங்கி"
+
+msgid "climbing ylang ylang"
+msgstr "கருமுகை"
+
+msgid "clitoria tertatea"
+msgstr "கண்ணிக்கொடி"
+
+msgid "clover"
+msgstr "சீமை மசால்"
+
+msgid "coccinia grandis"
+msgstr "கோவை"
+
+msgid "cocculus hirsutus"
+msgstr "காட்டுக்கொடி"
+
+msgid "cocus nucifera"
+msgstr "தென்னை"
+
+msgid "coleus aromaticos"
+msgstr "கற்பூரவல்லி"
+
+msgid "coleus forskohlii"
+msgstr "மருந்துகூர்க்கன்"
+
+msgid "colocasia himalensis"
+msgstr "சாமைக்கிழங்கு"
+
+msgid "coporis zeylanica"
+msgstr "ஆதண்டம்"
+
+msgid "cordia dichotoma"
+msgstr "நறுவிலி, மூக்குச்சளிப் பழம்"
+
+msgid "corollo cartus"
+msgstr "ஆகாயக் கருடன்"
+
+msgid "corypha"
+msgstr "குடைப்பனை"
+
+msgid "cucumis melo utilissimus"
+msgstr "முள்வெள்ளரி"
+
+msgid "cucumis melo var. melo"
+msgstr "சுக்கங்காய்"
+
+msgid "curculigo orchiodes"
+msgstr "குறத்தி நிலப்பனை"
+
+msgid "curcuma aromatica"
+msgstr "கஸ்தூரி மஞ்சள், கத்தூரி மஞ்சள்"
+
+msgid "curcuma longa"
+msgstr "மஞ்சள்"
+
+msgid "cuscutta"
+msgstr "கஷ்கொட்டை"
+
+msgid "cyclomen europeum"
+msgstr "சீமை மீன்கொல்லி"
+
+msgid "cymbopogon citratus"
+msgstr "எலுமிச்சைப்புல்"
+
+msgid "cynodon dactylon"
+msgstr "அருகம்புல்"
+
+msgid "cyperus rotundus"
+msgstr "கோரைக்கிழங்கு"
+
+msgid "dandelion"
+msgstr "சீமைக் காட்டுமுள்ளங்கி"
+
+msgid "datura metel"
+msgstr "ஊமத்தை"
+
+msgid "decalepis hamiltonii"
+msgstr "மாகாளிக்கிழங்கு"
+
+msgid "delonix elata"
+msgstr "வாத நாராயணன்"
+
+msgid "desmodium gangeticum"
+msgstr "மூவிலை"
+
+msgid "diascorea purpurea"
+msgstr "செவ்வள்ளிக் கொடி"
+
+msgid "diospyros ebenum"
+msgstr "கருங்காலி"
+
+msgid "diospyros embryopyeris"
+msgstr "தும்பிலிக்காய்"
+
+msgid "diospyros ferrea"
+msgstr "இறும்பிலி"
+
+msgid "diospyros melanoxylon"
+msgstr "தும்பிலி"
+
+msgid "diospyros peregrina"
+msgstr "பனிச்சை"
+
+msgid "dita bark"
+msgstr "எழிலைப்படை"
+
+msgid "dog mustard"
+msgstr "வேளை"
+
+msgid "eclipta prostrata roxb."
+msgstr "கரிசலாங்கண்ணி, வெள்ளைக் கரிசாலை"
+
+msgid "eluesin cororana gaerth"
+msgstr "கேழ்வரகு"
+
+msgid "embelia ribes burn."
+msgstr "வாய்விலங்கம்"
+
+msgid "erythrina indica"
+msgstr "கல்யாண முருங்கை"
+
+msgid "eugenia jambolana"
+msgstr "நாவல்கொட்டை"
+
+msgid "euloppia campestris wall"
+msgstr "சாலமிசிரி"
+
+msgid "euphorbia hetrophylla"
+msgstr "பால்பெருக்கி"
+
+msgid "euphorbia hirta"
+msgstr "சித்திரப்பாலாடை"
+
+msgid "euphorbia ligularia roxb."
+msgstr "இலைக்கள்ளி"
+
+msgid "euphorbia nivullia lam."
+msgstr "மண்செவிக்கள்ளி"
+
+msgid "euphorbia thymefolia"
+msgstr "அம்மன் பச்சரிசி"
+
+msgid "euphorbia tirucalli linn."
+msgstr "கள்ளி"
+
+msgid "evolvolus alsinodes"
+msgstr "விஷ்னுக்கிரந்தி"
+
+msgid "execalia agallicha linn."
+msgstr "தில்லி"
+
+msgid "fever nut"
+msgstr "சலிச்சிகை"
+
+msgid "ficus benghalensis"
+msgstr "ஆலம்"
+
+msgid "ficus elastica"
+msgstr "சீமையால்"
+
+msgid "ficus racemosa"
+msgstr "அத்தி"
+
+msgid "flacourtia indica"
+msgstr "சொத்தைக்களா"
+
+msgid "fluggea virosa"
+msgstr "வெட்புலா"
+
+msgid "galenia asiatica"
+msgstr "உகாய்"
+
+msgid "gardenia resinifera"
+msgstr "கும்பிலி"
+
+msgid "garnicia cambogia"
+msgstr "கொறுக்காய்ப்புளி"
+
+msgid "garnicia gummi-gutta"
+msgstr "பனம்புளி"
+
+msgid "garnicia indica"
+msgstr "முருகல்"
+
+msgid "garnicia spinata"
+msgstr "கோகொட்டை"
+
+msgid "garuga pinnata"
+msgstr "ஆறுநெல்லி, கருவெம்பு"
+
+msgid "gauzuma ulmifolia"
+msgstr "தேங்காய்"
+
+msgid "gelorium angustiflora"
+msgstr "வரித்தோல்"
+
+msgid "gendurasa vulgaris"
+msgstr "கருநொச்சி"
+
+msgid "ginkgo biloba"
+msgstr "வெள்ளி பாதாமி"
+
+msgid "ginseng"
+msgstr "குணசிங்கி"
+
+msgid "gisekia pharnaceoides"
+msgstr "நாவமல்லிக் கீரை, மணலக் கீரை"
+
+msgid "gloreosa superba"
+msgstr "கலப்பைக்கிழங்கு, கண்வலிக்கிழங்கு"
+
+msgid "glycosmis mauritania"
+msgstr "கொஞ்சி"
+
+msgid "gotu kota"
+msgstr "வல்லாரை"
+
+msgid "governor's plum"
+msgstr "சொத்தைக்களா"
+
+msgid "gum benzoine"
+msgstr "தூபவர்க்கம்"
+
+msgid "gymnema sylvestre"
+msgstr "அமுதுபுஷ்பம், சிறுகுறிஞ்சான்"
+
+msgid "halarrhena antidysenteria"
+msgstr "குளப்பாலை, குடசப்பாலை"
+
+msgid "hedychium spicatum"
+msgstr "பூலங்கிழங்கு"
+
+msgid "helicleris isora"
+msgstr "வலம்பிரி"
+
+msgid "heliotropium indicum"
+msgstr "தேள் கொடுக்கி"
+
+msgid "heliotropium keralense"
+msgstr "தேள் கட்டை"
+
+msgid "hemidesmus indicus"
+msgstr "நன்னாரி"
+
+msgid "hibiscus"
+msgstr "செம்பருத்தி"
+
+msgid "hibiscus surattensis"
+msgstr "புளிச்சைக்கீரை, காட்டுப்புளிச்சை"
+
+msgid "hibiscus vitifolius"
+msgstr "மணித்துத்தி"
+
+msgid "holostemma ada-kodien"
+msgstr "பலைக்கீரை"
+
+msgid "hybanthus enneaspermus"
+msgstr "ஓரிதழ் தாமரை"
+
+msgid "hydnocarpus alpina"
+msgstr "ஆத்து சங்கலை"
+
+msgid "hygrophylia auriculata"
+msgstr "நீர்முள்ளி"
+
+msgid "impaliens balasamine"
+msgstr "காசித்துப்பை"
+
+msgid "intermedlar tree"
+msgstr "மகிலா மரம்"
+
+msgid "iodinium suffruticosium"
+msgstr "ஓரிதழ்த் தாமரை, சூரியகாந்தி"
+
+msgid "ipomea carnea"
+msgstr "நெய்வேலி காட்டாமணக்கு"
+
+msgid "ipomea quamoclit"
+msgstr "மயிர் மாணிக்கம்"
+
+msgid "ipomea sepiaria"
+msgstr "தாலிக்கீரை"
+
+msgid "janakia arayalpathra"
+msgstr "அமிர்தபலா"
+
+msgid "jatropha gossipipholia"
+msgstr "முள்கத்திரி"
+
+msgid "kaempferia galanga"
+msgstr "கச்சோளம்"
+
+msgid "kingiodendron pinnatum"
+msgstr "மடையன் சாம்பிராணி"
+
+msgid "kiraganelia lineata"
+msgstr "நீர்ப்பாளை"
+
+msgid "kiraganelia reticulata"
+msgstr "புல்லந்தி"
+
+msgid "knema attenuata"
+msgstr "சோரப் பத்திரி, சூரியப் பத்திரி"
+
+msgid "lamprachaenium microcephalum"
+msgstr "பிரம்மதந்தி"
+
+msgid "lantana camara"
+msgstr "உன்னிச்செடி"
+
+msgid "lawsonia inermis"
+msgstr "மருதாணி"
+
+msgid "lemongrass"
+msgstr "எலுமிச்சைப்புல்"
+
+msgid "lepisanthes tetraphylla"
+msgstr "குகமதி"
+
+msgid "leucas aspera"
+msgstr "தும்பை"
+
+msgid "lippia nodiflora"
+msgstr "பொட்டுத்தலை"
+
+msgid "long leaved barleria"
+msgstr "கோல்மிதி"
+
+msgid "love vine"
+msgstr "கஷ்கொட்டை"
+
+msgid "luffa acutangula"
+msgstr "பெருபீர்க்கம்"
+
+msgid "madhuca longifolia"
+msgstr "நாட்டிலுப்பை"
+
+msgid "madhuca neriifolia"
+msgstr "ஆத்து இலுப்பை"
+
+msgid "malabar glory lily"
+msgstr "கலப்பைக் கிழங்கு"
+
+msgid "manilkara hexandra"
+msgstr "கணுப்பலா, காட்டுப்பலா"
+
+msgid "marsilia"
+msgstr "நீராரை"
+
+msgid "marsilia quadrifida"
+msgstr "ஆரை"
+
+msgid "memecylon tinctorium"
+msgstr "காயா"
+
+msgid "memecylon umbellatum"
+msgstr "காசன்"
+
+msgid "michelia champala"
+msgstr "செண்பகம்"
+
+msgid "michelia nilagirica"
+msgstr "காட்டுச் செண்பகம், நீலகிரி செண்பகம்"
+
+msgid "millingtonia hortensis"
+msgstr "மர மல்லிகை"
+
+msgid "mimusops elengi"
+msgstr "மகிழம்பூ"
+
+msgid "morinda linctosa"
+msgstr "நுணா, நுணவு"
+
+msgid "moringa concanensis"
+msgstr "காட்டு முருங்கை"
+
+msgid "mucuna pruriens"
+msgstr "பூனைக்காலி"
+
+msgid "mukia maderaspatana"
+msgstr "முசுமுசுக்கை"
+
+msgid "murraya koenigii"
+msgstr "கருவேப்பிலை"
+
+msgid "musa sapientum"
+msgstr "நவரை"
+
+msgid "myristica dactyloides"
+msgstr "காட்டு ஜாதிக்காய், காக்காய் மூஞ்சி"
+
+msgid "myristica malabarica"
+msgstr "பத்திரி"
+
+msgid "myroxylon balsamum"
+msgstr "சாம்பிராணி"
+
+msgid "myrrh"
+msgstr "வெள்ளைப்போளம்"
+
+msgid "nardostathys grandiflora"
+msgstr "ஜாதமாசி, ஜாதமஞ்சி"
+
+msgid "nelumbo nucifera"
+msgstr "தாமரை"
+
+msgid "nervilia aragoana"
+msgstr "ஓரிலைத் தாமரை"
+
+msgid "nigella sativa"
+msgstr "கருஞ்சீரகம்"
+
+msgid "nilgiriathus ciliatus"
+msgstr "சின்னக் குறிஞ்சி"
+
+msgid "nothapodytes nimmionana"
+msgstr "அரளி, பெரும்புளகி"
+
+msgid "nux vomica"
+msgstr "எட்டிமரம்"
+
+msgid "nyctanthes arbor-tristis"
+msgstr "பவழமல்லிகை"
+
+msgid "oats"
+msgstr "காடைக்கண்ணி"
+
+msgid "ochreinauclea missionis"
+msgstr "ஆத்து வஞ்சி, நீர் வஞ்சி"
+
+msgid "ocimum basilicum"
+msgstr "திருநீற்றுப் பச்சிலை"
+
+msgid "ocimum tenuiflorum"
+msgstr "துளசி"
+
+msgid "operculina turpethum"
+msgstr "சிவதை, பகந்திரை"
+
+msgid "opuntia stricta var. dillenii"
+msgstr "சப்பாத்திக்கள்ளி"
+
+msgid "orchus masoula"
+msgstr "சாலாமிசிரி"
+
+msgid "ormocarpum sennoides"
+msgstr "எலும்பொத்தி"
+
+msgid "oroxylum indicum"
+msgstr "அச்சி"
+
+msgid "oxalis corniculata"
+msgstr "புளியாரை"
+
+msgid "palaquin ellipticum"
+msgstr "காட்டிலுப்பை"
+
+msgid "pandalus adorattisimus"
+msgstr "தாழை"
+
+msgid "panicum miliacum"
+msgstr "பணிவரகு"
+
+msgid "panicum milliare"
+msgstr "சாமை"
+
+msgid "pavetta indica"
+msgstr "பாவட்டை"
+
+msgid "pearl millet"
+msgstr "கம்பு"
+
+msgid "pedalium murex"
+msgstr "பெரு நெருஞ்சில், யானை நெருஞ்சில்"
+
+msgid "peppermint"
+msgstr "க‌ற்பூர‌ப் புதினா"
+
+msgid "persea macrantha"
+msgstr "கூலமாவு, கோலமாவு"
+
+msgid "phoenix loureirii"
+msgstr "சிறு ஈச்சன்"
+
+msgid "phoenix pussila"
+msgstr "தரை ஈச்சன்"
+
+msgid "phylanthus amarus"
+msgstr "கீழாநெல்லி"
+
+msgid "phylanthus emblica"
+msgstr "நெல்லி"
+
+msgid "phylanthus fraternus"
+msgstr "கீழாநெல்லி"
+
+msgid "phylanthus retinus"
+msgstr "மெலநெல்லி"
+
+msgid "phylanthus virosa"
+msgstr "இருபுலை"
+
+msgid "piamelomania aromatica"
+msgstr "தீர்க்கந்தை"
+
+msgid "piper barberi"
+msgstr "காட்டு மிளகு"
+
+msgid "piper longum"
+msgstr "ஆதிமருந்து, திப்பிலி"
+
+msgid "piper mullesua"
+msgstr "காட்டுத் திப்பிலி"
+
+msgid "piper nigrum"
+msgstr "குறுமிளகு"
+
+msgid "pithecellobium dulce"
+msgstr "கொடுக்கப்புளி"
+
+msgid "ponga pinniata"
+msgstr "புங்கை"
+
+msgid "pontederia vagindis"
+msgstr "குவளை"
+
+msgid "premna corymbosa"
+msgstr "கூழாமணிக்கீரை, முன்னை"
+
+msgid "premonthes sonchifolia"
+msgstr "சுவர்முள்ளங்கி"
+
+msgid "pseudarthria vettiveroides"
+msgstr "கறுவேர்"
+
+msgid "pseudarthria viscida"
+msgstr "மூவிலை பச்சிலை"
+
+msgid "psoralia corylifolia"
+msgstr "கார்போக அரிசி"
+
+msgid "pterocarpus santalinus"
+msgstr "செங்குங்குமம், சிவப்பு சந்தனம், சந்தன வெங்கை"
+
+msgid "pueraria tuberosa"
+msgstr "கரிக்கும்மடி"
+
+msgid "puncture plant"
+msgstr "நெறிஞ்சி"
+
+msgid "purple mallow"
+msgstr "ஒட்டத்தி"
+
+msgid "rauvolfia serpentia"
+msgstr "சர்பகந்தி"
+
+msgid "rhaphidophora pertusa"
+msgstr "ஆனைப்பிரண்டை"
+
+msgid "rhus succedenea"
+msgstr "கர்க்கடசிங்கி"
+
+msgid "ribber gourd"
+msgstr "பெருபீர்க்கம்"
+
+msgid "rosary pea"
+msgstr "குண்றிமணி"
+
+msgid "rye"
+msgstr "புல்லரிசி"
+
+msgid "sagittaria obtusibolia"
+msgstr "குதிரைக் குளம்படி"
+
+msgid "salacia oblonga"
+msgstr "பொங்கொரந்தி"
+
+msgid "salvadora persica"
+msgstr "உகாய்"
+
+msgid "santalum album"
+msgstr "சந்தனம்"
+
+msgid "sapium insigne"
+msgstr "கருப்புச்சுடை"
+
+msgid "saraca asoka"
+msgstr "அசோக மரம்"
+
+msgid "saraca dindica"
+msgstr "அசோகம்"
+
+msgid "saravasta aristam"
+msgstr "சடாமஞ்சில்"
+
+msgid "sarcostemma intermedium"
+msgstr "கொடிக்கள்ளி"
+
+msgid "sausurea costus"
+msgstr "கொட்டம்"
+
+msgid "saw pametto"
+msgstr "சீமைக்கதலை"
+
+msgid "scindapus officinalis"
+msgstr "யானைத்திப்பிலி"
+
+msgid "scoparia dulcis"
+msgstr "சர்க்கரை வெம்பு"
+
+msgid "secale cereale"
+msgstr "புல்லரிசி"
+
+msgid "securinega leucopyrus"
+msgstr "மட்புலந்தி, வெள்ளைப்புலா"
+
+msgid "securinega oboveta"
+msgstr "வேப்புலந்தி"
+
+msgid "securinega virosa"
+msgstr "புலா"
+
+msgid "sehrebera swientenoides"
+msgstr "மகாலிங்க மரம்"
+
+msgid "semecarpus travancorica"
+msgstr "காட்டுச்செங்கொட்டை"
+
+msgid "senna auriculata"
+msgstr "ஆவாரை"
+
+msgid "sesbania grandiflora"
+msgstr "அகத்தி"
+
+msgid "shorea tumbuggaia"
+msgstr "தம்பகம்"
+
+msgid "sida acuta"
+msgstr "வட்டத்திரிப்பி"
+
+msgid "siris tree"
+msgstr "வாகை"
+
+msgid "smilax zeylanica"
+msgstr "காட்டுக்கொடி"
+
+msgid "solanum erianthum"
+msgstr "யானை சுண்டைக்காய்"
+
+msgid "solanum indicum"
+msgstr "முள்கத்திரி"
+
+msgid "solanum nigrum"
+msgstr "மனத்தக்காளி"
+
+msgid "solanum torvum"
+msgstr "சுண்டை(க்காய்)"
+
+msgid "solanum trilobathum"
+msgstr "தூதுவளை"
+
+msgid "spearmint"
+msgstr "ப‌ழுப்புப் புதினா"
+
+msgid "spiranthes calva"
+msgstr "ஆங்காரவள்ளி"
+
+msgid "spondias pinnata"
+msgstr "நரிமங்கை"
+
+msgid "spreading hog weed"
+msgstr "மூக்கரத்தைக் கீரை"
+
+msgid "sterculia foetida"
+msgstr "குதிரைப்பிடுக்கான்"
+
+msgid "streblus asper"
+msgstr "குட்டிப்பலா"
+
+msgid "styrax benzoin"
+msgstr "மலக்காச் சாம்பிராணி"
+
+msgid "suregada angustiflora"
+msgstr "படபட்டை"
+
+msgid "sweet broom"
+msgstr "சர்க்கரை வெம்பு"
+
+msgid "sweet flag"
+msgstr "வசம்பு"
+
+msgid "swertia chirayita"
+msgstr "சிரத்தைக்குச்சி"
+
+msgid "swertia corymbosa"
+msgstr "சிரத்தை"
+
+msgid "symplocos racemosa"
+msgstr "வெள்ளிலாதி"
+
+msgid "syzegium cumina"
+msgstr "நாவல்"
+
+msgid "syzygium jambolanum"
+msgstr "நாவல் கொட்டை"
+
+msgid "tamarandus indica"
+msgstr "புளி(யான்)"
+
+msgid "taxus bucata"
+msgstr "தாலிசபத்திரி"
+
+msgid "terminalia arjuna"
+msgstr "மருதமரம்"
+
+msgid "terminalia belerica"
+msgstr "தான்றிக்காய்"
+
+msgid "terminalia chebula"
+msgstr "கடுக்காய்"
+
+msgid "thick-leaved lavender"
+msgstr "கர்ப்பூரவள்ளி"
+
+msgid "tinospora cardifolia"
+msgstr "சீந்தில் கொடி"
+
+msgid "tinospora sinensis"
+msgstr "பேய் அமுது"
+
+msgid "toothbrush tree"
+msgstr "உகாய்"
+
+msgid "tragia bicolor"
+msgstr "மலைச் செந்தத்தி"
+
+msgid "tragia cannabina"
+msgstr "தூரலோபம்"
+
+msgid "tragia involucrata"
+msgstr "தூரப்பரிகம்"
+
+msgid "tragia plukenetti"
+msgstr "சிறுகாஞ்சொரி"
+
+msgid "trewia nudiflora"
+msgstr "அத்தரசு, நாய்க்குமுளி"
+
+msgid "trianthema ecandra"
+msgstr "சத்திச்சாரணை"
+
+msgid "trianthema ecandra"
+msgstr "சத்திச்சாரணை"
+
+msgid "trianthema pentandra"
+msgstr "சாரணை"
+
+msgid "tribullus terrestris"
+msgstr "நெறிஞ்சி"
+
+msgid "trichopus zeylanicus"
+msgstr "ஆரோக்கியப் பச்சை"
+
+msgid "trigonella foenum"
+msgstr "வெந்தையம்"
+
+msgid "triumfetta rhomboida"
+msgstr "காட்டுவெண்டை"
+
+msgid "ulteria salicifolia"
+msgstr "உத்லீர்"
+
+msgid "urena lobata"
+msgstr "ஒட்டத்தி"
+
+msgid "vateria indica"
+msgstr "வெள்ளைக் குந்திரிகம்"
+
+msgid "vateria macrocarpa"
+msgstr "வெள்ளைப் பயின்"
+
+msgid "verbacifolium solanum"
+msgstr "சுண்டை"
+
+msgid "viginea indica"
+msgstr "காட்டுவெங்காயம்"
+
+msgid "vitex negundo"
+msgstr "நொச்சி"
+
+msgid "vitis lanata"
+msgstr "நரளை"
+
+msgid "water hyacinth"
+msgstr "ஆகாயத் தாமரை"
+
+msgid "water shamrock"
+msgstr "நீராரை"
+
+msgid "wattakara volubilis"
+msgstr "குரிஞ்சான்"
+
+msgid "wedelia calendulacea"
+msgstr "பொன்னிரைச்சி"
+
+msgid "wedelia chinensis"
+msgstr "மஞ்சள் கரிசாலி"
+
+msgid "westindian lemongrass"
+msgstr "வாசனைப்புல்"
+
+msgid "wild asparagus"
+msgstr "சதவலி"
+
+msgid "winter cherry"
+msgstr "அமுக்கரா"
+
+msgid "withania somnifera"
+msgstr "அமுக்கரா, இருளிச்செவி, வராககர்ணி, இடிச்செவி"
+
+msgid "woodfordia fruticosa"
+msgstr "வேலக்காய்"
+
+msgid "xylia americana"
+msgstr "கலை, கடலிரஞ்சி"
+
+msgid "xylia xylocarpa"
+msgstr "இருள்"
+
+msgid "yellow spider flower"
+msgstr "நாய்க்கடுகு"
+
+msgid "ylang ylang"
+msgstr "மனோரஞ்சிதம்"
+
+msgid "ziziphus jujuba"
+msgstr "இலந்தை"
+
+msgid "ziziphus mauritania"
+msgstr "பல்லவப்பருனிச்செடி, முன்னதிமது"
+
+msgid "ziziphus nummularia"
+msgstr "நரியிலந்தை, கொர்கொடி"
+
+msgid "ziziphus oenoplia"
+msgstr "சூரைமுள்ளு"
+
+msgid "ziziphus rugosa"
+msgstr "சூசை"
+
+msgid "ziziphus xylophyrus"
+msgstr "முள்ளுத்துப்பை, கடல்சிரை"
+
+msgid "zizyphus rugosa lam"
+msgstr "துடரி"
+
+msgid "zornia diphylla"
+msgstr "சிறுபலதை"

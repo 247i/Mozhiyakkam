@@ -1,0 +1,2560 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (SMASH)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-03 17:05+0200\n"
+"PO-Revision-Date: 2025-03-04 10:04+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/smash/smash-main-app/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, icu-message-format
+msgctxt "main_welcome"
+msgid "Welcome to SMASH!"
+msgstr "ச்மாசுக்கு வருக!"
+
+#, icu-message-format
+msgctxt "main_check_location_permission"
+msgid "Checking location permission…"
+msgstr "இருப்பிட அனுமதியை சரிபார்க்கிறது…"
+
+#, icu-message-format
+msgctxt "main_location_permission_granted"
+msgid "Location permission granted."
+msgstr "இருப்பிட இசைவு வழங்கப்பட்டது."
+
+#, icu-message-format
+msgctxt "main_checkingStoragePermission"
+msgid "Checking storage permission…"
+msgstr "சேமிப்பக அனுமதியை சரிபார்க்கிறது…"
+
+#, icu-message-format
+msgctxt "main_storagePermissionGranted"
+msgid "Storage permission granted."
+msgstr "சேமிப்பக இசைவு வழங்கப்பட்டது."
+
+#, icu-message-format
+msgctxt "main_loadingPreferences"
+msgid "Loading preferences…"
+msgstr "விருப்பங்களை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "main_preferencesLoaded"
+msgid "Preferences loaded."
+msgstr "விருப்பத்தேர்வுகள் ஏற்றப்பட்டன."
+
+#, icu-message-format
+msgctxt "main_loadingWorkspace"
+msgid "Loading workspace…"
+msgstr "பணியிடத்தை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "main_workspaceLoaded"
+msgid "Workspace loaded."
+msgstr "பணியிடம் ஏற்றப்பட்டது."
+
+#, icu-message-format
+msgctxt "main_loadingTagsList"
+msgid "Loading tags list…"
+msgstr "குறிச்சொற்கள் பட்டியலை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "main_tagsListLoaded"
+msgid "Tags list loaded."
+msgstr "குறிச்சொற்கள் பட்டியல் ஏற்றப்பட்டது."
+
+#, icu-message-format
+msgctxt "main_loadingKnownProjections"
+msgid "Loading known projections…"
+msgstr "அறியப்பட்ட கணிப்புகளை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "main_knownProjectionsLoaded"
+msgid "Known projections loaded."
+msgstr "அறியப்பட்ட கணிப்புகள் ஏற்றப்பட்டன."
+
+#, icu-message-format
+msgctxt "main_loadingFences"
+msgid "Loading fences…"
+msgstr "வேலிகள் ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "main_fencesLoaded"
+msgid "Fences loaded."
+msgstr "வேலிகள் ஏற்றப்பட்டன."
+
+#, icu-message-format
+msgctxt "main_loadingLayersList"
+msgid "Loading layers list…"
+msgstr "அடுக்குகள் பட்டியலை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "main_layersListLoaded"
+msgid "Layers list loaded."
+msgstr "அடுக்குகள் பட்டியல் ஏற்றப்பட்டது."
+
+#, icu-message-format
+msgctxt "main_locationBackgroundWarning"
+msgid ""
+"Grant location permission in the next step to allow GPS logging in the background. (Otherwise it only works in the foreground.)\n"
+"No data is shared, and only saved locally on the device."
+msgstr ""
+"பின்னணியில் சி.பி.எச் உள்நுழைய அனுமதிக்க அடுத்த கட்டத்தில் இருப்பிட இசைவு வழங்கவும். (இல்லையெனில் அது முன்புறத்தில் மட்டுமே வேலை செய்கிறது.)\n"
+" தரவு எதுவும் பகிரப்படவில்லை, மேலும் சாதனத்தில் உள்நாட்டில் மட்டுமே சேமிக்கப்படுகிறது."
+
+#, icu-message-format
+msgctxt "main_StorageIsInternalWarning"
+msgid ""
+"Please read carefully!\n"
+"On Android 11 and above, the SMASH project folder must be placed in the\n"
+"\n"
+"Android/data/eu.hydrologis.smash/files/smash\n"
+"\n"
+"folder in your storage to be used.\n"
+"If the app is uninstalled, the system removes it, so back up your data if you do.\n"
+"\n"
+"A better solution is in the works."
+msgstr ""
+"தயவுசெய்து கவனமாகப் படியுங்கள்!\n"
+" ஆண்ட்ராய்டு 11 மற்றும் அதற்கு மேற்பட்டவற்றில், ச்மாச் திட்ட கோப்புறை வைக்கப்பட வேண்டும்\n"
+"\n"
+" Android/data/eu.hydrologis.smash/files/smash\n"
+"\n"
+" பயன்படுத்தப்பட வேண்டிய உங்கள் சேமிப்பகத்தில் கோப்புறை.\n"
+" பயன்பாடு நிறுவல் நீக்கப்பட்டால், கணினி அதை நீக்குகிறது, எனவே நீங்கள் செய்தால் உங்கள் தரவை காப்புப் பிரதி எடுக்கவும்.\n"
+"\n"
+" ஒரு சிறந்த தீர்வு வேலைகளில் உள்ளது."
+
+#, icu-message-format
+msgctxt "main_locationPermissionIsMandatoryToOpenSmash"
+msgid "Location permission is mandatory to open SMASH."
+msgstr "ச்மாசைத் திறக்க இருப்பிட இசைவு கட்டாயமாகும்."
+
+#, icu-message-format
+msgctxt "main_storagePermissionIsMandatoryToOpenSmash"
+msgid "Storage permission is mandatory to open SMASH."
+msgstr "ச்மாசைத் திறக்க சேமிப்பக இசைவு கட்டாயமாகும்."
+
+#, icu-message-format
+msgctxt "main_anErrorOccurredTapToView"
+msgid "An error occurred. Tap to view."
+msgstr "பிழை ஏற்பட்டது. பார்க்க தட்டவும்."
+
+#, icu-message-format
+msgctxt "mainView_loadingData"
+msgid "Loading data…"
+msgstr "தரவை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "mainView_turnGpsOn"
+msgid "Turn GPS on"
+msgstr "சி.பி.எச்சை இயக்கவும்"
+
+#, icu-message-format
+msgctxt "mainView_turnGpsOff"
+msgid "Turn GPS off"
+msgstr "சி.பி.எச் அணைக்கவும்"
+
+#, icu-message-format
+msgctxt "mainView_exit"
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#, icu-message-format
+msgctxt "mainView_areYouSureCloseTheProject"
+msgid "Close the project?"
+msgstr "திட்டத்தை மூடவா?"
+
+#, icu-message-format
+msgctxt "mainView_activeOperationsWillBeStopped"
+msgid "Active operations will be stopped."
+msgstr "செயலில் செயல்பாடுகள் நிறுத்தப்படும்."
+
+#, icu-message-format
+msgctxt "mainView_showInteractiveCoachMarks"
+msgid "Show interactive coach marks."
+msgstr "ஊடாடும் பயிற்சியாளர் மதிப்பெண்களைக் காட்டு."
+
+#, icu-message-format
+msgctxt "mainView_openToolsDrawer"
+msgid "Open tools drawer."
+msgstr "திறந்த கருவிகள் அலமாரியை."
+
+#, icu-message-format
+msgctxt "mainView_zoomIn"
+msgid "Zoom in"
+msgstr "பெரிதாக்கு"
+
+#, icu-message-format
+msgctxt "mainView_zoomOut"
+msgid "Zoom out"
+msgstr "சிறிதாக்கு"
+
+#, icu-message-format
+msgctxt "mainView_formNotes"
+msgid "Form Notes"
+msgstr "குறிப்பு குறிப்புகள்"
+
+#, icu-message-format
+msgctxt "mainView_simpleNotes"
+msgid "Simple Notes"
+msgstr "எளிய குறிப்புகள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_projects"
+msgid "Projects"
+msgstr "திட்டங்கள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_import"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#, icu-message-format
+msgctxt "mainviewUtils_export"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, icu-message-format
+msgctxt "mainviewUtils_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_onlineHelp"
+msgid "Online Help"
+msgstr "நிகழ்நிலை உதவி"
+
+#, icu-message-format
+msgctxt "mainviewUtils_about"
+msgid "About"
+msgstr "பற்றி"
+
+#, icu-message-format
+msgctxt "mainviewUtils_projectInfo"
+msgid "Project Info"
+msgstr "திட்ட செய்தி"
+
+#, icu-message-format
+msgctxt "mainviewUtils_projectStats"
+msgid "Project Stats"
+msgstr "திட்ட புள்ளிவிவரங்கள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_project"
+msgid "Project"
+msgstr "திட்டம்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_database"
+msgid "Database"
+msgstr "தரவுத்தளம்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_extras"
+msgid "Extras"
+msgstr "கூடுதல்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_availableIcons"
+msgid "Available icons"
+msgstr "கிடைக்கும் சின்னங்கள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_offlineMaps"
+msgid "Offline maps"
+msgstr "இணைப்பில்லாத வரைபடங்கள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_positionTools"
+msgid "Position Tools"
+msgstr "நிலை கருவிகள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_goTo"
+msgid "Go to"
+msgstr "செல்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_goToCoordinate"
+msgid "Go to coordinate"
+msgstr "ஒருங்கிணைக்கச் செல்லுங்கள்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_enterLonLat"
+msgid "Enter longitude, latitude"
+msgstr "தீர்க்கரேகை, அட்சரேகை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "mainviewUtils_goToCoordinateWrongFormat"
+msgid "Wrong coordinate format. Should be: 11.18463, 46.12345"
+msgstr "தவறான ஒருங்கிணைப்பு வடிவம். இருக்க வேண்டும்: 11.18463, 46.12345"
+
+#, icu-message-format
+msgctxt "mainviewUtils_goToCoordinateEmpty"
+msgid "This can't be empty."
+msgstr "இது காலியாக இருக்க முடியாது."
+
+#, icu-message-format
+msgctxt "mainviewUtils_sharePosition"
+msgid "Share position"
+msgstr "பங்கு நிலை"
+
+#, icu-message-format
+msgctxt "mainviewUtils_rotateMapWithGps"
+msgid "Rotate map with GPS"
+msgstr "சி.பி.எச் உடன் வரைபடத்தை சுழற்றுங்கள்"
+
+#, icu-message-format
+msgctxt "exportWidget_export"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, icu-message-format
+msgctxt "exportWidget_pdfExported"
+msgid "PDF exported"
+msgstr "PDF ஏற்றுமதி செய்யப்பட்டது"
+
+#, icu-message-format
+msgctxt "exportWidget_exportToPortableDocumentFormat"
+msgid "Export project to Portable Document Format"
+msgstr "போர்ட்டபிள் ஆவண வடிவமைப்பிற்கு திட்டத்தை ஏற்றுமதி செய்யுங்கள்"
+
+#, icu-message-format
+msgctxt "exportWidget_gpxExported"
+msgid "GPX exported"
+msgstr "சிபிஎக்ச் ஏற்றுமதி செய்யப்பட்டது"
+
+#, icu-message-format
+msgctxt "exportWidget_exportToGpx"
+msgid "Export project to GPX"
+msgstr "சி.பி.எக்ச் -க்கு ஏற்றுமதி திட்டம்"
+
+#, icu-message-format
+msgctxt "exportWidget_kmlExported"
+msgid "KML exported"
+msgstr "KML ஏற்றுமதி செய்யப்பட்டது"
+
+#, icu-message-format
+msgctxt "exportWidget_exportToKml"
+msgid "Export project to KML"
+msgstr "KML க்கு ஏற்றுமதி திட்டம்"
+
+#, icu-message-format
+msgctxt "exportWidget_imagesToFolderExported"
+msgid "Images exported"
+msgstr "ஏற்றுமதி செய்யப்பட்ட படங்கள்"
+
+#, icu-message-format
+msgctxt "exportWidget_exportImagesToFolder"
+msgid "Export project images to folder"
+msgstr "திட்ட படங்களை கோப்புறையில் ஏற்றுமதி செய்யுங்கள்"
+
+#, icu-message-format
+msgctxt "exportWidget_exportImagesToFolderTitle"
+msgid "Images"
+msgstr "படங்கள்"
+
+#, icu-message-format
+msgctxt "exportWidget_geopackageExported"
+msgid "Geopackage exported"
+msgstr "சியோபாகேச் ஏற்றுமதி செய்யப்பட்டது"
+
+#, icu-message-format
+msgctxt "exportWidget_exportToGeopackage"
+msgid "Export project to Geopackage"
+msgstr "சியோபாக்கேசுக்கு ஏற்றுமதி திட்டம்"
+
+#, icu-message-format
+msgctxt "exportWidget_exportToGSS"
+msgid "Export to Geopaparazzi Survey Server"
+msgstr "சியோபாபராசி கணக்கெடுப்பு சேவையகத்திற்கு ஏற்றுமதி"
+
+#, icu-message-format
+msgctxt "gssExport_gssExport"
+msgid "GSS Export"
+msgstr "சிஎச்எச் ஏற்றுமதி"
+
+#, icu-message-format
+msgctxt "gssExport_setProjectDirty"
+msgid "Set project to DIRTY?"
+msgstr "திட்டத்தை அழுக்கு அமைக்கவா?"
+
+#, icu-message-format
+msgctxt "gssExport_thisCantBeUndone"
+msgid "This can't be undone!"
+msgstr "இதை செயல்தவிர்க்க முடியாது!"
+
+#, icu-message-format
+msgctxt "gssExport_restoreProjectAsDirty"
+msgid "Restore project as all dirty."
+msgstr "திட்டத்தை அனைத்து அழுக்காக மீட்டெடுக்கவும்."
+
+#, icu-message-format
+msgctxt "gssExport_setProjectClean"
+msgid "Set project to CLEAN?"
+msgstr "திட்டத்தை தூய்மை செய்ய அமைக்கவா?"
+
+#, icu-message-format
+msgctxt "gssExport_restoreProjectAsClean"
+msgid "Restore project as all clean."
+msgstr "திட்டத்தை சுத்தமாக மீட்டெடுங்கள்."
+
+#, icu-message-format
+msgctxt "gssExport_nothingToSync"
+msgid "Nothing to sync."
+msgstr "ஒத்திசைக்க எதுவும் இல்லை."
+
+#, icu-message-format
+msgctxt "gssExport_collectingSyncStats"
+msgid "Collecting sync stats…"
+msgstr "ஒத்திசைவு புள்ளிவிவரங்களை சேகரித்தல்…"
+
+#, icu-message-format
+msgctxt "gssExport_unableToSyncDueToError"
+msgid "Unable to sync due to an error, check diagnostics."
+msgstr "பிழை காரணமாக ஒத்திசைக்க முடியவில்லை, கண்டறிதலை சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssExport_noGssUrlSet"
+msgid "No GSS server URL has been set. Check your settings."
+msgstr ""
+"சிஎச்எச் சேவையக முகவரி எதுவும் அமைக்கப்படவில்லை. உங்கள் அமைப்புகளை "
+"சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssExport_noGssPasswordSet"
+msgid "No GSS server password has been set. Check your settings."
+msgstr ""
+"சிஎச்எச் சேவையக கடவுச்சொல் எதுவும் அமைக்கப்படவில்லை. உங்கள் அமைப்புகளை "
+"சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssExport_synStats"
+msgid "Sync Stats"
+msgstr "புள்ளிவிவரங்களை ஒத்திசைக்கவும்"
+
+#, icu-message-format
+msgctxt "gssExport_followingDataWillBeUploaded"
+msgid "The following data will be uploaded upon sync."
+msgstr "பின்வரும் தரவு ஒத்திசைவின் போது பதிவேற்றப்படும்."
+
+#, icu-message-format
+msgctxt "gssExport_gpsLogs"
+msgid "GPS Logs:"
+msgstr "சி.பி.எச் பதிவுகள்:"
+
+#, icu-message-format
+msgctxt "gssExport_simpleNotes"
+msgid "Simple Notes:"
+msgstr "எளிய குறிப்புகள்:"
+
+#, icu-message-format
+msgctxt "gssExport_formNotes"
+msgid "Form Notes:"
+msgstr "படிவம் குறிப்புகள்:"
+
+#, icu-message-format
+msgctxt "gssExport_images"
+msgid "Images:"
+msgstr "படங்கள்:"
+
+#, icu-message-format
+msgctxt "gssExport_shouldNotHappen"
+msgid "Should not happen"
+msgstr "நடக்கக்கூடாது"
+
+#, icu-message-format
+msgctxt "gssExport_upload"
+msgid "Upload"
+msgstr "பதிவேற்றும்"
+
+#, icu-message-format
+msgctxt "geocoding_geocoding"
+msgid "Geocoding"
+msgstr "சியோகோடிங்"
+
+#, icu-message-format
+msgctxt "geocoding_nothingToLookFor"
+msgid "Nothing to look for. Insert an address."
+msgstr "பார்க்க எதுவும் இல்லை. முகவரியைச் செருகவும்."
+
+#, icu-message-format
+msgctxt "geocoding_launchGeocoding"
+msgid "Launch Geocoding"
+msgstr "சியோகோடிங்கைத் தொடங்கவும்"
+
+#, icu-message-format
+msgctxt "geocoding_searching"
+msgid "Searching…"
+msgstr "தேடுகிறது…"
+
+#, icu-message-format
+msgctxt "gps_smashIsActive"
+msgid "SMASH is active"
+msgstr "ச்மாச் செயலில் உள்ளது"
+
+#, icu-message-format
+msgctxt "gps_smashIsLogging"
+msgid "SMASH is logging"
+msgstr "ச்மாச் உள்நுழைகிறது"
+
+#, icu-message-format
+msgctxt "gps_locationTracking"
+msgid "Location tracking"
+msgstr "இருப்பிட கண்காணிப்பு"
+
+#, icu-message-format
+msgctxt "gps_smashLocServiceIsActive"
+msgid "SMASH location service is active."
+msgstr "ச்மாச் இருப்பிட பணி செயலில் உள்ளது."
+
+#, icu-message-format
+msgctxt "gps_backgroundLocIsOnToKeepRegistering"
+msgid ""
+"Background location is on to keep the app registering the location even when"
+" the app is in background."
+msgstr ""
+"பயன்பாடு பின்னணியில் இருக்கும்போது கூட பயன்பாட்டை பதிவு செய்ய பின்னணி "
+"இருப்பிடம் உள்ளது."
+
+#, icu-message-format
+msgctxt "gssImport_gssImport"
+msgid "GSS Import"
+msgstr "சிஎச்எச் இறக்குமதி"
+
+#, icu-message-format
+msgctxt "gssImport_downloadingDataList"
+msgid "Downloading data list…"
+msgstr "தரவு பட்டியலைப் பதிவிறக்குகிறது…"
+
+#, icu-message-format
+msgctxt "gssImport_unableDownloadDataList"
+msgid ""
+"Unable to download data list due to an error. Check your settings and the "
+"log."
+msgstr ""
+"பிழை காரணமாக தரவு பட்டியலைப் பதிவிறக்க முடியவில்லை. உங்கள் அமைப்புகளையும் "
+"பதிவையும் சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssImport_noGssUrlSet"
+msgid "No GSS server URL has been set. Check your settings."
+msgstr ""
+"சிஎச்எச் சேவையக முகவரி எதுவும் அமைக்கப்படவில்லை. உங்கள் அமைப்புகளை "
+"சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssImport_noGssPasswordSet"
+msgid "No GSS server password has been set. Check your settings."
+msgstr ""
+"சிஎச்எச் சேவையக கடவுச்சொல் எதுவும் அமைக்கப்படவில்லை. உங்கள் அமைப்புகளை "
+"சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssImport_noPermToAccessServer"
+msgid "No permission to access the server. Check your credentials."
+msgstr "சேவையகத்தை அணுக இசைவு இல்லை. உங்கள் சான்றுகளை சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "gssImport_data"
+msgid "Data"
+msgstr "தகவல்கள்"
+
+#, icu-message-format
+msgctxt "gssImport_dataSetsDownloadedMapsFolder"
+msgid "Datasets are downloaded into the maps folder."
+msgstr "தரவுத்தொகுப்புகள் வரைபடக் கோப்புறையில் பதிவிறக்கம் செய்யப்படுகின்றன."
+
+#, icu-message-format
+msgctxt "gssImport_noDataAvailable"
+msgid "No data available."
+msgstr "தரவு எதுவும் கிடைக்கவில்லை."
+
+#, icu-message-format
+msgctxt "gssImport_projects"
+msgid "Projects"
+msgstr "திட்டங்கள்"
+
+#, icu-message-format
+msgctxt "gssImport_projectsDownloadedProjectFolder"
+msgid "Projects are downloaded into the projects folder."
+msgstr "திட்டங்கள் கோப்புறையில் திட்டங்கள் பதிவிறக்கம் செய்யப்படுகின்றன."
+
+#, icu-message-format
+msgctxt "gssImport_noProjectsAvailable"
+msgid "No projects available."
+msgstr "திட்டங்கள் எதுவும் கிடைக்கவில்லை."
+
+#, icu-message-format
+msgctxt "gssImport_forms"
+msgid "Forms"
+msgstr "படிவங்கள்"
+
+#, icu-message-format
+msgctxt "gssImport_tagsDownloadedFormsFolder"
+msgid "Tags files are downloaded into the forms folder."
+msgstr ""
+"குறிச்சொற்கள் கோப்புகள் படிவங்கள் கோப்புறையில் பதிவிறக்கம் செய்யப்படுகின்றன."
+
+#, icu-message-format
+msgctxt "gssImport_noTagsAvailable"
+msgid "No tags available."
+msgstr "குறிச்சொற்கள் எதுவும் கிடைக்கவில்லை."
+
+#, icu-message-format
+msgctxt "importWidget_import"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#, icu-message-format
+msgctxt "importWidget_importFromGeopaparazzi"
+msgid "Import from Geopaparazzi Survey Server"
+msgstr "சியோபாபரச்சி சர்வே சேவையகத்திலிருந்து இறக்குமதி செய்யுங்கள்"
+
+#, icu-message-format
+msgctxt "layersView_layerList"
+msgid "Layers List"
+msgstr "அடுக்குகள் பட்டியல்"
+
+#, icu-message-format
+msgctxt "layersView_loadRemoteDatabase"
+msgid "Load remote database"
+msgstr "தொலைநிலை தரவுத்தளத்தை ஏற்றவும்"
+
+#, icu-message-format
+msgctxt "layersView_loadOnlineSources"
+msgid "Load online sources"
+msgstr "நிகழ்நிலை ஆதாரங்களை ஏற்றவும்"
+
+#, icu-message-format
+msgctxt "layersView_loadLocalDatasets"
+msgid "Load local datasets"
+msgstr "உள்ளக தரவுத்தொகுப்புகளை ஏற்றவும்"
+
+#, icu-message-format
+msgctxt "layersView_loading"
+msgid "Loading…"
+msgstr "ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "layersView_zoomTo"
+msgid "Zoom to"
+msgstr "பெரிதாக்கவும்"
+
+#, icu-message-format
+msgctxt "layersView_properties"
+msgid "Properties"
+msgstr "பண்புகள்"
+
+#, icu-message-format
+msgctxt "layersView_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "layersView_projCouldNotBeRecognized"
+msgid "The proj could not be recognised. Tap to enter epsg manually."
+msgstr "புரோசை அங்கீகரிக்க முடியவில்லை. கைமுறையாக EPSG ஐ உள்ளிட தட்டவும்."
+
+#, icu-message-format
+msgctxt "layersView_projNotSupported"
+msgid "The proj is not supported. Tap to solve."
+msgstr "புரோச் ஆதரிக்கப்படவில்லை. தீர்க்க தட்டவும்."
+
+#, icu-message-format
+msgctxt "layersView_onlyImageFilesWithWorldDef"
+msgid "Only image files with world file definition are supported."
+msgstr "உலக கோப்பு வரையறை கொண்ட படக் கோப்புகள் மட்டுமே ஆதரிக்கப்படுகின்றன."
+
+#, icu-message-format
+msgctxt "layersView_onlyImageFileWithPrjDef"
+msgid "Only image files with prj file definition are supported."
+msgstr ""
+"பி.ஆர்.சே கோப்பு வரையறை கொண்ட படக் கோப்புகள் மட்டுமே ஆதரிக்கப்படுகின்றன."
+
+#, icu-message-format
+msgctxt "layersView_selectTableToLoad"
+msgid "Select table to load."
+msgstr "ஏற்ற அட்டவணையைத் தேர்ந்தெடுக்கவும்."
+
+#, icu-message-format
+msgctxt "layersView_fileFormatNotSUpported"
+msgid "File format not supported."
+msgstr "கோப்பு வடிவம் ஆதரிக்கப்படவில்லை."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_onlineSourcesCatalog"
+msgid "Online Sources Catalog"
+msgstr "நிகழ்நிலை ஆதாரங்கள் பட்டியல்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_loadingTmsLayers"
+msgid "Loading TMS layers…"
+msgstr "டி.எம்.எச் அடுக்குகளை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_loadingWmsLayers"
+msgid "Loading WMS layers…"
+msgstr "WMS அடுக்குகளை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_importFromFile"
+msgid "Import from file"
+msgstr "கோப்பிலிருந்து இறக்குமதி"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_theFile"
+msgid "The file"
+msgstr "கோப்பு"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_doesntExist"
+msgid "doesn't exist"
+msgstr "இல்லை"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_onlineSourcesImported"
+msgid "Online sources imported."
+msgstr "இறக்குமதி செய்யப்பட்ட நிகழ்நிலை ஆதாரங்கள்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_exportToFile"
+msgid "Export to file"
+msgstr "கோப்புக்கு ஏற்றுமதி"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_exportedTo"
+msgid "Exported to:"
+msgstr "இதற்கு ஏற்றுமதி செய்யப்பட்டது:"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_addToLayers"
+msgid "Add to layers"
+msgstr "அடுக்குகளில் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_setNameTmsService"
+msgid "Set a name for the TMS service"
+msgstr "டி.எம்.எச் சேவைக்கு ஒரு பெயரை அமைக்கவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_enterName"
+msgid "enter name"
+msgstr "பெயரை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_pleaseEnterValidName"
+msgid "Please enter a valid name"
+msgstr "சரியான பெயரை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_insertUrlOfService"
+msgid "Insert the URL of the service."
+msgstr "சேவையின் முகவரி ஐ செருகவும்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_placeXyzBetBrackets"
+msgid "Place the x, y, z between curly brackets."
+msgstr "சுருள் அடைப்புக்குறிக்கு இடையில் ஃச், ஒய், சட் ஐ வைக்கவும்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_pleaseEnterValidTmsUrl"
+msgid "Please enter a valid TMS URL"
+msgstr "செல்லுபடியாகும் TMS முகவரி ஐ உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_enterUrl"
+msgid "enter URL"
+msgstr "முகவரி ஐ உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_enterSubDomains"
+msgid "enter subdomains"
+msgstr "துணை டொமைன்களை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_addAttribution"
+msgid "Add an attribution."
+msgstr "ஒரு பண்புக்கூறு சேர்க்கவும்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_enterAttribution"
+msgid "enter attribution"
+msgstr "பண்புக்கூறு உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_setMinMaxZoom"
+msgid "Set min and max zoom."
+msgstr "மணித்துளி மற்றும் அதிகபட்ச சூம் அமைக்கவும்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_minZoom"
+msgid "Min zoom"
+msgstr "என் சூம்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_maxZoom"
+msgid "Max zoom"
+msgstr "அதிகபட்ச சூம்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_pleaseCheckYourData"
+msgid "Please check your data"
+msgstr "உங்கள் தரவை சரிபார்க்கவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_details"
+msgid "Details"
+msgstr "விவரங்கள்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_name"
+msgid "Name: "
+msgstr "பெயர்:"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_subDomains"
+msgid "Subdomains: "
+msgstr "துணை டொமைன்கள்:"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_attribution"
+msgid "Attribution: "
+msgstr "பண்புக்கூறு:"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, icu-message-format, ignore-same
+msgctxt "onlineSourcesPage_ok"
+msgid "OK"
+msgstr "சரி"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_newTmsOnlineService"
+msgid "New TMS Online Service"
+msgstr "புதிய டிஎம்எச் நிகழ்நிலை பணி"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_save"
+msgid "Save"
+msgstr "சேமி"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_theBaseUrlWithQuestionMark"
+msgid "The base URL-ending with question mark."
+msgstr "கேள்விக்குறியுடன் அடிப்படை முகவரி முடிவடையும்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_pleaseEnterValidWmsUrl"
+msgid "Please enter a valid WMS URL"
+msgstr "செல்லுபடியாகும் WMS முகவரி ஐ உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_setWmsLayerName"
+msgid "Set WMS layer name"
+msgstr "WMS அடுக்கு பெயரை அமைக்கவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_enterLayerToLoad"
+msgid "enter layer to load"
+msgstr "ஏற்ற அடுக்கை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_pleaseEnterValidLayer"
+msgid "Please enter a valid layer"
+msgstr "செல்லுபடியாகும் அடுக்கை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_setWmsImageFormat"
+msgid "Set WMS image format"
+msgstr "WMS பட வடிவமைப்பை அமைக்கவும்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_addAnAttribution"
+msgid "Add an attribution."
+msgstr "ஒரு பண்புக்கூறு சேர்க்கவும்."
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_layer"
+msgid "Layer: "
+msgstr "அடுக்கு:"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_url"
+msgid "URL: "
+msgstr "URL:"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_format"
+msgid "Format"
+msgstr "வடிவம்"
+
+#, icu-message-format
+msgctxt "onlineSourcesPage_newWmsOnlineService"
+msgid "New WMS Online Service"
+msgstr "புதிய WMS நிகழ்நிலை பணி"
+
+#, icu-message-format
+msgctxt "remoteDbPage_remoteDatabases"
+msgid "Remote Databases"
+msgstr "தொலைநிலை தரவுத்தளங்கள்"
+
+#, icu-message-format
+msgctxt "remoteDbPage_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "remoteDbPage_areYouSureDeleteDatabase"
+msgid "Delete the database configuration?"
+msgstr "தரவுத்தள உள்ளமைவை நீக்கவா?"
+
+#, icu-message-format
+msgctxt "remoteDbPage_edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, icu-message-format
+msgctxt "remoteDbPage_table"
+msgid "table"
+msgstr "அட்டவணை"
+
+#, icu-message-format
+msgctxt "remoteDbPage_user"
+msgid "user"
+msgstr "பயனர்"
+
+#, icu-message-format
+msgctxt "remoteDbPage_loadInMap"
+msgid "Load in map."
+msgstr "வரைபடத்தில் ஏற்றவும்."
+
+#, icu-message-format
+msgctxt "remoteDbPage_databaseParameters"
+msgid "Database Parameters"
+msgstr "தரவுத்தள அளவுருக்கள்"
+
+#, icu-message-format
+msgctxt "remoteDbPage_cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, icu-message-format, ignore-same
+msgctxt "remoteDbPage_ok"
+msgid "OK"
+msgstr "சரி"
+
+#, icu-message-format
+msgctxt "remoteDbPage_theUrlNeedsToBeDefined"
+msgid "The URL must be defined (postgis:host:port/databasename)"
+msgstr ""
+"முகவரி வரையறுக்கப்பட வேண்டும் (போச்ட்கிச்: ஓச்ட்: போர்ட்/தரவுத்தள பெயர்)"
+
+#, icu-message-format
+msgctxt "remoteDbPage_theUserNeedsToBeDefined"
+msgid "A user must be defined."
+msgstr "ஒரு பயனர் வரையறுக்கப்பட வேண்டும்."
+
+#, icu-message-format
+msgctxt "remoteDbPage_password"
+msgid "password"
+msgstr "கடவுச்சொல்"
+
+#, icu-message-format
+msgctxt "remoteDbPage_thePasswordNeedsToBeDefined"
+msgid "A password must be defined."
+msgstr "கடவுச்சொல் வரையறுக்கப்பட வேண்டும்."
+
+#, icu-message-format
+msgctxt "remoteDbPage_loadingTables"
+msgid "Loading tables…"
+msgstr "அட்டவணைகளை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "remoteDbPage_theTableNeedsToBeDefined"
+msgid "The table name must be defined."
+msgstr "அட்டவணை பெயர் வரையறுக்கப்பட வேண்டும்."
+
+#, icu-message-format
+msgctxt "remoteDbPage_unableToConnectToDatabase"
+msgid "Unable to connect to the database. Check parameters and network."
+msgstr ""
+"தரவுத்தளத்துடன் இணைக்க முடியவில்லை. அளவுருக்கள் மற்றும் பிணையத்தை "
+"சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "remoteDbPage_optionalWhereCondition"
+msgid "optional \"where\" condition"
+msgstr "விருப்ப \"எங்கே\" நிலை"
+
+#, icu-message-format
+msgctxt "geoImage_tiffProperties"
+msgid "TIFF Properties"
+msgstr "TIFF பண்புகள்"
+
+#, icu-message-format
+msgctxt "geoImage_opacity"
+msgid "Opacity"
+msgstr "ஒளிபுகாநிலை"
+
+#, icu-message-format
+msgctxt "geoImage_colorToHide"
+msgid "Color to hide"
+msgstr "மறைக்க நிறம்"
+
+#, icu-message-format
+msgctxt "gpx_gpxProperties"
+msgid "GPX Properties"
+msgstr "சிபிஎக்ச் பண்புகள்"
+
+#, icu-message-format
+msgctxt "gpx_wayPoints"
+msgid "Waypoints"
+msgstr "வழிப்பாதைகள்"
+
+#, icu-message-format
+msgctxt "gpx_color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, icu-message-format
+msgctxt "gpx_size"
+msgid "Size"
+msgstr "அளவு"
+
+#, icu-message-format
+msgctxt "gpx_viewLabelsIfAvailable"
+msgid "View labels if available?"
+msgstr "கிடைத்தால் லேபிள்களைக் காணவா?"
+
+#, icu-message-format
+msgctxt "gpx_tracksRoutes"
+msgid "Tracks/routes"
+msgstr "தடங்கள்/வழிகள்"
+
+#, icu-message-format
+msgctxt "gpx_width"
+msgid "Width"
+msgstr "அகலம்"
+
+#, icu-message-format
+msgctxt "gpx_palette"
+msgid "Palette"
+msgstr "தட்டு"
+
+#, icu-message-format
+msgctxt "tiles_tileProperties"
+msgid "Tile Properties"
+msgstr "ஓடு பண்புகள்"
+
+#, icu-message-format
+msgctxt "tiles_opacity"
+msgid "Opacity"
+msgstr "ஒளிபுகாநிலை"
+
+#, icu-message-format
+msgctxt "tiles_loadGeoPackageAsOverlay"
+msgid ""
+"Load geopackage tiles as overlay image as opposed to tile layer (best for "
+"gdal generated data and different projections)."
+msgstr ""
+"ஓடு அடுக்குக்கு மாறாக சியோபாக்கேச் ஓடுகளை மேலடுக்கு படமாக ஏற்றவும் "
+"(சி.டி.ஏ.எல் உருவாக்கப்பட்ட தரவு மற்றும் வெவ்வேறு கணிப்புகளுக்கு சிறந்தது)."
+
+#, icu-message-format
+msgctxt "tiles_colorToHide"
+msgid "Color to hide"
+msgstr "மறைக்க நிறம்"
+
+#, icu-message-format
+msgctxt "wms_wmsProperties"
+msgid "WMS Properties"
+msgstr "WMS பண்புகள்"
+
+#, icu-message-format
+msgctxt "wms_opacity"
+msgid "Opacity"
+msgstr "ஒளிபுகாநிலை"
+
+#, icu-message-format
+msgctxt "featureAttributesViewer_loadingData"
+msgid "Loading data…"
+msgstr "தரவை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "featureAttributesViewer_setNewValue"
+msgid "Set new value"
+msgstr "புதிய மதிப்பை அமைக்கவும்"
+
+#, icu-message-format
+msgctxt "featureAttributesViewer_field"
+msgid "Field"
+msgstr "புலம்"
+
+#, icu-message-format
+msgctxt "featureAttributesViewer_value"
+msgid "VALUE"
+msgstr "மதிப்பு"
+
+#, icu-message-format
+msgctxt "projectsView_projectsView"
+msgid "Projects View"
+msgstr "திட்டங்கள் பார்வை"
+
+#, icu-message-format
+msgctxt "projectsView_openExistingProject"
+msgid "Open an existing project"
+msgstr "ஏற்கனவே உள்ள திட்டத்தைத் திறக்கவும்"
+
+#, icu-message-format
+msgctxt "projectsView_createNewProject"
+msgid "Create a new project"
+msgstr "புதிய திட்டத்தை உருவாக்கவும்"
+
+#, icu-message-format
+msgctxt "projectsView_recentProjects"
+msgid "Recent projects"
+msgstr "அண்மைக் கால திட்டங்கள்"
+
+#, icu-message-format
+msgctxt "projectsView_newProject"
+msgid "New Project"
+msgstr "புதிய திட்டம்"
+
+#, icu-message-format
+msgctxt "projectsView_enterNameForNewProject"
+msgid "Enter a name for the new project or accept the proposed."
+msgstr ""
+"புதிய திட்டத்திற்கு ஒரு பெயரை உள்ளிடவும் அல்லது முன்மொழியப்பட்டதை "
+"ஏற்றுக்கொள்ளவும்."
+
+#, icu-message-format
+msgctxt "dataLoader_note"
+msgid "note"
+msgstr "குறிப்பு"
+
+#, icu-message-format
+msgctxt "dataLoader_Note"
+msgid "Note"
+msgstr "குறிப்பு"
+
+#, icu-message-format
+msgctxt "dataLoader_hasForm"
+msgid "Has Form"
+msgstr "வடிவம் உள்ளது"
+
+#, icu-message-format
+msgctxt "dataLoader_POI"
+msgid "POI"
+msgstr "பின்னர்"
+
+#, icu-message-format
+msgctxt "dataLoader_savingImageToDB"
+msgid "Saving image to database…"
+msgstr "தரவுத்தளத்தில் படத்தை சேமிக்கிறது…"
+
+#, icu-message-format
+msgctxt "dataLoader_removeNote"
+msgid "Remove Note"
+msgstr "குறிப்பை அகற்று"
+
+#, icu-message-format
+msgctxt "dataLoader_areYouSureRemoveNote"
+msgid "Remove note?"
+msgstr "குறிப்பை அகற்றவா?"
+
+#, icu-message-format
+msgctxt "dataLoader_image"
+msgid "Image"
+msgstr "படம்"
+
+#, icu-message-format
+msgctxt "dataLoader_longitude"
+msgid "Longitude"
+msgstr "நெட்டாங்கு"
+
+#, icu-message-format
+msgctxt "dataLoader_latitude"
+msgid "Latitude"
+msgstr "அகலாங்கு"
+
+#, icu-message-format
+msgctxt "dataLoader_altitude"
+msgid "Altitude"
+msgstr "குத்துயரம்"
+
+#, icu-message-format
+msgctxt "dataLoader_timestamp"
+msgid "Timestamp"
+msgstr "நேர முத்திரை"
+
+#, icu-message-format
+msgctxt "dataLoader_removeImage"
+msgid "Remove Image"
+msgstr "படத்தை அகற்று"
+
+#, icu-message-format
+msgctxt "dataLoader_areYouSureRemoveImage"
+msgid "Remove the image?"
+msgstr "படத்தை அகற்றவா?"
+
+#, icu-message-format
+msgctxt "images_loadingImage"
+msgid "Loading image…"
+msgstr "படத்தை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "about_loadingInformation"
+msgid "Loading info…"
+msgstr "செய்தி ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "about_ABOUT"
+msgid "About "
+msgstr "பற்றி"
+
+#, icu-message-format
+msgctxt "about_smartMobileAppForSurveyor"
+msgid "Smart Mobile App for Surveyor Happiness"
+msgstr "சர்வேயர் மகிழ்ச்சிக்கான அறிவுள்ள மொபைல் பயன்பாடு"
+
+#, icu-message-format
+msgctxt "about_applicationVersion"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, icu-message-format
+msgctxt "about_license"
+msgid "License"
+msgstr "உரிமம்"
+
+#, icu-message-format
+msgctxt "about_isAvailableUnderGPL3"
+msgid " is copylefted libre software, licensed GPLv3+."
+msgstr "நகலெடுக்கும் லிப்ரே மென்பொருள், உரிமம் பெற்ற GPLV3+."
+
+#, icu-message-format
+msgctxt "about_sourceCode"
+msgid "Source Code"
+msgstr "மூலக் குறியீடு"
+
+#, icu-message-format
+msgctxt "about_tapHereToVisitRepo"
+msgid "Tap here to visit the source code repository"
+msgstr "மூலக் குறியீடு களஞ்சியத்தைப் பார்வையிட இங்கே தட்டவும்"
+
+#, icu-message-format
+msgctxt "about_legalInformation"
+msgid "Legal Info"
+msgstr "சட்ட செய்தி"
+
+#, icu-message-format
+msgctxt "about_copyright2020HydroloGIS"
+msgid ""
+"Copyright © 2020, HydroloGIS S.r.l. — some rights reserved. Tap to visit."
+msgstr ""
+"பதிப்புரிமை © 2020, ஐட்ரோலசிச் எச்.ஆர்.எல். - சில உரிமைகள் "
+"பாதுகாக்கப்பட்டவை. பார்வையிட தட்டவும்."
+
+#, icu-message-format
+msgctxt "about_supportedBy"
+msgid "Supported by"
+msgstr "ஆதரிக்கிறது"
+
+#, icu-message-format
+msgctxt "about_partiallySupportedByUniversityTrento"
+msgid ""
+"Partially supported by the project Steep Stream of the University of Trento."
+msgstr ""
+"ட்ரெண்டோ பல்கலைக்கழகத்தின் திட்ட செங்குத்தான நீரோட்டத்தால் ஓரளவு "
+"ஆதரிக்கப்படுகிறது."
+
+#, icu-message-format
+msgctxt "about_privacyPolicy"
+msgid "Privacy Policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, icu-message-format
+msgctxt "about_tapHereToSeePrivacyPolicy"
+msgid "Tap here to see the privacy policy that covers user and location data."
+msgstr ""
+"பயனர் மற்றும் இருப்பிடத் தரவை உள்ளடக்கிய தனியுரிமைக் கொள்கையைக் காண இங்கே "
+"தட்டவும்."
+
+#, icu-message-format
+msgctxt "gpsInfoButton_noGpsInfoAvailable"
+msgid "No GPS info available…"
+msgstr "சி.பி.எச் செய்தி எதுவும் கிடைக்கவில்லை…"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_timestamp"
+msgid "Timestamp"
+msgstr "நேர முத்திரை"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_speed"
+msgid "Speed"
+msgstr "வேகம்"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_heading"
+msgid "Heading"
+msgstr "தலைப்பு"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_accuracy"
+msgid "Accuracy"
+msgstr "துல்லியம்"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_altitude"
+msgid "Altitude"
+msgstr "குத்துயரம்"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_latitude"
+msgid "Latitude"
+msgstr "அகலாங்கு"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_copyLatitudeToClipboard"
+msgid "Copy latitude to clipboard."
+msgstr "இடைநிலைப்பலகைக்கு அட்சரேகையை நகலெடுக்கவும்."
+
+#, icu-message-format
+msgctxt "gpsInfoButton_longitude"
+msgid "Longitude"
+msgstr "நெட்டாங்கு"
+
+#, icu-message-format
+msgctxt "gpsInfoButton_copyLongitudeToClipboard"
+msgid "Copy longitude to clipboard."
+msgstr "இடைநிலைப்பலகைக்கு தீர்க்கரேகையை நகலெடுக்கவும்."
+
+#, icu-message-format
+msgctxt "gpsLogButton_stopLogging"
+msgid "Stop Logging?"
+msgstr "பதிவு செய்வதை நிறுத்தவா?"
+
+#, icu-message-format
+msgctxt "gpsLogButton_stopLoggingAndCloseLog"
+msgid "Stop logging and close the current GPS log?"
+msgstr "உள்நுழைவதை நிறுத்தி தற்போதைய சி.பி.எச் பதிவை மூடவா?"
+
+#, icu-message-format
+msgctxt "gpsLogButton_newLog"
+msgid "New Log"
+msgstr "புதிய பதிவு"
+
+#, icu-message-format
+msgctxt "gpsLogButton_enterNameForNewLog"
+msgid "Enter a name for the new log"
+msgstr "புதிய பதிவுக்கு ஒரு பெயரை உள்ளிடவும்"
+
+#, icu-message-format
+msgctxt "gpsLogButton_couldNotStartLogging"
+msgid "Could not start logging: "
+msgstr "உள்நுழைவைத் தொடங்க முடியவில்லை:"
+
+#, icu-message-format
+msgctxt "imageWidgets_loadingImage"
+msgid "Loading image…"
+msgstr "படத்தை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "logList_gpsLogsList"
+msgid "GPS Logs list"
+msgstr "சி.பி.எச் பதிவுகள் பட்டியல்"
+
+#, icu-message-format
+msgctxt "logList_selectAll"
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, icu-message-format
+msgctxt "logList_unSelectAll"
+msgid "Unselect all"
+msgstr "அனைத்தையும் தேர்வு செய்யுங்கள்"
+
+#, icu-message-format
+msgctxt "logList_invertSelection"
+msgid "Invert selection"
+msgstr "தலைகீழ் தேர்வு"
+
+#, icu-message-format
+msgctxt "logList_mergeSelected"
+msgid "Merge selected"
+msgstr "தேர்ந்தெடுக்கப்பட்ட ஒன்றிணைப்பு"
+
+#, icu-message-format
+msgctxt "logList_loadingLogs"
+msgid "Loading logs…"
+msgstr "பதிவுகளை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "logList_zoomTo"
+msgid "Zoom to"
+msgstr "பெரிதாக்கவும்"
+
+#, icu-message-format
+msgctxt "logList_properties"
+msgid "Properties"
+msgstr "பண்புகள்"
+
+#, icu-message-format
+msgctxt "logList_profileView"
+msgid "Profile View"
+msgstr "சுயவிவர பார்வை"
+
+#, icu-message-format
+msgctxt "logList_toGPX"
+msgid "To GPX"
+msgstr "GPX க்கு"
+
+#, icu-message-format
+msgctxt "logList_gpsSavedInExportFolder"
+msgid "GPX saved in export folder."
+msgstr "ஏற்றுமதி கோப்புறையில் சி.பி.எக்ச் சேமிக்கப்பட்டது."
+
+#, icu-message-format
+msgctxt "logList_errorOccurredExportingLogGPX"
+msgid "Could not export log to GPX."
+msgstr "சி.பி.எக்ச் -க்கு பதிவை ஏற்றுமதி செய்ய முடியவில்லை."
+
+#, icu-message-format
+msgctxt "logList_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "logList_DELETE"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "logList_areYouSureDeleteTheLog"
+msgid "Delete the log?"
+msgstr "பதிவை நீக்கவா?"
+
+#, icu-message-format
+msgctxt "logList_hours"
+msgid "hours"
+msgstr "மணி"
+
+#, icu-message-format
+msgctxt "logList_hour"
+msgid "hour"
+msgstr "மணி"
+
+#, icu-message-format
+msgctxt "logList_minutes"
+msgid "min"
+msgstr "மணித்துளி"
+
+#, icu-message-format
+msgctxt "logProperties_gpsLogProperties"
+msgid "GPS Log Properties"
+msgstr "சி.பி.எச் பதிவு பண்புகள்"
+
+#, icu-message-format
+msgctxt "logProperties_logName"
+msgid "Log Name"
+msgstr "பதிவு பெயர்"
+
+#, icu-message-format
+msgctxt "logProperties_start"
+msgid "Start"
+msgstr "தொடங்கு"
+
+#, icu-message-format
+msgctxt "logProperties_end"
+msgid "End"
+msgstr "முடிவு"
+
+#, icu-message-format
+msgctxt "logProperties_duration"
+msgid "Duration"
+msgstr "காலம்"
+
+#, icu-message-format
+msgctxt "logProperties_color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, icu-message-format
+msgctxt "logProperties_palette"
+msgid "Palette"
+msgstr "தட்டு"
+
+#, icu-message-format
+msgctxt "logProperties_width"
+msgid "Width"
+msgstr "அகலம்"
+
+#, icu-message-format
+msgctxt "logProperties_distanceAtPosition"
+msgid "Distance at position:"
+msgstr "நிலையில் தூரம்:"
+
+#, icu-message-format
+msgctxt "logProperties_totalDistance"
+msgid "Total distance:"
+msgstr "மொத்த தூரம்:"
+
+#, icu-message-format
+msgctxt "logProperties_gpsLogView"
+msgid "GPS Log View"
+msgstr "சி.பி.எச் பதிவு பார்வை"
+
+#, icu-message-format
+msgctxt "logProperties_disableStats"
+msgid "Turn off stats"
+msgstr "புள்ளிவிவரங்களை அணைக்கவும்"
+
+#, icu-message-format
+msgctxt "logProperties_enableStats"
+msgid "Turn on stats"
+msgstr "புள்ளிவிவரங்களை இயக்கவும்"
+
+#, icu-message-format
+msgctxt "logProperties_totalDuration"
+msgid "Total duration:"
+msgstr "மொத்த காலம்:"
+
+#, icu-message-format
+msgctxt "logProperties_timestamp"
+msgid "Timestamp:"
+msgstr "நேர முத்திரை:"
+
+#, icu-message-format
+msgctxt "logProperties_durationAtPosition"
+msgid "Duration at position:"
+msgstr "நிலையில் காலம்:"
+
+#, icu-message-format
+msgctxt "logProperties_speed"
+msgid "Speed:"
+msgstr "வேகம்:"
+
+#, icu-message-format
+msgctxt "logProperties_elevation"
+msgid "Elevation:"
+msgstr "உயரம்:"
+
+#, icu-message-format
+msgctxt "noteList_simpleNotesList"
+msgid "Simple List of Notes"
+msgstr "குறிப்புகளின் எளிய பட்டியல்"
+
+#, icu-message-format
+msgctxt "noteList_formNotesList"
+msgid "List of Form Notes"
+msgstr "படிவக் குறிப்புகளின் பட்டியல்"
+
+#, icu-message-format
+msgctxt "noteList_loadingNotes"
+msgid "Loading notes…"
+msgstr "குறிப்புகளை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "noteList_zoomTo"
+msgid "Zoom to"
+msgstr "பெரிதாக்கவும்"
+
+#, icu-message-format
+msgctxt "noteList_edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, icu-message-format
+msgctxt "noteList_properties"
+msgid "Properties"
+msgstr "பண்புகள்"
+
+#, icu-message-format
+msgctxt "noteList_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "noteList_DELETE"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, icu-message-format
+msgctxt "noteList_areYouSureDeleteNote"
+msgid "Delete the note?"
+msgstr "குறிப்பை நீக்கவா?"
+
+#, icu-message-format
+msgctxt "settings_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, icu-message-format
+msgctxt "settings_camera"
+msgid "Camera"
+msgstr "கேமரா"
+
+#, icu-message-format
+msgctxt "settings_cameraResolution"
+msgid "Camera Resolution"
+msgstr "கேமரா தீர்மானம்"
+
+#, icu-message-format
+msgctxt "settings_resolution"
+msgid "Resolution"
+msgstr "பகுத்தல்"
+
+#, icu-message-format
+msgctxt "settings_theCameraResolution"
+msgid "The camera resolution"
+msgstr "கேமரா தீர்மானம்"
+
+#, icu-message-format
+msgctxt "settings_screen"
+msgid "Screen"
+msgstr "திரை"
+
+#, icu-message-format
+msgctxt "settings_screenScaleBarIconSize"
+msgid "Screen, Scalebar and Icon Size"
+msgstr "திரை, ச்கேல்பார் மற்றும் படவுரு அளவு"
+
+#, icu-message-format
+msgctxt "settings_keepScreenOn"
+msgid "Keep Screen On"
+msgstr "திரையை தொடர்ந்து வைத்திருங்கள்"
+
+#, icu-message-format
+msgctxt "settings_retinaScreenMode"
+msgid "HiDPI screen-mode"
+msgstr "HIDPI திரை முறை"
+
+#, icu-message-format
+msgctxt "settings_toApplySettingEnterExitLayerView"
+msgid "Enter and exit the layer view to apply this setting."
+msgstr "இந்த அமைப்பைப் பயன்படுத்த அடுக்கு பார்வையை உள்ளிட்டு வெளியேறவும்."
+
+#, icu-message-format
+msgctxt "settings_colorPickerToUse"
+msgid "Color Picker to use"
+msgstr "பயன்படுத்த கலர் பிக்கர்"
+
+#, icu-message-format
+msgctxt "settings_mapCenterCross"
+msgid "Map Center Cross"
+msgstr "வரைபட மைய குறுக்கு"
+
+#, icu-message-format
+msgctxt "settings_color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, icu-message-format
+msgctxt "settings_size"
+msgid "Size"
+msgstr "அளவு"
+
+#, icu-message-format
+msgctxt "settings_width"
+msgid "Width"
+msgstr "அகலம்"
+
+#, icu-message-format
+msgctxt "settings_mapToolsIconSize"
+msgid "Icon Size for Map Tools"
+msgstr "வரைபட கருவிகளுக்கான படவுரு அளவு"
+
+#, icu-message-format
+msgctxt "settings_gps"
+msgid "GPS"
+msgstr "உலக இடம் காட்டும் அமைப்பு"
+
+#, icu-message-format
+msgctxt "settings_gpsFiltersAndMockLoc"
+msgid "GPS filters and mock locations"
+msgstr "சி.பி.எச் வடிப்பான்கள் மற்றும் போலி இடங்கள்"
+
+#, icu-message-format
+msgctxt "settings_livePreview"
+msgid "Live Preview"
+msgstr "நேரடி முன்னோட்டம்"
+
+#, icu-message-format
+msgctxt "settings_noPointAvailableYet"
+msgid "No point available yet."
+msgstr "இன்னும் எந்தப் புள்ளியும் கிடைக்கவில்லை."
+
+#, icu-message-format
+msgctxt "settings_longitudeDeg"
+msgid "longitude [deg]"
+msgstr "தீர்க்கரேகை [டிகிரி]"
+
+#, icu-message-format
+msgctxt "settings_latitudeDeg"
+msgid "latitude [deg]"
+msgstr "அட்சரேகை [டிகிரி]"
+
+#, icu-message-format
+msgctxt "settings_accuracyM"
+msgid "accuracy [m]"
+msgstr "துல்லியம் [மீ]"
+
+#, icu-message-format
+msgctxt "settings_altitudeM"
+msgid "altitude [m]"
+msgstr "உயரம் [மீ]"
+
+#, icu-message-format
+msgctxt "settings_headingDeg"
+msgid "heading [deg]"
+msgstr "தலைப்பு [நீங்கள்]"
+
+#, icu-message-format
+msgctxt "settings_speedMS"
+msgid "speed [m/s]"
+msgstr "விரைவு [m/s]"
+
+#, icu-message-format
+msgctxt "settings_isLogging"
+msgid "is logging?"
+msgstr "பதிவுசெய்கிறதா?"
+
+#, icu-message-format
+msgctxt "settings_mockLocations"
+msgid "mock locations?"
+msgstr "போலி இடங்கள்?"
+
+#, icu-message-format
+msgctxt "settings_minDistFilterBlocks"
+msgid "Min dist filter blocks"
+msgstr "மின் மாவட்டம் வடிகட்டி தொகுதிகள்"
+
+#, icu-message-format
+msgctxt "settings_minDistFilterPasses"
+msgid "Min dist filter passes"
+msgstr "மின் மாவட்டம் வடிகட்டி கடந்து செல்கிறது"
+
+#, icu-message-format
+msgctxt "settings_minTimeFilterBlocks"
+msgid "Min time filter blocks"
+msgstr "குறைந்தபட்ச நேர வடிகட்டி தொகுதிகள்"
+
+#, icu-message-format
+msgctxt "settings_minTimeFilterPasses"
+msgid "Min time filter passes"
+msgstr "குறைந்தபட்ச நேர வடிகட்டி கடந்து செல்கிறது"
+
+#, icu-message-format
+msgctxt "settings_hasBeenBlocked"
+msgid "Has been blocked"
+msgstr "தடுக்கப்பட்டுள்ளது"
+
+#, icu-message-format
+msgctxt "settings_distanceFromPrevM"
+msgid "Distance from prev [m]"
+msgstr "முந்தைய [மீ] இலிருந்து தூரம்"
+
+#, icu-message-format
+msgctxt "settings_timeFromPrevS"
+msgid "Time since prev [s]"
+msgstr "முந்தைய நேரம் [கள்]"
+
+#, icu-message-format
+msgctxt "settings_locationInfo"
+msgid "Location Info"
+msgstr "இருப்பிட செய்தி"
+
+#, icu-message-format
+msgctxt "settings_filters"
+msgid "Filters"
+msgstr "வடிப்பான்கள்"
+
+#, icu-message-format
+msgctxt "settings_disableFilters"
+msgid "Turn off Filters."
+msgstr "வடிப்பான்களை அணைக்கவும்."
+
+#, icu-message-format
+msgctxt "settings_enableFilters"
+msgid "Turn on Filters."
+msgstr "வடிப்பான்களை இயக்கவும்."
+
+#, icu-message-format
+msgctxt "settings_zoomIn"
+msgid "Zoom in"
+msgstr "பெரிதாக்கு"
+
+#, icu-message-format
+msgctxt "settings_zoomOut"
+msgid "Zoom out"
+msgstr "சிறிதாக்கு"
+
+#, icu-message-format
+msgctxt "settings_activatePointFlow"
+msgid "Activate point flow."
+msgstr "புள்ளி ஓட்டத்தை செயல்படுத்தவும்."
+
+#, icu-message-format
+msgctxt "settings_pausePointsFlow"
+msgid "Pause points flow."
+msgstr "இடைநிறுத்த புள்ளிகள் ஓட்டம்."
+
+#, icu-message-format
+msgctxt "settings_visualizePointCount"
+msgid "Visualize point count"
+msgstr "புள்ளி எண்ணிக்கையை காட்சிப்படுத்துங்கள்"
+
+#, icu-message-format
+msgctxt "settings_showGpsPointsValidPoints"
+msgid "Show the GPS points count for VALID points."
+msgstr ""
+"செல்லுபடியாகும் புள்ளிகளுக்கு சி.பி.எச் புள்ளிகள் எண்ணிக்கையைக் காட்டு."
+
+#, icu-message-format
+msgctxt "settings_showGpsPointsAllPoints"
+msgid "Show the GPS points count for ALL points."
+msgstr "எல்லா புள்ளிகளுக்கும் சி.பி.எச் புள்ளிகள் எண்ணிக்கையைக் காட்டு."
+
+#, icu-message-format
+msgctxt "settings_logFilters"
+msgid "Log filters"
+msgstr "பதிவு வடிப்பான்கள்"
+
+#, icu-message-format
+msgctxt "settings_minDistanceBetween2Points"
+msgid "Min distance between 2 points."
+msgstr "2 புள்ளிகளுக்கு இடையில் மணித்துளி."
+
+#, icu-message-format
+msgctxt "settings_minTimespanBetween2Points"
+msgid "Min timespan between 2 points."
+msgstr "2 புள்ளிகளுக்கு இடையில் மினிச்பான்."
+
+#, icu-message-format
+msgctxt "settings_gpsFilter"
+msgid "GPS Filter"
+msgstr "சி.பி.எச் வடிகட்டி"
+
+#, icu-message-format
+msgctxt "settings_disable"
+msgid "Turn off"
+msgstr "அணைக்கவும்"
+
+#, icu-message-format
+msgctxt "settings_enable"
+msgid "Turn on"
+msgstr "இயக்கவும்"
+
+#, icu-message-format
+msgctxt "settings_theUseOfTheGps"
+msgid "the use of filtered GPS."
+msgstr "வடிகட்டப்பட்ட சி.பி.எச் பயன்பாடு."
+
+#, icu-message-format
+msgctxt "settings_warningThisWillAffectGpsPosition"
+msgid ""
+"Warning: This will affect GPS position, notes insertion, log statistics and "
+"charting."
+msgstr ""
+"எச்சரிக்கை: இது சி.பி.எச் நிலை, குறிப்புகள் செருகல், பதிவு புள்ளிவிவரங்கள் "
+"மற்றும் விளக்கப்படத்தை பாதிக்கும்."
+
+#, icu-message-format
+msgctxt "settings_MockLocations"
+msgid "Mock locations"
+msgstr "போலி இடங்கள்"
+
+#, icu-message-format
+msgctxt "settings_testGpsLogDemoUse"
+msgid "test GPS log for demo use."
+msgstr "டெமோ பயன்பாட்டிற்கான சி.பி.எச் பதிவு சோதனை."
+
+#, icu-message-format
+msgctxt "settings_setDurationGpsPointsInMilli"
+msgid "Set duration for GPS points in milliseconds."
+msgstr "மில்லி விநாடிகளில் சி.பி.எச் புள்ளிகளுக்கான காலத்தை அமைக்கவும்."
+
+#, icu-message-format
+msgctxt "settings_SETTING"
+msgid "Setting"
+msgstr "அமைத்தல்"
+
+#, icu-message-format
+msgctxt "settings_setMockedGpsDuration"
+msgid "Set Mocked GPS duration"
+msgstr "கேலி செய்யப்பட்ட சி.பி.எச் காலத்தை அமைக்கவும்"
+
+#, icu-message-format
+msgctxt "settings_theValueHasToBeInt"
+msgid "The value has to be a whole number."
+msgstr "மதிப்பு முழு எண்ணாக இருக்க வேண்டும்."
+
+#, icu-message-format
+msgctxt "settings_milliseconds"
+msgid "milliseconds"
+msgstr "மில்லி விநாடிகள்"
+
+#, icu-message-format
+msgctxt "settings_useGoogleToImproveLoc"
+msgid "Use Google Services to improve location"
+msgstr "இருப்பிடத்தை மேம்படுத்த Google சேவைகளைப் பயன்படுத்தவும்"
+
+#, icu-message-format
+msgctxt "settings_useOfGoogleServicesRestart"
+msgid "use of Google services (app restart needed)."
+msgstr "Google சேவைகளின் பயன்பாடு (பயன்பாட்டு மறுதொடக்கம் தேவை)."
+
+#, icu-message-format
+msgctxt "settings_gpsLogsViewMode"
+msgid "GPS Logs view mode"
+msgstr "சி.பி.எச் பதிவுகள் பார்வை பயன்முறை"
+
+#, icu-message-format
+msgctxt "settings_logViewModeForOrigData"
+msgid "Log view mode for original data."
+msgstr "அசல் தரவுகளுக்கான பதிவு பார்வை பயன்முறை."
+
+#, icu-message-format
+msgctxt "settings_logViewModeFilteredData"
+msgid "Log view mode for filtered data."
+msgstr "வடிகட்டப்பட்ட தரவுகளுக்கான பதிவு பார்வை பயன்முறை."
+
+#, icu-message-format
+msgctxt "settings_cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, icu-message-format, ignore-same
+msgctxt "settings_ok"
+msgid "OK"
+msgstr "சரி"
+
+#, icu-message-format
+msgctxt "settings_notesViewModes"
+msgid "Notes view modes"
+msgstr "குறிப்புகள் முறைகளைக் காண்க"
+
+#, icu-message-format
+msgctxt "settings_selectNotesViewMode"
+msgid "Select a mode to view notes in."
+msgstr "குறிப்புகளைக் காண ஒரு பயன்முறையைத் தேர்ந்தெடுக்கவும்."
+
+#, icu-message-format
+msgctxt "settings_mapPlugins"
+msgid "Map Plugins"
+msgstr "வரைபட செருகுநிரல்கள்"
+
+#, icu-message-format
+msgctxt "settings_vectorLayers"
+msgid "Vector Layers"
+msgstr "திசையன் அடுக்குகள்"
+
+#, icu-message-format
+msgctxt "settings_loadingOptionsInfoTool"
+msgid "Loading Options and Info Tool"
+msgstr "விருப்பங்கள் மற்றும் செய்தி கருவியை ஏற்றுகிறது"
+
+#, icu-message-format
+msgctxt "settings_dataLoading"
+msgid "Data loading"
+msgstr "தரவு ஏற்றுதல்"
+
+#, icu-message-format
+msgctxt "settings_maxNumberFeatures"
+msgid "Max number of features."
+msgstr "அம்சங்களின் அதிகபட்ச எண்ணிக்கை."
+
+#, icu-message-format
+msgctxt "settings_maxNumFeaturesPerLayer"
+msgid "Max features per layer. Remove and add the layer to apply."
+msgstr ""
+"ஒரு அடுக்குக்கு அதிகபட்ச நற்பொருத்தங்கள். விண்ணப்பிக்க அடுக்கை அகற்றி "
+"சேர்க்கவும்."
+
+#, icu-message-format
+msgctxt "settings_all"
+msgid "all"
+msgstr "அனைத்தும்"
+
+#, icu-message-format
+msgctxt "settings_loadMapArea"
+msgid "Load map area."
+msgstr "வரைபடப் பகுதியை ஏற்றவும்."
+
+#, icu-message-format
+msgctxt "settings_loadOnlyLastVisibleArea"
+msgid ""
+"Load only on the last visible map area. Remove and add the layer again to "
+"apply."
+msgstr ""
+"கடைசியாக புலப்படும் வரைபடப் பகுதியில் மட்டுமே ஏற்றவும். விண்ணப்பிக்க "
+"மீண்டும் அடுக்கைச் சேர்க்கவும்."
+
+#, icu-message-format
+msgctxt "settings_infoTool"
+msgid "Info Tool"
+msgstr "செய்தி கருவி"
+
+#, icu-message-format
+msgctxt "settings_tapSizeInfoToolPixels"
+msgid "Tap size of the info tool in pixels."
+msgstr "செய்தி கருவியின் அளவை பிக்சல்களில் தட்டவும்."
+
+#, icu-message-format
+msgctxt "settings_editingTool"
+msgid "Editing tool"
+msgstr "திருத்துதல் கருவி"
+
+#, icu-message-format
+msgctxt "settings_editingDragIconSize"
+msgid "Editing drag handler icon size."
+msgstr "இழுவை கையாளுபவர் படவுரு அளவைத் திருத்துதல்."
+
+#, icu-message-format
+msgctxt "settings_editingIntermediateDragIconSize"
+msgid "Editing intermediate drag handler icon size."
+msgstr "இடைநிலை இழுவை கையாளுபவர் படவுரு அளவைத் திருத்துதல்."
+
+#, icu-message-format
+msgctxt "settings_diagnostics"
+msgid "Diagnostics"
+msgstr "கண்டறிதல்"
+
+#, icu-message-format
+msgctxt "settings_diagnosticsDebugLog"
+msgid "Diagnostics and Debug Log"
+msgstr "கண்டறிதல் மற்றும் பிழைத்திருத்த பதிவு"
+
+#, icu-message-format
+msgctxt "settings_openFullDebugLog"
+msgid "Open full debug log"
+msgstr "முழு பிழைத்திருத்த பதிவைத் திறக்கவும்"
+
+#, icu-message-format
+msgctxt "settings_debugLogView"
+msgid "Debug Log View"
+msgstr "பிழைத்திருத்த பதிவு பார்வை"
+
+#, icu-message-format
+msgctxt "settings_viewAllMessages"
+msgid "View all messages"
+msgstr "எல்லா செய்திகளையும் காண்க"
+
+#, icu-message-format
+msgctxt "settings_viewOnlyErrorsWarnings"
+msgid "View only errors and warnings"
+msgstr "பிழைகள் மற்றும் எச்சரிக்கைகளை மட்டுமே காண்க"
+
+#, icu-message-format
+msgctxt "settings_clearDebugLog"
+msgid "Clear debug log"
+msgstr "பிழைத்திருத்த பதிவை அழிக்கவும்"
+
+#, icu-message-format
+msgctxt "settings_loadingData"
+msgid "Loading data…"
+msgstr "தரவை ஏற்றுகிறது…"
+
+#, icu-message-format
+msgctxt "settings_device"
+msgid "Device"
+msgstr "சாதனம்"
+
+#, icu-message-format
+msgctxt "settings_deviceIdentifier"
+msgid "Device identifier"
+msgstr "சாதன அடையாளங்காட்டி"
+
+#, icu-message-format
+msgctxt "settings_deviceId"
+msgid "Device ID"
+msgstr "சாதன ஐடி"
+
+#, icu-message-format
+msgctxt "settings_overrideDeviceId"
+msgid "Override Device ID"
+msgstr "சாதன ஐடியை மீறவும்"
+
+#, icu-message-format
+msgctxt "settings_overrideId"
+msgid "Override ID"
+msgstr "ஐடியை மீறவும்"
+
+#, icu-message-format
+msgctxt "settings_pleaseEnterValidPassword"
+msgid "Please enter a valid server password."
+msgstr "செல்லுபடியாகும் சேவையக கடவுச்சொல்லை உள்ளிடவும்."
+
+#, icu-message-format
+msgctxt "settings_gss"
+msgid "GSS"
+msgstr "சி.எச்.எச்"
+
+#, icu-message-format
+msgctxt "settings_geopaparazziSurveyServer"
+msgid "Geopaparazzi Survey Server"
+msgstr "சியோபாபராசி கணக்கெடுப்பு சேவையகம்"
+
+#, icu-message-format
+msgctxt "settings_serverUrl"
+msgid "Server URL"
+msgstr "சேவையக முகவரி"
+
+#, icu-message-format
+msgctxt "settings_serverUrlStartWithHttp"
+msgid "The server URL needs to start with HTTP or HTTPS."
+msgstr "சேவையக முகவரி HTTP அல்லது HTTPS உடன் தொடங்க வேண்டும்."
+
+#, icu-message-format
+msgctxt "settings_serverPassword"
+msgid "Server Password"
+msgstr "சேவையக கடவுச்சொல்"
+
+#, icu-message-format
+msgctxt "settings_allowSelfSignedCert"
+msgid "Allow self signed certificates"
+msgstr "தன்வய கையொப்பமிடப்பட்ட சான்றிதழ்களை அனுமதிக்கவும்"
+
+#, icu-message-format
+msgctxt "toolbarTools_zoomOut"
+msgid "Zoom out"
+msgstr "சிறிதாக்கு"
+
+#, icu-message-format
+msgctxt "toolbarTools_zoomIn"
+msgid "Zoom in"
+msgstr "பெரிதாக்கு"
+
+#, icu-message-format
+msgctxt "toolbarTools_cancelCurrentEdit"
+msgid "Cancel current edit."
+msgstr "தற்போதைய திருத்தத்தை ரத்துசெய்."
+
+#, icu-message-format
+msgctxt "toolbarTools_saveCurrentEdit"
+msgid "Save current edit."
+msgstr "தற்போதைய திருத்தத்தை சேமிக்கவும்."
+
+#, icu-message-format
+msgctxt "toolbarTools_insertPointMapCenter"
+msgid "Insert point in map center."
+msgstr "வரைபட மையத்தில் புள்ளியைச் செருகவும்."
+
+#, icu-message-format
+msgctxt "toolbarTools_insertPointGpsPos"
+msgid "Insert point in GPS position."
+msgstr "சி.பி.எச் நிலையில் புள்ளியைச் செருகவும்."
+
+#, icu-message-format
+msgctxt "toolbarTools_removeSelectedFeature"
+msgid "Remove selected feature."
+msgstr "தேர்ந்தெடுக்கப்பட்ட அம்சத்தை அகற்று."
+
+#, icu-message-format
+msgctxt "toolbarTools_showFeatureAttributes"
+msgid "Show feature attributes."
+msgstr "அம்ச பண்புகளைக் காட்டு."
+
+#, icu-message-format
+msgctxt "toolbarTools_featureDoesNotHavePrimaryKey"
+msgid "The feature does not have a primary key. Editing is not allowed."
+msgstr "அம்சத்தில் முதன்மை விசை இல்லை. திருத்துதல் அனுமதிக்கப்படவில்லை."
+
+#, icu-message-format
+msgctxt "toolbarTools_queryFeaturesVectorLayers"
+msgid "Query features from loaded vector layers."
+msgstr "ஏற்றப்பட்ட திசையன் அடுக்குகளிலிருந்து வினவல் நற்பொருத்தங்கள்."
+
+#, icu-message-format
+msgctxt "toolbarTools_measureDistanceWithFinger"
+msgid "Measure distances on the map with your finger."
+msgstr "உங்கள் விரலால் வரைபடத்தில் தூரங்களை அளவிடவும்."
+
+#, icu-message-format
+msgctxt "toolbarTools_modifyGeomVectorLayers"
+msgid "Modify the geometry of editable vector layers."
+msgstr "திருத்தக்கூடிய திசையன் அடுக்குகளின் வடிவவியலை மாற்றவும்."
+
+#, icu-message-format
+msgctxt "coachMarks_singleTap"
+msgid "Single tap: "
+msgstr "ஒற்றை குழாய்:"
+
+#, icu-message-format
+msgctxt "coachMarks_longTap"
+msgid "Long tap: "
+msgstr "தட்டும்போது:"
+
+#, icu-message-format
+msgctxt "coachMarks_doubleTap"
+msgid "Double tap: "
+msgstr "இரட்டை தட்டு:"
+
+#, icu-message-format
+msgctxt "coachMarks_simpleNoteButton"
+msgid "Simple Notes Button"
+msgstr "எளிய குறிப்புகள் பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_addNewNote"
+msgid "add a new note"
+msgstr "புதிய குறிப்பைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_viewNotesList"
+msgid "view list of notes"
+msgstr "குறிப்புகளின் பட்டியலைக் காண்க"
+
+#, icu-message-format
+msgctxt "coachMarks_viewNotesSettings"
+msgid "view settings for notes"
+msgstr "குறிப்புகளுக்கான அமைப்புகளைக் காண்க"
+
+#, icu-message-format
+msgctxt "coachMarks_formNotesButton"
+msgid "Form Notes Button"
+msgstr "குறிப்புகள் பொத்தானை படிவம்"
+
+#, icu-message-format
+msgctxt "coachMarks_addNewFormNote"
+msgid "add new form note"
+msgstr "புதிய படிவக் குறிப்பைச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_viewFormNoteList"
+msgid "view list of form notes"
+msgstr "படிவக் குறிப்புகளின் பட்டியலைக் காண்க"
+
+#, icu-message-format
+msgctxt "coachMarks_gpsLogButton"
+msgid "GPS Log Button"
+msgstr "சி.பி.எச் பதிவு பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_startStopLogging"
+msgid "start logging/stop logging"
+msgstr "உள்நுழைவதைத் தொடங்கவும்/பதிவு செய்வதை நிறுத்தவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_viewLogsList"
+msgid "view list of logs"
+msgstr "பதிவுகளின் பட்டியலைக் காண்க"
+
+#, icu-message-format
+msgctxt "coachMarks_viewLogsSettings"
+msgid "view log settings"
+msgstr "பதிவு அமைப்புகளைக் காண்க"
+
+#, icu-message-format
+msgctxt "coachMarks_gpsInfoButton"
+msgid "GPS Info Button (if applicable)"
+msgstr "சி.பி.எச் செய்தி பொத்தான் (பொருந்தினால்)"
+
+#, icu-message-format
+msgctxt "coachMarks_centerMapOnGpsPos"
+msgid "center map on GPS position"
+msgstr "சி.பி.எச் நிலையில் மைய வரைபடம்"
+
+#, icu-message-format
+msgctxt "coachMarks_showGpsInfo"
+msgid "show GPS info"
+msgstr "சி.பி.எச் தகவலைக் காட்டு"
+
+#, icu-message-format
+msgctxt "coachMarks_toggleAutoCenterGps"
+msgid "toggle automatic center on GPS"
+msgstr "சி.பி.எச்சில் தானியங்கி மையத்தை மாற்றவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_layersViewButton"
+msgid "Layers View Button"
+msgstr "அடுக்குகளின் பார்வை பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_openLayersView"
+msgid "Open the layers view"
+msgstr "அடுக்குகளின் பார்வையைத் திறக்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_openLayersPluginDialog"
+msgid "Open the layer plugins dialog"
+msgstr "அடுக்கு செருகுநிரல்கள் உரையாடலைத் திறக்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_zoomInButton"
+msgid "Zoom-in Button"
+msgstr "சூம்-இன் பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_zoomImMapOneLevel"
+msgid "Zoom in the map by one level"
+msgstr "வரைபடத்தில் ஒரு நிலை பெரிதாக்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_zoomOutButton"
+msgid "Zoom-out Button"
+msgstr "சூம்-அவுட் பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_zoomOutMapOneLevel"
+msgid "Zoom out the map by one level"
+msgstr "வரைபடத்தை ஒரு நிலை பெரிதாக்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_bottomToolsButton"
+msgid "Bottom Tools Button"
+msgstr "கீழே கருவிகள் பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_toggleBottomToolsBar"
+msgid "Toggle bottom tools bar"
+msgstr "கீழ் கருவிகள் பட்டியை மாற்றவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_toolsButton"
+msgid "Tools Button"
+msgstr "கருவிகள் பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_openEndDrawerToAccessProject"
+msgid ""
+"Open the end drawer to access project info and sharing options as well as "
+"map plugins, feature tools and extras"
+msgstr ""
+"திட்ட செய்தி மற்றும் பகிர்வு விருப்பங்கள் மற்றும் வரைபட செருகுநிரல்கள், அம்ச"
+" கருவிகள் மற்றும் கூடுதல் ஆகியவற்றை அணுக இறுதி டிராயரைத் திறக்கவும்"
+
+#, icu-message-format
+msgctxt "coachMarks_interactiveCoackMarksButton"
+msgid "Interactive coach-marks button"
+msgstr "ஊடாடும் பயிற்சியாளர்-அடையாளங்கள் பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_openInteractiveCoachMarks"
+msgid ""
+"Open the interactice coach marks explaining all the actions of the main map "
+"view."
+msgstr ""
+"முக்கிய வரைபடக் காட்சியின் அனைத்து செயல்களையும் விளக்கும் ஊடாடும் "
+"பயிற்சியாளர் அடையாளங்களைத் திறக்கவும்."
+
+#, icu-message-format
+msgctxt "coachMarks_mainMenuButton"
+msgid "Main-menu Button"
+msgstr "மெயின்-மெனு பொத்தான்"
+
+#, icu-message-format
+msgctxt "coachMarks_openDrawerToLoadProject"
+msgid ""
+"Open the drawer to load or create a project, import and export data, sync "
+"with servers, access settings and exit the app/turn off the GPS."
+msgstr ""
+"ஒரு திட்டத்தை ஏற்ற அல்லது உருவாக்க டிராயரைத் திறக்கவும், தரவை இறக்குமதி "
+"செய்யவும் ஏற்றுமதி செய்யவும், சேவையகங்களுடன் ஒத்திசைக்கவும், அமைப்புகளை "
+"அணுகவும் மற்றும் பயன்பாட்டிலிருந்து வெளியேறவும்/சி.பி.எச்சை அணைக்கவும்."
+
+#, icu-message-format
+msgctxt "coachMarks_skip"
+msgid "Skip"
+msgstr "தவிர்"
+
+#, icu-message-format
+msgctxt "network_cancelledByUser"
+msgid "Cancelled by user."
+msgstr "பயனரால் ரத்து செய்யப்பட்டது."
+
+#, icu-message-format
+msgctxt "network_completed"
+msgid "Completed."
+msgstr "முடிந்தது."
+
+#, icu-message-format
+msgctxt "network_buildingBaseCachePerformance"
+msgid "Building base cache for improved performance (might take a while)…"
+msgstr ""
+"மேம்பட்ட செயல்திறனுக்காக அடிப்படை தற்காலிக சேமிப்பை உருவாக்குதல் (சிறிது "
+"நேரம் ஆகலாம்)…"
+
+#, icu-message-format
+msgctxt "network_thisFIleAlreadyBeingDownloaded"
+msgid "This file is already being downloaded."
+msgstr "இந்த கோப்பு ஏற்கனவே பதிவிறக்கம் செய்யப்பட்டுள்ளது."
+
+#, icu-message-format
+msgctxt "network_download"
+msgid "Download"
+msgstr "பதிவிறக்கம்"
+
+#, icu-message-format
+msgctxt "network_downloadFile"
+msgid "Download file"
+msgstr "கோப்பைப் பதிவிறக்கவும்"
+
+#, icu-message-format
+msgctxt "network_toTheDeviceTakeTime"
+msgid "to the device? This can take a while."
+msgstr "சாதனத்திற்கு? இதற்கு சிறிது நேரம் ஆகலாம்."
+
+#, icu-message-format
+msgctxt "network_availableMaps"
+msgid "Available maps"
+msgstr "கிடைக்கும் வரைபடங்கள்"
+
+#, icu-message-format
+msgctxt "network_searchMapByName"
+msgid "Search map by name"
+msgstr "பெயரால் வரைபடத்தைத் தேடுங்கள்"
+
+#, icu-message-format
+msgctxt "network_uploading"
+msgid "Uploading…"
+msgstr "பதிவேற்றுதல்…"
+
+#, icu-message-format
+msgctxt "network_pleaseWait"
+msgid "please wait…"
+msgstr "தயவுசெய்து காத்திருங்கள்…"
+
+#, icu-message-format
+msgctxt "network_permissionOnServerDenied"
+msgid "Permission on server denied."
+msgstr "சேவையகத்தில் இசைவு மறுக்கப்பட்டது."
+
+#, icu-message-format
+msgctxt "network_couldNotConnectToServer"
+msgid "Could not connect to the server. Is it online? Check your address."
+msgstr ""
+"சேவையகத்துடன் இணைக்க முடியவில்லை. இது ஆன்லைனில் உள்ளதா? உங்கள் முகவரியை "
+"சரிபார்க்கவும்."
+
+#, icu-message-format
+msgctxt "form_smash_cantSaveImageDb"
+msgid "Could not save image in database."
+msgstr "தரவுத்தளத்தில் படத்தை சேமிக்க முடியவில்லை."
+
+#, icu-message-format
+msgctxt "formbuilder"
+msgid "Form builder"
+msgstr "படிவம் பில்டர்"
+
+#, icu-message-format
+msgctxt "layersView_selectGssLayers"
+msgid "Select GSS Layers"
+msgstr "சிஎச்எச் அடுக்குகளைத் தேர்ந்தெடுக்கவும்"
+
+#, icu-message-format
+msgctxt "layersView_noGssLayersFound"
+msgid "No GSS layers found."
+msgstr "சிஎச்எச் அடுக்குகள் எதுவும் கிடைக்கவில்லை."
+
+#, icu-message-format
+msgctxt "layersView_noGssLayersAvailable"
+msgid "No layers available (loaded ones are not shown)."
+msgstr "அடுக்குகள் எதுவும் கிடைக்கவில்லை (ஏற்றப்பட்டவை காட்டப்படவில்லை)."
+
+#, icu-message-format
+msgctxt "layersView_selectGssLayersToLoad"
+msgid "Select GSS layers to load."
+msgstr "ஏற்ற GSS அடுக்குகளைத் தேர்ந்தெடுக்கவும்."
+
+#, icu-message-format
+msgctxt "layersView_unableToLoadGssLayers"
+msgid "Unable to load:"
+msgstr "ஏற்ற முடியவில்லை:"
+
+#, icu-message-format
+msgctxt "layersView_layerExists"
+msgid "Layer exists"
+msgstr "அடுக்கு உள்ளது"
+
+#, icu-message-format
+msgctxt "layersView_layerAlreadyExists"
+msgid "Layer already exists, do you want to overwrite it?"
+msgstr "அடுக்கு ஏற்கனவே உள்ளது, அதை மேலெழுத விரும்புகிறீர்களா?"
+
+#, icu-message-format
+msgctxt "gss_layerview_upload_changes"
+msgid "Upload changes"
+msgstr "மாற்றங்களை பதிவேற்றவும்"
+
+#, icu-message-format
+msgctxt "allGpsPointsCount"
+msgid "Gps points"
+msgstr "சி.பி.எச் புள்ளிகள்"
+
+#, icu-message-format
+msgctxt "filteredGpsPointsCount"
+msgid "Filtered points"
+msgstr "வடிகட்டப்பட்ட புள்ளிகள்"
+
+#, icu-message-format
+msgctxt "addTmsFromDefaults"
+msgid "Add TMS from defaults"
+msgstr "இயல்புநிலையிலிருந்து TMS ஐச் சேர்க்கவும்"
+
+#, icu-message-format
+msgctxt "form_smash_noCameraDesktop"
+msgid "No camera option available on desktop."
+msgstr "டெச்க்டாப்பில் கேமரா விருப்பம் எதுவும் கிடைக்கவில்லை."
+
+#, icu-message-format
+msgctxt "settings_BottombarCustomization"
+msgid "Bottombar Customization"
+msgstr "பாட்டோம்பர் தனிப்பயனாக்கம்"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showAddNote"
+msgid "Show the ADD NOTE button"
+msgstr "குறிப்பு பொத்தானைச் சேர் என்பதைக் காட்டு"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showAddFormNote"
+msgid "Show the ADD FORM NOTE button"
+msgstr "படிவம் குறிப்பு பொத்தானைச் சேர் என்பதைக் காட்டு"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showAddGpsLog"
+msgid "Show the ADD GPS LOG button"
+msgstr "சேர் சி.பி.எச் பதிவு பொத்தானைக் காட்டு"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showGpsButton"
+msgid "Show the gps button"
+msgstr "சி.பி.எச் பொத்தானைக் காட்டு"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showLayers"
+msgid "Show the layers button"
+msgstr "அடுக்குகள் பொத்தானைக் காட்டு"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showZoom"
+msgid "Show the zoom buttons"
+msgstr "சூம் பொத்தான்களைக் காட்டு"
+
+#, icu-message-format
+msgctxt "settings_Bottombar_showEditing"
+msgid "Show the editing button"
+msgstr "திருத்துதல் பொத்தானைக் காட்டு"
+
+#, icu-message-format
+msgctxt "gss_layerview_filter"
+msgid "Filter"
+msgstr "வடிப்பி"

@@ -1,0 +1,135 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Transistor)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-20 03:43+0200\n"
+"PO-Revision-Date: 2025-03-22 08:23\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/transistor/glossary/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#, terminology
+msgid "About"
+msgstr "பற்றி"
+
+#, terminology
+msgid "progress"
+msgstr "முன்னேற்றம்"
+
+#, terminology
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, terminology
+msgid "Previous"
+msgstr "முந்தைய"
+
+#, terminology
+msgid "button"
+msgstr "பொத்தான்"
+
+#, terminology
+msgid "default"
+msgstr "இயல்புநிலை"
+
+#, terminology
+msgid "Device"
+msgstr "சாதனம்"
+
+#, terminology
+msgid "link"
+msgstr "இணைப்பு"
+
+#, terminology
+msgid "Play"
+msgstr "விளையாடுங்கள்"
+
+#, terminology
+msgid "import"
+msgstr "இறக்குமதி"
+
+#, terminology
+msgid "buffer"
+msgstr "இடையக"
+
+#, terminology
+msgid "Playback"
+msgstr "பின்னணி"
+
+#, terminology
+msgid "Edit"
+msgstr "தொகு"
+
+#, terminology
+msgid "image"
+msgstr "படம்"
+
+#, terminology
+msgid "General"
+msgstr "பொது"
+
+#, terminology
+msgid "Update"
+msgstr "புதுப்பிப்பு"
+
+#, terminology
+msgid "address"
+msgstr "முகவரி"
+
+#, terminology
+msgid "links"
+msgstr "இணைப்புகள்"
+
+#, terminology
+msgid "App"
+msgstr "பயன்பாடு"
+
+#, terminology
+msgid "Storage"
+msgstr "சேமிப்பு"
+
+#, terminology
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, terminology
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, terminology
+msgid "Download"
+msgstr "பதிவிறக்கம்"
+
+#, terminology
+msgid "Save"
+msgstr "சேமி"
+
+#, terminology
+msgid "stream"
+msgstr "ச்ட்ரீம்"
+
+#, terminology
+msgid "Disable"
+msgstr "முடக்கு"
+
+#, terminology
+msgid "file"
+msgstr "கோப்பு"
+
+#, terminology
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, terminology
+msgid "Restore"
+msgstr "மீட்டமை"
+
+#, terminology
+msgid "Advanced"
+msgstr "மேம்பட்ட"

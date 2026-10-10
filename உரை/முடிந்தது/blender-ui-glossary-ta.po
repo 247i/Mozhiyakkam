@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Blender UI)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-17 17:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://translate.blender.org/projects/blender-ui/glossary/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.1\n"
+
+# Suggested in Weblate: கோட்டோவியம்
+#, terminology
+msgid "Line Art"
+msgstr "கோட்டு ஓவியம்"
+
+#, terminology
+msgid "Grease Pencil"
+msgstr "பசை எழுதுகோல்"
+
+#, read-only, terminology
+msgid "Blender"
+msgstr "கலப்பு"
+
+#, read-only
+msgid "EEVEE"
+msgstr "ஈவி"
+
+#, read-only, terminology
+msgid "Cycles"
+msgstr "சுழற்சிகள்"
+
+#, read-only, terminology
+msgid "Freestyle"
+msgstr "விடுதலைபாணி"
+
+msgid "Angular"
+msgstr "கோண"
+
+msgid "B-Bone"
+msgstr "பி-எலும்பு"
+
+#, terminology
+msgid "non-manifold"
+msgstr "பன்மடங்கு அல்லாத"
+
+msgid "baking"
+msgstr "சுட்டுக்கொள்ளுதல்"
+
+#, read-only
+msgctxt "1"
+msgid "Blender"
+msgstr "கலப்பு"
+
+msgid "ShapeKey"
+msgstr "வடிவதிறவுகோல்"
+
+msgctxt "Hierarchy parent-child"
+msgid "Child"
+msgstr "குழந்தை"
+
+msgid "Library Override"
+msgstr "நூலகம் மேலெழுதும்"
+
+#, terminology
+msgid "keyframes"
+msgstr "முக்கியசட்டங்கள்"
+
+#, terminology
+msgid "vertex groups"
+msgstr "உச்சி குழுக்கள்"
+
+#, terminology
+msgid "sequencer"
+msgstr "தொடர்"
+
+#, terminology
+msgid "trackball"
+msgstr "தடபந்து"
+
+#, terminology
+msgid "gizmo"
+msgstr "கிச்மோ"
+
+#, terminology
+msgid "GPencil"
+msgstr "சிஎழுதுகோல்"
+
+#, terminology
+msgid "F-Curves"
+msgstr "எஃப்-வளைவுகள்"
+
+#, terminology
+msgid "handle"
+msgstr "கைப்பிடி"
+
+#, terminology
+msgid "auto"
+msgstr "தானி"
+
+#, terminology
+msgid "numpad"
+msgstr "எண்பலகை"
+
+#, terminology
+msgid "grease pencil"
+msgstr "பசை எழுதுகோல்"
+
+#, terminology
+msgid "interpolation"
+msgstr "இடைக்கணிப்பு"
+
+#, terminology
+msgid "frames"
+msgstr "சட்டங்கள்"
+
+#, terminology
+msgid "Tool"
+msgstr "கருவி"
+
+#, terminology
+msgid "Sculpt"
+msgstr "சிற்பம்"
+
+#, terminology
+msgid "component"
+msgstr "கூறு"
+
+#, terminology
+msgid "Object"
+msgstr "பொருள்"
+
+#, terminology
+msgid "Attribute"
+msgstr "பண்புக்கூறு"
+
+#, terminology
+msgid "Quaternion"
+msgstr "நாலாந்தரவன்"
+
+#, terminology
+msgid "Cache Files"
+msgstr "இடைநினைவக கோப்புகள்"
+
+#, terminology
+msgid "Node"
+msgstr "முனை"
+
+#, terminology
+msgid "Handles"
+msgstr "கையாளுகிறது"
+
+#, terminology
+msgctxt "1"
+msgid "Bake"
+msgstr "சுட்டுக்கொள்"
+
+#, terminology, variant:Alpha
+msgctxt "1"
+msgid "Alpha"
+msgstr "அகர"
+
+#, terminology
+msgctxt "1"
+msgid "Append"
+msgstr "பிற்சேர்"
+
+#, terminology
+msgctxt "1"
+msgid "Armature"
+msgstr "காந்த விசைக்கை"
+
+#, terminology
+msgid "Simulation"
+msgstr "உருவகப்படுத்துதல்"
+
+#, terminology
+msgid "Mode"
+msgstr "பயன்முறை"
+
+#, terminology
+msgctxt "1"
+msgid "Boundbox"
+msgstr "வரம்புபொட்டி"

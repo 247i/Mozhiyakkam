@@ -1,0 +1,224 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (ubuntu-desktop-translations)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-20 03:51+0200\n"
+"PO-Revision-Date: 2025-03-23 15:15\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/ubuntu-desktop-translations/prompting-client/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#, icu-message-format
+msgctxt "securityCenterInfo"
+msgid "You can always change these permissions in the <Security Center>"
+msgstr "இந்த அனுமதிகளை நீங்கள் எப்போதும் <பாதுகாப்பு மையம்> இல் மாற்றலாம்"
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$
+msgctxt "promptAccessMoreOptionsTitle"
+msgid "Set access for {snap} to:"
+msgstr "{snap} க்கு அணுகலை அமைக்கவும்:"
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$:$PERMISSION$
+msgctxt "promptAccessTitle"
+msgid "Give {snap} {permission} access to:"
+msgstr "{snap} {permission} அணுகல் கொடுங்கள்:"
+
+#, icu-message-format
+msgctxt "promptActionOptionAllow"
+msgid "Allow"
+msgstr "இசைவு"
+
+#, icu-message-format
+msgctxt "promptActionOptionAllowAlways"
+msgid "Allow always"
+msgstr "எப்போதும் அனுமதிக்கவும்"
+
+#, icu-message-format
+msgctxt "promptActionOptionAllowOnce"
+msgid "Allow once"
+msgstr "ஒரு முறை அனுமதிக்கவும்"
+
+#, icu-message-format
+msgctxt "promptActionOptionDeny"
+msgid "Deny"
+msgstr "மறுக்கவும்"
+
+#, icu-message-format
+msgctxt "promptActionOptionDenyOnce"
+msgid "Deny once"
+msgstr "ஒரு முறை மறுக்கவும்"
+
+#, icu-message-format
+msgctxt "promptActionTitle"
+msgid "Action"
+msgstr "செயல்"
+
+#, icu-message-format
+msgctxt "promptLifespanOptionForever"
+msgid "Always"
+msgstr "எப்போதும்"
+
+#, icu-message-format
+msgctxt "promptLifespanOptionSession"
+msgid "Until logout"
+msgstr "வெளியேறும் வரை"
+
+#, icu-message-format
+msgctxt "promptLifespanOptionSingle"
+msgid "Once"
+msgstr "ஒருமுறை"
+
+#, icu-message-format
+msgctxt "promptLifespanTitle"
+msgid "Duration"
+msgstr "காலம்"
+
+#, icu-message-format
+msgctxt "promptSaveAndContinue"
+msgid "Save and continue"
+msgstr "சேமித்து தொடரவும்"
+
+#, icu-message-format
+msgctxt "promptTitle"
+msgid "Security notification"
+msgstr "பாதுகாப்பு அறிவிப்பு"
+
+#, icu-message-format
+msgctxt "homePatternInfo"
+msgid "<Learn about path patterns>"
+msgstr "<பாதை வடிவங்களைப் பற்றி அறிந்து கொள்ளுங்கள்>"
+
+#, icu-message-format
+msgctxt "homePatternTypeCustomPath"
+msgid "Custom path pattern"
+msgstr "தனிப்பயன் பாதை முறை"
+
+#, icu-message-format
+msgctxt "homePatternTypeRequestedDirectory"
+msgid "The requested folder only"
+msgstr "கோரப்பட்ட கோப்புறை மட்டுமே"
+
+#, icu-message-format
+msgctxt "homePatternTypeRequestedFile"
+msgid "The requested file only"
+msgstr "கோரப்பட்ட கோப்பு மட்டுமே"
+
+#, case-insensitive, icu-message-format, placeholders:$TOPLEVELDIR$
+msgctxt "homePatternTypeTopLevelDirectory"
+msgid "Everything in the {topLevelDir} folder"
+msgstr "{topLevelDir} கோப்புறையில் உள்ள அனைத்தும்"
+
+#, icu-message-format
+msgctxt "homePatternTypeRequestedDirectoryContents"
+msgid "Everything in the folder"
+msgstr "கோப்புறையில் உள்ள அனைத்தும்"
+
+#, icu-message-format
+msgctxt "homePatternTypeContainingDirectory"
+msgid "Everything in the folder"
+msgstr "கோப்புறையில் உள்ள அனைத்தும்"
+
+#, icu-message-format
+msgctxt "homePatternTypeHomeDirectory"
+msgid "Everything in the Home folder"
+msgstr "வீட்டு கோப்புறையில் உள்ள அனைத்தும்"
+
+#, case-insensitive, icu-message-format, placeholders:$FILEEXTENSION$
+msgctxt "homePatternTypeMatchingFileExtension"
+msgid "All {fileExtension} files"
+msgstr "அனைத்து {fileExtension} கோப்புகள்"
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$:$PERMISSIONS$:$PATH$
+msgctxt "homePromptDefaultBody"
+msgid "{snap} wants to get {permissions} access to {path}"
+msgstr "{snap} {permissions} அணுகல் {பாதைக்கு அணுகல் விரும்புகிறது"
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$:$PERMISSIONS$:$FOLDERNAME$
+msgctxt "homePromptTopLevelDirBody"
+msgid "{snap} wants to get {permissions} access to the {foldername} folder."
+msgstr ""
+"{snap} {permissions} அணுகல் {foldername} கோப்புறையைப் பெற விரும்புகிறது."
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$:$PERMISSIONS$:$FILENAME$:$FOLDERNAME$
+msgctxt "homePromptTopLevelDirFileBody"
+msgid ""
+"{snap} wants to get {permissions} access to {filename} in the {foldername} "
+"folder."
+msgstr ""
+"{snap} {permissions} க்கு {filename} அணுகல் {foldername} கோப்புறையில் பெற "
+"விரும்புகிறது."
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$:$PERMISSIONS$
+msgctxt "homePromptHomeDirBody"
+msgid "{snap} wants to get {permissions} access to your Home folder."
+msgstr ""
+"{snap} உங்கள் வீட்டு கோப்புறையில் {permissions} அணுகலைப் பெற விரும்புகிறது."
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$:$PERMISSIONS$:$FILENAME$
+msgctxt "homePromptHomeDirFileBody"
+msgid ""
+"{snap} wants to get {permissions} access to {filename} in your Home folder."
+msgstr ""
+"{snap} உங்கள் வீட்டுக் கோப்புறையில் {கோப்பு பெயருக்கு {permissions} அணுகலைப்"
+" பெற விரும்புகிறது."
+
+#, icu-message-format
+msgctxt "homePromptMetaDataTitle"
+msgid "About this app"
+msgstr "இந்த பயன்பாடு பற்றி"
+
+#, case-insensitive, icu-message-format, placeholders:$PUBLISHER$
+msgctxt "homePromptMetaDataPublishedBy"
+msgid "Published by {publisher}"
+msgstr "{publisher} ஆல் வெளியிடப்பட்டது"
+
+#, case-insensitive, icu-message-format, placeholders:$DATE$
+msgctxt "homePromptMetaDataLastUpdated"
+msgid "Last updated on {date}"
+msgstr "கடைசியாக {date} இல் புதுப்பிக்கப்பட்டது"
+
+#, icu-message-format
+msgctxt "homePromptMoreOptionsLabel"
+msgid "More options..."
+msgstr "மேலும் விருப்பங்கள் ..."
+
+#, icu-message-format
+msgctxt "homePromptMetaDataAppCenterLink"
+msgid "Visit App Center page"
+msgstr "பயன்பாட்டு மையப் பக்கத்தைப் பார்வையிடவும்"
+
+#, case-insensitive, icu-message-format, placeholders:$PERMISSION$
+msgctxt "homePromptSuggestedPermission"
+msgid "Also give {permission} access"
+msgstr "{permission} அணுகலையும் கொடுங்கள்"
+
+#, icu-message-format
+msgctxt "homePromptPermissionsTitle"
+msgid "Permissions"
+msgstr "அனுமதிகள்"
+
+#, icu-message-format
+msgctxt "homePromptPermissionsRead"
+msgid "Read"
+msgstr "படிக்க"
+
+#, icu-message-format
+msgctxt "homePromptPermissionsWrite"
+msgid "Write"
+msgstr "எழுதுங்கள்"
+
+#, icu-message-format
+msgctxt "homePromptPermissionsExecute"
+msgid "Execute"
+msgstr "செயல்படுத்தவும்"
+
+#, icu-message-format
+msgctxt "homePromptErrorUnknownTitle"
+msgid "Something went wrong"
+msgstr "ஏதோ தவறு நடந்தது"

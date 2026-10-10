@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: தொன்மா_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "aepisaurus"
+msgstr "உயர்ப்பல்லித்தொன்மா"
+
+msgid "afrovenator"
+msgstr "ஆப்பிரிக்க‌ வேட்டைத் தொன்மா"
+
+msgid "agathaumas"
+msgstr "பெருவியப்புத்தொன்மா"
+
+msgid "allosaurus"
+msgstr "மாற்றுத்தொன்மா"
+
+msgid "amphicoelias"
+msgstr "குடைவுத் தொன்மா"
+
+msgid "amphicoelias fragilus"
+msgstr "பெருங்குடைவுத் தொன்மா"
+
+msgid "anchisaurus"
+msgstr "பல்லித்தொன்மா"
+
+msgid "ankylosauria"
+msgstr "பரணச்சாரையின‌ம்"
+
+msgid "ankylosaurus"
+msgstr "க‌தைவால் தொன்மா"
+
+msgid "austrosaurus"
+msgstr "தென்ன‌க‌த் தொன்மா"
+
+msgid "avimimus"
+msgstr "ப‌ற‌வைப் பாசாங்குத் தொன்மா"
+
+msgid "baryonix"
+msgstr "கன நகக்கைத் தொன்மா"
+
+msgid "brachiosaurus"
+msgstr "சிவிங்கித் தொன்மா"
+
+msgid "carnosaur"
+msgstr "ஊனுண்ணிச்சாரை, ஊனுண்ணித் தொன்மா"
+
+msgid "corythosaurus"
+msgstr "தலைக்கவசத் தொன்மா"
+
+msgid "dimetrodon"
+msgstr "திமிற்சாரை, திமிற் தொன்மா"
+
+msgid "diplodocus"
+msgstr "உத்திரத் தொன்மா"
+
+msgid "dromaesaur"
+msgstr "பரிச்சாரை, பரித் தொன்மா"
+
+msgid "echinodon"
+msgstr "முள்பற்தொன்மா, முள்பல் தொன்மா"
+
+msgid "edmontosaurus"
+msgstr "கனடா வாத்தலகுத் தொன்மா"
+
+msgid "elaphrosaurus"
+msgstr "சிற்றெடைத் தொன்மா"
+
+msgid "elmisaurus"
+msgstr "சிறப்புக்கால் தொன்மா"
+
+msgid "enigmosaurus"
+msgstr "புதிரித் தொன்மா"
+
+msgid "euraptor"
+msgstr "கோண்மாச்சாரை"
+
+msgid "giganotosaurus"
+msgstr "தென் ராட்சதத் தொன்மா"
+
+msgid "gorgosaurus"
+msgstr "உக்கிரத் தொன்மா"
+
+msgid "ichthyosaur"
+msgstr "மீனச்சாரை, மீன‌த் தொன்மா"
+
+msgid "kentrosaurus"
+msgstr "ஊசிமுள் தொன்மா"
+
+msgid "macroplata"
+msgstr "பெருந்தகடுத் தொன்மா"
+
+msgid "maiasaurus"
+msgstr "பாசத் தொன்மா"
+
+msgid "naashoibitosaurus"
+msgstr "நாசோபித்தோத் தொன்மா"
+
+msgid "nanosaurus"
+msgstr "குட்டைத் தொன்மா"
+
+msgid "nanyangosaurus"
+msgstr "நான்யாங் தொன்மா"
+
+msgid "nemegtosaurus"
+msgstr "நெமெக்த‌த் தொன்மா"
+
+msgid "nigersaurus"
+msgstr "நக்கச்சாரை, ந‌க்க‌த் தொன்மா"
+
+msgid "nipponosaurus"
+msgstr "ஜ‌ப்பானிய‌த் தொன்மா"
+
+msgid "nodosaurus"
+msgstr "க‌ணுப்ப‌ல்லித் தொன்மா"
+
+msgid "ornithopod"
+msgstr "புட்பதவின‌ம்"
+
+msgid "pachycephalosaurus"
+msgstr "தடித்தலைத் தொன்மா"
+
+msgid "pelycosaur"
+msgstr "பாண்டிற்சாரை, பாண்டிற் தொன்மா"
+
+msgid "rajasaurus"
+msgstr "அர‌ச‌த் தொன்மா"
+
+msgid "raptorex"
+msgstr "அர‌ச‌த் திருட‌த் தொன்மா"
+
+msgid "rhabdodon"
+msgstr "க‌ம்பிப்ப‌ல் தொன்மா"
+
+msgid "rhamphorhynchus"
+msgstr "முக‌ரைத் தொன்மா"
+
+msgid "rhoetosaurus"
+msgstr "ராட்ச‌த‌ப்பல்லித் தொன்மா"
+
+msgid "rhynchosaurs"
+msgstr "அல‌குப்ப‌ல்லித் தொன்மா"
+
+msgid "riojasaurus"
+msgstr "ரியோஜாத் தொன்மா"
+
+msgid "spinosaur"
+msgstr "தண்டுச் சாரை, தண்டுத் தொன்மா"
+
+msgid "stegosaurus"
+msgstr "அகட்டுச்சாரை, அகட்டுத் தொன்மா"
+
+msgid "thyreophoran"
+msgstr "கவசப்பொறையின‌ம்"
+
+msgid "triceratops"
+msgstr "முக்கொம்புத் தொன்மா"
+
+msgid "trooden"
+msgstr "முட்பற்தொன்மா"
+
+msgid "tyrannosaurus rex"
+msgstr "பிளவாய்த் தொன்மா"
+
+msgid "utahraptor"
+msgstr "யூட்டாத் திருடன் தொன்மா"
+
+msgid "velociraptor"
+msgstr "பிடுங்குத் தொன்மா"

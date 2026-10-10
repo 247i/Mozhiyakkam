@@ -1,0 +1,926 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: உடலியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "abalienation"
+msgstr "உள்குழப்பம்"
+
+msgid "abasia"
+msgstr "நடக்க இயலாமை"
+
+msgid "abdomen"
+msgstr "வயிறு"
+
+msgid "abdominal cramp"
+msgstr "வயிறுப் பிடிப்பு"
+
+msgid "abdominal wall"
+msgstr "வயிறுச் சுவர்"
+
+msgid "abortion"
+msgstr "கருச்சிதைவு"
+
+msgid "abrasion"
+msgstr "சிராய்ப்பு"
+
+msgid "abrasive"
+msgstr "சிராய்ப்பொருள், சிராய்ப்பான்"
+
+msgid "abrosia"
+msgstr "உணவின்மை"
+
+msgid "abscess"
+msgstr "கீழ்க்கட்டி"
+
+msgid "abulia"
+msgstr "கோழமை"
+
+msgid "acetabulum"
+msgstr "கிண்ணக்குழி"
+
+msgid "adepose tissue"
+msgstr "கொழுப்பிழையம்"
+
+msgid "afferent nerve"
+msgstr "உட்செல் நரம்பு"
+
+msgid "alimentary canal"
+msgstr "உணவுப்பாதை"
+
+msgid "alimentary secretion"
+msgstr "உணவுச்பாதைச் சுரப்பு"
+
+msgid "alveoli"
+msgstr "காற்றுப்பை"
+
+msgid "alveolus"
+msgstr "சிற்றறை"
+
+msgid "anaesthetic"
+msgstr "உணர்வு மயக்கி"
+
+msgid "anatomy"
+msgstr "உடல்கூற்றியல்"
+
+msgid "ankle"
+msgstr "கணுக்கால்"
+
+msgid "antidote"
+msgstr "நச்சுமுறி"
+
+msgid "antitoxin"
+msgstr "எதிர்நச்சு"
+
+msgid "anus"
+msgstr "குதம், மலவாய்"
+
+msgid "aorta"
+msgstr "பெருந்தமனி"
+
+msgid "appendicitis"
+msgstr "குடல்வால் அழற்சி"
+
+msgid "appendix"
+msgstr "குடல்வால்"
+
+msgid "arm"
+msgstr "கை, கரம்"
+
+msgid "armpit"
+msgstr "அக்குள்"
+
+msgid "arterial blood"
+msgstr "தமனிக் குருதி"
+
+msgid "artery"
+msgstr "தமனி"
+
+msgid "asphyxia"
+msgstr "மூச்சடைப்பு"
+
+msgid "assimilation"
+msgstr "தன்மயமாக்கம்"
+
+msgid "backbone"
+msgstr "முதுகெலும்பு"
+
+msgid "balanced diet"
+msgstr "சரிவிகித உணவு"
+
+msgid "bariatics"
+msgstr "பெருவுடல் மருத்துவம்"
+
+msgid "billary canal"
+msgstr "பித்தப்பாதை"
+
+msgid "billirubin"
+msgstr "குருதிப்பித்தம், இரத்தப்பித்தம்"
+
+msgid "biopsy"
+msgstr "துணித்தாய்வு"
+
+msgid "blood corpuscles"
+msgstr "இரத்த அணுக்கள்"
+
+msgid "blood vessel"
+msgstr "குருதி நாடி, ரத்தக் குழாய்"
+
+msgid "bowel"
+msgstr "குடல்"
+
+msgid "bronchus"
+msgstr "மூச்சுக்கிளைக் குழல்"
+
+msgid "buccal cavity"
+msgstr "வாய்க்குழி"
+
+msgid "calcanium"
+msgstr "குதிகால் எலும்பு"
+
+msgid "calcemia"
+msgstr "சுண்ண மிகைப்பு"
+
+msgid "calcum"
+msgstr "பெருங்குடல் வாய்"
+
+msgid "callosity"
+msgstr "தோள் தடிப்பு"
+
+msgid "callus"
+msgstr "தோல் தடிப்பு"
+
+msgid "cancer"
+msgstr "புற்றுநோய்"
+
+msgid "cancrum"
+msgstr "வாய்ப்புண்"
+
+msgid "capillary"
+msgstr "தந்துகி, மயிர் குழல்"
+
+msgid "capitulum"
+msgstr "எலும்பு மூட்டுக் குமிழி"
+
+msgid "cardiac muscle"
+msgstr "இதயத் தசை"
+
+msgid "carpus"
+msgstr "மணிக்கட்டு"
+
+msgid "cartilege"
+msgstr "குருத்தெலும்பு"
+
+msgid "cataract"
+msgstr "கண்புரை"
+
+msgid "catarrh"
+msgstr "மூக்கழற்சி"
+
+msgid "central nervous system"
+msgstr "மைய நரம்பு மண்டலம்"
+
+msgid "cerebellum"
+msgstr "சிறு மூளை"
+
+msgid "cervix"
+msgstr "கர்ப்பவாய்"
+
+msgid "choroid"
+msgstr "நாட்பட்ட"
+
+msgid "chyle"
+msgstr "குடற்பால்"
+
+msgid "chyme"
+msgstr "இரைப்பைப் பாகு"
+
+msgid "circulation"
+msgstr "சுற்றோட்டம்"
+
+msgid "clavicle"
+msgstr "காறை எலும்பு"
+
+msgid "clitoris"
+msgstr "உணர்ச்சிப்பீடம்"
+
+msgid "coelome"
+msgstr "உடற் குழி"
+
+msgid "colitis"
+msgstr "பெருங்குடல் அழற்சி"
+
+msgid "colon"
+msgstr "பெருங்குடல்"
+
+msgid "comedone"
+msgstr "கரியமுகடு"
+
+msgid "contraceptive"
+msgstr "கருத்தடை"
+
+msgid "contrast dye"
+msgstr "உறழ்ச்சாயம்"
+
+msgid "cornea"
+msgstr "விழி வெண்படலம்"
+
+msgid "cranium"
+msgstr "மண்டை ஓடு"
+
+msgid "crown of tooth"
+msgstr "பற்சிகரம்"
+
+msgid "crystalline lens"
+msgstr "விழி வில்லை"
+
+msgid "ct scan"
+msgstr "குறுக்குவெட்டு வரைவி"
+
+msgid "cuticle"
+msgstr "மேல் தோல், புறந்தோல்"
+
+msgid "deformity"
+msgstr "உறுப்புக் கேடு"
+
+msgid "dehydration"
+msgstr "நீரகற்றம்"
+
+msgid "deodorant"
+msgstr "நாற்றநீக்கி"
+
+msgid "diagnosis"
+msgstr "அறுதியீடு"
+
+msgid "diaphragm"
+msgstr "இடைத்திரை"
+
+msgid "diaphragm (contraceptive)"
+msgstr "மென்சவ்வுறை"
+
+msgid "diastol"
+msgstr "இதய விரிவு"
+
+msgid "digestion"
+msgstr "செரிமானம்"
+
+msgid "disinfectant"
+msgstr "தொற்றுநீக்கி"
+
+msgid "duct"
+msgstr "நாளம்"
+
+msgid "duodenum"
+msgstr "நாளம்"
+
+msgid "dysentary"
+msgstr "சீதபேதி"
+
+msgid "efferent"
+msgstr "வெளிச்செல் நரம்பு"
+
+msgid "elbow"
+msgstr "முழங்கை"
+
+msgid "elephantiasis"
+msgstr "யானைக்கால் நோய்"
+
+msgid "emulsion"
+msgstr "பால்மம்"
+
+msgid "endometrium"
+msgstr "உட்பாளம்"
+
+msgid "entemic fever"
+msgstr "குடல்சுரம்"
+
+msgid "epiglottis"
+msgstr "குரல்வளை மூடி"
+
+msgid "epilepsy"
+msgstr "காக்கை வலிப்பு"
+
+msgid "estrogen"
+msgstr "பெண்மையியக்குநீர்"
+
+msgid "ethmoid"
+msgstr "சல்லடை எலும்பு, மூக்கெலும்பு"
+
+msgid "faeces"
+msgstr "மலம்"
+
+msgid "fellopane tube"
+msgstr "கருக்குழாய்"
+
+msgid "femur"
+msgstr "தொடை எலும்பு"
+
+msgid "fermentation"
+msgstr "நொதித்தல்"
+
+msgid "fibre nerve"
+msgstr "நரம்பிழை"
+
+msgid "fissure"
+msgstr "பிளவு"
+
+msgid "foam"
+msgstr "நுரை"
+
+msgid "fontanelle"
+msgstr "உச்சிக்குழி"
+
+msgid "food constituents"
+msgstr "உணவுக் கூறுகள்"
+
+msgid "forearm"
+msgstr "முன்கை"
+
+msgid "gall bladder"
+msgstr "பித்தப் பை"
+
+msgid "gastric gland"
+msgstr "இரைப்பைச் சுரப்பி"
+
+msgid "gastric juice"
+msgstr "இரைப்பை நீர்"
+
+msgid "germ"
+msgstr "கிருமி"
+
+msgid "glottis"
+msgstr "குரல்வளை வாய்"
+
+msgid "gullet"
+msgstr "உணவுக் குழல்"
+
+msgid "gum"
+msgstr "ஈறு"
+
+msgid "haemorrhage"
+msgstr "இரத்தப் போக்கு"
+
+msgid "harmone"
+msgstr "இயக்குநீர்"
+
+msgid "heart-beat"
+msgstr "இதயத் துடிப்பு"
+
+msgid "heredity"
+msgstr "பரம்பரைப் பண்பு"
+
+msgid "high density lipoprotein (hdl)"
+msgstr "அடர் கொழுப்புப்புரதம்"
+
+msgid "hingle joint"
+msgstr "கீல் மூட்டு"
+
+msgid "humerous"
+msgstr "மேற்கை எலும்பு"
+
+msgid "hygene"
+msgstr "சுகாதாரம்"
+
+msgid "ileum"
+msgstr "சுருங்குடல்"
+
+msgid "incisor"
+msgstr "வெட்டுப் பல்"
+
+msgid "infection"
+msgstr "தொற்று, அழற்சி"
+
+msgid "inferior venacava"
+msgstr "கீழ்க்குழி நாளம்"
+
+msgid "inflammation"
+msgstr "தாபிதம்"
+
+msgid "injection"
+msgstr "ஊசி"
+
+msgid "involuntary muscle"
+msgstr "அனிச்சைத் தசை"
+
+msgid "iris"
+msgstr "கருவிழி"
+
+msgid "irritation"
+msgstr "உறுத்தல்"
+
+msgid "jaundice"
+msgstr "மஞ்சள் காமாலை"
+
+msgid "joint"
+msgstr "மூட்டு"
+
+msgid "kidney"
+msgstr "சிறுநீரகம்"
+
+msgid "knee-cap"
+msgstr "முழங்கால் சில்லு"
+
+msgid "knuckle joint"
+msgstr "கணு மூட்டு"
+
+msgid "lacteal"
+msgstr "குடற்பால் குழல்"
+
+msgid "lantana camara"
+msgstr "உன்னிச்செடி"
+
+msgid "large intestine"
+msgstr "பெருங்குடல்"
+
+msgid "laryngitis"
+msgstr "குரல்வளை அழற்சி"
+
+msgid "larynx"
+msgstr "குரல்வளை"
+
+msgid "leucocytes"
+msgstr "வெள்ளை அணுக்கள்"
+
+msgid "leucorrhea"
+msgstr "வெள்ளைப்படுதல், வெள்ளைப் போக்கு"
+
+msgid "limb"
+msgstr "அங்கம், அவயவம்"
+
+msgid "lipid profile test"
+msgstr "கொழுப்புப்பொருளிலக்கணச் சோதனை"
+
+msgid "lipoprotein"
+msgstr "கொழுப்புப்புரதம்"
+
+msgid "liver"
+msgstr "கல்லீரல்"
+
+msgid "low density lipoprotein (ldl)"
+msgstr "ஐது கொழுப்புப்புரதம்"
+
+msgid "lymph"
+msgstr "நிணநீர்"
+
+msgid "mandible"
+msgstr "கீழ்த்தாடை"
+
+msgid "mandible bone"
+msgstr "கீழ்த்தாடை எலும்பு"
+
+msgid "maxilla"
+msgstr "மேல்த்தாடை எலும்பு"
+
+msgid "membrane"
+msgstr "சவ்வு"
+
+msgid "menorrhagia"
+msgstr "பெரும்பாடு"
+
+msgid "menstrual cycle"
+msgstr "மாதவிலக்கு காலம்"
+
+msgid "menstruation"
+msgstr "மாதவிலக்கு"
+
+msgid "mesentary"
+msgstr "நடுமடிப்பு"
+
+msgid "microbe"
+msgstr "நுண்ணுயிரி"
+
+msgid "molar teeth"
+msgstr "கடைவாய்ப் பல்"
+
+msgid "mono unsaturated fat"
+msgstr "ஒற்றை அபூரிதக் கொழுப்பு"
+
+msgid "motor never"
+msgstr "இயக்க நரம்பு"
+
+msgid "movable joint"
+msgstr "அசைவு மூட்டு"
+
+msgid "mucous gland"
+msgstr "சீதச் சுரப்பி"
+
+msgid "mucous membrane"
+msgstr "சளிச்சவ்வு"
+
+msgid "mucus"
+msgstr "சீதம், சளி"
+
+msgid "muscle"
+msgstr "தசை"
+
+msgid "muscular fatigue"
+msgstr "தசைச் சோர்வு"
+
+msgid "myomere"
+msgstr "தசை வட்டு"
+
+msgid "myoneme"
+msgstr "தசைச் சுருங்கிழை"
+
+msgid "myopia"
+msgstr "கிட்டப் பார்வை"
+
+msgid "myosin"
+msgstr "தசையன்"
+
+msgid "myxodema"
+msgstr "சளியழற்சி"
+
+msgid "nacreolepsy"
+msgstr "பகல் துயில் நோய்"
+
+msgid "naris"
+msgstr "மூக்குத்துளை"
+
+msgid "nervous coel"
+msgstr "நரம்புக் குழி"
+
+msgid "nervous fatigue"
+msgstr "நரம்புச் சோர்வு"
+
+msgid "nervous system"
+msgstr "நரம்பு மண்டலம்"
+
+msgid "neurofibroma"
+msgstr "நரம்புச் சிறுகட்டி"
+
+msgid "neurohumour"
+msgstr "நரம்புநீர்"
+
+msgid "nucleus"
+msgstr "உட்கரு"
+
+msgid "nutrition"
+msgstr "ஊட்டம்"
+
+msgid "oesophagus"
+msgstr "உணவுக் குழாய்"
+
+msgid "opthalmoscope"
+msgstr "உள்விழிகாட்டி"
+
+msgid "optic nerve"
+msgstr "பார்வை நரம்பு"
+
+msgid "organ"
+msgstr "உறுப்பு"
+
+msgid "organism"
+msgstr "உயிரி"
+
+msgid "orifice"
+msgstr "துளை"
+
+msgid "ossification"
+msgstr "எலும்பாக்கம்"
+
+msgid "otic capsule"
+msgstr "செவியுறை"
+
+msgid "otitis"
+msgstr "செவியழற்சி"
+
+msgid "otorrhoea"
+msgstr "செவியொழுக்கம்"
+
+msgid "otoscope"
+msgstr "செவிநோக்கி"
+
+msgid "ovary"
+msgstr "கருவகம், சினைப்பை"
+
+msgid "over-the-counter medication"
+msgstr "எழுதிக்கொடா மருந்து"
+
+msgid "ovum"
+msgstr "கருமுட்டை"
+
+msgid "palate"
+msgstr "அண்ணம்"
+
+msgid "pancreas"
+msgstr "கணையம்"
+
+msgid "papillary muscle"
+msgstr "அரும்புத் தசை"
+
+msgid "paronychia"
+msgstr "நகச்சுற்று"
+
+msgid "patella"
+msgstr "முழுங்கால் சிப்பி"
+
+msgid "pathology"
+msgstr "நோய்க்கூற்றியல்"
+
+msgid "pelvis"
+msgstr "இடுப்புக்கட்டு"
+
+msgid "peptic ulcer"
+msgstr "குடற்புண்"
+
+msgid "pericardium"
+msgstr "இதய உறை"
+
+msgid "perifoneum"
+msgstr "உதரப்பையுறை"
+
+msgid "peristalsis"
+msgstr "குடல்தசை இயக்கம்"
+
+msgid "pharynx"
+msgstr "முன் தொண்டை"
+
+msgid "phlegm"
+msgstr "கோழை, கபம்"
+
+msgid "pituitary gland"
+msgstr "கபச் சுரப்பி"
+
+msgid "pivot joint"
+msgstr "முளை மூட்டு"
+
+msgid "placenta"
+msgstr "பனிக்குடம்"
+
+msgid "platelet"
+msgstr "இரத்தத் தட்டு, இரத்த வட்டு"
+
+msgid "platelets"
+msgstr "இரத்தத் தட்டுகள், இரத்த வட்டுகள்"
+
+msgid "pneumonia"
+msgstr "நுரையீரல் அழற்சி"
+
+msgid "precocious puberty"
+msgstr "இயல்பூப்படைவு"
+
+msgid "presbyopia"
+msgstr "வெள்ளெழுத்து"
+
+msgid "prescription drug"
+msgstr "எழுதிக்கொடு மருந்து"
+
+msgid "progesterone"
+msgstr "சினையியக்குநீர்"
+
+msgid "protein"
+msgstr "புரதம்"
+
+msgid "pseudocyesis"
+msgstr "கர்ப்பமாயை"
+
+msgid "ptomaine"
+msgstr "அழிதசை நச்சு"
+
+msgid "pubertas praecox"
+msgstr "முன்பூப்படைவு"
+
+msgid "pulse"
+msgstr "நாடி"
+
+msgid "pupil"
+msgstr "கண்மணி"
+
+msgid "pus"
+msgstr "சீழ்"
+
+msgid "pylorus"
+msgstr "குடல்வாய்"
+
+msgid "pyorrhea"
+msgstr "பற்சீழ்படிவு"
+
+msgid "radius"
+msgstr "ஆர எலும்பு"
+
+msgid "rash"
+msgstr "சினைப்பு, சினப்பு"
+
+msgid "rectum"
+msgstr "மலக்குடல்"
+
+msgid "referral"
+msgstr "பரிந்துரைத்தல்"
+
+msgid "reflex action"
+msgstr "அனிச்சைச் செயல்"
+
+msgid "respiration"
+msgstr "உயிர்த்தல்"
+
+msgid "retina"
+msgstr "விழித்திரை"
+
+msgid "rib"
+msgstr "விலா எலும்பு"
+
+msgid "rickets"
+msgstr "கணை நோய்"
+
+msgid "rigor mortis"
+msgstr "மரண விறைப்பு"
+
+msgid "saccukus"
+msgstr "செவிப்பை"
+
+msgid "sacrum"
+msgstr "திரிகம்"
+
+msgid "saliva"
+msgstr "உமிழ்நீர்"
+
+msgid "saturated fat"
+msgstr "பூரிதக் கொழுப்பு"
+
+msgid "scar"
+msgstr "தழும்பு"
+
+msgid "sclerotic"
+msgstr "விழி வெளிபடலம்"
+
+msgid "scrotum"
+msgstr "விதைப்பை"
+
+msgid "scurvy"
+msgstr "கேவிநோய்"
+
+msgid "secretion"
+msgstr "சுரப்பு நீர்"
+
+msgid "senews"
+msgstr "தசை நார்"
+
+msgid "sense"
+msgstr "புலன்"
+
+msgid "septum"
+msgstr "இடைச்சுவர்"
+
+msgid "sinusitis"
+msgstr "பீனிசம்"
+
+msgid "skeleton"
+msgstr "எலும்புக் கூடு"
+
+msgid "small intestine"
+msgstr "சிறு குடல்"
+
+msgid "socket joint"
+msgstr "கிண்ண மூட்டு"
+
+msgid "sperm"
+msgstr "விந்து"
+
+msgid "sphincter muscle"
+msgstr "இறுக்குத் தசை"
+
+msgid "spinal column"
+msgstr "முதுகுத் தண்டு"
+
+msgid "spinal cord"
+msgstr "தண்டு வடம்"
+
+msgid "spleen"
+msgstr "மண்ணீரல்"
+
+msgid "sterlization (birth control)"
+msgstr "மலடாக்கம்"
+
+msgid "sterlization (germ removal)"
+msgstr "கிருமி நீக்கம்"
+
+msgid "stimulant"
+msgstr "ஊக்கி"
+
+msgid "stomach"
+msgstr "இரைப்பை"
+
+msgid "striped muscle"
+msgstr "வரித்தசை"
+
+msgid "sweat"
+msgstr "வேர்வை"
+
+msgid "synovial membrane"
+msgstr "மூட்டுப்பை சவ்வு"
+
+msgid "system"
+msgstr "மண்டலம்"
+
+msgid "systole"
+msgstr "இதயச் சுருக்கம்"
+
+msgid "taste buds"
+msgstr "சுவை அரும்புகள்"
+
+msgid "tear"
+msgstr "கண்ணீர்"
+
+msgid "temporal bone"
+msgstr "கன்ன எலும்பு"
+
+msgid "tendon"
+msgstr "தசை நாண்"
+
+msgid "testis"
+msgstr "விதைப் பை"
+
+msgid "testosterone"
+msgstr "ஆண்மையியக்குநீர்"
+
+msgid "thorax"
+msgstr "மார்பறை"
+
+msgid "thyroid gland"
+msgstr "கேடையச் சுரப்பி"
+
+msgid "tissue"
+msgstr "இழையம்"
+
+msgid "tooth pulp"
+msgstr "பற்கூழ்"
+
+msgid "toxin"
+msgstr "நச்சு"
+
+msgid "trachea"
+msgstr "மூச்சுக் குழல்"
+
+msgid "trunk"
+msgstr "முண்டம்"
+
+msgid "tympanum"
+msgstr "செவிப்பறை"
+
+msgid "ulcer"
+msgstr "புண்"
+
+msgid "ulna"
+msgstr "முழங்கை எலும்பு"
+
+msgid "unsaturated fat"
+msgstr "அபூரிதக் கொழுப்பு"
+
+msgid "urea"
+msgstr "சிறுநீர் உப்பு, அமுரி உப்பு, அமுரியம்"
+
+msgid "uric acid"
+msgstr "சிறுநீர் அமிலம், அமுரி அமிலம்"
+
+msgid "urinary bladder"
+msgstr "சிறுநீர்ப்பை"
+
+msgid "urticaria"
+msgstr "காணாங்கடி"
+
+msgid "uterus"
+msgstr "கருப்பை, கர்ப்பப்பை"
+
+msgid "vaccination"
+msgstr "தடுப்பூசி, தடுப்பு மருந்து"
+
+msgid "vein"
+msgstr "சிரை"
+
+msgid "ventricle"
+msgstr "இதய அறை"
+
+msgid "villus"
+msgstr "குடல் உறிஞ்சி"
+
+msgid "viscera"
+msgstr "உள்ளுறுப்பு"
+
+msgid "visceral exam"
+msgstr "உள்ளுறுப்புச் சோதனை"
+
+msgid "vitamin"
+msgstr "உயிர்ச்சத்து"
+
+msgid "vocal chord"
+msgstr "குரல் நாண்"
+
+msgid "vomer bone"
+msgstr "கலப்பை எலும்பு"
+
+msgid "yolk"
+msgstr "மஞ்சள் கரு"
+
+msgid "zone"
+msgstr "மண்டலம்"

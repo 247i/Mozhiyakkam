@@ -1,0 +1,494 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Tor Project)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-14 02:00+0200\n"
+"PO-Revision-Date: 2025-06-14 05:52\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/tor/tor-browser/tb-android/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+#.  About content. The first parameter is the name of the application. (For
+#. example: Fenix)
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_about_content"
+msgid "%1$s is produced by the Tor Project, a U.S.-based 501(c)(3) nonprofit."
+msgstr ""
+"யு.எச்-அடிப்படையிலான 501 (சி) (3) இலாப நோக்கற்ற TOR திட்டத்தால் %1$s "
+"தயாரிக்கப்படுகிறது."
+
+#.  Preference link to donate to The Tor Project
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_donate"
+msgid "Donate to The Tor Project"
+msgstr "TOR திட்டத்திற்கு நன்கொடை"
+
+#.  Preference for allowing screenshots to be taken in the app
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_allow_screenshots"
+msgid "Allow screenshots"
+msgstr "திரை சாட்களை அனுமதிக்கவும்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_bootstrap_connect"
+msgid "Connect"
+msgstr "இணைக்க"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_explore_privately"
+msgid "Explore. Privately."
+msgstr "உலாவுக. தனியுரிமையுடன்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "library_new_circuit"
+msgid "New circuit"
+msgstr "புதிய சுற்று"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_connection_settings_title"
+msgid "Connection"
+msgstr "இணைப்பு"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_explanation"
+msgid ""
+"Tor Browser routes your traffic over the Tor network, run by thousands of "
+"volunteers around the world."
+msgstr ""
+"உலகம் முழுவதும் ஆயிரக்கணக்கான தன்னார்வ ஊழியர்களால் நடத்தப்படும் டோர் "
+"வலைப்பணி மீது தங்கள் போக்குவரத்தை டோர் உலாவி வழிசெய்யும்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config"
+msgid "Config Bridge"
+msgstr "கட்டமைப்பு பாலம்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config_description"
+msgid "Use a Bridge to connect to Tor"
+msgstr "TOR உடன் இணைக்க ஒரு பாலத்தைப் பயன்படுத்தவும்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config_explanation"
+msgid ""
+"Bridges are unlisted relays that make it more difficult to block connections"
+" to the Tor network. Because of how certain countries try to block Tor, "
+"certain bridges work in certain countries but not others."
+msgstr ""
+"பாலங்கள் பட்டியலிடப்படாத ரிலேக்கள், அவை TOR நெட்வொர்க்குக்கான இணைப்புகளைத் "
+"தடுப்பது மிகவும் கடினம். சில நாடுகள் TOR ஐ எவ்வாறு தடுக்க முயற்சிக்கின்றன "
+"என்பதன் காரணமாக, சில பாலங்கள் சில நாடுகளில் வேலை செய்கின்றன, ஆனால் மற்றவை "
+"அல்ல."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config_toggle"
+msgid "Use a Bridge"
+msgstr "ஒரு பாலத்தைப் பயன்படுத்தவும்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config_toggle_description"
+msgid "Config a bridge to connect to Tor"
+msgstr "TOR உடன் இணைக்க ஒரு பாலத்தை உள்ளமைக்கவும்"
+
+#, ignore-reused, ignore-same, ignore-translated, java-printf-format, placeholders:%1$s:%s:, read-only
+msgctxt "preferences_tor_network_settings_bridge_config_builtin_bridge_obfs4"
+msgid "obfs4"
+msgstr "obfs4"
+
+#, ignore-reused, ignore-same, ignore-translated, java-printf-format, placeholders:%1$s:%s:, read-only
+msgctxt ""
+"preferences_tor_network_settings_bridge_config_builtin_bridge_meek_azure"
+msgid "meek-azure"
+msgstr "meek-azure"
+
+#, ignore-reused, ignore-same, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt ""
+"preferences_tor_network_settings_bridge_config_builtin_bridge_snowflake"
+msgid "snowflake"
+msgstr "snowflake"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config_user_provided_bridge"
+msgid "Provide a Bridge I know"
+msgstr "எனக்குத் தெரிந்த ஒரு பாலத்தை வழங்கவும்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt ""
+"preferences_tor_network_settings_bridge_config_user_provided_bridge_description"
+msgid "Enter bridge information from a trusted source"
+msgstr "நம்பகமான மூலத்திலிருந்து பாலம் தகவல்களை உள்ளிடவும்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_network_settings_bridge_config_current_bridge"
+msgid "Current Configured Bridge: %s"
+msgstr "தற்போதைய கட்டமைக்கப்பட்ட பாலம்: %s"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_network_settings_bridge_not_configured"
+msgid "Not Configured"
+msgstr "கட்டமைக்கப்படவில்லை"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_logs"
+msgid "Tor Logs"
+msgstr "Tor பதிகைகள்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_logs_description"
+msgid "View and copy your Tor logs"
+msgstr "உங்கள் TOR பதிவுகளைக் காணலாம் மற்றும் நகலெடுக்கவும்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "preferences_tor_security_level_options"
+msgid "Security Level"
+msgstr "தனிக் நிலை"
+
+#.  Description of security levels
+#.  %s will be replaced with the localised application name, such as "Tor
+#. Browser".
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_warning"
+msgid ""
+"You will need to restart %s to apply any changes. This will close all tabs."
+msgstr ""
+"ஏதேனும் மாற்றங்களைப் பயன்படுத்த நீங்கள் %s ஐ மறுதொடக்கம் செய்ய வேண்டும். இது"
+" எல்லா தாவல்களையும் மூடும்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_standard"
+msgid "Standard"
+msgstr "தரநிலை"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_standard_current_level"
+msgid "Standard (current level)"
+msgstr "தரநிலை (தற்போதைய நிலை)"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_standard_description"
+msgid "All Tor Browser and website features are enabled."
+msgstr "எல்லா Tor உலாவி மற்றும் வலைத்தள அம்சங்களும் செயல்படுத்தப்படுகின்றன."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_safer"
+msgid "Safer"
+msgstr "பாதுகாப்பான"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_safer_current_level"
+msgid "Safer (current level)"
+msgstr "பாதுகாப்பானது (தற்போதைய நிலை)"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_safer_description"
+msgid ""
+"Disable website features that are often dangerous, causing some sites to "
+"lose functionality."
+msgstr ""
+"பெரும்பாலும் ஆபத்தாகக்கூடிய வலைத்தள அம்சங்களை செயல்நீக்குகிறது, இதனால் சில "
+"தளங்கள் செயல்பாடு இழக்கலாம்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_safest"
+msgid "Safest"
+msgstr "மிக பாதுகாப்பான"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_safest_current_level"
+msgid "Safest (current level)"
+msgstr "பாதுகாப்பான (தற்போதைய நிலை)"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_safest_description"
+msgid ""
+"Only allow website features required for static sites and basic services. "
+"These changes affect images, media, and scripts."
+msgstr ""
+"நிலையான தளம் மற்றும் அடிப்படை சேவைகளுக்குத் தேவையான வலைத்தள அம்சங்களை "
+"மட்டும் அனுமதிக்கிறது. இந்த மாற்றங்கள் படங்கள், ஊடகம், மற்றும் "
+"சிறுநிரல்களைப் பாதிக்கலாம்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_save_and_restart_tor_browser"
+msgid "Save and restart"
+msgstr "சேமித்து மறுதொடக்கம் செய்யுங்கள்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_security_level_restarting"
+msgid "Restarting"
+msgstr "மறுதொடக்கம்"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "btn_cancel"
+msgid "Cancel"
+msgstr "விலக்கு"
+
+#.  Spoof locale to English
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_spoof_english"
+msgid "Request English versions of web pages for enhanced privacy"
+msgstr "மேம்பட்ட தனியுரிமைக்கு வலைப்பக்கங்களின் ஆங்கில பதிப்புகளைக் கோருங்கள்"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_tor_connect_title"
+msgid "Connect to Tor"
+msgstr "Tor உடன் இணை"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "tor_connect_automatically_label"
+msgid "Connect automatically"
+msgstr "தானாக இணை"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_always_connect_automatically_toggle_description"
+msgid "Always connect automatically"
+msgstr "எப்போதும் தானாக இணைக்கவும்"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_configure_connection_button"
+msgid "Configure connection…"
+msgstr "இணைப்பை உள்ளமைக்கவும்…"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_connecting_title"
+msgid "Establishing a connection…"
+msgstr "இணைப்பை நிறுவுகிறது…"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_internet_error_title"
+msgid "We can’t reach the internet"
+msgstr "எங்களால் இணையத்தை அடைய முடியாது"
+
+#.  Connection assist. %1$s is connection_assist_internet_error_learn_more
+#. %1$s will be replaced with the translation for 'Learn more'. See variant.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_internet_error_description"
+msgid ""
+"This could be due to a connection issue rather than Tor being blocked. Check"
+" your internet connection, proxy, and firewall settings before trying again."
+" %1$s"
+msgstr ""
+"டோர் தடுக்கப்படுவதை விட இணைப்பு சிக்கல் காரணமாக இது இருக்கலாம். மீண்டும் "
+"முயற்சிக்கும் முன் உங்கள் இணைய இணைப்பு, பதிலாள் மற்றும் ஃபயர்வால் அமைப்புகளை"
+" சரிபார்க்கவும். %1$s"
+
+#.  Connection assist.
+#, and firewall settings before trying again. %1$s", ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:, proxy, variant:"This could be due to a connection issue rather than Tor being blocked. Check your internet connection
+msgctxt "connection_assist_internet_error_learn_more"
+msgid "Learn more"
+msgstr "மேலும் அறிய"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_internet_error_try_again"
+msgid "Try again"
+msgstr "மீண்டும் முயற்சி செய்"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_trying_again_waiting_title"
+msgid "Trying again…"
+msgstr "மீண்டும் முயற்சிக்கிறேன்…"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_cant_connect_to_tor_title"
+msgid "We can’t connect to Tor directly"
+msgstr "எங்களால் நேரடியாக TOR உடன் இணைக்க முடியாது"
+
+#.  Connection assist. %1$s is connection_assist_try_a_bridge_learn_more
+#. %1$s will be replaced by a link saying 'Learn more'. See variants.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:, variant:"Learn more"
+msgctxt "connection_assist_try_a_bridge_description"
+msgid ""
+"Try connecting via a bridge instead. By providing your location, we can look"
+" up the bridge that’s most likely to unblock the internet in your country or"
+" region. %1$s"
+msgstr ""
+"அதற்கு பதிலாக ஒரு பாலம் வழியாக இணைக்க முயற்சிக்கவும். உங்கள் இருப்பிடத்தை "
+"வழங்குவதன் மூலம், உங்கள் நாட்டிலோ அல்லது பிராந்தியத்திலோ இணையத்தைத் "
+"தடைசெய்யக்கூடிய பாலத்தை நாங்கள் பார்க்கலாம். %1$s"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_unblock_the_internet_in_country_or_region"
+msgid "Unblock the internet in:"
+msgstr "இணையத்தைத் தடைசெய்க:"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_automatic_country_detection"
+msgid "Automatic"
+msgstr "தானியங்கி"
+
+#.  Connection assist,
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_select_country_or_region"
+msgid "Select country or region"
+msgstr "நாடு அல்லது பகுதியத்தைத் தேர்ந்தெடு"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_try_a_bridge_button"
+msgid "Try a bridge"
+msgstr "ஒரு பாலத்தை முயற்சிக்கவும்"
+
+#.  Connection assist. %1$s is connection_assist_choose_a_bridge_manually_link
+#. %1$s  will be replaced by a link with the text 'choose a bridge manually'.
+#. See variants.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:, variant:"choose a bridge manually"
+msgctxt "connection_assist_try_a_bridge_learn_more_description1"
+msgid ""
+"Tor Browser will need to establish a brief non-Tor connection to determine "
+"your location and look up a bridge. If you don’t want to do that, you can "
+"%1$s instead."
+msgstr ""
+"உங்கள் இருப்பிடத்தைத் தீர்மானிக்க டோர் உலாவி ஒரு சுருக்கமான-அல்லாத இணைப்பை "
+"நிறுவ வேண்டும் மற்றும் ஒரு பாலத்தைப் பார்க்க வேண்டும். நீங்கள் அதைச் செய்ய "
+"விரும்பவில்லை என்றால், அதற்கு பதிலாக %1$s முடியும்."
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_choose_a_bridge_manually_link"
+msgid "choose a bridge manually"
+msgstr "கைமுறையாக ஒரு பாலத்தைத் தேர்வுசெய்க"
+
+#.  Connection assist. %s is the error code
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_try_a_bridge_learn_more_error_code"
+msgid "Error code: %s"
+msgstr "பிழை குறிப்பெண்: %s"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_trying_a_bridge_title"
+msgid "Trying a bridge…"
+msgstr "ஒரு பாலம் முயற்சிக்கிறது…"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_location_error_title"
+msgid "We couldn’t find your location"
+msgstr "உங்கள் இருப்பிடத்தை எங்களால் கண்டுபிடிக்க முடியவில்லை"
+
+#.  Connection assist. %1$s is
+#. connection_assist_find_bridge_location_description, %2$s is
+#. connection_assist_select_country_try_again, %3$s is
+#. connection_assist_location_error_learn_more_link
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_location_error_description"
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_find_bridge_location_description"
+msgid ""
+"To find a bridge that can unblock your internet, we need to know where "
+"you’re connecting from."
+msgstr ""
+"உங்கள் இணையத்தைத் தடுக்கக்கூடிய ஒரு பாலத்தைக் கண்டுபிடிக்க, நீங்கள் "
+"எங்கிருந்து இணைகிறீர்கள் என்பதை நாங்கள் அறிந்து கொள்ள வேண்டும்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_select_country_try_again"
+msgid "Select your country or region and try again."
+msgstr ""
+"உங்கள் நாடு அல்லது பிராந்தியத்தைத் தேர்ந்தெடுத்து மீண்டும் முயற்சிக்கவும்."
+
+#.  Connection assist. %1$s is
+#. connection_assist_find_bridge_location_description, %2$s is
+#. connection_assist_check_location_settings_try_again. %3$s is
+#. connection_assist_location_error_learn_more_link
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_location_error_last_try_description"
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_check_location_settings_try_again"
+msgid "Please check your location settings are correct and try again."
+msgstr ""
+"உங்கள் இருப்பிட அமைப்புகள் சரியானவை என்பதைச் சரிபார்த்து மீண்டும் "
+"முயற்சிக்கவும்."
+
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_location_error_learn_more_link"
+msgid "Learn more"
+msgstr "மேலும் அறிய"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_location_check_title"
+msgid "We’re still having trouble connecting"
+msgstr "இணைப்பதில் எங்களுக்கு இன்னும் சிக்கல் உள்ளது"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_last_try_title"
+msgid "Trying one more time…"
+msgstr "இன்னும் ஒரு முறை முயற்சிக்கிறது…"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_final_error_title"
+msgid "We weren’t able to connect automatically"
+msgstr "எங்களால் தானாக இணைக்க முடியவில்லை"
+
+#.  Connection assist. %1$s is
+#. connection_assist_final_error_troubleshoot_connection_link. %2$s is
+#. connection_assist_final_error_learn_more_link
+#. %1$s  will be replaced with a link saying 'troubleshooting your connection'
+#. and  %2$s will be a link to 'Learn more'. See variants.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_final_error_description1"
+msgid ""
+"Despite our best efforts, we weren’t able to connect to Tor. We recommend "
+"%1$s and adding a bridge manually instead. %2$s"
+msgstr ""
+"எங்கள் சிறந்த முயற்சிகள் இருந்தபோதிலும், எங்களால் டோருடன் இணைக்க "
+"முடியவில்லை. நாங்கள் %1$s ஐ பரிந்துரைக்கிறோம் மற்றும் அதற்கு பதிலாக "
+"கைமுறையாக ஒரு பாலத்தை சேர்ப்போம். %2$s"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:, variant:"Despite our best efforts, we weren't able to connect to Tor. We recommend"
+msgctxt "connection_assist_final_error_troubleshoot_connection_link"
+msgid "troubleshooting your connection"
+msgstr "உங்கள் இணைப்பை சரிசெய்தல்"
+
+#.  Connection assist.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_final_error_learn_more_link"
+msgid "Learn more"
+msgstr "மேலும் அறிய"
+
+#.  Connection assist. Description for a shown "Snackbar" (special popup
+#. notification) with an action to connect.
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_connect_to_tor_before_opening_links"
+msgid "Connect to Tor before opening links"
+msgstr "இணைப்புகளைத் திறப்பதற்கு முன் TOR உடன் இணைக்கவும்"
+
+#.  Connection assist. Confirmation button for a shown "Snackbar" (special
+#. popup notification).
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_connect_to_tor_before_opening_links_confirmation"
+msgid "CONNECT"
+msgstr "இணை"
+
+#.  Connection assist. Content Description for back button. Button will start
+#. the connection assist process again
+#, ignore-reused, ignore-translated, java-printf-format, placeholders:%1$s:%s:
+msgctxt "connection_assist_back_button_content_description_start_again"
+msgid "Start again"
+msgstr "மீண்டும் தொடங்கு"

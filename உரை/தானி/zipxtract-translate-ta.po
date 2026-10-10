@@ -1,0 +1,732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (ZipXtract)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 08:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/zipxtract/"
+"translate/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#.  App name 
+#.
+#, java-printf-format, read-only
+msgctxt "app_name"
+msgid "ZipXtract"
+msgstr ""
+
+#.  General strings 
+#.
+#, java-printf-format
+msgctxt "folder"
+msgid "Folder"
+msgstr "கோப்புறை"
+
+#, java-printf-format
+msgctxt "share"
+msgid "Share App Link"
+msgstr "பயன்பாட்டு இணைப்பைப் பகிரவும்"
+
+#, java-printf-format
+msgctxt "privacy_policy"
+msgid "Privacy Policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, java-printf-format
+msgctxt "source_code"
+msgid "Source Code"
+msgstr "மூலக் குறியீடு"
+
+#, java-printf-format
+msgctxt "license"
+msgid "License"
+msgstr "உரிமம்"
+
+#, java-printf-format
+msgctxt "report_an_issue"
+msgid "Report an Issue"
+msgstr "ஒரு சிக்கலைப் புகாரளிக்கவும்"
+
+#, java-printf-format
+msgctxt "about"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "grant_access"
+msgid "Grant Access"
+msgstr "அணுகல் வழங்கவும்"
+
+#, java-printf-format
+msgctxt "storage_access_permission_text"
+msgid ""
+"This app requires access to your device storage for proper functionality. "
+"Please grant the necessary permissions."
+msgstr ""
+"இந்த பயன்பாட்டிற்கு சரியான செயல்பாட்டிற்கு உங்கள் சாதன சேமிப்பகத்திற்கான அணுகல் "
+"தேவைப்படுகிறது. தேவையான அனுமதிகளை வழங்கவும்."
+
+#, java-printf-format
+msgctxt "sd_card"
+msgid "SD Card"
+msgstr "எச்டி அட்டை"
+
+#, java-printf-format
+msgctxt "root_access"
+msgid "Root access"
+msgstr "ரூட் அணுகல்"
+
+#, java-printf-format
+msgctxt "root_access_summary"
+msgid "Enable root directory access"
+msgstr "ரூட் அடைவு அணுகலை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "internal_storage"
+msgid "Internal Storage"
+msgstr "உள் சேமிப்பு"
+
+#, java-printf-format
+msgctxt "root"
+msgid "Root"
+msgstr "மூலம்"
+
+#, java-printf-format
+msgctxt "directory_empty"
+msgid "Folder is empty"
+msgstr "கோப்புறை காலியாக உள்ளது"
+
+#, java-printf-format
+msgctxt "paste"
+msgid "Paste"
+msgstr "ஒட்டு"
+
+#, java-printf-format
+msgctxt "storage"
+msgid "Storage"
+msgstr "சேமிப்பு"
+
+#.  Bottom navigation 
+#.
+#, java-printf-format
+msgctxt "archive"
+msgid "Archive"
+msgstr "காப்பகம்"
+
+#, java-printf-format
+msgctxt "home"
+msgid "Home"
+msgstr "வீடு"
+
+#.  Snackbar actions 
+#.
+#, java-printf-format
+msgctxt "open_folder"
+msgid "Open Folder"
+msgstr "திறந்த கோப்புறை"
+
+#.  Dialog strings (General dialogs and common strings of different dialog) 
+#.
+#, java-printf-format
+msgctxt "enter_name_of_archive_optional"
+msgid "Archive Name"
+msgstr "காப்பக பெயர்"
+
+#, java-printf-format
+msgctxt "show_hide_selected_files"
+msgid "Show/Hide Selected Files"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புகளைக் காட்டவும்/மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "background"
+msgid "Background"
+msgstr "பின்னணி"
+
+#, java-printf-format
+msgctxt "open_with"
+msgid "Open With"
+msgstr "உடன் திறந்திருக்கும்"
+
+#, java-printf-format
+msgctxt "compress_with"
+msgid "Compress with:"
+msgstr "இதனுடன் அமுக்க:"
+
+#, java-printf-format
+msgctxt "no_password"
+msgid "No Password"
+msgstr "கடவுச்சொல் இல்லை"
+
+#, java-printf-format
+msgctxt "confirm_delete"
+msgid "Delete Confirmation"
+msgstr "உறுதிப்படுத்தலை நீக்கு"
+
+#, java-printf-format
+msgctxt "confirm_delete_message"
+msgid "Are you sure you want to delete this item?"
+msgstr "இந்த உருப்படியை நீக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "file_path"
+msgid "Path"
+msgstr "பாதை"
+
+#, java-printf-format
+msgctxt "file_size"
+msgid "Size"
+msgstr "அளவு"
+
+#, java-printf-format
+msgctxt "last_modified"
+msgid "Last Modified"
+msgstr "கடைசியாக மாற்றப்பட்டது"
+
+#, java-printf-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "donate"
+msgid "Donate"
+msgstr "நன்கொடை"
+
+#, java-printf-format
+msgctxt "ok"
+msgid "OK"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "enter_password"
+msgid "Enter Password"
+msgstr "கடவுச்சொல்லை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "extract"
+msgid "Extract"
+msgstr "பிரித்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "file_info"
+msgid "File info"
+msgstr "கோப்பு செய்தி"
+
+#, java-printf-format
+msgctxt "multi_part_extract"
+msgid "Multi Part Extract:"
+msgstr "பல பகுதி சாறு:"
+
+#, java-printf-format
+msgctxt "copy_text"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, java-printf-format
+msgctxt "info_tip"
+msgid "Useful Tip"
+msgstr "பயனுள்ள உதவிக்குறிப்பு"
+
+#, java-printf-format
+msgctxt "info_tip_description"
+msgid ""
+"● Long-press files and folders or click file/folder icons to select them for "
+"archiving.\n"
+"\n"
+"● Click a file to display the extraction menu for choosing extraction "
+"options.\n"
+"\n"
+"● Files extracted using \"Open With\" menu of OS are stored in Internal "
+"Storage/ZipXtract by default. Modify this in app settings.\n"
+"\n"
+"● The default location for archiving or extracting archives (within the app) "
+"is the parent directory of the respective file(s). This can be changed in "
+"the app settings."
+msgstr ""
+"● கோப்புகள் மற்றும் கோப்புறைகள் நீண்ட செயலற்றவை அல்லது காப்பகத்திற்கு அவற்றைத் தேர்ந்தெடுக்க "
+"கோப்பு/கோப்புறை சின்னங்களைக் சொடுக்கு செய்க.\n"
+"\n"
+"● பிரித்தெடுக்கும் விருப்பங்களைத் தேர்ந்தெடுப்பதற்கு பிரித்தெடுத்தல் மெனுவைக் காண்பிக்க ஒரு "
+"கோப்பைக் சொடுக்கு செய்க.\n"
+"\n"
+"● முஇதின் \"திறந்த\" மெனுவைப் பயன்படுத்தி பிரித்தெடுக்கப்பட்ட கோப்புகள் இயல்பாக உள் "
+"சேமிப்பிடத்தில்/ZIPxtract இல் சேமிக்கப்படுகின்றன. பயன்பாட்டு அமைப்புகளில் இதை மாற்றவும்.\n"
+"\n"
+"● காப்பகங்களைக் காப்பகப்படுத்த அல்லது பிரித்தெடுப்பதற்கான இயல்புநிலை இடம் (பயன்பாட்டிற்குள்) "
+"அந்தந்த கோப்பு(கள்) இன் பெற்றோர் அடைவு. பயன்பாட்டு அமைப்புகளில் இதை மாற்றலாம்."
+
+#, java-printf-format
+msgctxt "crash_log"
+msgid "Crash Log"
+msgstr "செயலிழப்பு பதிவு"
+
+#, java-printf-format
+msgctxt "confirm_password"
+msgid "Confirm Password"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்து"
+
+#, java-printf-format
+msgctxt "passwords_do_not_match"
+msgid "Password do not match"
+msgstr "கடவுச்சொல் பொருந்தவில்லை"
+
+#, java-printf-format
+msgctxt "wrong_password"
+msgid "Wrong password"
+msgstr "தவறான கடவுச்சொல்"
+
+#, java-printf-format
+msgctxt "file_already_exists"
+msgid "File already exists"
+msgstr "கோப்பு ஏற்கனவே உள்ளது"
+
+#.  Menu items 
+#.
+#, java-printf-format
+msgctxt "move"
+msgid "Move to"
+msgstr "செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "copy_to"
+msgid "Copy to"
+msgstr "நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "action_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "select_all"
+msgid "Select All"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, java-printf-format
+msgctxt "search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "order"
+msgid "Order"
+msgstr "ஒழுங்கு"
+
+#, java-printf-format
+msgctxt "ascending"
+msgid "Ascending"
+msgstr "ஏறுதல்"
+
+#, java-printf-format
+msgctxt "descending"
+msgid "Descending"
+msgstr "இறங்கு"
+
+#, java-printf-format
+msgctxt "sort_by"
+msgid "Sort By"
+msgstr "வரிசைப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "size"
+msgid "Size"
+msgstr "அளவு"
+
+#, java-printf-format
+msgctxt "time_of_creation"
+msgid "Modified"
+msgstr "மாற்றியமைக்கப்பட்ட"
+
+#, java-printf-format
+msgctxt "extension"
+msgid "Extension"
+msgstr "நீட்டிப்பு"
+
+#, java-printf-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#.  Settings 
+#.
+#, java-printf-format
+msgctxt "extract_path"
+msgid "Extracted files folder"
+msgstr "பிரித்தெடுக்கப்பட்ட கோப்புகள் கோப்புறை"
+
+#, java-printf-format
+msgctxt "archive_path"
+msgid "Archived files folder"
+msgstr "காப்பகப்படுத்தப்பட்ட கோப்புகள் கோப்புறை"
+
+#, java-printf-format
+msgctxt "archive_path_summary"
+msgid ""
+"Modify the default extract folder. \n"
+"Default is \"parent folder\""
+msgstr ""
+"இயல்புநிலை சாறு கோப்புறையை மாற்றவும்.\n"
+" இயல்புநிலை \"பெற்றோர் கோப்புறை\""
+
+#, java-printf-format
+msgctxt "extract_path_summary"
+msgid ""
+"Modify the default extract folder. \n"
+"Default is \"parent folder\" or Internal Storage/ZipXtract (for \"Open With\""
+" menu extracted archive)"
+msgstr ""
+"இயல்புநிலை சாறு கோப்புறையை மாற்றவும்.\n"
+" இயல்புநிலை \"பெற்றோர் கோப்புறை\" அல்லது உள் சேமிப்பு/ZIPxtract (\"திறந்து\" பட்டியல் "
+"பிரித்தெடுக்கப்பட்ட காப்பகத்திற்கு)"
+
+#.  ZIP archive options 
+#.
+#, java-printf-format
+msgctxt "create_zip"
+msgid "Archive ZIP"
+msgstr "காப்பக சிப்"
+
+#, java-printf-format
+msgctxt "encryption_method"
+msgid "Encryption Method"
+msgstr "குறியாக்க முறை"
+
+#, java-printf-format
+msgctxt "compression_level"
+msgid "Compression Level"
+msgstr "சுருக்க நிலை"
+
+#, java-printf-format
+msgctxt "compression_method"
+msgid "Compression Method"
+msgstr "சுருக்க முறை"
+
+#, java-printf-format
+msgctxt "encryption_strength"
+msgid "Encryption Strength"
+msgstr "குறியாக்க வலிமை"
+
+#, java-printf-format
+msgctxt "split_size_mb"
+msgid "Split Size"
+msgstr "பிளவு அளவு"
+
+#, java-printf-format
+msgctxt "split_zip"
+msgid "Split ZIP"
+msgstr "பிளவு சிப்"
+
+#, java-printf-format
+msgctxt "_ten"
+msgid "Default is 64kb"
+msgstr "இயல்புநிலை 64KB"
+
+#, java-printf-format
+msgctxt "settings_info_text"
+msgid ""
+"The default encryption method for files is AES, which provides a high level "
+"of security. However, please be aware that AES encryption can be time-"
+"consuming, particularly on lower-end devices.\n"
+"\n"
+"For users with less powerful devices, an alternative like ZIP_STANDARD can "
+"be use. However, please note that this method does not offer the same level "
+"of security as AES.\n"
+"\n"
+"If security is your primary concern, we strongly recommend using AES despite "
+"its longer processing time."
+msgstr ""
+"கோப்புகளுக்கான இயல்புநிலை குறியாக்க முறை AES ஆகும், இது உயர் மட்ட பாதுகாப்பை "
+"வழங்குகிறது. இருப்பினும், AES குறியாக்கம் நேரத்தை எடுத்துக்கொள்ளும் என்பதை நினைவில் கொள்"
+"க, குறிப்பாக குறைந்த-இறுதி சாதனங்களில்.\n"
+"\n"
+" குறைந்த சக்திவாய்ந்த சாதனங்களைக் கொண்ட பயனர்களுக்கு, zip_standard போன்ற மாற்று "
+"பயன்படுத்தப்படலாம். இருப்பினும், இந்த முறை AES இன் அதே அளவிலான பாதுகாப்பை வழங்காது "
+"என்பதை நினைவில் கொள்க.\n"
+"\n"
+" பாதுகாப்பு உங்கள் முதன்மை அக்கறையாக இருந்தால், AES அதன் நீண்ட செயலாக்க நேரம் "
+"இருந்தபோதிலும் பயன்படுத்த நாங்கள் கடுமையாகப் பரிந்துரைக்கிறோம்."
+
+#.  TAR archive options 
+#.
+#, java-printf-format
+msgctxt "compress_tar"
+msgid "Archive TAR"
+msgstr "காப்பக தார்"
+
+#.  7z archive options 
+#.
+#, java-printf-format
+msgctxt "compress_sevenz"
+msgid "Archive 7z"
+msgstr "காப்பக 7Z"
+
+#, java-printf-format
+msgctxt "solid_compression"
+msgid "Solid Compression"
+msgstr "திட சுருக்க"
+
+#, java-printf-format
+msgctxt "thread_count"
+msgid "Thread Count"
+msgstr "நூல் எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "max_available_thread"
+msgid "0 for maximum available threads"
+msgstr "கிடைக்கக்கூடிய அதிகபட்ச நூல்களுக்கு 0"
+
+#.  Success toast messages 
+#.
+#, java-printf-format
+msgctxt "compression_success"
+msgid "Compression successful"
+msgstr "சுருக்க வெற்றிகரமாக"
+
+#, java-printf-format
+msgctxt "extraction_success"
+msgid "File extracted successfully"
+msgstr "கோப்பு வெற்றிகரமாக பிரித்தெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "archive_success"
+msgid "File archived successfully"
+msgstr "வெற்றிகரமாக காப்பகப்படுத்தப்பட்ட கோப்பு"
+
+#, java-printf-format
+msgctxt "tar_creation_success"
+msgid "TAR file archived successfully"
+msgstr "தார் கோப்பு வெற்றிகரமாக காப்பகப்படுத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "zip_creation_success"
+msgid "ZIP file archived successfully"
+msgstr "சிப் கோப்பு வெற்றிகரமாக காப்பகப்படுத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "sevenz_creation_success"
+msgid "7z file archived successfully"
+msgstr "7Z கோப்பு வெற்றிகரமாக காப்பகப்படுத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "file_deleted"
+msgid "Deleted"
+msgstr "நீக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "copied_to_clipboard"
+msgid "Copied to clipboard"
+msgstr "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "operation_cancelled"
+msgid "Operation cancelled"
+msgstr "செயல்பாடு ரத்து செய்யப்பட்டது"
+
+#.  Error toast messages 
+#.
+#, java-printf-format
+msgctxt "tar_creation_failed"
+msgid "Error archiving TAR file"
+msgstr "தார் கோப்பை காப்பகப்படுத்தும் பிழை"
+
+#, java-printf-format
+msgctxt "compression_failed"
+msgid "Compression failed"
+msgstr "சுருக்க தோல்வியுற்றது"
+
+#, java-printf-format
+msgctxt "sevenz_creation_failed"
+msgid "Error archiving 7z file"
+msgstr "7Z கோப்பை காப்பகப்படுத்தும் பிழை"
+
+#, java-printf-format
+msgctxt "zip_creation_failed"
+msgid "Error archiving ZIP file"
+msgstr "சிப் கோப்பை காப்பகப்படுத்தும் பிழை"
+
+# Suggested in Weblate: எதிர்பாராத பிழை ஏற்பட்டது
+#, java-printf-format
+msgctxt "general_error_msg"
+msgid "An unexpected error occurred."
+msgstr "எதிர்பாராத பிழை ஏற்பட்டது."
+
+# Suggested in Weblate: இந்த சுருக்க வடிவம் ஆதரிக்கப்படவில்லை
+#, java-printf-format
+msgctxt "unsupported_compression_format"
+msgid "This compression format is not supported."
+msgstr "இந்தச் சுருக்க வடிவம் ஆதரிக்கப்படவில்லை."
+
+# Suggested in Weblate: பிரித்தெடுத்தல் தோல்வியுற்றது:
+#, java-printf-format
+msgctxt "extraction_failed"
+msgid "Extraction Failed"
+msgstr "பிரித்தெடுத்தல் தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "access_denied"
+msgid "Access denied"
+msgstr "அணுகல் மறுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "no_files_to_archive"
+msgid "No files were selected for archiving"
+msgstr "காப்பகத்திற்கு கோப்புகள் எதுவும் தேர்ந்தெடுக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "permission_denied"
+msgid "Permission Denied"
+msgstr "இசைவு மறுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "no_file_selected"
+msgid "No File Selected"
+msgstr "எந்தக் கோப்பும் தேர்வு செய்யப் படவில்லை"
+
+#, java-printf-format
+msgctxt "sd_card_not_available"
+msgid "SD card or external storage not detected"
+msgstr "எச்டி அட்டை அல்லது வெளிப்புற சேமிப்பு கண்டறியப்படவில்லை"
+
+#.  Notification title
+#.
+#, java-printf-format
+msgctxt "copying_files"
+msgid "Copying…"
+msgstr "நகலெடுக்கும்…"
+
+#, java-printf-format
+msgctxt "moving_files"
+msgid "Moving…"
+msgstr "நகரும்…"
+
+#, java-printf-format
+msgctxt "delete_ongoing"
+msgid "Deleting…"
+msgstr "நீக்குதல்…"
+
+#, java-printf-format
+msgctxt "extraction_ongoing"
+msgid "Extracting…"
+msgstr "பிரித்தெடுக்கும்…"
+
+#, java-printf-format
+msgctxt "archive_ongoing"
+msgid "Archiving…"
+msgstr "காப்பகப்படுத்துதல்…"
+
+#.  Notification content
+#.
+#, java-printf-format
+msgctxt "copying_files_progress"
+msgid "Copying files: %1$d/%2$d"
+msgstr "கோப்புகளை நகலெடுக்கும்: %1$d/ %2$d"
+
+#, java-printf-format
+msgctxt "moving_files_progress"
+msgid "Moving files: %1$d/%2$d"
+msgstr "நகரும் கோப்புகள்: %1$d/ %2$d"
+
+#, java-printf-format
+msgctxt "deleting_files"
+msgid "Deleting files: %1$d/%2$d"
+msgstr "கோப்புகளை நீக்குதல்: %1$d/ %2$d"
+
+#, java-printf-format
+msgctxt "extracting_progress"
+msgid "Extracting… %1$d %%"
+msgstr "பிரித்தெடுக்கும்… %1$d %%"
+
+#, java-printf-format
+msgctxt "compressing_progress"
+msgid "Archiving… %1$d %%"
+msgstr "காப்பகப்படுத்துதல்… %1$d %%"
+
+#, java-printf-format
+msgctxt "compression_ongoing"
+msgid "Compressing…"
+msgstr "அமுக்குதல்…"
+
+#.  Notification channel name
+#.
+#, java-printf-format
+msgctxt "delete_files_notification_name"
+msgid "Delete File"
+msgstr "கோப்பை அழி"
+
+#, java-printf-format
+msgctxt "copy_move_files_notification_name"
+msgid "Copy/Move Files"
+msgstr "கோப்புகளை நகலெடுக்கவும்/நகர்த்தவும்"
+
+#, java-printf-format
+msgctxt "extract_archive_notification_name"
+msgid "Extract Archive"
+msgstr "காப்பகத்தைப் பிரித்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "compress_archive_notification_name"
+msgid "Compress Archive"
+msgstr "காப்பகத்தை சுருக்கவும்"
+
+#.  non-translatable strings 
+#.
+#, java-printf-format
+msgctxt "zip"
+msgid "ZIP"
+msgstr ""
+
+#, java-printf-format
+msgctxt "_7z"
+msgid "7z"
+msgstr ""
+
+#, java-printf-format
+msgctxt "rar"
+msgid "RAR"
+msgstr ""
+
+#, java-printf-format
+msgctxt "lzma"
+msgid "LZMA"
+msgstr ""
+
+#, java-printf-format
+msgctxt "bzip2"
+msgid "BZIP2"
+msgstr ""
+
+#, java-printf-format
+msgctxt "xz"
+msgid "XZ"
+msgstr ""
+
+#, java-printf-format
+msgctxt "gzip"
+msgid "GZIP"
+msgstr ""
+
+#, java-printf-format
+msgctxt "liberapay"
+msgid "Liberapay"
+msgstr "லிபர்பே"
+
+#, java-printf-format
+msgctxt "author_wirelessalien"
+msgid "Author: WirelessAlien"
+msgstr ""

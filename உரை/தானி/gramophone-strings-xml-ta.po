@@ -1,0 +1,2287 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Gramophone)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-29 01:02+0200\n"
+"PO-Revision-Date: 2025-07-09 09:36\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/gramophone/strings-xml/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#, java-printf-format
+msgctxt "default_time"
+msgid "0:00"
+msgstr "0:00"
+
+#, java-printf-format
+msgctxt "settings_contributors_detail"
+msgid "nift4, 123Duo3, AkaneTan, imjyotiraditya, WSTxda"
+msgstr "Nift4, 123DO3, ஒனேசன், இம்சிராடுட்ச் உடைகள், WSTXDA"
+
+#, java-printf-format
+msgctxt "upper_folder"
+msgid ".."
+msgstr ".."
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "Gramophone"
+msgstr "கிராமபோன்"
+
+#, java-printf-format
+msgctxt "home_menu_search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "home_menu_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "home_menu_shuffle"
+msgid "Shuffle all"
+msgstr "அனைத்தையும் மாற்றவும்"
+
+#, java-printf-format
+msgctxt "home_menu_refresh"
+msgid "Refresh"
+msgstr "புதுப்பிப்பு"
+
+#, java-printf-format
+msgctxt "category_songs"
+msgid "Songs"
+msgstr "பாடல்கள்"
+
+#, java-printf-format
+msgctxt "category_albums"
+msgid "Albums"
+msgstr "ஆல்பம்"
+
+#, java-printf-format
+msgctxt "category_artists"
+msgid "Artists"
+msgstr "கலைஞர்கள்"
+
+#, java-printf-format
+msgctxt "category_genres"
+msgid "Genres"
+msgstr "வகைகள்"
+
+#, java-printf-format
+msgctxt "category_playlists"
+msgid "Playlists"
+msgstr "பிளேலிச்ட்கள்"
+
+#, java-printf-format
+msgctxt "unknown_artist"
+msgid "Unknown artist"
+msgstr "தெரியாத கலைஞர்"
+
+#, java-printf-format
+msgctxt "category_dates"
+msgid "Dates"
+msgstr "தேதிகள்"
+
+#, java-printf-format
+msgctxt "songs"
+msgid "%d Song"
+msgid_plural "%d Songs"
+msgstr[0] "%d பாடல்"
+msgstr[1] "%d பாடல்கள்"
+
+#, java-printf-format
+msgctxt "albums"
+msgid "%d Album"
+msgid_plural "%d Albums"
+msgstr[0] "%d ஆல்பம்"
+msgstr[1] "%d ஆல்பங்கள்"
+
+#, java-printf-format
+msgctxt "artists"
+msgid "%d Artist"
+msgid_plural "%d Artists"
+msgstr[0] "%d கலைஞர்"
+msgstr[1] "%d கலைஞர்கள்"
+
+#, java-printf-format
+msgctxt "items"
+msgid "%d Item"
+msgid_plural "%d Items"
+msgstr[0] "%d உருப்படி"
+msgstr[1] "%d உருப்படிகள்"
+
+#, java-printf-format
+msgctxt "follow_system"
+msgid "Follow system"
+msgstr "அமைப்பைப் பின்தொடரவும்"
+
+#, java-printf-format
+msgctxt "dark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, java-printf-format
+msgctxt "light"
+msgid "Light"
+msgstr "ஒளி"
+
+#, java-printf-format
+msgctxt "sort_by_size"
+msgid "Size"
+msgstr "அளவு"
+
+#, java-printf-format
+msgctxt "sort_by_name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "sort_by_artist"
+msgid "Artist"
+msgstr "கலைஞர்"
+
+#, java-printf-format
+msgctxt "sort_by_album"
+msgid "Album"
+msgstr "ஆல்பம்"
+
+#, java-printf-format
+msgctxt "sort_by_album_artist"
+msgid "Album artist"
+msgstr "ஆல்பம் கலைஞர்"
+
+#, java-printf-format
+msgctxt "dismiss"
+msgid "Dismiss"
+msgstr "தள்ளுபடி"
+
+#, java-printf-format
+msgctxt "unknown_genre"
+msgid "Unknown genre"
+msgstr "தெரியாத வகை"
+
+#, java-printf-format
+msgctxt "unknown_year"
+msgid "Unknown year"
+msgstr "தெரியாத ஆண்டு"
+
+#, java-printf-format
+msgctxt "refreshed_songs"
+msgid "Refreshed %1$s songs"
+msgstr "புத்துணர்ச்சியற்ற %1$s பாடல்கள்"
+
+#, java-printf-format
+msgctxt "search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, java-printf-format
+msgctxt "settings_app_name"
+msgid "App name"
+msgstr "பயன்பாட்டு பெயர்"
+
+#, java-printf-format
+msgctxt "settings_contributors"
+msgid "Contributors"
+msgstr "பங்களிப்பாளர்கள்"
+
+#, java-printf-format
+msgctxt "play_next"
+msgid "Play next"
+msgstr "அடுத்து விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "go_to_album"
+msgid "Go to album"
+msgstr "ஆல்பத்திற்குச் செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "go_to_artist"
+msgid "Go to artist"
+msgstr "கலைஞரிடம் செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "details"
+msgid "Details"
+msgstr "விவரங்கள்"
+
+#, java-printf-format
+msgctxt "shuffle"
+msgid "Shuffle"
+msgstr "கலக்கு"
+
+#, java-printf-format
+msgctxt "repeat_mode"
+msgid "Repeat mode"
+msgstr "மீண்டும் பயன்முறை"
+
+#, java-printf-format
+msgctxt "unknown_playlist"
+msgid "Unknown playlist"
+msgstr "தெரியாத பிளேலிச்ட்"
+
+#, java-printf-format
+msgctxt "gramophone_crashed"
+msgid "Crash log"
+msgstr "செயலிழப்பு பதிவு"
+
+#, java-printf-format
+msgctxt "crash_gramophone_version"
+msgid "Gramophone version"
+msgstr "கிராமபோன் பதிப்பு"
+
+#, java-printf-format
+msgctxt "crash_phone_model"
+msgid "Model"
+msgstr "மாதிரியுரு"
+
+#, java-printf-format
+msgctxt "crash_phone_brand"
+msgid "Brand"
+msgstr "சூட்டுக்குறி"
+
+#, java-printf-format
+msgctxt "crash_sdk_level"
+msgid "SDK Level"
+msgstr "எச்.டி.கே நிலை"
+
+#, java-printf-format
+msgctxt "crash_time"
+msgid "Time"
+msgstr "நேரம்"
+
+#, java-printf-format
+msgctxt "crash_rtype"
+msgid "Release type"
+msgstr "வெளியீட்டு வகை"
+
+#, java-printf-format
+msgctxt "settings_category_appearance"
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#, java-printf-format
+msgctxt "album_artist"
+msgid "Album artist"
+msgstr "ஆல்பம் கலைஞர்"
+
+#, java-printf-format
+msgctxt "unknown_version"
+msgid "Unknown version"
+msgstr "அறியப்படாத பதிப்பு"
+
+#, java-printf-format
+msgctxt "settings_version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, java-printf-format
+msgctxt "dialog_title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, java-printf-format
+msgctxt "dialog_artist"
+msgid "Artist"
+msgstr "கலைஞர்"
+
+#, java-printf-format
+msgctxt "settings_category_behavior"
+msgid "Behavior"
+msgstr "நடத்தை"
+
+#, java-printf-format
+msgctxt "settings_mediastore_filter"
+msgid "Song minimum length (seconds)"
+msgstr "பாடல் குறைந்தபட்ச நீளம் (விநாடிகள்)"
+
+#, java-printf-format
+msgctxt "settings_repository"
+msgid "Repository"
+msgstr "களஞ்சியம்"
+
+#, java-printf-format
+msgctxt "dialog_album"
+msgid "Album"
+msgstr "ஆல்பம்"
+
+#, java-printf-format
+msgctxt "dialog_genre"
+msgid "Genre"
+msgstr "வகை"
+
+#, java-printf-format
+msgctxt "dialog_album_artist"
+msgid "Album artist"
+msgstr "ஆல்பம் கலைஞர்"
+
+#, java-printf-format
+msgctxt "dialog_track_number"
+msgid "Track number"
+msgstr "ட்ராக் எண்"
+
+#, java-printf-format
+msgctxt "dialog_year"
+msgid "Year"
+msgstr "ஆண்டு"
+
+#, java-printf-format
+msgctxt "dialog_path"
+msgid "Path"
+msgstr "பாதை"
+
+#, java-printf-format
+msgctxt "unknown_album"
+msgid "Unknown album"
+msgstr "தெரியாத ஆல்பம்"
+
+#, java-printf-format
+msgctxt "recently_added"
+msgid "Recently added"
+msgstr "அண்மைக் காலத்தில் சேர்க்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "folders"
+msgid "Folders"
+msgstr "கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "settings_app_theme"
+msgid "App theme"
+msgstr "பயன்பாட்டு கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "natural_order"
+msgid "Natural order"
+msgstr "இயற்கை ஒழுங்கு"
+
+#, java-printf-format
+msgctxt "grid"
+msgid "Grid"
+msgstr "வலைவாய்"
+
+#, java-printf-format
+msgctxt "list"
+msgid "List"
+msgstr "பட்டியல்"
+
+#, java-printf-format
+msgctxt "layout"
+msgid "Display"
+msgstr "காட்சி"
+
+#, java-printf-format
+msgctxt "home_menu_equalizer"
+msgid "Equalizer"
+msgstr "சமநிலைப்படுத்தி"
+
+#, java-printf-format
+msgctxt "equalizer_not_found"
+msgid "Equalizer not found!"
+msgstr "சமநிலைப்படுத்துபவர் காணப்படவில்லை!"
+
+#, java-printf-format
+msgctxt "compact_list"
+msgid "List (compact)"
+msgstr "பட்டியல் (சிறிய)"
+
+#, java-printf-format
+msgctxt "check_for_updates"
+msgid "Check our channel for updates!"
+msgstr "புதுப்பிப்புகளுக்கு எங்கள் சேனலை சரிபார்க்கவும்!"
+
+#, java-printf-format
+msgctxt "settings_default_progress_bar"
+msgid "Default progress bar"
+msgstr "இயல்புநிலை முன்னேற்றப் பட்டி"
+
+#, java-printf-format
+msgctxt "settings_default_progress_bar_summary"
+msgid "Enable material styled progress bar"
+msgstr "பொருள் பாணியிலான முன்னேற்றப் பட்டியை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "opensource_info"
+msgid ""
+"Open-sourced under GPL-3.0\n"
+"Copyright %s"
+msgstr ""
+"சிபிஎல் -3.0 இன் கீழ் திறந்த மூல\n"
+" பதிப்புரிமை %s"
+
+#, java-printf-format
+msgctxt "playlist_favourite"
+msgid "Favourite"
+msgstr "பிடித்த"
+
+#, java-printf-format
+msgctxt "settings_contributors_click"
+msgid "%s (click for more!)"
+msgstr "%s (மேலும் சொடுக்கு செய்க!)"
+
+#, java-printf-format
+msgctxt "now_playing"
+msgid "Now playing"
+msgstr "இப்போது விளையாடுகிறது"
+
+#, java-printf-format
+msgctxt "settings_content_based_color_summary"
+msgid "Enable album based color generation"
+msgstr "ஆல்பம் அடிப்படையிலான வண்ண தலைமுறையை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_content_based_color"
+msgid "Content based colors"
+msgstr "உள்ளடக்க அடிப்படையிலான வண்ணங்கள்"
+
+#, java-printf-format
+msgctxt "settings_package_type"
+msgid "Package type"
+msgstr "தொகுப்பு வகை"
+
+#, java-printf-format
+msgctxt "no_lyric_found"
+msgid "No lyric found"
+msgstr "பாடல் எதுவும் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "dialog_disc_number"
+msgid "Disc number"
+msgstr "வட்டு எண்"
+
+#, java-printf-format
+msgctxt "unknown_title"
+msgid "Unknown title"
+msgstr "தெரியாத தலைப்பு"
+
+#, java-printf-format
+msgctxt "filesystem"
+msgid "Filesystem"
+msgstr "கோப்பு முறைமை"
+
+#, java-printf-format
+msgctxt "dialog_mime"
+msgid "MIME type"
+msgstr "மைம் வகை"
+
+#, java-printf-format
+msgctxt "dialog_duration"
+msgid "Duration"
+msgstr "காலம்"
+
+#, java-printf-format
+msgctxt "settings_title_center"
+msgid "Centered title"
+msgstr "மையப்படுத்தப்பட்ட தலைப்பு"
+
+#, java-printf-format
+msgctxt "settings_title_center_summary"
+msgid "Use centered title for full player"
+msgstr "முழு பிளேயருக்கு மையப்படுத்தப்பட்ட தலைப்பைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "settings_player_ui"
+msgid "Player UI"
+msgstr "பிளேயர் இடைமுகம்"
+
+#, java-printf-format
+msgctxt "settings_player_ui_summary"
+msgid "Full player UI, lyrics"
+msgstr "முழு பிளேயர் யுஐ, பாடல்"
+
+#, java-printf-format
+msgctxt "settings_appearance_summary"
+msgid "Application appearance, theme modes"
+msgstr "பயன்பாட்டு தோற்றம், கருப்பொருள் முறைகள்"
+
+#, java-printf-format
+msgctxt "settings_about_app"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "settings_about_gramophone"
+msgid "About application"
+msgstr "பயன்பாடு பற்றி"
+
+#, java-printf-format
+msgctxt "settings_behavior_summary"
+msgid "Filters, launch behaviors"
+msgstr "வடிப்பான்கள், துவக்க நடத்தைகள்"
+
+#, java-printf-format
+msgctxt "settings_category_links"
+msgid "Links"
+msgstr "இணைப்புகள்"
+
+#, java-printf-format
+msgctxt "settings_library"
+msgid "Library"
+msgstr "நூலகம்"
+
+#, java-printf-format
+msgctxt "settings_library_summary"
+msgid "Manage media library"
+msgstr "மீடியா நூலகத்தை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_player_options"
+msgid "Audio"
+msgstr "ஆடியோ"
+
+#, java-printf-format
+msgctxt "settings_player_options_summary"
+msgid "Output quality, playback behavior"
+msgstr "வெளியீட்டு தகுதி, பின்னணி நடத்தை"
+
+#, java-printf-format
+msgctxt "settings_customization"
+msgid "Customization"
+msgstr "தனிப்பயனாக்கம்"
+
+#, java-printf-format
+msgctxt "settings_customization_summary"
+msgid "Manage customization options"
+msgstr "தனிப்பயனாக்குதல் விருப்பங்களை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_album_round_corner_summary"
+msgid "Enable round corner in full player"
+msgstr "முழு வீரரில் சுற்று மூலையை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_album_round_corner"
+msgid "Album round corner"
+msgstr "ஆல்பம் சுற்று மூலையில்"
+
+#, java-printf-format
+msgctxt "settings_audio"
+msgid "Audio"
+msgstr "ஆடியோ"
+
+#, java-printf-format
+msgctxt "settings_title_bold"
+msgid "Bold title"
+msgstr "தைரியமான தலைப்பு"
+
+#, java-printf-format
+msgctxt "settings_title_bold_summary"
+msgid "Use bold title for full player"
+msgstr "முழு பிளேயருக்கு தைரியமான தலைப்பைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "settings_experimental_settings"
+msgid "Experimental"
+msgstr "சோதனை"
+
+#, java-printf-format
+msgctxt "settings_experimental_settings_summary"
+msgid "Testing features, misc"
+msgstr "சோதனை நற்பொருத்தங்கள், மற்றவை"
+
+#, java-printf-format
+msgctxt "settings_color_accuracy_summary"
+msgid "Make color generation accurate"
+msgstr "வண்ண தலைமுறையை துல்லியமாக ஆக்குங்கள்"
+
+#, java-printf-format
+msgctxt "settings_color_accuracy"
+msgid "Color accuracy"
+msgstr "வண்ண துல்லியம்"
+
+#, java-printf-format
+msgctxt "sort_by_add_date"
+msgid "Add date"
+msgstr "தேதி சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "sort_by_modified_date"
+msgid "Modified date"
+msgstr "மாற்றியமைக்கப்பட்ட தேதி"
+
+#, java-printf-format
+msgctxt "settings_lyric"
+msgid "Lyric"
+msgstr "பாடல்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_configuration"
+msgid "Lyrics configuration"
+msgstr "பாடல் உள்ளமைவு"
+
+#, java-printf-format
+msgctxt "settings_lyrics_configuration_summary"
+msgid "Configure lyrics appearance"
+msgstr "பாடல் தோற்றத்தை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_bold"
+msgid "Bold lyrics"
+msgstr "தைரியமான பாடல்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_bold_summary"
+msgid "Use a heavier font weight for lyrics"
+msgstr "பாடல் வரிகளுக்கு கனமான எழுத்துரு எடையைப் பயன்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_center"
+msgid "Center alignment"
+msgstr "மைய சீரமைப்பு"
+
+#, java-printf-format
+msgctxt "settings_lyrics_center_summary"
+msgid "Use center alignment for lyrics"
+msgstr "பாடல் வரிகளுக்கு மைய சீரமைப்பு பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_multiline"
+msgid "Read multiline lyrics"
+msgstr "மல்டிலைன் வரிகளை படியுங்கள்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_multiline_summary"
+msgid "Treat all the lines between sync points as one lyric text"
+msgstr ""
+"ஒத்திசைவு புள்ளிகளுக்கு இடையிலான அனைத்து வரிகளையும் ஒரு பாடல் உரையாக "
+"கருதுங்கள்"
+
+#, java-printf-format
+msgctxt "settings_play_on_launch"
+msgid "Play on launch"
+msgstr "துவக்கத்தில் விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "settings_play_on_launch_summary"
+msgid "Play music on launch"
+msgstr "துவக்கத்தில் இசையை வாசிக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_blacklist"
+msgid "Blacklist"
+msgstr "தடுப்புப்பட்டியல்"
+
+#, java-printf-format
+msgctxt "settings_blacklist_folder_summary"
+msgid "Filter songs from certain folders"
+msgstr "சில கோப்புறைகளிலிருந்து பாடல்களை வடிகட்டவும்"
+
+#, java-printf-format
+msgctxt "settings_blacklist_folder"
+msgid "Blacklist folders"
+msgstr "தடுப்புப்பட்டியல் கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "settings_category_basic_info"
+msgid "Basic info"
+msgstr "அடிப்படை செய்தி"
+
+#, java-printf-format
+msgctxt "preference_category_quality"
+msgid "Quality"
+msgstr "தகுதி"
+
+#, java-printf-format
+msgctxt "settings_category_misc"
+msgid "Misc"
+msgstr "இதர"
+
+#, java-printf-format
+msgctxt "settings_category_filters"
+msgid "Filters"
+msgstr "வடிப்பான்கள்"
+
+#, java-printf-format
+msgctxt "settings_preference_category_application"
+msgid "Application"
+msgstr "பயன்பாடு"
+
+#, java-printf-format
+msgctxt "settings_category_full_player"
+msgid "Full player"
+msgstr "முழு வீரர்"
+
+#, java-printf-format
+msgctxt "settings_crash_application"
+msgid "Crash application"
+msgstr "செயலிழப்பு பயன்பாடு"
+
+#, java-printf-format
+msgctxt "settings_crash_application_summary"
+msgid "Crash-O-Matic 3000"
+msgstr "க்ராச்-ஓ-மேடிக் 3000"
+
+#, java-printf-format
+msgctxt "album_cover"
+msgid "Album cover"
+msgstr "ஆல்பம் கவர்"
+
+#, java-printf-format
+msgctxt "dialog_edit_metadata"
+msgid "Edit"
+msgstr "தொகு"
+
+#, java-printf-format
+msgctxt "dialog_lyrics"
+msgid "Lyrics"
+msgstr "பாடல்"
+
+#, java-printf-format
+msgctxt "delete_failed"
+msgid "Deleting song failed"
+msgstr "பாடல் நீக்குவது தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "delete_failed_playlist"
+msgid "Deleting playlist failed"
+msgstr "பிளேலிச்ட்டை நீக்குவது தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "album_covers_enhance"
+msgid "Enhanced album cover loading"
+msgstr "மேம்படுத்தப்பட்ட ஆல்பம் கவர் ஏற்றுதல்"
+
+#, java-printf-format
+msgctxt "album_covers_enhance_desc"
+msgid ""
+"Display high quality song covers and allow album and song cover to differ "
+"(requires photos access)"
+msgstr ""
+"உயர் தரமான பாடல் கவர்களைக் காண்பி, ஆல்பம் மற்றும் பாடல் அட்டையை வேறுபடுத்த "
+"அனுமதிக்கவும் (புகைப்படங்கள் அணுகல் தேவை)"
+
+#, java-printf-format
+msgctxt "deny_images"
+msgid "<![CDATA[Please deny \\\"Photos and videos\\\" permission]]>"
+msgstr ""
+"<![CDATA[தயவுசெய்து \\\"புகைப்படங்கள் மற்றும் வீடியோக்களை மறுக்கவும்\\\" "
+"அனுமதியை]]>"
+
+#, java-printf-format
+msgctxt "grant_images"
+msgid "<![CDATA[Please grant \\\"Photos and videos\\\" permission]]>"
+msgstr ""
+"<![CDATA[தயவுசெய்து \\\"புகைப்படங்கள் மற்றும் வீடியோக்களை வழங்கவும்\\\" "
+"அனுமதி]]>"
+
+#, java-printf-format
+msgctxt "grant_audio"
+msgid "<![CDATA[Please grant \\\"Music and audio\\\" permission]]>"
+msgstr "<![CDATA[தயவுசெய்து \\\"இசை மற்றும் ஆடியோ\\\" இசைவு வழங்கவும்]]>"
+
+#, java-printf-format
+msgctxt "crash_clipboard"
+msgid "Copied crash log to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு க்ராச் பதிவை நகலெடுத்தது"
+
+#, java-printf-format
+msgctxt "crash_thread"
+msgid "Thread"
+msgstr "நூல்"
+
+#, java-printf-format
+msgctxt "settings_trim_lyrics"
+msgid "Remove spaces around lyrics"
+msgstr "பாடல் வரிகளைச் சுற்றியுள்ள இடங்களை அகற்று"
+
+#, java-printf-format
+msgctxt "timer"
+msgid "Sleep timer"
+msgstr "தூக்க நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "current_playlist"
+msgid "Current playlist"
+msgstr "தற்போதைய பிளேலிச்ட்"
+
+#, java-printf-format
+msgctxt "fgs_failed_title"
+msgid "Failed to resume music playback"
+msgstr "மியூசிக் பிளேபேக்கை மீண்டும் தொடங்குவதில் தோல்வி"
+
+#, java-printf-format
+msgctxt "fgs_failed_text"
+msgid "Click here to open the app and continue playback"
+msgstr "பயன்பாட்டைத் திறந்து பிளேபேக்கைத் தொடர இங்கே சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "fgs_failed_channel"
+msgid "Playback failed to resume"
+msgstr "பின்னணி மீண்டும் தொடங்கத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "sort_by_release_date"
+msgid "Release date"
+msgstr "வெளியீட்டு தேதி"
+
+#, java-printf-format
+msgctxt "timer_expiry"
+msgid "Sleep timer will pause music at %s"
+msgstr "ச்லீப் நேரங்குறிகருவி %s இல் இசையை இடைநிறுத்தும்"
+
+#, java-printf-format
+msgctxt "separator_dot"
+msgid "•"
+msgstr "•"
+
+#, java-printf-format
+msgctxt "settings_preference_category_home"
+msgid "Home screen"
+msgstr "முகப்புத் திரை"
+
+#, java-printf-format
+msgctxt "tab_order"
+msgid "Configure tab order"
+msgstr "தாவல் வரிசையை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "tab_order_summary"
+msgid ""
+"The app will show the first tab on startup. Tabs after the divider will be "
+"hidden."
+msgstr ""
+"பயன்பாடு தொடக்கத்தில் முதல் தாவலைக் காண்பிக்கும். வகுப்பாளருக்குப் பிறகு "
+"தாவல்கள் மறைக்கப்படும்."
+
+#, java-printf-format
+msgctxt "seekbar"
+msgid "Seekbar"
+msgstr "சீக்பார்"
+
+#, java-printf-format
+msgctxt "divider"
+msgid "Divider"
+msgstr "பிரிப்பான்"
+
+#, java-printf-format
+msgctxt "back"
+msgid "Back"
+msgstr "பின்"
+
+#, java-printf-format
+msgctxt "play_all"
+msgid "Play all"
+msgstr "அனைத்தையும் விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "shuffle_all"
+msgid "Shuffle all"
+msgstr "அனைத்தையும் மாற்றவும்"
+
+#, java-printf-format
+msgctxt "sort"
+msgid "Sort"
+msgstr "வரிசைப்படுத்து"
+
+#, java-printf-format
+msgctxt "scroll_to_albums"
+msgid "Scroll to albums"
+msgstr "ஆல்பங்களுக்கு உருட்டவும்"
+
+#, java-printf-format
+msgctxt "scroll_to_songs"
+msgid "Scroll to songs"
+msgstr "பாடல்களுக்கு உருட்டவும்"
+
+#, java-printf-format
+msgctxt "play"
+msgid "Play"
+msgstr "விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "more"
+msgid "More"
+msgstr "மேலும்"
+
+#, java-printf-format
+msgctxt "remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+#, java-printf-format
+msgctxt "skip_next"
+msgid "Skip to next"
+msgstr "அடுத்து செல்லவும்"
+
+#, java-printf-format
+msgctxt "expand_less"
+msgid "Close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "skip_previous"
+msgid "Skip to previous"
+msgstr "முந்தையதைத் தவிர்க்கவும்"
+
+#, java-printf-format
+msgctxt "position_slider"
+msgid "Position slider"
+msgstr "நிலை ச்லைடர்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_parser"
+msgid "New lyric parser"
+msgstr "புதிய பாடல் பாகுபடுத்தி"
+
+#, java-printf-format
+msgctxt "settings_lyrics_parser_summary"
+msgid ""
+"Enable new lyric parser that supports word-by-word synchronisation, speaker "
+"indicator, offset and more"
+msgstr ""
+"சொல்-மூலம்-வார்த்தை ஒத்திசைவு, பேச்சாளர் காட்டி, ஆஃப்செட் மற்றும் பலவற்றை "
+"ஆதரிக்கும் புதிய பாடல் பாகுபடுத்தலை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_ui"
+msgid "Enable new lyric UI"
+msgstr "புதிய பாடல் இடைமுகம் ஐ இயக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_lyrics_ui_summary"
+msgid "Experimental UI to display word-by-word lyric with advanced features"
+msgstr ""
+"மேம்பட்ட அம்சங்களுடன் சொல்-மூலம்-வார்த்தை பாடலைக் காண்பிக்க சோதனை இடைமுகம்"
+
+#, java-printf-format
+msgctxt "settings_status_bar_lyrics_title"
+msgid "Status bar lyrics"
+msgstr "நிலை பட்டை பாடல்"
+
+#, java-printf-format
+msgctxt "settings_status_bar_lyrics_summary"
+msgid ""
+"Enable MeiZu method of displaying lyrics in status bar (only available on "
+"some devices)"
+msgstr ""
+"நிலை பட்டியில் பாடல்களைக் காண்பிக்கும் மீசு முறையை இயக்கவும் (சில "
+"சாதனங்களில் மட்டுமே கிடைக்கும்)"
+
+#, java-printf-format
+msgctxt "lyric_widget_description"
+msgid "Widget that shows lyrics of currently playing media"
+msgstr "தற்போது விளையாடும் ஊடகங்களின் பாடல்களைக் காட்டும் விட்செட்"
+
+#, java-printf-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_really"
+msgid "Do you really want to delete \"%s\"? This action cannot be undone."
+msgstr ""
+"நீங்கள் உண்மையில் \"%s\" நீக்க விரும்புகிறீர்களா? இந்த செயலை செயல்தவிர்க்க "
+"முடியாது."
+
+#, java-printf-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "no"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "sort_by_file_path"
+msgid "File path"
+msgstr "கோப்பு பாதை"
+
+#, java-printf-format
+msgctxt "spk_channel_out_mono"
+msgid "Mono"
+msgstr "மோனோ"
+
+#, java-printf-format
+msgctxt "spk_channel_out_stereo"
+msgid "Stereo"
+msgstr "ச்டீரியோ"
+
+#, java-printf-format
+msgctxt "spk_channel_out_quad"
+msgid "Quad"
+msgstr "குவாட்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_surround"
+msgid "Surround (4.0)"
+msgstr "சரவுண்ட் (4.0)"
+
+#, java-printf-format
+msgctxt "spk_channel_out_7point1_surround"
+msgid "Surround (7.1)"
+msgstr "சரவுண்ட் (7.1)"
+
+#, java-printf-format
+msgctxt "spk_channel_out_5point1"
+msgid "5.1"
+msgstr "5.1"
+
+#, java-printf-format
+msgctxt "spk_channel_out_6point1"
+msgid "6.1"
+msgstr "6.1"
+
+#, java-printf-format
+msgctxt "spk_channel_out_5point1point2"
+msgid "5.1.2"
+msgstr "5.1.2"
+
+#, java-printf-format
+msgctxt "spk_channel_out_5point1point4"
+msgid "5.1.4"
+msgstr "5.1.4"
+
+#, java-printf-format
+msgctxt "spk_channel_out_7point1point2"
+msgid "7.1.2"
+msgstr "7.1.2"
+
+#, java-printf-format
+msgctxt "spk_channel_out_7point1point4"
+msgid "7.1.4"
+msgstr "7.1.4"
+
+#, java-printf-format
+msgctxt "spk_channel_out_9point1point4"
+msgid "9.1.4"
+msgstr "9.1.4"
+
+#, java-printf-format
+msgctxt "spk_channel_out_9point1point6"
+msgid "9.1.6"
+msgstr "9.1.6"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_left"
+msgid "Front Left"
+msgstr "முன் இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_right"
+msgid "Front Right"
+msgstr "முன் வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_center"
+msgid "Front Center"
+msgstr "முன் நடுவண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_low_frequency"
+msgid "Low Frequency"
+msgstr "குறைந்த அதிர்வெண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_back_left"
+msgid "Back Left"
+msgstr "பின் இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_back_right"
+msgid "Back Right"
+msgstr "பின் வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_left_of_center"
+msgid "Front Left of Center"
+msgstr "மையத்தின் முன் இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_right_of_center"
+msgid "Front Right of Center"
+msgstr "மையத்தின் முன் வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_back_center"
+msgid "Back Center"
+msgstr "பின் நடுவண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_side_left"
+msgid "Side Left"
+msgstr "பக்க இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_side_right"
+msgid "Side Right"
+msgstr "பக்க வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_center"
+msgid "Top Center"
+msgstr "மேல் நடுவண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_front_left"
+msgid "Top Front Left"
+msgstr "மேல் முன் இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_front_center"
+msgid "Top Front Center"
+msgstr "மேல் முன் நடுவண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_front_right"
+msgid "Top Front Right"
+msgstr "மேல் முன் வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_invalid"
+msgid "Invalid"
+msgstr "செல்லுபடியாகாத"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_back_left"
+msgid "Top Back Left"
+msgstr "மேல் இடதுபுறம்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_back_center"
+msgid "Top Back Center"
+msgstr "மேல் பின் நடுவண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_back_right"
+msgid "Top Back Right"
+msgstr "வலதுபுறம் மேல்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_side_left"
+msgid "Top Side Left"
+msgstr "மேல் பக்க இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_top_side_right"
+msgid "Top Side Right"
+msgstr "மேல் பக்க வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_bottom_front_left"
+msgid "Bottom Front Left"
+msgstr "கீழ் முன் இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_bottom_front_center"
+msgid "Bottom Front Center"
+msgstr "கீழ் முன் நடுவண்"
+
+#, java-printf-format
+msgctxt "spk_channel_out_bottom_front_right"
+msgid "Bottom Front Right"
+msgstr "கீழே முன் வலது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_low_frequency_2"
+msgid "Low Frequency 2"
+msgstr "குறைந்த அதிர்வெண் 2"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_wide_left"
+msgid "Front Wide Left"
+msgstr "முன் அகல இடது"
+
+#, java-printf-format
+msgctxt "spk_channel_out_front_wide_right"
+msgid "Front Wide Right"
+msgstr "முன் பரந்த வலது"
+
+#, java-printf-format
+msgctxt "spk_encoding_invalid"
+msgid "Invalid"
+msgstr "செல்லுபடியாகாத"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_8bit"
+msgid "8-bit PCM"
+msgstr "8-பிட் பிசிஎம்"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_16bit"
+msgid "16-bit PCM"
+msgstr "16-பிட் பிசிஎம்"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_16bit_big_endian"
+msgid "16-bit PCM (big endian)"
+msgstr "16-பிட் பிசிஎம் (பிக் எண்டியன்)"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_24bit"
+msgid "24-bit PCM"
+msgstr "24-பிட் பிசிஎம்"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_24bit_big_endian"
+msgid "24-bit PCM (big endian)"
+msgstr "24-பிட் பிசிஎம் (பிக் எண்டியன்)"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_32bit"
+msgid "32-bit (int) PCM"
+msgstr "32-பிட் (இன்ட்) பிசிஎம்"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_32bit_big_endian"
+msgid "32-bit (int) PCM (big endian)"
+msgstr "32-பிட் (இன்ட்) பிசிஎம் (பிக் எண்டியன்)"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_float"
+msgid "32-bit (float) PCM"
+msgstr "32-பிட் (மிதவை) பிசிஎம்"
+
+#, java-printf-format
+msgctxt "spk_encoding_mp3"
+msgid "MP3"
+msgstr "தனிமையில்"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_lc"
+msgid "AAC-LC"
+msgstr "AAC-LC"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_he_v1"
+msgid "HE-AAC v1"
+msgstr "He-aac v1"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_he_v2"
+msgid "HE-AAC v2"
+msgstr "He-aac v2"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_xhe"
+msgid "xHE-AAC"
+msgstr "என்-ஆக்"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_eld"
+msgid "AAC-ELD"
+msgstr "AAC-ELD"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_er_bsac"
+msgid "AAC ER BSAC"
+msgstr "AAC என்பது BSAC"
+
+#, java-printf-format
+msgctxt "spk_encoding_ac3"
+msgid "AC-3"
+msgstr "ஏசி -3"
+
+#, java-printf-format
+msgctxt "spk_encoding_e_ac3"
+msgid "E-AC-3"
+msgstr "E-AC-3"
+
+#, java-printf-format
+msgctxt "spk_encoding_e_ac3_joc"
+msgid "E-AC-3-JOC"
+msgstr "E-AC-3-JOC"
+
+#, java-printf-format
+msgctxt "spk_encoding_ac4"
+msgid "AC-4"
+msgstr "ஏசி -4"
+
+#, java-printf-format
+msgctxt "spk_encoding_dts"
+msgid "DTS"
+msgstr "டி.டி.எச்"
+
+#, java-printf-format
+msgctxt "spk_encoding_dts_hd"
+msgid "DTS-HD"
+msgstr "Dts-hd"
+
+#, java-printf-format
+msgctxt "spk_encoding_dolby_truehd"
+msgid "Dolby TrueHD"
+msgstr "டால்பி ட்ரூஅ்ட்"
+
+#, java-printf-format
+msgctxt "spk_encoding_opus"
+msgid "Opus"
+msgstr "ஓபச்"
+
+#, java-printf-format
+msgctxt "spk_encoding_dts_uhd_p2"
+msgid "DTS-X"
+msgstr "டி.டி.எச்-எக்ச்"
+
+#, java-printf-format
+msgctxt "device_type_bluetooth_a2dp"
+msgid "Bluetooth A2DP"
+msgstr "ஊடலை A2DP"
+
+#, java-printf-format
+msgctxt "device_type_builtin_speaker"
+msgid "Built-in speaker"
+msgstr "உள்ளமைக்கப்பட்ட பேச்சாளர்"
+
+#, java-printf-format
+msgctxt "device_type_wired_headset"
+msgid "Wired headset"
+msgstr "கம்பி எட்செட்"
+
+#, java-printf-format
+msgctxt "device_type_wired_headphones"
+msgid "Wired headphones"
+msgstr "கம்பி எட்ஃபோன்கள்"
+
+#, java-printf-format
+msgctxt "device_type_hdmi"
+msgid "HDMI"
+msgstr "HDMI"
+
+#, java-printf-format
+msgctxt "device_type_usb_device"
+msgid "USB device"
+msgstr "யூ.எச்.பி சாதனம்"
+
+#, java-printf-format
+msgctxt "device_type_usb_accessory"
+msgid "USB accessory"
+msgstr "யூ.எச்.பி துணை"
+
+#, java-printf-format
+msgctxt "device_type_dock"
+msgid "Dock"
+msgstr "கப்பல் கூடம்"
+
+#, java-printf-format
+msgctxt "device_type_usb_headset"
+msgid "USB headset"
+msgstr "யூ.எச்.பி எட்செட்"
+
+#, java-printf-format
+msgctxt "device_type_hearing_aid"
+msgid "Hearing aid"
+msgstr "கேட்கும் உதவி"
+
+#, java-printf-format
+msgctxt "device_type_ble_headset"
+msgid "Bluetooth LE Headset"
+msgstr "ஊடலை லு எட்செட்"
+
+#, java-printf-format
+msgctxt "device_type_hdmi_arc"
+msgid "HDMI Audio Return Channel"
+msgstr "HDMI ஆடியோ ரிட்டர்ன் சேனல்"
+
+#, java-printf-format
+msgctxt "device_type_hdmi_earc"
+msgid "HDMI Enhanced Audio Return Channel"
+msgstr "HDMI மேம்படுத்தப்பட்ட ஆடியோ ரிட்டர்ன் சேனல்"
+
+#, java-printf-format
+msgctxt "device_type_unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, java-printf-format
+msgctxt "device_type_dock_digital"
+msgid "Digital Dock"
+msgstr "டிசிட்டல் கப்பல்துறை"
+
+#, java-printf-format
+msgctxt "device_type_dock_analog"
+msgid "Analog Dock"
+msgstr "அனலாக் கப்பல்துறை"
+
+#, java-printf-format
+msgctxt "device_type_aux_line"
+msgid "AUX line"
+msgstr "வரிசையில்"
+
+#, java-printf-format
+msgctxt "device_type_line_analog"
+msgid "Analog line"
+msgstr "அனலாக் வரி"
+
+#, java-printf-format
+msgctxt "device_type_line_digital"
+msgid "Digital line"
+msgstr "டிசிட்டல் வரி"
+
+#, java-printf-format
+msgctxt "device_type_ble_speaker"
+msgid "Bluetooth LE Speaker"
+msgstr "ஊடலை லு ச்பீக்கர்"
+
+#, java-printf-format
+msgctxt "device_type_ble_broadcast"
+msgid "Bluetooth LE Broadcast"
+msgstr "ஊடலை லே ஒளிபரப்பு"
+
+#, java-printf-format
+msgctxt "settings_pixel_perfect_measurement_legacy_title"
+msgid "Pixel perfect text measurement"
+msgstr "படப்புள்ளி சரியான உரை அளவீட்டு"
+
+#, java-printf-format
+msgctxt "settings_pixel_perfect_measurement_legacy_summary"
+msgid ""
+"Before Android 15, text measurements are based on advances instead of "
+"bounding box. To avoid gradient clipping in lyrics, we add a few pixels to "
+"the sides. This however may cause unintended artifacts if kerning is "
+"enabled, which are mitigated if this toggle is enabled by rendering text to "
+"a bitmap and analysing it to extract proper spacing data."
+msgstr ""
+"ஆண்ட்ராய்டு 15 க்கு முன், உரை அளவீடுகள் எல்லை பெட்டிக்கு பதிலாக "
+"முன்னேற்றங்களை அடிப்படையாகக் கொண்டவை. பாடல் வரிகளில் சாய்வு கிளிப்பிங்கைத் "
+"தவிர்க்க, நாங்கள் சில பிக்சல்களை பக்கங்களில் சேர்க்கிறோம். எவ்வாறாயினும், "
+"கெர்னிங் இயக்கப்பட்டிருந்தால் இது திட்டமிடப்படாத கலைப்பொருட்களை "
+"ஏற்படுத்தக்கூடும், இது உரையை ஒரு பிட்மேப்பிற்கு வழங்குவதன் மூலமும், சரியான "
+"இடைவெளி தரவைப் பிரித்தெடுக்க பகுப்பாய்வு செய்வதன் மூலமும் இந்த மாற்று "
+"இயக்கப்பட்டிருந்தால் குறைக்கப்படும்."
+
+#, java-printf-format
+msgctxt "open_in_gramophone"
+msgid "Open in Gramophone"
+msgstr "கிராமபோனில் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_trim_lyrics_summary"
+msgid ""
+"Spaces before or after the first letter in a lyric line may have artistic "
+"value. If you disagree, you can turn on this toggle to remove these spaces "
+"automatically."
+msgstr ""
+"ஒரு பாடல் வரியில் முதல் கடிதத்திற்கு முன் அல்லது அதற்குப் பின் உள்ள இடங்கள் "
+"கலை மதிப்பைக் கொண்டிருக்கலாம். நீங்கள் உடன்படவில்லை என்றால், இந்த இடங்களை "
+"தானாக அகற்ற இந்த மாற்றத்தை இயக்கலாம்."
+
+#, java-printf-format
+msgctxt "cannot_play_file"
+msgid "Cannot play this file"
+msgstr "இந்த கோப்பை இயக்க முடியாது"
+
+#, java-printf-format
+msgctxt "settings_lyrics_no_animation"
+msgid "Disable animations"
+msgstr "அனிமேசன்களை முடக்கு"
+
+#, java-printf-format
+msgctxt "settings_lyrics_no_animation_summary"
+msgid "Disable all line transition lyric animations"
+msgstr "அனைத்து வரி மாற்றம் பாடல் அனிமேசன்களையும் முடக்கு"
+
+#, java-printf-format
+msgctxt "settings_lyrics_char_scaling_summary"
+msgid ""
+"Calculate lyric gradient velocity in characters per second instead of pixels"
+" per second. Might cause speed to look irregular due to differing character "
+"length in pixels."
+msgstr ""
+"நொடிக்கு பிக்சல்களுக்கு பதிலாக நொடிக்கு எழுத்துக்களில் பாடல் சாய்வு வேகத்தை "
+"கணக்கிடுங்கள். பிக்சல்களில் மாறுபட்ட எழுத்து நீளம் காரணமாக விரைவு "
+"ஒழுங்கற்றதாக இருக்கும்."
+
+#, java-printf-format
+msgctxt "settings_lyrics_char_scaling"
+msgid "Character-based scaling for lyric gradient"
+msgstr "பாடல் சாய்வுக்கான எழுத்து அடிப்படையிலான அளவிடுதல்"
+
+#, java-printf-format
+msgctxt "dialog_bitrate"
+msgid "Bitrate"
+msgstr "பிட்ரேட்"
+
+#, java-printf-format
+msgctxt "bitrate_format"
+msgid "%1$d kbps"
+msgstr "%1$d KBPS"
+
+#, java-printf-format
+msgctxt "bitrate_unknown"
+msgid "Unknown bitrate"
+msgstr "தெரியாத பிட்ரேட்"
+
+#, java-printf-format
+msgctxt "package_type_explainer"
+msgid ""
+"Gramophone APKs can be created by anyone, because Gramophone is open source. To help remembering where an APK came from, Gramophone provides the package type.\n"
+"\n"
+"The most common type is Release, which is obtained from F-Droid, Google Play, GitHub or IzzyOnDroid.\n"
+"The CI package type refers to automated builds made for every commit on GitHub. These builds may be unstable.\n"
+"For other package types, the name should give a reasonable hint to where the APK is from."
+msgstr ""
+"கிராமபோன் அப்க்சை யாராலும் உருவாக்க முடியும், ஏனெனில் கிராமபோன் திறந்த மூலமாகும். ஒரு APK எங்கிருந்து வந்தது என்பதை நினைவில் வைத்துக் கொள்ள, கிராமபோன் தொகுப்பு வகையை வழங்குகிறது. \n"
+"\n"
+"மிகவும் பொதுவான வகை வெளியீடு, இது எஃப்-டிராய்டு, கூகிள் பிளே, அறிவிலிமையம் அல்லது இச்யோண்ட்ராய்டு ஆகியவற்றிலிருந்து பெறப்படுகிறது. \n"
+"CI தொகுப்பு வகை என்பது கிட்அப்பில் ஒவ்வொரு உறுதிப்பாட்டிற்கும் செய்யப்பட்ட தானியங்கி கட்டடங்களைக் குறிக்கிறது. இந்த கட்டடங்கள் நிலையற்றதாக இருக்கலாம். \n"
+"பிற தொகுப்பு வகைகளுக்கு, APK எங்கிருந்து வருகிறது என்பதற்கு பெயர் ஒரு நியாயமான குறிப்பைக் கொடுக்க வேண்டும்."
+
+#, java-printf-format
+msgctxt "settings_open_source_licenses"
+msgid "Open source licenses"
+msgstr "திறந்த மூல உரிமங்கள்"
+
+#, java-printf-format
+msgctxt "oh_no"
+msgid "Oh no!"
+msgstr "ஓ!"
+
+#, java-printf-format
+msgctxt "gramophone_crashed_explainer2"
+msgid ""
+"Gramophone crashed :(\n"
+"\n"
+"Please send me a bug report so issues like what lead to this crash can be fixed!\n"
+"\n"
+"Each situation as unique as music, without your help it is likely this bug will <b>NOT</b> be fixed!"
+msgstr ""
+"கிராமபோன் செயலிழந்தது :( \n"
+"\n"
+"தயவுசெய்து எனக்கு ஒரு பிழை அறிக்கையை அனுப்புங்கள், எனவே இந்த விபத்துக்கு என்ன வழிவகுக்கும் என்பது போன்ற சிக்கல்களை சரிசெய்ய முடியும்! \n"
+"\n"
+"ஒவ்வொரு சூழ்நிலையும் இசையைப் போல தனித்துவமானது, உங்கள் உதவி இல்லாமல் இந்த பிழை <b> இல்லை </b> சரி செய்யப்படும்!"
+
+#, java-printf-format
+msgctxt "send_email"
+msgid "Send email"
+msgstr "மின்னஞ்சல் அனுப்புங்கள்"
+
+#, java-printf-format
+msgctxt "send_email_manually"
+msgid "Please send log to nift4dev@gmail.com - can't find mail app"
+msgstr ""
+"தயவுசெய்து பதிவை nift4dev@gmail.com க்கு அனுப்பவும் - அஞ்சல் பயன்பாட்டைக் "
+"கண்டுபிடிக்க முடியவில்லை"
+
+#, java-printf-format
+msgctxt "failed_to_parse_lyric"
+msgid "Failed to parse lyrics"
+msgstr "பாடல் வரிகளை அலசத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "audio_signal_chain"
+msgid "Audio signal chain"
+msgstr "ஆடியோ சிக்னல் சங்கிலி"
+
+#, java-printf-format
+msgctxt "audio_not_initialized"
+msgid "The audio playback system is not initialized. Try playing something!"
+msgstr ""
+"ஆடியோ பிளேபேக் அமைப்பு துவக்கப்படவில்லை. ஏதாவது விளையாட முயற்சிக்கவும்!"
+
+#, java-printf-format
+msgctxt "mix_port_flag_none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "mix_port_flag_bit_perfect"
+msgid "Bit perfect"
+msgstr "பிட் சரியானது"
+
+#, java-printf-format
+msgctxt "mix_port_flag_ultrasound"
+msgid "Ultrasound"
+msgstr "ஊடொலி"
+
+#, java-printf-format
+msgctxt "mix_port_flag_spatializer"
+msgid "Spatializer"
+msgstr "இடஞ்சார்ந்தவர்"
+
+#, java-printf-format
+msgctxt "mix_port_flag_gapless_offload"
+msgid "Gapless offload"
+msgstr "இடைவெளி இல்லாத ஆஃப்லோட்"
+
+#, java-printf-format
+msgctxt "mix_port_flag_incall_music"
+msgid "In-call music"
+msgstr "உள்ளீட்டு இசை"
+
+#, java-printf-format
+msgctxt "mix_port_flag_voip_rx"
+msgid "VoIP RX"
+msgstr "VoIP RX"
+
+#, java-printf-format
+msgctxt "mix_port_flag_mmap_noirq"
+msgid "MMAP (no irq)"
+msgstr "MMAP (இல்லை IRQ)"
+
+#, java-printf-format
+msgctxt "mix_port_flag_direct_pcm"
+msgid "Direct PCM"
+msgstr "நேரடி பிசிஎம்"
+
+#, java-printf-format
+msgctxt "mix_port_flag_iec958_nonaudio"
+msgid "IEC 958 (non-audio)"
+msgstr "IEC 958 (ஆடியோ அல்லாத)"
+
+#, java-printf-format
+msgctxt "mix_port_flag_sync"
+msgid "Sync"
+msgstr "ஒத்திசைவு"
+
+#, java-printf-format
+msgctxt "mix_port_flag_raw"
+msgid "Raw"
+msgstr "மூல"
+
+#, java-printf-format
+msgctxt "mix_port_flag_tts"
+msgid "TTS"
+msgstr "Tts"
+
+#, java-printf-format
+msgctxt "mix_port_flag_hw_av_sync"
+msgid "Hardware A/V Sync"
+msgstr "வன்பொருள் A/V ஒத்திசைவு"
+
+#, java-printf-format
+msgctxt "mix_port_flag_non_blocking"
+msgid "Non-blocking"
+msgstr "தடையற்றது"
+
+#, java-printf-format
+msgctxt "mix_port_flag_compress_offload"
+msgid "Compressed offload"
+msgstr "சுருக்கப்பட்ட ஆஃப்லோட்"
+
+#, java-printf-format
+msgctxt "mix_port_flag_deep_buffer"
+msgid "Deep buffer"
+msgstr "ஆழமான இடையக"
+
+#, java-printf-format
+msgctxt "mix_port_flag_fast"
+msgid "Fast"
+msgstr "வேகமாக"
+
+#, java-printf-format
+msgctxt "mix_port_flag_primary"
+msgid "Primary output"
+msgstr "முதன்மை வெளியீடு"
+
+#, java-printf-format
+msgctxt "mix_port_flag_direct"
+msgid "Direct"
+msgstr "நேரடி"
+
+#, java-printf-format
+msgctxt "mix_port_flag_unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_8_24bit"
+msgid "24-bit (8.24) PCM"
+msgstr "24-பிட் (8.24) பிசிஎம்"
+
+#, java-printf-format
+msgctxt "spk_encoding_amr_wb"
+msgid "AMR-WB"
+msgstr "AMR-WB"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac"
+msgid "AAC"
+msgstr "AAC"
+
+#, java-printf-format
+msgctxt "spk_encoding_vorbis"
+msgid "Vorbis"
+msgstr "வோர்பிச்"
+
+#, java-printf-format
+msgctxt "spk_encoding_iec61937"
+msgid "IEC 61937"
+msgstr "IEC 61937"
+
+#, java-printf-format
+msgctxt "spk_encoding_amr_wb_plus"
+msgid "AMR-WB+"
+msgstr "AMR-WB+"
+
+#, java-printf-format
+msgctxt "spk_encoding_amr_nb"
+msgid "AMR-NB"
+msgstr "AMR-NB"
+
+#, java-printf-format
+msgctxt "spk_encoding_evrc"
+msgid "EVRC"
+msgstr "EVRC"
+
+#, java-printf-format
+msgctxt "spk_encoding_evrcb"
+msgid "EVRC-B"
+msgstr "EVRC-B"
+
+#, java-printf-format
+msgctxt "spk_encoding_evrcwb"
+msgid "EVRC WB"
+msgstr "EVRC WB"
+
+#, java-printf-format
+msgctxt "spk_encoding_evrcnw"
+msgid "EVRC NW"
+msgstr "EVRC NW"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adif"
+msgid "AAC ADIF"
+msgstr "Aaic"
+
+#, java-printf-format
+msgctxt "spk_encoding_wma"
+msgid "WMA"
+msgstr "WMA"
+
+#, java-printf-format
+msgctxt "spk_encoding_wma_pro"
+msgid "WMA Pro"
+msgstr "WMA புரோ"
+
+#, java-printf-format
+msgctxt "spk_encoding_mp2"
+msgid "MPEG-2"
+msgstr "MPEG-2"
+
+#, java-printf-format
+msgctxt "spk_encoding_qcelp"
+msgid "QCELP"
+msgstr "Qcelp"
+
+#, java-printf-format
+msgctxt "spk_encoding_dsd"
+msgid "Direct Stream Digital"
+msgstr "நேரடி ச்ட்ரீம் டிசிட்டல்"
+
+#, java-printf-format
+msgctxt "spk_encoding_flac"
+msgid "FLAC"
+msgstr "Flac"
+
+#, java-printf-format
+msgctxt "spk_encoding_alac"
+msgid "ALAC"
+msgstr "அலாக்"
+
+#, java-printf-format
+msgctxt "spk_encoding_ape"
+msgid "Monkey's Audio"
+msgstr "குரங்கின் ஆடியோ"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts"
+msgid "AAC in ADTS"
+msgstr "ADTS இல் AAC"
+
+#, java-printf-format
+msgctxt "spk_encoding_sbc"
+msgid "SBC"
+msgstr "எச்.பி.சி."
+
+#, java-printf-format
+msgctxt "spk_encoding_aptx"
+msgid "aptX"
+msgstr "Aptx"
+
+#, java-printf-format
+msgctxt "spk_encoding_aptx_hd"
+msgid "aptX HD"
+msgstr "APTX HD"
+
+#, java-printf-format
+msgctxt "spk_encoding_ldac"
+msgid "LDAC"
+msgstr "எல்.டி.ஏ.சி."
+
+#, java-printf-format
+msgctxt "spk_encoding_mat"
+msgid "Dolby MAT"
+msgstr "டால்பி பாய்"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_latm"
+msgid "AAC in LATM"
+msgstr "லாட்மில் AAC"
+
+#, java-printf-format
+msgctxt "spk_encoding_celt"
+msgid "CELT"
+msgstr "செல்ட்"
+
+#, java-printf-format
+msgctxt "spk_encoding_aptx_adaptive"
+msgid "aptX Adaptive"
+msgstr "APTX தகவமைப்பு"
+
+#, java-printf-format
+msgctxt "spk_encoding_lhdc"
+msgid "LHDC"
+msgstr "LHDC"
+
+#, java-printf-format
+msgctxt "spk_encoding_lhdc_ll"
+msgid "LLAC (LHDC-LL)"
+msgstr "LLAC (LHDC-LL)"
+
+#, java-printf-format
+msgctxt "spk_encoding_aptx_twsp"
+msgid "aptX TWS+"
+msgstr "APX,"
+
+#, java-printf-format
+msgctxt "spk_encoding_lc3"
+msgid "LC3"
+msgstr "எல்.சி 3"
+
+#, java-printf-format
+msgctxt "spk_encoding_mpegh"
+msgid "MPEG-H"
+msgstr "Mpeg-h"
+
+#, java-printf-format
+msgctxt "spk_encoding_iec60958"
+msgid "IEC 60958"
+msgstr "IEC 60958"
+
+#, java-printf-format
+msgctxt "spk_encoding_dts_uhd"
+msgid "DTS-UHD"
+msgstr "DTS-UHD"
+
+#, java-printf-format
+msgctxt "spk_encoding_dra"
+msgid "DRA"
+msgstr "டிரா"
+
+#, java-printf-format
+msgctxt "spk_encoding_aptx_adaptive_qlea"
+msgid "aptX Adaptive over LE Audio"
+msgstr "LE ஆடியோ மீது APTX தகவமைப்பு"
+
+#, java-printf-format
+msgctxt "spk_encoding_aptx_adaptive_r4"
+msgid "aptX Adaptive R4"
+msgstr "APTX தகவமைப்பு R4"
+
+#, java-printf-format
+msgctxt "spk_encoding_dts_hd_ma"
+msgid "DTS-HD Master Audio"
+msgstr "DTS-HD மாச்டர் ஆடியோ"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_main"
+msgid "AAC Main"
+msgstr "AAC முதன்மை"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_ssr"
+msgid "AAC-SSR"
+msgstr "AAC-SSR"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_ltp"
+msgid "AAC-LTP"
+msgstr "AAC-LTP"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_scalable"
+msgid "AAC Scalable"
+msgstr "AAC அளவிடக்கூடியது"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_erlc"
+msgid "AAC ERLC"
+msgstr "AAC ERLC"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_ld"
+msgid "AAC-LD"
+msgstr "AAC-LD"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_main"
+msgid "AAC Main in ADTS"
+msgstr "ADTS இல் AAC முதன்மை"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_lc"
+msgid "AAC-LC in ADTS"
+msgstr "ADTS இல் AAC-LC"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_ssr"
+msgid "AAC-SSR in ADTS"
+msgstr "ADTS இல் AAC-SSR"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_ltp"
+msgid "AAC-LTP in ADTS"
+msgstr "ADTS இல் AAC-LTP"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_he_v1"
+msgid "HE-AAC v1 in ADTS"
+msgstr "ADTS இல் HE-AAC V1"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_he_v2"
+msgid "HE-AAC v2 in ADTS"
+msgstr "ADTS இல் HE-AAC V2"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_xhe"
+msgid "xHE-AAC in ADTS"
+msgstr "ADTS இல் XHE-AAC"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_ld"
+msgid "AAC-LD in ADTS"
+msgstr "AAC-LD ADTS"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_scalable"
+msgid "AAC Scalable in ADTS"
+msgstr "AAC இல் அளவிடக்கூடியது"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_erlc"
+msgid "AAC-ERLC in ADTS"
+msgstr "AAC-ERLC ADTS இல்"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_adts_eld"
+msgid "AAC-ELD in ADTS"
+msgstr "AAC- ADTS இல்"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_latm_lc"
+msgid "AAC-LC in LATM"
+msgstr "லாட்மில் AAC-LC"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_latm_he_v1"
+msgid "HE-AAC v1 in LATM"
+msgstr "லாட்மில் அவர்-ஆக் வி 1"
+
+#, java-printf-format
+msgctxt "spk_encoding_aac_latm_he_v2"
+msgid "HE-AAC v2 in LATM"
+msgstr "லாட்மில் அவர்-ஆக் வி 2"
+
+#, java-printf-format
+msgctxt "spk_encoding_mat_1_0"
+msgid "Dolby MAT 1.0"
+msgstr "டால்பி பாய் 1.0"
+
+#, java-printf-format
+msgctxt "spk_encoding_mat_2_0"
+msgid "Dolby MAT 2.0"
+msgstr "டால்பி பாய் 2.0"
+
+#, java-printf-format
+msgctxt "spk_encoding_mat_2_1"
+msgid "Dolby MAT 2.1"
+msgstr "டால்பி பாய் 2.1"
+
+#, java-printf-format
+msgctxt "spk_encoding_mpegh_sub_bl_l3"
+msgid "MPEG-H Baseline Profile L3"
+msgstr "MPEG-H அடிப்படை சுயவிவரம் L3"
+
+#, java-printf-format
+msgctxt "spk_encoding_mpegh_sub_bl_l4"
+msgid "MPEG-H Baseline Profile L4"
+msgstr "MPEG-H அடிப்படை சுயவிவரம் L4"
+
+#, java-printf-format
+msgctxt "spk_encoding_mpegh_sub_lc_l3"
+msgid "MPEG-H Low Complexity L3"
+msgstr "MPEG-H குறைந்த சிக்கலானது L3"
+
+#, java-printf-format
+msgctxt "spk_encoding_mpegh_sub_lc_l4"
+msgid "MPEG-H Low Complexity L4"
+msgstr "MPEG-H குறைந்த சிக்கலானது L4"
+
+#, java-printf-format
+msgctxt "spk_encoding_unknown"
+msgid "Unknown format %s"
+msgstr "அறியப்படாத வடிவம் %s"
+
+#, java-printf-format
+msgctxt "spk_encoding_unknown_d"
+msgid "Unknown format %d"
+msgstr "அறியப்படாத வடிவம் %d"
+
+#, java-printf-format
+msgctxt "crash_report"
+msgid "Crash report"
+msgstr "செயலிழப்பு அறிக்கை"
+
+#, java-printf-format
+msgctxt "what_were_you_doing"
+msgid ""
+"What were you doing in Gramophone when this crash happened? Please add as many details as possible to increase the chances of me being able to fix the problem.\n"
+"\n"
+"Please note that English is preferred for bug reports, but I will try to use machine translation if you send bug reports in another language."
+msgstr ""
+"இந்த விபத்து நடந்தபோது நீங்கள் கிராமபோனில் என்ன செய்து கொண்டிருந்தீர்கள்? சிக்கலை சரிசெய்ய எனக்கு வாய்ப்புகளை அதிகரிக்க முடிந்தவரை பல விவரங்களைச் சேர்க்கவும். \n"
+"\n"
+"பிழை அறிக்கைகளுக்கு ஆங்கிலம் விரும்பப்படுகிறது என்பதை நினைவில் கொள்க, ஆனால் நீங்கள் வேறொரு மொழியில் பிழை அறிக்கைகளை அனுப்பினால் இயந்திர மொழிபெயர்ப்பைப் பயன்படுத்த முயற்சிப்பேன்."
+
+#, java-printf-format
+msgctxt "email_clipboard"
+msgid "Copied e-mail address and text to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு மின்னஞ்சல் முகவரி மற்றும் உரையை நகலெடுத்தார்"
+
+#, java-printf-format
+msgctxt "settings_export_logs"
+msgid "Export app logs"
+msgstr "பயன்பாட்டு பதிவுகளை ஏற்றுமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "settings_audio_quality_info"
+msgid "Audio quality info"
+msgstr "ஆடியோ தர செய்தி"
+
+#, java-printf-format
+msgctxt "settings_audio_quality_info_summary"
+msgid "Show audio quality/format information on the player screen"
+msgstr "பிளேயர் திரையில் ஆடியோ தரம்/வடிவமைப்பு தகவல்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_16bit_offload"
+msgid "16-bit PCM Offload"
+msgstr "16-பிட் பிசிஎம் ஆஃப்லோட்"
+
+#, java-printf-format
+msgctxt "spk_encoding_pcm_24bit_offload"
+msgid "24-bit (8.24) PCM offload"
+msgstr "24-பிட் (8.24) பிசிஎம் ஆஃப்லோட்"
+
+#, java-printf-format
+msgctxt "spk_encoding_dts_lbr"
+msgid "DTS Express"
+msgstr "டி.டி.எச் எக்ச்பிரச்"
+
+#, java-printf-format
+msgctxt "settings_translation_auto_word"
+msgid "Auto-animate translations"
+msgstr "ஆட்டோ-மோச்ட் மொழிபெயர்ப்புகள்"
+
+#, java-printf-format
+msgctxt "settings_translation_auto_word_summary"
+msgid ""
+"Apply linear gradient to translation lines in word-synced lyric playback if "
+"translations do not have word-sync metadata"
+msgstr ""
+"மொழிபெயர்ப்பு சொற்கள்-ஒத்திசைவு மேனிலை தரவு இல்லையென்றால் "
+"சொல்-ஒத்திசைக்கப்பட்ட பாடல் பின்னணியில் மொழிபெயர்ப்பு வரிகளுக்கு நேரியல் "
+"சாய்வைப் பயன்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "cannot_find_file"
+msgid "Cannot find this file"
+msgstr "இந்த கோப்பைக் கண்டுபிடிக்க முடியவில்லை"
+
+#, java-printf-format
+msgctxt "settings_mp3_index_seeking_summary"
+msgid ""
+"Read all of the MP3 file into memory as required for seeking, instead of "
+"relying on potentially missing Xing header for VBR seeking. If this is "
+"disabled, CBR seeking will be used if Xing header is missing. A well-formed "
+"VBR MP3 file has a Xing header, hence this option shouldn't be needed in "
+"almost all cases. (Requires app restart to apply)"
+msgstr ""
+"VBR தேடலுக்காக காணாமல் போன சிங் தலைப்பை நம்புவதற்கு பதிலாக, தேடுவதற்குத் "
+"தேவையான அனைத்து எம்பி 3 கோப்புகளையும் நினைவகமாகப் படியுங்கள். இது "
+"முடக்கப்பட்டால், சிங் தலைப்பு காணவில்லை என்றால் சிபிஆர் தேடுவது "
+"பயன்படுத்தப்படும். நன்கு உருவாக்கப்பட்ட VBR MP3 கோப்பில் ஒரு சிங் தலைப்பு "
+"உள்ளது, எனவே இந்த விருப்பம் கிட்டத்தட்ட எல்லா நிகழ்வுகளிலும் தேவையில்லை. "
+"(விண்ணப்பிக்க பயன்பாட்டு மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "settings_mp3_index_seeking"
+msgid "MP3 index seeking"
+msgstr "எம்பி 3 அட்டவணை தேடுகிறது"
+
+#, java-printf-format
+msgctxt "enter_msg_for_dev_here"
+msgid "Enter message for developer here"
+msgstr "டெவலப்பருக்கான செய்தியை இங்கே உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "do_not_enter_email_enter_msg"
+msgid "Enter message, not an e-mail address"
+msgstr "செய்தியை உள்ளிடவும், மின்னஞ்சல் முகவரி அல்ல"
+
+#, java-printf-format
+msgctxt "log_will_auto_send"
+msgid "Logs will be sent automatically, explain the issue instead"
+msgstr "பதிவுகள் தானாக அனுப்பப்படும், அதற்கு பதிலாக சிக்கலை விளக்குங்கள்"
+
+#, java-printf-format
+msgctxt "log_attachment"
+msgid "Logs will be sent as attachment automatically"
+msgstr "பதிவுகள் தானாக இணைப்பாக அனுப்பப்படும்"
+
+#, java-printf-format
+msgctxt "create_playlist"
+msgid "Create playlist…"
+msgstr "பிளேலிச்ட்டை உருவாக்கவும்…"
+
+#, java-printf-format
+msgctxt "rename"
+msgid "Rename"
+msgstr "மறுபெயரிடுங்கள்"
+
+#, java-printf-format
+msgctxt "refreshing_wait"
+msgid "Refreshing, please wait…"
+msgstr "புத்துணர்ச்சி, தயவுசெய்து காத்திருங்கள்…"
+
+#, java-printf-format
+msgctxt "still_refreshing"
+msgid "Refreshing, step %1$d/%2$d: %3$s"
+msgstr "புத்துணர்ச்சி, படி %1$d/ %2$d: %3$s"
+
+#, java-printf-format
+msgctxt "did_you_know"
+msgid "Did you know…"
+msgstr "உங்களுக்குத் தெரியுமா…"
+
+#, java-printf-format
+msgctxt "refresh_did_you_know"
+msgid ""
+"Gramophone asks for an updated song list on every app start, and while Gramophone is running, it will detect new media automatically as well. This \"Refresh\" button will not reload the media in Gramophone, instead, it will ask your system to re-scan all files from all attached permanent storage devices (this is why it takes some time). This means, unless your system or other apps are malfunctioning, you will never need to use this feature.\n"
+"\n"
+"Missing some songs? Make sure to check Settings > Behaviour for the minimum length filter and folder blacklist, and confirm these settings are set to an expected value. For more possible reasons, please check our FAQ."
+msgstr ""
+"ஒவ்வொரு பயன்பாட்டு தொடக்கத்திலும் புதுப்பிக்கப்பட்ட பாடல் பட்டியலை கிராமபோன் கேட்கிறது, மேலும் கிராமபோன் இயங்கும்போது, ​​அது புதிய ஊடகத்தையும் தானாகவே கண்டறியும். இந்த \"புதுப்பிப்பு\" பொத்தானை கிராமபோனில் ஊடகங்களை மீண்டும் ஏற்றாது, அதற்கு பதிலாக, இணைக்கப்பட்ட அனைத்து நிரந்தர சேமிப்பக சாதனங்களிலிருந்தும் அனைத்து கோப்புகளையும் மீண்டும் வருடு செய்ய உங்கள் கணினியைக் கேட்கும் (இதனால்தான் சிறிது நேரம் ஆகும்). இதன் பொருள் என்னவென்றால், உங்கள் கணினி அல்லது பிற பயன்பாடுகள் செயலிழக்காவிட்டால், இந்த அம்சத்தை நீங்கள் ஒருபோதும் பயன்படுத்த வேண்டியதில்லை. \n"
+"\n"
+"சில பாடல்களைக் காணவில்லை? குறைந்தபட்ச நீள வடிகட்டி மற்றும் கோப்புறை தடுப்புப்பட்டியலுக்கான அமைப்புகள்> நடத்தை சரிபார்க்கவும், இந்த அமைப்புகள் எதிர்பார்க்கப்படும் மதிப்புக்கு அமைக்கப்பட்டிருப்பதை உறுதிப்படுத்தவும். மேலும் சாத்தியமான காரணங்களுக்காக, தயவுசெய்து எங்கள் கேள்விகளை சரிபார்க்கவும்."
+
+#, java-printf-format
+msgctxt "rename_failed_playlist"
+msgid "Failed to rename playlist"
+msgstr "பிளேலிச்ட்டை மறுபெயரிடுவதில் தோல்வி"
+
+#, java-printf-format
+msgctxt "playlist_name"
+msgid "Name of playlist"
+msgstr "பிளேலிச்ட்டின் பெயர்"
+
+#, java-printf-format
+msgctxt "create_failed_playlist"
+msgid "Failed to create playlist"
+msgstr "பிளேலிச்ட்டை உருவாக்கத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "rename_playlist"
+msgid "Rename playlist"
+msgstr "பிளேலிச்ட்டை மறுபெயரிடுங்கள்"
+
+#, java-printf-format
+msgctxt "edit_playlist_failed"
+msgid "Editing playlist failed"
+msgstr "பிளேலிச்ட் திருத்துதல் தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "add_to_playlist"
+msgid "Add to playlist"
+msgstr "பிளேலிச்ட்டில் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "settings_hq_output"
+msgid "High-quality output"
+msgstr "உயர்தர வெளியீடு"
+
+#, java-printf-format
+msgctxt "settings_hq_output_summary"
+msgid "Allow using any sample format instead of restricting to 16-bit int"
+msgstr ""
+"16-பிட் இன்டுக்கு கட்டுப்படுத்துவதற்கு பதிலாக எந்த மாதிரி வடிவமைப்பையும் "
+"பயன்படுத்த அனுமதிக்கவும்"
+
+#, java-printf-format
+msgctxt "playlist_editing_pref_desc"
+msgid ""
+"Allows to add songs to playlists (moving / removing not yet implemented)"
+msgstr ""
+"பிளேலிச்ட்களில் பாடல்களைச் சேர்க்க அனுமதிக்கிறது (இன்னும் "
+"செயல்படுத்தப்படவில்லை)"
+
+#, java-printf-format
+msgctxt "no_app_found"
+msgid "No app found that can do this"
+msgstr "இதைச் செய்யக்கூடிய எந்த பயன்பாடும் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "contributors_nift4"
+msgid "Maintainer / Lead Developer"
+msgstr "பராமரிப்பாளர் / முன்னணி உருவாக்குபவர்"
+
+#, java-printf-format
+msgctxt "contributors_123duo3"
+msgid "Lead Designer"
+msgstr "முன்னணி வடிவமைப்பாளர்"
+
+#, java-printf-format
+msgctxt "contributors_akanetan"
+msgid "Original creator, retired developer"
+msgstr "அசல் படைப்பாளி, ஓய்வு பெற்ற உருவாக்குபவர்"
+
+#, java-printf-format
+msgctxt "contributors_developer"
+msgid "Developer"
+msgstr "உருவாக்குநர்"
+
+#, java-printf-format
+msgctxt "contributors_wstxda"
+msgid "designed one variation of app icon"
+msgstr "பயன்பாட்டு ஐகானின் ஒரு மாறுபாடு வடிவமைக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "contributors_pxeemo"
+msgid "Help & testing of new lyrics"
+msgstr "புதிய பாடல்களின் உதவி மற்றும் சோதனை"
+
+#, java-printf-format
+msgctxt "contributors_lambada10"
+msgid "providing lyric samples & SongSync"
+msgstr "பாடல் மாதிரிகள் மற்றும் பாடல்கள்"
+
+#, java-printf-format
+msgctxt "contributors_code_contributions"
+msgid "Code contributions"
+msgstr "குறியீடு பங்களிப்புகள்"
+
+#, java-printf-format
+msgctxt "contributors_yuyuko1024"
+msgid "Squiggly progress bar"
+msgstr "மோசமான முன்னேற்றப் பட்டி"
+
+#, java-printf-format
+msgctxt "contributors_ghhccghk"
+msgid "Status Bar lyrics"
+msgstr "நிலை பட்டை பாடல்"

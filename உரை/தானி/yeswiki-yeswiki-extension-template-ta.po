@@ -1,0 +1,1241 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (YesWiki)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 17:51+0200\n"
+"PO-Revision-Date: 2025-06-10 21:52\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/yeswiki/yeswiki-extension-template/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+msgctxt "return[]->'TEMPLATE_ACTION'"
+msgid "Action"
+msgstr "செயல்"
+
+msgctxt "return[]->'TEMPLATE_FILE_NOT_FOUND'"
+msgid "Template non trouvé"
+msgstr "வார்ப்புரு அல்ல"
+
+msgctxt "return[]->'TEMPLATE_ACTION_BUTTON'"
+msgid "Action {{button …}}"
+msgstr "செயல் {{button ...}}"
+
+msgctxt "return[]->'TEMPLATE_LINK_PARAMETER_REQUIRED'"
+msgid "paramètre \"link\" obligatoire"
+msgstr "கட்டாய \"இணைப்பு\" அளவுரு"
+
+msgctxt "return[]->'TEMPLATE_RSS_LAST_CHANGES'"
+msgid "Flux RSS des dernières pages modifiées"
+msgstr "அண்மைக் கால மாற்றியமைக்கப்பட்ட பக்கங்களுக்கான RSS ஊட்டம்"
+
+msgctxt "return[]->'TEMPLATE_RSS_LAST_COMMENTS'"
+msgid "Flux RSS des derniers commentaires"
+msgstr "ஃப்ளக்ச் ஆர்எச்எச் டெச் டெர்னியர்ச் கருத்துரை"
+
+msgctxt "return[]->'TEMPLATE_NO_DEFAULT_THEME'"
+msgid ""
+"Les fichiers du template par défaut ont disparu, l'utilisation des templates"
+" est impossible.<br />Veuillez réinstaller le tools template ou contacter "
+"l'administrateur du site"
+msgstr ""
+"Les fichiers du template par défaut ont disparu, l'utilisation des templates"
+" est impossible.<br />Veuillez réinstaller le tools template ou contacter "
+"l'administrateur du site"
+
+msgctxt "return[]->'TEMPLATE_CUSTOM_GRAPHICS'"
+msgid "Apparence de la page"
+msgstr "தோற்றம் டி லா பக்கம்"
+
+msgctxt "return[]->'TEMPLATE_SAVE'"
+msgid "Sauver"
+msgstr "சாவர்"
+
+msgctxt "return[]->'TEMPLATE_REEDIT'"
+msgid "Éditer de nouveau"
+msgstr "எடிட்டர் டி நோவியோ"
+
+msgctxt "return[]->'TEMPLATE_APPLY'"
+msgid "Appliquer"
+msgstr "அப்ளிக்வர்"
+
+msgctxt "return[]->'TEMPLATE_APPLY_ALL'"
+msgid "Appliquer pour tout le site"
+msgstr "அப்ளிகர் போர் டவுட் லே தளத்தை ஊற்றவும்"
+
+msgctxt "return[]->'TEMPLATE_CANCEL'"
+msgid "Annuler"
+msgstr "ANNULER"
+
+msgctxt "return[]->'TEMPLATE_THEME'"
+msgid "Thème"
+msgstr "கருப்பொருள்"
+
+msgctxt "return[]->'TEMPLATE_SQUELETTE'"
+msgid "Squelette"
+msgstr "ச்கெலெட்"
+
+msgctxt "return[]->'TEMPLATE_STYLE'"
+msgid "Style"
+msgstr "சூல் தண்டு"
+
+msgctxt "return[]->'TEMPLATE_PRESET'"
+msgid "Preset"
+msgstr "முன்னமைவு"
+
+msgctxt "return[]->'TEMPLATE_DEFAULT_PRESET'"
+msgid "Preset par défaut"
+msgstr "முன்னமைவு par defaut"
+
+msgctxt "return[]->'TEMPLATE_BG_IMAGE'"
+msgid "Image de fond"
+msgstr "இமேச் டி ஃபாண்ட்"
+
+msgctxt "return[]->'TEMPLATE_ERROR_NO_DATA'"
+msgid "ERREUR : rien à ajouter dans les meta-données."
+msgstr "பிழை: மெட்டா-டானீசில் சேர்க்க எதுவும் இல்லை."
+
+msgctxt "return[]->'TEMPLATE_ERROR_NO_ACCESS'"
+msgid "ERREUR : pas les droits d’accès."
+msgstr "பிழை: அணுகல் உரிமைகள் அல்ல."
+
+msgctxt "return[]->'TEMPLATE_VIEW_PAGE'"
+msgid "Voir la page"
+msgstr "Voir LA பக்கம்"
+
+msgctxt "return[]->'TEMPLATE_EDIT'"
+msgid "éditer"
+msgstr "திருத்து"
+
+msgctxt "return[]->'TEMPLATE_EDIT_THIS_PAGE'"
+msgid "Éditer la page"
+msgstr "பக்கத்தை வெளியிடுங்கள்"
+
+msgctxt "return[]->'TEMPLATE_WIKINAME_IS_NOT_A_PAGE'"
+msgid "Ce ChatMot n'est pas une page"
+msgstr "Ce chatmot n'est pas une பக்கம்"
+
+msgctxt "return[]->'TEMPLATE_CLICK_TO_SEE_REVISIONS'"
+msgid "Les dernières modifications de la page"
+msgstr "அண்மைக் கால பக்கம் மாறுகிறது"
+
+msgctxt "return[]->'TEMPLATE_LAST_UPDATE'"
+msgid "Dernière édition :"
+msgstr "டெர்னியர் எலிசன்:"
+
+msgctxt "return[]->'TEMPLATE_YOU'"
+msgid "vous"
+msgstr "நீங்கள்"
+
+msgctxt "return[]->'TEMPLATE_NO_OWNER'"
+msgid "Pas de propriétaire"
+msgstr "பாச் டி ப்ராப்ரிடேர்"
+
+msgctxt "return[]->'TEMPLATE_CLAIM'"
+msgid "Appropriation"
+msgstr "ஒதுக்கீடு"
+
+msgctxt "return[]->'TEMPLATE_CLICK_TO_CHANGE_PERMISSIONS'"
+msgid "Éditer les permissions de la page"
+msgstr "பக்கத்தில் அனுமதிகளைத் திருத்தவும்"
+
+msgctxt "return[]->'TEMPLATE_PERMISSIONS'"
+msgid "Permissions"
+msgstr "அனுமதிகள்"
+
+msgctxt "return[]->'TEMPLATE_DELETE'"
+msgid "Supprimer"
+msgstr "SUPPRIMER"
+
+msgctxt "return[]->'TEMPLATE_DELETE_PAGE'"
+msgid "Supprimer la page"
+msgstr "Supprimer LA பக்கம்"
+
+msgctxt "return[]->'TEMPLATE_CLICK_TO_SEE_REFERENCES'"
+msgid "Les URLs faisant référence à la page"
+msgstr "பக்கத்தைக் குறிக்கும் முகவரி கள்"
+
+msgctxt "return[]->'TEMPLATE_REFERENCES'"
+msgid "Références"
+msgstr "குறிப்புகள்"
+
+msgctxt "return[]->'TEMPLATE_SLIDESHOW_MODE'"
+msgid "Lancer cette page en mode diaporama."
+msgstr "லான்சர் செட் பேச் என் பயன்முறை டய்போராமா."
+
+msgctxt "return[]->'TEMPLATE_SLIDESHOW'"
+msgid "Diaporama"
+msgstr "டய்போராமா"
+
+msgctxt "return[]->'TEMPLATE_DYNAMIC_SLIDESHOW'"
+msgid "Diaporama dynamique"
+msgstr "டயோபாராமா மாறும்"
+
+msgctxt "return[]->'TEMPLATE_CLASSIC_SLIDESHOW'"
+msgid "Diaporama classique"
+msgstr "டயபோராமா கிளாசிக்"
+
+msgctxt "return[]->'TEMPLATE_SEE_SHARING_OPTIONS'"
+msgid "Partager la page"
+msgstr "Partager la பக்கம்"
+
+msgctxt "return[]->'TEMPLATE_SHARE'"
+msgid "Partager"
+msgstr "பங்கு"
+
+msgctxt "return[]->'TEMPLATE_OPEN_COMMENTS'"
+msgid "Ouvrir les commentaires"
+msgstr "ஓவ்ரிர் லெச் கருத்துரை"
+
+msgctxt "return[]->'TEMPLATE_CLOSE_COMMENTS'"
+msgid "Fermer les commentaires"
+msgstr "ஃபெர்மர் லெச் கருத்துரை"
+
+msgctxt "return[]->'TEMPLATE_FOR_CONNECTED_PEOPLE'"
+msgid "Pour les personnes connectées"
+msgstr "லெச் பெர்சனென்ச் இணைப்புகளை ஊற்றவும்"
+
+msgctxt "return[]->'TEMPLATE_FOR_MEMBERS_OF_GROUP'"
+msgid "Pour les membres du groupe"
+msgstr "லெச் மெக்ச் டு குழுமத்தை ஊற்றவும்"
+
+msgctxt "return[]->'TEMPLATE_SEE_ATTACHED_FILES'"
+msgid "Voir les fichiers attachés à la page"
+msgstr "பக்கத்தில் இணைக்கப்பட்ட கோப்புகளைப் பார்க்கவும்"
+
+msgctxt "return[]->'TEMPLATE_DUPLICATE'"
+msgid "Dupliquer"
+msgstr "நகல்"
+
+msgctxt "return[]->'TEMPLATE_DUPLICATE_PAGE'"
+msgid "Dupliquer la page"
+msgstr "பக்கத்தை நகல்"
+
+msgctxt "return[]->'TEMPLATE_DUPLICATE_LIST'"
+msgid "Dupliquer la liste"
+msgstr "பட்டியலை நகல்"
+
+msgctxt "return[]->'TEMPLATE_DUPLICATE_ENTRY'"
+msgid "Dupliquer la fiche"
+msgstr "கோப்பை நகல்"
+
+msgctxt "return[]->'TEMPLATE_DUPLICATE_LOCALLY'"
+msgid "Dans ce YesWiki"
+msgstr "இந்த யெச்விகியில்"
+
+msgctxt "return[]->'TEMPLATE_DUPLICATE_IN_ANOTHER_WIKI'"
+msgid "Dans un autre YesWiki"
+msgstr "மற்றொரு யெச்விகியில்"
+
+msgctxt "return[]->'DIAPORAMA_PAGE_PARAM_MISSING'"
+msgid "Action diaporama : paramètre \"page\" obligatoire."
+msgstr "ச்லைடுசோ செயல்: \"பக்கம்\" அளவுரு கட்டாய."
+
+msgctxt "return[]->'DIAPORAMA_TEMPLATE_PARAM_ERROR'"
+msgid ""
+"Action diaporama : le paramètre \"template\" pointe sur un fichier "
+"inexistant ou illisible. Le template par défaut sera utilisé."
+msgstr ""
+"ச்லைடுசோ செயல்: \"வார்ப்புரு\" அளவுரு இல்லாத அல்லது சட்டவிரோதமானது கோப்பை "
+"சுட்டிக்காட்டுகிறது. இயல்புநிலை வார்ப்புரு பயன்படுத்தப்படும்."
+
+msgctxt "return[]->'TEMPLATE_DATE_FORMAT'"
+msgid "d M Y"
+msgstr "௳ ௴ ௵"
+
+msgctxt "return[]->'TEMPLATE_SEARCH_INPUT_TITLE'"
+msgid "Rechercher dans YesWiki [alt-shift-C]"
+msgstr "ரீச்சர் டான்ச் யெச்விகி [Alt-Shift-C]"
+
+msgctxt "return[]->'TEMPLATE_SEARCH_BUTTON_TITLE'"
+msgid "Rechercher les pages comportant ce texte."
+msgstr "ரீச்சர் லெச் பக்கங்கள் காம்போர்டன்ட் சிஇ டெக்ச்டே."
+
+msgctxt "return[]->'TEMPLATE_SEARCH_PLACEHOLDER'"
+msgid "Rechercher …"
+msgstr "ஆராய்ச்சிக்கு…"
+
+msgctxt "return[]->'TEMPLATE_SEARCH'"
+msgid "Rechercher"
+msgstr "மறுசீரமைப்பு"
+
+msgctxt "return[]->'TEMPLATE_WIDGET_TITLE'"
+msgid "Widget : intégrer le contenu de cette page ailleurs"
+msgstr ""
+"விட்செட்: இந்த பக்கத்தின் உள்ளடக்கத்தை வேறு இடத்திற்கு ஒருங்கிணைக்கவும்"
+
+msgctxt "return[]->'TEMPLATE_WIDGET_COPY_PASTE'"
+msgid ""
+"Copier-collez le code HTML ci-dessus pour intégrer le contenu tel qu'il "
+"apparait ci dessous."
+msgstr ""
+"கீழே தோன்றும்படி உள்ளடக்கத்தை ஒருங்கிணைக்க மேலே உள்ள உஉகுமொ குறியீட்டை "
+"நகலெடுத்து பம்ப் செய்யுங்கள்."
+
+msgctxt "return[]->'TEMPLATE_SHARE_INCLUDE_CODE'"
+msgid "Code d'intégration de contenu dans une page HTML"
+msgstr "உஉகுமொ பக்கத்தில் உள்ளடக்க ஒருங்கிணைப்புக் குறியீடு"
+
+msgctxt "return[]->'TEMPLATE_SHARE_MUST_READ'"
+msgid "A lire : "
+msgstr "ஒரு லைர்: "
+
+msgctxt "return[]->'TEMPLATE_SHARE_FACEBOOK'"
+msgid "Partager sur Facebook"
+msgstr "Partager சுர் facebook"
+
+msgctxt "return[]->'TEMPLATE_SHARE_TWITTER'"
+msgid "Partager sur Twitter"
+msgstr "Partager சுர் twitter"
+
+msgctxt "return[]->'TEMPLATE_SHARE_NETVIBES'"
+msgid "Partager sur Netvibes"
+msgstr "Partager சுர் netvibes"
+
+msgctxt "return[]->'TEMPLATE_SHARE_DELICIOUS'"
+msgid "Partager sur Delicious"
+msgstr "Partager சுர் சுவையானது"
+
+msgctxt "return[]->'TEMPLATE_SHARE_GOOGLEREADER'"
+msgid "Partager sur Google Reader"
+msgstr "பார்ட்டேசர் சுர் கூகிள் ரீடர்"
+
+msgctxt "return[]->'TEMPLATE_SHARE_MAIL'"
+msgid "Envoyer le contenu de cette page par mail"
+msgstr "தூதர் லு கான்டெனு டி செட் பேச் பார் மெயில்"
+
+msgctxt "return[]->'TEMPLATE_ADD_SHARE_BUTTON'"
+msgid "Ajouter un bouton de partage en haut à droite de la page"
+msgstr "பக்கத்தின் மேல் வலதுபுறத்தில் பகிர்வு பொத்தானைச் சேர்க்கவும்"
+
+msgctxt "return[]->'TEMPLATE_ADD_EDIT_BAR'"
+msgid "Ajouter la barre d'édition en bas de page"
+msgstr "பக்கத்தின் கீழே பதிப்பு பட்டியைச் சேர்க்கவும்"
+
+msgctxt "return[]->'TEMPLATE_NO_ACCESS_TO_PAGE'"
+msgid "Vous n'avez pas le droit d'accéder à cette page."
+msgstr "இந்த பக்கத்தை அணுக உங்களுக்கு இசைவு இல்லை."
+
+msgctxt "return[]->'TEMPLATE_PAGE_DOESNT_EXIST'"
+msgid "Page non existante"
+msgstr "பக்கம் இல்லை"
+
+msgctxt "return[]->'PAGE_CANNOT_BE_SLIDESHOW'"
+msgid ""
+"La page ne peut pas être découpée en diapositives (pas de titres niveau 2)"
+msgstr "பக்கத்தை ச்லைடுகளாக வெட்ட முடியாது (நிலை 2 தலைப்புகள் இல்லை)"
+
+msgctxt "return[]->'TEMPLATE_CUSTOM_PAGE'"
+msgid "Préférences de la page"
+msgstr "பக்க விருப்பத்தேர்வுகள்"
+
+msgctxt "return[]->'TEMPLATE_PAGE_PREFERENCES'"
+msgid "Paramètres de la page"
+msgstr "பக்க அமைப்புகள்"
+
+msgctxt "return[]->'PAGE_LANGUAGE'"
+msgid "Langue de la page"
+msgstr "லாங் டி லா பக்கம்"
+
+msgctxt "return[]->'CHOOSE_PAGE_FOR'"
+msgid "Choisir une page pour"
+msgstr "Soisir une பக்கம் ஊற்றவும்"
+
+msgctxt "return[]->'HORIZONTAL_MENU_PAGE'"
+msgid "le menu horizontal"
+msgstr "லு பட்டியல் கிடைமட்டமாக"
+
+msgctxt "return[]->'FAST_ACCESS_RIGHT_PAGE'"
+msgid "les raccourcis en haut à droite"
+msgstr "மேல் வலதுபுறத்தில் குறுக்குவழிகள்"
+
+msgctxt "return[]->'HEADER_PAGE'"
+msgid "l'entête (bandeau)"
+msgstr "தலைப்பு (எட் பேண்ட்)"
+
+msgctxt "return[]->'FOOTER_PAGE'"
+msgid "le pied de page"
+msgstr "லு பைட் டி பக்கம்"
+
+msgctxt "return[]->'FOR_2_OR_3_COLUMN_THEMES'"
+msgid "Pour les thèmes à 2 ou 3 colonnes"
+msgstr "2 அல்லது 3 நெடுவரிசைகளில் உள்ள கருப்பொருள்களுக்கு"
+
+msgctxt "return[]->'VERTICAL_MENU_PAGE'"
+msgid "le menu vertical"
+msgstr "LE பட்டியல் செங்குத்து"
+
+msgctxt "return[]->'RIGHT_COLUMN_PAGE'"
+msgid "la colonne de droite"
+msgstr "லா கோலன் டி டிராயிட்"
+
+msgctxt "return[]->'RUNNING_WITH'"
+msgid "Galope sous"
+msgstr "கலோப் ச ous ச்"
+
+msgctxt "return[]->'TEMPLATE_ACTION_SECTION'"
+msgid "Action {{section …}}"
+msgstr "செயல் {{பிரிவு…}}"
+
+msgctxt "return[]->'TEMPLATE_ELEM_SECTION_NOT_CLOSED'"
+msgid ""
+"l'action {{section …}} doit être fermée par une action {{end "
+"elem=\"section\"}}"
+msgstr "செயல் {{பிரிவு…}} ஒரு செயலால் மூடப்பட வேண்டும் {{end elem = \"பிரிவு\"}}"
+
+msgctxt "return[]->'TEMPLATE_NO_THEME_FILES'"
+msgid "Fichiers du thème manquants"
+msgstr "கருப்பொருள் கோப்புகளைக் காணவில்லை"
+
+msgctxt "return[]->'TEMPLATE_DEFAULT_THEME_USED'"
+msgid "Le thème par défaut est donc utilisé"
+msgstr "எனவே இயல்புநிலை கருப்பொருள் பயன்படுத்தப்படுகிறது"
+
+msgctxt "return[]->'TEMPLATE_ACTION_END'"
+msgid "Action {{end …}}"
+msgstr "செயல் {{முடிவு…}}"
+
+msgctxt "return[]->'TEMPLATE_ELEM_PARAMETER_REQUIRED'"
+msgid "paramètre \"elem\" obligatoire"
+msgstr "கட்டாய \"எலிம்\" அளவுரு"
+
+msgctxt "return[]->'TEMPLATE_ACTION_COL'"
+msgid "Action {{col …}}"
+msgstr "செயல் {{col…}}"
+
+msgctxt "return[]->'TEMPLATE_SIZE_PARAMETER_REQUIRED'"
+msgid "paramètre \"size\" obligatoire"
+msgstr "கட்டாய \"அளவு\" அளவுரு"
+
+msgctxt "return[]->'TEMPLATE_SIZE_PARAMETER_MUST_BE_INTEGER_FROM_1_TO_12'"
+msgid "le paramètre \"size\" doit être un entier compris entre 1 et 12"
+msgstr "\"அளவு\" அளவுரு 1 முதல் 12 வரை ஒரு முழு எண்ணாக இருக்க வேண்டும்"
+
+msgctxt "return[]->'TEMPLATE_ELEM_COL_NOT_CLOSED'"
+msgid "l'action {{col …}} doit être fermée par une action {{end elem=\"col\"}}"
+msgstr "செயல் {{col…}} ஒரு செயலால் மூடப்பட வேண்டும் {{end elem = \"col\"}}"
+
+msgctxt "return[]->'TEMPLATE_ACTION_GRID'"
+msgid "Action {{grid …}}"
+msgstr "செயல் {{கட்டம்…}}"
+
+msgctxt "return[]->'TEMPLATE_ELEM_GRID_NOT_CLOSED'"
+msgid "l'action {{grid …}} doit être fermée par une action {{end elem=\"grid\"}}"
+msgstr "செயல் {{கட்டம்…}} ஒரு செயலால் மூடப்பட வேண்டும் {{end elem = \"கட்டம்\"}}"
+
+msgctxt "return[]->'TEMPLATE_ACTION_PANEL'"
+msgid "Action {{panel …}}"
+msgstr "செயல் {{குழு…}}"
+
+msgctxt "return[]->'TEMPLATE_ELEM_PANEL_NOT_CLOSED'"
+msgid ""
+"l'action {{panel …}} doit être fermée par une action {{end elem=\"panel\"}}"
+msgstr "செயல் {{பேனல்…}} ஒரு செயலால் மூடப்பட வேண்டும் {{end elem = \"panel\"}}"
+
+msgctxt "return[]->'TEMPLATE_TITLE_PARAMETER_REQUIRED'"
+msgid "Paramètre title obligatoire"
+msgstr "கட்டாய தலைப்பு அளவுரு"
+
+msgctxt "return[]->'TEMPLATE_ACTION_ACCORDION'"
+msgid "Action {{accordion …}}"
+msgstr "செயல் {{துருத்தி…}}"
+
+msgctxt "return[]->'TEMPLATE_ELEM_ACORDION_NOT_CLOSED'"
+msgid ""
+"l'action {{accordion …}} doit être fermée par une action {{end "
+"elem=\"accordion\"}}"
+msgstr ""
+"செயல் {{நிலைப்படுத்தல்…}} ஒரு செயலால் மூடப்பட வேண்டும் {{end elem = "
+"\"துருத்தி\"}}"
+
+msgctxt "return[]->'TEMPLATE_ACTION_BUTTONDROPDOWN'"
+msgid "Action {{buttondropdown …}}"
+msgstr "செயல் {{பொத்தான் டிராப்டவுன்…}}"
+
+msgctxt "return[]->'TEMPLATE_ELEM_BUTTONDROPDOWN_NOT_CLOSED'"
+msgid ""
+"l'action {{buttondropdown …}} doit être fermée par une action {{end "
+"elem=\"buttondropdown\"}}"
+msgstr ""
+"செயல் {{பொத்தான் டிராப் டவுன்…}} ஒரு செயலால் மூடப்பட வேண்டும் {{end elem = "
+"\"பொத்தான் டிராப் டவுன்\"}}"
+
+msgctxt "return[]->'TEMPLATE_ACTION_FOR_ADMINS_ONLY'"
+msgid "action réservée aux administrateurs"
+msgstr "அதிரடி réservée aux நிர்வாகிகள்"
+
+msgctxt "return[]->'TEMPLATE_CONFIRM_DELETE_PAGE'"
+msgid "Etes vous sûr(e) de vouloir supprimer définitivement cette page ?"
+msgstr "Etes vous sûr (e) de vouloir supprimer definitivement cete பக்கம்?"
+
+msgctxt "return[]->'TEMPLATE_PAGE'"
+msgid "Page"
+msgstr "பக்கம்"
+
+msgctxt "return[]->'TEMPLATE_LAST_MODIFIED'"
+msgid "Dernière modification"
+msgstr "டெர்னியர் மாற்றம்"
+
+msgctxt "return[]->'TEMPLATE_OWNER'"
+msgid "Propriétaire"
+msgstr "உரிமையாளர்"
+
+msgctxt "return[]->'TEMPLATE_ACTIONS'"
+msgid "Actions"
+msgstr "செயல்கள்"
+
+msgctxt "return[]->'TEMPLATE_MODIFY'"
+msgid "Modifier"
+msgstr "மாற்றியமைப்பாளர்"
+
+msgctxt "return[]->'TEMPLATE_FORCE_TEMPLATE'"
+msgid "Forcer le choix pour tout le wiki."
+msgstr "ஃபோர்சர் லு சோயிக்ச் லு விக்கி பவர் டவுட்."
+
+msgctxt "return[]->'TEMPLATE_PRIMARY_COLOR'"
+msgid "Couleur primaire"
+msgstr "கூலூர் ப்ரிமெய்ர்"
+
+msgctxt "return[]->'TEMPLATE_SECONDARY_COLOR_1'"
+msgid "Couleur secondaire 1"
+msgstr "கூலூர் செகண்டேர் 1"
+
+msgctxt "return[]->'TEMPLATE_SECONDARY_COLOR_2'"
+msgid "Couleur secondaire 2"
+msgstr "கூலூர் செகண்டேர் 2"
+
+msgctxt "return[]->'TEMPLATE_NEUTRAL_COLOR'"
+msgid "Couleur de texte"
+msgstr "கூலூர் டி டெக்ச்டே"
+
+msgctxt "return[]->'TEMPLATE_SOFT_COLOR'"
+msgid "Couleur neutre"
+msgstr "கூலூர் நியூட்ரே"
+
+msgctxt "return[]->'TEMPLATE_LIGHT_COLOR'"
+msgid "Couleur claire"
+msgstr "கூலூர் கிளாரி"
+
+msgctxt "return[]->'TEMPLATE_MAIN_TEXT_SIZE'"
+msgid "Taille de texte"
+msgstr "டெய்ல் டி டெக்ச்டே"
+
+msgctxt "return[]->'TEMPLATE_MAIN_TEXT_FONT'"
+msgid "Police des textes"
+msgstr "பொலிச் டெச் உரை"
+
+msgctxt "return[]->'TEMPLATE_MAIN_TITLE_FONT'"
+msgid "Police des titres"
+msgstr "பொலிச் டெச் டைட்ரெச்"
+
+msgctxt "return[]->'TEMPLATE_CHOOSE_FONT'"
+msgid "Choisir une police"
+msgstr "சோய்சிர் யு.என்.இ போலீசார்"
+
+msgctxt "return[]->'TEMPLATE_SEARCH_POINTS'"
+msgid "Rechercher…"
+msgstr "ஆராய்ச்சிக்கு…"
+
+msgctxt "return[]->'TEMPLATE_DELETE_CSS_PRESET'"
+msgid "Voulez-vous supprimer le preset personnalisé"
+msgstr "வவுலெச்-வவுச் சப்ம்பிரிமர் லு முன்னமைவு ஆளுமை"
+
+msgctxt "return[]->'TEMPLATE_ADD_CSS_PRESET_API_HINT'"
+msgid "Sauvegarde un fichier preset personnalisé"
+msgstr "Savegarde Un fichier முன்னமைக்கப்பட்ட ஆளுமை"
+
+msgctxt "return[]->'TEMPLATE_DELETE_CSS_PRESET_API_HINT'"
+msgid "Supprime un fichier preset personnalisé"
+msgstr "Supprime un fichier முன்னமைக்கப்பட்ட ஆளுமை"
+
+msgctxt "return[]->'TEMPLATE_PRESET_FILENAME'"
+msgid "Nom du preset"
+msgstr "நோம் டு முன்னமைவு"
+
+msgctxt "return[]->'TEMPLATE_THEME_NOT_SAVE'"
+msgid "Thème non sauvegardé"
+msgstr "Theme non savegardé"
+
+msgctxt "return[]->'TEMPLATE_FILE_NOT_ADDED'"
+msgid " non ajouté !"
+msgstr " அல்லாத அச out ட்!"
+
+msgctxt "return[]->'TEMPLATE_FILE_NOT_DELETED'"
+msgid " non supprimé !"
+msgstr " அல்லாத சப்ம்பிரிமே!"
+
+msgctxt "return[]->'TEMPLATE_FILE_ALREADY_EXISTING'"
+msgid ""
+"Le fichier est déjà existant ! Changez de nom de preset ou connectez-vous en"
+" admin !"
+msgstr ""
+"Le fichier est déjà இருப்பு! சேஞ்சச் டி நோம் டி முன்னமைவு OU ConnectEZ-VOUSE"
+" என் ADMIN!"
+
+msgctxt "return[]->'TEMPLATE_PRESET_ERROR'"
+msgid "Impossible d'appliquer ce preset, il y a une erreur !"
+msgstr "இம்பாசிபிள் டி'அப்ளிகர் சி முன்னமைவு, il ஒய் a une erreur!"
+
+msgctxt "return[]->'TEMPLATE_PRESETS'"
+msgid "Configurations graphiques"
+msgstr "உள்ளமைவுகள் கிராபிக்ச்"
+
+msgctxt "return[]->'TEMPLATE_CREATE_PRESET'"
+msgid "Créer une nouvelle configuration graphique"
+msgstr "க்ரீயர் யு.என்.இ நோவெல் உள்ளமைவு கிராபிக்"
+
+msgctxt "return[]->'TEMPLATE_CUSTOMIZE_PRESET'"
+msgid "Configuration graphique"
+msgstr "உள்ளமைவு கிராபிக்"
+
+msgctxt "return[]->'AB_template_group_label'"
+msgid "Mise en forme"
+msgstr "Mise என் forme"
+
+msgctxt "return[]->'AB_template_action_label_label'"
+msgid "Etiquette"
+msgstr "ஆசாரம்"
+
+msgctxt "return[]->'AB_template_action_label_example'"
+msgid "Texte de votre étiquette à changer par la suite"
+msgstr "டெக்ச்டே டி வோட்ரே எட்டிகெட் à சேஞ்சர் பார் லா சூட்"
+
+msgctxt "return[]->'AB_template_actions_class'"
+msgid "Classe"
+msgstr "கிளாச்"
+
+msgctxt "return[]->'AB_template_actions_default'"
+msgid "Défaut"
+msgstr "Defaut"
+
+msgctxt "return[]->'AB_template_actions_color'"
+msgid "Couleur"
+msgstr "கூலூர்"
+
+msgctxt "return[]->'AB_template_actions_primary'"
+msgid "Primaire"
+msgstr "முதன்மை"
+
+msgctxt "return[]->'AB_template_actions_secondary_1'"
+msgid "Secondaire-1"
+msgstr "செகண்டேர் -1"
+
+msgctxt "return[]->'AB_template_actions_secondary_2'"
+msgid "Secondaire-2"
+msgstr "செகண்டேர் -2"
+
+msgctxt "return[]->'AB_template_actions_success'"
+msgid "Succès"
+msgstr "சக்ச்"
+
+msgctxt "return[]->'AB_template_actions_info'"
+msgid "Info"
+msgstr "செய்தி"
+
+msgctxt "return[]->'AB_template_actions_warning'"
+msgid "Attention"
+msgstr "கவனம்"
+
+msgctxt "return[]->'AB_template_actions_danger'"
+msgid "Danger"
+msgstr "இடர்"
+
+msgctxt "return[]->'AB_template_action_accordion_label'"
+msgid "Afficher des encadrés en accordéon"
+msgstr "Afficher des encadrés என் attreaon"
+
+msgctxt "return[]->'AB_template_action_accordion_example'"
+msgid ""
+"{{panel title=\"Titre de mon encadré\" }}\n"
+"Texte de votre encadré\n"
+"{{end elem=\"panel\"}}"
+msgstr ""
+"{{குழு தலைப்பு = \"எனது பெட்டியின் தலைப்பு\"}}\n"
+"உங்கள் பெட்டியின் உரை\n"
+"{Élem = \"banel\"}}"
+
+msgctxt "return[]->'AB_template_action_ariane_label'"
+msgid "Fil d'ariane"
+msgstr "Fil d'aryane"
+
+msgctxt "return[]->'AB_template_action_col_label'"
+msgid "Colonne"
+msgstr "பெருங்குடல்"
+
+msgctxt "return[]->'AB_template_action_col_size_total'"
+msgid "Vous avez 12 colonnes virtuelles à répartir"
+msgstr "வூச் அவெச் 12 கோர்ன்ச் விர்ச்சுவெல்லச் à ரபார்டிர்"
+
+msgctxt "return[]->'AB_template_col_size_label'"
+msgid "Largeur de la colonne"
+msgstr "லார்ச் டி லா கோலன்"
+
+msgctxt "return[]->'AB_template_action_grid_label'"
+msgid "Afficher plusieurs colonnes"
+msgstr "Afficher Pluarers Cornnes"
+
+msgctxt "return[]->'AB_template_action_col_example'"
+msgid "Texte de votre colonne à changer par la suite"
+msgstr "டெக்ச்டே டி வோட்ரே கோலன் à சேஞ்சர் பார் லா சூட்"
+
+msgctxt "return[]->'AB_template_action_grid_example'"
+msgid ""
+"{{col size=\"{size}\"}}\n"
+"Texte de la colonne à changer par la suite\n"
+"{{end elem=\"col\"}}"
+msgstr ""
+"{{col அளவு = \"{size}\"}}\n"
+"பின்னர் மாற்ற நெடுவரிசையின் உரை\n"
+"{{end elem = \"col\"}}"
+
+msgctxt "return[]->'AB_template_action_grid_nb'"
+msgid "Nombre de colonnes"
+msgstr "நெடுவரிசைகளின் எண்ணிக்கை"
+
+msgctxt "return[]->'AB_template_action_grid_nb_hint'"
+msgid ""
+"Vous pouvez ajuster la taille de chaque colonne via l'attribut 'size'. Le "
+"total des 'size' doit être égal à 12. Exemple : {{col size=3}} + {{col "
+"size=9}}"
+msgstr ""
+"ஒவ்வொரு நெடுவரிசையின் அளவையும் 'அளவு' பண்புக்கூறு வழியாக சரிசெய்யலாம். "
+"'அளவு' மொத்தம் 12 க்கு சமமாக இருக்க வேண்டும். எடுத்துக்காட்டு: {{col அளவு = "
+"3}} + {{col அளவு = 9}}"
+
+msgctxt "return[]->'AB_templates_nav_label'"
+msgid "Onglets avec des pages différentes"
+msgstr "ONGLETS AVEC DES பக்கங்கள் வேறுபடுகின்றன"
+
+msgctxt "return[]->'AB_templates_nav_description'"
+msgid "Générer un menu"
+msgstr "Générer un பட்டியல்"
+
+msgctxt "return[]->'AB_templates_nav_hint'"
+msgid "Pensez à coller le code obtenu dans chacune des pages des onglets."
+msgstr ""
+"ஒவ்வொரு தாவல் பக்கங்களிலும் பெறப்பட்ட குறியீட்டை ஒட்டிக்கொள்ள நினைவில் "
+"கொள்ளுங்கள்."
+
+msgctxt "return[]->'AB_templates_nav_link'"
+msgid "Page"
+msgstr "பக்கம்"
+
+msgctxt "return[]->'AB_templates_nav_add_tag'"
+msgid "Ajouter un onglet"
+msgstr "ஒரு தாவலைச் சேர்க்கவும்"
+
+msgctxt "return[]->'AB_templates_nav_title'"
+msgid "Intitulé de l'onglet"
+msgstr "தாவல் தலைப்பு"
+
+msgctxt "return[]->'AB_templates_nav_class_label'"
+msgid "Affichage"
+msgstr "அஃபிசேச்"
+
+msgctxt "return[]->'AB_templates_nav_class_tabs'"
+msgid "Horizontal souligné"
+msgstr "கிடைமட்ட சோல்"
+
+msgctxt "return[]->'AB_templates_nav_class_pills'"
+msgid "Horizontal sobre"
+msgstr "கிடைமட்ட சோப்ரே"
+
+msgctxt "return[]->'AB_templates_nav_class_justified'"
+msgid "Horizontal justifié"
+msgstr "கிடைமட்ட நியாயமானது"
+
+msgctxt "return[]->'AB_templates_nav_class_vertical'"
+msgid "Vertical"
+msgstr "செங்குத்து"
+
+msgctxt "return[]->'AB_templates_nav_hide_if_no_access_label'"
+msgid "Masquer si l'utilisateur n'a pas accès à la page liée"
+msgstr "முகமூடி si l'utilisateur n'a pas acces à la page leiee"
+
+msgctxt "return[]->'AB_templates_panel_label'"
+msgid "Encadré"
+msgstr "என்காட்ரே"
+
+msgctxt "return[]->'AB_templates_panel_wrappedcontentexample'"
+msgid "Texte de votre encadré à modifier par la suite"
+msgstr "டெக்ச்டே டி வோட்ரே என்காட்ரே à மாற்றியமைப்பாளர் பார் லா சூட்"
+
+msgctxt "return[]->'AB_templates_panel_title_label'"
+msgid "Titre"
+msgstr "டைட்ரே"
+
+msgctxt "return[]->'AB_templates_panel_title_default'"
+msgid "Titre de mon encadré"
+msgstr "டைட்ரே டி மோன் என்காட்ரே"
+
+msgctxt "return[]->'AB_templates_panel_type_default'"
+msgid "Simple encadré"
+msgstr "எளிய என்காட்ரே"
+
+msgctxt "return[]->'AB_templates_panel_type_collapsible'"
+msgid "Accordéon ouvert"
+msgstr "அக்கார்டு ஓவர்ட்"
+
+msgctxt "return[]->'AB_templates_panel_type_collapsed'"
+msgid "Accordéon fermé"
+msgstr "அக்கார்டு ஃபெர்ம்"
+
+msgctxt "return[]->'AB_templates_section_label'"
+msgid "Section"
+msgstr "பிரிவு"
+
+msgctxt "return[]->'AB_templates_section_wrappedcontentexample'"
+msgid "=====Titre===== Texte de votre section à remplacer par la suite"
+msgstr "குறிப்பிடத்தக்க"
+
+msgctxt "return[]->'AB_templates_section_bgcolor_label'"
+msgid "Couleur"
+msgstr "கூலூர்"
+
+msgctxt "return[]->'AB_templates_section_height_label'"
+msgid "Hauteur (en pixels)"
+msgstr "ஆட்டூர் (என் பிக்சல்கள்)"
+
+msgctxt "return[]->'AB_templates_section_pattern_label'"
+msgid "Texture"
+msgstr "அமைப்பு"
+
+msgctxt "return[]->'AB_templates_section_pattern_solid'"
+msgid "Uni"
+msgstr "உனி"
+
+msgctxt "return[]->'AB_templates_section_pattern_border_solid'"
+msgid "Bordure"
+msgstr "எல்லை"
+
+msgctxt "return[]->'AB_templates_section_pattern_border_dashed'"
+msgid "Bordure tirets"
+msgstr "போர்டர் டைரெட்டுகள்"
+
+msgctxt "return[]->'AB_templates_section_pattern_border_dotted'"
+msgid "Bordure pointillés"
+msgstr "போர்டூர் பாயிண்டில்கள்"
+
+msgctxt "return[]->'AB_templates_section_pattern_cross'"
+msgid "Croix alignés"
+msgstr "குரோக்ச் சீரமைப்புகள்"
+
+msgctxt "return[]->'AB_templates_section_pattern_cross_not_aligned'"
+msgid "Croix décalées"
+msgstr "குரோக்ச் டெகலீச்"
+
+msgctxt "return[]->'AB_templates_section_pattern_points'"
+msgid "Points alignés"
+msgstr "புள்ளிகள் சீரமைப்புகள்"
+
+msgctxt "return[]->'AB_templates_section_pattern_points_not_aligned'"
+msgid "Points décalées"
+msgstr "புள்ளிகள் décalées"
+
+msgctxt "return[]->'AB_templates_section_pattern_zigzag'"
+msgid "Zigzag"
+msgstr "சிக்சாக்"
+
+msgctxt "return[]->'AB_templates_section_pattern_diag'"
+msgid "Diagonales"
+msgstr "மூலைவிட்டங்கள்"
+
+msgctxt "return[]->'AB_templates_section_pattern_reverse'"
+msgid "Inverser les couleurs de la texture"
+msgstr "தலைகீழ் லெச் கூலியர்ச் டி லா அமைப்பு"
+
+msgctxt "return[]->'AB_templates_section_file_label'"
+msgid "Image de fond"
+msgstr "இமேச் டி ஃபாண்ட்"
+
+msgctxt "return[]->'AB_templates_section_file_hint'"
+msgid ""
+"Entrez le nom.jpg d'une image déjà uploadé dans cette page, ou le nom d'une "
+"nouvelle image.jpg pour faire apparaitre son bouton d'upload"
+msgstr "என்ட்ரெச் லே நோம்."
+
+msgctxt "return[]->'AB_templates_section_textcolor_label'"
+msgid "Tonalité du texte"
+msgstr "டோனலிட் டு டெக்ச்டே"
+
+msgctxt "return[]->'AB_templates_section_textcolor_white'"
+msgid "Claire"
+msgstr "கிளாரி"
+
+msgctxt "return[]->'AB_templates_section_textcolor_black'"
+msgid "Foncée"
+msgstr "ஃபோன்சி"
+
+msgctxt "return[]->'AB_templates_section_fullwidth_label'"
+msgid "Prendre toute la largeur disponible"
+msgstr "ப்ரென்ட்ரே டூட் லா லார்ச் டிச்போனிபிள்"
+
+msgctxt "return[]->'AB_templates_section_shape_label'"
+msgid "Forme"
+msgstr "எனக்காக"
+
+msgctxt "return[]->'AB_templates_section_shape_rect'"
+msgid "Rectangle"
+msgstr "செவ்வகம்"
+
+msgctxt "return[]->'AB_templates_section_shape_rounded'"
+msgid "Arrondi"
+msgstr "அரோண்டி"
+
+msgctxt "return[]->'AB_templates_section_shape_circ'"
+msgid "Cercle"
+msgstr "செர்கில்"
+
+msgctxt "return[]->'AB_templates_section_shape_blob1'"
+msgid "Blob 1"
+msgstr "குமிழ் 1"
+
+msgctxt "return[]->'AB_templates_section_shape_blob2'"
+msgid "Blob 2"
+msgstr "குமிழ் 2"
+
+msgctxt "return[]->'AB_templates_section_shape_blob3'"
+msgid "Blob 3"
+msgstr "குமிழ் 3"
+
+msgctxt "return[]->'AB_templates_section_shape_blob4'"
+msgid "Blob 4"
+msgstr "குமிழ் 4"
+
+msgctxt "return[]->'AB_templates_section_shape_blob5'"
+msgid "Blob 5"
+msgstr "குமிழ் 5"
+
+msgctxt "return[]->'AB_templates_section_textalign_label'"
+msgid "Centrage du texte"
+msgstr "சென்ட்ரேச் டு டெக்ச்டே"
+
+msgctxt "return[]->'AB_templates_section_textalign_left'"
+msgid "Calé à gauche"
+msgstr "காலே à க uch ச்"
+
+msgctxt "return[]->'AB_templates_section_textalign_right'"
+msgid "Calé à droite"
+msgstr "காலே à டிராயிட்"
+
+msgctxt "return[]->'AB_templates_section_textalign_center'"
+msgid "Centré"
+msgstr "மைய"
+
+msgctxt "return[]->'AB_templates_section_textalign_justify'"
+msgid "Justifié"
+msgstr "நியாயமான"
+
+msgctxt "return[]->'AB_templates_section_image_label'"
+msgid "Comportement de l'image"
+msgstr "காம்போர்ட்மென்ட் டி எல் படம்"
+
+msgctxt "return[]->'AB_templates_section_image_cover'"
+msgid "Couvre section avec l'image"
+msgstr "COUVRE பிரிவு அவெக் எல் படம்"
+
+msgctxt "return[]->'AB_templates_section_image_fixed'"
+msgid "L'image est bloquée lors du scroll (parallax)"
+msgstr "L'ame est bloquee lors du shrorl (இடமாறு)"
+
+msgctxt "return[]->'AB_templates_section_image_center'"
+msgid "L'image reste centrée"
+msgstr "L'ame resete சென்ட்ரி"
+
+msgctxt "return[]->'AB_templates_section_image_parallax'"
+msgid "L'image est légèrement grossie"
+msgstr "L'ame est est legrement carsey"
+
+msgctxt "return[]->'AB_templates_section_height_one_quarter'"
+msgid "un quart de la hauteur"
+msgstr "அன் குவார்ட் டி லா ஆட்டூர்"
+
+msgctxt "return[]->'AB_templates_section_height_one_third'"
+msgid "un tiers"
+msgstr "அன் அடுக்குகள்"
+
+msgctxt "return[]->'AB_templates_section_height_half'"
+msgid "une moitié"
+msgstr "பாதி"
+
+msgctxt "return[]->'AB_templates_section_height_two_third'"
+msgid "deux tiers"
+msgstr "டியூக்ச் அடுக்குகள்"
+
+msgctxt "return[]->'AB_templates_section_height_three_quarter'"
+msgid "trois quarts"
+msgstr "ட்ரோயிச் குவார்ட்ச்"
+
+msgctxt "return[]->'AB_templates_section_height_full'"
+msgid "100% hauteur"
+msgstr "100% ஆட்டூர்"
+
+msgctxt "return[]->'AB_templates_section_animation_label'"
+msgid "Animation"
+msgstr "இயங்குபடம்"
+
+msgctxt "return[]->'AB_templates_section_animation_hint'"
+msgid "Beaucoup plus d'effets disponibles sur https://animate.style/"
+msgstr "பியூகூப் பிளச் டி'எஃப்ட்ச் டிச்போனிபிலீச் சுர் https://anitem.style/"
+
+msgctxt "return[]->'AB_templates_section_animation_bounce'"
+msgid "Bonds"
+msgstr "பிணைப்புகள்"
+
+msgctxt "return[]->'AB_templates_section_animation_flash'"
+msgid "Flash"
+msgstr "ஃபிளாச்"
+
+msgctxt "return[]->'AB_templates_section_animation_pulse'"
+msgid "Pulse"
+msgstr "நாடி"
+
+msgctxt "return[]->'AB_templates_section_animation_rubberband'"
+msgid "Elastique"
+msgstr "எலாச்டிக்"
+
+msgctxt "return[]->'AB_templates_section_animation_shakex'"
+msgid "Gauche à droite"
+msgstr "க uch ச்சே à டிராயிட்"
+
+msgctxt "return[]->'AB_templates_section_animation_shakey'"
+msgid "Bas en haut"
+msgstr "பாச் என் ஆட்"
+
+msgctxt "return[]->'AB_templates_section_animation_headshaked'"
+msgid "Secoué"
+msgstr "அசைந்த"
+
+msgctxt "return[]->'AB_templates_section_animation_swing'"
+msgid "Swing"
+msgstr "ச்விங்"
+
+msgctxt "return[]->'AB_templates_section_animation_tada'"
+msgid "Tada"
+msgstr "தடா"
+
+msgctxt "return[]->'AB_templates_section_animation_wobble'"
+msgid "Essuie glace"
+msgstr "எசூய் கிளாச்"
+
+msgctxt "return[]->'AB_templates_section_animation_jello'"
+msgid "Danse"
+msgstr "டான்ச்"
+
+msgctxt "return[]->'AB_templates_section_animation_heartbat'"
+msgid "Battemments"
+msgstr "பேட்டமென்ட்கள்"
+
+msgctxt "return[]->'AB_templates_section_visible_label'"
+msgid "Visible par"
+msgstr "புலப்படும் சம"
+
+msgctxt "return[]->'AB_templates_section_visible_everyone'"
+msgid "Tout le monde"
+msgstr "லு மொன்டே"
+
+msgctxt "return[]->'AB_templates_section_visible_connected_user'"
+msgid "Utilisateur connecté"
+msgstr "Utilisateur connecte"
+
+msgctxt "return[]->'AB_templates_section_visible_owner'"
+msgid "Propriétaire de la page"
+msgstr "ப்ராப்ரிடேர் டி லா பேச்"
+
+msgctxt "return[]->'AB_templates_section_visible_admins'"
+msgid "Admins seulement"
+msgstr "நிர்வாகிகள் சியுலேமென்ட்"
+
+msgctxt "return[]->'AB_templates_section_visible_no_container'"
+msgid "Ne pas mettre de conteneur"
+msgstr "NE பாச் மெட்ரே டி கான்டெனூர்"
+
+msgctxt "return[]->'AB_templates_tabs_label'"
+msgid "Onglets avec des parties de la page"
+msgstr "ONGLETS AVEC DES PARTIES DE LA PAGE"
+
+msgctxt "return[]->'AB_templates_tabs_description'"
+msgid "Générer des onglets avec des parties de la page"
+msgstr "Générer Desglets Avec Des Carties de la page"
+
+msgctxt "return[]->'AB_templates_tabs_hint'"
+msgid ""
+"Chaque contenu d'onglet se trouve dans une action <code>{{tab}}Contenu de "
+"l'onglet.{{end elem=\"tab\"}}</code>"
+msgstr ""
+"சாக் கான்டெனு டி ஓன்க்லெட் சே ட்ரூவ் டான்ச் யூன் அதிரடி <code>{{tab}} "
+"contenu de l'onglet.{{end elem=\"tab\"}}</code>"
+
+msgctxt "return[]->'AB_templates_tabs_titles_label'"
+msgid "Titres des onglets"
+msgstr "டைட்ரெச் டெச் ஓன்கெட்ச்"
+
+msgctxt "return[]->'AB_templates_tabs_titles_hint'"
+msgid "Séparer chaque titre par une virgule"
+msgstr "Séperar chacket titre par une கன்னி"
+
+msgctxt "return[]->'AB_templates_tabs_titles_default'"
+msgid "Onglet 1, Onglet 2, Onglet 3"
+msgstr "தாவல் 1, தாவல் 2, தாவல் 3"
+
+msgctxt "return[]->'AB_templates_tabs_btnsize_label'"
+msgid "Taille de bouton"
+msgstr "டெய்ல் டி பூட்டன்"
+
+msgctxt "return[]->'AB_templates_tabs_btnsize_default'"
+msgid "Normale"
+msgstr "நெறிமுறை"
+
+msgctxt "return[]->'AB_templates_tabs_btnsize_small'"
+msgid "Petite"
+msgstr "பெட்டிட்"
+
+msgctxt "return[]->'AB_templates_tabs_bottom_nav_label'"
+msgid "Navigation en bas des onglets"
+msgstr "வழிசெலுத்தல் என் பாச் டெச் ஓன்கெட்ச்"
+
+msgctxt "return[]->'AB_templates_tabs_bottom_nav_yes'"
+msgid "Oui"
+msgstr "Oui"
+
+msgctxt "return[]->'AB_templates_tabs_bottom_nav_no'"
+msgid "Non"
+msgstr "அல்லாத"
+
+msgctxt "return[]->'AB_templates_tabs_counter_on_bottom_nav_label'"
+msgid "Numéroter les Boutons de navigation"
+msgstr "நுமிரோட்டர் லெச் பூட்டன்ச் டி வழிசெலுத்தல்"
+
+msgctxt "return[]->'AB_templates_tabs_counter_on_bottom_nav_yes'"
+msgid "Oui"
+msgstr "Oui"
+
+msgctxt "return[]->'AB_templates_tabs_counter_on_bottom_nav_no'"
+msgid "Non"
+msgstr "அல்லாத"
+
+msgctxt "return[]->'AB_templates_tabs_btncolor_label'"
+msgid "Couleur des boutons"
+msgstr "கூலூர் டெச் பூட்டன்கள்"
+
+msgctxt "return[]->'AB_templates_tabs_btncolor_primary'"
+msgid "Primaire"
+msgstr "முதன்மை"
+
+msgctxt "return[]->'AB_templates_tabs_btncolor_secondary_1'"
+msgid "Secondaire 1"
+msgstr "இரண்டாம் நிலை 1"
+
+msgctxt "return[]->'AB_templates_tabs_btncolor_secondary_2'"
+msgid "Secondaire 2"
+msgstr "செகண்டேர் 2"
+
+msgctxt "return[]->'AB_templates_tabs_selectedtab_label'"
+msgid "Onglet sélectionné"
+msgstr "Onglet sélectionne"
+
+msgctxt "return[]->'AB_templates_tabs_wrappedcontentexample'"
+msgid ""
+"{{tab}}\n"
+"Contenu de l'onglet \"{tabName}\"\n"
+"{{end elem=\"tab\"}}"
+msgstr ""
+"{{tab}}\n"
+"தாவலின் உள்ளடக்கங்கள் \"{tabName}\"\n"
+"{{end elem = \"தாவல்\"}}"
+
+msgctxt "return[]->'ACLS_SELECT_PAGES_FILTER'"
+msgid "Filtrer :"
+msgstr "வடிகட்டி :"
+
+msgctxt "return[]->'ACLS_SELECT_PAGES_FILTER_ON_PAGES'"
+msgid "les pages uniquement"
+msgstr "லெச் பக்கங்கள் தனித்துவமானது"
+
+msgctxt "return[]->'ACLS_SELECT_PAGES_FILTER_ON_SPECIALPAGES'"
+msgid "les pages spéciales uniquement"
+msgstr "லெச் பக்கங்கள் ச்பெசியல்ச் தனித்துவம்"
+
+msgctxt "return[]->'ACLS_SELECT_PAGES_FILTER_ON_LISTS'"
+msgid "les listes uniquement"
+msgstr "லெச் தனித்துவத்தை பட்டியலிடுகிறார்"
+
+msgctxt "return[]->'ACLS_SELECT_PAGES_FILTER_FORM'"
+msgid "les fiches du formulaire : {name} ({id})"
+msgstr "லெச் ஃபிடச் டு ஃபார்முலேர்: {name} ({id})"
+
+msgctxt "return[]->'GERERTHEMES_ACTIONS'"
+msgid "Actions"
+msgstr "செயல்கள்"
+
+msgctxt "return[]->'GERERTHEMES_HINT'"
+msgid ""
+"Cochez les pages que vous souhaitez modifier et choisissez une action en bas"
+" de page"
+msgstr ""
+"கோச்செச் லெச் பக்கங்கள் கியூ வவுச் ச ou ஐடெச் மாற்றியமைப்பாளர் எட் சோயிசெச் "
+"யூன் அதிரடி என் பாச் டி பக்கம்"
+
+msgctxt "return[]->'GERERTHEMES_INIT_THEME_FOR_SELECTED_PAGES'"
+msgid ""
+"Réinitialiser les pages selectionnées (elles utiliseront le thème par "
+"défault)"
+msgstr ""
+"Réinitialiser les பக்கங்கள் தேர்வு (ELLES UNTITERONT LE THEME PAR DEFAUT)"
+
+msgctxt "return[]->'GERERTHEMES_MODIFY_THEME_FOR_SELECTED_PAGES'"
+msgid "Modifier les valeurs pour les pages sélectionnées"
+msgstr "மாற்றியமைக்கும் லெச் வேலியர்ச் லெச் பக்கங்கள் ச்லெக்சனீசை ஊற்றுகிறார்"
+
+msgctxt "return[]->'GERERTHEMES_PAGE'"
+msgid "Page"
+msgstr "பக்கம்"
+
+msgctxt "return[]->'PROGRESSBAR_REQUIRED_VAL_PARAM'"
+msgid "paramètre \"val\" obligatoire."
+msgstr "\"வால்\" அளவுரு கட்டாய."
+
+msgctxt "return[]->'PROGRESSBAR_ERROR_VAL_PARAM'"
+msgid "le paramètre \"val\" doit être un chiffre entre 0 et 100."
+msgstr "\"வால்\" அளவுரு 0 முதல் 100 வரை ஒரு உருவமாக இருக்க வேண்டும்."
+
+msgctxt "return[]->'SETDEFAULTTHEME_HNIT'"
+msgid ""
+"Le thème par défault est utilisé pour les pages qui n'ont aucun thème défini"
+" (les lignes vides dans le tableau ci dessus)"
+msgstr ""
+"Le theme par defaut est utilise pour les பக்கங்கள் Qui n'ont aucun theme "
+"defini (லெச் லிக்னெச் வைட்ச் டான்ச் லு டேப்லூ சி டெசச்)"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_META_KEYWORDS'"
+msgid ""
+"Mots clés pour le référencement (séparés par des virgules, pas plus de "
+"20-30)"
+msgstr ""
+"மோட்ச் கிளெச் லு ரெஃபெரென்செமென்ட் (செபரின் பார் டெச் கன்னி, பிஏஎச் மற்றும் "
+"டி 20-30)"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_META_DESCRIPTION'"
+msgid ""
+"Description du site en une phrase, pour le référencement (Attention : ne pas"
+" mettre de \".\" (point))"
+msgstr ""
+"விளக்கம் du site என் une சொற்றொடர், ஊற்ற லே referencement (கவனம்: ne pas "
+"mettre de \".\" (புள்ளி))"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_META[ROBOTS]'"
+msgid ""
+"Empêcher les robots à indexer le wiki (noindex,nofollow,max-image-"
+"preview:none,noarchive,noimageindex)"
+msgstr ""
+"எம்பேசர் லெச் ரோபோக்கள் à குறியீட்டாளர் லு விக்கி (நொய்டெக்ச், நோஃபாலோ, "
+"மேக்ச்-இமேச்-முன்னுரிமை: எதுவுமில்லை, நொயார்கிவ், நொயிமாசின்டெக்ச்)"
+
+msgctxt "return[]->'EDIT_CONFIG_GROUP_TEMPLATES'"
+msgid "Balises meta pour l'indexation web"
+msgstr "பாலிசச் மேவு எல் இன் இன்டக்டேசன் வலையை ஊற்றவும்"

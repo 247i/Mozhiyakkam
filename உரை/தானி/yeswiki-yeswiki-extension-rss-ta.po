@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (YesWiki)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 17:52+0200\n"
+"PO-Revision-Date: 2025-06-10 21:52\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/yeswiki/yeswiki-extension-rss/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+msgctxt "return[]->'RSS_CHANGE_OF'"
+msgid "Modification de"
+msgstr "மாற்றியமைத்தல் டி"
+
+msgctxt "return[]->'RSS_HISTORY'"
+msgid "historique"
+msgstr "வரலாறு"
+
+msgctxt "return[]->'RSS_HIDDEN_CONTENT'"
+msgid "Contenu masqué"
+msgstr "கான்டெனு மாச்குவே"
+
+msgctxt "return[]->'RSS_ON_DATE'"
+msgid "le"
+msgstr "லே"
+
+msgctxt "return[]->'RSS_COMPARISON_OF'"
+msgid "Comparaison de"
+msgstr "காம்பரைசன் டி.இ."
+
+msgctxt "return[]->'RSS_TO'"
+msgid "à"
+msgstr "உள்ளது"
+
+msgctxt "return[]->'RSS_ADDS'"
+msgid "Ajouts"
+msgstr "அசவுட்ச்"
+
+msgctxt "return[]->'RSS_DELETIONS'"
+msgid "Suppressions"
+msgstr "அடக்குமுறைகள்"
+
+msgctxt "return[]->'RSS_NO_DIFF'"
+msgid "Pas de différences"
+msgstr "வேறுபாடுகள் இல்லை"

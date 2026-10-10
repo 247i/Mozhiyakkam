@@ -1,0 +1,1020 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (NeoStumbler)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-20 18:13+0200\n"
+"PO-Revision-Date: 2025-06-20 23:08\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/neostumbler/neostumbler/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "NeoStumbler"
+msgstr "நெட்ச்டம்ப்ளர்"
+
+#, java-printf-format
+msgctxt "author"
+msgid "Jaakko Malkki"
+msgstr "சாக்கோ மல்கி"
+
+#, java-printf-format
+msgctxt "ok"
+msgid "OK"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "no_thanks"
+msgid "No thanks"
+msgstr "நன்றி இல்லை"
+
+#, java-printf-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "no"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "reset"
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#, java-printf-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "use"
+msgid "Use"
+msgstr "பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "stop"
+msgid "Stop"
+msgstr "நிறுத்து"
+
+#, java-printf-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_all"
+msgid "Delete all"
+msgstr "அனைத்தையும் நீக்கு"
+
+#, java-printf-format
+msgctxt "no_data"
+msgid "No data"
+msgstr "தரவு இல்லை"
+
+#, java-printf-format
+msgctxt "copy"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, java-printf-format
+msgctxt "text_copied_to_clipboard"
+msgid "Text copied to clipboard!"
+msgstr "இடைநிலைப்பலகைக்கு உரை நகலெடுக்கப்பட்டது!"
+
+#, java-printf-format
+msgctxt "disabled"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "waiting_for_location"
+msgid "Waiting for location"
+msgstr "இருப்பிடத்திற்காக காத்திருக்கிறது"
+
+#, java-printf-format
+msgctxt "failed_to_open_selected_file"
+msgid "Failed to open the selected file"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பைத் திறக்கத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "permissions_needed"
+msgid "Permissions needed"
+msgstr "அனுமதிகள் தேவை"
+
+#, java-printf-format
+msgctxt "permissions_not_granted"
+msgid "Permissions that are required were not granted"
+msgstr "தேவையான அனுமதிகள் வழங்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "wifi_icon_description"
+msgid "Wi-Fi icon"
+msgstr "வைஃபை படவுரு"
+
+#, java-printf-format
+msgctxt "cell_tower_icon_description"
+msgid "Cell tower icon"
+msgstr "செல் டவர் படவுரு"
+
+#, java-printf-format
+msgctxt "bluetooth_icon_description"
+msgid "Bluetooth icon"
+msgstr "ஊடலை படவுரு"
+
+#, java-printf-format
+msgctxt "warning_icon_description"
+msgid "Warning icon"
+msgstr "எச்சரிக்கை படவுரு"
+
+#, java-printf-format
+msgctxt "scanner_status_notification_channel_name"
+msgid "Scanning status"
+msgstr "நிலை ச்கேனிங்"
+
+#, java-printf-format
+msgctxt "wireless_scanning"
+msgid "Wireless scanning"
+msgstr "வயர்லெச் ச்கேனிங்"
+
+#, java-printf-format
+msgctxt "map_tab_title"
+msgid "Map"
+msgstr "வரைபடம்"
+
+#, java-printf-format
+msgctxt "reports_tab_title"
+msgid "Reports"
+msgstr "அறிக்கைகள்"
+
+#, java-printf-format
+msgctxt "statistics_tab_title"
+msgid "Statistics"
+msgstr "புள்ளிவிவரங்கள்"
+
+#, java-printf-format
+msgctxt "settings_tab_title"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "send_reports"
+msgid "Send reports"
+msgstr "அறிக்கைகளை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "reports"
+msgid "Reports:"
+msgstr "அறிக்கைகள்:"
+
+#, java-printf-format
+msgctxt "reports_total"
+msgid "Reports total: %d"
+msgstr "அறிக்கைகள் மொத்தம்: %d"
+
+#, java-printf-format
+msgctxt "reports_not_uploaded"
+msgid "Reports not uploaded: %d"
+msgstr "அறிக்கைகள் பதிவேற்றப்படவில்லை: %d"
+
+#, java-printf-format
+msgctxt "reports_last_uploaded"
+msgid "Reports last uploaded: %s"
+msgstr "கடைசியாக பதிவேற்றப்பட்ட அறிக்கைகள்: %s"
+
+#, java-printf-format
+msgctxt "reports_last_uploaded_never"
+msgid "never"
+msgstr "ஒருபோதும்"
+
+#, java-printf-format
+msgctxt "reports_empty"
+msgid "No reports yet"
+msgstr "இதுவரை அறிக்கைகள் இல்லை"
+
+#, java-printf-format
+msgctxt "start_scanning"
+msgid "Start scanning"
+msgstr "ச்கேன் செய்யத் தொடங்குங்கள்"
+
+#, java-printf-format
+msgctxt "stop_scanning"
+msgid "Stop scanning"
+msgstr "ச்கேன் செய்வதை நிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "scanning_status_active"
+msgid "Scanning <annotation style=\"status\">active</annotation>"
+msgstr "ச்கேனிங் <சிறுகுறிப்பு பாணி = \"நிலை\"> செயலில் </சிறுகுறிப்பு>"
+
+#, java-printf-format
+msgctxt "scanning_status_not_active"
+msgid "Scanning <annotation style=\"status\">not active</annotation>"
+msgstr "ச்கேனிங் <சிறுகுறிப்பு பாணி = \"நிலை\"> செயலில் இல்லை </சிறுகுறிப்பு>"
+
+#, java-printf-format
+msgctxt "delete_report"
+msgid "Delete report"
+msgstr "அறிக்கையை நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_report_confirmation"
+msgid "Are you sure you want to delete the report?"
+msgstr "அறிக்கையை நீக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "toast_reports_uploaded"
+msgid "Uploaded %d report"
+msgid_plural "Uploaded %d reports"
+msgstr[0] "பதிவேற்றியது %d அறிக்கை"
+msgstr[1] "பதிவேற்றியது %d அறிக்கைகள்"
+
+#, java-printf-format
+msgctxt "toast_reports_upload_failed"
+msgid "Failed to upload reports"
+msgstr "அறிக்கைகளைப் பதிவேற்றத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "toast_reports_upload_failed_no_endpoint"
+msgid "Failed to upload reports, because no endpoint has been configured"
+msgstr ""
+"அறிக்கைகளை பதிவேற்றுவதில் தோல்வி, ஏனெனில் எந்த இறுதிப் புள்ளியும் "
+"கட்டமைக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "speed_metres_per_second"
+msgid "Speed: %s m/s"
+msgstr "வேகம்: %s m/s"
+
+#, java-printf-format
+msgctxt "altitude_metres"
+msgid "Altitude: %s m"
+msgstr "உயரம்: %s மீ"
+
+#, java-printf-format
+msgctxt "signal_strength_dbm"
+msgid "Signal strength: %d dBm"
+msgstr "சமிக்ஞை வலிமை: %d டிபிஎம்"
+
+#, java-printf-format
+msgctxt "unknown_cell_id"
+msgid "Unknown cell ID"
+msgstr "தெரியாத செல் அடையாளம்"
+
+#, java-printf-format
+msgctxt "mcc"
+msgid "MCC: %s"
+msgstr "எம்.சி.சி: %s"
+
+#, java-printf-format
+msgctxt "mnc"
+msgid "MNC: %s"
+msgstr "MNC: %s"
+
+#, java-printf-format
+msgctxt "lac"
+msgid "LAC: %s"
+msgstr "லாக்: %s"
+
+#, java-printf-format
+msgctxt "radio_type"
+msgid "Type: %s"
+msgstr "வகை: %s"
+
+#, java-printf-format
+msgctxt "beacon_type"
+msgid "Beacon type: %s"
+msgstr "பெக்கான் வகை: %s"
+
+#, java-printf-format
+msgctxt "beacon_id"
+msgid "ID%d: %s"
+msgstr "அடையாளம் %d: %s"
+
+#, java-printf-format
+msgctxt "report_upload_notification_channel_name"
+msgid "Report uploads"
+msgstr "பதிவேற்றங்களைப் புகாரளிக்கவும்"
+
+#, java-printf-format
+msgctxt "notification_sending_reports"
+msgid "Sending reports"
+msgstr "அறிக்கைகளை அனுப்புகிறது"
+
+#, java-printf-format
+msgctxt "notification_wireless_scanning_title"
+msgid "Wireless scanning active"
+msgstr "வயர்லெச் ச்கேனிங் செயலில்"
+
+#, java-printf-format
+msgctxt "reports_created"
+msgid "%d report created"
+msgid_plural "%d reports created"
+msgstr[0] "%d அறிக்கை உருவாக்கப்பட்டது"
+msgstr[1] "%d அறிக்கைகள் உருவாக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "satellites_in_use"
+msgid "%1$d⁄%2$d satellites in use"
+msgstr "பயன்பாட்டில் உள்ள%1$d⁄%2$d செயற்கைக்கோள்கள்"
+
+#, java-printf-format
+msgctxt "ignore_battery_optimizations_title"
+msgid "Ignore battery optimizations"
+msgstr "பேட்டரி மேம்படுத்தல்களை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_battery_optimizations_description"
+msgid ""
+"For best results, battery optimizations should be disabled. Wireless "
+"scanning and location access is significantly throttled when battery "
+"optimization is active and the screen is off"
+msgstr ""
+"சிறந்த முடிவுகளுக்கு, பேட்டரி மேம்படுத்தல்கள் முடக்கப்பட வேண்டும். பேட்டரி "
+"உகப்பாக்கம் செயலில் இருக்கும்போது மற்றும் திரை முடக்கப்பட்டால் வயர்லெச் "
+"ச்கேனிங் மற்றும் இருப்பிட அணுகல் கணிசமாக தூண்டப்படுகிறது"
+
+#, java-printf-format
+msgctxt "battery_optimizations_not_disabled_warning"
+msgid "Battery optimizations were not disabled"
+msgstr "பேட்டரி மேம்படுத்தல்கள் முடக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "send_reports_automatically_title"
+msgid "Send reports automatically"
+msgstr "அறிக்கைகளை தானாக அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "send_reports_automatically_never"
+msgid "Never"
+msgstr "ஒருபோதும்"
+
+#, java-printf-format
+msgctxt "send_reports_automatically_on_any_network"
+msgid "On any network"
+msgstr "எந்த நெட்வொர்க்கிலும்"
+
+#, java-printf-format
+msgctxt "send_reports_automatically_on_unmetered_network"
+msgid "On unmetered network"
+msgstr "அளவிடப்படாத நெட்வொர்க்கில்"
+
+#, java-printf-format
+msgctxt "export_notification_channel_name"
+msgid "Data export"
+msgstr "தரவு ஏற்றுமதி"
+
+#, java-printf-format
+msgctxt "notification_exporting_data"
+msgid "Exporting data…"
+msgstr "தரவு ஏற்றுமதி…"
+
+#, java-printf-format
+msgctxt "export_data"
+msgid "Export data"
+msgstr "தரவு ஏற்றுமதி"
+
+#, java-printf-format
+msgctxt "export_no_file_chosen"
+msgid "Cannot export data, because no file was created"
+msgstr ""
+"தரவை ஏற்றுமதி செய்ய முடியாது, ஏனெனில் எந்த கோப்பும் உருவாக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "export_started"
+msgid "Exporting data from %1$s to %2$s"
+msgstr "%1$s முதல் %2$s வரை தரவை ஏற்றுமதி செய்தல்"
+
+#, java-printf-format
+msgctxt "export_csv"
+msgid "Export as CSV"
+msgstr "காபிம ஆக ஏற்றுமதி"
+
+#, java-printf-format
+msgctxt "export_raw_database"
+msgid "Export raw database"
+msgstr "மூல தரவுத்தளத்தை ஏற்றுமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "export_raw_database_compress"
+msgid "Compress the database file"
+msgstr "தரவுத்தள கோப்பை சுருக்கவும்"
+
+#, java-printf-format
+msgctxt "import_data"
+msgid "Import data"
+msgstr "தரவை இறக்குமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "import_raw_database"
+msgid "Import raw database"
+msgstr "மூல தரவுத்தளத்தை இறக்குமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "import_raw_database_description"
+msgid "Importing a raw database will replace the existing database"
+msgstr ""
+"ஒரு மூல தரவுத்தளத்தை இறக்குமதி செய்வது தற்போதுள்ள தரவுத்தளத்தை மாற்றும்"
+
+#, java-printf-format
+msgctxt "import_database_not_valid"
+msgid "The selected file did not contain a valid database"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பில் சரியான தரவுத்தளம் இல்லை"
+
+#, java-printf-format
+msgctxt "import_database_successful"
+msgid "Imported database with %d report"
+msgid_plural "Imported database with %d reports"
+msgstr[0] "%d அறிக்கையுடன் இறக்குமதி செய்யப்பட்ட தரவுத்தளம்"
+msgstr[1] "%d அறிக்கைகளுடன் இறக்குமதி செய்யப்பட்ட தரவுத்தளம்"
+
+#, java-printf-format
+msgctxt "reupload_data"
+msgid "Reupload data"
+msgstr "தரவை மீண்டும் ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "wifis"
+msgid "Wi-Fis"
+msgstr "வை-ஃபிச்"
+
+#, java-printf-format
+msgctxt "cells"
+msgid "Cells"
+msgstr "செல்கள்"
+
+#, java-printf-format
+msgctxt "beacons"
+msgid "Bluetooth beacons"
+msgstr "ஊடலை பீக்கான்கள்"
+
+#, java-printf-format
+msgctxt "add_quick_settings_tile"
+msgid "Add quick settings tile to easily start scanning?"
+msgstr "ச்கேனிங்கை எளிதாக தொடங்க விரைவான அமைப்புகள் ஓடு சேர்க்கவா?"
+
+#, java-printf-format
+msgctxt "mls_warning_title"
+msgid "MLS has shut down"
+msgstr "எம்.எல்.எச் மூடப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "mls_warning_text"
+msgid ""
+"Mozilla Location Service has shut down and no longer accepts data submissions. As an alternative to MLS, you can send data to beaconDB, which provides a service compatible with MLS\n"
+"\n"
+"Please note that beaconDB is still under development and this affects how your data is handled. You can read the <annotation link=\"privacy_policy\">privacy policy</annotation> for further information\n"
+"\n"
+"Do you want to set beaconDB as the endpoint? This can later be configured in the settings"
+msgstr ""
+"மொசில்லா இருப்பிட பணி மூடப்பட்டு தரவு சமர்ப்பிப்புகளை இனி ஏற்காது. எம்.எல்.எச் -க்கு மாற்றாக, நீங்கள் MLS உடன் இணக்கமான சேவையை வழங்கும் BEACONDB க்கு தரவை அனுப்பலாம் \n"
+"\n"
+"BEACONDB இன்னும் வளர்ச்சியில் உள்ளது என்பதை நினைவில் கொள்க, இது உங்கள் தரவு எவ்வாறு கையாளப்படுகிறது என்பதை பாதிக்கிறது. மேலும் தகவலுக்கு நீங்கள் <சிறுகுறிப்பு இணைப்பு = \"தனியுரிமை_போலிசி\"> தனியுரிமைக் கொள்கை </சிறுகுறிப்பு> ஐப் படிக்கலாம் \n"
+"\n"
+"நீங்கள் பீக்காண்ட்பை இறுதிப் புள்ளியாக அமைக்க விரும்புகிறீர்களா? இது பின்னர் அமைப்புகளில் கட்டமைக்கப்படலாம்"
+
+#, java-printf-format
+msgctxt "endpoint"
+msgid "Endpoint"
+msgstr "முனைப்புள்ளி"
+
+#, java-printf-format
+msgctxt "submission_path"
+msgid "Path for submissions"
+msgstr "பாதை"
+
+#, java-printf-format
+msgctxt "locate_path"
+msgid "Path for geolocation"
+msgstr "புவிஇருப்பிடத்திற்கான பாதை"
+
+#, java-printf-format
+msgctxt "api_key"
+msgid "API key (optional)"
+msgstr "பநிஇ விசை (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "no_endpoint_configured"
+msgid "No endpoint configured"
+msgstr "எண்ட்பாயிண்ட் கட்டமைக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "coverage_layer"
+msgid "Map coverage layer"
+msgstr "வரைபட கவரேச் அடுக்கு"
+
+#, java-printf-format
+msgctxt "coverage_layer_tile_json_url"
+msgid "TileJSON URL for map coverage layer"
+msgstr "வரைபட கவரேச் லேயருக்கான டைல்ச்சன் முகவரி"
+
+#, java-printf-format
+msgctxt "coverage_layer_no_configured"
+msgid "No map coverage layer configured"
+msgstr "வரைபட கவரேச் அடுக்கு கட்டமைக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "invalid_url"
+msgid "Invalid URL"
+msgstr "தவறான முகவரி"
+
+#, java-printf-format
+msgctxt "unencrypted_endpoint_warning"
+msgid "Unencrypted endpoint"
+msgstr "மறைகுறியாக்கப்பட்ட இறுதிப்புள்ளி"
+
+#, java-printf-format
+msgctxt "suggested_services_title"
+msgid "Suggested services"
+msgstr "பரிந்துரைக்கப்பட்ட சேவைகள்"
+
+#, java-printf-format
+msgctxt "suggested_service_hosted_by"
+msgid "Hosted by:"
+msgstr "வழங்கியவர்:"
+
+#, java-printf-format
+msgctxt "suggested_service_website"
+msgid "Website"
+msgstr "வலைத்தளம்"
+
+#, java-printf-format
+msgctxt "suggested_service_terms_of_use"
+msgid "Terms of use"
+msgstr "பயன்பாட்டு விதிமுறைகள்"
+
+#, java-printf-format
+msgctxt "settings_ignore_wifi_scan_throttling_title"
+msgid "Ignore Wi-Fi scan throttling"
+msgstr "வைஃபை ச்கேன் தூண்டுதலை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_ignore_wifi_scan_throttling_description"
+msgid ""
+"If scanning is throttled, only four scans can be done in a two-minute period"
+msgstr ""
+"ச்கேனிங் தூண்டப்பட்டால், இரண்டு நிமிட காலகட்டத்தில் நான்கு ச்கேன் மட்டுமே "
+"செய்ய முடியும்"
+
+#, java-printf-format
+msgctxt "wifi_scan_throttling"
+msgid "Wi-Fi scan throttling"
+msgstr "வைஃபை ச்கேன் த்ரோட்லிங்"
+
+#, java-printf-format
+msgctxt "wifi_scan_throttling_explanation"
+msgid ""
+"You need to disable Wi-Fi scan throttling in your device's settings to "
+"enable this feature. Usually this can be done in the developer settings"
+msgstr ""
+"இந்த அம்சத்தை இயக்க உங்கள் சாதனத்தின் அமைப்புகளில் வைஃபை ச்கேன் தூண்டுதலை "
+"முடக்க வேண்டும். வழக்கமாக இது உருவாக்குபவர் அமைப்புகளில் செய்யப்படலாம்"
+
+#, java-printf-format
+msgctxt "settings_group_reports"
+msgid "Reports"
+msgstr "அறிக்கைகள்"
+
+#, java-printf-format
+msgctxt "settings_group_scanning"
+msgid "Scanning"
+msgstr "ச்கேனிங்"
+
+#, java-printf-format
+msgctxt "settings_group_privacy"
+msgid "Privacy"
+msgstr "தனியுரிமை"
+
+#, java-printf-format
+msgctxt "settings_group_other"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, java-printf-format
+msgctxt "wifi_filter_settings_title"
+msgid "Filter Wi-Fis by SSID"
+msgstr "SSID ஆல் வை-ஃபைச் வடிகட்டவும்"
+
+#, java-printf-format
+msgctxt "wifi_filter_settings_description"
+msgid "%d SSID filtered"
+msgid_plural "%d SSIDs filtered"
+msgstr[0] "%d SSID வடிகட்டப்பட்டது"
+msgstr[1] "%d SSIDS வடிகட்டப்பட்டது"
+
+#, java-printf-format
+msgctxt "wifi_filter_settings_hint"
+msgid ""
+"Wi-Fi networks with any of these keywords in their SSID are not collected"
+msgstr ""
+"SSID இல் உள்ள இந்த முக்கிய சொற்களைக் கொண்ட வைஃபை நெட்வொர்க்குகள் "
+"சேகரிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "reduced_metadata_title"
+msgid "Send reports with less metadata"
+msgstr "குறைந்த மெட்டாடேட்டாவுடன் அறிக்கைகளை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "reduced_metadata_description"
+msgid ""
+"Reports are sent in a randomized order with timestamps and other metadata "
+"truncated"
+msgstr ""
+"அறிக்கைகள் நேர முத்திரைகள் மற்றும் பிற மெட்டாடேட்டாவுடன் சீரற்ற வரிசையில் "
+"அனுப்பப்படுகின்றன"
+
+#, java-printf-format
+msgctxt "pause_scanning_on_low_battery_title"
+msgid "Pause scanning on low battery"
+msgstr "குறைந்த பேட்டரியில் வருடு செய்வதை இடைநிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "pause_scanning_on_low_battery_description"
+msgid "When battery level less than %d%%"
+msgstr "பேட்டரி அளவு%d %% க்கும் குறைவாக இருக்கும்போது"
+
+#, java-printf-format
+msgctxt "wifi_scan_frequency"
+msgid "Wi-Fi scan frequency"
+msgstr "வைஃபை ச்கேன் அதிர்வெண்"
+
+#, java-printf-format
+msgctxt "cell_tower_scan_frequency"
+msgid "Cell tower scan frequency"
+msgstr "செல் டவர் ச்கேன் அதிர்வெண்"
+
+#. Note that the number value in this string is always a multiple of ten
+#, java-printf-format
+msgctxt "every_x_meters"
+msgid "Every %d meters"
+msgstr "ஒவ்வொரு %d மீட்டர்"
+
+#, java-printf-format
+msgctxt "moving_device_filter_title"
+msgid "Filter moving devices"
+msgstr "நகரும் சாதனங்களை வடிகட்டவும்"
+
+#, java-printf-format
+msgctxt "moving_device_filter_description"
+msgid ""
+"Moving Wi-Fi networks and Bluetooth beacons are automatically detected and "
+"filtered from reports"
+msgstr ""
+"நகரும் வைஃபை நெட்வொர்க்குகள் மற்றும் ஊடலை பீக்கான்கள் தானாகவே கண்டறியப்பட்டு"
+" அறிக்கைகளிலிருந்து வடிகட்டப்படுகின்றன"
+
+#, java-printf-format
+msgctxt "movement_detection"
+msgid "Movement detection"
+msgstr "இயக்கம் கண்டறிதல்"
+
+#, java-printf-format
+msgctxt "movement_detection_none_title"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "movement_detection_none_description"
+msgid "Keep scanning even when not moving"
+msgstr "நகராதபோது கூட ச்கேன் செய்து கொண்டே இருங்கள்"
+
+#, java-printf-format
+msgctxt "movement_detection_location_title"
+msgid "Location based"
+msgstr "இருப்பிடம் அடிப்படையிலானது"
+
+#, java-printf-format
+msgctxt "movement_detection_location_description"
+msgid "Pauses scanning when location does not change. Keeps GPS active"
+msgstr ""
+"இருப்பிடம் மாறாதபோது ச்கேனிங்கை இடைநிறுத்துகிறது. சி.பி.எச் செயலில் "
+"வைத்திருக்கிறது"
+
+#, java-printf-format
+msgctxt "passive_scanning_title"
+msgid "Passive data collection"
+msgstr "செயலற்ற தரவு சேகரிப்பு"
+
+#, java-printf-format
+msgctxt "passive_scanning_description"
+msgid ""
+"Passive data collection creates reports in the background with minimal battery impact by using data requested by other applications. \n"
+"\n"
+"The effectiveness of passive data collection will depend on your device type, the other apps you're using, and whether you have fused location provider available. \n"
+"\n"
+"Note that passive data collection does not work with Bluetooth beacons. \n"
+"\n"
+"Do you want to enable passive data collection?"
+msgstr ""
+"செயலற்ற தரவு சேகரிப்பு பிற பயன்பாடுகளால் கோரப்பட்ட தரவைப் பயன்படுத்தி குறைந்தபட்ச பேட்டரி தாக்கத்துடன் பின்னணியில் அறிக்கைகளை உருவாக்குகிறது. \n"
+"\n"
+"செயலற்ற தரவு சேகரிப்பின் செயல்திறன் உங்கள் சாதன வகை, நீங்கள் பயன்படுத்தும் பிற பயன்பாடுகள் மற்றும் இருப்பிட வழங்குநரை இணைத்துள்ளீர்களா என்பதைப் பொறுத்தது. \n"
+"\n"
+"செயலற்ற தரவு சேகரிப்பு ஊடலை பீக்கான்களுடன் வேலை செய்யாது என்பதை நினைவில் கொள்க. \n"
+"\n"
+"செயலற்ற தரவு சேகரிப்பை இயக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "movement_detection_significant_motion_title"
+msgid "Motion sensor"
+msgstr "இயக்க சென்சார்"
+
+#, java-printf-format
+msgctxt "movement_detection_significant_motion_description"
+msgid ""
+"Pauses scanning and GPS when no significant motion is detected. Saves "
+"battery, but does not work reliably on some devices"
+msgstr ""
+"குறிப்பிடத்தக்க இயக்கம் எதுவும் கண்டறியப்படாதபோது ச்கேனிங் மற்றும் "
+"சி.பி.எச். பேட்டரியைச் சேமிக்கிறது, ஆனால் சில சாதனங்களில் நம்பகத்தன்மையுடன் "
+"செயல்படாது"
+
+#, java-printf-format
+msgctxt "notification_style"
+msgid "Notification style"
+msgstr "அறிவிப்பு நடை"
+
+#, java-printf-format
+msgctxt "notification_style_minimal_title"
+msgid "Minimal"
+msgstr "குறைந்தபட்ச"
+
+#, java-printf-format
+msgctxt "notification_style_minimal_description"
+msgid "Shows the notification with no details"
+msgstr "விவரங்கள் இல்லாத அறிவிப்பைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "notification_style_basic_title"
+msgid "Basic"
+msgstr "அடிப்படை"
+
+#, java-printf-format
+msgctxt "notification_style_basic_description"
+msgid "Shows the number of reports created"
+msgstr "உருவாக்கப்பட்ட அறிக்கைகளின் எண்ணிக்கையைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "notification_style_detailed_title"
+msgid "Detailed"
+msgstr "விவரிக்கப்பட்ட"
+
+#, java-printf-format
+msgctxt "notification_style_detailed_description"
+msgid "Shows the number of reports created and the number of GNSS satellites"
+msgstr ""
+"உருவாக்கப்பட்ட அறிக்கைகளின் எண்ணிக்கை மற்றும் சிஎன்எச்எச் செயற்கைக்கோள்களின்"
+" எண்ணிக்கை ஆகியவற்றைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "app_language"
+msgid "Language"
+msgstr "மொழி"
+
+#, java-printf-format
+msgctxt "system_default_language"
+msgid "System default language"
+msgstr "கணினி இயல்புநிலை மொழி"
+
+#, java-printf-format
+msgctxt "map_tile_source"
+msgid "Map tile source"
+msgstr "வரைபட ஓடு மூல"
+
+#, java-printf-format
+msgctxt "show_my_location"
+msgid "Show my location"
+msgstr "எனது இருப்பிடத்தைக் காட்டு"
+
+#, java-printf-format
+msgctxt "permission_rationale_fine_location"
+msgid ""
+"Creating reports with useful location data needs permission for accurate "
+"location"
+msgstr ""
+"பயனுள்ள இருப்பிட தரவுகளுடன் அறிக்கைகளை உருவாக்குவது துல்லியமான "
+"இருப்பிடத்திற்கு இசைவு தேவை"
+
+#, java-printf-format
+msgctxt "permission_rationale_read_phone_state"
+msgid "Access to phone state is needed for scanning cell towers"
+msgstr "செல் கோபுரங்களை வருடு செய்ய தொலைபேசி நிலைக்கான அணுகல் தேவை"
+
+#, java-printf-format
+msgctxt "permission_rationale_bluetooth"
+msgid "Scanning Bluetooth beacons needs permission for Bluetooth"
+msgstr "ஊடலை பீக்கான்களை ச்கேன் செய்வதற்கு புளூடூத்துக்கு இசைவு தேவை"
+
+#, java-printf-format
+msgctxt "permission_rationale_post_notifications"
+msgid "Showing status notification needs permission for notifications"
+msgstr "நிலை அறிவிப்பைக் காண்பிப்பது அறிவிப்புகளுக்கு இசைவு தேவை"
+
+#, java-printf-format
+msgctxt "permission_rationale_background_location_quick_settings"
+msgid ""
+"Starting scanning from the quick settings needs access to location in the "
+"background"
+msgstr ""
+"விரைவான அமைப்புகளிலிருந்து ச்கேன் செய்யத் தொடங்குவது பின்னணியில் "
+"இருப்பிடத்தை அணுக வேண்டும்"
+
+#, java-printf-format
+msgctxt "permission_rationale_background_location_passive_scan"
+msgid ""
+"Receiving location updates when the app is not active requires access to "
+"location in the background"
+msgstr ""
+"பயன்பாடு செயலில் இல்லாதபோது இருப்பிட புதுப்பிப்புகளைப் பெறுவதற்கு "
+"பின்னணியில் இருப்பிடத்தை அணுக வேண்டும்"
+
+#, java-printf-format
+msgctxt "permission_rationale_location_map"
+msgid "Showing your location on the map needs permission for location"
+msgstr ""
+"வரைபடத்தில் உங்கள் இருப்பிடத்தைக் காண்பிப்பதற்கு இருப்பிடத்திற்கு இசைவு தேவை"
+
+#, java-printf-format
+msgctxt "troubleshooting_title"
+msgid "Troubleshooting"
+msgstr "சரிசெய்தல்"
+
+#, java-printf-format
+msgctxt "troubleshooting_description"
+msgid "Fix common issues in scanning"
+msgstr "ச்கேனிங்கில் பொதுவான சிக்கல்களை சரிசெய்யவும்"
+
+#, java-printf-format
+msgctxt "troubleshooting_permissions_granted"
+msgid "Permissions granted"
+msgstr "அனுமதிகள் வழங்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "troubleshooting_battery_optimizations_disabled"
+msgid "Battery optimizations disabled"
+msgstr "பேட்டரி மேம்படுத்தல்கள் முடக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "troubleshooting_accurate_location_available"
+msgid "Accurate location available"
+msgstr "துல்லியமான இடம் கிடைக்கிறது"
+
+#, java-printf-format
+msgctxt "troubleshooting_wifi_scan_always_available"
+msgid "Wi-Fi scanning always available"
+msgstr "வைஃபை ச்கேனிங் எப்போதும் கிடைக்கும்"
+
+#, java-printf-format
+msgctxt "troubleshooting_fix"
+msgid "Fix"
+msgstr "சரிசெய்யவும்"
+
+#, java-printf-format
+msgctxt "troubleshooting_ok"
+msgid "Ok"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "troubleshooting_not_ok"
+msgid "Not ok"
+msgstr "சரி இல்லை"
+
+#, java-printf-format
+msgctxt "use_dynamic_color_ui"
+msgid "Use dynamic colors in the UI"
+msgstr "இடைமுகம் இல் மாறும் வண்ணங்களைப் பயன்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "db_prune_title"
+msgid "Delete sent reports"
+msgstr "அனுப்பப்பட்ட அறிக்கைகளை நீக்கு"
+
+#, java-printf-format
+msgctxt "db_prune_one_month"
+msgid "After one month"
+msgstr "ஒரு மாதத்திற்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "db_prune_two_months"
+msgid "After two months"
+msgstr "இரண்டு மாதங்களுக்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "db_prune_six_months"
+msgid "After six months"
+msgstr "ஆறு மாதங்களுக்குப் பிறகு"
+
+#, java-printf-format
+msgctxt "db_prune_never"
+msgid "Never"
+msgstr "ஒருபோதும்"
+
+#, java-printf-format
+msgctxt "manage_storage_title"
+msgid "Manage storage"
+msgstr "சேமிப்பிடத்தை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "db_size"
+msgid "Database size: %s"
+msgstr "தரவுத்தள அளவு: %s"
+
+#, java-printf-format
+msgctxt "db_schema_version"
+msgid "Database schema version: %d"
+msgstr "தரவுத்தள ச்கீமா பதிப்பு: %d"
+
+#, java-printf-format
+msgctxt "delete_data"
+msgid "Delete data"
+msgstr "தரவை நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_reports_by_date"
+msgid "Delete reports by date"
+msgstr "தேதியின்படி அறிக்கைகளை நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_reports_from_area"
+msgid "Delete reports from area"
+msgstr "பகுதியிலிருந்து அறிக்கைகளை நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_all_reports"
+msgid "Delete all reports"
+msgstr "எல்லா அறிக்கைகளையும் நீக்கு"
+
+#, java-printf-format
+msgctxt "delete_all_reports_confirmation"
+msgid "Are you sure you want to delete all reports?"
+msgstr "எல்லா அறிக்கைகளையும் நீக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "toast_deleted_reports"
+msgid "Deleted %d report"
+msgid_plural "Deleted %d reports"
+msgstr[0] "நீக்கப்பட்டது %d அறிக்கை"
+msgstr[1] "நீக்கப்பட்டது %d அறிக்கைகள்"
+
+#, java-printf-format
+msgctxt "toast_deleted_all_reports"
+msgid "Deleted all reports"
+msgstr "எல்லா அறிக்கைகளையும் நீக்கியது"
+
+#, java-printf-format
+msgctxt "crash_log_title"
+msgid "Crash log"
+msgstr "செயலிழப்பு பதிவு"
+
+#, java-printf-format
+msgctxt "crash_log_entry_title"
+msgid "Crash #%d"
+msgstr "செயலிழப்பு #%d"
+
+#, java-printf-format
+msgctxt "about_app"
+msgid "About NeoStumbler"
+msgstr "நியோச்டம்ப்ளர் பற்றி"
+
+#, java-printf-format
+msgctxt "app_version"
+msgid "Version: %s"
+msgstr "பதிப்பு: %s"
+
+#, java-printf-format
+msgctxt "app_variant"
+msgid "Variant: %s"
+msgstr "மாறுபாடு: %s"
+
+#, java-printf-format
+msgctxt "author_text"
+msgid "Made with ❤️ by %1$s and %2$s"
+msgstr "By %1$s மற்றும் %2$s உடன் தயாரிக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "contributors"
+msgid "contributors"
+msgstr "பங்களிப்பாளர்கள்"
+
+#, java-printf-format
+msgctxt "bug_report_button"
+msgid "Report a bug"
+msgstr "ஒரு பிழையைப் புகாரளிக்கவும்"
+
+#, java-printf-format
+msgctxt "update_translations_button"
+msgid "Update translations"
+msgstr "மொழிபெயர்ப்புகளைப் புதுப்பிக்கவும்"

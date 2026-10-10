@@ -1,0 +1,641 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: தாவரவியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "adventitous root"
+msgstr "இடமாறு வேர்"
+
+msgid "aerial root"
+msgstr "விழுது"
+
+msgid "aestivation"
+msgstr "இதழ் அமைப்பு"
+
+msgid "aggregate fruit"
+msgstr "திரள் கனி"
+
+msgid "amphibious plant"
+msgstr "நிலநீர்த் தாவரம்"
+
+msgid "androecium"
+msgstr "ஆண் பகுதி"
+
+msgid "angiosperm"
+msgstr "விதையுறையுள்ள"
+
+msgid "annual"
+msgstr "ஒரு பருவச் செடி"
+
+msgid "anther"
+msgstr "மகரந்தப் பை"
+
+msgid "asexual reproduction"
+msgstr "கலவா இனப்பெருக்கம்"
+
+msgid "autogamy"
+msgstr "தன்னினக் கலப்பு"
+
+msgid "axil"
+msgstr "கக்கம்"
+
+msgid "barb"
+msgstr "சுணை"
+
+msgid "berry"
+msgstr "சதைக்கனி"
+
+msgid "biennial"
+msgstr "இருபருவச் செடி"
+
+msgid "bipinnate"
+msgstr "ஈரிறகு வடிவ"
+
+msgid "bisexual"
+msgstr "இருபால்"
+
+msgid "blade"
+msgstr "இலைப்பரப்பு"
+
+msgid "bract"
+msgstr "பூக்காம்பிலை"
+
+msgid "bracteole"
+msgstr "பூக்காம்பு சிற்றிலைக் கிழங்கு"
+
+msgid "breathing root"
+msgstr "மூச்சு வேர்"
+
+msgid "budding"
+msgstr "அரும்புதல்"
+
+msgid "bulb"
+msgstr "பூண்டு"
+
+msgid "bulbil"
+msgstr "கறளைப் பூண்டு"
+
+msgid "buttress root"
+msgstr "அண்டை வேர்"
+
+msgid "calyx"
+msgstr "புல்லிவட்டம்"
+
+msgid "capsule"
+msgstr "வில்லை"
+
+msgid "caryopsis"
+msgstr "உமி ஒட்டிய"
+
+msgid "caterpillar"
+msgstr "கம்பளிப் புழு"
+
+msgid "cell sap"
+msgstr "உயிரணு நீர்"
+
+msgid "chlorophyll"
+msgstr "பச்சையம்"
+
+msgid "chloroplast"
+msgstr "பசுங்கனிகம்"
+
+msgid "climber"
+msgstr "ஏறுகொடி"
+
+msgid "compound leaf"
+msgstr "கூட்டிலை"
+
+msgid "core"
+msgstr "வயிரம்"
+
+msgid "corm"
+msgstr "தண்டையக் கிழங்கு"
+
+msgid "corolla"
+msgstr "அல்லிவட்டம்"
+
+msgid "cortex"
+msgstr "புறணி"
+
+msgid "cotyledon"
+msgstr "விதையிலை"
+
+msgid "creeper"
+msgstr "படர்கொடி"
+
+msgid "cross pollination"
+msgstr "அயல்மகரந்தச் சேர்க்கை"
+
+msgid "cross-section"
+msgstr "குறுக்குவெட்டு முகம்"
+
+msgid "cryptogram"
+msgstr "பூவாதன"
+
+msgid "cuticle"
+msgstr "புறத்தோல்"
+
+msgid "cyme"
+msgstr "வளரா நுனி"
+
+msgid "cytology"
+msgstr "உயிரணிவியல்"
+
+msgid "deciduos"
+msgstr "உதிருகிற"
+
+msgid "degeneration"
+msgstr "சிதைவு"
+
+msgid "dichogamy"
+msgstr "பரவமாறி"
+
+msgid "dicotyldonous"
+msgstr "இருவிதையிலையுள்ள"
+
+msgid "diploid"
+msgstr "இருபுரியுயிரி"
+
+msgid "diplont"
+msgstr "இருபடையுயிரி"
+
+msgid "dispersal"
+msgstr "பரவுதல்"
+
+msgid "down feather"
+msgstr "பொடி இறகு"
+
+msgid "drupe"
+msgstr "உள்ளொட்டுத் தசைக் கனி"
+
+msgid "embryo"
+msgstr "முளைக்கரு"
+
+msgid "embryo sac"
+msgstr "கருப்பை"
+
+msgid "endocarp"
+msgstr "உள்ளோடு"
+
+msgid "endodermis"
+msgstr "அகத்தோல்"
+
+msgid "endosperm"
+msgstr "முளைசூழ் தசை"
+
+msgid "epigeal"
+msgstr "தரைமேல்"
+
+msgid "epiphyte"
+msgstr "தொற்றிப் படரும் பயிர்"
+
+msgid "epiphytic"
+msgstr "தொற்றிப் படருகிற"
+
+msgid "exon"
+msgstr "வெளியன்"
+
+msgid "fascicle"
+msgstr "கொத்து"
+
+msgid "fertilization"
+msgstr "கருவுறுதல்"
+
+msgid "fibrous root"
+msgstr "நார் வேர்"
+
+msgid "filament"
+msgstr "தாள்"
+
+msgid "foliage lead"
+msgstr "இலைக் கொத்து"
+
+msgid "follicle"
+msgstr "ஒருபுற வெடிகனி"
+
+msgid "frond"
+msgstr "பிரிவிலை"
+
+msgid "fruit"
+msgstr "கனி"
+
+msgid "fungicide"
+msgstr "காளான்கொல்லி"
+
+msgid "fungus"
+msgstr "காளான்"
+
+msgid "fusiform"
+msgstr "நீள் வடிவம்"
+
+msgid "germination"
+msgstr "விதை முளைத்தல்"
+
+msgid "gymnosperm"
+msgstr "உறையில்லா விதை"
+
+msgid "gynoecium"
+msgstr "பெண் பகுதி"
+
+msgid "haustoria"
+msgstr "உறிஞ்சுறுப்புக்கள்"
+
+msgid "heliotropism"
+msgstr "ஒளிநாட்டம்"
+
+msgid "herb"
+msgstr "சிறுசெடி, மூலிகை"
+
+msgid "hilum"
+msgstr "விதைத் தழும்பு"
+
+msgid "histology"
+msgstr "இழையவியல்"
+
+msgid "humus"
+msgstr "இலை மக்கு"
+
+msgid "hybrid"
+msgstr "கலப்பினம்"
+
+msgid "hydrophyte"
+msgstr "நிலநீர்த் தாவரம்"
+
+msgid "hydrotropism"
+msgstr "நீர்நாட்டம்"
+
+msgid "hypogeal"
+msgstr "தரைக்கீழ்"
+
+msgid "imbillition"
+msgstr "உறிஞ்சுதள்"
+
+msgid "inflorescence"
+msgstr "மஞ்சரி"
+
+msgid "insectivorous"
+msgstr "பூச்சி தின்னும்"
+
+msgid "interate"
+msgstr "கணுவிடை"
+
+msgid "irritability"
+msgstr "உறுத்துணர்ச்சி"
+
+msgid "lamina"
+msgstr "இலைப்பரப்பு"
+
+msgid "lateral root"
+msgstr "பக்க வேர்"
+
+msgid "layering"
+msgstr "பதியம் போடுதல்"
+
+msgid "legume"
+msgstr "இருபுற வெடிகனி"
+
+msgid "lenticle"
+msgstr "பட்டைத் துளை"
+
+msgid "longitudinal section"
+msgstr "நெடுக்குவெட்டு முகம்"
+
+msgid "membrane"
+msgstr "சவ்வு"
+
+msgid "meristem"
+msgstr "ஆக்கு இழையம்/ஆக்கிழையம்"
+
+msgid "mesocarp"
+msgstr "இடைக்கனியம்"
+
+msgid "mesophyll"
+msgstr "விதைத் துளை"
+
+msgid "mesophyte"
+msgstr "வளநிலத் தாவரம்"
+
+msgid "monocotyldonous"
+msgstr "ஒருவிதையிலையுள்ள"
+
+msgid "moss"
+msgstr "பாசி"
+
+msgid "moth"
+msgstr "அந்துப் பூச்சி"
+
+msgid "mould"
+msgstr "பூஞ்சைக்காளான்"
+
+msgid "moulting"
+msgstr "தோல் உறிதல், இறகு உறிதல்"
+
+msgid "multiple fruit"
+msgstr "கூட்டுக் கனி"
+
+msgid "mushroom"
+msgstr "நாய்க்குடை, காளான்"
+
+msgid "nectare"
+msgstr "மது"
+
+msgid "node"
+msgstr "கணு"
+
+msgid "nucellus"
+msgstr "சூல் இழையம்/சூலிழையம்"
+
+msgid "nucleolus"
+msgstr "உட்கருக்கோளம்"
+
+msgid "nucleon(s)"
+msgstr "உட்கருவணு(க்கள்)"
+
+msgid "nucleoplasm"
+msgstr "உட்கருக்கணியம்"
+
+msgid "nucleus"
+msgstr "உட்கரு"
+
+msgid "nymph"
+msgstr "இளம்பூச்சி"
+
+msgid "oroxylum indicum"
+msgstr "அச்சி"
+
+msgid "osmosis"
+msgstr "சவ்வூடுபரவல்"
+
+msgid "ovary"
+msgstr "சூற்பை"
+
+msgid "ovule"
+msgstr "சூல்வித்து"
+
+msgid "ovum"
+msgstr "சூல்"
+
+msgid "palisade"
+msgstr "வேலிக்கால் அணு"
+
+msgid "parasite"
+msgstr "ஒட்டுண்ணி"
+
+msgid "pedicel"
+msgstr "பூக்காம்பு"
+
+msgid "peduncle"
+msgstr "மஞ்சரித் தண்டு"
+
+msgid "perenchyma cell"
+msgstr "சோற்றணு"
+
+msgid "perennial"
+msgstr "பல்லாண்டு பருவ"
+
+msgid "perianth"
+msgstr "அல்லி புல்லி இதழ்கள்"
+
+msgid "petal"
+msgstr "அல்லி"
+
+msgid "petiole"
+msgstr "இலைக் காம்பு"
+
+msgid "phanoregam"
+msgstr "பூப்பன"
+
+msgid "phloem"
+msgstr "பட்டையம்"
+
+msgid "photosynthesis"
+msgstr "ஒளிச்சேர்க்கை"
+
+msgid "phylloclade"
+msgstr "இலைத் தொழில் தண்டு"
+
+msgid "phyllotaxi"
+msgstr "இலையொழுங்கு"
+
+msgid "pistle"
+msgstr "சூலகம்"
+
+msgid "pith"
+msgstr "உட்சோறு"
+
+msgid "pitted vessel"
+msgstr "குழிக்குழாய்"
+
+msgid "plant pathology"
+msgstr "பயிர் நோய்க்கூற்றியல்"
+
+msgid "plumule"
+msgstr "முளைக்கருத்து"
+
+msgid "pneumatophore"
+msgstr "மூச்சு வேர்"
+
+msgid "pollen"
+msgstr "மகரந்தப் பை"
+
+msgid "pollen"
+msgstr "மகரந்தம்"
+
+msgid "pollinium"
+msgstr "மகரந்தத் திரள்"
+
+msgid "polyandrous"
+msgstr "பலதாள் மகரந்தம்"
+
+msgid "proboscis"
+msgstr "உறிஞ்சி"
+
+msgid "propogation"
+msgstr "வம்ச விருத்தி, இனப்பெருக்கம்"
+
+msgid "protective colouration"
+msgstr "காப்பு நிறம்"
+
+msgid "ptyxis"
+msgstr "இளநிலை மடிப்பு, அரும்பிலைமடிப்பு"
+
+msgid "putrefaction"
+msgstr "அழுகுதல்"
+
+msgid "pyllode"
+msgstr "இலைத் தட்டைக்காம்பு"
+
+msgid "radial"
+msgstr "ஆரவாட்டு"
+
+msgid "rheum"
+msgstr "நீக்கோவை"
+
+msgid "rhizome"
+msgstr "மட்டக்கிழங்கு"
+
+msgid "rhizosphore"
+msgstr "வேர்த்தாங்கி"
+
+msgid "samara"
+msgstr "வெடியா சிறகுக் கனி"
+
+msgid "sap (wood)"
+msgstr "மரச்சாறு"
+
+msgid "sap (wood)"
+msgstr "மரச்சாறு"
+
+msgid "saprophyte"
+msgstr "சாறுண்ணி"
+
+msgid "saprophyte"
+msgstr "சாறுண்ணி"
+
+msgid "scale leaf"
+msgstr "செதில் இலை"
+
+msgid "scale leaf"
+msgstr "செதில் இலை"
+
+msgid "seed coat"
+msgstr "விதையுறை"
+
+msgid "seedling"
+msgstr "நாற்று"
+
+msgid "self pollination"
+msgstr "தன் மகரந்தச் சேர்க்கை"
+
+msgid "sepal"
+msgstr "புல்லிதழ்"
+
+msgid "sessile"
+msgstr "காம்பிலி"
+
+msgid "shoot"
+msgstr "தண்டுக் கிளை"
+
+msgid "shrub"
+msgstr "குறுஞ்செடி"
+
+msgid "sieve tube"
+msgstr "சல்லடைக் குழாய்"
+
+msgid "spadix"
+msgstr "மடல் மஞ்சரி"
+
+msgid "spathe"
+msgstr "பாளை"
+
+msgid "sperm"
+msgstr "விந்தணு"
+
+msgid "spike"
+msgstr "கதிர், காம்பில்லா மஞ்சரி"
+
+msgid "spine"
+msgstr "வளைமுள்"
+
+msgid "stamens"
+msgstr "மகரந்தக் கேசரங்கள்"
+
+msgid "stigma"
+msgstr "சூல்முடி"
+
+msgid "stilt root"
+msgstr "ஊன்று வேர்"
+
+msgid "stipule"
+msgstr "இலையடிக் கதிர், இலையடிச் செதில்"
+
+msgid "stolon"
+msgstr "ஓடு தண்டு"
+
+msgid "stoma"
+msgstr "இலைத் துளை"
+
+msgid "style"
+msgstr "சூல் தண்டு"
+
+msgid "succulent"
+msgstr "சாறுள்ள"
+
+msgid "sucker"
+msgstr "உறிஞ்சி"
+
+msgid "symplocos racemosa"
+msgstr "வெள்ளிலாதி"
+
+msgid "taxonomy"
+msgstr "பகுப்பியல்"
+
+msgid "tendril"
+msgstr "பற்றி, பற்றுக்கம்பி, கொடிச்சுருள்"
+
+msgid "testa"
+msgstr "(விதை) வெளியுறை"
+
+msgid "thalamus"
+msgstr "பூவடிக் கிண்ணம்"
+
+msgid "transpiration"
+msgstr "நீராவிப் போக்கு"
+
+msgid "transplant, transplantation"
+msgstr "மாற்றி நடு, மாற்றி நடுதல்"
+
+msgid "tropism"
+msgstr "நோக்கித் திரும்பல்"
+
+msgid "tuber"
+msgstr "கிழங்கு"
+
+msgid "turgid"
+msgstr "வீங்கிய, பருத்த"
+
+msgid "twiner"
+msgstr "பின்னுகொடி, சுற்றுக்கொடி"
+
+msgid "umbel"
+msgstr "குடை மஞ்சரி"
+
+msgid "unisexual"
+msgstr "ஒருபால்"
+
+msgid "vaccuole"
+msgstr "சிறு வெற்றிடம்"
+
+msgid "venation"
+msgstr "நரம்பமைப்பு"
+
+msgid "vernation"
+msgstr "இதழமைப்பு"
+
+msgid "vessel"
+msgstr "குழாய் நாளம்"
+
+msgid "web"
+msgstr "விரலிடைத் தோல்"
+
+msgid "weed"
+msgstr "களை"
+
+msgid "xerophyte"
+msgstr "பாலைத் தாவரம்"
+
+msgid "xylem"
+msgstr "மரவியம்"
+
+msgid "yolk"
+msgstr "மஞ்சள் கரு"

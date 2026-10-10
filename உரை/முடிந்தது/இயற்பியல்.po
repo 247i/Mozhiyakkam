@@ -1,0 +1,644 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: இயற்பியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "aberration"
+msgstr "பிறழ்ச்சி"
+
+msgid "abrasive"
+msgstr "தேய்பொருள்"
+
+msgid "absolute"
+msgstr "தனி, சார்பிலா"
+
+msgid "absolute zero"
+msgstr "தனித்த சுழியம்"
+
+msgid "absorbtive power"
+msgstr "உறிஞ்சு திறன்"
+
+msgid "acceleration"
+msgstr "முடுக்கம்"
+
+msgid "accelorometer"
+msgstr "முடுக்கமானி"
+
+msgid "action"
+msgstr "வினை"
+
+msgid "adhesion"
+msgstr "ஒட்டுப்பண்பு"
+
+msgid "adiabatic compression"
+msgstr "வெப்பமாறா அமுக்கம்"
+
+msgid "adsorption"
+msgstr "பரப்புக்கவர்ச்சி, வெளிக்கவரல்"
+
+msgid "altimeter"
+msgstr "உயரமானி"
+
+msgid "amplifier"
+msgstr "மிகைப்பி"
+
+msgid "analogy"
+msgstr "ஒப்புமை"
+
+msgid "anemometer"
+msgstr "காற்றுவேகமானி"
+
+msgid "angle of contact"
+msgstr "தொடு கோணம்"
+
+msgid "angle of deviation"
+msgstr "விரி கோணம்"
+
+msgid "angle of emergence"
+msgstr "விடு கோணம்"
+
+msgid "angle of incidence"
+msgstr "படு கோணம்"
+
+msgid "angle of projection"
+msgstr "எறிகோணம்"
+
+msgid "angular momentum"
+msgstr "வளைவுந்தம்"
+
+msgid "angular velocity"
+msgstr "கோணத் திசைவேகம்"
+
+msgid "anode"
+msgstr "நேர் மின்வாய்"
+
+msgid "anti-matter"
+msgstr "எதிர்மப் பொருண்மை"
+
+msgid "anti-particle"
+msgstr "எதிர்மத் துகள்"
+
+msgid "arc lamp"
+msgstr "மின்வில் விளக்கு"
+
+msgid "balance point"
+msgstr "சமநிலை"
+
+msgid "balance wheel"
+msgstr "சமச்சக்கரம்"
+
+msgid "ball bearing"
+msgstr "மணித்தாங்கி, மணிப்பொதிகை"
+
+msgid "band gap"
+msgstr "பட்டை இடைவெளி"
+
+msgid "banking (curved tracks)"
+msgstr "வரம்புயர்வு"
+
+msgid "bar magnet"
+msgstr "சட்டக் காந்தம்"
+
+msgid "barograph"
+msgstr "பார வரைவி"
+
+msgid "baroscope"
+msgstr "பாரமானி"
+
+msgid "baryon"
+msgstr "பளுனி அதிக பாரம் கொண்ட அடிப்படைத் துகள்கள்"
+
+msgid "battery"
+msgstr "மின்கலம்"
+
+msgid "beaker"
+msgstr "முகவை"
+
+msgid "beats"
+msgstr "துடிப்புகள்"
+
+msgid "bell jar"
+msgstr "மணி ஜாடி"
+
+msgid "belt"
+msgstr "வார்ச்சந்து"
+
+msgid "biconvex lens"
+msgstr "இருகுவி வில்லை"
+
+msgid "binding energy"
+msgstr "பிணைப்பாற்றல்"
+
+msgid "binding screw"
+msgstr "இணைப்புத் திருகாணி"
+
+msgid "binocular"
+msgstr "இருகண்நோக்கி"
+
+msgid "black body"
+msgstr "கரும்பொருள்"
+
+msgid "boson"
+msgstr "முழுச்சுழலி"
+
+msgid "capillary action"
+msgstr "தந்துகி விளைவு"
+
+msgid "centigrade"
+msgstr "பாகை"
+
+msgid "chronometer"
+msgstr "காலமானி"
+
+msgid "clutch"
+msgstr "விடுபற்றி"
+
+msgid "commutator"
+msgstr "திசைமாற்றி"
+
+msgid "compressive"
+msgstr "அமுக்கம்"
+
+msgid "coolant"
+msgstr "குளிர்வி"
+
+msgid "correspondence principle"
+msgstr "நிகர்மைக் கோட்பாடு"
+
+msgid "cosmic ray"
+msgstr "அண்டக் கதிர்"
+
+msgid "depression"
+msgstr "தாழ்வு"
+
+msgid "dichromatism"
+msgstr "இருநிறமை"
+
+msgid "dielectric"
+msgstr "மின்கடத்தாப் பொருள், மின்கடத்திலி"
+
+msgid "dielectric constant"
+msgstr "மின்கடவா எண்"
+
+msgid "dielectric loss"
+msgstr "மின்காப்பிழப்பு"
+
+msgid "dielectric resistance"
+msgstr "மின்காப்புத் தடை"
+
+msgid "diffraction (light)"
+msgstr "நிறப்பிரிகை"
+
+msgid "diffraction (wave)"
+msgstr "விளிம்பு வளைவு"
+
+msgid "diffusion, diffusion current"
+msgstr "விரவல், விரவலோட்டம்"
+
+msgid "dipole moment"
+msgstr "இருமுனைத் திருப்புமை"
+
+msgid "ductile"
+msgstr "நீள்மையுடைய, நீட்டுத்தன்மையுடைய"
+
+msgid "ductility"
+msgstr "நீள்மை, நீட்டுமை, நீட்டுதன்மை"
+
+msgid "dynamic pressure"
+msgstr "இயக்காற்றல்"
+
+msgid "earnshaw's theorem"
+msgstr "எர்ன்ஷா தேற்றம்"
+
+msgid "electron"
+msgstr "எதிர்மின்னி"
+
+msgid "electrons"
+msgstr "எதிர்மின்னிகள்"
+
+msgid "extrinsic semiconductor"
+msgstr "வெளியார்ந்தக் குறைக்கடத்தி"
+
+msgid "fermion"
+msgstr "அரைச்சுழலி"
+
+msgid "fluid"
+msgstr "பாய்மம்"
+
+msgid "flux"
+msgstr "பாயம்"
+
+msgid "focal length"
+msgstr "குவிநீளம், குவியத் தொலைவு"
+
+msgid "forward bias"
+msgstr "முன்னோக்குச் சாரிகை"
+
+msgid "free electron"
+msgstr "தனித்த எதிர்மின்னி, தனித்த மின்னணு"
+
+msgid "frequency"
+msgstr "அலைவெண், பருவெண்"
+
+msgid "friction"
+msgstr "உராய்வு"
+
+msgid "fringing"
+msgstr "வடிம்பாதல்"
+
+msgid "galaxy"
+msgstr "விண்மீன் மண்டலம்/விண்மீன் கூட்டம்/விண்மீன் திரள்"
+
+msgid "gluon"
+msgstr "ஒட்டுமின்னி/ஒட்டுனி"
+
+msgid "hadron"
+msgstr "வல்லியன்"
+
+msgid "heat flux"
+msgstr "வெப்பப் பாயம்"
+
+msgid "hydrostatic pressure"
+msgstr "நிலைநீர்ம அழுத்தம்"
+
+msgid "image"
+msgstr "பிம்பம்"
+
+msgid "inertia"
+msgstr "நிலைமம்"
+
+msgid "instrinsic semiconductor"
+msgstr "உள்ளார்ந்தக் குறைக்கடத்தி"
+
+msgid "integer spin"
+msgstr "முழுச்சுழல்"
+
+msgid "interaction"
+msgstr "உள்வினை"
+
+msgid "inversion"
+msgstr "நேர்மாறல்"
+
+msgid "ion"
+msgstr "மின்னூட்டணு"
+
+msgid "ion current"
+msgstr "மின்னூட்டணுவோட்டம்"
+
+msgid "ion sheath"
+msgstr "மின்னூட்டணுவுறை"
+
+msgid "ionic conductivity"
+msgstr "மின்னூட்டணுக் கடத்தம்"
+
+msgid "ionization"
+msgstr "மின்னூட்டணுவாக்கம்"
+
+msgid "kinetic energy"
+msgstr "இயக்காற்றல்"
+
+msgid "lami's theorem"
+msgstr "லாமி தேற்றம்"
+
+msgid "latent heat"
+msgstr "உள்ளுறை வெப்பம், மறைவெப்பம்"
+
+msgid "lattice"
+msgstr "நெய்யரி"
+
+msgid "lattice constant"
+msgstr "நெய்யரி மாறிலி"
+
+msgid "leakage current"
+msgstr "கசிவு மின்னோட்டம்"
+
+msgid "lepton"
+msgstr "மெதுனி"
+
+msgid "leptons"
+msgstr "மெதுனிகள்"
+
+msgid "magnetic field strengh"
+msgstr "காந்தப் புலச் செறிவு"
+
+msgid "magnetic flux"
+msgstr "காந்தப் பாயம்"
+
+msgid "magnetic flux density"
+msgstr "காந்தப் பாய அடர்வு"
+
+msgid "magnetic levitation (maglev)"
+msgstr "காந்தலகுமம்"
+
+msgid "magnetic permeability"
+msgstr "காந்த உட்புகுத்திறன்"
+
+msgid "magnetic susceptibility"
+msgstr "காந்த ஏற்புத் திறன்"
+
+msgid "magnetization"
+msgstr "காந்தமாக்கம்"
+
+msgid "magnetostriction"
+msgstr "காந்தச்சுருக்கம்"
+
+msgid "malleability"
+msgstr "தகடுமை, தகடாகும் தன்மை"
+
+msgid "mass"
+msgstr "திணிவு, நிறை"
+
+msgid "matter"
+msgstr "பொருண்மை, பருப்பொருள்"
+
+msgid "mechanical energy"
+msgstr "பொறிமுறையாற்றல்"
+
+msgid "mechanical equivalent"
+msgstr "பொறிமுறைச் சமவலு"
+
+msgid "mechanical model"
+msgstr "பொறிமுறை மாதிரி"
+
+msgid "mechanics"
+msgstr "பொறிமுறையியல்"
+
+msgid "medium"
+msgstr "ஊடகம்"
+
+msgid "melody"
+msgstr "இன்னிசை"
+
+msgid "meson"
+msgstr "இடையி"
+
+msgid "mobility"
+msgstr "நகர்கை"
+
+msgid "mole (gram-molecule)"
+msgstr "கிராமூலக்கூறு"
+
+msgid "molecular beam"
+msgstr "மூலக்கூற்றுக் கற்றை"
+
+msgid "molecular bond"
+msgstr "மூலக்கூற்றுப் பிணைப்பு"
+
+msgid "molecular weight"
+msgstr "மூலக்கூற்றடை"
+
+msgid "molecule"
+msgstr "மூலக்கூறு"
+
+msgid "momemtum"
+msgstr "உந்தம்"
+
+msgid "moment"
+msgstr "திருப்புமை, திருப்புத்திறன்"
+
+msgid "moment of inertia of a particle"
+msgstr "துகளின் நிலைமத் திருப்புத்திறன்/திருப்புமை"
+
+msgid "moment of inertia of a rigid body"
+msgstr "திண்பொருளின் நிலைமத் திருப்புத்திறன்/திருப்புமை"
+
+msgid "monochromatic (light)"
+msgstr "ஒருநிற(வொளி)"
+
+msgid "motion"
+msgstr "இயக்கம்"
+
+msgid "motive force"
+msgstr "இயக்க விசை"
+
+msgid "muon"
+msgstr "கனமின்னி"
+
+msgid "negative charge"
+msgstr "குறை மின்னூட்டம், எதிர் மின்னூட்டம்"
+
+msgid "negative ion"
+msgstr "குறை மின்னூட்டணு, எதிர் மின்னூட்டணு"
+
+msgid "neutrino"
+msgstr "நுண்நொதுமி"
+
+msgid "orbittal velocity"
+msgstr "சுற்றியக்கத் திசைவேகம்"
+
+msgid "particle"
+msgstr "துகள்கள்"
+
+msgid "particle accelerator"
+msgstr "துகள் முடுக்கி"
+
+msgid "perpendicular axis theorem"
+msgstr "செங்குத்து அச்சுத் தேற்றம்"
+
+msgid "perpetual motion"
+msgstr "நிரந்திர இயக்கம்"
+
+msgid "photon"
+msgstr "ஒளியன்"
+
+msgid "pickle-barrel reactor"
+msgstr "பீப்பாய் அணுவுலை"
+
+msgid "piezo-electricity"
+msgstr "அமுக்கமின்சாரம்"
+
+msgid "positive charge"
+msgstr "நிறை மின்னூட்டம்; நேர் மின்னூட்டம்"
+
+msgid "positive ion"
+msgstr "நிறை மின்னூட்டணு; நேர் மின்னூட்டணு"
+
+msgid "positron"
+msgstr "மறுதலை எதிர்மின்னி"
+
+msgid "potential barrier"
+msgstr "மின்னழுத்த அரண்"
+
+msgid "potential difference"
+msgstr "மின்னழுத்த வேறுபாடு"
+
+msgid "potential energy"
+msgstr "நிலை ஆற்றல்"
+
+msgid "projectile"
+msgstr "எறிது"
+
+msgid "pulley"
+msgstr "கப்பி"
+
+msgid "quantum"
+msgstr "துளியன்"
+
+msgid "quark"
+msgstr "கூற்றிலி"
+
+msgid "radio"
+msgstr "வானொலி"
+
+msgid "radio interference"
+msgstr "வானலை இடையூறு"
+
+msgid "radius of gyration"
+msgstr "சுழற்சி ஆரம்"
+
+msgid "range"
+msgstr "நெடுக்கம்"
+
+msgid "recoil"
+msgstr "பின்னடிப்பு"
+
+msgid "refridgerant"
+msgstr "குளிர்பதனூட்டி"
+
+msgid "relative density"
+msgstr "ஒப்படர்த்தி"
+
+msgid "repulsion"
+msgstr "தள்ளுகை, எதிர்த்தல்"
+
+msgid "reverse bias"
+msgstr "பின்னோக்குச் சாரிகை"
+
+msgid "rigid body"
+msgstr "திண்பொருள்"
+
+msgid "rotatory compressor"
+msgstr "சுழல் அழுத்தி"
+
+msgid "saturation"
+msgstr "தெவிட்டல்"
+
+msgid "scale (music)"
+msgstr "மண்டிலம்"
+
+msgid "scattering of light"
+msgstr "ஒளிச்சிதறல்"
+
+msgid "shear"
+msgstr "கொய்வு"
+
+msgid "shear force per cross-sectional area"
+msgstr "கொய்வு விசை அதன் குறுக்குப் பரப்பு வீதத்தில்"
+
+msgid "sine"
+msgstr "செவ்வளை"
+
+msgid "siphon"
+msgstr "வடிகுழாய்"
+
+msgid "solidity"
+msgstr "திண்மை"
+
+msgid "sonometer"
+msgstr "சுரமானி"
+
+msgid "specific heat"
+msgstr "தன்வெப்பம்"
+
+msgid "specific heat capacity"
+msgstr "தன் வெப்ப ஏற்புத்திறன்"
+
+msgid "spectrum"
+msgstr "நிறமாலை"
+
+msgid "spherometer"
+msgstr "கோளமானி"
+
+msgid "spiral spring"
+msgstr "சுருள் வில்"
+
+msgid "srain tensor"
+msgstr "இசிவு பண்பன், திரிபு பண்பன்"
+
+msgid "statics"
+msgstr "நிலையியல்"
+
+msgid "stop watch"
+msgstr "நிறுத்தல் கடிகாரம்"
+
+msgid "strain"
+msgstr "இசிவு, திரிபு"
+
+msgid "strain axis"
+msgstr "திரிபு அச்சு, இசிவு அச்சு"
+
+msgid "stress"
+msgstr "தகைப்பு, தகைவு "
+
+msgid "sumblimation"
+msgstr "பதங்கமாதல்"
+
+msgid "surface tension"
+msgstr "பரப்பு இழுவிசை"
+
+msgid "tachometer"
+msgstr "சுற்றுமானி"
+
+msgid "tau particle"
+msgstr "மிகுமின்னி"
+
+msgid "tensile"
+msgstr "இழுப்பு"
+
+msgid "tensile stress"
+msgstr "நீட்சித் தகைவு, இழுவிசை தகைவு"
+
+msgid "tension"
+msgstr "இழுவிசை, விறைப்பு"
+
+msgid "terminal velocity"
+msgstr "இறுதித் திசைவேகம்"
+
+msgid "thermostat"
+msgstr "வெப்பநிலைப்பி"
+
+msgid "torque"
+msgstr "விசைத்திருப்பம"
+
+msgid "torsion"
+msgstr "முறுக்கு"
+
+msgid "total internal reflection"
+msgstr "முழு அக பிரதிபலிப்பு"
+
+msgid "trajectory"
+msgstr "எறிபாதை"
+
+msgid "translucency, translucent"
+msgstr "ஒளிகசிவுமை, ஒளிகசிகிற"
+
+msgid "transparency, transparent"
+msgstr "ஒளிபுகுமை, ஒளிபுகும்"
+
+msgid "type"
+msgstr "வகை"
+
+msgid "ultrasound"
+msgstr "ஊடொலி"
+
+msgid "universe"
+msgstr "அண்டம்"
+
+msgid "valence band"
+msgstr "இணைதிறன் பட்டை"
+
+msgid "velocity"
+msgstr "திசை வேகம்"
+
+msgid "x-ray"
+msgstr "ஊடுக்கதிர்"

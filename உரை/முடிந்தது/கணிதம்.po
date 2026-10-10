@@ -1,0 +1,761 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: கணிதம்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "abacus"
+msgstr "மணிச்சட்டம்"
+
+msgid "abcissa"
+msgstr "கிடைத் தொலைவு"
+
+msgid "abelian group"
+msgstr "அபீலியன் குலம்"
+
+msgid "aberration"
+msgstr "பிழர்ச்சி"
+
+msgid "above bounded"
+msgstr "மேல்வரம்புடையது"
+
+msgid "abridge notation"
+msgstr "சுருக்கக் குறிமானம்"
+
+msgid "absolute convergence"
+msgstr "தனி ஒருங்கல்"
+
+msgid "acute angle"
+msgstr "குறுங்கோணம்"
+
+msgid "addition"
+msgstr "கூட்டல்"
+
+msgid "adjacent angle"
+msgstr "அடுத்துள்ள கோணம்"
+
+msgid "adjacent side"
+msgstr "அயற்பக்கம்"
+
+msgid "adjoint"
+msgstr "உடனிணைப்பு"
+
+msgid "adjusted"
+msgstr "சருசெய்த"
+
+msgid "affine"
+msgstr "கேண்மை"
+
+msgid "affine plane"
+msgstr "கேண்மைத் தளம்"
+
+msgid "aggregation"
+msgstr "திரள்வு"
+
+msgid "algebra"
+msgstr "இயற்கணிதம்"
+
+msgid "algebraic sum"
+msgstr "இயற்கணிதக் கூட்டுத்தொகை"
+
+msgid "altitude"
+msgstr "குத்துயரம்"
+
+msgid "ambiguity"
+msgstr "ஈரடி"
+
+msgid "apogee"
+msgstr "சேய்மைநிலை"
+
+msgid "aposteriori"
+msgstr "பிற்கணிப்பு"
+
+msgid "arithmetic mean"
+msgstr "கூட்டுச் சராசரி, கூட்டிடை"
+
+msgid "arithmetic progression/series"
+msgstr "கூட்டுத் தொடர்"
+
+msgid "ascending order"
+msgstr "ஏறுவரிசை"
+
+msgid "asymptote"
+msgstr "அணிகுகோடு"
+
+msgid "auto-correlation"
+msgstr "தன் ஒட்டுறவு"
+
+msgid "backward"
+msgstr "பின்னோக்கு"
+
+msgid "ballistic curve"
+msgstr "எறிபொருள் வளைவு"
+
+msgid "base"
+msgstr "அடிப்படை"
+
+msgid "base of a logarathm"
+msgstr "மடக்கையடி"
+
+msgid "base vector"
+msgstr "அடிப்படைத் திசையன்"
+
+msgid "base2"
+msgstr "இரண்டு அடிப்படை"
+
+msgid "basis"
+msgstr "அடுக்களம்"
+
+msgid "basis vector"
+msgstr "அடுக்களத் திசையன்"
+
+msgid "binomial"
+msgstr "ஈருறுப்பு"
+
+msgid "binomial operation"
+msgstr "ஈருறுப்புச் செயலி"
+
+msgid "bisector"
+msgstr "சமவெட்டி"
+
+msgid "bivariate"
+msgstr "இருமாறி"
+
+msgid "boundary condition"
+msgstr "வரம்புநிலைக் கட்டுப்பாடு"
+
+msgid "bounded function"
+msgstr "வரம்புறுச் சார்பு"
+
+msgid "bounded set"
+msgstr "வரம்புறுக் கணம்"
+
+msgid "cardioid"
+msgstr "நெஞ்சுவளை"
+
+msgid "chain rule"
+msgstr "சங்கிலி விதி"
+
+msgid "charecteristic (of a logarathm)"
+msgstr "(மடக்கை) முழுவெண்"
+
+msgid "circumscribed circle"
+msgstr "வெளிச்சுற்று வட்டம்"
+
+msgid "circumscribed polygon"
+msgstr "வெளிவரைவுறுப் பலகோணம்"
+
+msgid "closed interval"
+msgstr "அடைத்த இடைவெளி"
+
+msgid "coaxial circles"
+msgstr "பொது அச்சு வட்டங்கள்"
+
+msgid "coaxial spheres"
+msgstr "பொது அச்சுக் கோளங்கள்"
+
+msgid "coefficient"
+msgstr "கெழு"
+
+msgid "collinear, collinearity"
+msgstr "நேர்க்கோடமை, நேர்க்கோடமைவு"
+
+msgid "collision"
+msgstr "மோதுகை"
+
+msgid "combination"
+msgstr "சேர்வு, சேர்மானம்"
+
+msgid "common factor"
+msgstr "பொதுக் காரணி"
+
+msgid "commutation group"
+msgstr "பரிமாற்றுக் குலம்"
+
+msgid "commutative law"
+msgstr "பரிமாற்று விதி"
+
+msgid "compact set"
+msgstr "இறுகியக் கணம்"
+
+msgid "compass (geometry)"
+msgstr "கவராயம்"
+
+msgid "complex number"
+msgstr "சிக்கலெண்"
+
+msgid "complex vector space"
+msgstr "சிக்கலெண் திசையன் வெளி"
+
+msgid "componendo et dividendo"
+msgstr "கூட்டல் கழித்தல் விகிதச் சமம்"
+
+msgid "cone"
+msgstr "ஒரு கூம்பு"
+
+msgid "conjugate"
+msgstr "இணையியம்"
+
+msgid "continuos function"
+msgstr "தொடர்ச்சியான‌ சார்பு மாறி"
+
+msgid "continuos variable"
+msgstr "தொடர்ந்த மாறி"
+
+msgid "coordinate"
+msgstr "ஆயம்"
+
+msgid "correlation"
+msgstr "ஒட்டுறவு"
+
+msgid "coset"
+msgstr "துணைக்கணம்"
+
+msgid "cosine"
+msgstr "துணைச்செவ்வளை"
+
+msgid "cosinusoidal"
+msgstr "துணைச்செவ்வளைவு"
+
+msgid "curl"
+msgstr "சுருட்டை"
+
+msgid "curvature"
+msgstr "வளைமை"
+
+msgid "curve"
+msgstr "வளைவு"
+
+msgid "decagon"
+msgstr "பதின்கோணம்"
+
+msgid "decimal number system"
+msgstr "பதின்ம எண்முறை"
+
+msgid "degree of freedom"
+msgstr "உரிமை அளவெண்"
+
+msgid "del operator"
+msgstr "வகைமம், வகைம இயக்கி"
+
+msgid "denominator"
+msgstr "பின்னப்பகுதி, (பின்னக்)கீழெண்"
+
+msgid "determinant"
+msgstr "அணிக்கோவை"
+
+msgid "deterministic"
+msgstr "உறுதிப்ப‌டு நிலை"
+
+msgid "diagonal"
+msgstr "மூலைவிட்டம்"
+
+msgid "diagonally opposite"
+msgstr "மூலைவிட்டமெதிர்"
+
+msgid "diametrically opposite"
+msgstr "விட்டமெதிர்"
+
+msgid "die"
+msgstr "பகடை"
+
+msgid "difference"
+msgstr "வேறுபாடு"
+
+msgid "differential calculus"
+msgstr "வகையீட்டு நுண்கணிதம்"
+
+msgid "differentiation"
+msgstr "வகையீட்டல்"
+
+msgid "directrix"
+msgstr "இயக்குவரை"
+
+msgid "discriminant"
+msgstr "பண்புகாட்டி"
+
+msgid "disjoint set"
+msgstr "வெட்டாக்கணம்"
+
+msgid "distribution"
+msgstr "பரவல்"
+
+msgid "divergence"
+msgstr "விரிதல்"
+
+msgid "divided by (eg. 5 / 5)"
+msgstr "அரன, வகுத்தல் (உதா. 5 அரன 5 சமன் 1, 5 வகுத்தல் 5 சமன் 1)"
+
+msgid "divisor"
+msgstr "வகுஎண், வகுத்தி"
+
+msgid "dual"
+msgstr "இருமம்"
+
+msgid "eccentricity"
+msgstr "மையப்பிறழ்வு"
+
+msgid "etc"
+msgstr "போறவை"
+
+msgid "expectation"
+msgstr "எதிர்ப்பார்ப்பு"
+
+msgid "exponential"
+msgstr "அடுக்குக்குறி"
+
+msgid "exponential series"
+msgstr "அடுக்குக்குறித் தொடர்"
+
+msgid "expression"
+msgstr "கோவை"
+
+msgid "field"
+msgstr "புலம்"
+
+msgid "frequency"
+msgstr "மீடிறன், மீள்திறன், நிகழ்வெண், நிகழ்வு"
+
+msgid "frustrum"
+msgstr "அடிக்கண்டம்"
+
+msgid "generating function"
+msgstr "பிறப்பிக்கும் சார்பு"
+
+msgid "geometric mean"
+msgstr "பெருக்குச் சராசரி, பெருக்கலிடை"
+
+msgid "geometric progression/series"
+msgstr "பெருக்குத் தொடர்"
+
+msgid "gradient"
+msgstr "சரிவு"
+
+msgid "greatest common factor (gcf)"
+msgstr "மீப்பெரு பொதுக் காரணி"
+
+msgid "harmonic mean"
+msgstr "இசையிடை, இசைச்சராசரி"
+
+msgid "highest common factor (hcf)"
+msgstr "மீப்பெரு பொதுக் காரணி"
+
+msgid "histogram"
+msgstr "செவ்வகப்படம்"
+
+msgid "hypotneuse"
+msgstr "செம்பக்கம்"
+
+msgid "if and only if"
+msgstr "இருந்தால் மட்டும்"
+
+msgid "imaginary"
+msgstr "கற்பனை"
+
+msgid "imaginary number"
+msgstr "கற்பனை எண்"
+
+msgid "improper integral"
+msgstr "முறையிலாத் தொகையீடு"
+
+msgid "incenter"
+msgstr "உள்மையம்"
+
+msgid "independent variable"
+msgstr "சார்பில்லா மாறி, சார்பற்ற மாறி"
+
+msgid "induction"
+msgstr "உய்த்தறிதல்"
+
+msgid "inequality"
+msgstr "சமனிலி"
+
+msgid "infinite"
+msgstr "கந்தழி, முடிவிலி"
+
+msgid "inflexion"
+msgstr "மாறிடம்"
+
+msgid "inproper fraction"
+msgstr "தகாப்பின்னம்"
+
+msgid "inscribed circle"
+msgstr "உள்தொடு வட்டம்"
+
+msgid "inscribed polygon"
+msgstr "உள்வரைவுப் பலகோணம்"
+
+msgid "integral"
+msgstr "தொகையீட்டு"
+
+msgid "integral calculus"
+msgstr "தொகையீட்டு நுண்கணிதம்"
+
+msgid "integration"
+msgstr "தொகையீட்டல்"
+
+msgid "iteration"
+msgstr "மறுசெய்கை"
+
+msgid "iterative process"
+msgstr "மறுசெய்கை முறை"
+
+msgid "joint probability"
+msgstr "கூட்டு நிகழ்தகவு"
+
+msgid "lattice"
+msgstr "கூடமைப்பு"
+
+msgid "leading diagonal"
+msgstr "தலைமை மூலைவிட்டம்"
+
+msgid "least common multiple (lcm)"
+msgstr "மீச்சிறு பொது மடங்கு"
+
+msgid "linear transformation"
+msgstr "நேரியல் உருமாற்றம்"
+
+msgid "magnitude"
+msgstr "பருமை"
+
+msgid "mapping"
+msgstr "கோர்ப்பு"
+
+msgid "mathematical model"
+msgstr "கணித மாதிரி"
+
+msgid "matrix"
+msgstr "அணி"
+
+msgid "maxima"
+msgstr "பெருமம்"
+
+msgid "maximum"
+msgstr "பெருமம்"
+
+msgid "mean"
+msgstr "இடை, சராசரி"
+
+msgid "mean probability of all outcomes"
+msgstr "அனைத்து நிகழக்கூடிய விளைவுகளின் சராசரி நிகழ்தகவு"
+
+msgid "median"
+msgstr "இடைநடு"
+
+msgid "median"
+msgstr "இடையம், அரைமம்"
+
+msgid "median (triangle)"
+msgstr "நடுக்கோடு"
+
+msgid "minima"
+msgstr "சிறுமம்"
+
+msgid "minimum"
+msgstr "சிறுமம்"
+
+msgid "minus (eg -2)"
+msgstr "எதிர்ம (எ.டு. எதிர்ம 2)"
+
+msgid "minus (eg 2 minus 2)"
+msgstr "சய, கழித்தல் (உதா. 2 சய 2 சமன் 0, 2 கழித்தல் 2 சமன் 0)"
+
+msgid "mode"
+msgstr "ஆகாரம்"
+
+msgid "multinomial"
+msgstr "பல்லுறுப்பு"
+
+msgid "multiplication"
+msgstr "பெருக்கல்"
+
+msgid "n-th root"
+msgstr "n-ஆம் படி மூலம்"
+
+msgid "negative"
+msgstr "எதிர்மம்"
+
+msgid "negative number"
+msgstr "எதிர்ம எண்"
+
+msgid "null set"
+msgstr "வெற்றுக் கணம்"
+
+msgid "numerator"
+msgstr "(பின்னத்)தொகுதி, (பின்ன)மேலெண்"
+
+msgid "odd"
+msgstr "ஒற்றைப் படை"
+
+msgid "odd function"
+msgstr "ஒற்றைப்படைச் சார்பு"
+
+msgid "odds against"
+msgstr "பாதக விகிதம்"
+
+msgid "odds in favour"
+msgstr "சாதக விகிதம்"
+
+msgid "one-to-one correspondence"
+msgstr "ஒன்றுக்கொன்றான இயைபு"
+
+msgid "oppositeside"
+msgstr "எதிர்ப்பக்கம்"
+
+msgid "optimal value, optimum"
+msgstr "உகம மதிப்பு, உகமம்"
+
+msgid "orientation"
+msgstr "திசைப்போக்கு"
+
+msgid "orthocenter"
+msgstr "செங்கோண மையம், செங்குத்து மையம்"
+
+msgid "orthogonal"
+msgstr "செங்கோண, செங்குத்து"
+
+msgid "orthogonality"
+msgstr "செங்குத்துமை"
+
+msgid "parallel planes"
+msgstr "இணைத்தளங்களால்"
+
+msgid "parallelogram"
+msgstr "இணைகரம்"
+
+msgid "parallelopiped"
+msgstr "இணைகரத் திண்மம்"
+
+msgid "parameter"
+msgstr "கூறளவு, பண்பளவு"
+
+msgid "particular solution"
+msgstr "சிறப்புத் தீர்வு, குறிப்பிட்டத் தீர்வு"
+
+msgid "perigee"
+msgstr "அண்மைநிலை"
+
+msgid "permutation"
+msgstr "வரிசைமாற்றம், வரிசைவகுதி"
+
+msgid "perpendicular"
+msgstr "செங்குத்து, செங்குத்தான"
+
+msgid "perpendicular bisector"
+msgstr "செங்குத்துச் சமவெட்டி, செங்குத்து இருசமவெட்டி, செங்குத்திருசமவெட்டி"
+
+msgid "plane"
+msgstr "தளம்"
+
+msgid "plane geometry"
+msgstr "தளவடிவியல்"
+
+msgid "plus (eg. +5)"
+msgstr "நேர்ம (எ.டு. நேர்ம ஐந்து)"
+
+msgid "plus (eg. 5 + 5)"
+msgstr "சய, கூட்டல் (உதா. 5 சய 5 சமன் 10), 5 கூட்டல் 5 சமன் 10)"
+
+msgid "polygon"
+msgstr "பலகோணம்"
+
+msgid "polyhedron"
+msgstr "பன்முகி"
+
+msgid "polynomial"
+msgstr "அடுக்குக்கோவை"
+
+msgid "positive"
+msgstr "நேரமம்"
+
+msgid "positive"
+msgstr "நேர்ம"
+
+msgid "positive number"
+msgstr "நேர்ம எண்"
+
+msgid "prime element"
+msgstr "பகா உறுப்பு"
+
+msgid "prime factor"
+msgstr "பகாக்காரணி"
+
+msgid "prime number"
+msgstr "பகா எண், வகுபடா எண்"
+
+msgid "primitive"
+msgstr "தொடக்கநிலை"
+
+msgid "probability"
+msgstr "நிகழ்தகவு"
+
+msgid "probability density"
+msgstr "நிகழ்தகவு அடர்த்தி"
+
+msgid "probability density function"
+msgstr "நிகழ்தகவு அடர்சார்பு"
+
+msgid "pyramid"
+msgstr "கூம்பகம்"
+
+msgid "pyramid"
+msgstr "கூம்பகம்"
+
+msgid "quadrant"
+msgstr "காலணை"
+
+msgid "random variable"
+msgstr "சமவாய்ப்பு மாறி"
+
+msgid "range"
+msgstr "வீச்சு"
+
+msgid "rational number"
+msgstr "விகிதமுறு எண்"
+
+msgid "rectangular coordinate system"
+msgstr "செவ்வக ஆயமுறை"
+
+msgid "rectangular coordinates"
+msgstr "செவ்வக ஆயங்கள்"
+
+msgid "root"
+msgstr "மூலம்"
+
+msgid "rounding off"
+msgstr "முழுதாக்கல்"
+
+msgid "row"
+msgstr "நிரை"
+
+msgid "scalar"
+msgstr "அளவெண்"
+
+msgid "secant"
+msgstr "வெட்டுவளை"
+
+msgid "section"
+msgstr "வெட்டுமுகம்"
+
+msgid "section plane"
+msgstr "தள வெட்டுமுகம்"
+
+msgid "set"
+msgstr "கணம்"
+
+msgid "set of values"
+msgstr "மதிப்புக்கணம்"
+
+msgid "set square"
+msgstr "மூலமட்டம்"
+
+msgid "simultaneous equations"
+msgstr "ஒருங்கமைச் சமன்பாடுகள்"
+
+msgid "sine"
+msgstr "செவ்வளை"
+
+msgid "single valued set"
+msgstr "ஒருமதிப்புச் சார்பு"
+
+msgid "singularity"
+msgstr "வழுவிடம்"
+
+msgid "sinusoidal"
+msgstr "செவ்வளைவு"
+
+msgid "slide rule"
+msgstr "நழுவுசட்டம்"
+
+msgid "solid geometry"
+msgstr "கனவடிவயியல்"
+
+msgid "solution"
+msgstr "தீர்வு"
+
+msgid "space"
+msgstr "வெளி"
+
+msgid "sphere"
+msgstr "கோளம்"
+
+msgid "standard deviation"
+msgstr "திட்டவிலக்கல், நியம விலகல்"
+
+msgid "summation"
+msgstr "கூட்டல்"
+
+msgid "surd"
+msgstr "விகிதமுறா மூலம்"
+
+msgid "symmetric"
+msgstr "சமச்சீர்"
+
+msgid "tangent"
+msgstr "தொடுவளை"
+
+msgid "tangent plane"
+msgstr "தொடுதளம்"
+
+msgid "tangential velocity"
+msgstr "தொடுகோட்டுத் திசைவேகம்"
+
+msgid "tangentline"
+msgstr "தொடுகோடு"
+
+msgid "tensor"
+msgstr "பண்புரு"
+
+msgid "times"
+msgstr "பெருக்கல்"
+
+msgid "trapezium"
+msgstr "சரிவகம்"
+
+msgid "trapezoid"
+msgstr "சரிவகத்திண்மம்"
+
+msgid "trignometry"
+msgstr "கோணவியல்"
+
+msgid "truth table"
+msgstr "உண்மை அட்டவணை"
+
+msgid "uncorrelated"
+msgstr "ஒட்டுறவற்ற"
+
+msgid "uniform"
+msgstr "சீரான"
+
+msgid "unit"
+msgstr "அலகு"
+
+msgid "universal set"
+msgstr "முழுத்தொகு கணம்"
+
+msgid "variance"
+msgstr "மாறுபாடு"
+
+msgid "vector"
+msgstr "திசையன்"
+
+msgid "vertically opposite angle"
+msgstr "குத்தெதிர்க் கோணம்"
+
+msgid "volume"
+msgstr "கனம்"
+
+msgid "volume integral"
+msgstr "கனத்தொகையீடு, பருமத்தொகையீடு"
+
+msgid "weak"
+msgstr "மென்"

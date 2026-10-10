@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Turris)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-20 03:47+0200\n"
+"PO-Revision-Date: 2025-03-22 08:40\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/turris/glossary/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#, read-only, terminology
+msgid "seccomp"
+msgstr "செக்காம்ப்"
+
+#, read-only, terminology
+msgid "Pakon"
+msgstr "முணுமுணுப்பு"
+
+#, read-only, terminology
+msgid "Transmission"
+msgstr "பரவும் முறை"
+
+#, read-only, terminology
+msgid "Minipots"
+msgstr "மினிபோட்டுகள்"
+
+#, read-only, terminology
+msgid "BitTorrent"
+msgstr "பிட்டோரண்ட்"
+
+#, read-only, terminology
+msgid "Tinyproxy"
+msgstr "டைனி பாக்சி"
+
+#, read-only, terminology
+msgid "WireGuard"
+msgstr "வயர் கார்ட்"
+
+#, read-only, terminology
+msgid "RAID"
+msgstr "சோதனை"
+
+#, read-only, terminology
+msgid "SQM"
+msgstr "சதுர மீட்டர்"
+
+#, read-only, terminology
+msgid "Suricata"
+msgstr "சர்போர்ட்"
+
+#, read-only, terminology
+msgid "RAID1"
+msgstr "சவாரி 1"
+
+#, read-only, terminology
+msgid "Nextcloud"
+msgstr "அடுத்த முகில்"
+
+#, read-only, terminology
+msgid "ujail"
+msgstr "சென்டில்மேன்"
+
+#, read-only, terminology
+msgid "DNS"
+msgstr "டி.என்.எச்"
+
+#, read-only, terminology
+msgid "OpenVPN"
+msgstr "OpenVpn"
+
+#, read-only, terminology
+msgid "Samba"
+msgstr "சாம்பா"
+
+#, terminology
+msgid "Netdata"
+msgstr "நிகர தரவு"
+
+#, read-only, terminology
+msgid "UPnP"
+msgstr "யுபிஎன்பி"
+
+#, terminology
+msgid "collectd"
+msgstr "சேகரிப்பு"
+
+#, terminology
+msgid "Morce"
+msgstr "மோர்ச்"
+
+#, read-only, terminology
+msgid "UUID"
+msgstr "Uuid"
+
+#, read-only, terminology
+msgid "dm-crypt"
+msgstr "டி.எம்-கிரிப்ட்"
+
+#, read-only, terminology
+msgid "mdadm"
+msgstr "mdadm"
+
+#, read-only, terminology
+msgid "DLNA"
+msgstr "டி.எல்.என்.ஏ"
+
+#, read-only, terminology
+msgid "JBOD"
+msgstr "Jbood"

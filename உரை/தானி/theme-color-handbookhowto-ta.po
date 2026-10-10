@@ -1,0 +1,132 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Theme Color)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-09 16:17+0200\n"
+"PO-Revision-Date: 2025-03-19 21:08\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/theme-color/handbookhowto/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#: %2Bhtml.body.h1:9-5
+#, safe-html, strict-same
+msgid "Loading and Applying Colors"
+msgstr "வண்ணங்களை ஏற்றுதல் மற்றும் பயன்படுத்துதல்"
+
+#: %2Bhtml.body.p:12-5
+#, safe-html, strict-same
+msgid ""
+"Ambience Colors are stored in several places: the .ambience file for "
+"installed Ambiences, a user-local database for user-created Ambiences, and "
+"<i>dconf</i>. When an Ambience is loaded, its color values are written to a "
+"DConf location, and lipstick reads the values from there and uses it for its"
+" Theme."
+msgstr ""
+"சுற்றுப்புற வண்ணங்கள் பல இடங்களில் சேமிக்கப்படுகின்றன: நிறுவப்பட்ட "
+"ஆம்பயினென்சிற்கான. ஏம்பியன்ச் கோப்பு, பயனர் உருவாக்கிய அம்பியென்சிற்கான "
+"பயனர்-உள்ளூர் தரவுத்தளம், மற்றும் <i> dconf </i>. ஒரு சுற்றுப்புறம் "
+"ஏற்றப்படும்போது, ​​அதன் வண்ண மதிப்புகள் ஒரு DCONF இருப்பிடத்திற்கு "
+"எழுதப்படுகின்றன, மேலும் லிப்ச்டிக் அங்கிருந்து மதிப்புகளைப் படித்து அதன் "
+"கருப்பொருளுக்கு பயன்படுத்துகிறது."
+
+#: %2Bhtml.body.p:16-5
+#, safe-html, strict-same
+msgid ""
+"We use that last part in this application, in that when we \"Apply\" colors "
+"to the system, we simply write to that DConf location, and lipstick notices "
+"and adjusts it theme. The good thing is, while official Ambiences only "
+"define four colors (two of which are always the same in practice), writing "
+"additional values to that location works, if they are defined as changable "
+"by the Sailfish Theme."
+msgstr ""
+"இந்த பயன்பாட்டில் அந்த கடைசி பகுதியை நாங்கள் பயன்படுத்துகிறோம், அதில் "
+"கணினிக்கு வண்ணங்களை \"பயன்படுத்தும்போது\", அந்த DCONF இருப்பிடத்திற்கு "
+"எழுதுகிறோம், மேலும் லிப்ச்டிக் அறிவித்து அதை கருப்பொருளை சரிசெய்கிறோம். நல்ல"
+" சேதி என்னவென்றால், உத்தியோகபூர்வ தெளிவற்ற தன்மை நான்கு வண்ணங்களை மட்டுமே "
+"வரையறுக்கிறது (அவற்றில் இரண்டு எப்போதும் நடைமுறையில் ஒரே மாதிரியானவை), அந்த "
+"இருப்பிடத்திற்கு கூடுதல் மதிப்புகளை எழுதுவது, அவை படகோட்டம் கருப்பொருளால் "
+"மாற்றக்கூடியவை என வரையறுக்கப்பட்டால்."
+
+#: %2Bhtml.body.p:21-5
+#, safe-html, strict-same
+msgid "The dconf path in question is"
+msgstr "கேள்விக்குரிய DCONF பாதை"
+
+#: %2Bhtml.body.pre:24-5
+#, ignore-same, safe-html, strict-same
+msgid "/desktop/jolla/theme/color"
+msgstr "/desktop/jolla/theme/color"
+
+#: %2Bhtml.body.p:25-5
+#, safe-html, strict-same
+msgid "and can be read from command line using"
+msgstr "மற்றும் கட்டளை வரியிலிருந்து படிக்கலாம்"
+
+#: %2Bhtml.body.pre:28-5
+#, ignore-inconsistent, ignore-same, safe-html, strict-same
+msgid "dconf dump"
+msgstr "dconf dump"
+
+#: %2Bhtml.body.h1:29-5
+#, safe-html, strict-same
+msgid "App Configuration and State"
+msgstr "பயன்பாட்டு உள்ளமைவு மற்றும் நிலை"
+
+#: %2Bhtml.body.p:32-5
+#, safe-html, strict-same
+msgid ""
+"Speaking of dconf, the application uses it in its own location to store "
+"things like Shelves and information for the builder.<br> Unfortuately, if "
+"the user creates and deletes Ambiences a lot, and uses the Ambience Shelf, "
+"there might be a lot of stale setting in there which may warrant cleaning "
+"out from time to time."
+msgstr ""
+"DCONF ஐப் பற்றி பேசுகையில், பயன்பாடு அதன் சொந்த இடத்தில் அலமாரிகள் மற்றும் "
+"தகவல்களை பில்டருக்கு சேமிக்க அதன் சொந்த இடத்தில் பயன்படுத்துகிறது."
+
+#: %2Bhtml.body.p:36-5
+#, safe-html, strict-same
+msgid "The location for this is"
+msgstr "இதற்கான இடம்"
+
+#: %2Bhtml.body.pre:39-5
+#, ignore-same, safe-html, strict-same
+msgid "/org/nephros/openrepos-themecolor/storage"
+msgstr "/org/nephros/openrepos-themecolor/storage"
+
+#: %2Bhtml.body.h1:40-5
+#, safe-html, strict-same
+msgid "The Builder"
+msgstr "பில்டர்"
+
+#: %2Bhtml.body.p:43-5
+#, safe-html, strict-same
+msgid ""
+"The Ambience builder is a shell script launched from a oneshot systemd "
+"service with the following mode of operation:"
+msgstr ""
+"சுற்றுப்புற பில்டர் என்பது ஒன்சாட் சிச்டம் டி சேவையிலிருந்து பின்வரும் "
+"செயல்பாட்டு முறையுடன் தொடங்கப்பட்ட செல் ச்கிரிப்ட் ஆகும்:"
+
+#: %2Bhtml.body.p:46-5
+#, safe-html, strict-same
+msgid ""
+"First it reads DConf values prepared by the App to figure out things like "
+"Ambience name and location of files.<br> It then puts them in a temporary "
+"directory together with a .spec file. It calls the"
+msgstr ""
+"முதலில் இது சுற்றுப்புற பெயர் மற்றும் கோப்புகளின் இருப்பிடம் போன்ற "
+"விசயங்களைக் கண்டுபிடிக்க பயன்பாட்டால் தயாரிக்கப்பட்ட DCONF மதிப்புகளைப் "
+"படிக்கிறது. <br> பின்னர் அவற்றை ஒரு தற்காலிக கோப்பகத்தில் .spec கோப்புடன் "
+"வைக்கிறது. அது அழைக்கிறது"
+
+#: %2Bhtml.body.pre:50-5
+#, ignore-same, safe-html, strict-same
+msgid "rpmbuild"
+msgstr "rpmbuild"

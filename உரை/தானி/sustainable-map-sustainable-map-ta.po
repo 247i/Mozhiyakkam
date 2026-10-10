@@ -1,0 +1,1784 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Sustainable map)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-21 01:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/sustainable-map/"
+"sustainable-map/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+msgctxt "meta.title"
+msgid "Sustainable map"
+msgstr "நிலையான வரைபடம்"
+
+msgctxt "meta.description"
+msgid "Experience the world sustainably."
+msgstr "உலகை நிலையான முறையில் அனுபவிக்கவும்."
+
+msgctxt "meta.titleShort"
+msgid "Sustainable"
+msgstr "வளங்குன்றா"
+
+msgctxt "intro.title"
+msgid "Sustainable"
+msgstr "வளங்குன்றா"
+
+msgctxt "intro.tagline"
+msgid "Experience the world sustainably."
+msgstr "உலகை நிலையான முறையில் அனுபவிக்கவும்."
+
+msgctxt "intro.description"
+msgid ""
+"This is a map that shows facilities and services in your area that are "
+"environmentally, socially and economically sustainable."
+msgstr ""
+"இது உங்கள் பகுதியில் உள்ள வசதிகள் மற்றும் சேவைகளை சுற்றுச்சூழல், சமூக மற்றும் பொருளாதார "
+"ரீதியாக நிலையானதாகக் காட்டும் வரைபடம்."
+
+msgctxt "intro.legend"
+msgid "The map helps to draw attention to sustainable strategies such as"
+msgstr "போன்ற நிலையான உத்திகளுக்கு கவனத்தை ஈர்க்க வரைபடம் உதவுகிறது"
+
+msgctxt "intro.accessible"
+msgid "Publicly accessible"
+msgstr "பகிரங்கமாக அணுகக்கூடியது"
+
+msgctxt "intro.freeOfCharge"
+msgid "Free of charge"
+msgstr "கட்டணமில்லா"
+
+msgctxt "intro.social"
+msgid "Social"
+msgstr "சமூக"
+
+msgctxt "intro.production"
+msgid "Environmentally friendly production"
+msgstr "சுற்றுச்சூழல் நட்பு விளைவாக்கம்"
+
+msgctxt "intro.organic"
+msgid "Organic"
+msgstr "ஆர்கானிக்"
+
+msgctxt "intro.seasonal"
+msgid "Seasonal"
+msgstr "பருவகால"
+
+msgctxt "intro.vegetarian"
+msgid "Vegetarian"
+msgstr "மரக்கறி"
+
+msgctxt "intro.packed"
+msgid "Environmentally friendly packed"
+msgstr "சுற்றுச்சூழல் நட்பு நிரம்பியுள்ளது"
+
+msgctxt "intro.unpacked"
+msgid "Unpacked"
+msgstr "தொகுக்கப்படாதது"
+
+msgctxt "intro.zeroWaste"
+msgid "Zero waste"
+msgstr "சுழிய கழிவு"
+
+msgctxt "intro.fairTrade"
+msgid "Fair trade"
+msgstr "நியாயமான வணிகம்"
+
+msgctxt "intro.transport"
+msgid "Short transport distances"
+msgstr "குறுகிய போக்குவரத்து தூரம்"
+
+msgctxt "intro.regional"
+msgid "Regional"
+msgstr "பிராந்திய"
+
+msgctxt "intro.sharing"
+msgid "Sharing"
+msgstr "பகிர்வு"
+
+msgctxt "intro.lending"
+msgid "Lending"
+msgstr "கடன்"
+
+msgctxt "intro.repair"
+msgid "Repair"
+msgstr "பழுது"
+
+msgctxt "intro.reuse"
+msgid "Reuse"
+msgstr "மறுபயன்பாடு"
+
+msgctxt "intro.recycling"
+msgid "Recycling"
+msgstr "மறுசுழற்சி"
+
+msgctxt "intro.community"
+msgid "Community"
+msgstr "சமூகம்"
+
+msgctxt "intro.participation"
+msgid "Participation"
+msgstr "பங்கேற்பு"
+
+msgctxt "intro.osm"
+msgid ""
+"The information is loaded from <o>OpenStreetMap</o>. <e>Add places you "
+"know.</e>"
+msgstr ""
+"செய்தி <o> openstreetmap </o> இலிருந்து ஏற்றப்பட்டுள்ளது. <e> உங்களுக்குத் தெரிந்த "
+"இடங்களைச் சேர்க்கவும். </e>"
+
+msgctxt "intro.license"
+msgid ""
+"The app is licensed under the <l>GNU Affero General Public License v3.0</l>. "
+"The <c>code</c> is free for use, copying and modification if you publish "
+"under the same license."
+msgstr ""
+"இந்தப் பயன்பாடு <l> குனு அஃபெரோ பொது பொதுமக்கள் உரிமம் ப3.0 </l> இன் கீழ் உரிமம் பெற்றது"
+". <c> குறியீடு </c> நீங்கள் ஒரே உரிமத்தின் கீழ் வெளியிட்டால் பயன்பாடு, நகலெடுத்தல் மற்றும் "
+"மாற்றத்திற்கு இலவசம்."
+
+msgctxt "intro.translate"
+msgid "Help translate"
+msgstr "மொழிபெயர்க்க உதவுங்கள்"
+
+msgctxt "intro.translationStatus"
+msgid "Translation status"
+msgstr "மொழிபெயர்ப்பு நிலை"
+
+msgctxt "intro.joinCommunity"
+msgid ""
+"Join the <c>OSM community</c>: <j>Join a local group</j>, <m>meet</m> & "
+"<t>chat</t>"
+msgstr ""
+"<c> OSM சமூகத்தில் சேரவும் </c>: <j> உள்ளக குழுவில் சேரவும் </j>, <m> சந்திப்பு </m> "
+"& <t> அரட்டை </t>"
+
+msgctxt "intro.contribute"
+msgid "Contribute to OpenStreetMap"
+msgstr "OpenStreetMap க்கு பங்களிப்பு செய்யுங்கள்"
+
+msgctxt "intro.moreApps"
+msgid "More apps based on OpenStreetMap"
+msgstr "OpenStreetMap ஐ அடிப்படையாகக் கொண்ட கூடுதல் பயன்பாடுகள்"
+
+msgctxt "intro.aboutMe"
+msgid "About me"
+msgstr "என்னைப் பற்றி"
+
+msgctxt "title"
+msgid "Sustainable map"
+msgstr "நிலையான வரைபடம்"
+
+msgctxt "description"
+msgid "Experience the world sustainably."
+msgstr "உலகை நிலையான முறையில் அனுபவிக்கவும்."
+
+msgctxt "capacity"
+msgid "Capacity"
+msgstr "திறன்"
+
+msgctxt "playground"
+msgid "For children"
+msgstr "குழந்தைகளுக்கு"
+
+msgctxt "changing_table"
+msgid "Has a changing table"
+msgstr "மாறும் அட்டவணை உள்ளது"
+
+msgctxt "bottle"
+msgid "Refilling is possible"
+msgstr "நிரப்புதல் சாத்தியமாகும்"
+
+msgctxt "pump"
+msgid "Pump"
+msgstr "இறைப்பி"
+
+msgctxt "tools"
+msgid "Tools"
+msgstr "கருவிகள்"
+
+msgctxt "repair"
+msgid "Repair"
+msgstr "பழுது"
+
+msgctxt "chainTool"
+msgid "Chain tool"
+msgstr "சங்கிலி கருவி"
+
+msgctxt "internet"
+msgid "Internet"
+msgstr "இணையம்"
+
+msgctxt "water"
+msgid "Drinking water"
+msgstr "குடிநீர்"
+
+msgctxt "bicycle"
+msgid "Bicycle"
+msgstr "சைக்கிள்"
+
+msgctxt "park"
+msgid "Park"
+msgstr "பூங்கா"
+
+msgctxt "charging"
+msgid "Charging"
+msgstr "சார்சிங்"
+
+msgctxt "mobileCharging"
+msgid "Charging"
+msgstr "சார்சிங்"
+
+msgctxt "car"
+msgid "Car"
+msgstr "கார்"
+
+msgctxt "mobile"
+msgid "Mobile phone"
+msgstr "மொபைல் போன்"
+
+msgctxt "smallElectronics"
+msgid "Small Electronics"
+msgstr "சிறிய மின்னணுவியல்"
+
+msgctxt "electronics"
+msgid "Electronics"
+msgstr "மின்னணுவியல்"
+
+msgctxt "furniture"
+msgid "Furniture"
+msgstr "தளபாடங்கள்"
+
+msgctxt "computer"
+msgid "Computer"
+msgstr "கணிப்பொறி, கணிணி"
+
+msgctxt "toy"
+msgid "Toy"
+msgstr "பொம்மை"
+
+msgctxt "clothes"
+msgid "Clothes"
+msgstr "ஆடைகள்"
+
+msgctxt "battery"
+msgid "Battery"
+msgstr "மின்கலம்"
+
+msgctxt "carBattery"
+msgid "Car battery"
+msgstr "கார் பேட்டரி"
+
+msgctxt "cookingOil"
+msgid "Cooking oil"
+msgstr "சமையல் எண்ணெய்"
+
+msgctxt "engineOil"
+msgid "Engine oil"
+msgstr "எஞ்சின் எண்ணெய்"
+
+msgctxt "oil"
+msgid "Waste oil"
+msgstr "கழிவு எண்ணெய்"
+
+msgctxt "paint"
+msgid "Paint"
+msgstr "வண்ணப்பூச்சு"
+
+msgctxt "rubble"
+msgid "Building rubble"
+msgstr "கட்டிடம் இடிபாடுகள்"
+
+msgctxt "plastic"
+msgid "Plastic"
+msgstr "நெகிழி"
+
+msgctxt "plastic_bottles"
+msgid "Plastic bottles"
+msgstr "பிளாச்டிக் பாட்டில்கள்"
+
+msgctxt "plastic_packaging"
+msgid "Plastic packaging"
+msgstr "பிளாச்டிக் பேக்கேசிங்"
+
+msgctxt "PET"
+msgid "PET"
+msgstr "செல்லப்பிள்ளை"
+
+msgctxt "plastic_bags"
+msgid "Plastic bag"
+msgstr "பிளாச்டிக் பை"
+
+msgctxt "polyester"
+msgid "Polyester"
+msgstr "பலபடியத்தர், பலமரிழை"
+
+msgctxt "polystyrene_foam"
+msgid "Polystyrene foam"
+msgstr "பாலிச்டிரீன் நுரை"
+
+msgctxt "hazardous"
+msgid "Hazardous waste"
+msgstr "அபாயகரமான கழிவு"
+
+msgctxt "hydrargyrum"
+msgid "Quicksilver"
+msgstr "குவிக்சில்வர்"
+
+msgctxt "beekeeper"
+msgid "Beekeeper"
+msgstr "தேனீ வளர்ப்பவர்"
+
+msgctxt "marketplace"
+msgid "Market"
+msgstr "சந்தை"
+
+msgctxt "milkFillingStation"
+msgid "Milk filling station"
+msgstr "பால் நிரப்புதல் நிலையம்"
+
+msgctxt "shoes"
+msgid "Shoes"
+msgstr "காலணிகள்"
+
+msgctxt "recycling"
+msgid "Recycling"
+msgstr "மறுசுழற்சி"
+
+msgctxt "reuse"
+msgid "Reuse"
+msgstr "மறுபயன்பாடு"
+
+msgctxt "freeToGive"
+msgid "Free to give"
+msgstr "கொடுக்க இலவசம்"
+
+msgctxt "freeToTake"
+msgid "Free to take"
+msgstr "எடுக்க இலவசம்"
+
+msgctxt "freeToTakeOrGive"
+msgid "Free to take or give"
+msgstr "எடுக்க அல்லது கொடுக்க இலவசம்"
+
+msgctxt "borrow"
+msgid "Borrow only"
+msgstr "கடன் மட்டுமே"
+
+msgctxt "public"
+msgid "Publicly accessible"
+msgstr "பகிரங்கமாக அணுகக்கூடியது"
+
+msgctxt "customersOnly"
+msgid "Customers only"
+msgstr "வாடிக்கையாளர்கள் மட்டுமே"
+
+msgctxt "membersOnly"
+msgid "Members only"
+msgstr "உறுப்பினர்கள் மட்டுமே"
+
+msgctxt "fee"
+msgid "Sale"
+msgstr "விற்பனை"
+
+msgctxt "indoor"
+msgid "Indoor"
+msgstr "உட்புறம்"
+
+msgctxt "female"
+msgid "For women"
+msgstr "பெண்களுக்கு"
+
+msgctxt "male"
+msgid "For men"
+msgstr "ஆண்களுக்கு"
+
+msgctxt "senior"
+msgid "For elderly"
+msgstr "வயதானவர்களுக்கு"
+
+msgctxt "disabled"
+msgid "For disabled"
+msgstr "ஊனமுற்றோருக்கு"
+
+msgctxt "homeless"
+msgid "For underprivileged"
+msgstr "வறியவருக்கு"
+
+msgctxt "migrant"
+msgid "For refugees"
+msgstr "அகதிகளுக்கு"
+
+msgctxt "lgbtq"
+msgid "LGBTQ+ friendly"
+msgstr "LGBTQ+ நட்பு"
+
+msgctxt "hoops"
+msgid "Hoops"
+msgstr "வளையங்கள்"
+
+msgctxt "light"
+msgid "Lit"
+msgstr "லைட்"
+
+msgctxt "covered"
+msgid "Covered"
+msgstr "மூடப்பட்ட"
+
+msgctxt "wheelchair.yes"
+msgid "Wheelchair accessible"
+msgstr "சக்கர நாற்காலி அணுகக்கூடியது"
+
+msgctxt "wheelchair.limited"
+msgid "Limited wheelchair accessible"
+msgstr "வரையறுக்கப்பட்ட சக்கர நாற்காலி அணுகக்கூடியது"
+
+msgctxt "wheelchair.no"
+msgid "Not wheelchair accessible"
+msgstr "சக்கர நாற்காலி அணுக முடியாது"
+
+msgctxt "regional.only"
+msgid "Only regional products"
+msgstr "பிராந்திய தயாரிப்புகள் மட்டுமே"
+
+msgctxt "regional.yes"
+msgid "Has regional products"
+msgstr "பிராந்திய தயாரிப்புகள் உள்ளன"
+
+msgctxt "regional.no"
+msgid "No regional products"
+msgstr "பிராந்திய தயாரிப்புகள் இல்லை"
+
+msgctxt "avoidPackaging"
+msgid "Avoid unnecessary packaging"
+msgstr "தேவையற்ற பேக்கேசிங்கைத் தவிர்க்கவும்"
+
+msgctxt "vegetarian.only"
+msgid "Only vegetarian products"
+msgstr "சைவ பொருட்கள் மட்டுமே"
+
+msgctxt "vegetarian.yes"
+msgid "Has vegetarian products"
+msgstr "சைவ பொருட்கள் உள்ளன"
+
+msgctxt "vegetarian.no"
+msgid "No vegetarian products"
+msgstr "சைவ பொருட்கள் இல்லை"
+
+msgctxt "vegan.only"
+msgid "Only vegan products"
+msgstr "சைவ பொருட்கள் மட்டுமே"
+
+msgctxt "vegan.yes"
+msgid "Has vegan products"
+msgstr "சைவ தயாரிப்புகள் உள்ளன"
+
+msgctxt "vegan.no"
+msgid "No vegan products"
+msgstr "சைவ தயாரிப்புகள் இல்லை"
+
+msgctxt "fairTrade.only"
+msgid "Only fair trade products"
+msgstr "நியாயமான வர்த்தக தயாரிப்புகள் மட்டுமே"
+
+msgctxt "fairTrade.yes"
+msgid "Has fair trade products"
+msgstr "நியாயமான வர்த்தக தயாரிப்புகள் உள்ளன"
+
+msgctxt "fairTrade.no"
+msgid "No fair trade products"
+msgstr "நியாயமான வர்த்தக தயாரிப்புகள் இல்லை"
+
+msgctxt "organic.only"
+msgid "Only organic products"
+msgstr "கரிம பொருட்கள் மட்டுமே"
+
+msgctxt "organic.yes"
+msgid "Has organic products"
+msgstr "கரிம தயாரிப்புகள் உள்ளன"
+
+msgctxt "organic.no"
+msgid "No organic products"
+msgstr "கரிம பொருட்கள் இல்லை"
+
+msgctxt "colour"
+msgid "Color"
+msgstr "நிறம்"
+
+msgctxt "free"
+msgid "Free"
+msgstr "இலவசம்"
+
+msgctxt "veryCheap"
+msgid "Free of charge or very cheap"
+msgstr "இலவசம் அல்லது மிகவும் மலிவானது"
+
+msgctxt "horizontalBar"
+msgid "Horizontal bar"
+msgstr "கிடைமட்ட பட்டி"
+
+msgctxt "parallelBars"
+msgid "Parallel bars"
+msgstr "இணை பார்கள்"
+
+msgctxt "rings"
+msgid "Rings"
+msgstr "மோதிரங்கள்"
+
+msgctxt "exerciseMachine"
+msgid "Exercise machine"
+msgstr "உடற்பயிற்சி இயந்திரம்"
+
+msgctxt "balance"
+msgid "Balance"
+msgstr "இருப்பு"
+
+msgctxt "difficulty"
+msgid "Difficulty"
+msgstr "தொல்லை"
+
+#, priority:200
+msgctxt "group.culture"
+msgid "Culture"
+msgstr "பண்பாடு"
+
+#, priority:200
+msgctxt "group.education"
+msgid "Education"
+msgstr "கல்வி"
+
+#, priority:200
+msgctxt "group.natural"
+msgid "Nature"
+msgstr "இயற்கை"
+
+#, priority:200
+msgctxt "group.health"
+msgid "Health"
+msgstr "உடல்நலம்"
+
+#, priority:200
+msgctxt "group.mobility"
+msgid "Mobility"
+msgstr "நகர்கை"
+
+#, priority:200
+msgctxt "group.community"
+msgid "Community"
+msgstr "சமூகம்"
+
+#, priority:200
+msgctxt "group.sport"
+msgid "Sport"
+msgstr "விளையாட்டு"
+
+#, priority:200
+msgctxt "group.communitySport"
+msgid "Community sport"
+msgstr "சமூக விளையாட்டு"
+
+#, priority:200
+msgctxt "group.trip"
+msgid "Trip"
+msgstr "பயணம்"
+
+#, priority:200
+msgctxt "group.goods"
+msgid "Goods"
+msgstr "பொருட்கள்"
+
+#, priority:200
+msgctxt "group.food"
+msgid "Food"
+msgstr "உணவு"
+
+#, priority:200
+msgctxt "group.material"
+msgid "Material recycling"
+msgstr "பொருள் மறுசுழற்சி"
+
+msgctxt "type.artwork.name"
+msgid "Artwork"
+msgstr "ஒளிமறைப்பு"
+
+msgctxt "type.artwork.description"
+msgid ""
+msgstr "type.artwork.description"
+
+msgctxt "type.fountain.name"
+msgid "Fountain"
+msgstr "நீரூற்று"
+
+msgctxt "type.fountain.description"
+msgid ""
+msgstr "type.fountain.description"
+
+msgctxt "type.tourist-attraction.name"
+msgid "Tourist attraction"
+msgstr "சுற்றுலா ஈர்ப்பு"
+
+msgctxt "type.tourist-attraction.description"
+msgid ""
+msgstr "type.tourist-attraction.description"
+
+msgctxt "type.archaeological-site.name"
+msgid "Archaeological site"
+msgstr "தொல்பொருள் தளம்"
+
+msgctxt "type.archaeological-site.description"
+msgid ""
+msgstr "type.archaelogical-site.description"
+
+msgctxt "type.trail.name"
+msgid "Educational trail"
+msgstr "கல்வி பாதை"
+
+msgctxt "type.trail.description"
+msgid ""
+msgstr "type.trail.description"
+
+msgctxt "type.battery-recycling.name"
+msgid "Battery"
+msgstr "மின்கலம்"
+
+msgctxt "type.battery-recycling.description"
+msgid ""
+msgstr "type.battery- மறுசுழற்சி. விவரக்குறிப்பு"
+
+msgctxt "type.oil-recycling.name"
+msgid "Oil"
+msgstr "எண்ணெய்"
+
+msgctxt "type.oil-recycling.description"
+msgid ""
+msgstr "type.oil-recycling.description"
+
+msgctxt "type.reusable-bottle-reuse.name"
+msgid "Reusable bottle"
+msgstr "மீண்டும் பயன்படுத்தக்கூடிய பாட்டில்"
+
+msgctxt "type.reusable-bottle-reuse.description"
+msgid ""
+msgstr "type.reusable-bottle-reuse.description"
+
+msgctxt "type.rubble-recycling.name"
+msgid "Building rubble"
+msgstr "கட்டிடம் இடிபாடுகள்"
+
+msgctxt "type.rubble-recycling.description"
+msgid ""
+msgstr "type.rubble-recycling.description"
+
+msgctxt "type.plastic-recycling.name"
+msgid "Plastic"
+msgstr "நெகிழி"
+
+msgctxt "type.plastic-recycling.description"
+msgid ""
+msgstr "type.plastic-recycling.description"
+
+msgctxt "type.hazardous-recycling.name"
+msgid "Hazardous waste"
+msgstr "அபாயகரமான கழிவு"
+
+msgctxt "type.hazardous-recycling.description"
+msgid ""
+msgstr "type.hazardous- மறுசுழற்சி. விவரக்குறிப்பு"
+
+msgctxt "type.sport.name"
+msgid "Sport"
+msgstr "விளையாட்டு"
+
+msgctxt "type.sport.description"
+msgid ""
+msgstr "type.sport.description"
+
+msgctxt "type.books.name"
+msgid "Books"
+msgstr "புத்தகங்கள்"
+
+msgctxt "type.books.description"
+msgid ""
+msgstr "type.books.description"
+
+msgctxt "type.books-get.name"
+msgid "Get books"
+msgstr "புத்தகங்களைப் பெறுங்கள்"
+
+msgctxt "type.books-get.description"
+msgid ""
+msgstr "type.books-get.description"
+
+msgctxt "type.books-borrow.name"
+msgid "Borrow books"
+msgstr "புத்தகங்களை கடன் வாங்கவும்"
+
+msgctxt "type.books-borrow.description"
+msgid ""
+msgstr "type.books-borrow.description"
+
+msgctxt "type.books-give.name"
+msgid "Give books"
+msgstr "புத்தகங்களைக் கொடுங்கள்"
+
+msgctxt "type.books-give.description"
+msgid ""
+msgstr "type.books-give.description"
+
+msgctxt "type.books-recycle.name"
+msgid "Recycle books"
+msgstr "புத்தகங்களை மறுசுழற்சி செய்யுங்கள்"
+
+msgctxt "type.books-recycle.description"
+msgid ""
+msgstr "type.books-recycle.description"
+
+msgctxt "type.kneipp_water_cure.name"
+msgid "Kneipp facility"
+msgstr "Kneipp வசதி"
+
+msgctxt "type.kneipp_water_cure.description"
+msgid ""
+msgstr "type.kneipp_water_cure.description"
+
+msgctxt "type.castle.name"
+msgid "Castle"
+msgstr "கோட்டை"
+
+msgctxt "type.castle.description"
+msgid ""
+msgstr "type.castle.description"
+
+msgctxt "type.mill.name"
+msgid "Mill"
+msgstr "மில்"
+
+msgctxt "type.mill.description"
+msgid ""
+msgstr "type.mill.description"
+
+msgctxt "type.history.name"
+msgid "History"
+msgstr "வரலாறு"
+
+msgctxt "type.history.description"
+msgid ""
+msgstr "type.history.description"
+
+msgctxt "type.memorial.name"
+msgid "Memorial"
+msgstr "நினைவு"
+
+msgctxt "type.memorial.description"
+msgid ""
+msgstr "type.memorial.description"
+
+msgctxt "type.monument.name"
+msgid "Monument"
+msgstr "நினைவுச்சின்னம்"
+
+msgctxt "type.monument.description"
+msgid ""
+msgstr "type.monument.description"
+
+msgctxt "type.museum.name"
+msgid "Museum"
+msgstr "அருங்காட்சியகம்"
+
+msgctxt "type.museum.description"
+msgid ""
+msgstr "type.museum.description"
+
+msgctxt "type.observatory.name"
+msgid "Observatory"
+msgstr "ஆய்வகம்"
+
+msgctxt "type.observatory.description"
+msgid ""
+msgstr "type.observatory.description"
+
+msgctxt "type.ruins.name"
+msgid "Ruins"
+msgstr "இடிபாடுகள்"
+
+msgctxt "type.ruins.description"
+msgid ""
+msgstr "type.ruins.description"
+
+msgctxt "type.cave.name"
+msgid "Cave"
+msgstr "குகை"
+
+msgctxt "type.cave.description"
+msgid ""
+msgstr "type.cave.description"
+
+msgctxt "type.natural_monument.name"
+msgid "Natural monument"
+msgstr "இயற்கை நினைவுச்சின்னம்"
+
+msgctxt "type.natural_monument.description"
+msgid ""
+msgstr "type.natural_monument.description"
+
+msgctxt "type.pond.name"
+msgid "Pond"
+msgstr "குளம்"
+
+msgctxt "type.pond.description"
+msgid ""
+msgstr "type.pond.description"
+
+msgctxt "type.rock.name"
+msgid "Rock"
+msgstr "பாறை"
+
+msgctxt "type.rock.description"
+msgid ""
+msgstr "type.rock.description"
+
+msgctxt "type.viewpoint.name"
+msgid "Viewpoint"
+msgstr "பார்வை"
+
+msgctxt "type.viewpoint.description"
+msgid ""
+msgstr "type.viewpoint.description"
+
+msgctxt "type.waterfall.name"
+msgid "Waterfall"
+msgstr "நீர்வீழ்ச்சி"
+
+msgctxt "type.waterfall.description"
+msgid ""
+msgstr "type.waterfall.description"
+
+msgctxt "type.spring.name"
+msgid "Spring"
+msgstr "வேனில்"
+
+msgctxt "type.spring.description"
+msgid ""
+msgstr "type.spring.description"
+
+msgctxt "type.assistance.name"
+msgid "Assistance"
+msgstr "உதவி"
+
+msgctxt "type.assistance.description"
+msgid ""
+msgstr "type.assistance.description"
+
+msgctxt "type.assistance-female.name"
+msgid "For women"
+msgstr "பெண்களுக்கு"
+
+msgctxt "type.assistance-female.description"
+msgid ""
+msgstr "type.assistance-female.description"
+
+msgctxt "type.assistance-male.name"
+msgid "For men"
+msgstr "ஆண்களுக்கு"
+
+msgctxt "type.assistance-male.description"
+msgid ""
+msgstr "type.assistance-male.description"
+
+msgctxt "type.assistance-senior.name"
+msgid "For elderly"
+msgstr "வயதானவர்களுக்கு"
+
+msgctxt "type.assistance-senior.description"
+msgid ""
+msgstr "type.assistance-senior.description"
+
+msgctxt "type.assistance-disabled.name"
+msgid "For disabled"
+msgstr "ஊனமுற்றோருக்கு"
+
+msgctxt "type.assistance-disabled.description"
+msgid ""
+msgstr "type.assistance- துரிதப்படுத்தப்பட்ட. விவரக்குறிப்பு"
+
+msgctxt "type.assistance-homeless.name"
+msgid "For underprivileged"
+msgstr "வறியவருக்கு"
+
+msgctxt "type.assistance-homeless.description"
+msgid ""
+msgstr "type.assistance-homess.description"
+
+msgctxt "type.assistance-migrant.name"
+msgid "For refugees"
+msgstr "அகதிகளுக்கு"
+
+msgctxt "type.assistance-migrant.description"
+msgid ""
+msgstr "type.assistance- குடியேறியவர். விவரம்"
+
+msgctxt "type.assistance-children.name"
+msgid "For children"
+msgstr "குழந்தைகளுக்கு"
+
+msgctxt "type.assistance-children.description"
+msgid ""
+msgstr "type.assistance-children.description"
+
+msgctxt "type.assisted-repair.name"
+msgid "Assisted repair"
+msgstr "உதவி பழுது"
+
+msgctxt "type.assisted-repair.description"
+msgid ""
+"Here you can repair broken things together with professionals. You'll meet "
+"new people and usually you'll also get coffee and cake. Well-known events "
+"are repair cafés."
+msgstr ""
+"இங்கே நீங்கள் நிபுணர்களுடன் உடைந்த விசயங்களை சரிசெய்யலாம். நீங்கள் புதிய நபர்களைச் சந்திப்பீர்கள்"
+", பொதுவாக நீங்கள் காபி மற்றும் கேக் பெறுவீர்கள். நன்கு அறியப்பட்ட நிகழ்வுகள் பழுதுபார்க்கும் "
+"கஃபேக்கள்."
+
+msgctxt "type.barbecue.name"
+msgid "Barbecue"
+msgstr "பார்பிக்யூ"
+
+msgctxt "type.barbecue.description"
+msgid ""
+msgstr "type.barbecue.description"
+
+msgctxt "type.baking-oven.name"
+msgid "Baking oven"
+msgstr "பேக்கிங் அடுப்பு"
+
+msgctxt "type.baking-oven.description"
+msgid ""
+msgstr "type.baking-oven.description"
+
+msgctxt "type.health-products.name"
+msgid "Health products"
+msgstr "சுகாதார தயாரிப்புகள்"
+
+msgctxt "type.health-products.description"
+msgid ""
+"A shop selling personal care, cosmetics, household cleaning or medical "
+"products."
+msgstr ""
+"தனிப்பட்ட பராமரிப்பு, அழகுசாதனப் பொருட்கள், வீட்டு தூய்மை அல்லது மருத்துவ தயாரிப்புகளை "
+"விற்கும் கடை."
+
+msgctxt "type.bicycle-rental.name"
+msgid "Bicycle rental"
+msgstr "சைக்கிள் வாடகை"
+
+msgctxt "type.bicycle-rental.description"
+msgid ""
+msgstr "type.bicycel- வாடகை. விவரக்குறிப்பு"
+
+msgctxt "type.bicycle-self-repair.name"
+msgid "Bicycle self repair"
+msgstr "சைக்கிள் தன்வய பழுது"
+
+msgctxt "type.bicycle-self-repair.description"
+msgid ""
+msgstr "type.bicycle- சுய-பழுதுபார்ப்பு"
+
+msgctxt "type.charging-station.name"
+msgid "Charging station"
+msgstr "சார்சிங் நிலையம்"
+
+msgctxt "type.charging-station.description"
+msgid ""
+msgstr "type.charging-station.description"
+
+msgctxt "type.musical_instrument.name"
+msgid "Instrument"
+msgstr "கருவி"
+
+msgctxt "type.musical_instrument.description"
+msgid ""
+msgstr "type.musical instrument.description"
+
+msgctxt "type.advertising.name"
+msgid "Advertising space"
+msgstr "விளம்பர இடம்"
+
+msgctxt "type.advertising.description"
+msgid "Here you can hang up posters to advertise your concern."
+msgstr ""
+"உங்கள் கவலையை விளம்பரப்படுத்த இங்கே நீங்கள் சுவரொட்டிகளைத் தொங்கவிடலாம்."
+
+msgctxt "type.community-centre.name"
+msgid "Community centre"
+msgstr "சமூக நடுவண்"
+
+msgctxt "type.community-centre.description"
+msgid ""
+msgstr "type.community-centre.description"
+
+msgctxt "type.scout.name"
+msgid "Scout Group"
+msgstr "சாரணர் குழு"
+
+msgctxt "type.scout.description"
+msgid ""
+msgstr "type.scout.description"
+
+msgctxt "type.community-garden.name"
+msgid "Community garden"
+msgstr "சமூக தோட்டம்"
+
+msgctxt "type.community-garden.description"
+msgid ""
+"Here is a garden which you can cultivate together with others. You can "
+"plant, water and harvest vegetables, herbs, flowers and so on and watch them "
+"grow."
+msgstr ""
+"இங்கே நீங்கள் மற்றவர்களுடன் சேர்ந்து பயிரிடக்கூடிய ஒரு தோட்டம். காய்கறிகள், மூலிகைகள், பூக்கள்"
+" மற்றும் பலவற்றை நீங்கள் நடவு செய்யலாம், தண்ணீர் மற்றும் அறுவடை செய்யலாம் மற்றும் அவை வளர்வதைப் "
+"பார்க்கலாம்."
+
+msgctxt "type.grow.name"
+msgid "Grow"
+msgstr "வளர"
+
+msgctxt "type.grow.description"
+msgid ""
+msgstr "type.grow.description"
+
+msgctxt "type.grocery.name"
+msgid "Grocery"
+msgstr "மளிகை"
+
+msgctxt "type.grocery.description"
+msgid ""
+msgstr "type.grocery.description"
+
+msgctxt "type.plant.name"
+msgid "Plant"
+msgstr "ஆலை"
+
+msgctxt "type.plant.description"
+msgid ""
+msgstr "type.plant.description"
+
+msgctxt "type.sweets.name"
+msgid "Sweets"
+msgstr "இனிப்புகள்"
+
+msgctxt "type.sweets.description"
+msgid ""
+msgstr "type.sweets.description"
+
+msgctxt "type.baked-goods.name"
+msgid "Baked goods"
+msgstr "வேகவைத்த பொருட்கள்"
+
+msgctxt "type.baked-goods.description"
+msgid ""
+msgstr "type.paked-goods.description"
+
+msgctxt "type.dairy.name"
+msgid "Dairy products"
+msgstr "பால் தயாரிப்புகள்"
+
+msgctxt "type.dairy.description"
+msgid ""
+msgstr "type.dairy.description"
+
+msgctxt "type.meat.name"
+msgid "Meat products"
+msgstr "இறைச்சி பொருட்கள்"
+
+msgctxt "type.meat.description"
+msgid ""
+msgstr "type.meat.description"
+
+msgctxt "type.vegetable.name"
+msgid "Fruit / vegetables"
+msgstr "பழம் / காய்கறிகள்"
+
+msgctxt "type.vegetable.description"
+msgid ""
+msgstr "type.vegetable.description"
+
+msgctxt "type.beverages.name"
+msgid "Beverages"
+msgstr "பானங்கள்"
+
+msgctxt "type.beverages.description"
+msgid ""
+msgstr "type.beverages.description"
+
+msgctxt "type.diaper-changing-table.name"
+msgid "Diaper-changing table"
+msgstr "டயபர் மாற்றும் அட்டவணை"
+
+msgctxt "type.diaper-changing-table.description"
+msgid ""
+msgstr "type.diaper- மாறும்-அட்டவணை. விவரம்"
+
+msgctxt "type.drinking-water.name"
+msgid "Drinking water"
+msgstr "குடிநீர்"
+
+msgctxt "type.drinking-water.description"
+msgid ""
+msgstr "type.rinking- நீர். விவரம்"
+
+msgctxt "type.defibrillator.name"
+msgid "Defibrillator"
+msgstr "டிஃபிபிரிலேட்டர்"
+
+msgctxt "type.defibrillator.description"
+msgid ""
+msgstr "type.defibrillator.description"
+
+msgctxt "type.food-sharing.name"
+msgid "Food sharing"
+msgstr "உணவு பகிர்வு"
+
+msgctxt "type.food-sharing.description"
+msgid ""
+"At this place you can bring and take food. The conditions for bring and take "
+"food are very different, you can inform yourself about it on the website of "
+"the operator or on site."
+msgstr ""
+"இந்த இடத்தில் நீங்கள் உணவைக் கொண்டு வந்து எடுக்கலாம். உணவைக் கொண்டுவருவதற்கும் எடுப்பதற்கும் "
+"நிபந்தனைகள் மிகவும் வேறுபட்டவை, ஆபரேட்டரின் வலைத்தளத்திலோ அல்லது தளத்திலோ இதைப் பற்றி "
+"நீங்கள் தெரிவிக்கலாம்."
+
+msgctxt "type.dinner.name"
+msgid "Dinner"
+msgstr "இரவு உணவு"
+
+msgctxt "type.dinner.description"
+msgid ""
+msgstr "type.dinner.description"
+
+msgctxt "type.goods-get.name"
+msgid "Get goods"
+msgstr "பொருட்களைப் பெறுங்கள்"
+
+msgctxt "type.goods-get.description"
+msgid ""
+msgstr "type.goods-get.description"
+
+msgctxt "type.goods-exchange.name"
+msgid "Goods exchange"
+msgstr "பொருட்கள் பரிமாற்றம்"
+
+msgctxt "type.goods-exchange.description"
+msgid ""
+"Here you will find a table, a shelf or a shop to bring and take items. Well-"
+"known facilities are give-away shops and giveboxes."
+msgstr ""
+"இங்கே நீங்கள் ஒரு அட்டவணை, ஒரு அலமாரி அல்லது ஒரு கடையை கொண்டு வரவும், பொருட்களைக் கொண்டு"
+" செல்லவும் காணலாம். நன்கு அறியப்பட்ட வசதிகள் கொடுக்கும் கடைகள் மற்றும் கொடுப்புப் பெட்டிகள்."
+
+msgctxt "type.hackerspace.name"
+msgid "Hackerspace"
+msgstr "ஏக்கர்ச்பேச்"
+
+msgctxt "type.hackerspace.description"
+msgid ""
+msgstr "Type.hachchespace.description"
+
+msgctxt "type.coworking.name"
+msgid "Coworking"
+msgstr "தம பணியாளர்"
+
+msgctxt "type.coworking.description"
+msgid ""
+msgstr "type.coworking.description"
+
+msgctxt "type.contribute.name"
+msgid "Contribute"
+msgstr "பங்களிப்பு"
+
+msgctxt "type.contribute.description"
+msgid ""
+msgstr "type.contribute.description"
+
+msgctxt "type.map.name"
+msgid "Map"
+msgstr "வரைபடம்"
+
+msgctxt "type.map.description"
+msgid ""
+msgstr "type.map.description"
+
+msgctxt "type.openstreetmap.name"
+msgid "OpenStreetMap"
+msgstr "ஓபன்ச்ட்ரீட் வரைபடம்"
+
+msgctxt "type.openstreetmap.description"
+msgid ""
+msgstr "type.openstreetmap.description"
+
+msgctxt "type.internet.name"
+msgid "Internet"
+msgstr "இணையம்"
+
+msgctxt "type.internet.description"
+msgid ""
+msgstr "type.internet.description"
+
+msgctxt "type.public-shower.name"
+msgid "Public shower"
+msgstr "பொது மழை"
+
+msgctxt "type.public-shower.description"
+msgid ""
+msgstr "type.public-shower.description"
+
+msgctxt "type.pump.name"
+msgid "Pump"
+msgstr "இறைப்பி"
+
+msgctxt "type.pump.description"
+msgid ""
+msgstr "type.pump.description"
+
+msgctxt "type.printer.name"
+msgid "Coping & printing"
+msgstr "சமாளித்தல் மற்றும் அச்சிடுதல்"
+
+msgctxt "type.printer.description"
+msgid ""
+msgstr "type.printer.description"
+
+msgctxt "type.toilet.name"
+msgid "Public toilet"
+msgstr "பொது கழிப்பறை"
+
+msgctxt "type.toilet.description"
+msgid ""
+msgstr "type.toilet.description"
+
+msgctxt "type.basketball.name"
+msgid "Basketball"
+msgstr "கூடைப்பந்து"
+
+msgctxt "type.basketball.description"
+msgid ""
+msgstr "type.basketball.description"
+
+msgctxt "type.bath.name"
+msgid "Bath"
+msgstr "குளியல்"
+
+msgctxt "type.bath.description"
+msgid ""
+msgstr "type.bath.description"
+
+msgctxt "type.bikepark.name"
+msgid "Bikepark"
+msgstr "பைக் பார்க்"
+
+msgctxt "type.bikepark.description"
+msgid ""
+msgstr "type.bikepark.description"
+
+msgctxt "type.skatepark.name"
+msgid "Skatepark"
+msgstr "ச்கேட்பார்க்"
+
+msgctxt "type.skatepark.description"
+msgid ""
+msgstr "type.skatepark.description"
+
+msgctxt "type.chess.name"
+msgid "Street chess"
+msgstr "தெரு சதுரங்கம்"
+
+msgctxt "type.chess.description"
+msgid ""
+msgstr "type.chess.description"
+
+msgctxt "type.climbing.name"
+msgid "Climbing"
+msgstr "ஏறுதல்"
+
+msgctxt "type.climbing.description"
+msgid ""
+msgstr "type.climbing.description"
+
+msgctxt "type.fitness.name"
+msgid "Fitness"
+msgstr "உடற்பயிற்சி"
+
+msgctxt "type.fitness.description"
+msgid ""
+msgstr "type.fitness.description"
+
+msgctxt "type.horizontal_bar.name"
+msgid "Horizontal bar"
+msgstr "கிடைமட்ட பட்டி"
+
+msgctxt "type.horizontal_bar.description"
+msgid ""
+msgstr "type.horizontal_bar.description"
+
+msgctxt "type.parallel_bars.name"
+msgid "Parallel bars"
+msgstr "இணை பார்கள்"
+
+msgctxt "type.parallel_bars.description"
+msgid ""
+msgstr "type.paralle_bars.description"
+
+msgctxt "type.rings.name"
+msgid "Rings"
+msgstr "மோதிரங்கள்"
+
+msgctxt "type.rings.description"
+msgid ""
+msgstr "type.rings.description"
+
+msgctxt "type.exercise-machine.name"
+msgid "Exercise machine"
+msgstr "உடற்பயிற்சி இயந்திரம்"
+
+msgctxt "type.exercise-machine.description"
+msgid ""
+msgstr "type.exercise-machine.description"
+
+msgctxt "type.balance.name"
+msgid "Balance"
+msgstr "இருப்பு"
+
+msgctxt "type.balance.description"
+msgid ""
+msgstr "type.palance.description"
+
+msgctxt "type.fitness-trail.name"
+msgid "Fitness trail"
+msgstr "உடற்பயிற்சி பாதை"
+
+msgctxt "type.fitness-trail.description"
+msgid ""
+msgstr "type.fitness-trail.description"
+
+msgctxt "type.sledding.name"
+msgid "Sledding"
+msgstr "ச்லெடிங்"
+
+msgctxt "type.sledding.description"
+msgid ""
+msgstr "type.sledding.description"
+
+msgctxt "type.running.name"
+msgid "Running"
+msgstr "இயங்கும்"
+
+msgctxt "type.running.description"
+msgid ""
+msgstr "type.running.description"
+
+msgctxt "type.soccer.name"
+msgid "Soccer"
+msgstr "கால்பந்து"
+
+msgctxt "type.soccer.description"
+msgid ""
+msgstr "type.soccer.description"
+
+msgctxt "type.table-tennis.name"
+msgid "Table tennis"
+msgstr "அட்டவணை டென்னிச்"
+
+msgctxt "type.table-tennis.description"
+msgid ""
+msgstr "type.table-tennis.description"
+
+msgctxt "type.table-soccer.name"
+msgid "Table soccer"
+msgstr "அட்டவணை கால்பந்து"
+
+msgctxt "type.table-soccer.description"
+msgid ""
+msgstr "type.table-saccer.description"
+
+msgctxt "type.boules.name"
+msgid "Boules"
+msgstr "பந்துகள்"
+
+msgctxt "type.boules.description"
+msgid ""
+msgstr "தட்டச்சு செய்க."
+
+msgctxt "type.volleyball.name"
+msgid "Volleyball"
+msgstr "கைப்பந்து"
+
+msgctxt "type.volleyball.description"
+msgid ""
+msgstr "type.vollewhball.description"
+
+msgctxt "type.animal.name"
+msgid "Animal enclosure"
+msgstr "விலங்கு உறை"
+
+msgctxt "type.animal.description"
+msgid ""
+msgstr "type.animal.description"
+
+msgctxt "type.observation.name"
+msgid "Animal observation"
+msgstr "விலங்கு கவனிப்பு"
+
+msgctxt "type.observation.description"
+msgid ""
+msgstr "type.observation.description"
+
+msgctxt "type.maze.name"
+msgid "Maze"
+msgstr "பிரமை"
+
+msgctxt "type.maze.description"
+msgid ""
+msgstr "type.maze.description"
+
+msgctxt "type.webcam.name"
+msgid "Webcam"
+msgstr "வெப்கேம்"
+
+msgctxt "type.webcam.description"
+msgid ""
+msgstr "type.webcam.description"
+
+msgctxt "type.fireplace.name"
+msgid "Fireplace"
+msgstr "நெருப்பிடம்"
+
+msgctxt "type.fireplace.description"
+msgid ""
+msgstr "type.fireplace.description"
+
+msgctxt "type.garden.name"
+msgid "Garden"
+msgstr "தோட்டம்"
+
+msgctxt "type.garden.description"
+msgid ""
+msgstr "type.garden.description"
+
+msgctxt "type.garden-with-name.name"
+msgid "Garden (With name)"
+msgstr "தோட்டம் (பெயருடன்)"
+
+msgctxt "type.garden-with-name.description"
+msgid ""
+msgstr "type.garden-with-name.description"
+
+msgctxt "type.nature-park.name"
+msgid "Nature park"
+msgstr "இயற்கை பூங்கா"
+
+msgctxt "type.nature-park.description"
+msgid ""
+msgstr "type.nature-park.description"
+
+msgctxt "type.park.name"
+msgid "Park"
+msgstr "பூங்கா"
+
+msgctxt "type.park.description"
+msgid ""
+msgstr "type.park.description"
+
+msgctxt "type.park-with-name.name"
+msgid "Park (With name)"
+msgstr "பூங்கா (பெயருடன்)"
+
+msgctxt "type.park-with-name.description"
+msgid ""
+msgstr "type.park-with-name.description"
+
+msgctxt "type.picnic-site.name"
+msgid "Picnic site"
+msgstr "சுற்றுலா தளம்"
+
+msgctxt "type.picnic-site.description"
+msgid ""
+msgstr "type.picnic-site.description"
+
+msgctxt "type.square.name"
+msgid "Square"
+msgstr "நாற்கை"
+
+msgctxt "type.square.description"
+msgid ""
+msgstr "type.square.description"
+
+msgctxt "type.square-with-name.name"
+msgid "Square (With name)"
+msgstr "நாற்கை (பெயருடன்)"
+
+msgctxt "type.square-with-name.description"
+msgid ""
+msgstr "type.cquare-with-name.description"
+
+msgctxt "type.playground.name"
+msgid "Playground"
+msgstr "விளையாட்டு மைதானம்"
+
+msgctxt "type.playground.description"
+msgid ""
+msgstr "type.playground.description"
+
+msgctxt "type.lounger.name"
+msgid "Lounger"
+msgstr "லவுஞ்சர்"
+
+msgctxt "type.lounger.description"
+msgid ""
+msgstr "type.lounger.description"
+
+msgctxt "type.clothes.name"
+msgid "Clothes"
+msgstr "ஆடைகள்"
+
+msgctxt "type.clothes.description"
+msgid ""
+msgstr "type.clothes.description"
+
+msgctxt "type.clothes-give.name"
+msgid "Clothes (Give)"
+msgstr "ஆடைகள் (கொடுங்கள்)"
+
+msgctxt "type.clothes-give.description"
+msgid ""
+msgstr "type.clothes-give.description"
+
+msgctxt "type.clothes-take.name"
+msgid "Clothes (Take)"
+msgstr "ஆடைகள் (எடுத்துக் கொள்ளுங்கள்)"
+
+msgctxt "type.clothes-take.description"
+msgid ""
+msgstr "type.clothes-dake.description"
+
+msgctxt "type.clothes-repair.name"
+msgid "Clothes (Repair)"
+msgstr "உடைகள் (பழுது)"
+
+msgctxt "type.clothes-repair.description"
+msgid ""
+msgstr "type.clothes-repair.description"
+
+msgctxt "type.mobile-phones.name"
+msgid "Phone"
+msgstr "தொலைபேசி"
+
+msgctxt "type.mobile-phones.description"
+msgid ""
+msgstr "type.mobile-phones.description"
+
+msgctxt "type.mobile-phones-give.name"
+msgid "Phone (Give)"
+msgstr "தொலைபேசி (கொடுங்கள்)"
+
+msgctxt "type.mobile-phones-give.description"
+msgid ""
+msgstr "type.mobile-phones-give.description"
+
+msgctxt "type.mobile-phones-take.name"
+msgid "Phone (Take)"
+msgstr "தொலைபேசி (எடுத்துக் கொள்ளுங்கள்)"
+
+msgctxt "type.mobile-phones-take.description"
+msgid ""
+msgstr "type.mobile-phones-dake.description"
+
+msgctxt "type.mobile-phones-repair.name"
+msgid "Phone (Repair)"
+msgstr "தொலைபேசி (பழுது)"
+
+msgctxt "type.mobile-phones-repair.description"
+msgid ""
+msgstr "type.mobile-phones-repair.description"
+
+msgctxt "type.computers.name"
+msgid "Computer"
+msgstr "கணிணி"
+
+msgctxt "type.computers.description"
+msgid ""
+msgstr "type.computers.description"
+
+msgctxt "type.computers-give.name"
+msgid "Computer (Give)"
+msgstr "கணினி (கொடுங்கள்)"
+
+msgctxt "type.computers-give.description"
+msgid ""
+msgstr "type.computers-give.description"
+
+msgctxt "type.computers-take.name"
+msgid "Computer (Take)"
+msgstr "கணினி (எடுத்துக் கொள்ளுங்கள்)"
+
+msgctxt "type.computers-take.description"
+msgid ""
+msgstr "type.computers-take.description"
+
+msgctxt "type.computers-repair.name"
+msgid "Computer (Repair)"
+msgstr "கணினி (பழுது)"
+
+msgctxt "type.computers-repair.description"
+msgid ""
+msgstr "type.computers-repair.description"
+
+msgctxt "type.toys.name"
+msgid "Toy"
+msgstr "பொம்மை"
+
+msgctxt "type.toys.description"
+msgid ""
+msgstr "type.toys.description"
+
+msgctxt "type.toys-give.name"
+msgid "Toy (Give)"
+msgstr "பொம்மை (கொடுங்கள்)"
+
+msgctxt "type.toys-give.description"
+msgid ""
+msgstr "type.toys-give.description"
+
+msgctxt "type.toys-take.name"
+msgid "Toy (Take)"
+msgstr "பொம்மை (எடுத்துக் கொள்ளுங்கள்)"
+
+msgctxt "type.toys-take.description"
+msgid ""
+msgstr "type.toys-dake.description"
+
+msgctxt "type.toys-rent.name"
+msgid "Toy (Rent)"
+msgstr "பொம்மை (வாடகை)"
+
+msgctxt "type.toys-rent.description"
+msgid ""
+msgstr "type.toys-rent.description"
+
+msgctxt "type.toys-repair.name"
+msgid "Toy (Repair)"
+msgstr "பொம்மை (பழுது)"
+
+msgctxt "type.toys-repair.description"
+msgid ""
+msgstr "type.toys-repair.description"
+
+msgctxt "type.electronics.name"
+msgid "Electronic"
+msgstr "மின்னணு"
+
+msgctxt "type.electronics.description"
+msgid ""
+msgstr "type.electronics.description"
+
+msgctxt "type.electronics-give.name"
+msgid "Electronic (Give)"
+msgstr "மின்னணு (கொடுங்கள்)"
+
+msgctxt "type.electronics-give.description"
+msgid ""
+msgstr "type.electronics-give.description"
+
+msgctxt "type.electronics-take.name"
+msgid "Electronic (Take)"
+msgstr "மின்னணு (எடுத்துக் கொள்ளுங்கள்)"
+
+msgctxt "type.electronics-take.description"
+msgid ""
+msgstr "type.electronics-dake.description"
+
+msgctxt "type.electronics-repair.name"
+msgid "Electronic (Repair)"
+msgstr "மின்னணு (பழுது)"
+
+msgctxt "type.electronics-repair.description"
+msgid ""
+msgstr "type.electronics-repair.description"
+
+msgctxt "type.furniture.name"
+msgid "Furniture"
+msgstr "தளபாடங்கள்"
+
+msgctxt "type.furniture.description"
+msgid ""
+msgstr "type.furniture.description"
+
+msgctxt "type.furniture-give.name"
+msgid "Furniture (Give)"
+msgstr "தளபாடங்கள் (கொடுங்கள்)"
+
+msgctxt "type.furniture-give.description"
+msgid ""
+msgstr "type.furnution-give.description"
+
+msgctxt "type.furniture-take.name"
+msgid "Furniture (Take)"
+msgstr "தளபாடங்கள் (எடுத்துக் கொள்ளுங்கள்)"
+
+msgctxt "type.furniture-take.description"
+msgid ""
+msgstr "type.furniture-dake.description"
+
+msgctxt "type.furniture-repair.name"
+msgid "Furniture (Repair)"
+msgstr "தளபாடங்கள் (பழுது)"
+
+msgctxt "type.furniture-repair.description"
+msgid ""
+msgstr "type.furnution-repair.description"
+
+msgctxt "type.bicycle.name"
+msgid "Bicycle"
+msgstr "சைக்கிள்"
+
+msgctxt "type.bicycle.description"
+msgid ""
+msgstr "type.bicycle.description"
+
+msgctxt "type.bicycle-give.name"
+msgid "Bicycle (Give)"
+msgstr "சைக்கிள் (கொடுங்கள்)"
+
+msgctxt "type.bicycle-give.description"
+msgid ""
+msgstr "type.bicycle-give.description"
+
+msgctxt "type.bicycle-get.name"
+msgid "Bicycle (Get)"
+msgstr "சைக்கிள் (கிடைக்கும்)"
+
+msgctxt "type.bicycle-get.description"
+msgid ""
+msgstr "type.bicycle-get.description"
+
+msgctxt "type.bicycle-rent.name"
+msgid "Bicycle (Rent)"
+msgstr "சைக்கிள் (வாடகை)"
+
+msgctxt "type.bicycle-rent.description"
+msgid ""
+msgstr "type.bicycle-rent.description"
+
+msgctxt "type.bicycle-repair.name"
+msgid "Bicycle (Repair)"
+msgstr "சைக்கிள் (பழுது)"
+
+msgctxt "type.bicycle-repair.description"
+msgid ""
+msgstr "type.bicycle-repair.description"

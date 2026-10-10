@@ -1,0 +1,926 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (The Striking Arts)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-09 16:19+0200\n"
+"PO-Revision-Date: 2025-06-14 06:58\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/tsa/strings/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "The Striking Arts"
+msgstr "வேலைநிறுத்தம் செய்யும் கலைகள்"
+
+#, java-printf-format
+msgctxt "all_minutes"
+msgid "Minutes"
+msgstr "நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "all_seconds"
+msgid "Seconds"
+msgstr "நொடிகள்"
+
+#, java-printf-format
+msgctxt "all_pause"
+msgid "Pause"
+msgstr "இடைநிறுத்தம்"
+
+#, java-printf-format
+msgctxt "all_play"
+msgid "Play"
+msgstr "விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "all_quit"
+msgid "Quit"
+msgstr "வெளியேறு"
+
+#, java-printf-format
+msgctxt "all_workout"
+msgid "Workout"
+msgstr "பயிற்சி"
+
+#, java-printf-format
+msgctxt "all_technique"
+msgid "Technique"
+msgstr "நுட்பம்"
+
+#, java-printf-format
+msgctxt "all_combo"
+msgid "Combo"
+msgstr "காம்போ"
+
+#, java-printf-format
+msgctxt "all_home"
+msgid "Home"
+msgstr "வீடு"
+
+#, java-printf-format
+msgctxt "all_calendar"
+msgid "Calendar"
+msgstr "நாட்காட்டி"
+
+#, java-printf-format
+msgctxt "all_defense"
+msgid "Defense"
+msgstr "பாதுகாப்பு"
+
+#, java-printf-format
+msgctxt "all_offense"
+msgid "Offense"
+msgstr "குற்றம்"
+
+#, java-printf-format
+msgctxt "all_hand_block"
+msgid "Hand Block"
+msgstr "கை தொகுதி"
+
+#, java-printf-format
+msgctxt "all_shin_block"
+msgid "Shin Block"
+msgstr "சின் பிளாக்"
+
+#, java-printf-format
+msgctxt "all_footwork"
+msgid "Footwork"
+msgstr "கால்பந்து"
+
+#, java-printf-format
+msgctxt "all_head_movement"
+msgid "Head Movement"
+msgstr "தலை இயக்கம்"
+
+#, java-printf-format
+msgctxt "all_special"
+msgid "Special"
+msgstr "சிறப்பு"
+
+#, java-printf-format
+msgctxt "all_punch"
+msgid "Punch"
+msgstr "பஞ்ச்"
+
+#, java-printf-format
+msgctxt "all_elbow"
+msgid "Elbow"
+msgstr "முழங்கை"
+
+#, java-printf-format
+msgctxt "all_kick"
+msgid "Kick"
+msgstr "கிக்"
+
+#, java-printf-format
+msgctxt "all_knee"
+msgid "Knee"
+msgstr "முழங்கால்"
+
+#, java-printf-format
+msgctxt "all_edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, java-printf-format
+msgctxt "all_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "all_save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "all_cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "all_discard"
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "all_done"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#, java-printf-format
+msgctxt "all_all"
+msgid "All"
+msgstr "அனைத்தும்"
+
+#, java-printf-format
+msgctxt "all_name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "all_desc"
+msgid "Description"
+msgstr "விவரம்"
+
+#, java-printf-format
+msgctxt "all_clear_text_field"
+msgid "Clear the text field"
+msgstr "உரை புலத்தை அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "all_numfield_error"
+msgid "You can only use numbers here!"
+msgstr "நீங்கள் இங்கே எண்களை மட்டுமே பயன்படுத்த முடியும்!"
+
+#, java-printf-format
+msgctxt "all_textfield_error_character_limit"
+msgid "Input has exceeded the character limit"
+msgstr "உள்ளீடு எழுத்து வரம்பை மீறிவிட்டது"
+
+#, java-printf-format
+msgctxt "all_textfield_error_incorrect_input"
+msgid "Incorrect input"
+msgstr "தவறான உள்ளீடு"
+
+#, java-printf-format
+msgctxt "all_confirm_dialog_delete_multiple"
+msgid "You are about to delete all selected items. Proceed?"
+msgstr "தேர்ந்தெடுக்கப்பட்ட அனைத்து பொருட்களையும் நீக்க உள்ளீர்கள். தொடரவா?"
+
+#, java-printf-format
+msgctxt "all_confirm_dialog_delete_singular"
+msgid "You are about to delete this item. Proceed?"
+msgstr "இந்த உருப்படியை நீக்க உள்ளீர்கள். தொடரவா?"
+
+#, java-printf-format
+msgctxt "all_confirm_dialog_save_text"
+msgid "You are about to finalize all changes on this item. Proceed?"
+msgstr ""
+"இந்த உருப்படியின் அனைத்து மாற்றங்களையும் நீங்கள் இறுதி செய்ய உள்ளீர்கள். "
+"தொடரவா?"
+
+#, java-printf-format
+msgctxt "all_confirm_dialog_discard_text"
+msgid "All changes to this item will be discarded. Proceed?"
+msgstr "இந்த உருப்படியின் அனைத்து மாற்றங்களும் நிராகரிக்கப்படும். தொடரவா?"
+
+#, java-printf-format
+msgctxt "all_bottom_selection_bar_selected"
+msgid "%1$s Selected"
+msgstr "%1$s தேர்ந்தெடுக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "all_tap_to_set"
+msgid "Tap to Set"
+msgstr "அமைக்க தட்டவும்"
+
+#, java-printf-format
+msgctxt "all_details_item_tap_to_change"
+msgid "Tap to Change"
+msgstr "மாற்ற தட்டவும்"
+
+#, java-printf-format
+msgctxt "all_selection_mode_bottom_sheet_select_all"
+msgid "Select All"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, java-printf-format
+msgctxt "all_selection_mode_bottom_sheet_deselect_all"
+msgid "Deselect All"
+msgstr "அனைத்தையும் தேர்வு செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "all_selection_mode_bottom_sheet_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "all_selection_mode_bottom_sheet_expand"
+msgid "Expand the bar vertically"
+msgstr "பட்டியை செங்குத்தாக விரிவாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "all_selection_mode_bottom_sheet_deselect_last_item"
+msgid "De-Select last item"
+msgstr "கடைசி உருப்படியை தேர்வு செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "all_number_picker_increase"
+msgid "Increase quantity of selected item"
+msgstr "தேர்ந்தெடுக்கப்பட்ட பொருளின் அளவை அதிகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "all_number_picker_decrease"
+msgid "Decrease quantity of selected item"
+msgstr "தேர்ந்தெடுக்கப்பட்ட பொருளின் அளவைக் குறைக்கவும்"
+
+#, java-printf-format
+msgctxt "all_snackbar_insert"
+msgid "%1$s has been created"
+msgstr "%1$s உருவாக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "all_snackbar_update"
+msgid "%1$s has been updated"
+msgstr "%1$s புதுப்பிக்கப்பட்டுள்ளன"
+
+#, java-printf-format
+msgctxt "all_snackbar_delete_success_single"
+msgid "Item has been deleted"
+msgstr "உருப்படி நீக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "all_snackbar_delete_success_multiple"
+msgid "Selected items have been deleted"
+msgstr "தேர்ந்தெடுக்கப்பட்ட உருப்படிகள் நீக்கப்பட்டுள்ளன"
+
+#, java-printf-format
+msgctxt "all_snackbar_delete_failed_single"
+msgid "Failed to delete item"
+msgstr "உருப்படியை நீக்குவதில் தோல்வி"
+
+#, java-printf-format
+msgctxt "all_snackbar_delete_failed_multiple"
+msgid "Failed to delete selected items"
+msgstr "தேர்ந்தெடுக்கப்பட்ட பொருட்களை நீக்குவதில் தோல்வி"
+
+#, java-printf-format
+msgctxt "all_fab_desc"
+msgid "Add a new item"
+msgstr "புதிய உருப்படியைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "all_second"
+msgid "%1$d Second"
+msgid_plural "%1$d Seconds"
+msgstr[0] "%1$d இரண்டாவது"
+msgstr[1] "%1$d வினாடிகள்"
+
+#.   TechniqueScreen
+#, java-printf-format
+msgctxt "technique_create_combo"
+msgid "Add to Combo"
+msgstr "காம்போவில் சேர்க்கவும்"
+
+#.   TechniqueDetailsScreen
+#, java-printf-format
+msgctxt "technique_details_modify_technique_color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, java-printf-format
+msgctxt "technique_details_textfield_name_helper"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "technique_details_numfield_helper"
+msgid "Numeric Representation"
+msgstr "எண் பிரதிநிதித்துவம்"
+
+#, java-printf-format
+msgctxt "technique_details_numfield_hint"
+msgid "1"
+msgstr "1"
+
+#, java-printf-format
+msgctxt "technique_details_textfield_name_hint"
+msgid "Jab"
+msgstr "சப்"
+
+#, java-printf-format
+msgctxt "technique_details_numfield_label"
+msgid "Number"
+msgstr "எண்"
+
+#, java-printf-format
+msgctxt "technique_details_technique_category"
+msgid "Category"
+msgstr "வகை"
+
+#, java-printf-format
+msgctxt "technique_details_file_picker_size_error"
+msgid "The chosen file exceeds the size limit of %1$d Megabyte"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பு %1$d மெகாபைட்டின் அளவு வரம்பை மீறுகிறது"
+
+#, java-printf-format
+msgctxt "technique_details_file_picker_duration_error"
+msgid "The chosen file exceeds the duration limit of %1$d seconds"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பு %1$d வினாடிகளின் கால வரம்பை மீறுகிறது"
+
+#, java-printf-format
+msgctxt "technique_details_select_an_audio_file"
+msgid "Select an audio file"
+msgstr "ஆடியோ கோப்பைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "technique_details_select_pre_recorded_audio"
+msgid "➩ Select a pre-recorded audio file"
+msgstr "பதிவு செய்யப்பட்ட ஆடியோ கோப்பைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "technique_details_select_local_audio"
+msgid "➩ Select an audio file from your local storage"
+msgstr ""
+"Local உங்கள் உள்ளக சேமிப்பகத்திலிருந்து ஆடியோ கோப்பைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "technique_details_uri_missing"
+msgid "The selected file is corrupted or missing"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பு சிதைந்துள்ளது அல்லது காணவில்லை"
+
+#, java-printf-format
+msgctxt "technique_details_sound"
+msgid "Sound"
+msgstr "ஒலி"
+
+#.   ComboDetailsScreen
+#, java-printf-format
+msgctxt "combo_details_textfield_name_placeholder"
+msgid "Simple Double Jab, Cross"
+msgstr "எளிய இரட்டை சப், குறுக்கு"
+
+#, java-printf-format
+msgctxt "combo_details_textfield_desc_placeholder"
+msgid "Anything noteworthy at all"
+msgstr "குறிப்பிடத்தக்க எதையும்"
+
+#, java-printf-format
+msgctxt "combo_details_textfield_helper"
+msgid "Name of the combo"
+msgstr "காம்போவின் பெயர்"
+
+#, java-printf-format
+msgctxt "combo_details_textfield_desc_helper"
+msgid "Brief description of the combo or its execution"
+msgstr "காம்போ அல்லது அதன் சாவுஒறுப்பு பற்றிய சுருக்கமான விளக்கம்"
+
+#, java-printf-format
+msgctxt "combo_details_recovery"
+msgid "Recovery time"
+msgstr "மீட்பு நேரம்"
+
+#, java-printf-format
+msgctxt "combo_details_button_add_technique"
+msgid "Techniques"
+msgstr "நுட்பங்கள்"
+
+#, java-printf-format
+msgctxt "combo_details_add_to_workout"
+msgid "Add to Workout"
+msgstr "வொர்க்அவுட்டில் சேர்க்கவும்"
+
+#.   WorkoutScreen
+#, java-printf-format
+msgctxt "workout_rest_time"
+msgid "Rest Time"
+msgstr "ஓய்வு நேரம்"
+
+#, java-printf-format
+msgctxt "workout_round_time"
+msgid "Round Time"
+msgstr "சுற்று நேரம்"
+
+#, java-printf-format
+msgctxt "workout_total_rounds"
+msgid "%1$d Round"
+msgid_plural "%1$d Rounds"
+msgstr[0] "%1$d சுற்று"
+msgstr[1] "%1$d சுற்றுகள்"
+
+#, java-printf-format
+msgctxt "workout_total_combos"
+msgid "%1$d Combo"
+msgid_plural "%1$d Combos"
+msgstr[0] "%1$d காம்போ"
+msgstr[1] "%1$d காம்போச்"
+
+#.   WorkoutDetailsScreen
+#, java-printf-format
+msgctxt "workout_details_rounds"
+msgid "Rounds"
+msgstr "சுற்றுகள்"
+
+#, java-printf-format
+msgctxt "workout_details_number_of_rounds"
+msgid "Number of rounds"
+msgstr "சுற்றுகளின் எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "workout_details_round_length"
+msgid "Round Length"
+msgstr "சுற்று நீளம்"
+
+#, java-printf-format
+msgctxt "workout_details_rest_length"
+msgid "Rest Length"
+msgstr "ஓய்வு நீளம்"
+
+#, java-printf-format
+msgctxt "workout_details_sub_rounds"
+msgid "Sub-Rounds"
+msgstr "துணை சுற்றுகள்"
+
+#, java-printf-format
+msgctxt "workout_details_breakpoint_helper"
+msgid ""
+"The number by which the duration of a round is divided, A notification is "
+"played at each intersect"
+msgstr ""
+"ஒரு சுற்றின் காலம் பிரிக்கப்பட்ட எண், ஒவ்வொரு சந்திப்பிலும் ஒரு அறிவிப்பு "
+"இயக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "workout_details_breakpoint_error"
+msgid "Cannot fit this amount of sub-rounds in this round"
+msgstr "இந்த சுற்றில் இந்த அளவு துணை சுற்றுகளுக்கு பொருந்த முடியாது"
+
+#, java-printf-format
+msgctxt "workout_details_name_helper_textfield"
+msgid "Name of the workout"
+msgstr "வொர்க்அவுட்டின் பெயர்"
+
+#, java-printf-format
+msgctxt "workout_details_name_placeholder_textfield"
+msgid "Training for the apocalypse"
+msgstr "அபோகாலிப்சிற்கான பயிற்சி"
+
+#, java-printf-format
+msgctxt "workout_details_button_add_combos"
+msgid "Combos"
+msgstr "காம்போச்"
+
+#.   WorkoutPreviewScreen
+#, java-printf-format
+msgctxt "workout_preview_empty_screen"
+msgid ""
+"This workout has been removed\n"
+"\n"
+"Press to go back"
+msgstr ""
+"இந்த பயிற்சி அகற்றப்பட்டுள்ளது\n"
+"\n"
+" திரும்பிச் செல்ல அழுத்தவும்"
+
+#, java-printf-format
+msgctxt "workout_preview_navigate_up"
+msgid "Navigate Back"
+msgstr "மீண்டும் செல்லவும்"
+
+#, java-printf-format
+msgctxt "workout_preview_start_workout"
+msgid "Start the Workout"
+msgstr "வொர்க்அவுட்டைத் தொடங்கவும்"
+
+#, java-printf-format
+msgctxt "workout_preview_rounds"
+msgid "%1$d Round"
+msgid_plural "%1$d Rounds"
+msgstr[0] "%1$d சுற்று"
+msgstr[1] "%1$d சுற்றுகள்"
+
+#.   LoserScreen
+#, java-printf-format
+msgctxt "loser_give_up"
+msgid "You chose to give up…"
+msgstr "நீங்கள் கைவிட தேர்வு செய்தீர்கள்…"
+
+#, java-printf-format
+msgctxt "loser_habit"
+msgid "Try not to make a habit out of it!"
+msgstr "அதிலிருந்து ஒரு பழக்கத்தை உருவாக்க முயற்சி செய்யுங்கள்!"
+
+#, java-printf-format
+msgctxt "loser_button"
+msgid "Take me Home"
+msgstr "என்னை வீட்டிற்கு அழைத்துச் செல்லுங்கள்"
+
+#.   WinnerScreen
+#, java-printf-format
+msgctxt "winners_congrats"
+msgid "Finish Line Crossed"
+msgstr "பினிச் லைன் தாண்டியது"
+
+#, java-printf-format
+msgctxt "winners_strikes_sum"
+msgid "Strikes Thrown"
+msgstr "வீசப்பட்ட வேலைநிறுத்தங்கள்"
+
+#, java-printf-format
+msgctxt "winners_defense_techniques_sum"
+msgid "Defensive Techniques Thrown"
+msgstr "தற்காப்பு நுட்பங்கள் வீசப்பட்டன"
+
+#, java-printf-format
+msgctxt "winners_most_repeated_technique"
+msgid "Most Repeated Technique"
+msgstr "மிகவும் மறுநிகழ்வு நுட்பம்"
+
+#, java-printf-format
+msgctxt "winner_done"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#, java-printf-format
+msgctxt "winner_perform_again"
+msgid "Perform Again"
+msgstr "மீண்டும் நிகழ்த்தவும்"
+
+#, java-printf-format
+msgctxt "winners_total_rounds"
+msgid "Total rounds"
+msgstr "மொத்த சுற்றுகள்"
+
+#, java-printf-format
+msgctxt "winners_total_workout_time"
+msgid "Total Workout time"
+msgstr "மொத்த பயிற்சி நேரம்"
+
+#.   TrainingScreen
+#, java-printf-format
+msgctxt "training_confirm_dialog_quit"
+msgid "You are about to quit. Proceed?"
+msgstr "நீங்கள் வெளியேறப் போகிறீர்கள். தொடரவா?"
+
+#, java-printf-format
+msgctxt "training_quit"
+msgid "Quit"
+msgstr "வெளியேறு"
+
+#, java-printf-format
+msgctxt "training_continue"
+msgid "Continue"
+msgstr "தொடரவும்"
+
+#.   CalendarScreen
+#, java-printf-format
+msgctxt "calendar_previous_month"
+msgid "Previous month"
+msgstr "முந்தைய மாதம்"
+
+#, java-printf-format
+msgctxt "calendar_next_month"
+msgid "Next Month"
+msgstr "அடுத்த மாதம்"
+
+#.   HomeScreen
+#, java-printf-format
+msgctxt "home_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "home_about"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "home_help"
+msgid "Help"
+msgstr "உதவி"
+
+#, java-printf-format
+msgctxt "home_most_recently_performed_workout"
+msgid "Most Recently Performed Workout"
+msgstr "மிக அண்மைக் காலத்தில் வொர்க்அவுட்டை நிகழ்த்தியது"
+
+#, java-printf-format
+msgctxt "home_last_time_performed"
+msgid "Last Time Performed: %1$s"
+msgstr "கடைசியாக நிகழ்த்தப்பட்டது: %1$s"
+
+#, java-printf-format
+msgctxt "home_last_unfinished_workout"
+msgid "Last Unfinished Workout"
+msgstr "கடைசியாக முடிக்கப்படாத பயிற்சி"
+
+#, java-printf-format
+msgctxt "home_today"
+msgid "Today"
+msgstr "இன்று"
+
+#, java-printf-format
+msgctxt "home_yesterday"
+msgid "Yesterday"
+msgstr "நேற்று"
+
+#, java-printf-format
+msgctxt "home_x_days_ago"
+msgid "%1$d days ago"
+msgstr "%1$d சில நாட்களுக்கு முன்பு"
+
+#, java-printf-format
+msgctxt "home_x_week_ago"
+msgid "a week ago"
+msgid_plural "%1$d weeks ago"
+msgstr[0] "ஒரு வாரத்திற்கு முன்பு"
+msgstr[1] "%1$d வாரங்களுக்கு முன்பு"
+
+#, java-printf-format
+msgctxt "home_over_x_week_ago"
+msgid "Over a week ago"
+msgid_plural "Over %1$d weeks ago"
+msgstr[0] "ஒரு வாரத்திற்கு முன்பு"
+msgstr[1] "%1$d வாரங்களுக்கு முன்பு"
+
+#, java-printf-format
+msgctxt "home_screen_empty_text"
+msgid ""
+"Not much to show… but don't worry,\n"
+"This page will get populated as you begin your martial arts journey."
+msgstr ""
+"காட்ட அதிகம் இல்லை… ஆனால் கவலைப்பட வேண்டாம்,\n"
+" உங்கள் தற்காப்பு கலை பயணத்தைத் தொடங்கும்போது இந்த பக்கம் மக்கள் தொகை பெறும்."
+
+#.   UserPreferencesScreen
+#, java-printf-format
+msgctxt "user_prefs_system_driven"
+msgid "System Driven"
+msgstr "கணினி இயக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "user_prefs_theme_light"
+msgid "Light"
+msgstr "ஒளி"
+
+#, java-printf-format
+msgctxt "user_prefs_theme_dark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, java-printf-format
+msgctxt "user_prefs_language_english"
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+#, java-printf-format
+msgctxt "user_prefs_language_french"
+msgid "French"
+msgstr "பிரஞ்சு"
+
+#, java-printf-format
+msgctxt "user_prefs_language_german"
+msgid "German"
+msgstr "செர்மன்"
+
+#, java-printf-format
+msgctxt "user_prefs_language_persian"
+msgid "Persian"
+msgstr "பெர்சியன்"
+
+#, java-printf-format
+msgctxt "user_prefs_technique_form_unspecified"
+msgid "Default Format"
+msgstr "இயல்புநிலை வடிவம்"
+
+#, java-printf-format
+msgctxt "user_prefs_technique_form_name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "user_prefs_technique_form_number"
+msgid "Number"
+msgstr "எண்"
+
+#, java-printf-format
+msgctxt "user_prefs_language"
+msgid "Language"
+msgstr "மொழி"
+
+#, java-printf-format
+msgctxt "user_prefs_dynamic_colors"
+msgid "Dynamic Colors"
+msgstr "மாறும் வண்ணங்கள்"
+
+#, java-printf-format
+msgctxt "user_prefs_theme"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "user_prefs_technique_form"
+msgid "Technique Representation"
+msgstr "நுட்ப பிரதிநிதித்துவம்"
+
+#, java-printf-format
+msgctxt "user_prefs_preparation_period"
+msgid "Pre-Workout Preparation Period"
+msgstr "முன்-வொர்க்அவுட் தயாரிப்பு காலம்"
+
+#, java-printf-format
+msgctxt "user_prefs_preparation_period_helper_text"
+msgid "Duration of the timer that runs before the workout begins"
+msgstr "பயிற்சி தொடங்குவதற்கு முன்பு இயங்கும் டைமரின் காலம்"
+
+#, java-printf-format
+msgctxt "user_prefs_show_quitters_data"
+msgid "Show Quitters Data"
+msgstr "வெளியேறும் தரவைக் காட்டு"
+
+#, java-printf-format
+msgctxt "user_prefs_navigate_up"
+msgid "Back"
+msgstr "பின்"
+
+#.   AboutScreen
+#, java-printf-format
+msgctxt "about_screen_name"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "about_intro"
+msgid ""
+"is an app aiming to make your martial arts journey more enjoyable.\n"
+" It’s everything from a simple countdown timer, to your pad-work partner shouting combos at you, minus the spittles."
+msgstr ""
+"உங்கள் தற்காப்பு கலை பயணத்தை மிகவும் சுவாரச்யமாக மாற்றும் நோக்கில் ஒரு பயன்பாடாகும்.\n"
+" இது ஒரு எளிய கவுண்டவுன் நேரங்குறிகருவி முதல், உங்கள் திண்டு-வேலை கூட்டாளர் வரை காம்போக்களைக் கூச்சலிடுவது வரை எல்லாமே, ச்பிட்டில்களைக் கழித்தல்."
+
+#, java-printf-format
+msgctxt "about_features_title"
+msgid ""
+"\n"
+"\n"
+"Features\n"
+msgstr ""
+"\n"
+"நற்பொருத்தங்கள்\n"
+
+#, java-printf-format
+msgctxt "about_features"
+msgid ""
+"• Fully functional calendar that tracks your workout sessions\n"
+"• The possibility of aborting a workout (and optionally, be blamed for doing so)\n"
+"• The ability to divide each round into segments. It usually comes to play when you’re switching between training different aspects of your game, each for a fixed duration of a round\n"
+"• Visual defense training\n"
+"• Aural offense training 🤨\n"
+"• A comprehensive set of techniques with pre-recorded audio\n"
+"• 43 complete combos, ranging from simple to, um, unpleasant\n"
+"• 5 complete pre-made workouts"
+msgstr ""
+"Your உங்கள் ஒர்க்அவுட் அமர்வுகளைக் கண்காணிக்கும் முழு செயல்பாட்டு காலெண்டர்\n"
+" A ஒரு வொர்க்அவுட்டைக் கருக்கலைப்பதற்கான சாத்தியம் (மற்றும் விருப்பமாக, அவ்வாறு செய்ததற்கு குற்றம் சாட்டப்படும்)\n"
+" சுற்று ஒவ்வொரு சுற்றையும் பிரிவுகளாகப் பிரிக்கும் திறன். உங்கள் விளையாட்டின் வெவ்வேறு அம்சங்களைப் பயிற்றுவிக்கும் போது, ​​ஒவ்வொன்றும் ஒரு சுற்றின் நிலையான காலத்திற்கு மாறும்போது இது வழக்கமாக விளையாடுகிறது\n"
+" • காட்சி பாதுகாப்பு பயிற்சி\n"
+" • ஆரல் குற்றம் பயிற்சி\n"
+" Rec முன் பதிவுசெய்யப்பட்ட ஆடியோவுடன் விரிவான நுட்பங்களின் தொகுப்பு\n"
+" • 43 முழுமையான காம்போக்கள், எளிமையானது முதல் உம், விரும்பத்தகாதவை வரை\n"
+" • 5 முன் தயாரிக்கப்பட்ட உடற்பயிற்சிகளும்"
+
+#, java-printf-format
+msgctxt "about_credits_title"
+msgid ""
+"\n"
+"\n"
+"Credits\n"
+msgstr ""
+"\n"
+"வரவு\n"
+
+#, java-printf-format
+msgctxt "about_libraries_title"
+msgid "Libraries"
+msgstr "நூலகங்கள்"
+
+#, java-printf-format
+msgctxt "about_credits_ui"
+msgid ""
+"UI made with the help of Jetpack Compose framework and the Material 3 design"
+" system"
+msgstr "செட் பேக் இசையமைப்பின் கட்டமைப்பின் உதவியுடன் செய்யப்பட்ட இடைமுகம்"
+
+#, java-printf-format
+msgctxt "about_credits_fonts"
+msgid ""
+"\n"
+"Fonts"
+msgstr ""
+"\n"
+"எழுத்துருக்கள்"
+
+#, java-printf-format
+msgctxt "about_app_font"
+msgid " inside the app"
+msgstr "பயன்பாட்டின் உள்ளே"
+
+#, java-printf-format
+msgctxt "about_logo_font"
+msgid " for the logo"
+msgstr "லோகோவுக்கு"
+
+#, java-printf-format
+msgctxt "about_license_title"
+msgid "License\n"
+msgstr "உரிமம்\n"
+
+#, java-printf-format
+msgctxt "about_text_button_navigate_back"
+msgid "Navigate Back"
+msgstr "மீண்டும் செல்லவும்"
+
+#, java-printf-format
+msgctxt "about_navigate_up_content_desc"
+msgid "Navigate back to HomeScreen"
+msgstr "முகப்புத் திரைக்கு மீண்டும் செல்லவும்"
+
+#.   HelpScreen
+#, java-printf-format
+msgctxt "help_title"
+msgid "Help"
+msgstr "உதவி"
+
+#, java-printf-format
+msgctxt "help_text"
+msgid ""
+"TSA can act as a simple timer, or a workout buddy that instructs you through your training session.\n"
+"But in order to unlock its full potential, you may need a little help.\n"
+"\n"
+"A technique is a single move in the domain of martial arts. Like a single jab, or a slip outside.\n"
+"Notice that it can be either defensive or offensive.\n"
+"Techniques can be numbered, for example, Jab can be represented as 1. They can also Include a sound. The app comes with a comprehensive set of pre-recorded sounds for different techniques, but you could also assign your own audio recordings to them. For usability, the recordings must come with as little silence and unnecessary sound as possible.\n"
+"Techniques also can have a color. This color is shown in the training page when the technique is played.\n"
+"\n"
+"A Combo is a series of techniques performed one after the other. For example, a simple Jab Cross.\n"
+"Combos are assigned with a modifiable recovery time, which is a short duration of rest after its completion.\n"
+"\n"
+"A Workout refers to one training session containing (at the minimum) active and rest intervals. You can modify the number of rounds, the duration of rounds, and the duration of rests.\n"
+"You can choose to include pre-defined combos to be played for you during the rounds, or omit this feature all together by not choosing any.\n"
+"There is also the feature of dividing each round into smaller parts. For example, have a round of three minutes be cut into three, one minute parts.\n"
+"\n"
+"You can choose to track the workouts you abandoned before completion, and claim salvation by finishing them successfully. However, the chance of redemption for workouts that are abandoned and later deleted are forever lost."
+msgstr ""
+"டிஎச்ஏ ஒரு எளிய டைமராகவோ அல்லது உங்கள் பயிற்சி அமர்வு மூலம் உங்களுக்கு அறிவுறுத்தும் ஒரு வொர்க்அவுட் நண்பராகவோ செயல்பட முடியும்.\n"
+" ஆனால் அதன் முழு திறனைத் திறக்க, உங்களுக்கு ஒரு சிறிய உதவி தேவைப்படலாம்.\n"
+"\n"
+" ஒரு நுட்பம் என்பது தற்காப்புக் கலைகளின் களத்தில் ஒரு ஒற்றை நடவடிக்கை. ஒற்றை சாப் அல்லது வெளியே ஒரு சீட்டு போல.\n"
+" இது தற்காப்பு அல்லது தாக்குதலாக இருக்கலாம் என்பதைக் கவனியுங்கள்.\n"
+" நுட்பங்களை எண்ணலாம், எடுத்துக்காட்டாக, JAB ஐ 1 என குறிப்பிடலாம். அவை ஒரு ஒலியையும் சேர்க்கலாம். பயன்பாடு வெவ்வேறு நுட்பங்களுக்காக முன்பே பதிவுசெய்யப்பட்ட ஒலிகளின் விரிவான தொகுப்போடு வருகிறது, ஆனால் உங்கள் சொந்த ஆடியோ பதிவுகளையும் அவர்களுக்கு ஒதுக்கலாம். பயன்பாட்டினுக்காக, பதிவுகள் முடிந்தவரை சிறிய ம silence னத்துடனும் தேவையற்ற ஒலியுடனும் வர வேண்டும்.\n"
+" நுட்பங்களும் ஒரு வண்ணத்தைக் கொண்டிருக்கலாம். நுட்பம் விளையாடும்போது இந்த நிறம் பயிற்சி பக்கத்தில் காட்டப்பட்டுள்ளது.\n"
+"\n"
+" ஒரு காம்போ என்பது ஒன்றன் பின் ஒன்றாக நிகழ்த்தப்படும் நுட்பங்களின் தொடர். உதாரணமாக, ஒரு எளிய சப் குறுக்கு.\n"
+" மாற்றியமைக்கக்கூடிய மீட்பு நேரத்துடன் காம்போக்கள் ஒதுக்கப்படுகின்றன, இது முடிந்தபின் குறுகிய கால ஓய்வு.\n"
+"\n"
+" ஒரு வொர்க்அவுட்டைக் குறிக்கிறது (குறைந்தபட்சம்) செயலில் மற்றும் ஓய்வு இடைவெளிகளைக் கொண்ட ஒரு பயிற்சி அமர்வைக் குறிக்கிறது. சுற்றுகளின் எண்ணிக்கை, சுற்றுகளின் காலம் மற்றும் ஓய்வு காலம் ஆகியவற்றை நீங்கள் மாற்றலாம்.\n"
+" சுற்றுகளின் போது உங்களுக்காக விளையாடுவதற்கு முன்பே வரையறுக்கப்பட்ட காம்போக்களைச் சேர்க்க நீங்கள் தேர்வு செய்யலாம் அல்லது எதையும் தேர்வு செய்யாமல் இந்த அம்சத்தை ஒன்றாகத் தவிர்க்கலாம்.\n"
+" ஒவ்வொரு சுற்றையும் சிறிய பகுதிகளாகப் பிரிக்கும் அம்சமும் உள்ளது. எடுத்துக்காட்டாக, மூன்று நிமிடங்கள் ஒரு சுற்று மூன்று, ஒரு நிமிட பகுதிகளாக வெட்ட வேண்டும்.\n"
+"\n"
+" நிறைவடைவதற்கு முன்பு நீங்கள் கைவிட்ட உடற்பயிற்சிகளையும் கண்காணிக்க நீங்கள் தேர்வு செய்யலாம், மேலும் அவற்றை வெற்றிகரமாக முடிப்பதன் மூலம் இரட்சிப்பைக் கோரலாம். இருப்பினும், கைவிடப்பட்ட மற்றும் பின்னர் நீக்கப்பட்ட உடற்பயிற்சிகளுக்கான மீட்புக்கான வாய்ப்பு எப்போதும் இழக்கப்படும்."
+
+#, java-printf-format
+msgctxt "help_text_button_navigate_up"
+msgid "Navigate Back"
+msgstr "மீண்டும் செல்லவும்"
+
+#, java-printf-format
+msgctxt "help_icon_desc_navigate_up"
+msgid "Navigate back to Home screen"
+msgstr "முகப்புத் திரைக்கு மீண்டும் செல்லவும்"

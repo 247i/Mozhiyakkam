@@ -1,0 +1,386 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (UBports)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-20 03:49+0200\n"
+"PO-Revision-Date: 2025-03-22 06:32\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/ubports/activitytracker/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#: ../qml/About.qml:8 ../qml/Settings.qml:20
+msgid "About"
+msgstr "பற்றி"
+
+#: ../qml/About.qml:35
+msgid "Activity Tracker"
+msgstr "செயல்பாட்டு கண்காணிப்பு"
+
+#: ../qml/About.qml:41
+msgid "Version %1"
+msgstr "பதிப்பு %1"
+
+#: ../qml/About.qml:88
+msgid ""
+"Released under the terms of the GNU GPL v3.<br>Source code available on"
+msgstr ""
+"குனு சிபிஎல் வி 3 விதிமுறைகளின் கீழ் வெளியிடப்பட்டது. <br> மூலக் குறியீடு "
+"கிடைக்கிறது"
+
+#: ../qml/About.qml:97
+msgid "Part of the icons is made by %1 from %2 is licensed by %3"
+msgstr ""
+"ஐகான்களின் ஒரு பகுதி %2 இலிருந்து %1 ஆல் தயாரிக்கப்படுகிறது %3 ஆல் உரிமம் "
+"பெற்றது"
+
+#. TRANSLATORS: %1 is the name of the author of the icons, %2 is the project
+#. name. args from %3 to %7 are icon name while %8 to %12 are original authors
+#. names
+#: ../qml/About.qml:110
+msgid ""
+"Thanks to %1 for the icons based on:<br>%3 by %8 from %2,<br>%4 by %9 from "
+"%2,<br>%5 by %10 from %2,<br>%6 by %11 from %2,<br>%7 by %12 from %2"
+msgstr ""
+"அதன் அடிப்படையிலான ஐகான்களுக்கு %1 க்கு நன்றி: <br> %3 முதல் %8 வரை %2, <br>"
+" %4 முதல் %9 வரை %2, <br> %5 முதல் %10, <br> %6 முதல் %11 வரை %2 இலிருந்து, "
+"<br> %7 முதல் %7 வரை %2 இலிருந்து %2"
+
+#: ../qml/About.qml:131
+msgid "Translate this app on Weblate!"
+msgstr "இந்த பயன்பாட்டை வெப்லேட்டில் மொழிபெயர்க்கவும்!"
+
+#: ../qml/About.qml:140
+msgid "Support Weblate"
+msgstr "வெப்லேட்டை ஆதரிக்கவும்"
+
+#: ../qml/ActivityDialog.qml:16
+msgid "Name"
+msgstr "பெயர்"
+
+#: ../qml/ActivityDialog.qml:20
+msgid "Select a sport below"
+msgstr "கீழே ஒரு விளையாட்டைத் தேர்ந்தெடுக்கவும்"
+
+#: ../qml/ActivityDialog.qml:30
+msgid "Activity Type"
+msgstr "செயல்பாட்டு வகை"
+
+#: ../qml/ActivityDialog.qml:40 ../qml/SportSelectPopUp.qml:21
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: ../qml/ActivityDialog.qml:47
+msgid "Save"
+msgstr "சேமி"
+
+#: ../qml/ImportPage.qml:34
+msgid "Choose"
+msgstr "தேர்வு செய்யவும்"
+
+#. TRANSLATORS: %1 will be replaced with the distance of the track, %2 will be
+#. replaced with the unit either km or mi
+#: ../qml/Main.qml:151 ../qml/Main.qml:154
+msgid "Distance: %1 %2"
+msgstr "தூரம்: %1 %2"
+
+#: ../qml/Main.qml:157
+msgid "Time: "
+msgstr "நேரம்:"
+
+#: ../qml/Main.qml:231
+msgid "Recent Activities"
+msgstr "அண்மைக் கால நடவடிக்கைகள்"
+
+#: ../qml/Main.qml:235 ../qml/Settings.qml:16
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: ../qml/Main.qml:240
+msgid "Filter"
+msgstr "வடிப்பி"
+
+#: ../qml/Main.qml:245
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#: ../qml/Main.qml:275 ../qml/Tracker.qml:342
+msgid "Select the type and the name of your activity"
+msgstr "உங்களது செயல்பாட்டின் வகை மற்றும் பெயரினை தேர்ந்தெடுக்கவும்"
+
+#: ../qml/Main.qml:290
+msgid "Edit the type and the name of your activity"
+msgstr "உங்கள் செயல்பாட்டின் வகை மற்றும் பெயரைத் திருத்தவும்"
+
+#: ../qml/Main.qml:311
+msgid "No saved activities"
+msgstr "சேமித்த நடவடிக்கைகள் இல்லை"
+
+#: ../qml/Main.qml:314
+msgid "Swipe up to log a new activity"
+msgstr "புதிய செயல்பாட்டை பதிவு செய்ய ச்வைப் செய்யவும்"
+
+#: ../qml/Main.qml:390
+msgid "Track information"
+msgstr "தகவல்களைக் கண்காணிக்கவும்"
+
+#: ../qml/Main.qml:404
+msgid "Close"
+msgstr "மூடு"
+
+#: ../qml/Main.qml:415
+msgid "Log new Activity"
+msgstr "புதிய செயல்பாட்டை பதிவு செய்யுங்கள்"
+
+#: ../qml/Map.qml:17
+msgid "Activity Map"
+msgstr "செயல்பாட்டு வரைபடம்"
+
+#: ../qml/Map.qml:20
+msgid "Info"
+msgstr "தகவல்"
+
+#: ../qml/Settings.qml:55
+msgid "Distance unit:"
+msgstr "தொலைதூர அலகு:"
+
+#: ../qml/Settings.qml:56
+msgid "Kilometers"
+msgstr "கிலோமீட்டர்"
+
+#: ../qml/Settings.qml:56
+msgid "Miles"
+msgstr "மைல்கள்"
+
+#: ../qml/Settings.qml:68
+msgid ""
+"Note: British imperial unit and United States customary unit used, 1.609344 "
+"km = 1 mile, 1 km = 0.621371 miles"
+msgstr ""
+"குறிப்பு: பிரிட்டிச் இம்பீரியல் யூனிட் மற்றும் ஒன்றுபட்டது ச்டேட்ச் வழக்கமான"
+" அலகு பயன்படுத்தப்பட்டது, 1.609344 கிமீ = 1 மைல், 1 கிமீ = 0.621371 மைல்கள்"
+
+#: ../qml/Settings.qml:88
+msgid "Log a point every:"
+msgstr "ஒவ்வொன்றும் ஒரு புள்ளியை பதிவு செய்யுங்கள்:"
+
+#: ../qml/Settings.qml:90
+msgid "between 50 and 3600000"
+msgstr "50 முதல் 3600000 வரை"
+
+#. TRANSLATORS: millisecond abbreviation
+#: ../qml/Settings.qml:116
+msgid "ms"
+msgstr "எம்.எச்"
+
+#: ../qml/Settings.qml:128
+msgid "Altitude offset:"
+msgstr "உயர ஆஃப்செட்:"
+
+#: ../qml/Settings.qml:129
+msgid "between -100 and 100"
+msgstr "-100 மற்றும் 100 க்கு இடையில்"
+
+#: ../qml/Settings.qml:151
+msgid "meter(s)"
+msgstr "மீட்டர் (கள்)"
+
+#: ../qml/Settings.qml:175
+msgid "Enter API key"
+msgstr "பநிஇ விசையை உள்ளிடவும்"
+
+#: ../qml/Settings.qml:213
+msgid "Apply"
+msgstr "இடு"
+
+#: ../qml/Settings.qml:224
+msgid "Clear API key"
+msgstr "பநிஇ விசையை அழிக்கவும்"
+
+#: ../qml/Settings.qml:242
+msgid "API key required for other map types"
+msgstr "பிற வரைபட வகைகளுக்கு பநிஇ விசை தேவை"
+
+#: ../qml/Settings.qml:242
+msgid "Select map type:"
+msgstr "வரைபட வகையைத் தேர்ந்தெடுக்கவும்:"
+
+#: ../qml/Settings.qml:244
+msgid "Free Thunderforest OSM street map"
+msgstr "இலவச தண்டர்ஃபோரச்ட் ஓஎச்எம் தெரு வரைபடம்"
+
+#: ../qml/Settings.qml:245
+msgid "Thunderforest cycle map"
+msgstr "தண்டர்ஃபோரச்ட் சுழற்சி வரைபடம்"
+
+#: ../qml/Settings.qml:246
+msgid "Thunderforest landscape map"
+msgstr "தண்டர்ஃபோரச்ட் இயற்கை வரைபடம்"
+
+#: ../qml/Settings.qml:247
+msgid "Thunderforest outdoors map"
+msgstr "இடி ஃபார்பெச்ட் வெளிப்புற வரைபடம்"
+
+#: ../qml/Settings.qml:248
+msgid "Thunderforest transport map"
+msgstr "தண்டர்ஃபோரச்ட் போக்குவரத்து வரைபடம்"
+
+#: ../qml/Settings.qml:249
+msgid "Thunderforest transport-dark map"
+msgstr "தண்டர்ஃபோரச்ட் போக்குவரத்து-இருண்ட வரைபடம்"
+
+#: ../qml/Settings.qml:250
+msgid "Thunderforest spinal map"
+msgstr "தண்டர்ஃபோரச்ட் முதுகெலும்பு வரைபடம்"
+
+#: ../qml/Settings.qml:251
+msgid "Thunderforest pioneer map"
+msgstr "தண்டர்ஃபோரச்ட் முன்னோடி வரைபடம்"
+
+#: ../qml/Settings.qml:252
+msgid "Thunderforest atlas map"
+msgstr "தண்டர்ஃபோரச்ட் அட்லச் வரைபடம்"
+
+#: ../qml/Settings.qml:253
+msgid "Thunderforest mobile atlas map"
+msgstr "தண்டர்ஃபோரச்ட் மொபைல் அட்லச் வரைபடம்"
+
+#: ../qml/Settings.qml:254
+msgid "Thunderforest neighbourhood map"
+msgstr "தண்டர்ஃபோரச்ட் அண்டை வரைபடம்"
+
+#: ../qml/Settings.qml:317
+msgid "A big thanks to Thunderforest.com for providing the free map!"
+msgstr "இலவச வரைபடத்தை வழங்கிய தண்டர்ஃபோரச்ட்.காமுக்கு ஒரு பெரிய நன்றி!"
+
+#: ../qml/Settings.qml:326
+msgid ""
+"After changing the map type, please restart the app for the changes to be "
+"applied. Otherwise cached map tiles of the map type used before may be "
+"displayed."
+msgstr ""
+"வரைபட வகையை மாற்றிய பிறகு, மாற்றங்கள் பயன்படுத்தப்படுவதற்கு பயன்பாட்டை "
+"மறுதொடக்கம் செய்யுங்கள். இல்லையெனில் முன் பயன்படுத்தப்படும் வரைபட வகையின் "
+"தற்காலிக சேமிப்பு வரைபட ஓடுகள் காண்பிக்கப்படலாம்."
+
+#: ../qml/Settings.qml:334
+msgid "Note: If the map comes up black, the API key might be wrong."
+msgstr ""
+"குறிப்பு: வரைபடம் கருப்பு நிறத்தில் வந்தால், பநிஇ விசை தவறாக இருக்கலாம்."
+
+#: ../qml/Settings.qml:342
+msgid "Please get your own API key:"
+msgstr "தயவுசெய்து உங்கள் சொந்த பநிஇ விசையைப் பெறுங்கள்:"
+
+#: ../qml/Settings.qml:358
+msgid "Description of map types:"
+msgstr "வரைபட வகைகளின் விளக்கம்:"
+
+#: ../qml/SportSelectPopUp.qml:10
+msgid "Choose sport:"
+msgstr "விளையாட்டினை தேர்ந்தெடுக்கவும்:"
+
+#: ../qml/SportSelectPopUp.qml:21
+msgid "Choose later"
+msgstr "பின்னர் தேர்வு செய்யவும்"
+
+#: ../qml/Tracker.qml:60
+msgid "Activity in Progress"
+msgstr "தொடர்ச்சியில் உள்ள செயல்பாடு"
+
+#: ../qml/Tracker.qml:60
+msgid "New Activity"
+msgstr "புதிய செயல்பாடு"
+
+#: ../qml/Tracker.qml:60
+msgid "Paused"
+msgstr "இடைநிறுத்தப்பட்டது"
+
+#: ../qml/Tracker.qml:122 ../qml/Tracker.qml:127
+msgid "No data"
+msgstr "தகவல் இல்லை"
+
+#: ../qml/Tracker.qml:264
+msgid "Do you want to cancel the activity?"
+msgstr "செயல்பாட்டினை ரத்து செய்யவேண்டுமா?"
+
+#: ../qml/Tracker.qml:267
+msgid "Yes, stop and discard"
+msgstr "ஆம், நிறுத்தி நிராகரிக்கவும்"
+
+#: ../qml/Tracker.qml:286
+msgid "No, go back"
+msgstr "இல்லை, திரும்பிச் செல்லுங்கள்"
+
+#: ../qml/Tracker.qml:300
+msgid "What would you like to do?"
+msgstr "நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?"
+
+#: ../qml/Tracker.qml:302
+msgid "Stop and save track"
+msgstr "நிறுத்தி தடத்தை சேமிக்கவும்"
+
+#: ../qml/Tracker.qml:323
+msgid "Stop and discard track"
+msgstr "தடத்தை நிறுத்தி நிராகரிக்கவும்"
+
+#: ../qml/Tracker.qml:331
+msgid "Nothing, go back"
+msgstr "ஒன்றுமில்லை, திரும்பிச் செல்லுங்கள்"
+
+#: ../qml/Tracker.qml:387
+msgid "Pause"
+msgstr "இடைநிறுத்தம்"
+
+#: ../qml/Tracker.qml:403
+msgid "Waiting for position..."
+msgstr "பதவிக்காக காத்திருக்கிறது ..."
+
+#: ../qml/Tracker.qml:455
+msgid "Resume"
+msgstr "மீண்டும் தொடங்குங்கள்"
+
+#: ../qml/Tracker.qml:455
+msgid "Start"
+msgstr "தொடங்கு"
+
+#: ../qml/Tracker.qml:465
+msgid "Stop"
+msgstr "நிறுத்து"
+
+#: ../qml/components/Sports.qml:7
+msgid "Run"
+msgstr "இயக்க"
+
+#: ../qml/components/Sports.qml:8
+msgid "BikeRide"
+msgstr "பைக் ரைடு"
+
+#: ../qml/components/Sports.qml:9
+msgid "Walk"
+msgstr "நடக்க"
+
+#: ../qml/components/Sports.qml:10
+msgid "Drive"
+msgstr "இயக்கி"
+
+#: ../qml/components/Sports.qml:11
+msgid "Hike"
+msgstr "உயர்வு"
+
+#: ../qml/components/Sports.qml:12
+msgid "SUP"
+msgstr "சுப்"
+
+#: ../qml/components/Sports.qml:13
+msgid "Nordic walking"
+msgstr "நோர்டிக் நடைபயிற்சி"
+
+#: ../qml/components/Sports.qml:14
+msgid "Unicycle"
+msgstr "ஒற்றைத் தனியாழி"

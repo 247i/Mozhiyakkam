@@ -1,0 +1,1240 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Voice Notify)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-22 10:20+0200\n"
+"PO-Revision-Date: 2025-06-14 06:58\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/voice-notify/app/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "Voice Notify"
+msgstr "குரல் அறிவிப்பு"
+
+#.  AppBar
+#, java-printf-format
+msgctxt "back"
+msgid "Back"
+msgstr "பின்"
+
+#, java-printf-format
+msgctxt "app_overrides"
+msgid "%s Overrides"
+msgstr "%s மேலெழுதும்"
+
+#.  MainScreen and AppWidget
+#, java-printf-format
+msgctxt "service_running"
+msgid "Voice Notify service is running"
+msgstr "குரல் அறிவிப்பு பணி இயங்குகிறது"
+
+#, java-printf-format
+msgctxt "service_suspended"
+msgid "Voice Notify service is suspended"
+msgstr "குரல் அறிவிப்பு பணி இடைநிறுத்தப்பட்டுள்ளது"
+
+#.  MainScreen and dialogs
+#, java-printf-format
+msgctxt "permission_rationale_read_phone_state"
+msgid ""
+"The phone calls permission is required to prevent Voice Notify from speaking"
+" during a call."
+msgstr ""
+"அழைப்பின் போது குரல் அறிவிப்பு பேசுவதைத் தடுக்க தொலைபேசி அழைப்புகள் இசைவு "
+"தேவை."
+
+#, java-printf-format
+msgctxt "permission_rationale_post_notifications"
+msgid ""
+"The post notifications permission is required for Voice Notify to post a "
+"test notification."
+msgstr ""
+"சோதனை அறிவிப்பை இடுகையிட குரல் அறிவிப்புக்கு இடுகை அறிவிப்புகள் இசைவு தேவை."
+
+#, java-printf-format
+msgctxt "autostart_message"
+msgid ""
+"For Voice Notify to work reliably on this device, it must be allowed to "
+"autostart or run in the background."
+msgstr ""
+"இந்த சாதனத்தில் நம்பகத்தன்மையுடன் செயல்பட குரல் அறிவிக்க, அதை ஆட்டோச்டார்ட் "
+"செய்ய அல்லது பின்னணியில் இயக்க அனுமதிக்க வேண்டும்."
+
+#, java-printf-format
+msgctxt "autostart_message_direct"
+msgid ""
+"\n"
+"\n"
+"Press %s to go to the relevant settings screen and enable Voice Notify if it isn't already."
+msgstr ""
+"\n"
+"தொடர்புடைய அமைப்புகள் திரைக்குச் செல்ல %s ஐ அழுத்தவும், அது ஏற்கனவே இல்லையென்றால் குரல் அறிவிப்பை இயக்கவும்."
+
+#, java-printf-format
+msgctxt "autostart_message_direct_failed"
+msgid "Failed to open the relevant settings screen"
+msgstr "தொடர்புடைய அமைப்புகள் திரையைத் திறக்கத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "autostart_message_manual"
+msgid ""
+"\n"
+"\n"
+"Search in Android Settings for 'autostart', 'auto-launch', 'startup', 'background', or 'never sleep' and enable Voice Notify if it isn't already.\n"
+"\n"
+"The setting has different names depending on the OS. If you are unable to find it, please contact the developer.\n"
+"\n"
+"Press %s to open Android Settings."
+msgstr ""
+"\n"
+"'ஆட்டோச்டார்ட்', 'ஆட்டோ-வெளியீட்டு', 'ச்டார்ட்அப்', 'பின்னணி' அல்லது 'ஒருபோதும் தூங்க வேண்டாம்' என்பதற்கு ஆண்ட்ராய்டு அமைப்புகளில் தேடுங்கள், அது ஏற்கனவே இல்லையென்றால் குரல் அறிவிப்பை இயக்கவும்.\n"
+"\n"
+" இந்த அமைப்பில் OS ஐப் பொறுத்து வெவ்வேறு பெயர்கள் உள்ளன. நீங்கள் அதைக் கண்டுபிடிக்க முடியாவிட்டால், தயவுசெய்து டெவலப்பரைத் தொடர்பு கொள்ளுங்கள்.\n"
+"\n"
+" ஆண்ட்ராய்டு அமைப்புகளைத் திறக்க %s ஐ அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "dont_show_again"
+msgid "Don't show again"
+msgstr "மீண்டும் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "service_disabled"
+msgid "Voice Notify service is disabled"
+msgstr "குரல் அறிவிப்பு பணி முடக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "status_summary_notification_access_enabled"
+msgid ""
+"Tap to suspend Voice Notify.\n"
+"Long press to open the Android notification access settings to disable the service."
+msgstr ""
+"குரல் அறிவிப்பை இடைநிறுத்த தட்டவும்.\n"
+" சேவையை முடக்க ஆண்ட்ராய்டு அறிவிப்பு அணுகல் அமைப்புகளைத் திறக்க நீண்ட அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "status_summary_notification_access_disabled"
+msgid ""
+"Tap to open the Android notification access settings to enable the service."
+msgstr ""
+"சேவையை இயக்க ஆண்ட்ராய்டு அறிவிப்பு அணுகல் அமைப்புகளைத் திறக்க தட்டவும்."
+
+#, java-printf-format
+msgctxt "status_summary_suspended"
+msgid ""
+"Tap to activate Voice Notify.\n"
+"Long press to open the Android notification access settings to disable the service."
+msgstr ""
+"குரல் அறிவிப்பை செயல்படுத்த தட்டவும்.\n"
+" சேவையை முடக்க ஆண்ட்ராய்டு அறிவிப்பு அணுகல் அமைப்புகளைத் திறக்க நீண்ட அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "app_list"
+msgid "App List"
+msgstr "பயன்பாட்டு பட்டியல்"
+
+#, java-printf-format
+msgctxt "app_list_summary"
+msgid "Select apps to enable and override settings per app"
+msgstr ""
+"ஒரு பயன்பாட்டிற்கு அமைப்புகளை இயக்கவும் மேலெழுதவும் பயன்பாடுகளைத் "
+"தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "tts"
+msgid "Text-To-Speech"
+msgstr "உரை-க்கு-பேச்சு"
+
+#, java-printf-format
+msgctxt "tts_summary"
+msgid "Configure Text-To-Speech behavior"
+msgstr "உரை-க்கு-பேச்சு நடத்தை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "audio_focus"
+msgid "Pause/dim media"
+msgstr "இடைநிறுத்தம்/மங்கலான மீடியா"
+
+#, java-printf-format
+msgctxt "audio_focus_summary"
+msgid "Request other media to pause/dim when speaking"
+msgstr "பேசும்போது மற்ற ஊடகங்களை இடைநிறுத்த/மங்கலாக்குமாறு கோருங்கள்"
+
+#, java-printf-format
+msgctxt "shake_to_silence"
+msgid "Shake-To-Silence"
+msgstr "குலுக்கல்"
+
+#, java-printf-format
+msgctxt "shake_to_silence_summary"
+msgid "Adjust the sensitivity threshold of Shake-To-Silence"
+msgstr "சேக்-டு-சைலென்சின் உணர்திறன் வாசலை சரிசெய்யவும்"
+
+#, java-printf-format
+msgctxt "shake_to_silence_dialog_msg"
+msgid ""
+"Lower values are more sensitive.\n"
+"\n"
+"Default: %1$d\n"
+"Blank or 0 to disable.\n"
+"\n"
+"Realtime shake value: %2$d\n"
+"Peak (5 seconds): %3$d"
+msgstr ""
+"குறைந்த மதிப்புகள் அதிக உணர்திறன் கொண்டவை.\n"
+"\n"
+" இயல்புநிலை: %1$d\n"
+" வெற்று அல்லது முடக்க 0.\n"
+"\n"
+" நிகழ்நேர குலுக்கல் மதிப்பு: %2$d\n"
+" உச்ச (5 விநாடிகள்): %3$d"
+
+#, java-printf-format
+msgctxt "require_strings"
+msgid "Require Text"
+msgstr "உரை தேவை"
+
+#, java-printf-format
+msgctxt "require_strings_summary"
+msgid "Only speak notifications that contain certain text in the message"
+msgstr "செய்தியில் சில உரைகளைக் கொண்ட அறிவிப்புகளை மட்டும் பேசுங்கள்"
+
+#, java-printf-format
+msgctxt "ignore_strings"
+msgid "Ignore Text"
+msgstr "உரையை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_strings_summary"
+msgid "Ignore notifications that contain certain text in the message"
+msgstr "செய்தியில் சில உரையைக் கொண்டிருக்கும் அறிவிப்புகளை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "require_ignore_strings_dialog_msg"
+msgid ""
+"This is matched against the message sent to TTS, after TTS Message formatting and Text Replacement, including punctuation.\n"
+"\n"
+"Separate individual entries with a new line.\n"
+"The message needs to contain any entry, not all, to be a match.\n"
+"Case insensitive."
+msgstr ""
+"TTS க்கு அனுப்பப்பட்ட செய்திக்கு இது பொருந்துகிறது, TTS செய்தி வடிவமைப்பு மற்றும் உரை மாற்றத்திற்குப் பிறகு, நிறுத்தற்குறி உட்பட.\n"
+"\n"
+" தனிப்பட்ட உள்ளீடுகளை புதிய வரியுடன் பிரிக்கவும்.\n"
+" செய்தியில் எந்தவொரு நுழைவும் இருக்க வேண்டும், அனைத்துமே அல்ல, ஒரு பொருத்தமாக இருக்க வேண்டும்.\n"
+" வழக்கு உணர்வற்றது."
+
+#, java-printf-format
+msgctxt "ignore_empty"
+msgid "Ignore Empty"
+msgstr "காலியாக புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_empty_summary_on"
+msgid "Notifications without a message will not be spoken"
+msgstr "செய்தி இல்லாமல் அறிவிப்புகள் பேசப்படாது"
+
+#, java-printf-format
+msgctxt "ignore_empty_summary_off"
+msgid ""
+"Notifications without a message will be spoken as \"Notification from [app "
+"name].\""
+msgstr ""
+"செய்தி இல்லாமல் அறிவிப்புகள் \"[பயன்பாட்டு பெயரிலிருந்து] அறிவிப்பு\" என்று "
+"பேசப்படும்."
+
+#, java-printf-format
+msgctxt "ignore_groups"
+msgid "Ignore Group Messages"
+msgstr "குழு செய்திகளை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_groups_summary_on"
+msgid "Notifications containing multiple messages will not be spoken"
+msgstr "பல செய்திகளைக் கொண்ட அறிவிப்புகள் பேசப்படாது"
+
+#, java-printf-format
+msgctxt "ignore_groups_summary_off"
+msgid "Notifications containing multiple messages will be spoken"
+msgstr "பல செய்திகளைக் கொண்ட அறிவிப்புகள் பேசப்படும்"
+
+#, java-printf-format
+msgctxt "ignore_repeat"
+msgid "Ignore Repeats"
+msgstr "மறுபடியும் புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_repeat_summary"
+msgid "Ignore subsequent identical notifications within a set time"
+msgstr ""
+"ஒரு குறிப்பிட்ட நேரத்திற்குள் அடுத்தடுத்த ஒத்த அறிவிப்புகளை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_repeat_dialog_msg"
+msgid ""
+"Set the number of seconds that must pass for a repeated notification to be spoken.\n"
+"Ignored repeats reset the count.\n"
+"\n"
+"Repeat detection is limited to the memory of the Notification Log (%d notifications).\n"
+"\n"
+"0 = Disable\n"
+"Blank = Infinite"
+msgstr ""
+"மறுநிகழ்வு அறிவிப்பு பேச வேண்டிய வினாடிகளின் எண்ணிக்கையை அமைக்கவும்.\n"
+" புறக்கணிக்கப்பட்ட மறுபடியும் எண்ணிக்கையை மீட்டமைக்கவும்.\n"
+"\n"
+" மீண்டும் கண்டறிதல் அறிவிப்பு பதிவின் நினைவகத்திற்கு மட்டுப்படுத்தப்பட்டுள்ளது (%d அறிவிப்புகள்).\n"
+"\n"
+" 0 = முடக்கு\n"
+" வெற்று = எல்லையற்றது"
+
+#, java-printf-format
+msgctxt "device_state"
+msgid "Device States"
+msgstr "சாதனம் நிலைகள்"
+
+#, java-printf-format
+msgctxt "device_state_summary"
+msgid "Select whether to speak during certain device states"
+msgstr "சில சாதன நிலைகளின் போது பேசலாமா என்பதைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "device_state_dialog_title"
+msgid "Speak during these device states"
+msgstr "இந்த சாதன நிலைகளின் போது பேசுங்கள்"
+
+#, java-printf-format
+msgctxt "quiet_start"
+msgid "Quiet Time Start"
+msgstr "அமைதியான நேரம் தொடக்க"
+
+#, java-printf-format
+msgctxt "quiet_start_summary"
+msgid ""
+"Don't speak after this time.\n"
+"Leave the same as end to disable."
+msgstr ""
+"இந்த நேரத்திற்குப் பிறகு பேச வேண்டாம்.\n"
+" முடக்க முடிவுக்கு விடுங்கள்."
+
+#, java-printf-format
+msgctxt "quiet_end"
+msgid "Quiet Time End"
+msgstr "அமைதியான நேர முடிவு"
+
+#, java-printf-format
+msgctxt "quiet_end_summary"
+msgid ""
+"Don't speak before this time.\n"
+"Leave the same as start to disable."
+msgstr ""
+"இந்த நேரத்திற்கு முன் பேச வேண்டாம்.\n"
+" முடக்கத் தொடங்குவதைப் போலவே விடவும்."
+
+#, java-printf-format
+msgctxt "test"
+msgid "Test"
+msgstr "தேர்வு"
+
+#, java-printf-format
+msgctxt "test_summary"
+msgid "Post a notification (delayed 5 seconds) to test current settings"
+msgstr "தற்போதைய அமைப்புகளை சோதிக்க அறிவிப்பை (5 வினாடிகள் தாமதமாக) இடுங்கள்"
+
+#, java-printf-format
+msgctxt "test_ignored"
+msgid ""
+"Voice Notify is ignored in App List.\n"
+"Test will run, but notification will not be spoken."
+msgstr ""
+"பயன்பாட்டு பட்டியலில் குரல் அறிவிப்பு புறக்கணிக்கப்படுகிறது.\n"
+" சோதனை இயங்கும், ஆனால் அறிவிப்பு பேசப்படாது."
+
+#, java-printf-format
+msgctxt "notification_channel_desc"
+msgid "Used for test notification"
+msgstr "சோதனை அறிவிப்புக்கு பயன்படுத்தப்படுகிறது"
+
+#, java-printf-format
+msgctxt "test_ticker"
+msgid "This is the ticker message"
+msgstr "இது டிக்கர் செய்தி"
+
+#, java-printf-format
+msgctxt "test_subtext"
+msgid "The Subtext"
+msgstr "துணை உரை"
+
+#, java-printf-format
+msgctxt "test_content_title"
+msgid "Content Title"
+msgstr "உள்ளடக்க தலைப்பு"
+
+#, java-printf-format
+msgctxt "test_content_text"
+msgid "This is the content message. 🙂"
+msgstr "இது உள்ளடக்க செய்தி. ."
+
+#, java-printf-format
+msgctxt "test_content_info"
+msgid "Content Info"
+msgstr "உள்ளடக்க செய்தி"
+
+#, java-printf-format
+msgctxt "test_big_content_title"
+msgid "Big Content Title"
+msgstr "பெரிய உள்ளடக்க தலைப்பு"
+
+#, java-printf-format
+msgctxt "test_big_content_summary"
+msgid "This is the big content summary"
+msgstr "இது பெரிய உள்ளடக்க சுருக்கம்"
+
+#, java-printf-format
+msgctxt "test_big_content_text"
+msgid "This is the big content text."
+msgstr "இது பெரிய உள்ளடக்க உரை."
+
+#, java-printf-format
+msgctxt "test_text_lines"
+msgid ""
+"This is a line of text.\n"
+"This is another line of text."
+msgstr ""
+"இது உரையின் வரி.\n"
+" இது உரையின் மற்றொரு வரி."
+
+#, java-printf-format
+msgctxt "notify_log"
+msgid "Notification Log"
+msgstr "அறிவிப்பு பதிவு"
+
+#, java-printf-format
+msgctxt "notify_log_summary"
+msgid ""
+"List last %d notifications.\n"
+"Displays time, app name, message, and ignore reasons."
+msgstr ""
+"கடைசி %d அறிவிப்பை பட்டியலிடுங்கள்.\n"
+" நேரம், பயன்பாட்டு பெயர், செய்தி மற்றும் காரணங்களை புறக்கணிக்கவும்."
+
+#, java-printf-format
+msgctxt "notify_log_settings"
+msgid "Notification Log Settings"
+msgstr "அறிவிப்பு பதிவு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "log_ignored_desc"
+msgid ""
+"<![CDATA[<b>Hide</b> &ndash; Notifications are hidden in the log and can be "
+"shown later, but count against the log limit.<br><br><b>Do not log</b> "
+"&ndash; Notifications are not logged and do not count against the log limit,"
+" but cannot be shown later. Notifications logged prior to setting this are "
+"hidden.]]>"
+msgstr ""
+"<! [Cdata [<b> மறை </b> & ndash; அறிவிப்புகள் பதிவில் மறைக்கப்பட்டுள்ளன, "
+"பின்னர் அவை காட்டப்படலாம், ஆனால் பதிவு வரம்பை எதிர்த்து எண்ணலாம். <br> <br> "
+"<b> உள்நுழைய வேண்டாம் </b> & ndash; அறிவிப்புகள் உள்நுழைந்திருக்கவில்லை "
+"மற்றும் பதிவு வரம்புக்கு எதிராக கணக்கிடாது, ஆனால் பின்னர் காட்ட முடியாது. "
+"இதை அமைப்பதற்கு முன் உள்நுழைந்த அறிவிப்புகள் மறைக்கப்பட்டுள்ளன.]]"
+
+#, java-printf-format
+msgctxt "show_ignored"
+msgid "Show ignored %s"
+msgstr "புறக்கணிக்கப்பட்ட %s"
+
+#, java-printf-format
+msgctxt "hide_ignored"
+msgid "Hide ignored %s"
+msgstr "புறக்கணிக்கப்பட்ட %s ஐ மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "do_not_log_ignored"
+msgid "Do not log ignored %s"
+msgstr "பதிவு செய்ய வேண்டாம் %s"
+
+#, java-printf-format
+msgctxt "notifications"
+msgid "notifications"
+msgstr "அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "apps"
+msgid "apps"
+msgstr "பயன்பாடுகள்"
+
+#, java-printf-format
+msgctxt "notification_details"
+msgid "Notification Details"
+msgstr "அறிவிப்பு விவரங்கள்"
+
+#, java-printf-format
+msgctxt "enable"
+msgid "Enable"
+msgstr "இயக்கு"
+
+#, java-printf-format
+msgctxt "ticker"
+msgid "Ticker"
+msgstr "டிக்கர்"
+
+#, java-printf-format
+msgctxt "subtext"
+msgid "Subtext"
+msgstr "துணை உரை"
+
+#, java-printf-format
+msgctxt "title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, java-printf-format
+msgctxt "content_text"
+msgid "Content Text"
+msgstr "உள்ளடக்க உரை"
+
+#, java-printf-format
+msgctxt "content_info_text"
+msgid "Content Info Text"
+msgstr "உள்ளடக்க செய்தி உரை"
+
+#, java-printf-format
+msgctxt "big_content_summary"
+msgid "Big Content Summary"
+msgstr "பெரிய உள்ளடக்க சுருக்கம்"
+
+#, java-printf-format
+msgctxt "big_content_title"
+msgid "Big Content Title"
+msgstr "பெரிய உள்ளடக்க தலைப்பு"
+
+#, java-printf-format
+msgctxt "big_content_text"
+msgid "Big Content Text"
+msgstr "பெரிய உள்ளடக்க உரை"
+
+#, java-printf-format
+msgctxt "text_lines"
+msgid "Text Lines"
+msgstr "உரை கோடுகள்"
+
+#, java-printf-format
+msgctxt "flags"
+msgid "Flags"
+msgstr "கொடிகள்"
+
+#, java-printf-format
+msgctxt "ignored_reasons"
+msgid "Ignored Reasons"
+msgstr "புறக்கணிக்கப்பட்ட காரணங்கள்"
+
+#, java-printf-format
+msgctxt "interrupted_reason"
+msgid "Interrupted Reason"
+msgstr "குறுக்கிடப்பட்ட காரணம்"
+
+#, java-printf-format
+msgctxt "metadata"
+msgid "Metadata"
+msgstr "மேனிலை தரவு"
+
+#, java-printf-format
+msgctxt "metadata_id"
+msgid "ID: %d"
+msgstr "ஐடி: %d"
+
+#, java-printf-format
+msgctxt "metadata_category"
+msgid "Category: %s"
+msgstr "வகை: %s"
+
+#, java-printf-format
+msgctxt "metadata_progress"
+msgid "Progress: %1$d / %2$d"
+msgstr "முன்னேற்றம்: %1$d / %2$d"
+
+#, java-printf-format
+msgctxt "metadata_progress_indeterminate"
+msgid "Progress: Indeterminate"
+msgstr "முன்னேற்றம்: உறுதியற்றது"
+
+#, java-printf-format
+msgctxt "ignore_app"
+msgid "Ignore %s?"
+msgstr "%s ஐ புறக்கணிக்கிறீர்களா?"
+
+#, java-printf-format
+msgctxt "unignore_app"
+msgid "Enable %s?"
+msgstr "%s ஐ இயக்கவா?"
+
+#, java-printf-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "backup_restore"
+msgid "Backup / Restore"
+msgstr "காப்புப்பிரதி / மீட்டமை"
+
+#, java-printf-format
+msgctxt "backup_restore_summary"
+msgid "Backup or restore all Voice Notify settings"
+msgstr "அனைத்து குரல் அறிவிக்கும் அமைப்புகளை காப்புப் பிரதி அல்லது மீட்டமை"
+
+#, java-printf-format
+msgctxt "backup_restore_message"
+msgid ""
+"Backup or restore a zip file containing all settings.\n"
+"\n"
+"Backups are only guaranteed to be compatible with the same version or later of Voice Notify.\n"
+"There is no guarantee for backups from a beta or non-release build."
+msgstr ""
+"அனைத்து அமைப்புகளையும் கொண்ட சிப் கோப்பை காப்புப்பிரதி அல்லது மீட்டமை.\n"
+"\n"
+" காப்புப்பிரதிகள் ஒரே பதிப்போடு அல்லது பின்னர் குரல் அறிவிப்புடன் இணக்கமாக இருக்கும் என்று பொறுப்பு அளிக்கப்படுகிறது.\n"
+" பீட்டா அல்லது வெளியீடு அல்லாத கட்டமைப்பிலிருந்து காப்புப்பிரதிகளுக்கு எந்த உத்தரவாதமும் இல்லை."
+
+#, java-printf-format
+msgctxt "backup_settings"
+msgid "Backup Settings"
+msgstr "காப்பு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "restore_settings"
+msgid "Restore Settings"
+msgstr "அமைப்புகளை மீட்டெடுங்கள்"
+
+#, java-printf-format
+msgctxt "support"
+msgid "Help & Support"
+msgstr "உதவி & உதவி"
+
+#, java-printf-format
+msgctxt "support_summary"
+msgid ""
+"Rate & review, email the developer, community chat, translations, source "
+"code, issue tracker, privacy policy"
+msgstr ""
+"வீதம் மற்றும் மதிப்பாய்வு, உருவாக்குபவர், சமூக அரட்டை, மொழிபெயர்ப்புகள், "
+"மூலக் குறியீடு, வெளியீடு டிராக்கர், தனியுரிமைக் கொள்கை"
+
+#, java-printf-format
+msgctxt "support_rate"
+msgid "Rate & Review"
+msgstr "விகிதம் மற்றும் மதிப்பாய்வு"
+
+#, java-printf-format
+msgctxt "support_rate_subtext"
+msgid "View the app on Play Store"
+msgstr "பிளே ச்டோரில் பயன்பாட்டைக் காண்க"
+
+#, java-printf-format
+msgctxt "support_email"
+msgid "Email Developer"
+msgstr "மின்னஞ்சல் உருவாக்குபவர்"
+
+#, java-printf-format
+msgctxt "support_email_subtext"
+msgid "General feedback or send debug files"
+msgstr "பொதுவான கருத்து அல்லது பிழைத்திருத்த கோப்புகளை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "support_email_dialog_title"
+msgid "Select attachments"
+msgstr "இணைப்புகளைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "support_email_dialog_message"
+msgid "These are only recommended when reporting bugs and crashes."
+msgstr ""
+"பிழைகள் மற்றும் செயலிழப்புகளைப் புகாரளிக்கும்போது மட்டுமே இவை "
+"பரிந்துரைக்கப்படுகின்றன."
+
+#, java-printf-format
+msgctxt "support_email_dialog_message_log"
+msgid ""
+"While potentially sensitive information is not intentionally included, the "
+"log may include names of installed apps and some errors could contain "
+"relevant notification content or text-based settings. It is limited to 1MB, "
+"which may span days. It can be accessed from a computer through USB at %s"
+msgstr ""
+"சாத்தியமான உணர்திறன் தகவல்கள் வேண்டுமென்றே சேர்க்கப்படவில்லை என்றாலும், "
+"பதிவில் நிறுவப்பட்ட பயன்பாடுகளின் பெயர்கள் இருக்கலாம் மற்றும் சில பிழைகள் "
+"தொடர்புடைய அறிவிப்பு உள்ளடக்கம் அல்லது உரை அடிப்படையிலான அமைப்புகளைக் "
+"கொண்டிருக்கலாம். இது 1MB க்கு மட்டுப்படுத்தப்பட்டுள்ளது, இது நாட்கள் "
+"பரவக்கூடும். இதை ஒரு கணினியிலிருந்து யூ.எச்.பி மூலம் %s இல் அணுகலாம்"
+
+#, java-printf-format
+msgctxt "support_email_dialog_message_settings"
+msgid ""
+"• Database file: Contains a list of all installed apps and all settings that are available in per-app overrides.\n"
+"• Preferences file: Contains the settings that are not available in per-app overrides."
+msgstr ""
+"கோப்பு தரவுத்தள கோப்பு: நிறுவப்பட்ட அனைத்து பயன்பாடுகளின் பட்டியலையும், பயன்பாட்டிற்கு மேலெழுதல்களிலும் கிடைக்கும் அனைத்து அமைப்புகளும் உள்ளன.\n"
+" • விருப்பத்தேர்வுகள் கோப்பு: பயன்பாட்டிற்கு கிடைக்காத அமைப்புகளைக் கொண்டுள்ளது."
+
+#, java-printf-format
+msgctxt "debug_log"
+msgid "Debug Log"
+msgstr "பிழைத்திருத்த பதிவு"
+
+#, java-printf-format
+msgctxt "view"
+msgid "View"
+msgstr "பார்வை"
+
+#, java-printf-format
+msgctxt "view_debug_log_failed"
+msgid "Unable to read debug log"
+msgstr "பிழைத்திருத்த பதிவைப் படிக்க முடியவில்லை"
+
+#, java-printf-format
+msgctxt "settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "support_discord"
+msgid "Discord"
+msgstr "முரண்பாடு"
+
+#, java-printf-format
+msgctxt "support_matrix"
+msgid "Matrix"
+msgstr "அணி"
+
+#, java-printf-format
+msgctxt "support_chat_subtext"
+msgid "Community chat, fastest developer response"
+msgstr "சமூக அரட்டை, வேகமான உருவாக்குபவர் பதில்"
+
+#, java-printf-format
+msgctxt "support_translations"
+msgid "Translations"
+msgstr "மொழிபெயர்ப்புகள்"
+
+#, java-printf-format
+msgctxt "support_translations_subtext"
+msgid "Crowd-sourced translations at Weblate.org"
+msgstr "Weblate.org இல் கூட்டத்தை வளர்க்கும் மொழிபெயர்ப்புகள்"
+
+#, java-printf-format
+msgctxt "support_github"
+msgid "GitHub"
+msgstr "கிரப்"
+
+#, java-printf-format
+msgctxt "support_github_subtext"
+msgid ""
+"Bug reports, feature requests, release notes, beta releases, source code"
+msgstr ""
+"பிழை அறிக்கைகள், அம்ச கோரிக்கைகள், வெளியீட்டுக் குறிப்புகள், பீட்டா "
+"வெளியீடுகள், மூலக் குறியீடு"
+
+#, java-printf-format
+msgctxt "support_privacy"
+msgid "Privacy Policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, java-printf-format
+msgctxt "support_privacy_message"
+msgid ""
+"Voice Notify does not collect or transmit data off of the device. However, it does use third party apps or services that may transmit data, as outlined below under \"Third party apps and services\". \n"
+"\n"
+"The purpose of Voice Notify is to speak notifications, and as such it is likely that spoken notifications may be heard by nearby people or microphones. It is recommended to configure Voice Notify and the device to prevent undesired spoken notifications. Use at your own risk. \n"
+"\n"
+"In the unlikely event that sensitive information is received by the developer, it will not be sold, shared, or used without the express consent of the rightful owner of the information. Any sensitive information that is knowingly received will be deleted if it is unrelated to a reported issue or once the issue is resolved. \n"
+"\n"
+"The notifications received by Voice Notify are only held in memory to be displayed in the Notification Log (up to the most recent %1$d) and are not written to storage. This prevents other apps from accessing the data even if the device is rooted. As a result, if the Voice Notify process is terminated, the notification log is cleared. \n"
+"\n"
+"Installed apps are read and listed to allow users to choose which apps have their notifications spoken and configure per-app settings. The app titles and package names are stored in a database in Voice Notify's internal private data storage on the device to save selections and act as a cache to improve performance of loading the app list. \n"
+"\n"
+"A debug log is saved to external storage at %2$s which is accessible from a computer via USB and optionally sent when using the Email Developer feature.\n"
+"It could potentially contain sensitive information from a notification if there was an error. The Email Developer dialog provides a basic log viewer. \n"
+"\n"
+"The backup feature saves a zip file containing all settings including installed apps to a location of the user's choice. \n"
+"\n"
+"Third party apps and services: \n"
+"• Text-To-Speech engine - Voice Notify passes notification text to be spoken to the default Text-To-Speech engine, which is outside the direct control of Voice Notify. Please read the privacy policy of the TTS engine for how it uses data. \n"
+"• Google Play Services may send anonymized data for analytics, crashes, and freezes back to the developer to assist in improving the app. This is the same for all apps distributed through the Play Store. \n"
+"• Messaging app - The \"Contact Developer\" option opens the user's chosen or default messaging app, such as an email app, and pre-populates the message with the Voice Notify version, Android version, Android build number, and device name. The user may choose to attach the debug log and settings files. When sending to an email app, the \"To\" field is set to the developer's address (%3$s). By sending the message, the user understands and consents to their name and contact information being shared with the recipient(s) as determined by the messaging app. \n"
+"• Other options under \"Help & Support\" open the relevant external apps or websites (Play Store, Discord, Matrix, Weblate.org, GitHub.com) to the Voice Notify page or chat room. \n"
+"\n"
+"Below are the permissions used by Voice Notify and why they're needed: \n"
+"• Post Notifications - Required to post the test notification. This is typically the only permission that Android shows to the user. \n"
+"• Query All Packages - Required to fetch a list of all installed apps for the App List and allow for per-app settings. \n"
+"• Bluetooth - Required to detect whether a Bluetooth headset is connected. \n"
+"• Modify Audio Settings - Required for improved wired headset detection. \n"
+"• Vibrate - Required for Test feature while device is in vibrate mode. \n"
+"• Read Phone State - Required in Android 11 and below to interrupt TTS if a phone call becomes active."
+msgstr ""
+"குரல் அறிவிப்பு சாதனத்தின் தரவை சேகரிக்கவோ அல்லது அனுப்பவோ இல்லை. இருப்பினும், \"மூன்றாம் தரப்பு பயன்பாடுகள் மற்றும் சேவைகள்\" கீழ் கீழே கோடிட்டுக் காட்டப்பட்டுள்ளபடி, தரவை அனுப்பக்கூடிய மூன்றாம் தரப்பு பயன்பாடுகள் அல்லது சேவைகளைப் பயன்படுத்துகிறது.\n"
+"\n"
+" குரல் அறிவிப்பின் நோக்கம் அறிவிப்புகளைப் பேசுவதாகும், மேலும் பேசும் அறிவிப்புகள் அருகிலுள்ள நபர்கள் அல்லது மைக்ரோஃபோன்களால் கேட்கப்படலாம். விரும்பத்தகாத பேசும் அறிவிப்புகளைத் தடுக்க குரல் அறிவிப்பு மற்றும் சாதனத்தை உள்ளமைக்க பரிந்துரைக்கப்படுகிறது. உங்கள் சொந்த ஆபத்தில் பயன்படுத்தவும்.\n"
+"\n"
+" டெவலப்பரால் முக்கியமான தகவல்கள் பெறப்படும் சாத்தியமில்லாத நிகழ்வில், தகவல்களின் சரியான உரிமையாளரின் வெளிப்படையான ஒப்புதல் இல்லாமல் அது விற்கப்படவோ, பகிரவோ அல்லது பயன்படுத்தப்படவோாது. தெரிந்தே பெறப்பட்ட எந்தவொரு முக்கியமான தகவலும் அறிக்கையிடப்பட்ட சிக்கலுடன் தொடர்பில்லாததாக இருந்தால் அல்லது சிக்கல் தீர்க்கப்பட்டவுடன் நீக்கப்படும்.\n"
+"\n"
+" குரல் அறிவிப்பால் பெறப்பட்ட அறிவிப்புகள் அறிவிப்பு பதிவில் (மிக அண்மைக் கால %1$d வரை) காண்பிக்கப்பட வேண்டிய நினைவகத்தில் மட்டுமே வைக்கப்படுகின்றன, மேலும் அவை சேமிப்பகத்திற்கு எழுதப்படவில்லை. சாதனம் வேரூன்ற இருந்தாலும் மற்ற பயன்பாடுகளை தரவை அணுகுவதைத் தடுக்கிறது. இதன் விளைவாக, குரல் அறிவிப்பு செயல்முறை நிறுத்தப்பட்டால், அறிவிப்பு பதிவு அழிக்கப்படும்.\n"
+"\n"
+" நிறுவப்பட்ட பயன்பாடுகள் படிக்கப்பட்டு பட்டியலிடப்படுகின்றன, பயனர்கள் எந்த பயன்பாடுகளில் தங்கள் அறிவிப்புகளைக் கொண்டுள்ளனர் என்பதைத் தேர்வுசெய்யவும், பயன்பாட்டிற்கு ஒரு அமைப்புகளை உள்ளமைக்கவும் அனுமதிக்கின்றனர். பயன்பாட்டு தலைப்புகள் மற்றும் தொகுப்பு பெயர்கள் ஒரு தரவுத்தளத்தில் குரல் அறிவிப்பின் உள் தனியார் தரவு சேமிப்பகத்தில் சாதனத்தில் தேர்வுகளைச் சேமிக்கவும், பயன்பாட்டு பட்டியலை ஏற்றுவதற்கான செயல்திறனை மேம்படுத்தவும் ஒரு தற்காலிக சேமிப்பாக செயல்படுகின்றன.\n"
+"\n"
+" பிழைத்திருத்த பதிவு %2$s இல் வெளிப்புற சேமிப்பகத்தில் சேமிக்கப்படுகிறது, இது ஒரு கணினியிலிருந்து யூ.எச்.பி வழியாக அணுகக்கூடியது மற்றும் மின்னஞ்சல் உருவாக்குபவர் அம்சத்தைப் பயன்படுத்தும் போது விருப்பமாக அனுப்பப்படுகிறது.\n"
+" பிழை இருந்தால் அறிவிப்பிலிருந்து முக்கியமான தகவல்களைக் கொண்டிருக்கக்கூடும். மின்னஞ்சல் உருவாக்குபவர் உரையாடல் ஒரு அடிப்படை பதிவு பார்வையாளரை வழங்குகிறது.\n"
+"\n"
+" காப்புப்பிரதி நற்பொருத்தம் பயனரின் விருப்பத்தின் இருப்பிடத்திற்கு நிறுவப்பட்ட பயன்பாடுகள் உட்பட அனைத்து அமைப்புகளையும் கொண்ட சிப் கோப்பை சேமிக்கிறது.\n"
+"\n"
+" மூன்றாம் தரப்பு பயன்பாடுகள் மற்றும் சேவைகள்:\n"
+" • உரை-க்கு-பேச்சு இயந்திரம்-குரல் அறிவிப்பு அறிவிப்பு உரையை இயல்புநிலை உரை-க்கு-பேச்சு இயந்திரத்துடன் பேச வேண்டும், இது குரல் அறிவிப்பின் நேரடி கட்டுப்பாட்டுக்கு வெளியே உள்ளது. தரவை எவ்வாறு பயன்படுத்துகிறது என்பதற்கான TTS இயந்திரத்தின் தனியுரிமைக் கொள்கையைப் படியுங்கள்.\n"
+" இடு கூகிள் பிளே சேவைகள் பயன்பாட்டை மேம்படுத்த உதவுவதற்காக பகுப்பாய்வு, செயலிழப்புகள் மற்றும் டெவலப்பருக்கு உறைபனி ஆகியவற்றிற்கான அநாமதேய தரவை அனுப்பலாம். பிளே கடை மூலம் விநியோகிக்கப்படும் அனைத்து பயன்பாடுகளுக்கும் இது ஒன்றே.\n"
+" பயன்பாடு செய்தி பயன்பாடு - \"தொடர்பு உருவாக்குபவர்\" விருப்பம் பயனரின் தேர்ந்தெடுக்கப்பட்ட அல்லது இயல்புநிலை செய்தியிடல் பயன்பாட்டை மின்னஞ்சல் பயன்பாடு போன்றவற்றைத் திறந்து, குரல் அறிவிப்பு பதிப்பு, ஆண்ட்ராய்டு பதிப்பு, ஆண்ட்ராய்டு உருவாக்க எண் மற்றும் சாதனப் பெயருடன் செய்தியை முன்கூட்டியே மக்கள்தொகை செய்கிறது. பிழைத்திருத்த பதிவு மற்றும் அமைப்புகள் கோப்புகளை இணைக்க பயனர் தேர்வு செய்யலாம். ஒரு மின்னஞ்சல் பயன்பாட்டிற்கு அனுப்பும்போது, ​​\"TO\" புலம் டெவலப்பரின் முகவரிக்கு (%3$s) அமைக்கப்படுகிறது. செய்தியை அனுப்புவதன் மூலம், பயனர் செய்தியிடல் பயன்பாட்டால் தீர்மானிக்கப்பட்டபடி பெறுநருடன் (கள்) பகிரப்படும் அவர்களின் பெயர் மற்றும் தொடர்புத் தகவல்களை புரிந்துகொண்டு ஒப்புக்கொள்கிறார்.\n"
+" \"உதவி மற்றும் உதவி\" கீழ் உள்ள பிற விருப்பங்கள் தொடர்புடைய வெளிப்புற பயன்பாடுகள் அல்லது வலைத்தளங்களைத் திறக்கவும் (பிளே கடை, டிச்கார்ட், மேட்ரிக்ச், வெப்லேட்.ஆர்ச், கிதுப்.காம்) குரல் அறிவிப்பு பக்கம் அல்லது அரட்டை அறைக்கு.\n"
+"\n"
+" குரல் அறிவிப்பால் பயன்படுத்தப்படும் அனுமதிகள் மற்றும் அவை ஏன் தேவை என்பதை கீழே:\n"
+" • இடுகை அறிவிப்புகள் - சோதனை அறிவிப்பை இடுகையிட தேவை. அண்ட்ராய்டு பயனருக்கு காண்பிக்கும் ஒரே இசைவு இதுதான்.\n"
+" Packet அனைத்து தொகுப்புகளையும் வினவவும் - பயன்பாட்டு பட்டியலுக்கான அனைத்து நிறுவப்பட்ட பயன்பாடுகளின் பட்டியலையும் பெறவும், பயன்பாட்டிற்கு பயன்பாடு அமைப்புகளை அனுமதிக்கவும் தேவை.\n"
+" • ஊடலை - ஊடலை எட்செட் இணைக்கப்பட்டுள்ளதா என்பதைக் கண்டறிய வேண்டும்.\n"
+" Audion ஆடியோ அமைப்புகளை மாற்றவும் - மேம்பட்ட கம்பி எட்செட் கண்டறிதலுக்கு தேவை.\n"
+" • அதிர்வு - சாதனம் அதிர்வு பயன்முறையில் இருக்கும்போது சோதனை அம்சத்திற்கு தேவை.\n"
+" Phone தொலைபேசி நிலையைப் படியுங்கள் - தொலைபேசி அழைப்பு செயலில் இருந்தால் TTS ஐ குறுக்கிட ஆண்ட்ராய்டு 11 மற்றும் அதற்குக் கீழே தேவைப்படுகிறது."
+
+#, java-printf-format
+msgctxt "error_market"
+msgid "Error: Unable to find Google Play Store installed."
+msgstr "பிழை: கூகிள் பிளே கடை நிறுவப்பட்டதைக் கண்டுபிடிக்க முடியவில்லை."
+
+#, java-printf-format
+msgctxt "error_email"
+msgid "Error: Unable to find an installed email app."
+msgstr "பிழை: நிறுவப்பட்ட மின்னஞ்சல் பயன்பாட்டைக் கண்டுபிடிக்க முடியவில்லை."
+
+#, java-printf-format
+msgctxt "error_browser"
+msgid "Error: Unable to find an installed browser app."
+msgstr "பிழை: நிறுவப்பட்ட உலாவி பயன்பாட்டைக் கண்டுபிடிக்க முடியவில்லை."
+
+#, java-printf-format
+msgctxt "remove_override"
+msgid "Remove override"
+msgstr "மேலெழுதலை அகற்று"
+
+#, java-printf-format
+msgctxt "remove_override_confirm"
+msgid "Remove %1$s override for %2$s?"
+msgstr "%2$s க்கு %1$s மேலெழுதலை அகற்றவா?"
+
+#, java-printf-format
+msgctxt "regex_message"
+msgid ""
+"\n"
+"\n"
+"To use regex, prefix the text with \"$regex:\". Regex is case sensitive by default.\n"
+"For example, to match a URL (ignoring case):\n"
+"$regex:(?i)https?:\\/\\/[^\\s]+\n"
+msgstr ""
+"\n"
+"ரீசெக்சைப் பயன்படுத்த, உரையை \"$ ரீசெக்ச்:\" உடன் முன்னொட்டு. ரீசெக்ச் இயல்புநிலையாக உணர்திறன் கொண்டது.\n"
+" எடுத்துக்காட்டாக, ஒரு முகவரி உடன் பொருந்த (வழக்கை புறக்கணித்தல்):\n"
+" $ வழக்கவெளி :(? i) https?: \\/\\/[^\\ s]+\n"
+
+#, java-printf-format
+msgctxt "invalid_regex"
+msgid "Invalid regex"
+msgstr "தவறான ரீசெக்ச்"
+
+#.  AppListScreen
+#, java-printf-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "ignore_all"
+msgid "Ignore All"
+msgstr "அனைத்தையும் புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "ignore_none"
+msgid "Ignore None"
+msgstr "எதையும் புறக்கணிக்காது"
+
+#, java-printf-format
+msgctxt "ignore_enable_apps_confirm"
+msgid "Are you sure you want to %s all apps?"
+msgstr "எல்லா பயன்பாடுகளையும் %செய்ய விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "ignore"
+msgid "ignore"
+msgstr "புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "filter"
+msgid "Filter"
+msgstr "வடிப்பி"
+
+#, java-printf-format
+msgctxt "remove_app_overrides"
+msgid "Remove all app overrides"
+msgstr "அனைத்து பயன்பாட்டு மேலெழுதல்களையும் அகற்று"
+
+#, java-printf-format
+msgctxt "remove_app_overrides_confirm"
+msgid "Remove all overrides for %s?"
+msgstr "%s க்கு அனைத்து மேலெழுதல்களையும் அகற்றவா?"
+
+#.  TtsConfigScreen and dialogs
+#, java-printf-format
+msgctxt "tts_settings"
+msgid "TTS Settings"
+msgstr "TTS அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "tts_settings_summary"
+msgid "Open the Android Text-To-Speech settings"
+msgstr "ஆண்ட்ராய்டு உரை-க்கு-பேச்சு அமைப்புகளைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "tts_settings_summary_fail"
+msgid ""
+"Unable to find TTS settings! If it exists on your device (it should), please"
+" contact the developer."
+msgstr ""
+"TTS அமைப்புகளைக் கண்டுபிடிக்க முடியவில்லை! இது உங்கள் சாதனத்தில் இருந்தால் "
+"(அது வேண்டும்), தயவுசெய்து டெவலப்பரைத் தொடர்பு கொள்ளுங்கள்."
+
+#, java-printf-format
+msgctxt "tts_message"
+msgid "TTS Message"
+msgstr "TTS செய்தி"
+
+#, java-printf-format
+msgctxt "tts_message_summary"
+msgid "Customize which parts of notifications are spoken"
+msgstr ""
+"அறிவிப்புகளின் எந்த பகுதிகள் பேசப்படுகின்றன என்பதைத் தனிப்பயனாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "tts_message_dialog"
+msgid ""
+"#A = App title\n"
+"#T = Ticker\n"
+"#S = Subtext\n"
+"#C = Content title\n"
+"#M = Content message\n"
+"#I = Content info\n"
+"#H = Big content title\n"
+"#Y = Big content summary\n"
+"#B = Big content text\n"
+"#L = Text lines\n"
+"Case insensitive\n"
+"\n"
+"Default:\n"
+"%1$s\n"
+"\n"
+"Old default (v1.1.0 - v1.3.0):\n"
+"#A. #C. #M.\n"
+"\n"
+"Old default (v1.0.x):\n"
+"#A: #T"
+msgstr ""
+"#A = பயன்பாட்டு தலைப்பு\n"
+" #T = டிக்கர்\n"
+" #S = துணை உரை\n"
+" #C = உள்ளடக்க தலைப்பு\n"
+" #M = உள்ளடக்க செய்தி\n"
+" #I = உள்ளடக்க செய்தி\n"
+" #H = பெரிய உள்ளடக்க தலைப்பு\n"
+" #Y = பெரிய உள்ளடக்க சுருக்கம்\n"
+" #B = பெரிய உள்ளடக்க உரை\n"
+" #L = உரை கோடுகள்\n"
+" வழக்கு உணர்வற்றது\n"
+"\n"
+" இயல்புநிலை:\n"
+" %1$s\n"
+"\n"
+" பழைய இயல்புநிலை (v1.1.0 - v1.3.0):\n"
+" #அ. #சி. #மீ.\n"
+"\n"
+" பழைய இயல்புநிலை (v1.0.x):\n"
+" #A: #T"
+
+#, java-printf-format
+msgctxt "tts_text_replace"
+msgid "TTS Text Replacement"
+msgstr "TTS உரை மாற்று"
+
+#, java-printf-format
+msgctxt "tts_text_replace_summary"
+msgid "Substitute text to be spoken, such as to fix pronunciation"
+msgstr "உச்சரிப்பை சரிசெய்வது போன்ற பேச வேண்டிய உரையை மாற்று"
+
+#, java-printf-format
+msgctxt "tts_text_replace_dialog"
+msgid ""
+"Substitute text to be spoken, allowing you to customize how Text-To-Speech pronounces words or replace text with any other text.\n"
+"\n"
+"This is case insensitive and each replacement applies sequentially top to bottom, after TTS Message formatting and before emoji removal."
+msgstr ""
+"உரை பேசப்படுவதற்கு மாற்று, உரை-க்கு-பேச்சு சொற்களை எவ்வாறு உச்சரிக்கிறது அல்லது வேறு எந்த உரையுடனும் உரையை மாற்றுவதைத் தனிப்பயனாக்க அனுமதிக்கிறது.\n"
+"\n"
+" இது வழக்கு உணர்வற்றது மற்றும் ஒவ்வொரு மாற்றமும் TTS செய்தி வடிவமைப்பிற்குப் பிறகு மற்றும் ஈமோசி அகற்றுவதற்கு முன், தொடர்ச்சியாக மேலே முதல் கீழாக பொருந்தும்."
+
+#, java-printf-format
+msgctxt "text_replace_error_duplicate"
+msgid "Duplicate! Will not be saved."
+msgstr "நகல்! காப்பாற்றப்படாது."
+
+#, java-printf-format
+msgctxt "text_to_replace"
+msgid "Text to replace"
+msgstr "மாற்ற உரை"
+
+#, java-printf-format
+msgctxt "replacement_text"
+msgid "Replacement text"
+msgstr "மாற்று உரை"
+
+#, java-printf-format
+msgctxt "remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+#, java-printf-format
+msgctxt "error"
+msgid "Error"
+msgstr "பிழை"
+
+#, java-printf-format
+msgctxt "tts_speak_emojis"
+msgid "Speak Emojis"
+msgstr "ஈமோசிகள் பேசுங்கள்"
+
+#, java-printf-format
+msgctxt "tts_speak_emojis_summary_on"
+msgid "Emojis will be spoken"
+msgstr "ஈமோசிகள் பேசப்படுவார்கள்"
+
+#, java-printf-format
+msgctxt "tts_speak_emojis_summary_off"
+msgid "Emojis will not be spoken"
+msgstr "ஈமோசிகள் பேசப்பட மாட்டார்கள்"
+
+#, java-printf-format
+msgctxt "max_length"
+msgid "Max Length"
+msgstr "அதிகபட்ச நீளம்"
+
+#, java-printf-format
+msgctxt "max_length_summary"
+msgid "Maximum message length to speak"
+msgstr "பேச அதிகபட்ச செய்தி நீளம்"
+
+#, java-printf-format
+msgctxt "max_length_dialog_msg"
+msgid ""
+"Maximum message length to speak.\n"
+"Longer messages will be truncated.\n"
+"\n"
+"Blank or 0 for unlimited.\n"
+"Android TTS has a separate length limit (%d) that always applies."
+msgstr ""
+"பேச அதிகபட்ச செய்தி நீளம்.\n"
+" நீண்ட செய்திகள் துண்டிக்கப்படும்.\n"
+"\n"
+" வெற்று அல்லது வரம்பற்ற 0.\n"
+" ஆண்ட்ராய்டு TTS ஒரு தனி நீள வரம்பைக் கொண்டுள்ளது (%d) எப்போதும் பொருந்தும்."
+
+#, java-printf-format
+msgctxt "tts_stream"
+msgid "TTS Audio Stream"
+msgstr "TTS ஆடியோ ச்ட்ரீம்"
+
+#, java-printf-format
+msgctxt "tts_stream_summary"
+msgid "Choose the audio stream that Text-To-Speech plays through"
+msgstr "உரை-க்கு-பேச்சு வகிக்கும் ஆடியோ ச்ட்ரீமைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "tts_delay"
+msgid "TTS Delay"
+msgstr "TTS நேரந்தவறுகை"
+
+#, java-printf-format
+msgctxt "tts_delay_summary"
+msgid "Delay TTS a set number of seconds after notification"
+msgstr "TTS அறிவிப்புக்குப் பிறகு விநாடிகளின் எண்ணிக்கையை தாமதப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "tts_delay_dialog_msg"
+msgid "Number of seconds to wait after notification before speaking."
+msgstr ""
+"பேசுவதற்கு முன் அறிவிப்புக்குப் பிறகு காத்திருக்க வேண்டிய விநாடிகளின் "
+"எண்ணிக்கை."
+
+#, java-printf-format
+msgctxt "tts_repeat"
+msgid "TTS Repeat"
+msgstr "Tts மீண்டும்"
+
+#, java-printf-format
+msgctxt "tts_repeat_summary"
+msgid "Continually repeat notifications over TTS until screen turns on"
+msgstr "திரை இயங்கும் வரை தொடர்ந்து TTS மீது அறிவிப்புகளை மீண்டும் செய்யவும்"
+
+#, java-printf-format
+msgctxt "tts_repeat_dialog_msg"
+msgid ""
+"Notifications are repeated at the defined interval until the screen is turned on. Notifications created while the screen is on are not repeated.\n"
+"\n"
+"Value is in minutes. Blank or 0 to disable."
+msgstr ""
+"திரை இயக்கப்படும் வரை அறிவிப்புகள் வரையறுக்கப்பட்ட இடைவெளியில் மறுநிகழ்வு செய்யப்படுகின்றன. திரை இயக்கப்படும் போது உருவாக்கப்பட்ட அறிவிப்புகள் மறுநிகழ்வு செய்யப்படாது.\n"
+"\n"
+" மதிப்பு நிமிடங்களில் உள்ளது. வெற்று அல்லது முடக்க 0."
+
+#.  AppListScreen and NotifyList
+#, java-printf-format
+msgctxt "app_is_ignored"
+msgid "%s is ignored"
+msgstr "%s புறக்கணிக்கப்படுகின்றன"
+
+#, java-printf-format
+msgctxt "app_is_not_ignored"
+msgid "%s is enabled"
+msgstr "%s இயக்கப்பட்டுள்ளன"
+
+#.  NotificationInfo
+#, java-printf-format
+msgctxt "notification_from"
+msgid "Notification from %s."
+msgstr "%s இலிருந்து அறிவிப்பு."
+
+#.  Service
+#, java-printf-format
+msgctxt "error_tts_init"
+msgid "Error: Could not initialize TTS! Status code %d"
+msgstr "பிழை: TTS ஐ துவக்க முடியவில்லை! நிலை குறியீடு %d"
+
+#.  IgnoreReason
+#, java-printf-format
+msgctxt "reason_app"
+msgid "Ignored app"
+msgstr "புறக்கணிக்கப்பட்ட பயன்பாடு"
+
+#, java-printf-format
+msgctxt "reason_string_ignored"
+msgid "Ignored text"
+msgstr "புறக்கணிக்கப்பட்ட உரை"
+
+#, java-printf-format
+msgctxt "reason_string_required"
+msgid "Required text missing"
+msgstr "தேவையான உரை இல்லை"
+
+#, java-printf-format
+msgctxt "reason_empty_msg"
+msgid "Empty message"
+msgstr "வெற்று செய்தி"
+
+#. WARNING: Do not to break the formatting of the section that starts with {
+#. and ends with }
+#. Only the CAPITALIZED parts in this example should be translated:
+#. {0,choice,-1#INFINITE SECONDS|1#{0} SECOND|1&lt;{0} SECONDS}
+#, java-printf-format
+msgctxt "reason_identical"
+msgid ""
+"Identical message within {0,choice,-1#infinite seconds|1#{0} second|1<{0} "
+"seconds}"
+msgstr ""
+"{0, தேர்வு, -1#எல்லையற்ற விநாடிகள் | 1#{0} இரண்டாவது | 1 <{0} விநாடிகள்}"
+
+#, java-printf-format
+msgctxt "reason_quiet"
+msgid "Quiet time"
+msgstr "அமைதியான நேரம்"
+
+#, java-printf-format
+msgctxt "reason_silent"
+msgid "Silent or vibrate mode"
+msgstr "அமைதியான அல்லது அதிர்வு முறை"
+
+#, java-printf-format
+msgctxt "reason_call"
+msgid "Active phone call"
+msgstr "செயலில் உள்ள தொலைபேசி அழைப்பு"
+
+#, java-printf-format
+msgctxt "reason_screen_off"
+msgid "Screen off"
+msgstr "திரையிடல்"
+
+#, java-printf-format
+msgctxt "reason_screen_on"
+msgid "Screen on"
+msgstr "திரை ஆன்"
+
+#, java-printf-format
+msgctxt "reason_headset_off"
+msgid "Headset off"
+msgstr "எட்செட் ஆஃப்"
+
+#, java-printf-format
+msgctxt "reason_headset_on"
+msgid "Headset on"
+msgstr "எட்செட் ஆன்"
+
+#, java-printf-format
+msgctxt "reason_shake"
+msgid "Silenced by shake"
+msgstr "குலுக்கல்"
+
+#, java-printf-format
+msgctxt "reason_suspended"
+msgid "Voice Notify suspended"
+msgstr "குரல் அறிவிப்பு இடைநீக்கம்"
+
+#, java-printf-format
+msgctxt "reason_service_stopped"
+msgid "Service stopped"
+msgstr "பணி நிறுத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "reason_tts_failed"
+msgid ""
+"TTS failed. Restart and retry attempted.\n"
+"This text should be yellow if retry successful or red if not.\n"
+"Please try restarting the Voice Notify service if notifications fail to be spoken."
+msgstr ""
+"TTS தோல்வியுற்றது. மறுதொடக்கம் செய்து மீண்டும் முயற்சிக்கவும்.\n"
+" வெற்றிகரமாக அல்லது சிவப்பு நிறத்தை மீண்டும் முயற்சித்தால் இந்த உரை மஞ்சள் நிறமாக இருக்க வேண்டும்.\n"
+" அறிவிப்புகள் பேசத் தவறினால் குரல் அறிவிப்பு சேவையை மறுதொடக்கம் செய்ய முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "reason_tts_restarted"
+msgid "TTS restarted while message in queue or speaking. Re-queued."
+msgstr "வரிசையில் அல்லது பேசும் போது TTS மறுதொடக்கம் செய்யப்பட்டது. மறு கேம்."
+
+#, java-printf-format
+msgctxt "reason_tts_interrupted"
+msgid "TTS interrupted for unknown reason"
+msgstr "அறியப்படாத காரணத்திற்காக TTS குறுக்கிடப்பட்டது"
+
+#, java-printf-format
+msgctxt "reason_tts_error"
+msgid "TTS processing error"
+msgstr "TTS செயலாக்க பிழை"
+
+#, java-printf-format
+msgctxt "reason_tts_length_limit"
+msgid "Message exceeded TTS length limit"
+msgstr "செய்தி TTS நீள வரம்பை மீறியது"

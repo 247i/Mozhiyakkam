@@ -1,0 +1,3252 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (UBports)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-13 02:32+0200\n"
+"PO-Revision-Date: 2025-03-15 18:35+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/ubports/app-dekko/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/AccountSettingsList.qml:26
+msgctxt "AccountSettingsList"
+msgid "Account Settings: %1"
+msgstr "கணக்கு அமைப்புகள்: %1"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/AccountSettingsList.qml:56
+msgctxt "AccountSettingsList"
+msgid "Details"
+msgstr "விவரங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/AccountSettingsList.qml:60
+msgctxt "AccountSettingsList"
+msgid "Incoming Server"
+msgstr "உள்வரும் சேவையகம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/AccountSettingsList.qml:64
+msgctxt "AccountSettingsList"
+msgid "Outgoing Server"
+msgstr "வெளிச்செல்லும் சேவையகம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/AccountSettingsList.qml:68
+msgctxt "AccountSettingsList"
+msgid "Copies and Folders"
+msgstr "பிரதிகள் மற்றும் கோப்புறைகள்"
+
+#: ../Dekko/stores/Accounts/AccountSetup.qml:220
+msgctxt "AccountSetup"
+msgid "Invalid email address"
+msgstr "தவறான மின்னஞ்சல் முகவரி"
+
+#: ../Dekko/stores/Accounts/AccountSetup.qml:536
+msgctxt "AccountSetup"
+msgid "Sent with Dekko"
+msgstr "டெக்கோவுடன் அனுப்பப்பட்டது"
+
+#: ../Dekko/workers/AccountsWorker.qml:36
+#: ../Dekko/workers/AccountsWorker.qml:90
+msgctxt "AccountsWorker"
+msgid "Account removal failed"
+msgstr "கணக்கு அகற்றுதல் தோல்வியடைந்தது"
+
+#: ../Dekko/workers/AccountsWorker.qml:54
+msgctxt "AccountsWorker"
+msgid "Remove %1"
+msgstr "%1 ஐ அகற்று"
+
+#: ../Dekko/workers/AccountsWorker.qml:54
+msgctxt "AccountsWorker"
+msgid "Are you sure you wish to remove this account?"
+msgstr "இந்த கணக்கை அகற்ற விரும்புகிறீர்களா?"
+
+#: ../Dekko/workers/AccountsWorker.qml:87
+msgctxt "AccountsWorker"
+msgid "Account removed"
+msgstr "கணக்கு அகற்றப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/AddAnotherUI.qml:31
+msgctxt "AddAnotherUI"
+msgid "Success"
+msgstr "செய்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/AddAnotherUI.qml:90
+msgctxt "AddAnotherUI"
+msgid "New account created."
+msgstr "புதிய கணக்கு உருவாக்கப்பட்டது."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/AddAnotherUI.qml:99
+msgctxt "AddAnotherUI"
+msgid "Continue"
+msgstr "தொடரவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/AddAnotherUI.qml:115
+msgctxt "AddAnotherUI"
+msgid "Add another"
+msgstr "இன்னொன்றைச் சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/AddressBookList.qml:12
+msgctxt "AddressBookList"
+msgid "Addressbooks"
+msgstr "முகவரி புத்தகங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/AddressBookList.qml:65
+msgctxt "AddressBookList"
+msgid "Add Collection"
+msgstr "சேகரிப்பைச் சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/AttachmentPanel.qml:85
+msgctxt "AttachmentPanel"
+msgid "Attachments"
+msgstr "இணைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/AttachmentPopover.qml:46
+msgctxt "AttachmentPopover"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/AuthenticationSelector.qml:45
+msgctxt "AuthenticationSelector"
+msgid "Authentication"
+msgstr "ஏற்பு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/AuthenticationSelector.qml:60
+msgctxt "AuthenticationSelector"
+msgid "PLAIN"
+msgstr "வெற்று"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/AuthenticationSelector.qml:61
+msgctxt "AuthenticationSelector"
+msgid "LOGIN"
+msgstr "புகுபதிவு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/AuthenticationSelector.qml:62
+msgctxt "AuthenticationSelector"
+msgid "CRAM-MD5"
+msgstr "CRAM-MD5"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/states/AutoConfigState.qml:35
+msgctxt "AutoConfigState"
+msgid "Searching for configuration."
+msgstr "உள்ளமைவைத் தேடுகிறது."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/states/AutoConfigState.qml:77
+msgctxt "AutoConfigState"
+msgid "IMAP server found"
+msgstr "IMAP சேவையகம் காணப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/states/AutoConfigState.qml:78
+msgctxt "AutoConfigState"
+msgid ""
+"A IMAP server configuration was found for your domain.\n"
+"\n"
+"Would you like to use this instead?"
+msgstr ""
+"உங்கள் களத்திற்கு IMAP சேவையக உள்ளமைவு கண்டறியப்பட்டது.\n"
+"\n"
+" அதற்கு பதிலாக இதைப் பயன்படுத்த விரும்புகிறீர்களா?"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/BottomEdgeComposer.qml:38
+msgctxt "BottomEdgeComposer"
+msgid "New message"
+msgstr "புதிய செய்தி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/BottomEdgeComposer.qml:66
+msgctxt "BottomEdgeComposer"
+msgid "Attachments"
+msgstr "இணைப்புகள்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettings.qml:7
+msgctxt "CacheSettings"
+msgid "Manage cache"
+msgstr "தற்காலிக சேமிப்பை நிர்வகிக்கவும்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:26
+msgctxt "CacheSettingsPage"
+msgid "Manage cache: %1"
+msgstr "தற்காலிக சேமிப்பை நிர்வகிக்கவும்: %1"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:35
+msgctxt "CacheSettingsPage"
+msgid "One Week"
+msgstr "ஒரு வாரம்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:36
+msgctxt "CacheSettingsPage"
+msgid "Fortnight"
+msgstr "பதினைந்து"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:37
+msgctxt "CacheSettingsPage"
+msgid "One Month"
+msgstr "ஒரு மாதம்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:38
+msgctxt "CacheSettingsPage"
+msgid "Three Months"
+msgstr "மூன்று மாதங்கள்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:39
+msgctxt "CacheSettingsPage"
+msgid "Six Months"
+msgstr "ஆறு மாதங்கள்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:45
+msgctxt "CacheSettingsPage"
+msgid "Clear messages from cache"
+msgstr "தற்காலிக சேமிப்பிலிருந்து செய்திகளை அழிக்கவும்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:46
+msgctxt "CacheSettingsPage"
+msgid "This will clear messages older than the given period"
+msgstr "இது கொடுக்கப்பட்ட காலத்தை விட பழைய செய்திகளை அழிக்கும்"
+
+#: ../plugins/cache-manager-plugin/qml/CacheSettingsPage.qml:75
+msgctxt "CacheSettingsPage"
+msgid "Clear now"
+msgstr "இப்போது அழிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/CleanMessagePage.qml:29
+msgctxt "CleanMessagePage"
+msgid "Message"
+msgstr "செய்தி"
+
+#: ../Dekko/backend/mail/service/ClientService.cpp:78
+#: ../Dekko/backend/mail/service/ClientService.cpp:82
+msgctxt "ClientService"
+msgid "messages"
+msgstr "செய்திகள்"
+
+#: ../Dekko/backend/mail/service/ClientService.cpp:78
+#: ../Dekko/backend/mail/service/ClientService.cpp:82
+msgctxt "ClientService"
+msgid "message"
+msgstr "செய்தி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/ComposeWindow.qml:24
+msgctxt "ComposeWindow"
+msgid "Dekko Composer"
+msgstr "டெக்கோ இசையமைப்பாளர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/Composer.qml:56
+msgctxt "Composer"
+msgid "Attach"
+msgstr "இணைக்கவும்"
+
+#: ../Dekko/stores/Composer/ComposerStore.qml:86
+msgctxt "ComposerStore"
+msgid ""
+"Please select a sender. Otherwise no drafts will be saved automatically. "
+"Consider setting a default identity."
+msgstr ""
+"அனுப்புநரைத் தேர்ந்தெடுக்கவும். இல்லையெனில் எந்த வரைவுகளும் தானாக "
+"சேமிக்கப்படாது. இயல்புநிலை அடையாளத்தை அமைப்பதைக் கவனியுங்கள்."
+
+#: ../Dekko/stores/Composer/ComposerStore.qml:90
+msgctxt "ComposerStore"
+msgid "Somethings fishy with your Identity. Please select a valid sender."
+msgstr ""
+"உங்கள் அடையாளத்துடன் மீன் பிடிக்கும். செல்லுபடியாகும் அனுப்புநரைத் "
+"தேர்ந்தெடுக்கவும்."
+
+#: ../Dekko/stores/Composer/ComposerStore.qml:99
+msgctxt "ComposerStore"
+msgid "Message queued."
+msgstr "செய்தி வரிசையில் உள்ளது."
+
+#: ../Dekko/stores/Composer/ComposerStore.qml:103
+msgctxt "ComposerStore"
+msgid "Draft saved."
+msgstr "வரைவு சேமிக்கப்பட்டது."
+
+#: ../Dekko/stores/Composer/ComposerStoreActions.qml:26
+msgctxt "ComposerStoreActions"
+msgid "Send"
+msgstr "அனுப்பு"
+
+#: ../Dekko/stores/Composer/ComposerStoreActions.qml:33
+msgctxt "ComposerStoreActions"
+msgid "Save draft"
+msgstr "வரைவை சேமிக்கவும்"
+
+#: ../Dekko/stores/Composer/ComposerStoreActions.qml:40
+msgctxt "ComposerStoreActions"
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#: ../Dekko/stores/Composer/ComposerStoreActions.qml:47
+msgctxt "ComposerStoreActions"
+msgid "Attach"
+msgstr "இணைக்கவும்"
+
+#: ../Dekko/workers/ComposerWorker.qml:120
+msgctxt "ComposerWorker"
+msgid "Discard message"
+msgstr "செய்தியை நிராகரிக்கவும்"
+
+#: ../Dekko/workers/ComposerWorker.qml:120
+msgctxt "ComposerWorker"
+msgid "Are you sure you want to discard this message?"
+msgstr "இந்த செய்தியை நிராகரிக்க விரும்புகிறீர்களா?"
+
+#: ../plugins/ubuntu-plugin/imports/dialogs/ConfirmationDialog.qml:51
+msgctxt "ConfirmationDialog"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: ../plugins/ubuntu-plugin/imports/dialogs/ConfirmationDialog.qml:63
+msgctxt "ConfirmationDialog"
+msgid "Confirm"
+msgstr "உறுதிப்படுத்தவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/ContactFilterView.qml:113
+msgctxt "ContactFilterView"
+msgid "Add contact"
+msgstr "தொடர்பைச் சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/ContactFilterView.qml:125
+msgctxt "ContactFilterView"
+msgid "Send message"
+msgstr "செய்தி அனுப்பவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactListPage.qml:11
+msgctxt "ContactListPage"
+msgid "Address book"
+msgstr "முகவரி நூல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:11
+msgctxt "ContactView"
+msgid "Contact"
+msgstr "தொடர்பு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:61
+msgctxt "ContactView"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:78
+msgctxt "ContactView"
+msgid "Phone"
+msgstr "தொலைபேசி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:92
+msgctxt "ContactView"
+msgid "Address"
+msgstr "முகவரி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:96
+msgctxt "ContactView"
+msgid "Street"
+msgstr "தெரு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:102
+msgctxt "ContactView"
+msgid "City"
+msgstr "நகரம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:108
+msgctxt "ContactView"
+msgid "Zip"
+msgstr "சிப்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactView.qml:114
+msgctxt "ContactView"
+msgid "Country"
+msgstr "நாடு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/contacts/ContactsListView.qml:36
+msgctxt "ContactsListView"
+msgid "Search"
+msgstr "தேடல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/webview/ContentBlockedNotice.qml:46
+msgctxt "ContentBlockedNotice"
+msgid "Remote content blocked"
+msgstr "தொலைநிலை உள்ளடக்கம் தடுக்கப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/webview/ContentBlockedNotice.qml:62
+msgctxt "ContentBlockedNotice"
+msgid "Allow"
+msgstr "இசைவு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/ContributorsPage.qml:25
+msgctxt "ContributorsPage"
+msgid "Contributors"
+msgstr "பங்களிப்பாளர்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:31
+msgctxt "CopyFoldersGroup"
+msgid "Copies and Folders: %1"
+msgstr "பிரதிகள் மற்றும் கோப்புறைகள்: %1"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:120
+msgctxt "CopyFoldersGroup"
+msgid "Detect standard folders"
+msgstr "நிலையான கோப்புறைகளைக் கண்டறியவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:127
+msgctxt "CopyFoldersGroup"
+msgid "Detect"
+msgstr "கண்டறியவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:147
+msgctxt "CopyFoldersGroup"
+msgid "Base folder"
+msgstr "அடிப்படை கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:149
+msgctxt "CopyFoldersGroup"
+msgid "Leave empty if you are unsure"
+msgstr "உங்களுக்குத் தெரியாவிட்டால் காலியாக விடவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:164
+msgctxt "CopyFoldersGroup"
+msgid "Inbox folder"
+msgstr "இன்பாக்ச் கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:180
+msgctxt "CopyFoldersGroup"
+msgid "Drafts folder"
+msgstr "வரைவுகள் கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:196
+msgctxt "CopyFoldersGroup"
+msgid "Spam folder"
+msgstr "ச்பேம் கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:212
+msgctxt "CopyFoldersGroup"
+msgid "Sent folder"
+msgstr "கோப்புறை அனுப்பப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:228
+msgctxt "CopyFoldersGroup"
+msgid "Outbox folder"
+msgstr "அவுட்பாக்ச் கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/CopyFoldersGroup.qml:244
+msgctxt "CopyFoldersGroup"
+msgid "Trash folder"
+msgstr "குப்பை கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/DefaultMessagePage.qml:183
+msgctxt "DefaultMessagePage"
+msgid "From:"
+msgstr "இருந்து:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/DefaultMessagePage.qml:236
+msgctxt "DefaultMessagePage"
+msgid "To:"
+msgstr "இதற்கு:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/DefaultMessagePage.qml:241
+msgctxt "DefaultMessagePage"
+msgid "Cc:"
+msgstr "சி.சி:"
+
+#: ../plugins/ubuntu-plugin/plugins/extensions/addressbook/DefaultPlugin.qml:11
+msgctxt "DefaultPlugin"
+msgid "Internal"
+msgstr "உள்"
+
+#: ../plugins/ubuntu-plugin/plugins/extensions/addressbook/DefaultPlugin.qml:106
+msgctxt "DefaultPlugin"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#: ../plugins/ubuntu-plugin/imports/components/DekkoHeader.qml:206
+msgctxt "DekkoHeader"
+msgid "Enter search..."
+msgstr "தேடலை உள்ளிடவும் ..."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/webview/DekkoWebView.qml:303
+msgctxt "DekkoWebView"
+msgid "Open in browser?"
+msgstr "உலாவியில் திறக்கவா?"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/webview/DekkoWebView.qml:304
+msgctxt "DekkoWebView"
+msgid "Confirm to open %1 in web browser"
+msgstr "வலை உலாவியில் %1 ஐ திறக்க உறுதிப்படுத்தவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/DetailList.qml:48
+msgctxt "DetailList"
+msgid "Details"
+msgstr "விவரங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/DetailList.qml:53
+msgctxt "DetailList"
+msgid "To:"
+msgstr "இதற்கு:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/DetailList.qml:59
+msgctxt "DetailList"
+msgid "Cc:"
+msgstr "சி.சி:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DetailsGroup.qml:27
+msgctxt "DetailsGroup"
+msgid "Details: %1"
+msgstr "விவரங்கள்: %1"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DetailsGroup.qml:48
+msgctxt "DetailsGroup"
+msgid "Account name"
+msgstr "கணக்கு பெயர்"
+
+#: ../Dekko/workers/DialogWorker.qml:39
+msgctxt "DialogWorker"
+msgid "Error"
+msgstr "பிழை"
+
+#: ../Dekko/workers/DialogWorker.qml:48
+msgctxt "DialogWorker"
+msgid "Notice"
+msgstr "அறிவிப்பு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettings.qml:28
+msgctxt "DisplaySettings"
+msgid "Navigation menu"
+msgstr "வழிசெலுத்தல் பட்டியல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettings.qml:32
+msgctxt "DisplaySettings"
+msgid "Show smart folders"
+msgstr "அறிவுள்ள கோப்புறைகளைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettings.qml:42
+msgctxt "DisplaySettings"
+msgid "Show favourite folders"
+msgstr "பிடித்த கோப்புறைகளைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettings.qml:53
+msgctxt "DisplaySettings"
+msgid "Messages"
+msgstr "செய்திகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettings.qml:57
+msgctxt "DisplaySettings"
+msgid "Show avatars"
+msgstr "அவதாரங்களைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettings.qml:67
+msgctxt "DisplaySettings"
+msgid "Prefer plain text"
+msgstr "எளிய உரையை விரும்புங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettingsPage.qml:21
+msgctxt "DisplaySettingsPage"
+msgid "Display Settings"
+msgstr "அமைப்புகளைக் காண்பி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/DisplaySettingsPopup.qml:21
+msgctxt "DisplaySettingsPopup"
+msgid "Display Settings"
+msgstr "அமைப்புகளைக் காண்பி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/EncryptionSelector.qml:46
+msgctxt "EncryptionSelector"
+msgid "Encryption"
+msgstr "குறியாக்கம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/EncryptionSelector.qml:61
+msgctxt "EncryptionSelector"
+msgid "No encryption"
+msgstr "குறியாக்கம் இல்லை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/EncryptionSelector.qml:62
+msgctxt "EncryptionSelector"
+msgid "Use encryption (STARTTLS)"
+msgstr "குறியாக்கத்தைப் பயன்படுத்தவும் (startls)"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/components/EncryptionSelector.qml:63
+msgctxt "EncryptionSelector"
+msgid "Force encryption (SSL/TLS)"
+msgstr "படை குறியாக்க (எச்.எச்.எல்/டி.எல்.எச்)"
+
+#: ../Dekko/workers/ErrorsWorker.qml:78 ../Dekko/workers/ErrorsWorker.qml:82
+msgctxt "ErrorsWorker"
+msgid "No connection"
+msgstr "இணைப்பு இல்லை"
+
+#: ../Dekko/workers/ErrorsWorker.qml:86
+msgctxt "ErrorsWorker"
+msgid "Connection unavailable"
+msgstr "இணைப்பு கிடைக்கவில்லை"
+
+#: ../Dekko/workers/ErrorsWorker.qml:102
+msgctxt "ErrorsWorker"
+msgid "Action timed out"
+msgstr "நடவடிக்கை நேரம் முடிந்தது"
+
+#: ../plugins/ubuntu-plugin/imports/components/ExpandablePanel.qml:63
+msgctxt "ExpandablePanel"
+msgid "Attachments"
+msgstr "இணைப்புகள்"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:144
+msgctxt "ExportUpdatesAction"
+msgid "Syncing changes for %1 account"
+msgstr "%1 கணக்கிற்கான மாற்றங்களை ஒத்திசைத்தல்"
+
+#: ../plugins/ubuntu-plugin/imports/dialogs/FilePickerDialog.qml:23
+msgctxt "FilePickerDialog"
+msgid "Add Attachment"
+msgstr "இணைப்பைச் சேர்க்கவும்"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:166
+msgctxt "FlagsAction"
+msgid "important"
+msgstr "முக்கியமானது"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:169
+msgctxt "FlagsAction"
+msgid "not important"
+msgstr "முக்கியமல்ல"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:178
+msgctxt "FlagsAction"
+msgid "read"
+msgstr "படிக்க"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:181
+msgctxt "FlagsAction"
+msgid "unread"
+msgstr "படிக்காதது"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:190
+msgctxt "FlagsAction"
+msgid "as todo"
+msgstr "அனைத்தும்"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:193
+msgctxt "FlagsAction"
+msgid "no longer todo"
+msgstr "மொத்தத்தில்"
+
+#: ../Dekko/backend/mail/service/ClientServiceAction.cpp:198
+msgctxt "FlagsAction"
+msgid "Marking %1 messages %2"
+msgstr "%1 செய்திகளைக் குறிக்கும் %2"
+
+#: ../Dekko/backend/mail/Folder.cpp:103
+msgctxt "Folder"
+msgid "Drafts"
+msgstr "வரைவுகள்"
+
+#: ../Dekko/backend/mail/Folder.cpp:105
+msgctxt "Folder"
+msgid "Inbox"
+msgstr "இன்பாக்ச்"
+
+#: ../Dekko/backend/mail/Folder.cpp:107
+msgctxt "Folder"
+msgid "Spam"
+msgstr "ச்பேம்"
+
+#: ../Dekko/backend/mail/Folder.cpp:109
+msgctxt "Folder"
+msgid "Outbox"
+msgstr "அவுட்பாக்ச்"
+
+#: ../Dekko/backend/mail/Folder.cpp:111
+msgctxt "Folder"
+msgid "Sent"
+msgstr "அனுப்பப்பட்டது"
+
+#: ../Dekko/backend/mail/Folder.cpp:113
+msgctxt "Folder"
+msgid "Trash"
+msgstr "குப்பை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/FolderListDelegate.qml:53
+msgctxt "FolderListDelegate"
+msgid "Un-favourite"
+msgstr "பிடித்தது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/FolderListDelegate.qml:53
+msgctxt "FolderListDelegate"
+msgid "Favourite"
+msgstr "பிடித்த"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/FolderListView.qml:29
+msgctxt "FolderListView"
+msgid "Folders"
+msgstr "கோப்புறைகள்"
+
+#: ../Dekko/backend/network/ForbiddenReply.cpp:24
+msgctxt "ForbiddenReply"
+msgid "Remote content is banned"
+msgstr "தொலைநிலை உள்ளடக்கம் தடைசெய்யப்பட்டுள்ளது"
+
+#: ../plugins/ubuntu-plugin/plugins/extensions/html-viewer/HtmlViewer.qml:11
+msgctxt "HtmlViewer"
+msgid "HTML Viewer"
+msgstr "உஉகுமொ பார்வையாளர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentitiesListPage.qml:15
+msgctxt "IdentitiesListPage"
+msgid "Identities"
+msgstr "அடையாளங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentitiesListPage.qml:107
+msgctxt "IdentitiesListPage"
+msgid " (Default)"
+msgstr "(இயல்புநிலை)"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:55
+msgctxt "IdentityInput"
+msgid "Default identity"
+msgstr "இயல்புநிலை அடையாளம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:68
+msgctxt "IdentityInput"
+msgid "Account"
+msgstr "கணக்கு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:106
+msgctxt "IdentityInput"
+msgid "Name"
+msgstr "பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:111
+msgctxt "IdentityInput"
+msgid "Email Address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:116
+msgctxt "IdentityInput"
+msgid "Reply-To"
+msgstr "பதில்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:120
+msgctxt "IdentityInput"
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:138
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:146
+msgctxt "IdentityInput"
+msgid "New identity"
+msgstr "புதிய அடையாளம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IdentityInput.qml:170
+msgctxt "IdentityInput"
+msgid "Edit identity"
+msgstr "அடையாளத்தைத் திருத்தவும்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:566
+msgctxt "IdleProtocol"
+msgid "Idle Error occurred"
+msgstr "செயலற்ற பிழை ஏற்பட்டது"
+
+#: ../upstream/quick-flux/quickflux/examples/photoalbum/scripts/ImagePickerScript.qml:12
+msgctxt "ImagePickerScript"
+msgid "Pick Image"
+msgstr "படத்தைத் தேர்ந்தெடுங்கள்"
+
+#: ../upstream/quick-flux/quickflux/examples/photoalbum/views/ImagePreview.qml:31
+msgctxt "ImagePreview"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: ../upstream/quick-flux/quickflux/examples/photoalbum/views/ImagePreview.qml:39
+msgctxt "ImagePreview"
+msgid "Confirm"
+msgstr "உறுதிப்படுத்தவும்"
+
+#: ../upstream/quick-flux/quickflux/examples/photoalbum/views/ImageViewer.qml:35
+msgctxt "ImageViewer"
+msgid "Pick Image"
+msgstr "படத்தைத் தேர்ந்தெடுங்கள்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:740
+msgctxt "ImapClient"
+msgid "Cannot open connection without IMAP server configuration"
+msgstr "IMAP சேவையக உள்ளமைவு இல்லாமல் இணைப்பைத் திறக்க முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:868
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:959
+msgctxt "ImapClient"
+msgid "Checking capabilities"
+msgstr "திறன்களை சரிபார்க்கிறது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:886
+msgctxt "ImapClient"
+msgid "Starting TLS"
+msgstr "டி.எல்.எச் தொடங்குகிறது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:900
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:998
+msgctxt "ImapClient"
+msgid "Logging in idle connection"
+msgstr "செயலற்ற இணைப்பில் உள்நுழைவு"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:918
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:934
+msgctxt "ImapClient"
+msgid "Logging in"
+msgstr "உள்நுழைவு -.காம்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:1611
+msgctxt "ImapClient"
+msgid "Unable to read fetched data"
+msgstr "பெறப்பட்ட தரவைப் படிக்க முடியவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:1618
+msgctxt "ImapClient"
+msgid "Unable to map fetched data"
+msgstr "பெறப்பட்ட தரவை வரைபடமாக்க முடியவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:1625
+msgctxt "ImapClient"
+msgid "Unable to update part body"
+msgstr "பகுதி உடலைப் புதுப்பிக்க முடியவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:1648
+msgctxt "ImapClient"
+msgid "Unable to handle dataFetched without context"
+msgstr "சூழல் இல்லாமல் தரவைக் கையாள முடியவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:1685
+msgctxt "ImapClient"
+msgid "Cannot send message; socket in use"
+msgstr "செய்தியை அனுப்ப முடியாது; பயன்பாட்டில் சாக்கெட்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapclient.cpp:1785
+msgctxt "ImapClient"
+msgid "Logging out"
+msgstr "வெளியேறுதல்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapprotocol.cpp:3346
+msgctxt "ImapProtocol"
+msgid "Connection failed"
+msgstr "இணைப்பு தோல்வியடைந்தது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1665
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1740
+msgctxt "ImapService"
+msgid "Account disabled"
+msgstr "கணக்கு முடக்கப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1754
+msgctxt "ImapService"
+msgid "Initiating push email"
+msgstr "புச் மின்னஞ்சலைத் தொடங்குதல்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:238
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:313
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:358
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:409
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:449
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:493
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:538
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:592
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:614
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:704
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:732
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:766
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:835
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1033
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1060
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1123
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1151
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1199
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1222
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1240
+msgctxt "ImapService::Source"
+msgid "Account disabled"
+msgstr "கணக்கு முடக்கப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:243
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:318
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:543
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:597
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:619
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1038
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1065
+msgctxt "ImapService::Source"
+msgid "No account specified"
+msgstr "கணக்கு குறிப்பிடப்படவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:363
+msgctxt "ImapService::Source"
+msgid "No messages to retrieve"
+msgstr "மீட்டெடுக்க செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:414
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:454
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:498
+msgctxt "ImapService::Source"
+msgid "No message to retrieve"
+msgstr "மீட்டெடுக்க செய்தி இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:418
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:502
+msgctxt "ImapService::Source"
+msgid "No part specified"
+msgstr "எந்த பகுதியும் குறிப்பிடப்படவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:422
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:458
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:506
+msgctxt "ImapService::Source"
+msgid "Invalid message specified"
+msgstr "தவறான செய்தி குறிப்பிடப்பட்டுள்ளது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:463
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:510
+msgctxt "ImapService::Source"
+msgid "No minimum specified"
+msgstr "குறைந்தபட்சம் குறிப்பிடப்படவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:660
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:689
+msgctxt "ImapService::Source"
+msgid "Could not delete messages"
+msgstr "செய்திகளை நீக்க முடியவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:737
+msgctxt "ImapService::Source"
+msgid "No messages to copy"
+msgstr "நகலெடுக்க செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:741
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:775
+msgctxt "ImapService::Source"
+msgid "Invalid destination folder"
+msgstr "தவறான இலக்கு கோப்புறை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:771
+msgctxt "ImapService::Source"
+msgid "No messages to move"
+msgstr "நகர்த்த செய்த செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:840
+msgctxt "ImapService::Source"
+msgid "No messages to flag"
+msgstr "கொடியிற்கு செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:844
+msgctxt "ImapService::Source"
+msgid "No flags to be applied"
+msgstr "பயன்படுத்த வேண்டிய கொடிகள் எதுவும் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1044
+msgctxt "ImapService::Source"
+msgid "Cannot create empty named folder"
+msgstr "வெற்று பெயரிடப்பட்ட கோப்புறையை உருவாக்க முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1082
+msgctxt "ImapService::Source"
+msgid "Drafts"
+msgstr "வரைவுகள்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1085
+msgctxt "ImapService::Source"
+msgid "Sent"
+msgstr "அனுப்பப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1088
+msgctxt "ImapService::Source"
+msgid "Junk"
+msgstr "குப்பை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1091
+msgctxt "ImapService::Source"
+msgid "Trash"
+msgstr "குப்பை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1128
+msgctxt "ImapService::Source"
+msgid "Deleting invalid folder"
+msgstr "தவறான கோப்புறையை நீக்குகிறது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1156
+msgctxt "ImapService::Source"
+msgid "Cannot rename to an empty folder"
+msgstr "வெற்று கோப்புறைக்கு மறுபெயரிட முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1160
+msgctxt "ImapService::Source"
+msgid "Cannot rename an invalid folder"
+msgstr "தவறான கோப்புறையை மறுபெயரிட முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1205
+msgctxt "ImapService::Source"
+msgid "Empty search provided"
+msgstr "வெற்று தேடல் வழங்கப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1245
+msgctxt "ImapService::Source"
+msgid "No messages to prepare"
+msgstr "தயாரிக்க செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:1337
+msgctxt "ImapService::Source"
+msgid "Destination message failed to match source message"
+msgstr "இலக்கு செய்தி மூல செய்தியுடன் பொருந்தத் தவறிவிட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:14
+msgctxt "ImapSettings"
+msgid "Form"
+msgstr "வடிவம்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:59
+msgctxt "ImapSettings"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:85
+msgctxt "ImapSettings"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:114
+msgctxt "ImapSettings"
+msgid "Server"
+msgstr "சேவையகம்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:140
+msgctxt "ImapSettings"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:166
+msgctxt "ImapSettings"
+msgid "Encryption"
+msgstr "குறியாக்கம்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:183
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:224
+msgctxt "ImapSettings"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:188
+msgctxt "ImapSettings"
+msgid "SSL"
+msgstr "எச்.எச்.எல்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:193
+msgctxt "ImapSettings"
+msgid "TLS"
+msgstr "டி.எல்.எச்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:207
+msgctxt "ImapSettings"
+msgid "Authentication"
+msgstr "ஏற்பு"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:229
+msgctxt "ImapSettings"
+msgid "Login"
+msgstr "புகுபதிவு"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:234
+msgctxt "ImapSettings"
+msgid "Plain"
+msgstr "வெற்று"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:239
+msgctxt "ImapSettings"
+msgid "Cram MD5"
+msgstr "CRAM MD5"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:253
+msgctxt "ImapSettings"
+msgid "Remove deleted messages from server"
+msgstr "சேவையகத்திலிருந்து நீக்கப்பட்ட செய்திகளை அகற்றவும்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:275
+msgctxt "ImapSettings"
+msgid "Download limit"
+msgstr "பதிவிறக்க வரம்பு"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:294
+msgctxt "ImapSettings"
+msgid "K"
+msgstr "கே"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:313
+msgctxt "ImapSettings"
+msgid "Prefer HTML content over Plain"
+msgstr "Prefer உஉகுமொ content வீச்சலகு Plain"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:332
+msgctxt "ImapSettings"
+msgid "Interval"
+msgstr "இடைவேளை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:348
+msgctxt ""
+"ImapSettings\n"
+"short for minutes"
+msgid "min"
+msgstr "மணித்துளி"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:382
+msgctxt "ImapSettings"
+msgid "Disable when Roaming"
+msgstr "ரோமிங் செய்யும் போது முடக்கவும்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:395
+msgctxt "ImapSettings"
+msgid "Base folder"
+msgstr "அடிப்படை கோப்புறை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:445
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:513
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:581
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:649
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:717
+msgctxt "ImapSettings"
+msgid "..."
+msgstr "..."
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:460
+msgctxt "ImapSettings"
+msgid "Drafts folder"
+msgstr "வரைவுகள் கோப்புறை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:528
+msgctxt "ImapSettings"
+msgid "Sent folder"
+msgstr "கோப்புறை அனுப்பப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:596
+msgctxt "ImapSettings"
+msgid "Trash folder"
+msgstr "குப்பை கோப்புறை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:664
+msgctxt "ImapSettings"
+msgid "Junk folder"
+msgstr "குப்பை கோப்புறை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.ui:738
+msgctxt "ImapSettings"
+msgid "Push Enabled"
+msgstr "புச் இயக்கப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:29
+msgctxt "IncomingServerGroup"
+msgid "Incoming Server: %1"
+msgstr "உள்வரும் சேவையகம்: %1"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:106
+msgctxt "IncomingServerGroup"
+msgid "Hostname"
+msgstr "புரவலன்பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:115
+msgctxt "IncomingServerGroup"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:124
+msgctxt "IncomingServerGroup"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:133
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:136
+msgctxt "IncomingServerGroup"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:143
+msgctxt "IncomingServerGroup"
+msgid "Show password"
+msgstr "கடவுச்சொல்லைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:149
+msgctxt "IncomingServerGroup"
+msgid "Security settings"
+msgstr "பாதுகாப்பு அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:184
+msgctxt "IncomingServerGroup"
+msgid "Allow untrusted certificates"
+msgstr "நம்பத்தகாத சான்றிதழ்களை அனுமதிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:189
+msgctxt "IncomingServerGroup"
+msgid "Server settings"
+msgstr "சேவையக அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:194
+msgctxt "IncomingServerGroup"
+msgid "Check for new mail on start"
+msgstr "தொடக்கத்தில் புதிய அஞ்சலை சரிபார்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:200
+msgctxt "IncomingServerGroup"
+msgid "Enable IMAP IDLE"
+msgstr "IMAP செயலற்றதை இயக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:207
+msgctxt "IncomingServerGroup"
+msgid "Check interval (minutes)"
+msgstr "இடைவெளியைச் சரிபார்க்கவும் (நிமிடங்கள்)"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:214
+msgctxt "IncomingServerGroup"
+msgid "Check when roaming"
+msgstr "ரோமிங் செய்யும் போது சரிபார்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:220
+msgctxt "IncomingServerGroup"
+msgid "Maximum mail size (MB)"
+msgstr "அதிகபட்ச அஞ்சல் அளவு (எம்பி)"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:226
+msgctxt "IncomingServerGroup"
+msgid "No maximum mail size"
+msgstr "அதிகபட்ச அஞ்சல் அளவு இல்லை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:234
+msgctxt "IncomingServerGroup"
+msgid "Automatically download attachments"
+msgstr "இணைப்புகளை தானாக பதிவிறக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/IncomingServerGroup.qml:240
+msgctxt "IncomingServerGroup"
+msgid "Allowed to delete mail"
+msgstr "அஞ்சலை நீக்க அனுமதிக்கப்படுகிறது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/LicensesPage.qml:25
+msgctxt "LicensesPage"
+msgid "Licenses"
+msgstr "உரிமங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/MailSettings.qml:11
+msgctxt "MailSettings"
+msgid "Mail Settings"
+msgstr "அஞ்சல் அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/MailSettings.qml:24
+msgctxt "MailSettings"
+msgid "Accounts"
+msgstr "கணக்குகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/MailSettings.qml:34
+msgctxt "MailSettings"
+msgid "Identities"
+msgstr "அடையாளங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/MailSettings.qml:44
+msgctxt "MailSettings"
+msgid "Display"
+msgstr "காட்சி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/MailSettings.qml:51
+msgctxt "MailSettings"
+msgid "Privacy"
+msgstr "தனியுரிமை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/MailSettingsAction.qml:7
+msgctxt "MailSettingsAction"
+msgid "Mail"
+msgstr "அஞ்சல்"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "All"
+msgstr "அனைத்தும்"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "Unread"
+msgstr "படிக்காதது"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "Starred"
+msgstr "நடித்தார்"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "Replied"
+msgstr "பதிலளித்தார்"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "Forwarded"
+msgstr "முன்னோக்கி"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "Attachments"
+msgstr "இணைப்புகள்"
+
+#: ../Dekko/stores/Mail/MailStore.qml:38
+msgctxt "MailStore"
+msgid "Calendar"
+msgstr "நாட்காட்டி"
+
+#: ../Dekko/stores/Mail/MailStore.qml:39
+msgctxt "MailStore"
+msgid "Local"
+msgstr "உள்ளக"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:36
+msgctxt "MailStoreActions"
+msgid "Unselect all"
+msgstr "அனைத்தையும் தேர்வு செய்யுங்கள்"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:36
+msgctxt "MailStoreActions"
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:49
+msgctxt "MailStoreActions"
+msgid "Star"
+msgstr "விண்மீன்"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:49
+msgctxt "MailStoreActions"
+msgid "Remove star"
+msgstr "நட்சத்திரத்தை அகற்று"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:57
+msgctxt "MailStoreActions"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:62
+msgctxt "MailStoreActions"
+msgid "Mark as un-read"
+msgstr "படிக்காதவராக குறிக்கவும்"
+
+#: ../Dekko/stores/Mail/MailStoreActions.qml:62
+msgctxt "MailStoreActions"
+msgid "Mark as read"
+msgstr "படித்தபடி குறி"
+
+#: ../plugins/ubuntu-plugin/imports/constants/MailUtils.qml:27
+msgctxt "MailUtils"
+msgid "To"
+msgstr "பெறுநர்"
+
+#: ../plugins/ubuntu-plugin/imports/constants/MailUtils.qml:29
+msgctxt "MailUtils"
+msgid "Cc"
+msgstr "சி.சி."
+
+#: ../plugins/ubuntu-plugin/imports/constants/MailUtils.qml:31
+msgctxt "MailUtils"
+msgid "Bcc"
+msgstr "பி.சி.சி."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MailboxPickerPage.qml:34
+msgctxt "MailboxPickerPage"
+msgid "Select folder"
+msgstr "கோப்புறையைத் தேர்ந்தெடு"
+
+#: ../Dekko/workers/MailboxWorker.qml:161
+msgctxt "MailboxWorker"
+msgid "Message moved"
+msgstr "செய்தி நகர்ந்தது"
+
+#: ../plugins/ubuntu-plugin/qml/MainUI.qml:17
+msgctxt "MainUI"
+msgid "Dekko Mail"
+msgstr "டெக்கோ ரைச் எல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/ManageAccountsPage.qml:26
+msgctxt "ManageAccountsPage"
+msgid "Manage accounts"
+msgstr "கணக்குகளை நிர்வகிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:28
+msgctxt "ManualInputUI"
+msgid "Server configuration"
+msgstr "சேவையக உள்ளமைவு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:33
+msgctxt "ManualInputUI"
+msgid "IMAP Server:"
+msgstr "IMAP சேவையகம்:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:46
+msgctxt "ManualInputUI"
+msgid "POP3 Server:"
+msgstr "POP3 சேவையகம்:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:59
+msgctxt "ManualInputUI"
+msgid "SMTP Server:"
+msgstr "SMTP சேவையகம்:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:71
+msgctxt "ManualInputUI"
+msgid "Back"
+msgstr "பின்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:75
+msgctxt "ManualInputUI"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:135
+msgctxt "ManualInputUI"
+msgid "Password empty"
+msgstr "கடவுச்சொல் காலியாக உள்ளது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ManualInputUI.qml:135
+msgctxt "ManualInputUI"
+msgid "Would you like to continue?"
+msgstr "தொடர விரும்புகிறீர்களா?"
+
+#: ../plugins/ubuntu-plugin/plugins/extensions/Markdown/MarkdownEditor.qml:67
+msgctxt "MarkdownEditor"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: ../Dekko/backend/mail/Message.cpp:228
+msgctxt "Message"
+msgid "you"
+msgstr "நீங்கள்"
+
+#: ../Dekko/backend/mail/Message.cpp:230
+msgctxt "Message"
+msgid "to %1"
+msgstr "பெறுநர் %1"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageActionPopover.qml:44
+msgctxt "MessageActionPopover"
+msgid "Reply all"
+msgstr "அனைவருக்கும் பதிலளிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageActionPopover.qml:52
+msgctxt "MessageActionPopover"
+msgid "Forward"
+msgstr "முன்னோக்கி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageActionPopover.qml:65
+msgctxt "MessageActionPopover"
+msgid "Move"
+msgstr "நகர்த்தவும்"
+
+#: ../Dekko/backend/mail/MessageBuilder.cpp:268
+msgctxt "MessageBuilder"
+msgid "On %1, %2 wrote:\n"
+msgstr "%1 இல், %2 எழுதினார்:\n"
+
+#: ../Dekko/backend/mail/MessageBuilder.cpp:325
+msgctxt "MessageBuilder"
+msgid "Forwarded Message"
+msgstr "முன்னோக்கி செய்தி"
+
+#: ../Dekko/backend/mail/MessageBuilder.cpp:326
+msgctxt "MessageBuilder"
+msgid "Date: "
+msgstr "தேதி:"
+
+#: ../Dekko/backend/mail/MessageBuilder.cpp:327
+msgctxt "MessageBuilder"
+msgid "From: "
+msgstr "இருந்து:"
+
+#: ../Dekko/backend/mail/MessageBuilder.cpp:328
+msgctxt "MessageBuilder"
+msgid "To: "
+msgstr "க்கு:"
+
+#: ../Dekko/backend/mail/MessageBuilder.cpp:329
+msgctxt "MessageBuilder"
+msgid "Subject: "
+msgstr "பொருள்:"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:79
+msgctxt "MessageFilterCollection"
+msgid "All inboxes"
+msgstr "அனைத்து இன்பாக்ச்கள்"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:89
+msgctxt "MessageFilterCollection"
+msgid "Drafts"
+msgstr "வரைவுகள்"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:99
+msgctxt "MessageFilterCollection"
+msgid "Spam"
+msgstr "ச்பேம்"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:109
+msgctxt "MessageFilterCollection"
+msgid "Outbox"
+msgstr "அவுட்பாக்ச்"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:119
+msgctxt "MessageFilterCollection"
+msgid "Sent"
+msgstr "அனுப்பப்பட்டது"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:128
+msgctxt "MessageFilterCollection"
+msgid "Trash"
+msgstr "குப்பை"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:140
+msgctxt "MessageFilterCollection"
+msgid "Today, %1"
+msgstr "இன்று, %1"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:149
+msgctxt "MessageFilterCollection"
+msgid "To-do"
+msgstr "செய்ய வேண்டியவை"
+
+#: ../Dekko/backend/mail/MessageFilterCollection.cpp:158
+msgctxt "MessageFilterCollection"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/MessageHeader.qml:47
+msgctxt "MessageHeader"
+msgid "Hide details"
+msgstr "விவரங்களை மறைக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/MessageHeader.qml:47
+msgctxt "MessageHeader"
+msgid "View details"
+msgstr "விவரங்களைக் காண்க"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:45
+msgctxt "MessageListActionPopover"
+msgid "Mark as unread"
+msgstr "படிக்காத எனக் குறிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:45
+msgctxt "MessageListActionPopover"
+msgid "Mark as read"
+msgstr "படித்தபடி குறி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:53
+msgctxt "MessageListActionPopover"
+msgid "Mark as not important"
+msgstr "முக்கியத்துவம் வாய்ந்ததாக இல்லை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:53
+msgctxt "MessageListActionPopover"
+msgid "Mark as important"
+msgstr "முக்கியமானதாகக் குறிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:61
+msgctxt "MessageListActionPopover"
+msgid "Mark as spam"
+msgstr "ச்பேமாக குறி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:74
+msgctxt "MessageListActionPopover"
+msgid "To-do"
+msgstr "செய்ய வேண்டியவை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:91
+msgctxt "MessageListActionPopover"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:105
+msgctxt "MessageListActionPopover"
+msgid "Reply"
+msgstr "பதில்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:113
+msgctxt "MessageListActionPopover"
+msgid "Reply all"
+msgstr "அனைவருக்கும் பதிலளிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:121
+msgctxt "MessageListActionPopover"
+msgid "Forward"
+msgstr "முன்னோக்கி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:135
+msgctxt "MessageListActionPopover"
+msgid "Move"
+msgstr "நகர்த்தவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:144
+msgctxt "MessageListActionPopover"
+msgid "Restore to %1"
+msgstr "%1 க்கு மீட்டமைக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageListActionPopover.qml:153
+msgctxt "MessageListActionPopover"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/MessageListDelegate.qml:51
+msgctxt "MessageListDelegate"
+msgid "Un-mark flagged"
+msgstr "அன்-மார்க் கொடியிடப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/MessageListDelegate.qml:51
+msgctxt "MessageListDelegate"
+msgid "Mark flagged"
+msgstr "குறி கொடியிடப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/MessageListDelegate.qml:60
+msgctxt "MessageListDelegate"
+msgid "Mark as un-read"
+msgstr "படிக்காதவராக குறிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/MessageListDelegate.qml:60
+msgctxt "MessageListDelegate"
+msgid "Mark as read"
+msgstr "படித்தபடி குறி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/MessageListDelegate.qml:67
+msgctxt "MessageListDelegate"
+msgid "Move message"
+msgstr "செய்தியை நகர்த்தவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/MessageListDelegate.qml:72
+msgctxt "MessageListDelegate"
+msgid "Context menu"
+msgstr "சூழல் பட்டியல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:115
+msgctxt "MessageListView"
+msgid "Unselect all"
+msgstr "அனைத்தையும் தேர்வு செய்யுங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:115
+msgctxt "MessageListView"
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:127
+msgctxt "MessageListView"
+msgid "Star"
+msgstr "விண்மீன்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:127
+msgctxt "MessageListView"
+msgid "Remove star"
+msgstr "நட்சத்திரத்தை அகற்று"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:131
+msgctxt "MessageListView"
+msgid "Mark as un-read"
+msgstr "படிக்காதவராக குறிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:131
+msgctxt "MessageListView"
+msgid "Mark as read"
+msgstr "படித்தபடி குறி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:138
+msgctxt "MessageListView"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:216
+msgctxt "MessageListView"
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/MessageListView.qml:340
+msgctxt "MessageListView"
+msgid "Load more messages ..."
+msgstr "மேலும் செய்திகளை ஏற்றவும் ..."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:46
+msgctxt "MessageViewContextMenu"
+msgid "Open in browser"
+msgstr "உலாவியில் திற"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:54
+msgctxt "MessageViewContextMenu"
+msgid "Copy link"
+msgstr "இணைப்பை நகலெடுக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:63
+msgctxt "MessageViewContextMenu"
+msgid "Share link"
+msgstr "இணைப்பைப் பகிரவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:77
+msgctxt "MessageViewContextMenu"
+msgid "Reply"
+msgstr "பதில்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:86
+msgctxt "MessageViewContextMenu"
+msgid "Reply all"
+msgstr "அனைவருக்கும் பதிலளிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:94
+msgctxt "MessageViewContextMenu"
+msgid "Forward"
+msgstr "முன்னோக்கி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/MessageViewContextMenu.qml:106
+msgctxt "MessageViewContextMenu"
+msgid "View source"
+msgstr "மூலத்தைக் காண்க"
+
+#: ../Dekko/backend/mail/Message.cpp:110 ../Dekko/backend/mail/Message.cpp:126
+msgctxt ""
+"MinimalMessage\n"
+"time format as hours:minutes e.g. 12:45"
+msgid "hh:mm"
+msgstr "HH: மிமீ"
+
+#: ../Dekko/backend/mail/Message.cpp:115
+msgctxt ""
+"MinimalMessage\n"
+"time/date format as short day name hours:minutes e.g. Mon. 12:45"
+msgid "ddd hh:mm"
+msgstr "டி.டி.டி எச்.எச்: எம்.எம்"
+
+#: ../Dekko/backend/mail/Message.cpp:117
+msgctxt ""
+"MinimalMessage\n"
+"date format as day name and month e.g. 02 May"
+msgid "dd MMM"
+msgstr "டி.டி எம்.எம்.எம்"
+
+#: ../Dekko/backend/mail/Message.cpp:119
+msgctxt ""
+"MinimalMessage\n"
+"date format as day month year e.g. 31 02 2020"
+msgid "dd MMM yy"
+msgstr "dd mmm yy"
+
+#: ../Dekko/backend/mail/Message.cpp:126
+msgctxt ""
+"MinimalMessage\n"
+"time format as long day name and day e.g. Monday 02"
+msgid "dddd dd"
+msgstr "dddd dd"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuAccountSettingsModel.qml:29
+msgctxt "NavMenuAccountSettingsModel"
+msgid "Manage accounts"
+msgstr "கணக்குகளை நிர்வகிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuAccountSettingsModel.qml:45
+msgctxt "NavMenuAccountSettingsModel"
+msgid "Display settings"
+msgstr "அமைப்புகளைக் காண்பி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuAccountSettingsModel.qml:67
+msgctxt "NavMenuAccountSettingsModel"
+msgid "Privacy settings"
+msgstr "தனியுரிமை அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuContactsModel.qml:27
+msgctxt "NavMenuContactsModel"
+msgid "Addressbook"
+msgstr "முகவரி நூல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuContactsModel.qml:43
+msgctxt "NavMenuContactsModel"
+msgid "Recent contacts"
+msgstr "அண்மைக் கால தொடர்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuContactsModel.qml:58
+msgctxt "NavMenuContactsModel"
+msgid "Import contacts"
+msgstr "தொடர்புகளை இறக்குமதி செய்யுங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuDekkoVisualModel.qml:27
+msgctxt "NavMenuDekkoVisualModel"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuDekkoVisualModel.qml:45
+msgctxt "NavMenuDekkoVisualModel"
+msgid "Licenses"
+msgstr "உரிமங்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuDekkoVisualModel.qml:63
+msgctxt "NavMenuDekkoVisualModel"
+msgid "Contributors"
+msgstr "பங்களிப்பாளர்கள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuModel.qml:98
+msgctxt "NavMenuModel"
+msgid "Smart folders"
+msgstr "அறிவுள்ள கோப்புறைகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/models/NavMenuModel.qml:120
+msgctxt "NavMenuModel"
+msgid "Folders"
+msgstr "கோப்புறைகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavMenuPage.qml:30
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavMenuPage.qml:64
+msgctxt "NavMenuPage"
+msgid "Mail"
+msgstr "அஞ்சல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavMenuPage.qml:67
+msgctxt "NavMenuPage"
+msgid "Contacts"
+msgstr "தொடர்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavMenuPage.qml:70
+msgctxt "NavMenuPage"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavMenuPage.qml:73
+msgctxt "NavMenuPage"
+msgid "About"
+msgstr "பற்றி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/NavMenuStandardFolderDelegate.qml:192
+msgctxt "NavMenuStandardFolderDelegate"
+msgid "Inbox (%1)"
+msgstr "இன்பாக்ச் (%1)"
+
+#: ../plugins/ubuntu-plugin/imports/components/private/NavSideBar.qml:155
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavSideBar.qml:151
+msgctxt "NavSideBar"
+msgid "Smart folders"
+msgstr "அறிவுள்ள கோப்புறைகள்"
+
+#: ../plugins/ubuntu-plugin/imports/components/private/NavSideBar.qml:169
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NavSideBar.qml:165
+msgctxt "NavSideBar"
+msgid "Folders"
+msgstr "கோப்புறைகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/NavViewContextMenu.qml:44
+msgctxt "NavViewContextMenu"
+msgid "Sync folder"
+msgstr "ஒத்திசைவு கோப்புறை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/NavViewContextMenu.qml:53
+msgctxt "NavViewContextMenu"
+msgid "Send pending"
+msgstr "நிலுவையில் உள்ளதை அனுப்பு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/NavViewContextMenu.qml:62
+msgctxt "NavViewContextMenu"
+msgid "Mark folder read"
+msgstr "மார்க் கோப்புறை படித்தது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/NavViewContextMenu.qml:76
+msgctxt "NavViewContextMenu"
+msgid "Empty trash"
+msgstr "வெற்று குப்பை"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/NewAccountsUI.qml:32
+msgctxt "NewAccountsUI"
+msgid "New account"
+msgstr "புதிய கணக்கு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/NoAccountsUI.qml:31
+msgctxt "NoAccountsUI"
+msgid "Accounts"
+msgstr "கணக்குகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/NoAccountsUI.qml:93
+msgctxt "NoAccountsUI"
+msgid "No email account is setup."
+msgstr "மின்னஞ்சல் கணக்கு எதுவும் அமைக்கப்படவில்லை."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/NoAccountsUI.qml:102
+msgctxt "NoAccountsUI"
+msgid "Add now"
+msgstr "இப்போது சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/views/NothingSelectedPage.qml:55
+msgctxt "NothingSelectedPage"
+msgid "No message selected"
+msgstr "எந்த செய்தியும் தேர்ந்தெடுக்கப்படவில்லை"
+
+#: ../plugins/ubuntu-plugin/imports/dialogs/NoticePopup.qml:27
+msgctxt "NoticePopup"
+msgid "Ok"
+msgstr "சரி"
+
+#: ../plugins/ubuntu-notification-plugin/qml/NotificationSettings.qml:7
+msgctxt "NotificationSettings"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#: ../plugins/ubuntu-notification-plugin/qml/NotificationSettingsPage.qml:26
+msgctxt "NotificationSettingsPage"
+msgid "Notification Settings: %1"
+msgstr "அறிவிப்பு அமைப்புகள்: %1"
+
+#: ../plugins/ubuntu-notification-plugin/qml/NotificationSettingsPage.qml:52
+msgctxt "NotificationSettingsPage"
+msgid "Enabled"
+msgstr "இயக்கப்பட்டது"
+
+#: ../plugins/ubuntu-notification-plugin/service/notificationwatcher.cpp:57
+msgctxt "NotificationWatcher"
+msgid "%1 New messages"
+msgstr "%1 புதிய செய்திகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:29
+msgctxt "OutgoingServerGroup"
+msgid "Outgoing Server: %1"
+msgstr "வெளிச்செல்லும் சேவையகம்: %1"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:76
+msgctxt "OutgoingServerGroup"
+msgid "Hostname"
+msgstr "புரவலன்பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:84
+msgctxt "OutgoingServerGroup"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:93
+msgctxt "OutgoingServerGroup"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:101
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:104
+msgctxt "OutgoingServerGroup"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:111
+msgctxt "OutgoingServerGroup"
+msgid "Show password"
+msgstr "கடவுச்சொல்லைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:117
+msgctxt "OutgoingServerGroup"
+msgid "Security settings"
+msgstr "பாதுகாப்பு அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:150
+msgctxt "OutgoingServerGroup"
+msgid "Authenticate from server capabilities"
+msgstr "சேவையக திறன்களிலிருந்து அங்கீகரிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/OutgoingServerGroup.qml:156
+msgctxt "OutgoingServerGroup"
+msgid "Allow untrusted certificates"
+msgstr "நம்பத்தகாத சான்றிதழ்களை அனுமதிக்கவும்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:186
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:222
+msgctxt "PopClient"
+msgid "Cannot open connection without POP server configuration"
+msgstr "பாப் சேவையக உள்ளமைவு இல்லாமல் இணைப்பைத் திறக்க முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:345
+msgctxt "PopClient"
+msgid "Inbox"
+msgstr "இன்பாக்ச்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:409
+msgctxt "PopClient"
+msgid "Connected"
+msgstr "இணைக்கப்பட்டுள்ளது"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:786
+msgctxt "PopClient"
+msgid "Logging in"
+msgstr "உள்நுழைவு -.காம்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:860
+msgctxt ""
+"PopClient\n"
+"Previewing <no of messages>"
+msgid "Previewing"
+msgstr "முன்னோட்டம்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:867
+msgctxt "PopClient"
+msgid "Completing %1 / %2"
+msgstr "%1 / %2 ஐ முடிக்கிறது"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:883
+msgctxt "PopClient"
+msgid "Removing old messages"
+msgstr "பழைய செய்திகளை நீக்குகிறது"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:911
+msgctxt "PopClient"
+msgid "Removing message from server"
+msgstr "சேவையகத்திலிருந்து செய்தியை நீக்குகிறது"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popclient.cpp:995
+msgctxt "PopClient"
+msgid "Logging out"
+msgstr "வெளியேறுதல்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:424
+msgctxt "PopService"
+msgid "Account disabled"
+msgstr "கணக்கு முடக்கப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:116
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:153
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:215
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:231
+msgctxt "PopService::Source"
+msgid "No account specified"
+msgstr "கணக்கு குறிப்பிடப்படவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:140
+msgctxt "PopService::Source"
+msgid "No folders specified"
+msgstr "கோப்புறைகள் எதுவும் குறிப்பிடப்படவில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:186
+msgctxt "PopService::Source"
+msgid "No messages to retrieve"
+msgstr "மீட்டெடுக்க செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:251
+msgctxt "PopService::Source"
+msgid "No messages to delete"
+msgstr "நீக்க செய்திகள் இல்லை"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:14
+msgctxt "PopSettings"
+msgid "Form"
+msgstr "வடிவம்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:56
+msgctxt "PopSettings"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:82
+msgctxt "PopSettings"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:111
+msgctxt "PopSettings"
+msgid "Server"
+msgstr "சேவையகம்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:137
+msgctxt "PopSettings"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:163
+msgctxt "PopSettings"
+msgid "Encryption"
+msgstr "குறியாக்கம்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:180
+msgctxt "PopSettings"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:185
+msgctxt "PopSettings"
+msgid "SSL"
+msgstr "எச்.எச்.எல்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:190
+msgctxt "PopSettings"
+msgid "TLS"
+msgstr "டி.எல்.எச்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:204
+msgctxt "PopSettings"
+msgid "Remove deleted mail from server"
+msgstr "சேவையகத்திலிருந்து நீக்கப்பட்ட அஞ்சலை அகற்றவும்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:226
+msgctxt "PopSettings"
+msgid "Skip larger"
+msgstr "பெரியதைத் தவிர்க்கவும்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:248
+msgctxt "PopSettings"
+msgid "Interval"
+msgstr "இடைவேளை"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:270
+msgctxt "PopSettings"
+msgid "Disable when Roaming"
+msgstr "ரோமிங் செய்யும் போது முடக்கவும்"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:286
+msgctxt ""
+"PopSettings\n"
+"short for minutes"
+msgid "min"
+msgstr "மணித்துளி"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popsettings.ui:314
+msgctxt "PopSettings"
+msgid "K"
+msgstr "கே"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/PrivacySettings.qml:28
+msgctxt "PrivacySettings"
+msgid "Message content"
+msgstr "செய்தி உள்ளடக்கம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/PrivacySettings.qml:32
+msgctxt "PrivacySettings"
+msgid "Allow remote content"
+msgstr "தொலை உள்ளடக்கத்தை அனுமதிக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/PrivacySettingsPage.qml:21
+msgctxt "PrivacySettingsPage"
+msgid "Privacy Settings"
+msgstr "தனியுரிமை அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/settings/PrivacySettingsPopup.qml:21
+msgctxt "PrivacySettingsPopup"
+msgid "Privacy Settings"
+msgstr "தனியுரிமை அமைப்புகள்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.cpp:153
+msgctxt "PushFolderList"
+msgid "Push folder"
+msgstr "கோப்புறையை தள்ளுங்கள்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapsettings.cpp:163
+msgctxt "PushFolderList"
+msgid "..."
+msgstr "..."
+
+#: ../upstream/qmf/libraries/qmfclient/longstream.cpp:236
+msgctxt "QCoreApplication"
+msgid ""
+"Storage for messages is full. Some new messages could not be retrieved."
+msgstr ""
+"செய்திகளுக்கான சேமிப்பு நிரம்பியுள்ளது. சில புதிய செய்திகளை மீட்டெடுக்க "
+"முடியவில்லை."
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:67
+msgctxt "QMailMessageModelBase"
+msgid "Draft message"
+msgstr "வரைவு செய்தி"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:78
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:80
+msgctxt "QMailMessageModelBase"
+msgid "%n byte"
+msgid_plural "%n bytes"
+msgstr[0] "%n பைட்"
+msgstr[1] "%n பைட்டுகள்"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:83
+msgctxt "QMailMessageModelBase"
+msgid "%1 KB"
+msgstr "%1 கி.பை."
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:85
+msgctxt "QMailMessageModelBase"
+msgid "%1 MB"
+msgstr "%1 எம்பி"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:87
+msgctxt "QMailMessageModelBase"
+msgid "%1 GB"
+msgstr "%1 சிபி"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:264
+msgctxt "QMailMessageModelBase"
+msgid "Received"
+msgstr "பெறப்பட்டது"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:267
+msgctxt "QMailMessageModelBase"
+msgid "Sent"
+msgstr "அனுப்பப்பட்டது"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailmessagemodelbase.cpp:269
+msgctxt "QMailMessageModelBase"
+msgid "Last edited"
+msgstr "கடைசியாக திருத்தப்பட்டது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.h:300
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.h:301
+msgctxt "QMailMessageService"
+msgid "Cancelled by user"
+msgstr "பயனரால் ரத்து செய்யப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapservice.cpp:2235
+msgctxt "QMailMessageService"
+msgid "IMAP"
+msgstr "Imap"
+
+#: ../upstream/qmf/plugins/messageservices/pop/popservice.cpp:464
+msgctxt "QMailMessageService"
+msgid "POP"
+msgstr "பாப்"
+
+#: ../upstream/qmf/plugins/messageservices/qmfsettings/service.cpp:81
+msgctxt "QMailMessageService"
+msgid "Mailfile"
+msgstr "மெயில் பைல்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpservice.cpp:371
+msgctxt "QMailMessageService"
+msgid "SMTP"
+msgstr "Smtp"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:1104
+msgctxt "QMailMessageSource"
+msgid "Unable to delete messages"
+msgstr "செய்திகளை நீக்க முடியவில்லை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:1117
+msgctxt "QMailMessageSource"
+msgid "Insufficient space to copy messages to folder"
+msgstr "கோப்புறையில் செய்திகளை நகலெடுக்க போதுமான இடம்"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:1138
+msgctxt "QMailMessageSource"
+msgid "Unable to copy messages for account"
+msgstr "கணக்கிற்கான செய்திகளை நகலெடுக்க முடியவில்லை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:1172
+msgctxt "QMailMessageSource"
+msgid "Unable to move messages to folder"
+msgstr "செய்திகளை கோப்புறையில் நகர்த்த முடியவில்லை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:1189
+msgctxt "QMailMessageSource"
+msgid "Unable to flag messages"
+msgstr "செய்திகளை கொடியிட முடியவில்லை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:277
+msgctxt "QMailServiceAction"
+msgid "Connection refused"
+msgstr "இணைப்பு மறுத்துவிட்டது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:278
+msgctxt "QMailServiceAction"
+msgid "Remote host closed the connection"
+msgstr "தொலை புரவலன் இணைப்பை மூடியது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:279
+msgctxt "QMailServiceAction"
+msgid "Host not found"
+msgstr "புரவலன் கிடைக்கவில்லை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:280
+msgctxt "QMailServiceAction"
+msgid "Permission denied"
+msgstr "இசைவு மறுக்கப்பட்டது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:281
+msgctxt "QMailServiceAction"
+msgid "Insufficient resources"
+msgstr "போதுமான ஆதாரங்கள்"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:282
+msgctxt "QMailServiceAction"
+msgid "Operation timed out"
+msgstr "ஆபரேசன் நேரம் முடிந்தது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:283
+msgctxt "QMailServiceAction"
+msgid "Datagram too large"
+msgstr "டேட்டாகிராம் மிகப் பெரியது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:284
+msgctxt "QMailServiceAction"
+msgid "Network error"
+msgstr "பிணைய பிழை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:285
+msgctxt "QMailServiceAction"
+msgid "Address in use"
+msgstr "பயன்பாட்டில் உள்ள முகவரி"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:286
+msgctxt "QMailServiceAction"
+msgid "Address not available"
+msgstr "முகவரி கிடைக்கவில்லை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:287
+msgctxt "QMailServiceAction"
+msgid "Unsupported operation"
+msgstr "ஆதரிக்கப்படாத செயல்பாடு"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:288
+msgctxt "QMailServiceAction"
+msgid "Unknown error"
+msgstr "தெரியாத பிழை"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:298
+msgctxt "QMailServiceAction"
+msgid "This function is not currently supported."
+msgstr "இந்த செயல்பாடு தற்போது ஆதரிக்கப்படவில்லை."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:299
+msgctxt "QMailServiceAction"
+msgid "Framework error occurred."
+msgstr "கட்டமைப்பின் பிழை ஏற்பட்டது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:302
+msgctxt "QMailServiceAction"
+msgid "Login failed - check user name and password."
+msgstr ""
+"உள்நுழைவு தோல்வியுற்றது - பயனர் பெயர் மற்றும் கடவுச்சொல்லை சரிபார்க்கவும்."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:303
+msgctxt "QMailServiceAction"
+msgid "Operation cancelled."
+msgstr "செயல்பாடு ரத்து செய்யப்பட்டது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:304
+msgctxt "QMailServiceAction"
+msgid "Mail check failed."
+msgstr "அஞ்சல் காசோலை தோல்வியடைந்தது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:305
+msgctxt "QMailServiceAction"
+msgid "Message deleted from server."
+msgstr "சேவையகத்திலிருந்து செய்தி நீக்கப்பட்டது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:306
+msgctxt "QMailServiceAction"
+msgid "Unable to queue message for transmission."
+msgstr "பரிமாற்றத்திற்கான செய்தியை வரிசைப்படுத்த முடியவில்லை."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:307
+msgctxt "QMailServiceAction"
+msgid "Cannot determine the connection to transmit message on."
+msgstr "செய்தியை அனுப்ப இணைப்பை தீர்மானிக்க முடியாது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:308
+msgctxt "QMailServiceAction"
+msgid "Outgoing connection already in use by another operation."
+msgstr ""
+"வெளிச்செல்லும் இணைப்பு ஏற்கனவே மற்றொரு செயல்பாட்டின் மூலம் பயன்பாட்டில் "
+"உள்ளது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:309
+msgctxt "QMailServiceAction"
+msgid "Outgoing connection is not ready to transmit message."
+msgstr "வெளிச்செல்லும் இணைப்பு செய்தியை அனுப்ப தயாராக இல்லை."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:310
+msgctxt "QMailServiceAction"
+msgid "Unable to use account due to invalid configuration."
+msgstr "தவறான உள்ளமைவு காரணமாக கணக்கைப் பயன்படுத்த முடியவில்லை."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:311
+msgctxt "QMailServiceAction"
+msgid "Message origin or recipient addresses are not correctly formatted."
+msgstr "செய்தி தோற்றம் அல்லது பெறுநரின் முகவரிகள் சரியாக வடிவமைக்கப்படவில்லை."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:312
+msgctxt "QMailServiceAction"
+msgid "Configured service unable to handle supplied data."
+msgstr "வழங்கப்பட்ட தரவைக் கையாள முடியாமல் கட்டமைக்கப்பட்ட பணி."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:313
+msgctxt "QMailServiceAction"
+msgid ""
+"Configured service failed to perform action within a reasonable period of "
+"time."
+msgstr ""
+"கட்டமைக்கப்பட்ட பணி ஒரு நியாயமான காலத்திற்குள் செயலைச் செய்யத் தவறிவிட்டது."
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:356
+msgctxt "QMailServiceAction"
+msgid "Unable to send; message moved to Drafts folder"
+msgstr "அனுப்ப முடியவில்லை; செய்தி வரைவுகள் கோப்புறையில் நகர்த்தப்பட்டது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:358
+msgctxt "QMailServiceAction"
+msgid "Unexpected response from server: "
+msgstr "சேவையகத்திலிருந்து எதிர்பாராத பதில்:"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailmessageservice.cpp:366
+msgctxt ""
+"QMailServiceAction\n"
+"%1 contains numeric error code"
+msgid "Error %1"
+msgstr "பிழை %1"
+
+#: ../upstream/qmf/libraries/qmfclient/qmailstore_p.cpp:3175
+msgctxt "QMailStorePrivate"
+msgid "Local Storage"
+msgstr "உள்ளக சேமிப்பு"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:289
+msgctxt "QMailTransport"
+msgid "DNS lookup"
+msgstr "டி.என்.எச் தேடல்"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:415
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:435
+msgctxt "QMailTransport"
+msgid "Connected"
+msgstr "இணைக்கப்பட்டுள்ளது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:426
+msgctxt "QMailTransport"
+msgid "Connection timed out"
+msgstr "இணைப்பு நேரம் முடிந்தது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:455
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:494
+msgctxt "QMailTransport"
+msgid "Error occurred"
+msgstr "பிழை ஏற்பட்டது"
+
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:458
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:460
+#: ../upstream/qmf/libraries/qmfmessageserver/qmailtransport.cpp:504
+msgctxt "QMailTransport"
+msgid "Socket error"
+msgstr "சாக்கெட் பிழை"
+
+#: ../Dekko/backend/mail/Attachments.cpp:344
+msgctxt "QObject"
+msgid "%n byte"
+msgid_plural "%n bytes"
+msgstr[0] "%n பைட்"
+msgstr[1] "%n பைட்டுகள்"
+
+#: ../Dekko/backend/mail/Attachments.cpp:346
+msgctxt "QObject"
+msgid "%1 KB"
+msgstr "%1 கி.பை."
+
+#: ../Dekko/backend/mail/Attachments.cpp:348
+msgctxt "QObject"
+msgid "%1 MB"
+msgstr "%1 எம்பி"
+
+#: ../Dekko/backend/mail/Attachments.cpp:350
+msgctxt "QObject"
+msgid "%1 GB"
+msgstr "%1 சிபி"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:122
+msgctxt "QObject"
+msgid "File not open"
+msgstr "கோப்பு திறக்கப்படவில்லை"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:277
+msgctxt "QObject"
+msgid "Could not create path"
+msgstr "பாதையை உருவாக்க முடியவில்லை"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:285
+msgctxt "QObject"
+msgid "Could not delete path"
+msgstr "பாதையை நீக்க முடியவில்லை"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:324
+msgctxt "QObject"
+msgid "No error"
+msgstr "பிழை இல்லை"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:327
+msgctxt "QObject"
+msgid "Lock failed error"
+msgstr "பூட்டு தோல்வியுற்ற பிழை"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:330
+msgctxt "QObject"
+msgid "Permission error"
+msgstr "இசைவு பிழை"
+
+#: ../upstream/maz-db/leveldb/util/env_qt.cc:333
+msgctxt "QObject"
+msgid "Unknown error"
+msgstr "தெரியாத பிழை"
+
+#: ../upstream/maz-db/src/quick/MazDBPlugin.cpp:44
+#: ../upstream/maz-db/tests/runner.cpp:27
+msgctxt "QObject"
+msgid "Cannot create separate instance of Options"
+msgstr "விருப்பங்களின் தனித்தனி நிகழ்வை உருவாக்க முடியாது"
+
+#: ../upstream/maz-db/src/quick/MazDBPlugin.cpp:45
+#: ../upstream/maz-db/tests/runner.cpp:28
+msgctxt "QObject"
+msgid "Cannot create separate instance of Batch"
+msgstr "தொகுப்பின் தனித்தனி நிகழ்வை உருவாக்க முடியாது"
+
+#: ../upstream/maz-db/src/quick/MazDBPlugin.cpp:46
+#: ../upstream/maz-db/tests/runner.cpp:29
+msgctxt "QObject"
+msgid "Cannot create separate instance of QueryBase"
+msgstr "வினவல் உள்ள தனித்தனி நிகழ்வை உருவாக்க முடியாது"
+
+#: ../upstream/maz-db/src/quick/MazDBPlugin.cpp:47
+msgctxt "QObject"
+msgid "Cannot create separate instance of Range"
+msgstr "வரம்பின் தனித்தனி நிகழ்வை உருவாக்க முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapprotocol.cpp:2035
+#: ../upstream/qmf/plugins/messageservices/imap/imapprotocol.cpp:2118
+msgctxt "QObject"
+msgid "This server does not provide a complete IMAP4rev1 implementation."
+msgstr "இந்த சேவையகம் முழுமையான IMAP4REV1 செயல்படுத்தலை வழங்காது."
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:1753
+msgctxt "QObject"
+msgid "Completing %1 / %2"
+msgstr "%1 / %2 ஐ முடிக்கிறது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2201
+msgctxt ""
+"QObject\n"
+"Previewing <number of messages>"
+msgid "Previewing"
+msgstr "முன்னோட்டம்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2240
+msgctxt ""
+"QObject\n"
+"Checking <mailbox name>"
+msgid "Checking"
+msgstr "சோதனை"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2358
+msgctxt "QObject"
+msgid "Retrieving folders"
+msgstr "கோப்புறைகளை மீட்டெடுப்பது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2810
+msgctxt "QObject"
+msgid "Marking message as read"
+msgstr "வாசிப்பாக செய்தியைக் குறிக்கும்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2829
+msgctxt "QObject"
+msgid "Marking message as unread"
+msgstr "செய்தியை படிக்காததாகக் குறிப்பது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2848
+msgctxt "QObject"
+msgid "Marking message as important"
+msgstr "செய்தியைக் குறிக்கும்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2867
+msgctxt "QObject"
+msgid "Marking message as unimportant"
+msgstr "முக்கியமற்றதாக செய்தியைக் குறிப்பது"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:2888
+msgctxt "QObject"
+msgid "Deleting message"
+msgstr "செய்தியை நீக்குதல்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:3350
+msgctxt "QObject"
+msgid "Scanning folders"
+msgstr "கோப்புறைகளை ச்கேன் செய்தல்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:3352
+msgctxt "QObject"
+msgid "Scanning folder"
+msgstr "கோப்புறை ச்கேனிங்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:3958
+msgctxt "QObject"
+msgid "Copying %1 / %2"
+msgstr "%1 / %2 நகலெடுக்கும்"
+
+#: ../upstream/qmf/plugins/messageservices/imap/imapstrategy.cpp:4262
+msgctxt "QObject"
+msgid "Moving %1 / %2"
+msgstr "நகரும் %1 / %2"
+
+#: ../upstream/qmf/plugins/messageservices/qmfsettings/settings.ui:20
+msgctxt "QtopiamailfileSettings"
+msgid "Form"
+msgstr "வடிவம்"
+
+#: ../upstream/qmf/plugins/messageservices/qmfsettings/settings.ui:32
+msgctxt "QtopiamailfileSettings"
+msgid "Location"
+msgstr "இடம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/RecipientField.qml:98
+msgctxt "RecipientField"
+msgid "Enter an address"
+msgstr "ஒரு முகவரியை உள்ளிடவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/RecipientInfo.qml:42
+msgctxt "RecipientInfo"
+msgid "Back"
+msgstr "பின்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/RecipientInfo.qml:94
+msgctxt "RecipientInfo"
+msgid "Copy to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/RecipientInfo.qml:108
+msgctxt "RecipientInfo"
+msgid "Add to addressbook"
+msgstr "முகவரி புத்தகத்தில் சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/messageview/RecipientInfo.qml:123
+msgctxt "RecipientInfo"
+msgid "Send message"
+msgstr "செய்தி அனுப்பவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/RecipientInputContextMenu.qml:56
+msgctxt "RecipientInputContextMenu"
+msgid "Add CC"
+msgstr "சி.சி."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/RecipientInputContextMenu.qml:69
+msgctxt "RecipientInputContextMenu"
+msgid "Add BCC"
+msgstr "பி.சி.சி சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/RecipientPopover.qml:81
+msgctxt "RecipientPopover"
+msgid "Copy to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/RecipientPopover.qml:90
+msgctxt "RecipientPopover"
+msgid "Add to addressbook"
+msgstr "முகவரி புத்தகத்தில் சேர்க்கவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/RecipientPopover.qml:99
+msgctxt "RecipientPopover"
+msgid "Send message"
+msgstr "செய்தி அனுப்பவும்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/popovers/RecipientPopover.qml:109
+msgctxt "RecipientPopover"
+msgid "Remove"
+msgstr "அகற்று"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/SenderIdentityField.qml:53
+msgctxt "SenderIdentityField"
+msgid "From:"
+msgstr "இருந்து:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:70
+msgctxt "ServerDetails"
+msgid "Hostname"
+msgstr "புரவலன்பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:79
+msgctxt "ServerDetails"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:101
+msgctxt "ServerDetails"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:110
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:113
+msgctxt "ServerDetails"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:120
+msgctxt "ServerDetails"
+msgid "Show password"
+msgstr "கடவுச்சொல்லைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/ServerDetails.qml:141
+msgctxt "ServerDetails"
+msgid "Allow untrusted certificates"
+msgstr "நம்பத்தகாத சான்றிதழ்களை அனுமதிக்கவும்"
+
+#: ../Dekko/server/servicehandler.cpp:593
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:589
+msgctxt "ServiceHandler"
+msgid "Destroying Service handler"
+msgstr "பணி கையாளுபவரை அழித்தல்"
+
+#: ../Dekko/server/servicehandler.cpp:645
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:641
+msgctxt "ServiceHandler"
+msgid "Service became unavailable, couldn't dispatch"
+msgstr "பணி கிடைக்கவில்லை, அனுப்ப முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:826
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:822
+msgctxt "ServiceHandler"
+msgid "Account updated by other process"
+msgstr "கணக்கு பிற செயல்முறையால் புதுப்பிக்கப்பட்டது"
+
+#: ../Dekko/server/servicehandler.cpp:833
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:829
+msgctxt "ServiceHandler"
+msgid "Account removed"
+msgstr "கணக்கு அகற்றப்பட்டது"
+
+#: ../Dekko/server/servicehandler.cpp:1234
+#: ../Dekko/server/servicehandler.cpp:1283
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1230
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1279
+msgctxt "ServiceHandler"
+msgid "Request is not progressing"
+msgstr "கோரிக்கை முன்னேறவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1320
+#: ../Dekko/server/servicehandler.cpp:1322
+#: ../Dekko/server/servicehandler.cpp:1370
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1316
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1318
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1366
+msgctxt "ServiceHandler"
+msgid "Cancelled by user"
+msgstr "பயனரால் ரத்து செய்யப்பட்டது"
+
+#: ../Dekko/server/servicehandler.cpp:1379
+#: ../Dekko/server/servicehandler.cpp:1415
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1375
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1411
+msgctxt "ServiceHandler"
+msgid "Unable to enqueue messages for transmission"
+msgstr "பரிமாற்றத்திற்கான செய்திகளை உருவாக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1463
+#: ../Dekko/server/servicehandler.cpp:1574
+#: ../Dekko/server/servicehandler.cpp:1612
+#: ../Dekko/server/servicehandler.cpp:1650
+#: ../Dekko/server/servicehandler.cpp:1686
+#: ../Dekko/server/servicehandler.cpp:1722
+#: ../Dekko/server/servicehandler.cpp:1763
+#: ../Dekko/server/servicehandler.cpp:1803
+#: ../Dekko/server/servicehandler.cpp:1842
+#: ../Dekko/server/servicehandler.cpp:1882
+#: ../Dekko/server/servicehandler.cpp:1918
+#: ../Dekko/server/servicehandler.cpp:1951
+#: ../Dekko/server/servicehandler.cpp:1988
+#: ../Dekko/server/servicehandler.cpp:2056
+#: ../Dekko/server/servicehandler.cpp:2111
+#: ../Dekko/server/servicehandler.cpp:2188
+#: ../Dekko/server/servicehandler.cpp:2397
+#: ../Dekko/server/servicehandler.cpp:2517
+#: ../Dekko/server/servicehandler.cpp:2553
+#: ../Dekko/server/servicehandler.cpp:2584
+#: ../Dekko/server/servicehandler.cpp:2680
+#: ../Dekko/server/servicehandler.cpp:2949
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1459
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1570
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1608
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1646
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1682
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1718
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1759
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1799
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1838
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1878
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1914
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1947
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1984
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2052
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2107
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2184
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2393
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2513
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2549
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2580
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2676
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2945
+msgctxt "ServiceHandler"
+msgid "Unable to locate source for account"
+msgstr "கணக்கிற்கான மூலத்தைக் கண்டுபிடிக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1500
+#: ../Dekko/server/servicehandler.cpp:1536
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1496
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1532
+msgctxt "ServiceHandler"
+msgid "Unable to locate sink for account"
+msgstr "கணக்கிற்கான மடுவைக் கண்டுபிடிக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1547
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1543
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve folder list for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான கோப்புறை பட்டியலை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1585
+#: ../Dekko/server/servicehandler.cpp:1623
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1581
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1619
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve message list for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்தி பட்டியலை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1661
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1657
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve new messages for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான புதிய செய்திகளை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1697
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1693
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve standard folders for unconfigured account"
+msgstr ""
+"கட்டமைக்கப்படாத கணக்கிற்கான நிலையான கோப்புறைகளை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1733
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1729
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve messages for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்திகளை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1777
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1773
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve message part for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்தி பகுதியை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1815
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1811
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve message range for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்தி வரம்பை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1854
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1850
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve message part range for unconfigured account"
+msgstr ""
+"கட்டமைக்கப்படாத கணக்கிற்கான செய்தி பகுதி வரம்பை மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1893
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1889
+msgctxt "ServiceHandler"
+msgid "Unable to retrieve all messages for unconfigured account"
+msgstr ""
+"கட்டமைக்கப்படாத கணக்கிற்கான அனைத்து செய்திகளையும் மீட்டெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1929
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1925
+msgctxt "ServiceHandler"
+msgid "Unable to export updates for unconfigured account"
+msgstr ""
+"கட்டமைக்கப்படாத கணக்கிற்கான புதுப்பிப்புகளை ஏற்றுமதி செய்ய முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:1962
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:1958
+msgctxt "ServiceHandler"
+msgid "Unable to synchronize unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கை ஒத்திசைக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2006
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2002
+msgctxt "ServiceHandler"
+msgid "Unable to delete messages for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்திகளை நீக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2008
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2004
+msgctxt "ServiceHandler"
+msgid "Deleting messages"
+msgstr "செய்திகளை நீக்குதல்"
+
+#: ../Dekko/server/servicehandler.cpp:2026
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2022
+msgctxt "ServiceHandler"
+msgid "Unable to discard messages"
+msgstr "செய்திகளை நிராகரிக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2075
+#: ../Dekko/server/servicehandler.cpp:2096
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2071
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2092
+msgctxt "ServiceHandler"
+msgid "Unable to copy messages to unconfigured account"
+msgstr "உள்ளமைக்கப்பட்ட கணக்கில் செய்திகளை நகலெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2077
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2073
+msgctxt "ServiceHandler"
+msgid "Unable to copy messages to multiple destination accounts!"
+msgstr "பல இலக்கு கணக்குகளுக்கு செய்திகளை நகலெடுக்க முடியவில்லை!"
+
+#: ../Dekko/server/servicehandler.cpp:2144
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2140
+msgctxt "ServiceHandler"
+msgid "Unable to copy messages for account"
+msgstr "கணக்கிற்கான செய்திகளை நகலெடுக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2162
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2158
+msgctxt "ServiceHandler"
+msgid "Unable to move messages for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்திகளை நகர்த்த முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2203
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2199
+msgctxt "ServiceHandler"
+msgid "Unable to flag messages for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்திகளைக் கொடியிட முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2216
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2212
+msgctxt "ServiceHandler"
+msgid "Unable to async add messages"
+msgstr "செய்திகளைச் சேர்க்க முடியாது"
+
+#: ../Dekko/server/servicehandler.cpp:2218
+#: ../Dekko/server/servicehandler.cpp:2305
+#: ../Dekko/server/servicehandler.cpp:2365
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2214
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2301
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2361
+msgctxt "ServiceHandler"
+msgid "Unable to async update messages"
+msgstr "செய்திகளைப் புதுப்பிக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2275
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2271
+msgctxt "ServiceHandler"
+msgid "Unable to async add messages, inconsistent contentscheme"
+msgstr "ஒத்திசைக்க முடியவில்லை செய்திகளைச் சேர்க்கவும், சீரற்ற பொருளடக்கம்"
+
+#: ../Dekko/server/servicehandler.cpp:2327
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2323
+msgctxt "ServiceHandler"
+msgid "Unable to async update messages, inconsistent contentscheme"
+msgstr ""
+"செய்திகளை புதுப்பிக்க முடியவில்லை செய்திகளைப் புதுப்பிக்க முடியவில்லை, "
+"சீரற்ற உள்ளடக்கங்கள்"
+
+#: ../Dekko/server/servicehandler.cpp:2412
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2408
+msgctxt "ServiceHandler"
+msgid "Could not delete messages"
+msgstr "செய்திகளை நீக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2493
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2489
+msgctxt "ServiceHandler"
+msgid "Unable to create folder for invalid account"
+msgstr "தவறான கணக்கிற்கான கோப்புறையை உருவாக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2530
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2526
+msgctxt "ServiceHandler"
+msgid "Unable to rename invalid folder"
+msgstr "தவறான கோப்புறையை மறுபெயரிட முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2566
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2562
+msgctxt "ServiceHandler"
+msgid "Unable to delete invalid folder"
+msgstr "தவறான கோப்புறையை நீக்க முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2612
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2608
+msgctxt "ServiceHandler"
+msgid "Unable to search messages for unconfigured account"
+msgstr "கட்டமைக்கப்படாத கணக்கிற்கான செய்திகளைத் தேட முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:2926
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:2922
+msgctxt "ServiceHandler"
+msgid "Unable to forward protocol-specific request for unconfigured account"
+msgstr ""
+"கட்டமைக்கப்படாத கணக்கிற்கான நெறிமுறை-குறிப்பிட்ட கோரிக்கையை அனுப்ப "
+"முடியவில்லை"
+
+#: ../Dekko/server/servicehandler.cpp:3174
+#: ../upstream/qmf/tools/messageserver/servicehandler.cpp:3170
+msgctxt "ServiceHandler"
+msgid "Failed to perform requested action!"
+msgstr "கோரப்பட்ட செயலைச் செய்யத் தவறிவிட்டது!"
+
+#: ../plugins/ubuntu-plugin/plugins/core/settings/Settings.qml:11
+msgctxt "Settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/settings/SettingsWindow.qml:26
+msgctxt "SettingsWindow"
+msgid "Dekko Settings"
+msgstr "டெக்கோ அமைப்புகள்"
+
+#: ../Dekko/workers/SettingsWorker.qml:103
+msgctxt "SettingsWorker"
+msgid "Account saved"
+msgstr "கணக்கு சேமிக்கப்பட்டது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/SetupWizardWindow.qml:20
+msgctxt "SetupWizardWindow"
+msgid "Mail Setup Wizard"
+msgstr "அஞ்சல் அமைவு வழிகாட்டி"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.cpp:79
+msgctxt "SigEntry"
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/delegates/SmartFolderDelegate.qml:155
+msgctxt "SmartFolderDelegate"
+msgid "Inbox (%1)"
+msgstr "இன்பாக்ச் (%1)"
+
+#: ../Dekko/backend/mail/MessageSet.cpp:332
+msgctxt "SmartFolderSet"
+msgid "Today, %1"
+msgstr "இன்று, %1"
+
+#: ../Dekko/backend/accounts/AccountConfiguration.cpp:459
+msgctxt "SmtpAccountConfiguration"
+msgid "Sent with Dekko"
+msgstr "டெக்கோவுடன் அனுப்பப்பட்டது"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:236
+msgctxt "SmtpClient"
+msgid "Cannot send message; transport in use"
+msgstr "செய்தியை அனுப்ப முடியாது; பயன்பாட்டில் போக்குவரத்து"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:242
+msgctxt "SmtpClient"
+msgid "Cannot send message without account configuration"
+msgstr "கணக்கு உள்ளமைவு இல்லாமல் செய்தியை அனுப்ப முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:249
+msgctxt "SmtpClient"
+msgid "Cannot send message without SMTP server configuration"
+msgstr "SMTP சேவையக உள்ளமைவு இல்லாமல் செய்தியை அனுப்ப முடியாது"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:353
+msgctxt "SmtpClient"
+msgid "Connected"
+msgstr "இணைக்கப்பட்டுள்ளது"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:863
+msgctxt "SmtpClient"
+msgid "Sending: %1"
+msgstr "அனுப்புகிறது: %1"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:929
+msgctxt "SmtpClient"
+msgid "Received response 354 while sending."
+msgstr "அனுப்பும் போது பதில் 354 கிடைத்தது."
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:1060
+msgctxt "SmtpClient"
+msgid "Sent %n messages"
+msgid_plural "Sent %n messages"
+msgstr[0] "%N செய்திகளை அனுப்பியது"
+msgstr[1] "%N செய்திகளை அனுப்பியது"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpclient.cpp:1221
+msgctxt "SmtpClient"
+msgid ""
+"Have not received any greeting from SMTP server, probably configuration "
+"error"
+msgstr ""
+"SMTP சேவையகத்திலிருந்து எந்த வாழ்த்தையும் பெறவில்லை, அநேகமாக உள்ளமைவு பிழை"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:14
+msgctxt "SmtpSettings"
+msgid "Form"
+msgstr "வடிவம்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:56
+msgctxt "SmtpSettings"
+msgid "From"
+msgstr "இருந்து"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:82
+msgctxt "SmtpSettings"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:108
+msgctxt "SmtpSettings"
+msgid "Server"
+msgstr "சேவையகம்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:134
+msgctxt "SmtpSettings"
+msgid "Port"
+msgstr "துறைமுகம்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:160
+msgctxt "SmtpSettings"
+msgid "Encryption"
+msgstr "குறியாக்கம்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:177
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:218
+msgctxt "SmtpSettings"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:182
+msgctxt "SmtpSettings"
+msgid "SSL"
+msgstr "எச்.எச்.எல்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:187
+msgctxt "SmtpSettings"
+msgid "TLS"
+msgstr "டி.எல்.எச்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:201
+msgctxt "SmtpSettings"
+msgid "Authentication"
+msgstr "ஏற்பு"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:223
+msgctxt "SmtpSettings"
+msgid "Login"
+msgstr "புகுபதிவு"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:228
+msgctxt "SmtpSettings"
+msgid "Plain"
+msgstr "வெற்று"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:233
+msgctxt "SmtpSettings"
+msgid "Cram MD5"
+msgstr "CRAM MD5"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:247
+msgctxt "SmtpSettings"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:276
+msgctxt "SmtpSettings"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:308
+msgctxt "SmtpSettings"
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:324
+msgctxt "SmtpSettings"
+msgid "Set..."
+msgstr "அமைக்கவும் ..."
+
+#: ../upstream/qmf/plugins/messageservices/smtp/smtpsettings.ui:337
+msgctxt "SmtpSettings"
+msgid "Default sending account"
+msgstr "இயல்புநிலை அனுப்பும் கணக்கு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/composer/SubjectField.qml:56
+msgctxt "SubjectField"
+msgid "Subject:"
+msgstr "பொருள்:"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/states/SyncState.qml:35
+msgctxt "SyncState"
+msgid "Synchronizing account."
+msgstr "கணக்கு ஒத்திசைத்தல்."
+
+#: ../plugins/ubuntu-plugin/imports/components/TitledTextField.qml:62
+msgctxt "TitledTextField"
+msgid " (Required)"
+msgstr "(தேவை)"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:36
+msgctxt "UserInputUI"
+msgid "Name"
+msgstr "பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:37
+msgctxt "UserInputUI"
+msgid "Full name"
+msgstr "முழு பெயர்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:44
+msgctxt "UserInputUI"
+msgid "Description"
+msgstr "விவரம்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:45
+msgctxt "UserInputUI"
+msgid "E.g Home, Work..."
+msgstr "எ.கா. வீடு, வேலை ..."
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:52
+msgctxt "UserInputUI"
+msgid "Email address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:54
+msgctxt "UserInputUI"
+msgid "email@example.org"
+msgstr "மின்னஞ்சல்@example.org"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:60
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:63
+msgctxt "UserInputUI"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:69
+msgctxt "UserInputUI"
+msgid "Show password"
+msgstr "கடவுச்சொல்லைக் காட்டு"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:79
+msgctxt "UserInputUI"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:83
+msgctxt "UserInputUI"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:125
+msgctxt "UserInputUI"
+msgid "Password empty"
+msgstr "கடவுச்சொல் காலியாக உள்ளது"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/components/UserInputUI.qml:125
+msgctxt "UserInputUI"
+msgid "Would you like to continue?"
+msgstr "தொடர விரும்புகிறீர்களா?"
+
+#: ../plugins/ubuntu-plugin/plugins/core/mail/setupwizard/states/ValidationState.qml:36
+msgctxt "ValidationState"
+msgid "Validating credentials."
+msgstr "நற்சான்றிதழ்களை சரிபார்க்கிறது."
+
+#: ../plugins/ubuntu-plugin/imports/dialogs/VersionDialog.qml:26
+msgctxt "VersionDialog"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#: ../plugins/ubuntu-plugin/imports/dialogs/VersionDialog.qml:30
+msgctxt "VersionDialog"
+msgid "Close"
+msgstr "மூடு"
+
+#: ../Dekko/stores/Views/ViewStore.qml:70
+msgctxt "ViewStore"
+msgid "Messages sent"
+msgstr "செய்திகள் அனுப்பப்பட்டன"
+
+#: ../Dekko/stores/Views/ViewStore.qml:72
+msgctxt "ViewStore"
+msgid "Message sent"
+msgstr "செய்தி அனுப்பப்பட்டது"
+
+#: ../Dekko/stores/Views/ViewStore.qml:75
+msgctxt "ViewStore"
+msgid "Message sending failed"
+msgstr "செய்தி அனுப்புதல் தோல்வியடைந்தது"

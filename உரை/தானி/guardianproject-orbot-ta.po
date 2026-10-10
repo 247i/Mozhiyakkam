@@ -1,0 +1,1758 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Guardian Project)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-30 18:50+0200\n"
+"PO-Revision-Date: 2025-07-08 21:59\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/guardianproject/orbot/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "Orbot"
+msgstr "ஆர்பாட்"
+
+#, java-printf-format
+msgctxt "app_description"
+msgid ""
+"Orbot is a free proxy app that empowers other apps to use the internet more "
+"securely. Orbot uses Tor to encrypt your Internet traffic and then hides it "
+"by bouncing through a series of computers around the world. Tor is free "
+"software and an open network that helps you defend against a form of network"
+" surveillance that threatens personal freedom and privacy, confidential "
+"business activities and relationships, and state security known as traffic "
+"analysis."
+msgstr ""
+"ஆர்பாட், இன்னும பாதுகாப்பான முறையில் இணைய பயன்படுத்த மற்ற பயன்பாடுகள் "
+"பலப்படுத்துகிறார் என்று ஒரு இலவச ப்ராக்ஸி பயன்பாடு ஆகும். ஆர்பாட் உங்கள் "
+"இணைய போக்குவரத்து குறியாக்க தோர் பயன்படுத்துகிறது மற்றும் அதன் பின்னர் "
+"உலகம் முழுவதும் கணினிகள் ஒரு தொடர் மூலம் எதிர்க்கிறது அதை மறுத்தவர். தோர் "
+"இலவச மென்பொருள் மற்றும் நீங்கள் போக்குவரத்து பகுப்பாய்வு என்ற தனிப்பட்ட "
+"சுதந்திரம் மற்றும் தனியுரிமை, ரகசிய வணிக நடவடிக்கைகள் மற்றும் உறவுகள், "
+"மற்றும் மாநில பாதுகாப்பை அச்சுறுத்தும் நெட்வொர்க் கண்காணிப்பு வடிவ எதிராக "
+"பாதுகாக்க உதவுகிறது என்று ஒரு திறந்த நெட்வொர்க் ஆகும்."
+
+#, java-printf-format
+msgctxt "menu_settings"
+msgid "Orbot Settings"
+msgstr "சுற்றுப்பாதை அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "system_vpn_settings"
+msgid "Android VPN Settings"
+msgstr "ஆண்ட்ராய்டு VPN அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "menu_log"
+msgid "Log"
+msgstr "பதிவுகள்"
+
+#, java-printf-format
+msgctxt "menu_stop"
+msgid "Stop"
+msgstr "நிறுத்து"
+
+#, java-printf-format
+msgctxt "menu_about"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "main_layout_download"
+msgid "Download"
+msgstr "பதிவிறக்கு"
+
+#, java-printf-format
+msgctxt "main_layout_upload"
+msgid "Upload"
+msgstr "பதிவேற்று"
+
+#, java-printf-format
+msgctxt "button_about"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "menu_exit"
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#, java-printf-format
+msgctxt "menu_scan"
+msgid "Scan BridgeQR"
+msgstr "ஸ்கேன் BridgeQR"
+
+#, java-printf-format
+msgctxt "menu_share_bridge"
+msgid "Share BridgeQR"
+msgstr "BridgeQR பகிர்ந்திடு"
+
+#, java-printf-format
+msgctxt "wizard_details_msg"
+msgid ""
+"Orbot is an open-source application that contains Tor, IPtProxy (Obfs4Proxy,"
+" Meek, Snowflake), Go-Tun2Socks and LibEvent. It provides a VPN tunnel, a "
+"local HTTP Connect proxy (HTTPS only on port 8118) and a SOCKS proxy (9050) "
+"into the Tor network."
+msgstr ""
+"ஆர்போட் என்பது ஒரு திறந்த-மூல பயன்பாடாகும், இது டோர், இப்டிராக்சி "
+"(OBFS4Proxy, Mek, Snewflake), Go-Tun2socks மற்றும் லிபெவென்ட் ஆகியவற்றைக் "
+"கொண்டுள்ளது. இது ஒரு VPN சுரங்கப்பாதை, உள்ளக HTTP இணை Proxy (HTTP கள் "
+"துறைமுகம் 8118 இல் மட்டுமே) மற்றும் TOR நெட்வொர்க்கில் ஒரு SOCKS பதிலாள் "
+"(9050) ஆகியவற்றை வழங்குகிறது."
+
+#. Welcome Wizard strings (DJH)
+#. END Welcome Wizard strings (DJH)
+#, java-printf-format
+msgctxt "pref_general_group"
+msgid "General"
+msgstr "பொது"
+
+#, java-printf-format
+msgctxt "pref_start_boot_title"
+msgid "Start Orbot on Boot"
+msgstr "துவக்கத்தில் சுற்றுப்பாதையைத் தொடங்கவும்"
+
+#, java-printf-format
+msgctxt "pref_start_boot_summary"
+msgid ""
+"Automatically start Orbot and connect Tor when your Android device boots"
+msgstr ""
+"உங்கள் ஆண்ட்ராய்டு சாதனம் துவங்கும் போது தானாகவே ஆர்போட்டைத் தொடங்கி டோர் "
+"இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_node_configuration"
+msgid "Node Configuration"
+msgstr "முனை உள்ளமைவு"
+
+#, java-printf-format
+msgctxt "pref_node_configuration_summary"
+msgid "These are advanced settings that can reduce your anonymity"
+msgstr "இவை உங்கள் அநாமதேயத்தை குறைக்கக்கூடிய மேம்பட்ட அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "pref_entrance_node"
+msgid "Entrance Nodes"
+msgstr "நுழைவு முனைகள்"
+
+#, java-printf-format
+msgctxt "pref_entrance_node_summary"
+msgid "Fingerprints, nicks, countries and addresses for the first hop"
+msgstr "முதல் ஆப்பிற்கான கைரேகைகள், நிக்ச், நாடுகள் மற்றும் முகவரிகள்"
+
+#, java-printf-format
+msgctxt "pref_entrance_node_dialog"
+msgid "Enter Entrance Nodes"
+msgstr "நுழைவு முனைகளை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "pref_allow_background_starts_title"
+msgid "Allow Background Starts"
+msgstr "பின்னணி தொடங்க அனுமதிக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_allow_background_starts_summary"
+msgid "Let any app tell Orbot to start Tor and related services"
+msgstr ""
+"டோர் மற்றும் தொடர்புடைய சேவைகளைத் தொடங்க எந்தவொரு பயன்பாடும் ஆர்போட்டிடம் "
+"சொல்லட்டும்"
+
+#, java-printf-format
+msgctxt "pref_proxy_title"
+msgid "Outbound Network Proxy (Optional)"
+msgstr "வெளிச்செல்லும் பிணையம் பதிலாள் (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "pref_proxy_type_title"
+msgid "Outbound Proxy Type"
+msgstr "வெளிச்செல்லும் பதிலாள் வகை"
+
+#, java-printf-format
+msgctxt "pref_proxy_type_summary"
+msgid "Protocol to use for proxy server: HTTP, HTTPS, SOCKS4, SOCKS5"
+msgstr ""
+"பதிலாள் சேவையகத்திற்கு பயன்படுத்த நெறிமுறை: HTTP, HTTPS, SOCKS4, SOCKS5"
+
+#, java-printf-format
+msgctxt "pref_proxy_type_dialog"
+msgid "Enter Proxy Type"
+msgstr "பதிலாள் வகையை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "pref_proxy_host_title"
+msgid "Outbound Proxy Host"
+msgstr "வெளிச்செல்லும் பதிலாள் புரவலன்"
+
+#, java-printf-format
+msgctxt "pref_proxy_host_summary"
+msgid "Proxy Server hostname"
+msgstr "பதிலாள் சர்வர் ஓச்ட்பெயர்"
+
+#, java-printf-format
+msgctxt "pref_proxy_host_dialog"
+msgid "Enter Proxy Host"
+msgstr "பதிலாள் ஓச்டை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "pref_proxy_port_title"
+msgid "Outbound Proxy Port"
+msgstr "வெளிச்செல்லும் பதிலாள் துறைமுகம்"
+
+#, java-printf-format
+msgctxt "pref_proxy_port_summary"
+msgid "Proxy Server port"
+msgstr "பதிலாள் சர்வர் துறைமுகம்"
+
+#, java-printf-format
+msgctxt "pref_proxy_port_dialog"
+msgid "Enter Proxy port"
+msgstr "பதிலாள் போர்ட்டை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "pref_proxy_username_title"
+msgid "Outbound Proxy Username"
+msgstr "வெளிச்செல்லும் பதிலாள் பயனர்பெயர்"
+
+#, java-printf-format
+msgctxt "pref_proxy_username_summary"
+msgid "Proxy Username (Optional)"
+msgstr "பதிலாள் பயனர்பெயர் (விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "pref_proxy_username_dialog"
+msgid "Enter Proxy Username"
+msgstr "பதிலாள் பயனர்பெயரை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "pref_proxy_password_title"
+msgid "Outbound Proxy Password"
+msgstr "வெளிச்செல்லும் பதிலாள் கடவுச்சொல்"
+
+#. New Wizard Strings
+#. Title Screen
+#. Warning screen
+#. Permissions screen
+#. TipsAndTricks screen
+#. Transparent Proxy screen
+#, java-printf-format
+msgctxt "pref_proxy_password_summary"
+msgid "Proxy Password (Optional)"
+msgstr "பதிலாள் கடவுச்சொல் (கட்டாயமற்ற)"
+
+#, java-printf-format
+msgctxt "pref_proxy_password_dialog"
+msgid "Enter Proxy Password"
+msgstr "பதிலாள் கடவுச்சொல்லை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "error"
+msgid "Error"
+msgstr "பிழை"
+
+#, java-printf-format
+msgctxt "exit_nodes"
+msgid "Exit Nodes"
+msgstr "வெளியேறும் முனைகள்"
+
+#, java-printf-format
+msgctxt "fingerprints_nicks_countries_and_addresses_for_the_last_hop"
+msgid "Fingerprints, nicks, countries and addresses for the last hop"
+msgstr "கடைசி ஆப்பிற்கான கைரேகைகள், நிக்ச், நாடுகள் மற்றும் முகவரிகள்"
+
+#, java-printf-format
+msgctxt "enter_exit_nodes"
+msgid "Enter Exit Nodes"
+msgstr "வெளியேறும் முனைகளை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "exclude_nodes"
+msgid "Exclude Nodes"
+msgstr "முனைகளை விலக்கு"
+
+#, java-printf-format
+msgctxt "fingerprints_nicks_countries_and_addresses_to_exclude"
+msgid "Fingerprints, nicks, countries and addresses to exclude"
+msgstr "கைரேகைகள், நிக்ச், நாடுகள் மற்றும் முகவரிகள் விலக்க"
+
+#, java-printf-format
+msgctxt "enter_exclude_nodes"
+msgid "Enter Exclude Nodes"
+msgstr "முனைகளை விலக்கவும்"
+
+#, java-printf-format
+msgctxt "strict_nodes"
+msgid "Strict Nodes"
+msgstr "கண்டிப்பான முனைகள்"
+
+#, java-printf-format
+msgctxt "strict_nodes_description"
+msgid ""
+"Treat Exclude Nodes settings as a requirement for building all circuits. "
+"This may break functionality if no circuits are able to be generated with "
+"your Exclude Nodes settings."
+msgstr ""
+"அனைத்து சுற்றுகளையும் கட்டுவதற்கான தேவையாக முனைகள் அமைப்புகளை விலக்கு. "
+"உங்கள் விலக்கு முனைகள் அமைப்புகளுடன் எந்த சுற்றுகளையும் உருவாக்க "
+"முடியாவிட்டால் இது செயல்பாட்டை உடைக்கக்கூடும்."
+
+#, java-printf-format
+msgctxt "bridges"
+msgid "Bridges"
+msgstr "Bridgeகள்"
+
+#, java-printf-format
+msgctxt "use_bridges"
+msgid "Use Bridges"
+msgstr "பாலங்களைப் பயன்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "reachable_addresses"
+msgid "Reachable Addresses"
+msgstr "அணுகக்கூடிய முகவரிகள்"
+
+#, java-printf-format
+msgctxt "run_as_a_client_behind_a_firewall_with_restrictive_policies"
+msgid "Run as a client behind a firewall with restrictive policies"
+msgstr ""
+"கட்டுப்பாட்டு கொள்கைகளுடன் ஃபயர்வாலுக்கு பின்னால் ஒரு வாடிக்கையாளராக "
+"இயக்கவும்"
+
+#, java-printf-format
+msgctxt "reachable_ports"
+msgid "Reachable ports"
+msgstr "அடையக்கூடிய துறைமுகங்கள்"
+
+#, java-printf-format
+msgctxt "ports_reachable_behind_a_restrictive_firewall"
+msgid "Ports reachable behind a restrictive firewall"
+msgstr "ஒரு கட்டுப்பாட்டு ஃபயர்வாலுக்கு பின்னால் துறைமுகங்கள் அடையக்கூடியவை"
+
+#, java-printf-format
+msgctxt "enter_ports"
+msgid "Enter ports"
+msgstr "துறைமுகங்களை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "enable_debug_log_to_output_must_use_adb_or_alogcat_to_view_"
+msgid "Enable debug log to output (must use adb or aLogcat to view)"
+msgstr ""
+"வெளியீட்டிற்கு பிழைத்திருத்த பதிவை இயக்கவும் (பார்க்க ADB அல்லது ALOGCAT ஐப்"
+" பயன்படுத்த வேண்டும்)"
+
+#, java-printf-format
+msgctxt "project_home"
+msgid "Project Home:"
+msgstr "திட்ட வீடு:"
+
+#, java-printf-format
+msgctxt "orbot_url"
+msgid "https://orbot.app/"
+msgstr "https://orbot.app/"
+
+#, java-printf-format
+msgctxt "orbot_github"
+msgid "https://github.com/guardianproject/orbot/"
+msgstr "https://github.com/guardianproject/orbot/"
+
+#, java-printf-format
+msgctxt "tor_url"
+msgid "Tor v%s: https://www.torproject.org"
+msgstr "%C இல் சுற்றுப்பயணம்: https: // vvv. Turproject.org"
+
+#, java-printf-format
+msgctxt "obfs4_url"
+msgid ""
+"Lyrebird v%s: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-"
+"transports/lyrebird"
+msgstr ""
+"Lyrebird v%s: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-"
+"transports/lyrebird"
+
+#, java-printf-format
+msgctxt "snowflake_url"
+msgid ""
+"Snowflake v%s: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-"
+"transports/snowflake"
+msgstr ""
+"ச்னோஃப்ளேக் வி%s: https://gitlab.torproject.org/tpo/anti-"
+"censorship/pluggable-transports/snowflake"
+
+#, java-printf-format
+msgctxt "openssl_url"
+msgid "OpenSSL: http://www.openssl.org"
+msgstr "Openssl: http://www.openssl.org"
+
+#, java-printf-format
+msgctxt "third_party_software"
+msgid "3rd-Party-Software:"
+msgstr "3 வது-கட்சி-மென்பொருள்:"
+
+#, java-printf-format
+msgctxt "version"
+msgid "Version:"
+msgstr "பதிப்பு:"
+
+#, java-printf-format
+msgctxt "license"
+msgid "License:"
+msgstr "உரிமம்:"
+
+#, java-printf-format
+msgctxt "hidden_service_request"
+msgid ""
+"An app wants to open onion server on port %1$s to the Tor network. This is "
+"safe if you trust the app."
+msgstr ""
+"ஒரு பயன்பாடு WOR நெட்வொர்க்கில் துறைமுகம் %1$s இல் வெங்காய சேவையகத்தைத் "
+"திறக்க விரும்புகிறது. நீங்கள் பயன்பாட்டை நம்பினால் இது பாதுகாப்பானது."
+
+#, java-printf-format
+msgctxt "allow"
+msgid "Allow"
+msgstr "அனுமதி"
+
+#, java-printf-format
+msgctxt "deny"
+msgid "Deny"
+msgstr "நிராகரி"
+
+#, java-printf-format
+msgctxt "pref_use_expanded_notifications"
+msgid ""
+"Display in the notification the country and IP Address of your tor exit node"
+" when available"
+msgstr ""
+"அறிவிப்பில் காண்பிக்கப்படும் நாடு மற்றும் உங்கள் டோர் வெளியேறும் முனையின் "
+"ஐபி முகவரி கிடைக்கும்போது"
+
+#, java-printf-format
+msgctxt "pref_use_expanded_notifications_title"
+msgid "Expanded Notifications"
+msgstr "விரிவாக்கப்பட்ட அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "set_locale_title"
+msgid "Language"
+msgstr "மொழி"
+
+#, java-printf-format
+msgctxt "pref_disable_network_title"
+msgid "No Network Auto-Sleep"
+msgstr "பிணையம் ஆட்டோ ச்லீப் இல்லை"
+
+#, java-printf-format
+msgctxt "pref_disable_network_summary"
+msgid "Put Tor to sleep when there is no internet available"
+msgstr "இணையம் இல்லாதபோது டோர் தூங்க வைக்கவும்"
+
+#, java-printf-format
+msgctxt "newnym"
+msgid "You've switched to a new Tor identity!"
+msgstr "நீங்கள் ஒரு புதிய TOR அடையாளத்திற்கு மாறிவிட்டீர்கள்!"
+
+#, java-printf-format
+msgctxt "pref_open_proxy_on_all_interfaces_title"
+msgid "Open Proxy on All Interfaces"
+msgstr "அனைத்து இடைமுகங்களிலும் பதிலாள் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_open_proxy_on_all_interfaces_summary"
+msgid ""
+"Allow Wi-Fi peers, tethered devices and anyone else who can connect to your "
+"IP, to access Tor"
+msgstr ""
+"வைஃபை சகாக்கள், இணைக்கப்பட்ட சாதனங்கள் மற்றும் உங்கள் ஐபியுடன் இணைக்கக்கூடிய"
+" வேறு எவரையும் அனுமதிக்கவும், டோர் அணுகவும்"
+
+#, ignore-same, java-printf-format
+msgctxt "pref_socks_title"
+msgid "Tor SOCKS"
+msgstr "டோர் சாக்ச்"
+
+#, java-printf-format
+msgctxt "pref_socks_summary"
+msgid ""
+"Port that Tor offers its SOCKS proxy on (default: 9050 or 0 to disable)"
+msgstr ""
+"துறைமுகம் அந்த டோர் அதன் சாக்ச் ப்ராக்சியை வழங்குகிறது (இயல்புநிலை: முடக்க "
+"9050 அல்லது 0)"
+
+#, java-printf-format
+msgctxt "pref_socks_dialog"
+msgid "SOCKS Port Config"
+msgstr "சாக்ச் துறைமுகம் கட்டமைப்பு"
+
+#, java-printf-format
+msgctxt "pref_http_title"
+msgid "Tor HTTP"
+msgstr "Tor http"
+
+#, java-printf-format
+msgctxt "pref_http_summary"
+msgid "Port that Tor offers its HTTP proxy on (default: 8118 or 0 to disable)"
+msgstr ""
+"துறைமுகம் அந்த டோர் அதன் HTTP ப்ராக்சியை வழங்குகிறது (இயல்புநிலை: 8118 "
+"அல்லது 0 முடக்க)"
+
+#, java-printf-format
+msgctxt "pref_http_dialog"
+msgid "HTTP Port Config"
+msgstr "HTTP துறைமுகம் கட்டமைப்பு"
+
+#, java-printf-format
+msgctxt "pref_transport_title"
+msgid "Tor TransProxy Port"
+msgstr "டோர் டிரான்ச்ப்ராக்சி துறைமுகம்"
+
+#, java-printf-format
+msgctxt "pref_transport_summary"
+msgid ""
+"Port that Tor offers its Transparent Proxy on (default: 9040 or 0 to "
+"disable)"
+msgstr ""
+"துறைமுகம் அந்த டோர் அதன் வெளிப்படையான ப்ராக்சியை வழங்குகிறது (இயல்புநிலை: "
+"முடக்க 9040 அல்லது 0)"
+
+#, java-printf-format
+msgctxt "pref_transport_dialog"
+msgid "TransProxy Port Config"
+msgstr "டிரான்ச்ப்ராக்சி துறைமுகம் கட்டமைப்பு"
+
+#, java-printf-format
+msgctxt "pref_dnsport_title"
+msgid "Tor DNS Port"
+msgstr "டோர் டிஎன்எச் துறைமுகம்"
+
+#, java-printf-format
+msgctxt "pref_dnsport_summary"
+msgid "Port that Tor offers its DNS on (default: 9053 or 0 to disable)"
+msgstr ""
+"டோர் அதன் டி.என்.எச்சை வழங்கும் துறைமுகம் (இயல்புநிலை: 9053 அல்லது 0 முடக்க)"
+
+#, java-printf-format
+msgctxt "pref_dnsport_dialog"
+msgid "DNS Port Config"
+msgstr "டி.என்.எச் துறைமுகம் கட்டமைப்பு"
+
+#, java-printf-format
+msgctxt "pref_torrc_title"
+msgid "Torrc Custom Config"
+msgstr "டோர்க் தனிப்பயன் கட்டமைப்பு"
+
+#, java-printf-format
+msgctxt "pref_torrc_summary"
+msgid "EXPERTS ONLY: enter direct torrc config lines"
+msgstr "வல்லுநர்கள் மட்டும்: நேரடி டோர்க் கட்டமைப்பு வரிகளை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "pref_torrc_dialog"
+msgid "Custom Torrc"
+msgstr "தனிப்பயன் டோர்க்"
+
+#, java-printf-format
+msgctxt "kibibyte"
+msgid "KiB"
+msgstr "வினோதமாக"
+
+#, java-printf-format
+msgctxt "mebibyte"
+msgid "MiB"
+msgstr "Mib"
+
+#, java-printf-format
+msgctxt "bridges_updated"
+msgid "Bridges Updated"
+msgstr "பாலங்கள் புதுப்பிக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "restart_orbot_to_use_this_bridge_"
+msgid "Please restart Orbot to enable the changes"
+msgstr "மாற்றங்களை இயக்க ஆர்போட்டை மறுதொடக்கம் செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt ""
+"if_your_mobile_network_actively_blocks_tor_you_can_use_a_tor_bridge_to_access_the_network_another_way_to_get_bridges_is_to_send_an_email_to_bridges_torproject_org_please_note_that_you_must_send_the_email_using_an_address_from_one_of_the_following_email_providers_riseup_gmail_or_yahoo_"
+msgid ""
+"If your mobile network actively blocks Tor, you can use a 'Bridge Server' as"
+" an alternate way in. Select one of the options to configure and test…"
+msgstr ""
+"உங்கள் மொபைல் பிணையம் டாரை தீவிரமாகத் தடுக்கிறது என்றால், நீங்கள் ஒரு "
+"'பிரிட்ச் சேவையகத்தை' மாற்று வழியாகப் பயன்படுத்தலாம். உள்ளமைக்க மற்றும் "
+"சோதிக்க விருப்பங்களில் ஒன்றைத் தேர்ந்தெடுக்கவும்…"
+
+#, java-printf-format
+msgctxt "get_bridges_email"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#, java-printf-format
+msgctxt "get_bridges_email_request"
+msgid "Request Bridges via Email"
+msgstr "மின்னஞ்சல் வழியாக பாலங்களை கோருங்கள்"
+
+#, java-printf-format
+msgctxt "apps_mode"
+msgid "VPN Mode"
+msgstr "VPN பயன்முறை"
+
+#, java-printf-format
+msgctxt "send_email"
+msgid "Send Email"
+msgstr "மின்னஞ்சல் அனுப்புங்கள்"
+
+#, java-printf-format
+msgctxt "vpn_default_world"
+msgid "Global (Auto)"
+msgstr "உலகளாவிய (ஆட்டோ)"
+
+#, java-printf-format
+msgctxt "hidden_services"
+msgid "Onion Services"
+msgstr "Onion சேவைகள்"
+
+#, java-printf-format
+msgctxt "v3_hosted_services"
+msgid "Hosted Onion Services"
+msgstr "புரவலன் செய்யப்பட்ட வெங்காய சேவைகள்"
+
+#, java-printf-format
+msgctxt "v3_client_auth_activity_title"
+msgid "Client Authorization"
+msgstr "கிளையன்ட் ஏற்பு"
+
+#, java-printf-format
+msgctxt "v3_key_hash"
+msgid "x25519 Private Key in Base32"
+msgstr "X25519 BASE32 இல் தனியார் விசை"
+
+#, java-printf-format
+msgctxt "v3_onion"
+msgid ".onion Domain"
+msgstr ". ஒனியன் டொமைன்"
+
+#, java-printf-format
+msgctxt "v3_backup_key"
+msgid "Backup Client Authorization Key"
+msgstr "காப்புப்பிரதி கிளையன்ட் அங்கீகார விசை"
+
+#, java-printf-format
+msgctxt "v3_backup_key_warning"
+msgid "Warning: This could expose your key to other apps"
+msgstr ""
+"எச்சரிக்கை: இது உங்கள் விசையை மற்ற பயன்பாடுகளுக்கு அம்பலப்படுத்தக்கூடும்"
+
+#, java-printf-format
+msgctxt "v3_delete_client_authorization"
+msgid "Delete Client Authorization Key"
+msgstr "கிளையன்ட் அங்கீகார விசையை நீக்கு"
+
+#, java-printf-format
+msgctxt "v3_delete_client_authorization_confirm"
+msgid "Delete Client Authorization"
+msgstr "கிளையன்ட் அங்கீகாரத்தை நீக்கு"
+
+#, java-printf-format
+msgctxt "v3_backup_name_hint"
+msgid "Backup filename…"
+msgstr "காப்பு கோப்பு பெயர்…"
+
+#, java-printf-format
+msgctxt "v3_import_auth_private"
+msgid "Import .auth_private"
+msgstr "இறக்குமதி .auth_private"
+
+#, java-printf-format
+msgctxt "confirm"
+msgid "Confirm"
+msgstr "உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "menu_hidden_services"
+msgid "Onion Services"
+msgstr "Onion சேவைகள்"
+
+#, java-printf-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "local_port"
+msgid "Local Port"
+msgstr "உள்ளக துறைமுகம்"
+
+#, java-printf-format
+msgctxt "onion_port"
+msgid "Onion Port"
+msgstr "வெங்காய துறைமுகம்"
+
+#, java-printf-format
+msgctxt "name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "done"
+msgid "Done!"
+msgstr "முடிந்தது!"
+
+#, java-printf-format
+msgctxt "copy_address_to_clipboard"
+msgid "Copy address to clipboard"
+msgstr "கிளிப்போர்டுக்கு முகவரியை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "backup_service"
+msgid ""
+"Backup Service (Warning: This Could Expose Your Service Configuration to "
+"Other Apps)"
+msgstr ""
+"காப்புப்பிரதி பணி (எச்சரிக்கை: இது உங்கள் பணி உள்ளமைவை மற்ற பயன்பாடுகளுக்கு "
+"வெளிப்படுத்தக்கூடும்)"
+
+#, java-printf-format
+msgctxt "delete_service"
+msgid "Delete Service"
+msgstr "சேவையை நீக்கு"
+
+#, java-printf-format
+msgctxt "backup_saved_at_external_storage"
+msgid "Backup saved at external storage"
+msgstr "வெளிப்புற சேமிப்பகத்தில் காப்புப்பிரதி சேமிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "backup_restored"
+msgid "Backup restored"
+msgstr "காப்புப்பிரதி மீட்டெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "backup_port_exist"
+msgid "Error: An Onion service is already using port %s"
+msgstr "பிழை: ஒரு வெங்காய பணி ஏற்கனவே துறைமுகம் %s ஐப் பயன்படுத்துகிறது"
+
+#, java-printf-format
+msgctxt "restore_backup"
+msgid "Restore Backup"
+msgstr "காப்புப்பிரதியை மீட்டமைக்கவும்"
+
+#, java-printf-format
+msgctxt "create_a_backup_first"
+msgid "Create a backup first"
+msgstr "முதலில் காப்புப்பிரதியை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "start_tor_again_for_finish_the_process"
+msgid "Start Tor again for finish the process"
+msgstr "செயல்முறையை முடிக்க மீண்டும் டோர் தொடங்கவும்"
+
+#, java-printf-format
+msgctxt "confirm_service_deletion"
+msgid "Confirm service deletion"
+msgstr "பணி நீக்குதலை உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "service_type"
+msgid "Service type"
+msgstr "சேவை வகை"
+
+#, java-printf-format
+msgctxt "please_restart_Orbot_to_enable_the_changes"
+msgid "Please restart Orbot to enable the changes"
+msgstr "மாற்றங்களை இயக்க ஆர்போட்டை மறுதொடக்கம் செய்யுங்கள்"
+
+#, ignore-same, java-printf-format
+msgctxt "onion"
+msgid ".onion"
+msgstr ". ஒனியன்"
+
+#, java-printf-format
+msgctxt "share_as_qr"
+msgid "Share as QR"
+msgstr "QR ஆக பகிர்"
+
+#, java-printf-format
+msgctxt "disable"
+msgid "Disable"
+msgstr "முடக்கு"
+
+#, java-printf-format
+msgctxt "enable"
+msgid "Enable"
+msgstr "செயல்படுத்து"
+
+#, java-printf-format
+msgctxt "consider_disable_battery_optimizations"
+msgid "Hosted services running, consider disabling battery optimizations"
+msgstr ""
+"புரவலன் செய்யப்பட்ட சேவைகள் இயங்குகின்றன, பேட்டரி மேம்படுத்தல்களை "
+"முடக்குவதைக் கருத்தில் கொள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "consider_enable_battery_optimizations"
+msgid "No hosted services running, consider enabling battery optimizations"
+msgstr ""
+"புரவலன் செய்யப்பட்ட சேவைகள் எதுவும் இயங்கவில்லை, பேட்டரி மேம்படுத்தல்களை "
+"இயக்குவதைக் கவனியுங்கள்"
+
+#, java-printf-format
+msgctxt "pref_isolate_dest"
+msgid "Isolate destination addresses"
+msgstr "இலக்கு முகவரிகளை தனிமைப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_isolate_dest_summary"
+msgid "Use a different circuit for each destination address"
+msgstr "ஒவ்வொரு இலக்கு முகவரிக்கும் வெவ்வேறு சுற்று பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_isolate_port"
+msgid "Isolate destination ports"
+msgstr "இலக்கு துறைமுகங்களை தனிமைப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_isolate_port_summary"
+msgid "Use a different circuit for each destination port"
+msgstr "ஒவ்வொரு இலக்கு துறைமுகத்திற்கும் வெவ்வேறு சுற்று பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_isolate_protocol"
+msgid "Isolate client protocols"
+msgstr "கிளையன்ட் நெறிமுறைகளை தனிமைப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_isolate_protocol_summary"
+msgid "Use a different circuit for each connecting protocol"
+msgstr "இணைக்கும் ஒவ்வொரு நெறிமுறைக்கும் வெவ்வேறு சுற்று பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_isolate_keep_alive"
+msgid "Keep isolated circuits alive"
+msgstr "தனிமைப்படுத்தப்பட்ட சுற்றுகளை உயிரோடு வைத்திருங்கள்"
+
+#, java-printf-format
+msgctxt "pref_isolate_keep_alive_summary"
+msgid ""
+"Keep isolated circuits alive that have at least one stream with SOCKS "
+"authentication active"
+msgstr ""
+"தனிமைப்படுத்தப்பட்ட சுற்றுகளை உயிருடன் வைத்திருங்கள், அவை சாக்ச் "
+"அங்கீகாரத்துடன் குறைந்தது ஒரு ச்ட்ரீம் கொண்டவை"
+
+#, java-printf-format
+msgctxt "pref_connection_padding"
+msgid "Connection padding"
+msgstr "இணைப்பு திணிப்பு"
+
+#, java-printf-format
+msgctxt "pref_connection_padding_summary"
+msgid ""
+"Always enables connection padding to defend against some forms of traffic "
+"analysis. Default: auto"
+msgstr ""
+"சில வகையான போக்குவரத்து பகுப்பாய்வுகளுக்கு எதிராக பாதுகாக்க எப்போதும் "
+"இணைப்பு திணிப்பை இயக்குகிறது. இயல்புநிலை: ஆட்டோ"
+
+#, java-printf-format
+msgctxt "pref_reduced_connection_padding"
+msgid "Reduced connection padding"
+msgstr "குறைக்கப்பட்ட இணைப்பு திணிப்பு"
+
+#, java-printf-format
+msgctxt "pref_reduced_connection_padding_summary"
+msgid ""
+"Closes relay connections sooner and sends less padding packets to reduce "
+"data and battery usage"
+msgstr ""
+"ரிலே இணைப்புகளை விரைவில் மூடுகிறது மற்றும் தரவு மற்றும் பேட்டரி பயன்பாட்டைக்"
+" குறைக்க குறைந்த திணிப்பு பாக்கெட்டுகளை அனுப்புகிறது"
+
+#, java-printf-format
+msgctxt "pref_circuit_padding"
+msgid "Circuit padding"
+msgstr "சுற்று திணிப்பு"
+
+#, java-printf-format
+msgctxt "pref_circuit_padding_summary"
+msgid ""
+"Enable circuit padding to defend against some forms of traffic analysis"
+msgstr ""
+"சில வகையான போக்குவரத்து பகுப்பாய்விற்கு எதிராக பாதுகாக்க சர்க்யூட் பேடிங்கை "
+"இயக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_reduced_circuit_padding"
+msgid "Reduced circuit padding"
+msgstr "குறைக்கப்பட்ட சர்க்யூட் திணிப்பு"
+
+#, java-printf-format
+msgctxt "pref_reduced_circuit_padding_summary"
+msgid "Use lower overhead padding algorithms to reduce data and battery usage"
+msgstr ""
+"தரவு மற்றும் பேட்டரி பயன்பாட்டைக் குறைக்க குறைந்த மேல்நிலை திணிப்பு "
+"வழிமுறைகளைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_prefer_ipv6"
+msgid "Prefer IPv6 connections"
+msgstr "IPv6 இணைப்புகளை விரும்புங்கள்"
+
+#, java-printf-format
+msgctxt "pref_prefer_ipv6_summary"
+msgid "Tells exits that IPv6 addresses are preferred"
+msgstr "ஐபிவி 6 முகவரிகள் விரும்பப்படுகின்றன என்று வெளியேறுகிறது"
+
+#, java-printf-format
+msgctxt "pref_disable_ipv4"
+msgid "Disable IPv4 connections"
+msgstr "ஐபிவி 4 இணைப்புகளை முடக்கு"
+
+#, java-printf-format
+msgctxt "pref_disable_ipv4_summary"
+msgid "Tells exits not to connect to IPv4 addresses"
+msgstr "ஐபிவி 4 முகவரிகளுடன் இணைக்க வேண்டாம் என்று வெளியேறுகிறது"
+
+#, java-printf-format
+msgctxt "app_shortcuts"
+msgid "Tor-Enabled Apps"
+msgstr "டோர்-இயக்கப்பட்ட பயன்பாடுகள்"
+
+#, java-printf-format
+msgctxt "testing_tor_direct"
+msgid "Testing connection to Tor…"
+msgstr "TOR உடன் இணைப்பு சோதனை…"
+
+#, java-printf-format
+msgctxt "testing_tor_direct_success"
+msgid "Success. Tor connection is good!"
+msgstr "வெற்றி. டோர் இணைப்பு நல்லது!"
+
+#, java-printf-format
+msgctxt "bridge_direct_connect"
+msgid "Connect directly to Tor (Best)"
+msgstr "நேரடியாக TOR உடன் இணைக்கவும் (சிறந்தது)"
+
+#, java-printf-format
+msgctxt "bridge_community"
+msgid "Connect through community servers"
+msgstr "சமூக சேவையகங்கள் மூலம் இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "bridge_cloud"
+msgid "Connect through cloud servers"
+msgstr "முகில் சேவையகங்கள் மூலம் இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "trouble_connecting"
+msgid "Trouble connecting?"
+msgstr "இணைப்பதில் சிக்கலா ?"
+
+#, java-printf-format
+msgctxt "full_device_vpn"
+msgid "Full Device VPN"
+msgstr "முழு சாதனத்திற்க்கான VPN"
+
+#, java-printf-format
+msgctxt "vpn_disabled"
+msgid "VPN Disabled"
+msgstr "VPN முடக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "menu_new_identity"
+msgid "New Identity"
+msgstr "புதிய அடையாளம்"
+
+#, java-printf-format
+msgctxt "user_services"
+msgid "User services"
+msgstr "பயனர் சேவைகள்"
+
+#, java-printf-format
+msgctxt "app_services"
+msgid "App services"
+msgstr "பயன்பாட்டு சேவைகள்"
+
+#, java-printf-format
+msgctxt "refresh_apps"
+msgid "Refresh Apps"
+msgstr "பயன்பாடுகளைப் புதுப்பிக்கவும்"
+
+#.  MoatActivity
+#, java-printf-format
+msgctxt "request_bridges"
+msgid "Request Bridges"
+msgstr "பாலங்கள் கோருங்கள்"
+
+#, java-printf-format
+msgctxt "refresh_captcha"
+msgid "Refresh CAPTCHA"
+msgstr "கேப்ட்சாவை புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "solve_captcha_instruction"
+msgid "Solve the CAPTCHA to request bridges."
+msgstr "பாலங்களை கோர கேப்ட்சாவை தீர்க்கவும்."
+
+#, java-printf-format
+msgctxt "captcha"
+msgid "Captcha"
+msgstr "கேப்ட்சா"
+
+#, java-printf-format
+msgctxt "enter_characters_from_image"
+msgid "Enter text above"
+msgstr "மேலே உரையை உள்ளிடவும்"
+
+#.  BridgeWizardActivity
+#, java-printf-format
+msgctxt "request_bridges_from_torproject"
+msgid "Request Bridges from torproject.org"
+msgstr "Torproject.org இலிருந்து பாலங்களை கோருங்கள்"
+
+#, java-printf-format
+msgctxt "custom_bridges"
+msgid "Custom Bridges"
+msgstr "தனிப்பயன் பாலங்கள்"
+
+#, java-printf-format
+msgctxt "configure_custom_bridges"
+msgid "Configure Custom Bridges"
+msgstr "தனிப்பயன் பாலங்களை உள்ளமைக்கவும்"
+
+#.  CustomBridgesFragment
+#, java-printf-format
+msgctxt "use_custom_bridges"
+msgid "Use Custom Bridges"
+msgstr "தனிப்பயன் பாலங்களைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "in_a_browser"
+msgid "In a browser, visit %s and tap Get Bridges > Just Give Me Bridges!"
+msgstr ""
+"ஒரு உலாவியில், %s ஐப் பார்வையிட்டு, பிரிட்ச்கள் பெறவும்> எனக்கு பாலங்கள் "
+"கொடுங்கள்!"
+
+#, java-printf-format
+msgctxt "paste_bridges"
+msgid "Paste Bridges"
+msgstr "பாலங்களை ஒட்டவும்"
+
+#, java-printf-format
+msgctxt "use_qr_code"
+msgid "Use QR Code"
+msgstr "QR குறியீட்டைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "bridge_snowflake"
+msgid "Connect through other Tor users using Snowflake (Method 1 - Fastly)"
+msgstr ""
+"ச்னோஃப்ளேக்கைப் பயன்படுத்தி பிற டோர் பயனர்கள் மூலம் இணைக்கவும் (முறை 1 - "
+"வேகமாக)"
+
+#, java-printf-format
+msgctxt "bridge_snowflake_amp"
+msgid "Connect through other Tor users using Snowflake (Method 2 - AMP)"
+msgstr ""
+"ச்னோஃப்ளேக்கைப் பயன்படுத்தி பிற டோர் பயனர்கள் மூலம் இணைக்கவும் (முறை 2 - "
+"ஆம்ப்)"
+
+#, java-printf-format
+msgctxt "bridge_snowflake_sqs"
+msgid "Connect through other Tor users using Snowflake (Method 3 - SQS)"
+msgstr ""
+"ச்னோஃப்ளேக்கைப் பயன்படுத்தி பிற டோர் பயனர்கள் மூலம் இணைக்கவும் (முறை 3 - "
+"SQS)"
+
+#, java-printf-format
+msgctxt "snowflake_proxy_msg_title"
+msgid "Show Connection Notification"
+msgstr "இணைப்பு அறிவிப்பைக் காட்டு"
+
+#, java-printf-format
+msgctxt "snowflake_proxy_msg_description"
+msgid "Show a message when you help someone circumvent censorship"
+msgstr "தணிக்கை செய்ய யாராவது உதவும்போது ஒரு செய்தியைக் காட்டுங்கள்"
+
+#.  new UX
+#, java-printf-format
+msgctxt "volunteer_mode"
+msgid "Kindness Mode"
+msgstr "கருணை முறை"
+
+#, java-printf-format
+msgctxt "secure_your_connection_title"
+msgid "Ready to connect"
+msgstr "இணைக்க தயாராக உள்ளது"
+
+#, java-printf-format
+msgctxt "secure_your_connection_subtitle"
+msgid ""
+"Hide apps from network monitoring and get access when they are blocked."
+msgstr ""
+"பிணைய கண்காணிப்பிலிருந்து பயன்பாடுகளை மறைத்து, அவை தடுக்கப்படும்போது "
+"அணுகலைப் பெறுங்கள்."
+
+#, java-printf-format
+msgctxt "connected_title"
+msgid "Connected"
+msgstr "இணைக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "btn_start_vpn"
+msgid "Start VPN"
+msgstr "VPN ஐத் தொடங்குங்கள்"
+
+#, java-printf-format
+msgctxt "btn_configure"
+msgid "Choose How To Connect"
+msgstr "எவ்வாறு இணைப்பது என்பதைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "configure_header"
+msgid "Configure your Tor Connection"
+msgstr "உங்கள் TOR இணைப்பை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "volunteer_mode_subtitle"
+msgid "Help others connect"
+msgstr "மற்றவர்கள் இணைக்க உதவுங்கள்"
+
+#, java-printf-format
+msgctxt "trying_to_connect_title"
+msgid "Connecting…"
+msgstr "இணைக்கிறது…"
+
+#, java-printf-format
+msgctxt "btn_choose_apps"
+msgid "Choose apps"
+msgstr "பயன்பாடுகளைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "btn_change_exit"
+msgid "Change exit"
+msgstr "வெளியேறவும்"
+
+#, java-printf-format
+msgctxt "btn_refresh"
+msgid "Refresh"
+msgstr "புதுப்பி"
+
+#, java-printf-format
+msgctxt "btn_tor_off"
+msgid "Turn Tor off"
+msgstr "அணைக்கவும்"
+
+#, java-printf-format
+msgctxt "no_thx"
+msgid "No Thanks"
+msgstr "நன்றி இல்லை"
+
+#, java-printf-format
+msgctxt "menu_header_features"
+msgid "Features"
+msgstr "அம்சங்கள்"
+
+#, java-printf-format
+msgctxt "captcha_title"
+msgid "Let us know you're human"
+msgstr "நீங்கள் மனிதர் என்பதை எங்களுக்குத் தெரியப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "menu_tor_connection"
+msgid "Tor Connection"
+msgstr "TOR இணைப்பு"
+
+#, java-printf-format
+msgctxt "menu_help_others"
+msgid "Help Others"
+msgstr "மற்றவர்களுக்கு உதவுங்கள்"
+
+#, java-printf-format
+msgctxt "menu_app_settings"
+msgid "App Settings"
+msgstr "பயன்பாட்டு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "menu_faq"
+msgid "FAQ"
+msgstr "கேள்விகள்"
+
+#, java-printf-format
+msgctxt "menu_header_learn"
+msgid "Learn More"
+msgstr "மேலும் அறிய"
+
+#, java-printf-format
+msgctxt "btn_use_custom_bridge"
+msgid "Use Custom Bridge"
+msgstr "தனிப்பயன் பாலத்தைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "msg_taking_too_long"
+msgid "This seems to be taking too long"
+msgstr "இது அதிக நேரம் எடுக்கும் என்று தெரிகிறது"
+
+#, java-printf-format
+msgctxt "msg_try_something_else"
+msgid "Try something else"
+msgstr "வேறு ஏதாவது முயற்சிக்கவும்"
+
+#, java-printf-format
+msgctxt "drawer_open"
+msgid "Open"
+msgstr "திற"
+
+#, java-printf-format
+msgctxt "drawer_close"
+msgid "Close"
+msgstr "மூடுங்கள்"
+
+#, java-printf-format
+msgctxt "proxy_ports"
+msgid "Proxy Ports"
+msgstr "பதிலாள் துறைமுகங்கள்"
+
+#, java-printf-format
+msgctxt "globe"
+msgid "🌎"
+msgstr "🌎"
+
+#, java-printf-format
+msgctxt "ports_not_set"
+msgid "Ports Not Set"
+msgstr "துறைமுகங்கள் அமைக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "volunteer_mode_title"
+msgid ""
+"Help others\n"
+"connect to Tor"
+msgstr ""
+"மற்றவர்களுக்கு உதவுங்கள்\n"
+" TOR உடன் இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "volunteer_mode_label"
+msgid "Kindness Mode"
+msgstr "கருணை முறை"
+
+#, java-printf-format
+msgctxt "volunteer_mode_weekly_label"
+msgid "Weekly Total"
+msgstr "வாராந்திர மொத்தம்"
+
+#, java-printf-format
+msgctxt "volunteer_mode_alltime_label"
+msgid "All Time Total"
+msgstr "எல்லா நேரமும் மொத்தம்"
+
+#, java-printf-format
+msgctxt "volunteer_mode_subtitle_desc"
+msgid ""
+"Kindness mode allows your device to be a bridge for others. It helps people use Tor in places where it is blocked.\n"
+"\n"
+"• It will not drain your battery\n"
+"• It will not slow down your internet\n"
+"• It can run only over wifi\n"
+"• It can be turned off anytime"
+msgstr ""
+"கருணை பயன்முறை உங்கள் சாதனம் மற்றவர்களுக்கு ஒரு பாலமாக இருக்க அனுமதிக்கிறது. இது தடுக்கப்பட்ட இடங்களில் டோர் பயன்படுத்த மக்களுக்கு உதவுகிறது.\n"
+"\n"
+" • இது உங்கள் பேட்டரியை வடிகட்டாது\n"
+" • இது உங்கள் இணையத்தை மெதுவாக்காது\n"
+" • இது வைஃபை மீது மட்டுமே இயங்க முடியும்\n"
+" • இதை எப்போது வேண்டுமானாலும் அணைக்கலாம்"
+
+#, java-printf-format
+msgctxt "smart_connect"
+msgid "Smart Connect (default)"
+msgstr "அறிவுள்ள கனெக்ட் (இயல்புநிலை)"
+
+#, java-printf-format
+msgctxt "smart_connect_subtitle"
+msgid ""
+"Orbot tries connecting to Tor through any way available: Direct, Snowflake, "
+"Bridge."
+msgstr ""
+"ஆர்போட் எந்த வகையிலும் TOR உடன் இணைக்க முயற்சிக்கிறது: நேரடி, ச்னோஃப்ளேக், "
+"பாலம்."
+
+#, java-printf-format
+msgctxt "direct_connect"
+msgid "Direct Connection to Tor"
+msgstr "TOR உடன் நேரடி இணைப்பு"
+
+#, java-printf-format
+msgctxt "direct_connect_subtitle"
+msgid "The best way to connect to Tor. Use if Tor is not blocked."
+msgstr "TOR உடன் இணைக்க சிறந்த வழி. டோர் தடுக்கப்படாவிட்டால் பயன்படுத்தவும்."
+
+#, java-printf-format
+msgctxt "snowflake"
+msgid "Snowflake"
+msgstr "ச்னோஃப்ளேக்"
+
+#, ignore-same, java-printf-format
+msgctxt "snowflake_amp"
+msgid "Snowflake AMP"
+msgstr "ச்னோஃப்ளேக் ஆம்ப்"
+
+#, java-printf-format
+msgctxt "snowflake_sqs"
+msgid "Snowflake SQS"
+msgstr "ச்னோஃப்ளேக் சதுர"
+
+#, java-printf-format
+msgctxt "snowflake_subtitle"
+msgid "Connects through Tor volunteers. Gets around some Tor blocking."
+msgstr ""
+"டோர் தன்னார்வலர்கள் மூலம் இணைகிறது. தடுப்பதற்காக யாரையாவது சுற்றி வருக."
+
+#, java-printf-format
+msgctxt "get_a_bridge"
+msgid "Bridge from Tor (Obfs4)"
+msgstr "TOR (OBFS4) இலிருந்து பாலம்"
+
+#, java-printf-format
+msgctxt "get_a_bridge_subtitle"
+msgid "Cloaks your traffic. Gets around some Tor blocking."
+msgstr "உங்கள் போக்குவரத்தை மூடுகிறது. சில டோர் தடுப்புகளைச் சுற்றி வருகிறது."
+
+#, java-printf-format
+msgctxt "custom_bridge"
+msgid "Custom Bridge"
+msgstr "தனிப்பயன் பாலம்"
+
+#, java-printf-format
+msgctxt "custom_bridge_subtitle"
+msgid ""
+"Most likely to keep you connected if Tor is severely blocked. Requires a "
+"bridge address from someone you trust."
+msgstr ""
+"டோர் கடுமையாகத் தடுக்கப்பட்டால் உங்களை இணைத்துக் கொள்ளலாம். நீங்கள் நம்பும் "
+"ஒருவரிடமிருந்து பாலம் முகவரி தேவை."
+
+#, java-printf-format
+msgctxt "connect"
+msgid "Connect"
+msgstr "இணைக்க"
+
+#, java-printf-format
+msgctxt "next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, java-printf-format
+msgctxt "solve_captcha"
+msgid "Solve Captcha"
+msgstr "கேப்ட்சாவை தீர்க்கவும்"
+
+#, java-printf-format
+msgctxt "incorrect_solution"
+msgid "Incorrect Solution"
+msgstr "தவறான தீர்வு"
+
+#, java-printf-format
+msgctxt "bridges_obtained_connecting"
+msgid "Bridges obtained! Connecting to tor…"
+msgstr "பெறப்பட்ட பாலங்கள்! டோருடன் இணைகிறது…"
+
+#, java-printf-format
+msgctxt "custom_bridge_description"
+msgid ""
+"A custom bridge is provided by someone you know. Ask within your trusted "
+"networks and organizations to see if anyone is hosting one."
+msgstr ""
+"உங்களுக்குத் தெரிந்த ஒருவரால் தனிப்பயன் பாலம் வழங்கப்படுகிறது. உங்கள் "
+"நம்பகமான நெட்வொர்க்குகள் மற்றும் அமைப்புகளுக்குள் யாராவது ஒன்றை புரவலன் "
+"செய்கிறார்களா என்று கேளுங்கள்."
+
+#, java-printf-format
+msgctxt "having_trouble"
+msgid "Having trouble"
+msgstr "சிக்கல் உள்ளது"
+
+#, java-printf-format
+msgctxt "having_trouble_subtitle"
+msgid "We can try a Tor bridge next but will need your help"
+msgstr ""
+"நாங்கள் அடுத்து ஒரு டோர் பாலத்தை முயற்சி செய்யலாம், ஆனால் உங்கள் உதவி "
+"தேவைப்படும்"
+
+#, java-printf-format
+msgctxt "power_user_mode"
+msgid "Power User Mode"
+msgstr "பவர் பயனர் பயன்முறை"
+
+#, java-printf-format
+msgctxt "power_user_description"
+msgid ""
+"For users familiar with Tor. Allows you to start Orbot without the VPN "
+"setting and shows open SOCKS and HTTP ports"
+msgstr ""
+"டோர் நன்கு அறிந்த பயனர்களுக்கு. VPN அமைப்பு இல்லாமல் ஆர்போட் தொடங்க உங்களை "
+"அனுமதிக்கிறது மற்றும் திறந்த சாக்ச் மற்றும் HTTP போர்ட்களைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "action_activate"
+msgid "Activate"
+msgstr "செயல்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "volunteer_status_title"
+msgid ""
+"Today is better\n"
+"because of you."
+msgstr ""
+"இன்று சிறந்தது\n"
+" நீங்கள் காரணமாக."
+
+#, java-printf-format
+msgctxt "title_choose_apps"
+msgid "Choose Apps"
+msgstr "செயலிகளைத் தேர்வுசெய்"
+
+#, java-printf-format
+msgctxt "app_suggested_subtitle"
+msgid "Orbot works best with messaging and social media apps."
+msgstr ""
+"செய்தி மற்றும் சமூக ஊடக பயன்பாடுகளுடன் ஆர்போட் சிறப்பாக செயல்படுகிறது."
+
+#, java-printf-format
+msgctxt "apps_suggested_title"
+msgid "Suggested Apps"
+msgstr "பரிந்துரைக்கப்பட்ட பயன்பாடுகள்"
+
+#, java-printf-format
+msgctxt "apps_other_apps"
+msgid "Other Apps"
+msgstr "பிற பயன்பாடுகள்"
+
+#, java-printf-format
+msgctxt "hide_apps"
+msgid ""
+"Hide apps from network monitoring and get access when they are blocked."
+msgstr ""
+"பிணைய கண்காணிப்பிலிருந்து பயன்பாடுகளை மறைத்து, அவை தடுக்கப்படும்போது "
+"அணுகலைப் பெறுங்கள்."
+
+#, java-printf-format
+msgctxt "btn_copy_log"
+msgid "Copy Log"
+msgstr "நகல் பதிவு"
+
+#, java-printf-format
+msgctxt "log_copied"
+msgid "Log Copied"
+msgstr "பதிவு நகலெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "not_sure"
+msgid "Not sure?"
+msgstr "நிச்சயமாக இல்லையா?"
+
+#, java-printf-format
+msgctxt "ask_tor"
+msgid "Ask Tor"
+msgstr "டோர் கேளுங்கள்"
+
+#, java-printf-format
+msgctxt "many_ways"
+msgid ""
+"There are many ways to reach Tor. Some may work better than others for you."
+msgstr ""
+"TOR ஐ அடைய பல வழிகள் உள்ளன. சிலர் உங்களுக்காக மற்றவர்களை விட சிறப்பாக "
+"செயல்படக்கூடும்."
+
+#, java-printf-format
+msgctxt "action_use"
+msgid "Use"
+msgstr "பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "asking"
+msgid "ASKING…"
+msgstr "கேட்கிறது…"
+
+#, java-printf-format
+msgctxt "no_internet_title"
+msgid "Connect to internet"
+msgstr "இணையத்துடன் இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "no_internet_subtitle"
+msgid "You need an internet connection to use Orbot."
+msgstr "ஆர்போட்டைப் பயன்படுத்த உங்களுக்கு இணைய இணைப்பு தேவை."
+
+#. Adjust when to run Kindness mode: Only when charging, or only on wifi
+#, java-printf-format
+msgctxt "kindness_adjust_title"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "kindness_config_detail"
+msgid ""
+"Configure how and when your device can act as a Snowflake proxy for other "
+"Tor users."
+msgstr ""
+"உங்கள் சாதனம் மற்ற டோர் பயனர்களுக்கான ச்னோஃப்ளேக் ப்ராக்சியாக எவ்வாறு, "
+"எப்போது செயல்பட முடியும் என்பதை உள்ளமைக்கவும்."
+
+#, java-printf-format
+msgctxt "menu_kindness"
+msgid "Kindness"
+msgstr "கருணை"
+
+#, java-printf-format
+msgctxt "menu_more"
+msgid "More"
+msgstr "மேலும்"
+
+#, java-printf-format
+msgctxt "option_only_on_wifi"
+msgid "Only on Wifi"
+msgstr "வைஃபை மட்டுமே"
+
+#, java-printf-format
+msgctxt "option_only_when_charging"
+msgid "Only when charging"
+msgstr "கட்டணம் வசூலிக்கும்போது மட்டுமே"
+
+#, java-printf-format
+msgctxt "setting_padding"
+msgid "Padding"
+msgstr "திணிப்பு"
+
+#, java-printf-format
+msgctxt "setting_debug"
+msgid "Debug"
+msgstr "வழுநீக்கு"
+
+#, java-printf-format
+msgctxt "connection_direct"
+msgid "Direct"
+msgstr "நேரடி"
+
+#, ignore-same, java-printf-format
+msgctxt "connection_snowflake"
+msgid "Snowflake"
+msgstr "ச்னோஃப்ளேக்"
+
+#, java-printf-format
+msgctxt "connection_custom"
+msgid "Custom"
+msgstr "விருப்ப"
+
+#, java-printf-format
+msgctxt "pref_flag_secure_summary"
+msgid "Prevent other apps from taking screenshots of Orbot"
+msgstr "மற்ற பயன்பாடுகள் ஆர்போட்டின் திரை சாட்களை எடுப்பதைத் தடுக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_flag_secure_title"
+msgid "Screen Security"
+msgstr "திரை பாதுகாப்பு"
+
+#, java-printf-format
+msgctxt "root_warning"
+msgid ""
+"Orbot has detected your device is rooted, which can cause security issues."
+msgstr ""
+"ஆர்போட் உங்கள் சாதனம் வேரூன்றியிருப்பதைக் கண்டறிந்துள்ளது, இது பாதுகாப்பு "
+"சிக்கல்களை ஏற்படுத்தும்."
+
+#, java-printf-format
+msgctxt "pref_detect_root_summary"
+msgid "Warn on startup if root permissions are enabled on this device"
+msgstr ""
+"இந்த சாதனத்தில் ரூட் அனுமதிகள் இயக்கப்பட்டிருந்தால் தொடக்கத்தைப் பற்றி "
+"எச்சரிக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_detect_root_title"
+msgid "Root Detection"
+msgstr "ரூட் கண்டறிதல்"
+
+#, java-printf-format
+msgctxt "pref_enable_rotation_summary"
+msgid "Enable device rotation (requires restart)"
+msgstr "சாதன சுழற்சியை இயக்கவும் (மறுதொடக்கம் தேவை)"
+
+#, java-printf-format
+msgctxt "pref_enable_rotation_title"
+msgid "Device Rotation"
+msgstr "சாதன சுழற்சி"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_night_watch"
+msgid "Night Watch"
+msgstr "இரவு கடிகாரம்"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_assistant"
+msgid "Assistant"
+msgstr "உதவியாளர்"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_paint"
+msgid "Paint"
+msgstr "வண்ணப்பூச்சு"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_tetras"
+msgid "Tetras"
+msgstr "டெட்ராச்"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_todo"
+msgid "To-Do"
+msgstr "செய்ய வேண்டியவை"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_fit_grit"
+msgid "FitGrit"
+msgstr "Fitgrit"
+
+#, java-printf-format
+msgctxt "app_icon_chooser_label_birdie"
+msgid "Birdie"
+msgstr "பறவை"
+
+#, java-printf-format
+msgctxt "camo_dialog_title"
+msgid "Camouflage as %1$s"
+msgstr "உருமறைப்பு %1$s"
+
+#, java-printf-format
+msgctxt "camo_dialog_enable_confirm_msg"
+msgid ""
+"Orbot will camouflage itself as the app %1$s. This will hide all notification details about Tor and change how the appearance of Orbot on your home screen.\n"
+"\n"
+"Camouflaging as %2$s will restart Orbot."
+msgstr ""
+"ஆர்போட் தன்னை %1$s ஆக மறைக்கும். இது TOR பற்றிய அனைத்து அறிவிப்பு விவரங்களையும் மறைத்து, உங்கள் முகப்புத் திரையில் ஆர்போட்டின் தோற்றத்தை எவ்வாறு மாற்றும். \n"
+"\n"
+"%2$s என உருமறைப்பது ஆர்போட்டை மறுதொடக்கம் செய்யும்."
+
+#, java-printf-format
+msgctxt "camo_dialog_disable_confirm_msg"
+msgid ""
+"Orbot will resume displaying notification information about your Tor connection and will appear as normal on your home screen.\n"
+"\n"
+"Disabling Camouflage Mode will restart Orbot."
+msgstr ""
+"ஆர்போட் உங்கள் TOR இணைப்பு பற்றிய அறிவிப்பு தகவல்களைக் காண்பிக்கும் மற்றும் உங்கள் முகப்புத் திரையில் இயல்பானதாகத் தோன்றும். \n"
+"\n"
+"உருமறைப்பு பயன்முறையை முடக்குவது சுற்றுப்பாதையை மறுதொடக்கம் செய்யும்."
+
+#, java-printf-format
+msgctxt "camo_dialog_disable_title"
+msgid "Disable Camouflage Mode"
+msgstr "உருமறைப்பு பயன்முறையை முடக்கு"
+
+#, java-printf-format
+msgctxt "pref_camo_mode_title"
+msgid "Camouflage Mode"
+msgstr "உருமறைப்பு முறை"
+
+#, java-printf-format
+msgctxt "pref_camo_mode_description"
+msgid ""
+"Disguise how Orbot's icon, label and notification text will appear on your "
+"device"
+msgstr ""
+"உங்கள் சாதனத்தில் ஆர்போட்டின் படவுரு, சிட்டை மற்றும் அறிவிப்பு உரை எவ்வாறு "
+"தோன்றும் என்பதை மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "power_user_mode_permission"
+msgid "Alarms & Reminders Permission Needed for Power User Mode"
+msgstr "பவர் பயனர் பயன்முறைக்கு அலாரங்கள் மற்றும் நினைவூட்டல் இசைவு தேவை"
+
+#, java-printf-format
+msgctxt "power_user_mode_permission_msg"
+msgid ""
+"Please allow Orbot to set alarms and reminders in order to use power user "
+"mode. This won't actually set any alarms on your device. This permission is "
+"needed to have the system keep OrbotService running when Orbot is not being "
+"used as a system-wide VPN."
+msgstr ""
+"ஆற்றல் பயனர் பயன்முறையைப் பயன்படுத்த அலாரங்கள் மற்றும் நினைவூட்டல்களை அமைக்க"
+" ஆர்போட்டை அனுமதிக்கவும். இது உண்மையில் உங்கள் சாதனத்தில் எந்த அலாரங்களையும்"
+" அமைக்காது. கணினி அளவிலான VPN ஆக ஆர்போட் பயன்படுத்தப்படாதபோது, கணினி "
+"ஆர்போட்சர்வீசை இயக்குவதற்கு இந்த இசைவு தேவை."
+
+#, java-printf-format
+msgctxt "pref_require_password"
+msgid "Orbot Authentication"
+msgstr "ஆர்போட் ஏற்பு"
+
+#, java-printf-format
+msgctxt "pref_require_password_description"
+msgid ""
+"Prevent access to Orbot until you authenticate by entering your device "
+"password or fingerprint. This can be combined with Camouflage Mode to help "
+"hide that Orbot is installed on your device"
+msgstr ""
+"உங்கள் சாதன கடவுச்சொல் அல்லது கைரேகையை உள்ளிடுவதன் மூலம் நீங்கள் "
+"அங்கீகரிக்கும் வரை ஆர்போட் அணுகலைத் தடுக்கவும். உங்கள் சாதனத்தில் ஆர்போட் "
+"நிறுவப்பட்டுள்ளது என்பதை மறைக்க உதவும் உருமறைப்பு பயன்முறையுடன் இதை "
+"இணைக்கலாம்"
+
+#, java-printf-format
+msgctxt "error_no_password_set"
+msgid "Please secure your device in order to use Orbot Authentication"
+msgstr "ஆர்போட் அங்கீகாரத்தைப் பயன்படுத்த உங்கள் சாதனத்தைப் பாதுகாக்கவும்"
+
+#, java-printf-format
+msgctxt "device_lock_unsupported"
+msgid "Orbot Authentication is not supported on your device"
+msgstr "உங்கள் சாதனத்தில் ஆர்போட் ஏற்பு ஆதரிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "device_lock_security_update_needed"
+msgid ""
+"You must download Android security updates for your device in order to use "
+"Orbot Authentication"
+msgstr ""
+"ஆர்போட் அங்கீகாரத்தைப் பயன்படுத்த உங்கள் சாதனத்திற்கான ஆண்ட்ராய்டு "
+"பாதுகாப்பு புதுப்பிப்புகளை நீங்கள் பதிவிறக்கம் செய்ய வேண்டும்"
+
+#, java-printf-format
+msgctxt "invalid_bridge_format"
+msgid "Invalid bridge format"
+msgstr "தவறான பாலம் வடிவம்"
+
+#, java-printf-format
+msgctxt "error_asking_tor_for_bridges"
+msgid "Error asking Tor how to connect"
+msgstr "எவ்வாறு இணைப்பது என்று டோர் கேட்பது"
+
+#, java-printf-format
+msgctxt "unlock_app_msg"
+msgid "Please unlock your device in order to use %s"
+msgstr "%s ஐப் பயன்படுத்த உங்கள் சாதனத்தைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_password_only_no_biometric"
+msgid "Disallow Biometrics for Orbot Authentication"
+msgstr "ஆர்போட் அங்கீகாரத்திற்கான பயோமெட்ரிக்சை அனுமதிக்காதீர்கள்"
+
+#, java-printf-format
+msgctxt "pref_password_only_no_biometric_description"
+msgid ""
+"This forces Orbot Authentication to only require your device's password even"
+" if biometric authentication, such as fingerprint or face unlock, are "
+"configured on your device."
+msgstr ""
+"கைரேகை அல்லது முகம் திறத்தல் போன்ற பயோமெட்ரிக் ஏற்பு உங்கள் சாதனத்தில் "
+"கட்டமைக்கப்பட்டிருந்தாலும் கூட, உங்கள் சாதனத்தின் கடவுச்சொல்லை மட்டுமே "
+"தேவைப்படும் ஆர்போட் அங்கீகாரத்தை இந்த கட்டாயப்படுத்துகிறது."

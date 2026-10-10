@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenTeacher 3.2\n"
+"Report-Msgid-Bugs-To: openteachermaintainers@lists.launchpad.net\n"
+"POT-Creation-Date: 2013-06-27 15:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gui.py:423
+msgid "Open from file"
+msgstr "கோப்பிலிருந்து திறந்திருக்கும்"
+
+#: ui.py:51
+msgid "Enter list"
+msgstr "பட்டியலை உள்ளிடவும்"
+
+#: ui.py:52
+msgid "Teach me!"
+msgstr "எனக்கு கற்பி!"
+
+#: ui.py:53
+msgid "Show results"
+msgstr "முடிவுகளை காட்டு"
+
+#: ui.py:272
+msgid "&File"
+msgstr "கோப்பு (&f)"
+
+#: ui.py:273
+msgid "&New"
+msgstr "& புதியது"
+
+#: ui.py:274
+msgid "&Open"
+msgstr "& திறந்த"
+
+#: ui.py:275
+msgid "Open &into current list"
+msgstr "திறந்த & தற்போதைய பட்டியலில்"
+
+#: ui.py:276
+msgid "&Save"
+msgstr "சேமி (&s)"
+
+#: ui.py:277
+msgid "Save &As"
+msgstr "சேமிக்கவும்"
+
+#: ui.py:278
+msgid "&Print"
+msgstr "& அச்சு"
+
+#: ui.py:279
+msgid "&Quit"
+msgstr "&விட்டுவிட"
+
+#: ui.py:281
+msgid "&Edit"
+msgstr "திருத்து (&e)"
+
+#: ui.py:282
+msgid "&Reverse list"
+msgstr "& தலைகீழ் பட்டியல்"
+
+#: ui.py:283
+msgid "&Settings"
+msgstr "&அமைப்புகள்"
+
+#: ui.py:285
+msgid "&View"
+msgstr "காண்க (&v)"
+
+#: ui.py:286
+msgid "Fullscreen"
+msgstr "முழு திரை"
+
+#: ui.py:288
+msgid "&Help"
+msgstr "உதவி (&h)"
+
+#: ui.py:289
+msgid "&Documentation"
+msgstr "ஆவணங்கள் (&D)"
+
+#: ui.py:290
+msgid "&About"
+msgstr "பற்றி (&A)"
+
+#: ui.py:292
+msgid "Toolbar"
+msgstr "கருவிப்பட்டி"

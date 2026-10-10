@@ -1,0 +1,193 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Stooa)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-05 18:42+0200\n"
+"PO-Revision-Date: 2025-03-06 05:57+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/stooa/frontend-common/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, ignore-xml-tags, safe-html
+msgctxt "signin"
+msgid "Log in"
+msgstr "புகுபதிகை"
+
+#, ignore-xml-tags, safe-html
+msgctxt "futureFishbowlList"
+msgid "Scheduled fishbowls"
+msgstr "திட்டமிடப்பட்ட ஃபிச்போல்ச்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "finishedFishbowlList"
+msgid "Finished fishbowls"
+msgstr "ஃபிச்போல்ச் முடிந்தது"
+
+#, ignore-xml-tags, safe-html
+msgctxt "signout"
+msgid "Log out"
+msgstr "விடுபதிகை"
+
+#, ignore-xml-tags, safe-html
+msgctxt "register"
+msgid "Register for free"
+msgstr "இலவசமாக பதிவு செய்யுங்கள்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "cta"
+msgid "Create a discussion"
+msgstr "ஒரு விவாதத்தை உருவாக்கவும்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "scheduleFishbowl"
+msgid "Schedule a fishbowl"
+msgstr "ஒரு ஃபிச்போல் திட்டமிடவும்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "hostFishbowlNow"
+msgid "Host a fishbowl now"
+msgstr "இப்போது ஒரு ஃபிச்போல் புரவலன் செய்யுங்கள்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "editProfile"
+msgid "Edit profile"
+msgstr "சுயவிவரத்தைத் திருத்து"
+
+#, ignore-xml-tags, safe-html
+msgctxt "changePassword"
+msgid "Change password"
+msgstr "கடவுச்சொல்லை மாற்றவும்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "goHome"
+msgid "Go to Home page"
+msgstr "முகப்பு பக்கத்திற்குச் செல்லுங்கள்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "privacyPolicy"
+msgid "Privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, ignore-xml-tags, safe-html
+msgctxt "cookiesPolicy"
+msgid "Cookies policy"
+msgstr "குக்கீகள் கொள்கை"
+
+#, ignore-xml-tags, safe-html
+msgctxt "copyright"
+msgid "Stooa © %year%. All rights reserved"
+msgstr "Stooa © %ஆண்டு %. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை"
+
+#, ignore-xml-tags, safe-html
+msgctxt "og-title"
+msgid "Fluid and participative online discussions"
+msgstr "திரவ மற்றும் பங்கேற்பு நிகழ்நிலை விவாதங்கள்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "og-description"
+msgid ""
+"Stooa is an online platform that allows fluid and participatory "
+"conversations for large groups based on the fishbowl method."
+msgstr ""
+"STOOA என்பது ஒரு நிகழ்நிலை தளமாகும், இது ஃபிச்போல் முறையின் அடிப்படையில் "
+"பெரிய குழுக்களுக்கான திரவம் மற்றும் பங்கேற்பு உரையாடல்களை அனுமதிக்கிறது."
+
+#, ignore-xml-tags, safe-html
+msgctxt "languages.en"
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "languages.es"
+msgid "Spanish"
+msgstr "ச்பானிச்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "languages.ca"
+msgid "Catalan"
+msgstr "கற்றலான்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "languages.fr"
+msgid "French"
+msgstr "பிரஞ்சு"
+
+#, ignore-xml-tags, safe-html
+msgctxt "languages.id"
+msgid "Indonesian"
+msgstr "இந்தோனேசிய"
+
+#, ignore-xml-tags, safe-html
+msgctxt "languages.cs"
+msgid "Czech"
+msgstr "செக்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "roadmap"
+msgid "Roadmap"
+msgstr "பாதை வரைபடம்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "documentation"
+msgid "Documentation"
+msgstr "ஆவணப்படுத்துதல்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "conductCode"
+msgid "Code of Conduct"
+msgstr "நடத்தை விதிமுறை"
+
+#, ignore-multiple-failures, ignore-same, ignore-xml-tags, safe-html
+msgctxt "githubIssues"
+msgid "Github Issues"
+msgstr "அறிவிலிமையம் சிக்கல்கள்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "help"
+msgid "Help"
+msgstr "உதவி"
+
+#, ignore-xml-tags, safe-html
+msgctxt "legal"
+msgid "Legal"
+msgstr "சட்டரீதியான"
+
+#, ignore-xml-tags, safe-html
+msgctxt "copyInvitation"
+msgid "Copy invitation"
+msgstr "அழைப்பை நகலெடுக்கவும்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "successCopiedInvitation"
+msgid "Invitation copied"
+msgstr "அழைப்பு நகலெடுக்கப்பட்டது"
+
+#, ignore-xml-tags, safe-html
+msgctxt "goToFinishedFishbowlsTitle"
+msgid ""
+"Go to the finished fishbowls section to see the details and feedback from "
+"the attendees."
+msgstr ""
+"பங்கேற்பாளர்களிடமிருந்து விவரங்கள் மற்றும் பின்னூட்டங்களைக் காண "
+"முடிக்கப்பட்ட ஃபிச்போல்ச் பிரிவுக்குச் செல்லுங்கள்."
+
+#, ignore-xml-tags, safe-html
+msgctxt "goToFinishedFishbowls"
+msgid "Go to your past fishbowls"
+msgstr "உங்கள் கடந்த ஃபிச்போல்சுக்குச் செல்லுங்கள்"
+
+#, ignore-xml-tags, safe-html
+msgctxt "blog"
+msgid "Blog"
+msgstr "வலைப்பதிவு"

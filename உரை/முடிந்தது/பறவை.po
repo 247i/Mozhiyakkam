@@ -1,0 +1,362 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: பறவை_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "albatross"
+msgstr "அண்டரண்டப்பறவை"
+
+msgid "ashy crowned sparrow lark"
+msgstr "சாம்பல் தலை வானம்பாடி"
+
+msgid "ashy prinia"
+msgstr "சாம்பல் கதிர்குருவி"
+
+msgid "asian paradise flycatcher"
+msgstr "அரசவால் ஈப்பிடிப்பான்"
+
+msgid "asian white-backed vulture"
+msgstr "மாடுபிடுங்கி"
+
+msgid "baya weaver"
+msgstr "தூக்கனாங்குருவி"
+
+msgid "bird"
+msgstr "பறவை"
+
+msgid "black vulture"
+msgstr "மலைப்போர்வை"
+
+msgid "black-bellied tern"
+msgstr "கருப்பு வயிற்று ஆலா"
+
+msgid "blue-rock pigeon"
+msgstr "மாடப் புறா"
+
+msgid "blyth's reed warbler"
+msgstr "பிளித் நாணல் கதிர்குருவி"
+
+msgid "brown shrike"
+msgstr "பழுப்புக் கீச்சான்"
+
+msgid "button quail"
+msgstr "கருங்காடை"
+
+msgid "cattle egret"
+msgstr "உண்ணிக்கொக்கு"
+
+msgid "chough"
+msgstr "செவ்வலகி"
+
+msgid "citrine wagtail"
+msgstr "மஞ்சள் வாலாட்டி"
+
+msgid "coot (common)"
+msgstr "நாமக் கோழிம், கரண்டம்"
+
+msgid "coppersmith barbet"
+msgstr "செம்மார்புக் கூக்குருவான்"
+
+msgid "curlew"
+msgstr "கோட்டான்"
+
+msgid "darter"
+msgstr "நெடுங்கிளாத்தி"
+
+msgid "drongo"
+msgstr "கரிச்சான்"
+
+msgid "eastern skylark"
+msgstr "சின்ன வானம்பாடி"
+
+msgid "egyptian vulture"
+msgstr "பாப்பாத்திக் கழுகு"
+
+msgid "eurasian golden oriole"
+msgstr "மாங்குயில்"
+
+msgid "eurasian spoonbill"
+msgstr "கரண்டிவாயன்"
+
+msgid "fishing eagle"
+msgstr "விடை ஆளி"
+
+msgid "forest wagtail"
+msgstr "கொடிக்கால் வாலாட்டி"
+
+msgid "gadwall"
+msgstr "கருவால் வாத்து"
+
+msgid "gargany"
+msgstr "நீலச்சிறகு வாத்து"
+
+msgid "glossy ibis"
+msgstr "அறிவாள் மூக்கன்"
+
+msgid "goldfinch"
+msgstr "பொன்பாடி"
+
+msgid "great cormorant"
+msgstr "பெரிய நெட்டைக்காலி"
+
+msgid "greenish leaf warbler"
+msgstr "பச்சைக் கதிர்குருவி"
+
+msgid "grey headed fishing eagle"
+msgstr "விட ஆலா"
+
+msgid "grey heron"
+msgstr "சாம்பல் நாரை"
+
+msgid "grey pelican"
+msgstr "சாம்பல் கூழைக்கடா/கூழைக்கிடா"
+
+msgid "grey wagtail"
+msgstr "சாம்பல் வாலாட்டி"
+
+msgid "harrier"
+msgstr "பூனைப்பருந்து"
+
+msgid "hawk"
+msgstr "பாறு"
+
+msgid "hoatzin"
+msgstr "வெடிற்போத்து"
+
+msgid "hoopoe"
+msgstr "கொண்டலாத்தி"
+
+msgid "hornbill"
+msgstr "இருவாய்க்குருவி, இருவாய்ச்சி, இருவாயன்"
+
+msgid "hummingbird"
+msgstr "இமிரிச்சிட்டு, ரீங்காரப்பறவை"
+
+msgid "indian little grebe"
+msgstr "மூக்குளிப்பான்"
+
+msgid "indian treepie"
+msgstr "வால் காகம்"
+
+msgid "kestrel"
+msgstr "கரைவணை"
+
+msgid "kite"
+msgstr "கலுழன், கருடன்"
+
+msgid "lesser goldenbacked woodpecker"
+msgstr "பொன்முதுகு மரங்கொத்தி"
+
+msgid "little corporant"
+msgstr "சின்ன நீர்க்காகம்"
+
+msgid "little crake"
+msgstr "சின்னக் காணான்கோழி"
+
+msgid "little egret"
+msgstr "சின்ன வெள்ளைக்கொக்கு"
+
+msgid "little grebe"
+msgstr "குளுப்பை"
+
+msgid "little-ringed plover"
+msgstr "பட்டாணி உப்புக்கொத்தி"
+
+msgid "love bird"
+msgstr "அன்றில்"
+
+msgid "macaw"
+msgstr "ஐவண்ணக் கிளி"
+
+msgid "magpie robin"
+msgstr "குண்டுக் கரிச்சான்"
+
+msgid "moorhen (common)"
+msgstr "தாழைக் கோழி"
+
+msgid "munia"
+msgstr "நெல்லுக்குருவி"
+
+msgid "night heron"
+msgstr "வாக்கா"
+
+msgid "nighthawk"
+msgstr "இராப்பாறு"
+
+msgid "nightingale"
+msgstr "இராப்பாடி"
+
+msgid "olive-backed pipit"
+msgstr "காட்டு நெட்டைக்காலி"
+
+msgid "oriental white ibis"
+msgstr "வெள்ளை அறிவாள் மூக்கன்"
+
+msgid "osprey"
+msgstr "விரலடிப்பான்"
+
+msgid "ostrich"
+msgstr "நெருப்புக்கோழி, தீக்கோழி"
+
+msgid "painted stork"
+msgstr "மஞ்சள் மூக்கு நாரை"
+
+msgid "pallid harrier"
+msgstr "பூனைப் பருந்து"
+
+msgid "pariah kite"
+msgstr "பறைப் பருந்து"
+
+msgid "passer domesticus"
+msgstr "வீட்டுச் சிட்டுக்குருவி"
+
+msgid "pelican"
+msgstr "கூழைக்கடா, கூழைக்கிடா, கூளைக்கடா"
+
+msgid "penguin"
+msgstr "பனிப்பாடி"
+
+msgid "peregrine falcon"
+msgstr "பைரி"
+
+msgid "phesant-tailed jacana"
+msgstr "நீலவால் இலைக்கோழி"
+
+msgid "pied harrier"
+msgstr "வெள்ளைப் பூனைப்பருந்து"
+
+msgid "pipit"
+msgstr "நெட்டைக்காலி"
+
+msgid "pitta"
+msgstr "தோட்டக்கள்ளன்"
+
+msgid "purple moorhen"
+msgstr "நீலத் தாழைக் கோழி"
+
+msgid "purple rumped sunbird"
+msgstr "ஊதாப் பிட்டு தேன்சிட்டு"
+
+msgid "purple sunburd"
+msgstr "ஊதாத் தேன்சிட்டு"
+
+msgid "quail"
+msgstr "காடை"
+
+msgid "red shank"
+msgstr "மலைக்கோட்டான்"
+
+msgid "red-wattled lapwing"
+msgstr "சிவப்பு மூக்கு ஆள்காட்டி"
+
+msgid "red-winged bush-lark"
+msgstr "சிகப்பு இறக்கை வானம்பாடி"
+
+msgid "reef heron"
+msgstr "கரைக்கொக்கு"
+
+msgid "roller"
+msgstr "கொட்டுக்கிளி"
+
+msgid "rosy starling"
+msgstr "சோலக்குருவி"
+
+msgid "ruddy-breasted crake"
+msgstr "சிவப்புக் காணான்கோழி"
+
+msgid "sandpiper (common)"
+msgstr "உள்ளான்"
+
+msgid "sea eagle"
+msgstr "ஆலா"
+
+msgid "shag"
+msgstr "கொண்டை நீர்க்காகம்"
+
+msgid "shrike"
+msgstr "கீச்சான் குருவி"
+
+msgid "siskin"
+msgstr "பைது"
+
+msgid "small blue kingfisher"
+msgstr "சிறால் மீன்கொத்தி"
+
+msgid "spoonbill"
+msgstr "சப்பைச்சொண்டன்"
+
+msgid "spotbilled pelican"
+msgstr "புள்ளியலகு குழைக்கடா/கூழைக்கிடா"
+
+msgid "spotted dove"
+msgstr "புள்ளிப் புறா"
+
+msgid "spotted munia"
+msgstr "புள்ளிச் சில்லை"
+
+msgid "spotted owlette"
+msgstr "புள்ளி ஆந்தை"
+
+msgid "stork-billed kingfisher"
+msgstr "பேரலகு மீன்கொத்தி"
+
+msgid "swallow"
+msgstr "தகைவிலான் குருவி"
+
+msgid "tailorbird"
+msgstr "தையல்சிட்டு"
+
+msgid "teal (common)"
+msgstr "கிளுவை"
+
+msgid "tern (common)"
+msgstr "ஆற்றுக்குருவி"
+
+msgid "toucan"
+msgstr "பழச்சொண்டான்"
+
+msgid "treepie"
+msgstr "வாலி"
+
+msgid "turtle dove"
+msgstr "கரும்புறா"
+
+msgid "vulture"
+msgstr "பிணந்தின்னி, உவணம்"
+
+msgid "whimbrel"
+msgstr "குதிரைத் தலைக் கோட்டான்"
+
+msgid "white wagtail"
+msgstr "வெள்ளை வாலாட்டி"
+
+msgid "white-bellied sea eagle"
+msgstr "ஆலா"
+
+msgid "white-breasted waterhen"
+msgstr "காம்புல் கோழி"
+
+msgid "white-headed kite"
+msgstr "உவணம்"
+
+msgid "white-necked stork"
+msgstr "வெண்கழுத்து நாரை"
+
+msgid "white-rumped munia"
+msgstr "வெண்முதுகுச் சில்லை"
+
+msgid "widgeon"
+msgstr "காட்டு வாத்து"
+
+msgid "yellow-wattled lapwing"
+msgstr "மஞ்சள் மூக்கு ஆள்காட்டி"

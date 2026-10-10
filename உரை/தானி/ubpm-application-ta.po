@@ -1,0 +1,4130 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Universal Blood Pressure Manager)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-25 03:38+0200\n"
+"PO-Revision-Date: 2025-04-25 07:12\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/ubpm/application/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.11.1-dev\n"
+
+#: ../DialogAbout.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "About UBPM"
+msgstr "யுபிபிஎம் பற்றி"
+
+#: ../DialogAbout.ui:41
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#: ../DialogAbout.ui:53
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Universal Blood Pressure Manager"
+msgstr "உலகளாவிய இரத்த அழுத்த மேலாளர்"
+
+#: ../DialogAbout.ui:91
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Qt Framework"
+msgstr "கியுடி கட்டமைப்பு"
+
+#: ../DialogAbout.ui:129
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Operating System"
+msgstr "இயக்க முறைமை"
+
+#: ../DialogAbout.ui:220
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Environment"
+msgstr "சூழல்"
+
+#: ../DialogAbout.ui:231
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: ../DialogAbout.ui:266
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Database"
+msgstr "தரவுத்தளம்"
+
+#: ../DialogAbout.ui:301
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Cache"
+msgstr "கேச்"
+
+#: ../DialogAbout.ui:336
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Guides"
+msgstr "வழிகாட்டிகள்"
+
+#: ../DialogAbout.ui:371
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Languages"
+msgstr "மொழிகள்"
+
+#: ../DialogAbout.ui:406
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Plugins"
+msgstr "செருகுநிரல்கள்"
+
+#: ../DialogAbout.ui:441
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Themes"
+msgstr "கருப்பொருள்கள்"
+
+#: ../DialogAbout.ui:469
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Translators"
+msgstr "மொழிபெயர்ப்பாளர்கள்"
+
+#: ../DialogAbout.ui:480
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid ""
+"Thanks to all the translators who spend their free time translating UBPM!"
+msgstr ""
+"யுபிபிஎம் மொழிபெயர்க்க தங்கள் இலவச நேரத்தை செலவழிக்கும் அனைத்து "
+"மொழிபெயர்ப்பாளர்களுக்கும் நன்றி!"
+
+#: ../DialogAbout.ui:1618
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid ""
+"Please join Weblate as a new translator if there are untranslated texts or "
+"if your language is missing."
+msgstr ""
+"மொழிபெயர்க்கப்படாத நூல்கள் இருந்தால் அல்லது உங்கள் மொழி காணவில்லை என்றால் "
+"தயவுசெய்து புதிய மொழிபெயர்ப்பாளராக வெப்லேட்டில் சேரவும்."
+
+#: ../DialogAbout.cpp:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid ""
+"The program is provided as is with no warranty of any kind, including the "
+"warranty of design, merchantability and fitness for a particular purpose."
+msgstr ""
+"ஒரு குறிப்பிட்ட நோக்கத்திற்காக வடிவமைப்பு, வணிகத்தன்மை மற்றும் உடற்பயிற்சி "
+"உள்ளிட்ட எந்தவொரு உத்தரவாதமும் இல்லாதபடி நிரல் வழங்கப்படுகிறது."
+
+#: ../DialogAbout.cpp:42
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAbout"
+msgid "Could not open \"%1\"."
+msgstr "\"%1\" ஐ திறக்க முடியவில்லை."
+
+#: ../DialogAnalysis.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Data Analysis"
+msgstr "தரவு பகுப்பாய்வு"
+
+#: ../DialogAnalysis.ui:24
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Query"
+msgstr "வினவல்"
+
+#: ../DialogAnalysis.ui:43 ../DialogAnalysis.cpp:231
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Results"
+msgstr "முடிவுகள்"
+
+#: ../DialogAnalysis.ui:78
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Date"
+msgstr "திகதி"
+
+#: ../DialogAnalysis.ui:87
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Time"
+msgstr "நேரம்"
+
+#: ../DialogAnalysis.ui:96
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "SYS"
+msgstr "அமைப்பு"
+
+#: ../DialogAnalysis.ui:99
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Systolic"
+msgstr "சிச்டாலிக்"
+
+#: ../DialogAnalysis.ui:108
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "DIA"
+msgstr "டியா"
+
+#: ../DialogAnalysis.ui:111
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Diastolic"
+msgstr "டயச்டாலிக்"
+
+#: ../DialogAnalysis.ui:120
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "HRT"
+msgstr "Hrt"
+
+#: ../DialogAnalysis.ui:132
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "PPR"
+msgstr "பிபிஆர்"
+
+#: ../DialogAnalysis.ui:135
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Pulse Pressure"
+msgstr "துடிப்பு அழுத்தம்"
+
+#: ../DialogAnalysis.ui:144
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "MAP"
+msgstr "வரைபடம்"
+
+#: ../DialogAnalysis.ui:147
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Mean Arterial Pressure"
+msgstr "தமனி சார்ந்த அழுத்தம்"
+
+#: ../DialogAnalysis.ui:156
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "TGA"
+msgstr "டிசிஏ"
+
+#: ../DialogAnalysis.ui:159
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Target Area"
+msgstr "இலக்கு பகுதி"
+
+#: ../DialogAnalysis.ui:168
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "IHB"
+msgstr "IHB"
+
+#: ../DialogAnalysis.ui:171
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Irregular Heartbeat"
+msgstr "ஒழுங்கற்ற இதய துடிப்பு"
+
+#: ../DialogAnalysis.ui:180
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "MOV"
+msgstr "மூவ்"
+
+#: ../DialogAnalysis.ui:123
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Heartrate"
+msgstr "இதயதுடிப்பு"
+
+#: ../DialogAnalysis.ui:183
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Movement"
+msgstr "இயக்கம்"
+
+#: ../DialogAnalysis.ui:192
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "INV"
+msgstr "இன்வ்"
+
+#: ../DialogAnalysis.ui:195
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Invisible"
+msgstr "கண்ணுக்கு தெரியாத"
+
+#: ../DialogAnalysis.ui:204
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Comment"
+msgstr "கருத்து"
+
+#: ../DialogAnalysis.ui:234
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Close"
+msgstr "மூடு"
+
+#: ../DialogAnalysis.cpp:53
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid ""
+"Could not create memory database!\n"
+"\n"
+"%1"
+msgstr ""
+"நினைவக தரவுத்தளத்தை உருவாக்க முடியவில்லை!\n"
+"\n"
+" %1"
+
+#: ../DialogAnalysis.cpp:233
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "No results for this query found!"
+msgstr "இந்த வினவலுக்கான முடிவுகள் எதுவும் கிடைக்கவில்லை!"
+
+#: ../DialogAnalysis.cpp:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "%1 for %2 [ %3 %4 | %5 %6 | %7% ]"
+msgstr "%2 க்கு %1 [ %3 %4 | %5 %6 | % 7%]"
+
+#: ../DialogAnalysis.cpp:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Result"
+msgid_plural "Results"
+msgstr[0] "முடிவு"
+msgstr[1] "முடிவுகள்"
+
+#: ../DialogAnalysis.cpp:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Match(es)"
+msgid_plural "Match(es)"
+msgstr[0] "பொருத்தம்"
+msgstr[1] "பொருத்தங்கள்"
+
+#: ../DialogAnalysis.cpp:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "Record"
+msgid_plural "Records"
+msgstr[0] "பதிவு"
+msgstr[1] "பதிவுகள்"
+
+#: ../DialogAnalysis.cpp:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogAnalysis"
+msgid "User %1"
+msgstr "பயனர் %1"
+
+#: ../DialogDistribution.ui:20
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Data Distribution"
+msgstr "தரவு வழங்கல்"
+
+#: ../DialogDistribution.ui:77
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: ../DialogDistribution.ui:94
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#: ../DialogDistribution.ui:128
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Close"
+msgstr "மூடு"
+
+#: ../DialogDistribution.cpp:18
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Record"
+msgid_plural "Records"
+msgstr[0] "பதிவு"
+msgstr[1] "பதிவுகள்"
+
+#: ../DialogDistribution.cpp:113
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Low"
+msgstr "குறைந்த"
+
+#: ../DialogDistribution.cpp:115
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Optimal"
+msgstr "உகந்த"
+
+#: ../DialogDistribution.cpp:117
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Normal"
+msgstr "சாதாரண"
+
+#: ../DialogDistribution.cpp:119
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "High Normal"
+msgstr "உயர் இயல்பானது"
+
+#: ../DialogDistribution.cpp:121
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Hyper 1"
+msgstr "ஐப்பர் 1"
+
+#: ../DialogDistribution.cpp:123
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Hyper 2"
+msgstr "ஐப்பர் 2"
+
+#: ../DialogDistribution.cpp:125
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Hyper 3"
+msgstr "ஐப்பர் 3"
+
+#: ../DialogDistribution.cpp:142
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "SYS"
+msgstr "சிச்"
+
+#: ../DialogDistribution.cpp:154
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "DIA"
+msgstr "டியா"
+
+#: ../DialogDistribution.cpp:165
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Blood Pressure"
+msgstr "இரத்த அழுத்தம்"
+
+#: ../DialogDistribution.cpp:203
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Athlete"
+msgstr "தடகள"
+
+#: ../DialogDistribution.cpp:205
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Excellent"
+msgstr "சிறந்த"
+
+#: ../DialogDistribution.cpp:207
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Great"
+msgstr "பெரிய"
+
+#: ../DialogDistribution.cpp:209
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Good"
+msgstr "நல்லது"
+
+#: ../DialogDistribution.cpp:211
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Average"
+msgstr "சராசரி"
+
+#: ../DialogDistribution.cpp:213
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Below Average"
+msgstr "சராசரிக்கு கீழே"
+
+#: ../DialogDistribution.cpp:215
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Poor"
+msgstr "ஏழை"
+
+#: ../DialogDistribution.cpp:232
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "BPM"
+msgstr "பிபிஎம்"
+
+#: ../DialogDistribution.cpp:258
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Heart Rate"
+msgstr "இதய துடிப்பு"
+
+#: ../DialogDistribution.ui:111 ../DialogDistribution.cpp:419
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "Export To PDF"
+msgstr "PDF க்கு ஏற்றுமதி"
+
+#: ../DialogDistribution.cpp:419
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDistribution"
+msgid "%1 File (*.%2)"
+msgstr "%1 கோப்பு (*.%2)"
+
+#: ../DialogDonation.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Donation"
+msgstr "நன்கொடை"
+
+#: ../DialogDonation.ui:67
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Copy E-Mail and open Amazon"
+msgstr "மின்னஞ்சலை நகலெடுத்து அமேசானைத் திறக்கவும்"
+
+#: ../DialogDonation.ui:154
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Open PayPal (+)"
+msgstr "திறந்த பேபால் (+)"
+
+#: ../DialogDonation.ui:171
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Open PayPal (-)"
+msgstr "திறந்த பேபால் (-)"
+
+#: ../DialogDonation.ui:46
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid ""
+"If you have an Amazon account, you can send money by gift card.\n"
+"\n"
+"Click the button below to open the Amazon website in your browser and\n"
+"\n"
+"- sign in to your account\n"
+"- select or enter the amount you would like to send\n"
+"- select e-mail delivery\n"
+"- paste the e-mail address as the recipient\n"
+"- add a message\n"
+"- complete the donation\n"
+"\n"
+"You can also scan the QR code with your mobile device."
+msgstr ""
+"உங்களிடம் அமேசான் கணக்கு இருந்தால், நீங்கள் பரிசு அட்டை மூலம் பணத்தை அனுப்பலாம்.\n"
+"\n"
+" உங்கள் உலாவியில் அமேசான் வலைத்தளத்தைத் திறக்க கீழே உள்ள பொத்தானைக் சொடுக்கு செய்க\n"
+"\n"
+" - உங்கள் கணக்கில் உள்நுழைக\n"
+" - நீங்கள் அனுப்ப விரும்பும் தொகையைத் தேர்ந்தெடுக்கவும் அல்லது உள்ளிடவும்\n"
+" - மின்னஞ்சல் விநியோகத்தைத் தேர்ந்தெடுக்கவும்\n"
+" - மின்னஞ்சல் முகவரியை பெறுநராக ஒட்டவும்\n"
+" - ஒரு செய்தியைச் சேர்க்கவும்\n"
+" - நன்கொடை முடிக்கவும்\n"
+"\n"
+" உங்கள் மொபைல் சாதனத்துடன் QR குறியீட்டை ச்கேன் செய்யலாம்."
+
+#: ../DialogDonation.ui:124
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid ""
+"If you have a PayPal account, you can send money using the \"Friends and Family\" feature.\n"
+"\n"
+"Open your PayPal app and\n"
+"\n"
+"- search for @LazyT (Thomas Löwe)\n"
+"- enter the amount you would like to send\n"
+"- add a message\n"
+"- complete the donation\n"
+"\n"
+"You can also click the first button below to do this in your browser without using the app.\n"
+"\n"
+"If you do not have a PayPal account but do have a credit/debit card click the second button below to go to the PayPal donation page and\n"
+"\n"
+"- select onetime or repeating donation\n"
+"- select or enter the amount you would like to send\n"
+"- optionally check the box to cover the fees\n"
+"- complete the donation\n"
+"\n"
+"You can also scan the QR code with your mobile device."
+msgstr ""
+"உங்களிடம் பேபால் கணக்கு இருந்தால், \"நண்பர்கள் மற்றும் குடும்பத்தினர்\" அம்சத்தைப் பயன்படுத்தி பணத்தை அனுப்பலாம்.\n"
+"\n"
+" உங்கள் பேபால் பயன்பாட்டைத் திறக்கவும்\n"
+"\n"
+" - @lazyt (தாமச் லாவ்) ஐத் தேடுங்கள்\n"
+" - நீங்கள் அனுப்ப விரும்பும் தொகையை உள்ளிடவும்\n"
+" - ஒரு செய்தியைச் சேர்க்கவும்\n"
+" - நன்கொடை முடிக்கவும்\n"
+"\n"
+" பயன்பாட்டைப் பயன்படுத்தாமல் உங்கள் உலாவியில் இதைச் செய்ய கீழேயுள்ள முதல் பொத்தானைக் சொடுக்கு செய்யலாம்.\n"
+"\n"
+" உங்களிடம் பேபால் கணக்கு இல்லையென்றால், கிரெடிட்/டெபிட் அட்டை இருந்தால், பேபால் நன்கொடை பக்கத்திற்குச் செல்ல கீழே உள்ள இரண்டாவது பொத்தானைக் சொடுக்கு செய்க\n"
+"\n"
+" - ஒன் டைம் அல்லது மீண்டும் நன்கொடை என்பதைத் தேர்ந்தெடுக்கவும்\n"
+" - நீங்கள் அனுப்ப விரும்பும் தொகையைத் தேர்ந்தெடுக்கவும் அல்லது உள்ளிடவும்\n"
+" - கட்டணங்களை மறைக்க விருப்பமாக பெட்டியை சரிபார்க்கவும்\n"
+" - நன்கொடை முடிக்கவும்\n"
+"\n"
+" உங்கள் மொபைல் சாதனத்துடன் QR குறியீட்டை ச்கேன் செய்யலாம்."
+
+#: ../DialogDonation.ui:230
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid ""
+"If you are in the Euro Payments Area, you can transfer money from your bank account.\n"
+"\n"
+"Click the buttons below to copy the name/IBAN/BIC to the clipboard and\n"
+"\n"
+"- sign in to your bank account\n"
+"- paste the name/IBAN/BIC into the transfer form\n"
+"- enter the amount you would like to send\n"
+"- complete the donation\n"
+"\n"
+"You can also scan the QR code with your mobile device."
+msgstr ""
+"நீங்கள் யூரோ கொடுப்பனவு பகுதியில் இருந்தால், உங்கள் வங்கிக் கணக்கிலிருந்து பணத்தை மாற்றலாம்.\n"
+"\n"
+" கிளிப்போர்டுக்கு/இபான்/பிக் என்ற பெயரை நகலெடுக்க கீழே உள்ள பொத்தான்களைக் சொடுக்கு செய்க\n"
+"\n"
+" - உங்கள் வங்கிக் கணக்கில் உள்நுழைக\n"
+" - பரிமாற்ற வடிவத்தில்/இபான்/பிக் என்ற பெயரை ஒட்டவும்\n"
+" - நீங்கள் அனுப்ப விரும்பும் தொகையை உள்ளிடவும்\n"
+" - நன்கொடை முடிக்கவும்\n"
+"\n"
+" உங்கள் மொபைல் சாதனத்துடன் QR குறியீட்டை ச்கேன் செய்யலாம்."
+
+#: ../DialogDonation.ui:251
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Copy Name"
+msgstr "பெயரை நகலெடுக்கவும்"
+
+#: ../DialogDonation.ui:268
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Copy IBAN"
+msgstr "இபானை நகலெடுக்கவும்"
+
+#: ../DialogDonation.ui:285
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogDonation"
+msgid "Copy BIC"
+msgstr "நகல் BIC"
+
+#: ../DialogExportFIT.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "FIT Settings"
+msgstr "பொருத்த அமைப்புகள்"
+
+#: ../DialogExportFIT.ui:32
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Select last Record"
+msgstr "கடைசி பதிவைத் தேர்ந்தெடுக்கவும்"
+
+#: ../DialogExportFIT.ui:45
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Latest exported first Record"
+msgstr "அண்மைக் கால ஏற்றுமதி முதல் பதிவு"
+
+#: ../DialogExportFIT.ui:61
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Latest exported last Record"
+msgstr "அண்மைக் கால ஏற்றுமதி கடைசி பதிவு"
+
+#: ../DialogExportFIT.ui:80
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Select first Record"
+msgstr "முதல் பதிவைத் தேர்ந்தெடுக்கவும்"
+
+#: ../DialogExportFIT.ui:93
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Latest exported Count"
+msgstr "அண்மைக் கால ஏற்றுமதி எண்ணிக்கை"
+
+#: ../DialogExportFIT.ui:109
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Select User"
+msgstr "பயனரைத் தேர்ந்தெடுக்கவும்"
+
+#: ../DialogExportFIT.ui:113
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "User 1"
+msgstr "பயனர் 1"
+
+#: ../DialogExportFIT.ui:122
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "User 2"
+msgstr "பயனர் 2"
+
+#: ../DialogExportFIT.ui:139
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Additional Fields"
+msgstr "கூடுதல் புலங்கள்"
+
+#: ../DialogExportFIT.ui:145
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Mean Arterial Pressure"
+msgstr "தமனி சார்ந்த அழுத்தம்"
+
+#: ../DialogExportFIT.ui:152
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Heartrate Type (Normal / Irregular)"
+msgstr "ஆர்ட்ரேட் வகை (சாதாரண / ஒழுங்கற்ற)"
+
+#: ../DialogExportFIT.ui:159
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Blood Pressure Status (No Error / Error)"
+msgstr "இரத்த அழுத்த நிலை (பிழை / பிழை இல்லை)"
+
+#: ../DialogExportFIT.ui:171
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Create"
+msgstr "உருவாக்கு"
+
+#: ../DialogExportFIT.ui:191
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Analyse"
+msgstr "பகுப்பாய்வு செய்யுங்கள்"
+
+#: ../DialogExportFIT.ui:208
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Upload"
+msgstr "பதிவேற்றும்"
+
+#: ../DialogExportFIT.ui:24 ../DialogExportFIT.cpp:96
+#: ../DialogExportFIT.cpp:103 ../DialogExportFIT.cpp:110
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid "Export Range [ %1 / %2 ]"
+msgstr "ஏற்றுமதி வரம்பு [ %1 / %2]"
+
+#: ../DialogExportFIT.cpp:258
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogExportFIT"
+msgid ""
+"FIT file successfully created.\n"
+"\n"
+"Please analyse before uploading and do not upload again as this may result in duplicate entries."
+msgstr ""
+"பொருத்தமான கோப்பு வெற்றிகரமாக உருவாக்கப்பட்டது. \n"
+"\n"
+"பதிவேற்றுவதற்கு முன் பகுப்பாய்வு செய்யுங்கள், மீண்டும் பதிவேற்ற வேண்டாம், ஏனெனில் இது நகல் உள்ளீடுகளை ஏற்படுத்தக்கூடும்."
+
+#: ../DialogHelp.ui:20
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogHelp"
+msgid "Guide"
+msgstr "வழிகாட்டி"
+
+#: ../DialogHelp.cpp:61
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogHelp"
+msgid "%1 guide not found, showing EN guide instead."
+msgstr ""
+"%1 வழிகாட்டி கண்டுபிடிக்கப்படவில்லை, அதற்கு பதிலாக என் வழிகாட்டியைக் "
+"காட்டுகிறது."
+
+#: ../DialogHelp.cpp:53
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogHelp"
+msgid "%1 guide not found!"
+msgstr "%1 வழிகாட்டி கிடைக்கவில்லை!"
+
+#: ../DialogMigration.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Data Migration"
+msgstr "தரவு இடம்பெயர்வு"
+
+#: ../DialogMigration.ui:24
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Source"
+msgstr "மூலம்"
+
+#: ../DialogMigration.ui:72
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Open Data Source"
+msgstr "தரவு மூலத்தைத் திறக்கவும்"
+
+#: ../DialogMigration.ui:97
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Parameters"
+msgstr "அளவுருக்கள்"
+
+#: ../DialogMigration.ui:217
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date Format"
+msgstr "தேதி வடிவம்"
+
+#: ../DialogMigration.ui:267
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Irregular Detection"
+msgstr "ஒழுங்கற்ற கண்டறிதல்"
+
+#: ../DialogMigration.ui:167
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Startline"
+msgstr "தொடக்க"
+
+#: ../DialogMigration.ui:183
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Elements per Line"
+msgstr "ஒரு வரிக்கு கூறுகள்"
+
+#: ../DialogMigration.ui:111
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Delimiter"
+msgstr "பிரிப்பான்"
+
+#: ../DialogMigration.ui:303
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Time Format"
+msgstr "நேர வடிவம்"
+
+#: ../DialogMigration.ui:199
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Movement Detection"
+msgstr "இயக்கம் கண்டறிதல்"
+
+#: ../DialogMigration.ui:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date Language"
+msgstr "தேதி மொழி"
+
+#: ../DialogMigration.ui:344
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Positions"
+msgstr "நிலைகள்"
+
+#: ../DialogMigration.ui:488
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Irregular"
+msgstr "ஒழுங்கற்ற"
+
+#: ../DialogMigration.ui:504
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date"
+msgstr "திகதி"
+
+#: ../DialogMigration.ui:452
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Systolic"
+msgstr "சிச்டாலிக்"
+
+#: ../DialogMigration.ui:410
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Heartrate"
+msgstr "இதயதுடிப்பு"
+
+#: ../DialogMigration.ui:394
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Movement"
+msgstr "இயக்கம்"
+
+#: ../DialogMigration.ui:329
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Ignore Comment"
+msgstr "கருத்தை புறக்கணிக்கவும்"
+
+#: ../DialogMigration.ui:368
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Time"
+msgstr "நேரம்"
+
+#: ../DialogMigration.ui:436
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Diastolic"
+msgstr "டயச்டாலிக்"
+
+#: ../DialogMigration.ui:550
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Comment"
+msgstr "கருத்து"
+
+#: ../DialogMigration.ui:567
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Result"
+msgstr "முடிவு"
+
+#: ../DialogMigration.ui:786
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Migrate User 1"
+msgstr "பயனர் 1 ஐ மாற்றவும்"
+
+#: ../DialogMigration.ui:815
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Migrate User 2"
+msgstr "பயனர் 2 இடம்பெயர்"
+
+#: ../DialogMigration.ui:841
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Copy to Custom"
+msgstr "வழக்கத்திற்கு நகலெடுக்கவும்"
+
+#: ../DialogMigration.ui:861
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Select predefined settings"
+msgstr "முன் வரையறுக்கப்பட்ட அமைப்புகளைத் தேர்ந்தெடுக்கவும்"
+
+#: ../DialogMigration.ui:895
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Custom"
+msgstr "தனிப்பயன்"
+
+#: ../DialogMigration.ui:906
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Test Data Migration"
+msgstr "தரவு இடம்பெயர்வு சோதனை"
+
+#: ../DialogMigration.ui:920
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Start Data Migration"
+msgstr "தரவு இடம்பெயர்வு தொடங்கவும்"
+
+#: ../DialogMigration.cpp:251
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Choose Data Source for Migration"
+msgstr "இடம்பெயர்வுக்கு தரவு மூலத்தைத் தேர்வுசெய்க"
+
+#: ../DialogMigration.cpp:251
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "CSV File (*.csv)"
+msgstr "காபிம கோப்பு (*.csv)"
+
+#: ../DialogMigration.cpp:304
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "%L1 Bytes"
+msgstr "%எல் 1 பைட்டுகள்"
+
+#: ../DialogMigration.cpp:305
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "%1 Lines"
+msgstr "%1 கோடுகள்"
+
+#: ../DialogMigration.cpp:319
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid ""
+"Could not open \"%1\"!\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"\"%1\" ஐ திறக்க முடியவில்லை!\n"
+"\n"
+" காரணம்: %2"
+
+#: ../DialogMigration.cpp:341
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Startline can't be empty."
+msgstr "ச்டார்ட்லைன் காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:347
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Startline must be smaller than the number of lines."
+msgstr "தொடக்க வரிகளின் எண்ணிக்கையை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:355
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Line %1 = %2"
+msgstr "வரி %1 = %2"
+
+#: ../DialogMigration.cpp:360
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Delimiter can't be empty."
+msgstr "டிலிமிட்டர் காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:367
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Startline doesn't contain \"%1\" delimiter."
+msgstr "ச்டார்ட்லைனில் \"%1\" டிலிமிட்டர் இல்லை."
+
+#: ../DialogMigration.cpp:378
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Elements can't be empty."
+msgstr "கூறுகள் காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:384
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Elements can't be smaller than 4."
+msgstr "கூறுகள் 4 ஐ விட சிறியதாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:390
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Elements doesn't match (found %1)."
+msgstr "கூறுகள் பொருந்தாது ( %1 காணப்படுகிறது)."
+
+#: ../DialogMigration.cpp:397
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date format can't be empty."
+msgstr "தேதி வடிவம் காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:403
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Single date format must also contain a time format."
+msgstr "ஒற்றை தேதி வடிவத்தில் நேர வடிவமும் இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:410
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date position can't be empty."
+msgstr "தேதி நிலை காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:416
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date position must be smaller than elements."
+msgstr "தேதி நிலை கூறுகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:423
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Time position requires also a time parameter."
+msgstr "நேர நிலைக்கு ஒரு நேர அளவுரு தேவைப்படுகிறது."
+
+#: ../DialogMigration.cpp:429
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Time format requires also a time position."
+msgstr "நேர வடிவத்திற்கு ஒரு நேர நிலை தேவை."
+
+#: ../DialogMigration.cpp:435
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Time position must be smaller than elements."
+msgstr "நேர நிலை உறுப்புகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:442
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Systolic position can't be empty."
+msgstr "சிச்டாலிக் நிலை காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:448
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Systolic position must be smaller than elements."
+msgstr "சிச்டாலிக் நிலை உறுப்புகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:455
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Diastolic position can't be empty."
+msgstr "டயச்டாலிக் நிலை காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:461
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Diastolic position must be smaller than elements."
+msgstr "உறுப்புகளை விட டயச்டாலிக் நிலை சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:468
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Heartrate position can't be empty."
+msgstr "ஆர்ட்ரேட் நிலை காலியாக இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:474
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Heartrate position must be smaller than elements."
+msgstr "இதய துடிப்பு நிலை உறுப்புகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:481
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Irregular position must be smaller than elements."
+msgstr "ஒழுங்கற்ற நிலை உறுப்புகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:487
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Irregular position requires also an irregular parameter."
+msgstr "ஒழுங்கற்ற நிலைக்கு ஒரு ஒழுங்கற்ற அளவுரு தேவைப்படுகிறது."
+
+#: ../DialogMigration.cpp:494
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Movement position must be smaller than elements."
+msgstr "இயக்க நிலை உறுப்புகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:500
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Movement position requires also a movement parameter."
+msgstr "இயக்க நிலைக்கு ஒரு இயக்க அளவுரு தேவைப்படுகிறது."
+
+#: ../DialogMigration.cpp:507
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Comment position must be smaller than elements."
+msgstr "கருத்து நிலை கூறுகளை விட சிறியதாக இருக்க வேண்டும்."
+
+#: ../DialogMigration.cpp:523
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Positions can't exist twice."
+msgstr "நிலைகள் இரண்டு முறை இருக்க முடியாது."
+
+#: ../DialogMigration.cpp:539
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date format is invalid."
+msgstr "தேதி வடிவம் தவறானது."
+
+#: ../DialogMigration.cpp:546
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Time format is invalid."
+msgstr "நேர வடிவம் தவறானது."
+
+#: ../DialogMigration.cpp:556
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Date/Time format is invalid."
+msgstr "தேதி/நேர வடிவம் தவறானது."
+
+#: ../DialogMigration.cpp:747
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Successfully migrated %n record for user %1."
+msgid_plural "Successfully migrated %n records for user %1."
+msgstr[0] "பயனர் %1 க்கு வெற்றிகரமாக %N பதிவை இடம்பெயர்ந்தது."
+msgstr[1] "பயனர் %1 க்கு %N பதிவுகளை வெற்றிகரமாக இடம்பெயர்ந்தது."
+
+#: ../DialogMigration.cpp:751
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Skipped %n invalid record!"
+msgid_plural "Skipped %n invalid records!"
+msgstr[0] "தவிர்க்கப்பட்ட %n தவறான பதிவு!"
+msgstr[1] "%N தவறான பதிவுகளைத் தவிர்த்தது!"
+
+#: ../DialogMigration.cpp:756
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Skipped %n duplicate record!"
+msgid_plural "Skipped %n duplicate records!"
+msgstr[0] "%N நகல் பதிவைத் தவிர்த்தது!"
+msgstr[1] "%N நகல் பதிவுகளைத் தவிர்த்தது!"
+
+#: ../DialogMigration.cpp:761
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogMigration"
+msgid "Skipped %n hidden record!"
+msgid_plural "Skipped %n hidden records!"
+msgstr[0] "%N மறைக்கப்பட்ட பதிவைத் தவிர்த்தது!"
+msgstr[1] "%N மறைக்கப்பட்ட பதிவுகளைத் தவிர்த்தது!"
+
+#: ../DialogRecord.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Manual Record"
+msgstr "கையேடு பதிவு"
+
+#: ../DialogRecord.ui:27
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Data Record"
+msgstr "தரவு பதிவு"
+
+#: ../DialogRecord.ui:35 ../DialogRecord.ui:211 ../DialogRecord.cpp:9
+#: ../DialogRecord.cpp:10
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Add Record For %1"
+msgstr "%1 க்கு பதிவைச் சேர்க்கவும்"
+
+#: ../DialogRecord.ui:78
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Select Date & Time"
+msgstr "தேதி & நேரம் என்பதைத் தேர்ந்தெடுக்கவும்"
+
+#: ../DialogRecord.ui:129
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Enter SYS"
+msgstr "Sys ஐ உள்ளிடவும்"
+
+#: ../DialogRecord.ui:148
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Enter DIA"
+msgstr "நாள் உள்ளிடவும்"
+
+#: ../DialogRecord.ui:167
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Enter BPM"
+msgstr "பிபிஎம் உள்ளிடவும்"
+
+#: ../DialogRecord.ui:102
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Irregular Heartbeat"
+msgstr "ஒழுங்கற்ற இதய துடிப்பு"
+
+#: ../DialogRecord.ui:186
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Movement"
+msgstr "இயக்கம்"
+
+#: ../DialogRecord.ui:239
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Enter Optional Comment"
+msgstr "விருப்பக் கருத்தை உள்ளிடவும்"
+
+#: ../DialogRecord.ui:269
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Show message on successful create / delete / modify record"
+msgstr "பதிவை உருவாக்கு / நீக்கு / மாற்றியமைக்கும் செய்தியைக் காட்டு"
+
+#: ../DialogRecord.ui:287
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../DialogRecord.ui:304
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Create"
+msgstr "உருவாக்கு"
+
+#: ../DialogRecord.ui:324
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Close"
+msgstr "மூடு"
+
+#: ../DialogRecord.cpp:9
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "User 1"
+msgstr "பயனர் 1"
+
+#: ../DialogRecord.cpp:10
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "User 2"
+msgstr "பயனர் 2"
+
+#: ../DialogRecord.cpp:34 ../DialogRecord.cpp:187
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Modify"
+msgstr "மாற்றவும்"
+
+#: ../DialogRecord.cpp:132
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid ""
+"The data record could not be deleted!\n"
+"\n"
+"An entry for this date & time doesn't exist."
+msgstr ""
+"தரவு பதிவை நீக்க முடியவில்லை!\n"
+"\n"
+" இந்த தேதிக்கான நுழைவு & நேரம் இல்லை."
+
+#: ../DialogRecord.cpp:138
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Data record successfully deleted."
+msgstr "தரவு பதிவு வெற்றிகரமாக நீக்கப்பட்டது."
+
+#: ../DialogRecord.cpp:150
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Please enter a valid value for \"SYS\" first!"
+msgstr "முதலில் \"சிச்\" க்கான சரியான மதிப்பை உள்ளிடவும்!"
+
+#: ../DialogRecord.cpp:160
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Please enter a valid value for \"DIA\" first!"
+msgstr "முதலில் \"தியா\" க்கு சரியான மதிப்பை உள்ளிடவும்!"
+
+#: ../DialogRecord.cpp:169
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Please enter a valid value for \"BPM\" first!"
+msgstr "முதலில் \"பிபிஎம்\" க்கான சரியான மதிப்பை உள்ளிடவும்!"
+
+#: ../DialogRecord.cpp:191
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid ""
+"The data record could not be modified!\n"
+"\n"
+"An entry for this date & time doesn't exist."
+msgstr ""
+"தரவு பதிவை மாற்ற முடியவில்லை!\n"
+"\n"
+" இந்த தேதிக்கான நுழைவு & நேரம் இல்லை."
+
+#: ../DialogRecord.cpp:197
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Data Record successfully modified."
+msgstr "தரவு பதிவு வெற்றிகரமாக மாற்றப்பட்டது."
+
+#: ../DialogRecord.cpp:206
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid ""
+"The data record could not be created!\n"
+"\n"
+"An entry for this date & time already exist."
+msgstr ""
+"தரவு பதிவை உருவாக்க முடியவில்லை!\n"
+"\n"
+" இந்த தேதி மற்றும் நேரத்திற்கான நுழைவு ஏற்கனவே உள்ளது."
+
+#: ../DialogRecord.cpp:212
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogRecord"
+msgid "Data Record successfully created."
+msgstr "தரவு பதிவு வெற்றிகரமாக உருவாக்கப்பட்டது."
+
+#: ../DialogSettings.cpp:190
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Choose Database Location"
+msgstr "தரவுத்தள இருப்பிடத்தைத் தேர்வுசெய்க"
+
+#: ../DialogSettings.cpp:200
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Choose Database Backup Location"
+msgstr "தரவுத்தள காப்புப்பிரதி இருப்பிடத்தைத் தேர்வுசெய்க"
+
+#: ../DialogSettings.cpp:407
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"The selected database already exists.\n"
+"\n"
+"Please choose the preferred action."
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட தரவுத்தளம் ஏற்கனவே உள்ளது.\n"
+"\n"
+" விருப்பமான செயலைத் தேர்வுசெய்க."
+
+#: ../DialogSettings.cpp:409
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Overwrite"
+msgstr "மேலெழுதும்"
+
+#: ../DialogSettings.cpp:410
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Merge"
+msgstr "ஒன்றிணைக்கவும்"
+
+#: ../DialogSettings.cpp:411
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Swap"
+msgstr "இடமாற்றம்"
+
+#: ../DialogSettings.cpp:413
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"Overwrite:\n"
+"\n"
+"Overwrites the selected database with the current database.\n"
+"\n"
+"Merge:\n"
+"\n"
+"Merges the selected database into the current database.\n"
+"\n"
+"Swap:\n"
+"\n"
+"Deletes the current database and use the selected database."
+msgstr ""
+"மேலெழுத:\n"
+"\n"
+" தேர்ந்தெடுக்கப்பட்ட தரவுத்தளத்தை தற்போதைய தரவுத்தளத்துடன் மேலெழுதும்.\n"
+"\n"
+" ஒன்றிணைக்க:\n"
+"\n"
+" தேர்ந்தெடுக்கப்பட்ட தரவுத்தளத்தை தற்போதைய தரவுத்தளத்தில் இணைக்கிறது.\n"
+"\n"
+" இடமாற்று:\n"
+"\n"
+" தற்போதைய தரவுத்தளத்தை நீக்கி, தேர்ந்தெடுக்கப்பட்ட தரவுத்தளத்தைப் பயன்படுத்தவும்."
+
+#: ../DialogSettings.cpp:421
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"The current database is empty.\n"
+"\n"
+"The selected database will be erased on exit, if no data will be added."
+msgstr ""
+"தற்போதைய தரவுத்தளம் காலியாக உள்ளது.\n"
+"\n"
+" தரவு எதுவும் சேர்க்கப்படாவிட்டால், தேர்ந்தெடுக்கப்பட்ட தரவுத்தளம் வெளியேறும்போது அழிக்கப்படும்."
+
+#: ../DialogSettings.cpp:452
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "SQL encryption can't be enabled without password and will be disabled!"
+msgstr ""
+"கடவுச்சொல் இல்லாமல் கவிமொ குறியாக்கத்தை இயக்க முடியாது மற்றும் "
+"முடக்கப்படும்!"
+
+#: ../DialogSettings.cpp:459
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"The database backup should be located on a different hard disk, partition or"
+" directory."
+msgstr ""
+"தரவுத்தள காப்புப்பிரதி வேறு வன் வட்டு, பகிர்வு அல்லது கோப்பகத்தில் "
+"அமைந்திருக்க வேண்டும்."
+
+#: ../DialogSettings.cpp:469
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Please enter valid values for additional information of user 1!"
+msgstr "பயனர் 1 இன் கூடுதல் தகவலுக்கு செல்லுபடியாகும் மதிப்புகளை உள்ளிடவும்!"
+
+#: ../DialogSettings.cpp:476
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Please enter valid values for additional information of user 2!"
+msgstr "பயனர் 2 இன் கூடுதல் தகவலுக்கு செல்லுபடியாகும் மதிப்புகளை உள்ளிடவும்!"
+
+#: ../DialogSettings.cpp:483
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Entered age doesn't match selected age group for user 1!"
+msgstr ""
+"உள்ளிட்ட அகவை பயனர் 1 க்கான தேர்ந்தெடுக்கப்பட்ட வயதினருடன் பொருந்தாது!"
+
+#: ../DialogSettings.cpp:490
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Entered age doesn't match selected age group for user 2!"
+msgstr "நுழைந்த அகவை பயனர் 2 க்கான தேர்ந்தெடுக்கப்பட்ட வயதினருடன் பொருந்தாது!"
+
+#: ../DialogSettings.cpp:498
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Please enable symbols or lines for chart!"
+msgstr "விளக்கப்படத்திற்கான சின்னங்கள் அல்லது வரிகளை இயக்கவும்!"
+
+#: ../DialogSettings.cpp:505
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Please enter a valid e-mail address!"
+msgstr "செல்லுபடியாகும் மின்னஞ்சல் முகவரியை உள்ளிடவும்!"
+
+#: ../DialogSettings.cpp:512
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Please enter a e-mail subject!"
+msgstr "தயவுசெய்து ஒரு மின்னஞ்சல் விசயத்தை உள்ளிடவும்!"
+
+#: ../DialogSettings.cpp:519
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "E-Mail message must contain $CHART, $TABLE and/or $STATS!"
+msgstr ""
+"மின்னஞ்சல் செய்தியில் $ விளக்கப்படம், $ அட்டவணை மற்றும்/அல்லது $ "
+"புள்ளிவிவரங்கள் இருக்க வேண்டும்!"
+
+#: ../DialogSettings.cpp:625
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"The auto hide setting has been changed.\n"
+"\n"
+"Should this now be applied to all existing measurements?"
+msgstr ""
+"ஆட்டோ மறை அமைப்பு மாற்றப்பட்டுள்ளது.\n"
+"\n"
+" தற்போதுள்ள அனைத்து அளவீடுகளுக்கும் இது இப்போது பயன்படுத்தப்பட வேண்டுமா?"
+
+#: ../DialogSettings.cpp:630
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"Auto hide measurements:\n"
+"\n"
+"     User 1 : %1 %3\n"
+"     User 2 : %2 %3"
+msgstr ""
+"தானாக மறை அளவீடுகள்:\n"
+"\n"
+" பயனர் 1: %1 %3\n"
+" பயனர் 2: %2 %3"
+
+#: ../DialogSettings.cpp:630
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "hidden"
+msgstr "மறைக்கப்பட்ட"
+
+#: ../DialogSettings.cpp:630
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "shown"
+msgstr "காட்டப்பட்டுள்ளது"
+
+#: ../DialogSettings.cpp:681
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "User 1"
+msgstr "பயனர் 1"
+
+#: ../DialogSettings.cpp:695
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "User 2"
+msgstr "பயனர் 2"
+
+#: ../DialogSettings.cpp:826
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Blood Pressure Report"
+msgstr "இரத்த அழுத்த அறிக்கை"
+
+#: ../DialogSettings.cpp:827
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid ""
+"Dear Dr. House,\n"
+"\n"
+"please find attached my blood pressure data for this month.\n"
+"\n"
+"Best regards,\n"
+"$USER\n"
+"$CHART$TABLE$STATS"
+msgstr ""
+"அன்புள்ள டாக்டர் அவுச்,\n"
+"\n"
+" இந்த மாதத்திற்கான எனது இரத்த அழுத்த தரவை இணைத்திருப்பதைக் கண்டறியவும்.\n"
+"\n"
+" வாழ்த்துக்கள்,\n"
+" $ பயனர்\n"
+" $ விளக்கப்படம் $ அட்டவணை $ புள்ளிவிவரங்கள்"
+
+#: ../DialogSettings.cpp:879
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Abort setup and discard all changes?"
+msgstr "அமைப்பை நிறுத்தி அனைத்து மாற்றங்களையும் நிராகரிக்கவா?"
+
+#: ../DialogSettings.ui:20
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: ../DialogSettings.ui:44
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Database"
+msgstr "தரவுத்தளம்"
+
+#: ../DialogSettings.ui:75
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Location"
+msgstr "இடம்"
+
+#: ../DialogSettings.ui:81
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Current Location"
+msgstr "தற்போதைய இடம்"
+
+#: ../DialogSettings.ui:97
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Change Location"
+msgstr "இருப்பிடத்தை மாற்றவும்"
+
+#: ../DialogSettings.ui:123
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Encrypt With SQLCipher"
+msgstr "SQLCIPHER உடன் குறியாக்கம்"
+
+#: ../DialogSettings.ui:126
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Encryption"
+msgstr "குறியாக்கம்"
+
+#: ../DialogSettings.ui:138
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#: ../DialogSettings.ui:151
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Password"
+msgstr "கடவுச்சொல்லைக் காட்டு"
+
+#: ../DialogSettings.ui:454
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "User"
+msgstr "பயனர்"
+
+#: ../DialogSettings.ui:489 ../DialogSettings.ui:752
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Male"
+msgstr "ஆண்"
+
+#: ../DialogSettings.ui:518 ../DialogSettings.ui:781
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Female"
+msgstr "பெண்"
+
+#: ../DialogSettings.ui:614 ../DialogSettings.ui:886
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Name"
+msgstr "பெயர்"
+
+#: ../DialogSettings.ui:483 ../DialogSettings.ui:746
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Mandatory Information"
+msgstr "கட்டாய செய்தி"
+
+#: ../DialogSettings.ui:544 ../DialogSettings.ui:816
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Age Group"
+msgstr "அகவை"
+
+#: ../DialogSettings.ui:630 ../DialogSettings.ui:902
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Additional Information"
+msgstr "கூடுதல் தகவல்"
+
+#: ../DialogSettings.ui:690 ../DialogSettings.ui:962
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Height"
+msgstr "உயரம்"
+
+#: ../DialogSettings.ui:719 ../DialogSettings.ui:991
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Weight"
+msgstr "எடை"
+
+#: ../DialogSettings.ui:1016
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Device"
+msgstr "சாதனம்"
+
+#: ../DialogSettings.ui:1022 ../DialogSettings.cpp:77
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Import Plugins [ %1 ]"
+msgstr "இறக்குமதி செருகுநிரல்கள் [ %1]"
+
+#: ../DialogSettings.ui:1070
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Open Website"
+msgstr "திறந்த வலைத்தளம்"
+
+#: ../DialogSettings.ui:1083
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Maintainer"
+msgstr "பராமரிப்பாளர்"
+
+#: ../DialogSettings.ui:1111
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#: ../DialogSettings.ui:1118
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Send E-Mail"
+msgstr "மின்னஞ்சல் அனுப்புங்கள்"
+
+#: ../DialogSettings.ui:1131
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Model"
+msgstr "மாதிரியுரு"
+
+#: ../DialogSettings.ui:1138
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Producer"
+msgstr "தயாரிப்பாளர்"
+
+#: ../DialogSettings.ui:1155
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Chart"
+msgstr "விளக்கப்படம்"
+
+#: ../DialogSettings.ui:1282
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "X-Axis Range"
+msgstr "எக்ச்-அச்சு வரம்பு"
+
+#: ../DialogSettings.ui:1288
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Dynamic Scaling"
+msgstr "மாறும் அளவிடுதல்"
+
+#: ../DialogSettings.ui:1269
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Healthy Ranges"
+msgstr "ஆரோக்கியமான வரம்புகள்"
+
+#: ../DialogSettings.ui:1186
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Symbols"
+msgstr "குறியிடுகள்"
+
+#: ../DialogSettings.ui:1263
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Colored Areas"
+msgstr "வண்ண பகுதிகள்"
+
+#: ../DialogSettings.ui:1035
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Please choose Device Plugin…"
+msgstr "சாதன சொருகி என்பதைத் தேர்வுசெய்க…"
+
+#: ../DialogSettings.ui:338 ../DialogSettings.ui:1410
+#: ../DialogSettings.ui:1685
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Systolic"
+msgstr "சிச்டாலிக்"
+
+#: ../DialogSettings.ui:347 ../DialogSettings.ui:1498
+#: ../DialogSettings.ui:1773
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Diastolic"
+msgstr "டயச்டாலிக்"
+
+#: ../DialogSettings.ui:356 ../DialogSettings.ui:1586
+#: ../DialogSettings.ui:1861
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Heartrate"
+msgstr "இதயதுடிப்பு"
+
+#: ../DialogSettings.ui:1958
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: ../DialogSettings.ui:1989 ../DialogSettings.ui:2442
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "PPR Warnlevel"
+msgstr "பிபிஆர் முன்னறிவிப்பு"
+
+#: ../DialogSettings.ui:2043 ../DialogSettings.ui:2328
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Systolic Warnlevel"
+msgstr "சிச்டாலிக் எச்சரிக்கை"
+
+#: ../DialogSettings.ui:2103 ../DialogSettings.ui:2388
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Diastolic Warnlevel"
+msgstr "டயச்டாலிக் எச்சரிக்கை"
+
+#: ../DialogSettings.ui:176
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Automatic Backup"
+msgstr "தானியங்கி காப்புப்பிரதி"
+
+#: ../DialogSettings.ui:179
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Backup"
+msgstr "காப்புப்பிரதி"
+
+#: ../DialogSettings.ui:196
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Current Backup Location"
+msgstr "தற்போதைய காப்பு இடம்"
+
+#: ../DialogSettings.ui:209
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Change Backup Location"
+msgstr "காப்புப்பிரதி இருப்பிடத்தை மாற்றவும்"
+
+#: ../DialogSettings.ui:236
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Backup Mode"
+msgstr "காப்பு பயன்முறை"
+
+#: ../DialogSettings.ui:246
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Daily"
+msgstr "நாள்தோறும்"
+
+#: ../DialogSettings.ui:255
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Weekly"
+msgstr "வாராந்திர"
+
+#: ../DialogSettings.ui:264
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Monthly"
+msgstr "மாதாந்திர"
+
+#: ../DialogSettings.ui:276
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Keep Copies"
+msgstr "நகல்களை வைத்திருங்கள்"
+
+#: ../DialogSettings.ui:311
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Auto Hide Measurements"
+msgstr "ஆட்டோ மறை அளவீடுகள்"
+
+#: ../DialogSettings.ui:322
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Detection"
+msgstr "கண்டறிதல்"
+
+#: ../DialogSettings.ui:329
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Sum of All"
+msgstr "எல்லாவற்றின் தொகை"
+
+#: ../DialogSettings.ui:371
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Hide"
+msgstr "மறை"
+
+#: ../DialogSettings.ui:378
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Higher"
+msgstr "உயர்ந்த"
+
+#: ../DialogSettings.ui:387
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Lower"
+msgstr "கீழ்"
+
+#: ../DialogSettings.ui:404
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Time Span"
+msgstr "கால இடைவெளி"
+
+#: ../DialogSettings.ui:658 ../DialogSettings.ui:930
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Birthday"
+msgstr "பிறந்த நாள்"
+
+#: ../DialogSettings.ui:1195
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Color"
+msgstr "நிறம்"
+
+#: ../DialogSettings.ui:1219 ../DialogSettings.ui:1247
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Size"
+msgstr "அளவு"
+
+#: ../DialogSettings.ui:1301
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Lines"
+msgstr "வரிகள்"
+
+#: ../DialogSettings.ui:1310 ../DialogSettings.ui:1338
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Width"
+msgstr "அகலம்"
+
+#: ../DialogSettings.ui:1367
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Heartrate"
+msgstr "இதய துடிப்பைக் காட்டு"
+
+#: ../DialogSettings.ui:1373
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Heartrate in Chart View"
+msgstr "விளக்கப்பட பார்வையில் இதயத் துடிப்பைக் காட்டுங்கள்"
+
+#: ../DialogSettings.ui:1383
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Print Heartrate"
+msgstr "இதய துடிப்பு அச்சிடுக"
+
+#: ../DialogSettings.ui:1389
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Print Heartrate on separate Sheet"
+msgstr "இதயத் துடிப்பை தனி தாளில் அச்சிடுங்கள்"
+
+#: ../DialogSettings.ui:2714
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Additional Columns"
+msgstr "கூடுதல் நெடுவரிசைகள்"
+
+#: ../DialogSettings.ui:2868
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Header"
+msgstr "தலைப்பி"
+
+#: ../DialogSettings.ui:2157 ../DialogSettings.ui:2496
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Heartrate Warnlevel"
+msgstr "இதய துடிப்பு எச்சரிக்கை நிலை"
+
+#: ../DialogSettings.ui:2211 ../DialogSettings.ui:2550
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "MAP Warnlevel"
+msgstr "வரைபட முன்னறிவிப்பு"
+
+#: ../DialogSettings.ui:2262 ../DialogSettings.ui:2601
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "TGA Warnlevel"
+msgstr "டிசிஏ முன்னறிவிப்பு"
+
+#: ../DialogSettings.ui:2663
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Statistic"
+msgstr "புள்ளிவிவரம்"
+
+#: ../DialogSettings.ui:2669
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Bar Type"
+msgstr "பார் வகை"
+
+#: ../DialogSettings.ui:2675
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Median instead of Average Bars"
+msgstr "சராசரி பார்களுக்கு பதிலாக சராசரி காட்டு"
+
+#: ../DialogSettings.ui:2685
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Legend Type"
+msgstr "புராண வகை"
+
+#: ../DialogSettings.ui:2691
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Values as Legend instead of Descriptions"
+msgstr "விளக்கங்களுக்கு பதிலாக மதிப்புகளை புராணக்கதைகளாகக் காட்டுங்கள்"
+
+#: ../DialogSettings.ui:2706
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#: ../DialogSettings.ui:2720
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Pulse Pressure"
+msgstr "துடிப்பு அழுத்தம்"
+
+#: ../DialogSettings.ui:2743
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Mean Arterial Pressure"
+msgstr "தமனி சார்ந்த அழுத்தம்"
+
+#: ../DialogSettings.ui:2746
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "MAP"
+msgstr "வரைபடம்"
+
+#: ../DialogSettings.ui:2766
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Target Area"
+msgstr "இலக்கு பகுதி"
+
+#: ../DialogSettings.ui:2769
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "TGA"
+msgstr "டிசிஏ"
+
+#: ../DialogSettings.ui:2789
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Irregular Heartbeat"
+msgstr "ஒழுங்கற்ற இதய துடிப்பு"
+
+#: ../DialogSettings.ui:2812
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Movement"
+msgstr "இயக்கம்"
+
+#: ../DialogSettings.ui:2838
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Page Orientation"
+msgstr "பக்க நோக்குநிலை"
+
+#: ../DialogSettings.ui:2844
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Portrait"
+msgstr "உருவப்படம்"
+
+#: ../DialogSettings.ui:2854
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Landscape"
+msgstr "நிலப்பரப்பு"
+
+#: ../DialogSettings.ui:2874
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Column Headers as Graphics"
+msgstr "நெடுவரிசை தலைப்புகளை கிராபிக்ச் எனக் காட்டு"
+
+#: ../DialogSettings.ui:2887
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Footer"
+msgstr "அடிக்குறிப்பு"
+
+#: ../DialogSettings.ui:2893
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Show Column Descriptions"
+msgstr "நெடுவரிசை விளக்கங்களைக் காட்டு"
+
+#: ../DialogSettings.ui:2913
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "E-Mail"
+msgstr "மின்னஞ்சல்"
+
+#: ../DialogSettings.ui:2921
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Address"
+msgstr "முகவரி"
+
+#: ../DialogSettings.ui:2940
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Subject"
+msgstr "பொருள்"
+
+#: ../DialogSettings.ui:2958
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Message"
+msgstr "செய்தி"
+
+#: ../DialogSettings.ui:2979
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Plugin"
+msgstr "சொருகு"
+
+#: ../DialogSettings.ui:2985
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "General"
+msgstr "பொது"
+
+#: ../DialogSettings.ui:2991
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Log Device Communication to File"
+msgstr "கோப்புக்கு சாதன தகவல்தொடர்பு பதிவு"
+
+#: ../DialogSettings.ui:2998
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Import Measurements automatically"
+msgstr "அளவீடுகளை தானாக இறக்குமதி செய்யுங்கள்"
+
+#: ../DialogSettings.ui:3008
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Bluetooth"
+msgstr "ஊடலை"
+
+#: ../DialogSettings.ui:3014
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Discover Device automatically"
+msgstr "சாதனத்தை தானாகக் கண்டறியவும்"
+
+#: ../DialogSettings.ui:3021
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Connect Device automatically"
+msgstr "சாதனத்தை தானாக இணைக்கவும்"
+
+#: ../DialogSettings.ui:3036
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Update"
+msgstr "புதுப்பிப்பு"
+
+#: ../DialogSettings.ui:3042
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Autostart"
+msgstr "ஆட்டோச்டார்ட்"
+
+#: ../DialogSettings.ui:3048
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Check for Online Updates at Program Startup"
+msgstr "நிரல் தொடக்கத்தில் நிகழ்நிலை புதுப்பிப்புகளைச் சரிபார்க்கவும்"
+
+#: ../DialogSettings.ui:3061
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Notification"
+msgstr "அறிவிப்பு"
+
+#: ../DialogSettings.ui:3067
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Always show Result after Online Update Check"
+msgstr "நிகழ்நிலை புதுப்பிப்பு சோதனைக்குப் பிறகு எப்போதும் முடிவைக் காண்பி"
+
+#: ../DialogSettings.ui:3082
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Format"
+msgstr "வடிவம்"
+
+#: ../DialogSettings.ui:3090
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Date / Short"
+msgstr "தேதி / குறுகிய"
+
+#: ../DialogSettings.ui:3116
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Date / Long"
+msgstr "தேதி / நீண்டது"
+
+#: ../DialogSettings.ui:3146
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Time / Short"
+msgstr "நேரம் / குறுகிய"
+
+#: ../DialogSettings.ui:3172
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Time / Long"
+msgstr "நேரம் / நீண்ட"
+
+#: ../DialogSettings.ui:3206
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Save"
+msgstr "சேமி"
+
+#: ../DialogSettings.ui:3223
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#: ../DialogSettings.ui:3240
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogSettings"
+msgid "Close"
+msgstr "மூடு"
+
+#: ../DialogUpdate.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Online Update"
+msgstr "நிகழ்நிலை புதுப்பிப்பு"
+
+#: ../DialogUpdate.ui:27
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Info"
+msgstr "தகவல்"
+
+#: ../DialogUpdate.ui:80
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Available Version"
+msgstr "கிடைக்கும் பதிப்பு"
+
+#: ../DialogUpdate.ui:90
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Update File Size"
+msgstr "கோப்பு அளவைப் புதுப்பிக்கவும்"
+
+#: ../DialogUpdate.ui:104
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Installed Version"
+msgstr "நிறுவப்பட்ட பதிப்பு"
+
+#: ../DialogUpdate.ui:156
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Details"
+msgstr "விவரங்கள்"
+
+#: ../DialogUpdate.ui:181 ../DialogUpdate.ui:202
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Download"
+msgstr "பதிவிறக்கம்"
+
+#: ../DialogUpdate.ui:222
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Ignore"
+msgstr "புறக்கணிக்கவும்"
+
+#: ../DialogUpdate.cpp:183
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "No new version found."
+msgstr "புதிய பதிப்பு எதுவும் கிடைக்கவில்லை."
+
+#: ../DialogUpdate.cpp:42
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"!!! SSL WARNING - READ CAREFULLY !!!\n"
+"\n"
+"Network connection problem:\n"
+"\n"
+"%1\n"
+"Do you wish to continue anyway?"
+msgid_plural ""
+"!!! SSL WARNING - READ CAREFULLY !!!\n"
+"\n"
+"Network connection problems:\n"
+"\n"
+"%1\n"
+"Do you wish to continue anyway?"
+msgstr[0] ""
+"!!! எச்.எச்.எல் எச்சரிக்கை - கவனமாகப் படியுங்கள் !!!\n"
+"\n"
+" பிணைய இணைப்பு சிக்கல்:\n"
+"\n"
+" %1\n"
+" எப்படியும் தொடர விரும்புகிறீர்களா?"
+msgstr[1] ""
+"!!! எச்.எச்.எல் எச்சரிக்கை - கவனமாகப் படியுங்கள் !!!\n"
+"\n"
+" பிணைய இணைப்பு சிக்கல்கள்:\n"
+"\n"
+" %1\n"
+" எப்படியும் தொடர விரும்புகிறீர்களா?"
+
+#: ../DialogUpdate.cpp:73
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"Downloading update failed!\n"
+"\n"
+"%1"
+msgstr ""
+"புதுப்பிப்பு பதிவிறக்குவது தோல்வியடைந்தது!\n"
+"\n"
+" %1"
+
+#: ../DialogUpdate.cpp:73
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"Checking update failed!\n"
+"\n"
+"%1"
+msgstr ""
+"புதுப்பிப்பை சரிபார்க்கிறது தோல்வியுற்றது!\n"
+"\n"
+" %1"
+
+#: ../DialogUpdate.cpp:156
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Unexpected response from update server!"
+msgstr "புதுப்பிப்பு சேவையகத்திலிருந்து எதிர்பாராத பதில்!"
+
+#: ../DialogUpdate.cpp:173
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "*%1 not found"
+msgstr "*%1 கண்டுபிடிக்கப்படவில்லை"
+
+#: ../DialogUpdate.cpp:203
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"Update doesn't have expected size!\n"
+"\n"
+"%L1 : %L2\n"
+"\n"
+"Retry download…"
+msgstr ""
+"புதுப்பிப்புக்கு எதிர்பார்க்கப்பட்ட அளவு இல்லை!\n"
+"\n"
+" %எல் 1: %எல் 2\n"
+"\n"
+" பதிவிறக்கம் மீண்டும் முயற்சிக்கவும்…"
+
+#: ../DialogUpdate.cpp:207
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"Update saved to %1.\n"
+"\n"
+"Start new version now?"
+msgstr ""
+"புதுப்பிப்பு %1 க்கு சேமிக்கப்பட்டது.\n"
+"\n"
+" புதிய பதிப்பை இப்போது தொடங்கவா?"
+
+#: ../DialogUpdate.cpp:220
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Could not start new version!"
+msgstr "புதிய பதிப்பைத் தொடங்க முடியவில்லை!"
+
+#: ../DialogUpdate.cpp:247
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"The program was installed by Flatpak.\n"
+"\n"
+"Please update using the Flatpak internal update function."
+msgstr ""
+"நிரல் பிளாட்பாக் நிறுவியது.\n"
+"\n"
+" பிளாட்பாக் உள் புதுப்பிப்பு செயல்பாட்டைப் பயன்படுத்தி புதுப்பிக்கவும்."
+
+#: ../DialogUpdate.cpp:253
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"The program was installed by Snap.\n"
+"\n"
+"Please update using the Snap internal update function."
+msgstr ""
+"நிரல் SNAP ஆல் நிறுவப்பட்டது.\n"
+"\n"
+" ச்னாப் உள் புதுப்பிப்பு செயல்பாட்டைப் பயன்படுத்தி புதுப்பிக்கவும்."
+
+#: ../DialogUpdate.cpp:259
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"The program was installed from Windows store.\n"
+"\n"
+"Please update using the store internal update function."
+msgstr ""
+"சாளரங்கள் ச்டோரிலிருந்து நிரல் நிறுவப்பட்டது.\n"
+"\n"
+" கடை உள் புதுப்பிப்பு செயல்பாட்டைப் பயன்படுத்தி புதுப்பிக்கவும்."
+
+#: ../DialogUpdate.cpp:265
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"The program was installed from distribution.\n"
+"\n"
+"Please update using the operating systems internal update function."
+msgstr ""
+"நிரல் விநியோகத்திலிருந்து நிறுவப்பட்டது.\n"
+"\n"
+" இயக்க முறைமைகள் உள் புதுப்பிப்பு செயல்பாட்டைப் பயன்படுத்தி புதுப்பிக்கவும்."
+
+#: ../DialogUpdate.cpp:271
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"The program was installed from source code.\n"
+"\n"
+"Please update the sources, rebuild and reinstall manually."
+msgstr ""
+"மூலக் குறியீட்டிலிருந்து நிரல் நிறுவப்பட்டது.\n"
+"\n"
+" தயவுசெய்து ஆதாரங்களைப் புதுப்பித்து, மீண்டும் கட்டியெழுப்பவும், கைமுறையாக மீண்டும் நிறுவவும்."
+
+#: ../DialogUpdate.cpp:297
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid "Really abort download?"
+msgstr "உண்மையில் பதிவிறக்கம் செய்யவா?"
+
+#: ../DialogUpdate.cpp:227
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "DialogUpdate"
+msgid ""
+"Could not save update to %1!\n"
+"\n"
+"%2"
+msgstr ""
+"புதுப்பிப்பை %1 க்கு சேமிக்க முடியவில்லை!\n"
+"\n"
+" %2"
+
+#: ../MainWindow.ui:14
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Universal Blood Pressure Manager"
+msgstr "உலகளாவிய இரத்த அழுத்த மேலாளர்"
+
+#: ../MainWindow.ui:30
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Previous Period"
+msgstr "முந்தைய காலத்தைக் காட்டு"
+
+#: ../MainWindow.ui:104
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Next Period"
+msgstr "அடுத்த காலகட்டத்தைக் காட்டு"
+
+#: ../MainWindow.ui:143
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Chart View"
+msgstr "விளக்கப்பட பார்வை"
+
+#: ../MainWindow.ui:171
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Table View"
+msgstr "அட்டவணை பார்வை"
+
+#: ../MainWindow.ui:211 ../MainWindow.cpp:2713 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Date"
+msgstr "திகதி"
+
+#: ../MainWindow.ui:220 ../MainWindow.cpp:2714 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Time"
+msgstr "நேரம்"
+
+#: ../MainWindow.ui:232 ../MainWindow.cpp:159 ../MainWindow.cpp:2821
+#: ../MainWindow.cpp:5077
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Systolic"
+msgstr "சிச்டாலிக்"
+
+#: ../MainWindow.ui:244 ../MainWindow.cpp:160 ../MainWindow.cpp:2821
+#: ../MainWindow.cpp:5078
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Diastolic"
+msgstr "டயச்டாலிக்"
+
+#: ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Irregular"
+msgstr "ஒழுங்கற்ற"
+
+#: ../MainWindow.ui:316 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Movement"
+msgstr "இயக்கம்"
+
+#: ../MainWindow.ui:325
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "INV"
+msgstr "இன்வ்"
+
+#: ../MainWindow.ui:328
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Invisible"
+msgstr "கண்ணுக்கு தெரியாத"
+
+#: ../MainWindow.ui:337 ../MainWindow.cpp:2725 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Comment"
+msgstr "கருத்து"
+
+#: ../MainWindow.ui:354
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Statistic View"
+msgstr "புள்ளிவிவர பார்வை"
+
+#: ../MainWindow.ui:449
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "¼ Hourly"
+msgstr "Hour மணிநேரம்"
+
+#: ../MainWindow.ui:484
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "½ Hourly"
+msgstr "½ மணிநேரம்"
+
+#: ../MainWindow.ui:516
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Hourly"
+msgstr "மணிநேரத்திற்கு"
+
+#: ../MainWindow.ui:551
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "¼ Daily"
+msgstr "¼ நாள்தோறும்"
+
+#: ../MainWindow.ui:583
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "½ Daily"
+msgstr "½ நாள்தோறும்"
+
+#: ../MainWindow.ui:615
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Daily"
+msgstr "நாள்தோறும்"
+
+#: ../MainWindow.ui:650
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "3 Days"
+msgstr "3 நாட்கள்"
+
+#: ../MainWindow.ui:682
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Weekly"
+msgstr "வாராந்திர"
+
+#: ../MainWindow.ui:714
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Monthly"
+msgstr "மாதாந்திர"
+
+#: ../MainWindow.ui:746
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Quarterly"
+msgstr "காலாண்டு"
+
+#: ../MainWindow.ui:778
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "½ Yearly"
+msgstr "½ வருடாந்திர"
+
+#: ../MainWindow.ui:810
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Yearly"
+msgstr "ஆண்டு"
+
+#: ../MainWindow.ui:870
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 3 Days"
+msgstr "கடந்த 3 நாட்கள்"
+
+#: ../MainWindow.ui:902
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 7 Days"
+msgstr "கடந்த 7 நாட்கள்"
+
+#: ../MainWindow.ui:934
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 14 Days"
+msgstr "கடந்த 14 நாட்கள்"
+
+#: ../MainWindow.ui:966
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 21 Days"
+msgstr "கடந்த 21 நாட்கள்"
+
+#: ../MainWindow.ui:998
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 28 Days"
+msgstr "கடைசி 28 நாட்கள்"
+
+#: ../MainWindow.ui:1030
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 3 Months"
+msgstr "கடந்த 3 மாதங்கள்"
+
+#: ../MainWindow.ui:1062
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 6 Months"
+msgstr "கடந்த 6 மாதங்கள்"
+
+#: ../MainWindow.ui:1094
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 9 Months"
+msgstr "கடந்த 9 மாதங்கள்"
+
+#: ../MainWindow.ui:1126
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Last 12 Months"
+msgstr "கடந்த 12 மாதங்கள்"
+
+#: ../MainWindow.ui:1158
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "All Records"
+msgstr "அனைத்து பதிவுகளும்"
+
+#: ../MainWindow.ui:1205
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "File"
+msgstr "கோப்பு"
+
+#: ../MainWindow.ui:1209
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#: ../MainWindow.ui:1231
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Help"
+msgstr "உதவி"
+
+#: ../MainWindow.ui:1248
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Configuration"
+msgstr "உள்ளமைவு"
+
+#: ../MainWindow.ui:1252
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+#: ../MainWindow.ui:1261
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Language"
+msgstr "மொழி"
+
+#: ../MainWindow.ui:1270
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Style"
+msgstr "சூல் தண்டு"
+
+#: ../MainWindow.ui:1279
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Charts"
+msgstr "விளக்கப்படங்கள்"
+
+#: ../MainWindow.ui:1304
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Database"
+msgstr "தரவுத்தளம்"
+
+#: ../MainWindow.ui:1308
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#: ../MainWindow.ui:1320
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#: ../MainWindow.ui:1337
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Clear"
+msgstr "தெளிவான"
+
+#: ../MainWindow.ui:1427
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Quit"
+msgstr "வெளியேறு"
+
+#: ../MainWindow.ui:1430 ../MainWindow.ui:1433
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Quit Program"
+msgstr "நிராகரிப்பதை விட்டு"
+
+#: ../MainWindow.ui:1445
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "About"
+msgstr "பற்றி"
+
+#: ../MainWindow.ui:1448 ../MainWindow.ui:1451
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "About Program"
+msgstr "நிரல் பற்றி"
+
+#: ../MainWindow.ui:1460
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Guide"
+msgstr "வழிகாட்டி"
+
+#: ../MainWindow.ui:1463 ../MainWindow.ui:1466
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Guide"
+msgstr "வழிகாட்டியைக் காட்டு"
+
+#: ../MainWindow.ui:1475
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Update"
+msgstr "புதுப்பிப்பு"
+
+#: ../MainWindow.ui:1478 ../MainWindow.ui:1481
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Check Update"
+msgstr "புதுப்பிப்பைச் சரிபார்க்கவும்"
+
+#: ../MainWindow.ui:1640
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "To FIT"
+msgstr "பொருத்த"
+
+#: ../MainWindow.ui:1643 ../MainWindow.ui:1646
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export to FIT"
+msgstr "பொருத்தமாக ஏற்றுமதி"
+
+#: ../MainWindow.ui:1658
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "To PDF"
+msgstr "PDF க்கு"
+
+#: ../MainWindow.ui:1661 ../MainWindow.ui:1664
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export To PDF"
+msgstr "PDF க்கு ஏற்றுமதி"
+
+#: ../MainWindow.ui:1673
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Migration"
+msgstr "குடிபெயர்வு"
+
+#: ../MainWindow.ui:1676 ../MainWindow.ui:1679
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Migrate from Vendor"
+msgstr "விற்பனையாளரிடமிருந்து குடியேறவும்"
+
+#: ../MainWindow.ui:1923
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Translation"
+msgstr "மொழிபெயர்ப்பு"
+
+#: ../MainWindow.ui:1926 ../MainWindow.ui:1929
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Contribute Translation"
+msgstr "மொழிபெயர்ப்பை பங்களிக்கவும்"
+
+#: ../MainWindow.ui:1938
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "E-Mail"
+msgstr "மின்னஞ்சல்"
+
+#: ../MainWindow.ui:1941 ../MainWindow.ui:1944
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Send E-Mail"
+msgstr "மின்னஞ்சல் அனுப்புங்கள்"
+
+#: ../MainWindow.ui:1956
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Icons"
+msgstr "சின்னங்கள்"
+
+#: ../MainWindow.ui:1959 ../MainWindow.ui:1962
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Change Icon Color"
+msgstr "படவுரு நிறத்தை மாற்றவும்"
+
+#: ../MainWindow.ui:1973
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "System"
+msgstr "மண்டலம்"
+
+#: ../MainWindow.ui:1976 ../MainWindow.ui:1979
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "System Colors"
+msgstr "கணினி வண்ணங்கள்"
+
+#: ../MainWindow.ui:1987
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Light"
+msgstr "ஒளி"
+
+#: ../MainWindow.ui:1990 ../MainWindow.ui:1993
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Light Colors"
+msgstr "ஒளி வண்ணங்கள்"
+
+#: ../MainWindow.ui:2001
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#: ../MainWindow.ui:2004 ../MainWindow.ui:2007
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Dark Colors"
+msgstr "இருண்ட வண்ணங்கள்"
+
+#: ../MainWindow.ui:2016
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Donation"
+msgstr "நன்கொடை"
+
+#: ../MainWindow.ui:2031 ../MainWindow.cpp:3851
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Distribution"
+msgstr "பரவல்"
+
+#: ../MainWindow.ui:2034 ../MainWindow.ui:2037
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Distribution"
+msgstr "விநியோகத்தைக் காட்டு"
+
+#: ../MainWindow.ui:2049 ../MainWindow.ui:2052
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Save"
+msgstr "சேமி"
+
+#: ../MainWindow.ui:2061
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Wiki"
+msgstr "விக்கி"
+
+#: ../MainWindow.ui:2064 ../MainWindow.ui:2067
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Read Wiki"
+msgstr "விக்கியைப் படியுங்கள்"
+
+#: ../MainWindow.ui:256 ../MainWindow.cpp:161 ../MainWindow.cpp:2821
+#: ../MainWindow.cpp:5079
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Heartrate"
+msgstr "இதயதுடிப்பு"
+
+#: ../MainWindow.ui:2019 ../MainWindow.ui:2022
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Make Donation"
+msgstr "நன்கொடை செய்யுங்கள்"
+
+#: ../MainWindow.ui:1493
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Bugreport"
+msgstr "பிழைத்திருத்த"
+
+#: ../MainWindow.ui:229
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "SYS"
+msgstr "கட்டமைப்பு"
+
+#: ../MainWindow.ui:241
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "DIA"
+msgstr "டியா"
+
+#: ../MainWindow.ui:253
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "HRT"
+msgstr "Hrt"
+
+#: ../MainWindow.ui:265
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "PPR"
+msgstr "பிபிஆர்"
+
+#: ../MainWindow.ui:268 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Pulse Pressure"
+msgstr "துடிப்பு அழுத்தம்"
+
+#: ../MainWindow.ui:277
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "MAP"
+msgstr "வரைபடம்"
+
+#: ../MainWindow.ui:280 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Mean Arterial Pressure"
+msgstr "தமனி சார்ந்த அழுத்தம்"
+
+#: ../MainWindow.ui:289
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "TGA"
+msgstr "டிசிஏ"
+
+#: ../MainWindow.ui:292 ../MainWindow.cpp:2821
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Target Area"
+msgstr "இலக்கு பகுதி"
+
+#: ../MainWindow.ui:301
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "IHB"
+msgstr "IHB"
+
+#: ../MainWindow.ui:304
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Irregular Heartbeat"
+msgstr "ஒழுங்கற்ற இதய துடிப்பு"
+
+#: ../MainWindow.ui:313
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "MOV"
+msgstr "மூவ்"
+
+#: ../MainWindow.ui:1496 ../MainWindow.ui:1499
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Send Bugreport"
+msgstr "பிழைத்திருத்தத்தை அனுப்பு"
+
+#: ../MainWindow.ui:1508
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: ../MainWindow.ui:1511 ../MainWindow.ui:1514
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Change Settings"
+msgstr "அமைப்புகளை மாற்றவும்"
+
+#: ../MainWindow.ui:1529
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "From Device"
+msgstr "சாதனத்திலிருந்து"
+
+#: ../MainWindow.ui:1532 ../MainWindow.ui:1535
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Import From Device"
+msgstr "சாதனத்திலிருந்து இறக்குமதி"
+
+#: ../MainWindow.ui:1547
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "From File"
+msgstr "கோப்பிலிருந்து"
+
+#: ../MainWindow.ui:1550 ../MainWindow.ui:1553
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Import From File"
+msgstr "கோப்பிலிருந்து இறக்குமதி"
+
+#: ../MainWindow.ui:1562
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "From Input"
+msgstr "உள்ளீட்டிலிருந்து"
+
+#: ../MainWindow.ui:1565 ../MainWindow.ui:1568
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Import From Input"
+msgstr "உள்ளீட்டிலிருந்து இறக்குமதி"
+
+#: ../MainWindow.ui:1577
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "To CSV"
+msgstr "காபிம க்கு"
+
+#: ../MainWindow.ui:1580 ../MainWindow.ui:1583
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export To CSV"
+msgstr "காபிம க்கு ஏற்றுமதி"
+
+#: ../MainWindow.ui:1595
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "To XML"
+msgstr "எக்ச்எம்எல்"
+
+#: ../MainWindow.ui:1598 ../MainWindow.ui:1601
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export To XML"
+msgstr "எக்ச்எம்எல் ஏற்றுமதி"
+
+#: ../MainWindow.ui:1610
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "To JSON"
+msgstr "சாதொபொகு க்கு"
+
+#: ../MainWindow.ui:1613 ../MainWindow.ui:1616
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export To JSON"
+msgstr "சாதொபொகு க்கு ஏற்றுமதி"
+
+#: ../MainWindow.ui:1625
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "To SQL"
+msgstr "கவிமொ க்கு"
+
+#: ../MainWindow.ui:1628 ../MainWindow.ui:1631
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export To SQL"
+msgstr "கவிமொ க்கு ஏற்றுமதி"
+
+#: ../MainWindow.ui:1691
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print Chart"
+msgstr "விளக்கப்படம் அச்சு"
+
+#: ../MainWindow.ui:1694 ../MainWindow.ui:1697
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print Chart View"
+msgstr "விளக்கப்படக் காட்சி"
+
+#: ../MainWindow.ui:1706
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print Table"
+msgstr "அட்டவணை அச்சிடு"
+
+#: ../MainWindow.ui:1709 ../MainWindow.ui:1712
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print Table View"
+msgstr "அட்டவணை பார்வை அச்சிடுக"
+
+#: ../MainWindow.ui:1721
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print Statistic"
+msgstr "புள்ளிவிவரங்களை அச்சிடுக"
+
+#: ../MainWindow.ui:1724 ../MainWindow.ui:1727
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Print Statistic View"
+msgstr "புள்ளிவிவரக் காட்சியை அச்சிடுக"
+
+#: ../MainWindow.ui:1736
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Preview Chart"
+msgstr "முன்னோட்டம் விளக்கப்படம்"
+
+#: ../MainWindow.ui:1739 ../MainWindow.ui:1742
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Preview Chart View"
+msgstr "முன்னோட்டம் விளக்கப்படம்"
+
+#: ../MainWindow.ui:1751
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Preview Table"
+msgstr "முன்னோட்டம் அட்டவணை"
+
+#: ../MainWindow.ui:1754 ../MainWindow.ui:1757
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Preview Table View"
+msgstr "முன்னோட்ட அட்டவணை பார்வை"
+
+#: ../MainWindow.ui:1766
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Preview Statistic"
+msgstr "முன்னோட்டம் புள்ளிவிவரம்"
+
+#: ../MainWindow.ui:1769 ../MainWindow.ui:1772
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Preview Statistic View"
+msgstr "புள்ளிவிவர பார்வையை முன்னோட்டமிடுங்கள்"
+
+#: ../MainWindow.ui:1781 ../MainWindow.ui:1784 ../MainWindow.ui:1787
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Clear All"
+msgstr "அனைத்தையும் அழிக்கவும்"
+
+#: ../MainWindow.ui:1799 ../MainWindow.ui:1802 ../MainWindow.ui:1805
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Clear User 1"
+msgstr "பயனர் 1 ஐ அழிக்கவும்"
+
+#: ../MainWindow.ui:1814 ../MainWindow.ui:1817 ../MainWindow.ui:1820
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Clear User 2"
+msgstr "பயனர் 2 ஐ அழிக்கவும்"
+
+#: ../MainWindow.ui:1880
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Analysis"
+msgstr "பகுப்பாய்வு"
+
+#: ../MainWindow.ui:1883 ../MainWindow.ui:1886
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Analyze Records"
+msgstr "பதிவுகளை பகுப்பாய்வு செய்யுங்கள்"
+
+#: ../MainWindow.ui:1905 ../MainWindow.ui:1908 ../MainWindow.ui:1911
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Time Mode"
+msgstr "நேர முறை"
+
+#: ../MainWindow.cpp:108 ../MainWindow.cpp:109 ../MainWindow.cpp:5047
+#: ../MainWindow.cpp:5048
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Records For Selected User"
+msgstr "தேர்ந்தெடுக்கப்பட்ட பயனருக்கான பதிவுகள்"
+
+#: ../MainWindow.cpp:116 ../MainWindow.cpp:117 ../MainWindow.cpp:5050
+#: ../MainWindow.cpp:5051
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Select Date & Time"
+msgstr "தேதி & நேரம் என்பதைத் தேர்ந்தெடுக்கவும்"
+
+#: ../MainWindow.cpp:169 ../MainWindow.cpp:5081
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Systolic - Value Range"
+msgstr "சிச்டாலிக் - மதிப்பு வரம்பு"
+
+#: ../MainWindow.cpp:170 ../MainWindow.cpp:5082
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Diastolic - Value Range"
+msgstr "டயச்டாலிக் - மதிப்பு வரம்பு"
+
+#: ../MainWindow.cpp:173 ../MainWindow.cpp:5084
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Systolic - Target Area"
+msgstr "சிச்டாலிக் - இலக்கு பகுதி"
+
+#: ../MainWindow.cpp:174 ../MainWindow.cpp:5085
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Diastolic - Target Area"
+msgstr "டயச்டாலிக் - இலக்கு பகுதி"
+
+#: ../MainWindow.cpp:1761
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Athlete"
+msgstr "தடகள"
+
+#: ../MainWindow.cpp:1762
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Excellent"
+msgstr "சிறந்த"
+
+#: ../MainWindow.cpp:1762
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Optimal"
+msgstr "உகந்த"
+
+#: ../MainWindow.cpp:1763
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Great"
+msgstr "பெரிய"
+
+#: ../MainWindow.cpp:1764
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Good"
+msgstr "நல்லது"
+
+#: ../MainWindow.cpp:1763
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Normal"
+msgstr "சாதாரண"
+
+#: ../MainWindow.ui:1841 ../MainWindow.ui:1844 ../MainWindow.ui:1865
+#: ../MainWindow.ui:1868 ../MainWindow.cpp:102 ../MainWindow.cpp:103
+#: ../MainWindow.cpp:104 ../MainWindow.cpp:105 ../MainWindow.cpp:4753
+#: ../MainWindow.cpp:4754 ../MainWindow.cpp:4755 ../MainWindow.cpp:4756
+#: ../MainWindow.cpp:5111 ../MainWindow.cpp:5112 ../MainWindow.cpp:5113
+#: ../MainWindow.cpp:5114
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Switch To %1"
+msgstr "%1 க்கு மாறவும்"
+
+#: ../MainWindow.cpp:102 ../MainWindow.cpp:103 ../MainWindow.cpp:610
+#: ../MainWindow.cpp:4753 ../MainWindow.cpp:4754 ../MainWindow.cpp:5111
+#: ../MainWindow.cpp:5112
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "User 1"
+msgstr "பயனர் 1"
+
+#: ../MainWindow.cpp:104 ../MainWindow.cpp:105 ../MainWindow.cpp:620
+#: ../MainWindow.cpp:4755 ../MainWindow.cpp:4756 ../MainWindow.cpp:5113
+#: ../MainWindow.cpp:5114
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "User 2"
+msgstr "பயனர் 2"
+
+#: ../MainWindow.cpp:171 ../MainWindow.cpp:5083
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Heartrate - Value Range"
+msgstr "இதய துடிப்பு - மதிப்பு வரம்பு"
+
+#: ../MainWindow.cpp:175 ../MainWindow.cpp:5086
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Heartrate - Target Area"
+msgstr "இதய துடிப்பு - இலக்கு பகுதி"
+
+#: ../MainWindow.cpp:341
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "No active device plugin, auto import aborted."
+msgstr "செயலில் உள்ள சாதன சொருகி இல்லை, தானாக இறக்குமதி கைவிடப்பட்டது."
+
+#: ../MainWindow.cpp:358
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Some plugins will not work without Bluetooth permission."
+msgstr "சில செருகுநிரல்கள் ஊடலை அனுமதியின்றி வேலை செய்யாது."
+
+#: ../MainWindow.cpp:461
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not create backup directory.\n"
+"\n"
+"Please check backup location setting."
+msgstr ""
+"காப்புப்பிரதி கோப்பகத்தை உருவாக்க முடியவில்லை.\n"
+"\n"
+" காப்புப்பிரதி இருப்பிட அமைப்பை சரிபார்க்கவும்."
+
+#: ../MainWindow.cpp:490 ../MainWindow.cpp:513
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not backup database:\n"
+"\n"
+"%1"
+msgstr ""
+"தரவுத்தளத்தை காப்புப் பிரதி எடுக்க முடியவில்லை:\n"
+"\n"
+" %1"
+
+#: ../MainWindow.cpp:503
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not delete outdated backup:\n"
+"\n"
+"%1"
+msgstr ""
+"காலாவதியான காப்புப்பிரதியை நீக்க முடியவில்லை:\n"
+"\n"
+" %1"
+
+#: ../MainWindow.cpp:530
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Could not register icons."
+msgstr "ஐகான்களை பதிவு செய்ய முடியவில்லை."
+
+#: ../MainWindow.cpp:688
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Blood Pressure Report"
+msgstr "இரத்த அழுத்த அறிக்கை"
+
+#: ../MainWindow.cpp:1261
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "SYS : Ø %1 / x̃ %4  |  DIA : Ø %2 / x̃ %5  |  BPM : Ø %3 / x̃ %6"
+msgstr "Sys: Ø %1 / x̃ %4 | Dia: Ø %2 / x̃ %5 | பிபிஎம்: Ø %3 / x̃ %6"
+
+#: ../MainWindow.cpp:1266
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "SYS : Ø 0 / x̃ 0  |  DIA : Ø 0 / x̃ 0  |  BPM : Ø 0 / x̃ 0"
+msgstr "Sys: Ø 0 / x̃ 0 | Dia: Ø 0 / x̃ 0 | பிபிஎம்: Ø 0 / x̃ 0"
+
+#: ../MainWindow.cpp:1761
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Low"
+msgstr "குறைந்த"
+
+#: ../MainWindow.cpp:1764
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "High Normal"
+msgstr "உயர் இயல்பானது"
+
+#: ../MainWindow.cpp:1765 ../MainWindow.cpp:2242 ../MainWindow.cpp:5090
+#: ../MainWindow.cpp:5094 ../MainWindow.cpp:5098 ../MainWindow.h:202
+#: ../MainWindow.h:206 ../MainWindow.h:210
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Average"
+msgstr "சராசரி"
+
+#: ../MainWindow.cpp:1765
+#, ignore-end-exclamation, ignore-end-stop, ignore-multiple-failures, ignore-translated
+msgctxt "MainWindow"
+msgid "Hyper 1"
+msgstr "ஐப்பர் 1"
+
+#: ../MainWindow.cpp:1766
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Below Average"
+msgstr "சராசரிக்கு கீழே"
+
+#: ../MainWindow.cpp:1766
+#, ignore-end-exclamation, ignore-end-stop, ignore-multiple-failures, ignore-translated
+msgctxt "MainWindow"
+msgid "Hyper 2"
+msgstr "ஐப்பர் 2"
+
+#: ../MainWindow.cpp:1767
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Poor"
+msgstr "ஏழை"
+
+#: ../MainWindow.cpp:1767
+#, ignore-end-exclamation, ignore-end-stop, ignore-multiple-failures, ignore-translated
+msgctxt "MainWindow"
+msgid "Hyper 3"
+msgstr "ஐப்பர் 3"
+
+#: ../MainWindow.cpp:1912
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Scanning import plugin \"%1\" failed!\n"
+"\n"
+"%2"
+msgstr ""
+"ச்கேனிங் இறக்குமதி சொருகி \"%1\" தோல்வியடைந்தது!\n"
+"\n"
+" %2"
+
+#: ../MainWindow.cpp:1929 ../MainWindow.cpp:1956 ../MainWindow.cpp:5057
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Switch Language to %1"
+msgstr "மொழியை %1 ஆக மாற்றவும்"
+
+#: ../MainWindow.cpp:1982 ../MainWindow.cpp:1997 ../MainWindow.cpp:5065
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Switch Theme to %1"
+msgstr "கருப்பொருள் %1 க்கு மாற்றவும்"
+
+#: ../MainWindow.cpp:2022 ../MainWindow.cpp:2042 ../MainWindow.cpp:5073
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Switch Style to %1"
+msgstr "பாணியை %1 ஆக மாற்றவும்"
+
+#: ../MainWindow.cpp:2113
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Edit record"
+msgstr "பதிவைத் திருத்து"
+
+#: ../MainWindow.cpp:2242 ../MainWindow.cpp:5091 ../MainWindow.cpp:5095
+#: ../MainWindow.cpp:5099 ../MainWindow.h:203 ../MainWindow.h:207
+#: ../MainWindow.h:211
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Median"
+msgstr "இடைநடு"
+
+#: ../MainWindow.cpp:2244
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Click to swap Average and Median"
+msgstr "சராசரி மற்றும் சராசரி இடமாற்றம் செய்ய சொடுக்கு செய்க"
+
+#: ../MainWindow.cpp:2339
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Click to swap Legend and Label"
+msgstr "லெசண்ட் மற்றும் லேபிளைப் மாற்ற சொடுக்கு செய்க"
+
+#: ../MainWindow.cpp:2378
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "No records to preview for selected time range!"
+msgstr "தேர்ந்தெடுக்கப்பட்ட நேர வரம்பிற்கு முன்னோட்டமிட பதிவுகள் இல்லை!"
+
+#: ../MainWindow.cpp:2410
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "No records to print for selected time range!"
+msgstr "தேர்ந்தெடுக்கப்பட்ட நேர வரம்பிற்கு அச்சிட பதிவுகள் இல்லை!"
+
+#: ../MainWindow.cpp:2467
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "User %1"
+msgstr "பயனர் %1"
+
+#: ../MainWindow.cpp:2987
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not create e-mail because generating base64 for attachment \"%1\" failed!\n"
+"\n"
+"%2"
+msgstr ""
+"\"%1\" இணைப்புக்கு BASE64 ஐ உருவாக்குவது தோல்வியுற்றதால் மின்னஞ்சலை உருவாக்க முடியவில்லை!\n"
+"\n"
+" %2"
+
+#: ../MainWindow.cpp:3191 ../MainWindow.cpp:4502
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Skipped %n hidden record!"
+msgid_plural "Skipped %n hidden records!"
+msgstr[0] "%N மறைக்கப்பட்ட பதிவைத் தவிர்த்தது!"
+msgstr[1] "%N மறைக்கப்பட்ட பதிவுகளைத் தவிர்த்தது!"
+
+#: ../MainWindow.cpp:3855 ../MainWindow.cpp:4661
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Chart"
+msgstr "விளக்கப்படம்"
+
+#: ../MainWindow.cpp:3855 ../MainWindow.cpp:4678
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: ../MainWindow.cpp:3855 ../MainWindow.cpp:4695
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Statistic"
+msgstr "புள்ளிவிவரம்"
+
+#: ../MainWindow.cpp:4619
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "No records to analyse!"
+msgstr "பகுப்பாய்வு செய்ய பதிவுகள் இல்லை!"
+
+#: ../MainWindow.cpp:4631
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "No records to display for selected time range!"
+msgstr "தேர்ந்தெடுக்கப்பட்ட நேர வரம்பைக் காண்பிக்க பதிவுகள் இல்லை!"
+
+#: ../MainWindow.cpp:4713
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not open e-mail \"%1\"!\n"
+"\n"
+"%2"
+msgstr ""
+"\"%1\" என்ற மின்னஞ்சலைத் திறக்க முடியவில்லை!\n"
+"\n"
+" %2"
+
+#: ../MainWindow.cpp:4723
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Could not start e-mail client!"
+msgstr "மின்னஞ்சல் கிளையண்டைத் தொடங்க முடியவில்லை!"
+
+#: ../MainWindow.cpp:4728
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "No records to e-mail for selected time range!"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட நேர வரம்பிற்கு மின்னஞ்சல் அனுப்ப எந்த பதிவுகளும் இல்லை!"
+
+#: ../MainWindow.cpp:4734
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Select Icon Color"
+msgstr "படவுரு வண்ணத்தைத் தேர்ந்தெடுக்கவும்"
+
+#: ../MainWindow.cpp:4740
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Restart application to apply new icon color."
+msgstr ""
+"புதிய படவுரு வண்ணத்தைப் பயன்படுத்த விண்ணப்பத்தை மறுதொடக்கம் செய்யுங்கள்."
+
+#: ../MainWindow.cpp:940
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"The database can not be saved.\n"
+"\n"
+"Please choose another location in the settings or all data will be lost."
+msgstr ""
+"தரவுத்தளத்தை சேமிக்க முடியாது.\n"
+"\n"
+" அமைப்புகளில் மற்றொரு இருப்பிடத்தைத் தேர்வுசெய்க அல்லது எல்லா தரவுகளும் இழக்கப்படும்."
+
+#: ../MainWindow.cpp:2462
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Created with UBPM for\n"
+"Windows / Linux / macOS"
+msgstr ""
+"UBPM உடன் உருவாக்கப்பட்டது\n"
+" சாளரங்கள் / லினக்ச் / மேகோச்"
+
+#: ../MainWindow.cpp:2463
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Free and OpenSource\n"
+"https://codeberg.org/lazyt/ubpm"
+msgstr ""
+"இலவச மற்றும் ஓபன் சோர்ச்\n"
+" https://codeberg.org/lazyt/ubpm"
+
+#: ../MainWindow.cpp:3139
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Import from CSV/XML/JSON/SQL"
+msgstr "CSV/XML/JSON/SQL இலிருந்து இறக்குமதி செய்யுங்கள்"
+
+#: ../MainWindow.cpp:3139
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"CSV File (*.csv);;XML File (*.xml);;JSON File (*.json);;SQL File (*.sql)"
+msgstr ""
+"காபிம கோப்பு (*.CSV) ;; நீகுமொ கோப்பு (*.xml) ;; சாதொபொகு கோப்பு (*.JSON) ;;"
+" கவிமொ கோப்பு (*.SQL)"
+
+#: ../MainWindow.cpp:3202
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not open \"%1\"!\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"\"%1\" ஐ திறக்க முடியவில்லை!\n"
+"\n"
+" காரணம்: %2"
+
+#: ../MainWindow.cpp:1260
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Measurements : %1  |  Irregular : %2  |  Movement : %3"
+msgstr "அளவீடுகள்: %1 | ஒழுங்கற்ற: %2 | இயக்கம்: %3"
+
+#: ../MainWindow.cpp:689
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Dear Dr. House,\n"
+"\n"
+"please find attached my blood pressure data for this month.\n"
+"\n"
+"Best regards,\n"
+"$USER\n"
+"$CHART$TABLE$STATS"
+msgstr ""
+"அன்புள்ள டாக்டர் அவுச்,\n"
+"\n"
+" இந்த மாதத்திற்கான எனது இரத்த அழுத்த தரவை இணைத்திருப்பதைக் கண்டறியவும்.\n"
+"\n"
+" வாழ்த்துக்கள்,\n"
+" $ பயனர்\n"
+" $ விளக்கப்படம் $ அட்டவணை $ புள்ளிவிவரங்கள்"
+
+#: ../MainWindow.cpp:1265
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Measurements : 0  |  Irregular : 0  |  Movement : 0"
+msgstr "அளவீடுகள்: 0 | ஒழுங்கற்ற: 0 | இயக்கம்: 0"
+
+#: ../MainWindow.cpp:2467
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"%1\n"
+"Age: %2, Height: %3 cm, Weight: %4 kg, BMI: %5"
+msgstr ""
+"%1\n"
+" வயது: %2, உயரம்: %3 செ.மீ, எடை: %4 கிலோ, பி.எம்.ஐ: %5"
+
+#: ../MainWindow.cpp:3177 ../MainWindow.cpp:4493
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Successfully imported %n record from %1.\n"
+"\n"
+"     User 1 : %2\n"
+"     User 2 : %3"
+msgid_plural ""
+"Successfully imported %n records from %1.\n"
+"\n"
+"     User 1 : %2\n"
+"     User 2 : %3"
+msgstr[0] ""
+"%1 இலிருந்து %N பதிவை வெற்றிகரமாக இறக்குமதி செய்தது.\n"
+"\n"
+" பயனர் 1: %2\n"
+" பயனர் 2: %3"
+msgstr[1] ""
+"%1 இலிருந்து %N பதிவுகளை வெற்றிகரமாக இறக்குமதி செய்தது.\n"
+"\n"
+" பயனர் 1: %2\n"
+" பயனர் 2: %3"
+
+#: ../MainWindow.cpp:3181
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Skipped %n invalid record!"
+msgid_plural "Skipped %n invalid records!"
+msgstr[0] "தவிர்க்கப்பட்ட %n தவறான பதிவு!"
+msgstr[1] "%N தவறான பதிவுகளைத் தவிர்த்தது!"
+
+#: ../MainWindow.cpp:3186 ../MainWindow.cpp:4497
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Skipped %n duplicate record!"
+msgid_plural "Skipped %n duplicate records!"
+msgstr[0] "%N நகல் பதிவைத் தவிர்த்தது!"
+msgstr[1] "%N நகல் பதிவுகளைத் தவிர்த்தது!"
+
+#: ../MainWindow.cpp:3580
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Doesn't look like a UBPM database!\n"
+"\n"
+"Maybe wrong encryption settings/password?"
+msgstr ""
+"யுபிபிஎம் தரவுத்தளமாகத் தெரியவில்லை!\n"
+"\n"
+" தவறான குறியாக்க அமைப்புகள்/கடவுச்சொல்?"
+
+#: ../MainWindow.cpp:3633 ../MainWindow.cpp:3637
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Export to %1"
+msgstr "%1 க்கு ஏற்றுமதி"
+
+#: ../MainWindow.cpp:3633 ../MainWindow.cpp:3637
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "%1 File (*.%2)"
+msgstr "%1 கோப்பு (*.%2)"
+
+#: ../MainWindow.cpp:3677
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not create \"%1\"!\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"\"%1\" ஐ உருவாக்க முடியவில்லை!\n"
+"\n"
+" காரணம்: %2"
+
+#: ../MainWindow.cpp:3683
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "The database is empty, no records to export!"
+msgstr "தரவுத்தளம் காலியாக உள்ளது, ஏற்றுமதி செய்ய பதிவுகள் இல்லை!"
+
+#: ../MainWindow.cpp:4063
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Morning"
+msgstr "காலை"
+
+#: ../MainWindow.cpp:4063
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Afternoon"
+msgstr "பிற்பகல்"
+
+#: ../MainWindow.cpp:4119
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Week"
+msgstr "வாரம்"
+
+#: ../MainWindow.cpp:4174
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Quarter"
+msgstr "கால்"
+
+#: ../MainWindow.cpp:4203
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Half Year"
+msgstr "அரை ஆண்டு"
+
+#: ../MainWindow.cpp:4221
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Year"
+msgstr "ஆண்டு"
+
+#: ../MainWindow.cpp:4427
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Really delete all records for user %1?"
+msgstr "பயனர் %1 க்கான அனைத்து பதிவுகளையும் நீக்கவா?"
+
+#: ../MainWindow.cpp:4442
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"All records for user %1 deleted and existing database saved to "
+"\"ubpm.sql.bak\"."
+msgstr ""
+"பயனர் %1 க்கான அனைத்து பதிவுகளும் நீக்கப்பட்ட மற்றும் ஏற்கனவே உள்ள "
+"தரவுத்தளத்தை \"UBPM.SQL.BAK\" இல் சேமிக்கின்றன."
+
+#: ../MainWindow.cpp:4586
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Really delete all records?"
+msgstr "எல்லா பதிவுகளையும் நீக்கவா?"
+
+#: ../MainWindow.cpp:4597
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "All records deleted and existing database \"ubpm.sql\" moved to trash."
+msgstr ""
+"அனைத்து பதிவுகளும் நீக்கப்பட்டன மற்றும் ஏற்கனவே உள்ள தரவுத்தளத்தை "
+"\"UBPM.SQL\" குப்பைக்கு நகர்த்தியது."
+
+#: ../MainWindow.cpp:4929
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "- UBPM Application\n"
+msgstr "- யுபிபிஎம் பயன்பாடு\n"
+
+#: ../MainWindow.cpp:4944
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "- UBPM Plugins\n"
+msgstr "- யுபிபிஎம் செருகுநிரல்கள்\n"
+
+#: ../MainWindow.cpp:5088 ../MainWindow.cpp:5092 ../MainWindow.cpp:5096
+#: ../MainWindow.h:200 ../MainWindow.h:204 ../MainWindow.h:208
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Minimum"
+msgstr "சிறுமம்"
+
+#: ../MainWindow.cpp:5089 ../MainWindow.cpp:5093 ../MainWindow.cpp:5097
+#: ../MainWindow.h:201 ../MainWindow.h:205 ../MainWindow.h:209
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Maximum"
+msgstr "பெருமம்"
+
+#: ../MainWindow.cpp:5162
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"Could not open theme \"%1\" file!\n"
+"\n"
+"Reason: %2"
+msgstr ""
+"கருப்பொருள் \"%1\" கோப்பைத் திறக்க முடியவில்லை!\n"
+"\n"
+" காரணம்: %2"
+
+#: ../MainWindow.cpp:2110 ../MainWindow.cpp:6048
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Delete record"
+msgstr "பதிவை நீக்கு"
+
+#: ../MainWindow.cpp:5975
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Heartrate"
+msgstr "இதய துடிப்பைக் காட்டு"
+
+#: ../MainWindow.cpp:6011 ../MainWindow.cpp:6022
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Symbols and lines can't be disabled both!"
+msgstr "சின்னங்கள் மற்றும் கோடுகள் இரண்டையும் முடக்க முடியாது!"
+
+#: ../MainWindow.cpp:6050
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show record"
+msgstr "பதிவைக் காட்டு"
+
+#: ../MainWindow.cpp:2111 ../MainWindow.cpp:6051
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Hide record"
+msgstr "பதிவை மறைக்க"
+
+#: ../MainWindow.cpp:2129 ../MainWindow.cpp:6062
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Really delete selected record?"
+msgstr "தேர்ந்தெடுக்கப்பட்ட பதிவை உண்மையில் நீக்கவா?"
+
+#: ../MainWindow.cpp:5041
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid ""
+"The following %n translation for \"%1\" could not be loaded:\n"
+"\n"
+"%2\n"
+"Hide this warning on program startup?"
+msgid_plural ""
+"The following %n translations for \"%1\" could not be loaded:\n"
+"\n"
+"%2\n"
+"Hide this warning on program startup?"
+msgstr[0] ""
+"\" %1\" க்கான பின்வரும் %n மொழிபெயர்ப்பை ஏற்ற முடியவில்லை:\n"
+"\n"
+" %2\n"
+" நிரல் தொடக்கத்தில் இந்த எச்சரிக்கையை மறைக்கவா?"
+msgstr[1] ""
+"\" %1\" க்கான பின்வரும் %N மொழிபெயர்ப்புகளை ஏற்ற முடியவில்லை:\n"
+"\n"
+" %2\n"
+" நிரல் தொடக்கத்தில் இந்த எச்சரிக்கையை மறைக்கவா?"
+
+#: ../MainWindow.cpp:5944
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Scrolling has reached top/bottom, show next/previous period?"
+msgstr ""
+"ச்க்ரோலிங் மேல்/அடிப்பகுதியை எட்டியுள்ளது, அடுத்த/முந்தைய காலத்தைக் காட்டவா?"
+
+#: ../MainWindow.cpp:5967
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Dynamic Scaling"
+msgstr "மாறும் அளவிடுதல்"
+
+#: ../MainWindow.cpp:5968
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Colored Stripes"
+msgstr "வண்ண கோடுகள்"
+
+#: ../MainWindow.cpp:5970
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Symbols"
+msgstr "சின்னங்களைக் காட்டு"
+
+#: ../MainWindow.cpp:5971
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Lines"
+msgstr "கோடுகளைக் காட்டு"
+
+#: ../MainWindow.cpp:5973
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Colored Symbols"
+msgstr "வண்ண சின்னங்கள்"
+
+#: ../MainWindow.cpp:6083
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Median"
+msgstr "சராசரி காட்டு"
+
+#: ../MainWindow.cpp:6084
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Show Values"
+msgstr "மதிப்புகளைக் காட்டு"
+
+#: ../MainWindow.cpp:6139
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "MainWindow"
+msgid "Really quit program?"
+msgstr "உண்மையில் திட்டத்தை விட்டு வெளியேறுகிறீர்களா?"
+
+#: ../MainWindow.h:4
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "QObject"
+msgid "Universal Blood Pressure Manager"
+msgstr "உலகளாவிய இரத்த அழுத்த மேலாளர்"
+
+#: ../MainWindow.cpp:13
+#, ignore-end-exclamation, ignore-end-stop, ignore-translated
+msgctxt "QObject"
+msgid ""
+"The application is already running and multiple instances are not allowed.\n"
+"\n"
+"Switch to the running instance or close it and try again."
+msgstr ""
+"பயன்பாடு ஏற்கனவே இயங்குகிறது மற்றும் பல நிகழ்வுகள் அனுமதிக்கப்படவில்லை.\n"
+"\n"
+" இயங்கும் நிகழ்வுக்கு மாறவும் அல்லது அதை மூடி மீண்டும் முயற்சிக்கவும்."

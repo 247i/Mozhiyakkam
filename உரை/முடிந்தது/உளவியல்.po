@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: உளவியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "aberrant behaviour"
+msgstr "கோளாறான நடத்தை"
+
+msgid "aberration"
+msgstr "மனக்கோளாறு"
+
+msgid "ability"
+msgstr "திறமை"
+
+msgid "abklingen"
+msgstr "குர்ல் மங்கல்"
+
+msgid "abstract intelligence"
+msgstr "கருத்துநிலை நுண்ணறிவு"
+
+msgid "agoraphobia"
+msgstr "திடல் மருட்சி"
+
+msgid "aiming test"
+msgstr "இயைபுச் சோதனை"
+
+msgid "alalia"
+msgstr "ஊமைத்தன்மை"
+
+msgid "alexia"
+msgstr "சொற்குருடு"
+
+msgid "algonagnia"
+msgstr "வலிநுகர்மகிழ்வு"
+
+msgid "alogia"
+msgstr "பேச்சு வறுமை"
+
+msgid "amnesia"
+msgstr "மறதிநோய்"
+
+msgid "amnesic aphasia"
+msgstr "பெயர் மூங்கையம்"
+
+msgid "amnestic aphasia"
+msgstr "பெயர் மூங்கையம்"
+
+msgid "anomia"
+msgstr "பெயர் மூங்கையம்"
+
+msgid "anomic aphasia"
+msgstr "பெயர் மூங்கையம்"
+
+msgid "aphasia"
+msgstr "மூங்கையம்"
+
+msgid "aphemia"
+msgstr "மூங்கையம்"
+
+msgid "attention deficit hyperactivity disorder (adhd)"
+msgstr "கவனக்குறை மிகைச்சுறுதி"
+
+msgid "attention field"
+msgstr "கவனக்களம்"
+
+msgid "autism"
+msgstr "மதியிறுக்கம்"
+
+msgid "baby-hood"
+msgstr "குழவிப்பருவம்"
+
+msgid "behaviour"
+msgstr "நடத்தை"
+
+msgid "bipolar mood disorder"
+msgstr "இருமுனைக்கோடி"
+
+msgid "chemotaxis"
+msgstr "வேதித்தூண்டலியக்கம்"
+
+msgid "chess-board illusion"
+msgstr "சதுரங்கத் திரிபுக்காட்சி"
+
+msgid "circumlocution"
+msgstr "சுற்றி வளைத்துப் பேசுதல்"
+
+msgid "clairvaudience"
+msgstr "தெளிவுப்கேட்பு"
+
+msgid "clairvoyance"
+msgstr "தெளிவுக்காட்சி"
+
+msgid "classical conditioning"
+msgstr "பாரம்பரை நிலைப்படுத்தல்"
+
+msgid "claustrophobia"
+msgstr "மூட்டமருட்சி"
+
+msgid "crie du chat"
+msgstr "பூனைக்கத்து இணைப்போக்கு"
+
+msgid "decency"
+msgstr "தகைமை"
+
+msgid "delirium"
+msgstr "பித்து நிலை"
+
+msgid "depression"
+msgstr "மனச்சோர்வு"
+
+msgid "disorientation"
+msgstr "தன்னிலையிழத்தல், தன்னிலையிழப்பு"
+
+msgid "dogma"
+msgstr "கோட்பாடு"
+
+msgid "dyslexia"
+msgstr "எழுத்துக்கோர்வை மறதி"
+
+msgid "ego"
+msgstr "ஆணவம்"
+
+msgid "electric shock therapy"
+msgstr "மின்னதிர்ச்சி மருத்துவம்"
+
+msgid "genius"
+msgstr "மேதை"
+
+msgid "group behaviour"
+msgstr "குழு நடத்தை"
+
+msgid "group spirit"
+msgstr "குழுவுணர்ச்சி"
+
+msgid "group therapy"
+msgstr "குழு மருத்துவம்"
+
+msgid "groupistic thinking"
+msgstr "குழுவழிச் சிந்தனை"
+
+msgid "ha(e)motophobia"
+msgstr "குருதியச்சம்"
+
+msgid "hyperactivity"
+msgstr "மிகைச்சுறுதி"
+
+msgid "hypomania"
+msgstr "மாற்றுநிலை பித்தம்"
+
+msgid "hysteria"
+msgstr "மனயிசிவு"
+
+msgid "iconolatory"
+msgstr "உருவவழிபாடு"
+
+msgid "imago"
+msgstr "கனவுரு"
+
+msgid "imbecile"
+msgstr "நனிபேதை"
+
+msgid "mania"
+msgstr "பித்த வெறி"
+
+msgid "manic depressive psychosis"
+msgstr "பித்தச் சோர்வுப் பைத்தியநிலை"
+
+msgid "masochism"
+msgstr "வலியேற்பு வெறி"
+
+msgid "maternal instinct"
+msgstr "தாய்மையூக்கம்"
+
+msgid "medium (spiritual)"
+msgstr "ஊடகர்"
+
+msgid "memory (power)"
+msgstr "நினைவாற்றல்"
+
+msgid "memory level"
+msgstr "நினைவுத் தரம்"
+
+msgid "memory span"
+msgstr "நினைவு நெடுக்கம்"
+
+msgid "mental age"
+msgstr "மனவயது"
+
+msgid "mental growth"
+msgstr "மனவளர்ச்சி"
+
+msgid "mental health"
+msgstr "மனநலம்"
+
+msgid "mind perception"
+msgstr "மனக்காட்சி"
+
+msgid "numerical ability"
+msgstr "எண் திறமை"
+
+msgid "onanism"
+msgstr "நிறைவுறாச் சேர்க்கை"
+
+msgid "operant conditioning"
+msgstr "இயக்கர் நிலைப்படுத்தல்"
+
+msgid "orthodox"
+msgstr "ஆச்சாரமான"
+
+msgid "ouija board"
+msgstr "ஊடகி"
+
+msgid "paragraphia"
+msgstr "சொல்மறதி"
+
+msgid "paralogia"
+msgstr "பொய்யேரணம்"
+
+msgid "paralogism"
+msgstr "பொறுந்தாவாதம்"
+
+msgid "paramnesia"
+msgstr "பொய்நினைவு"
+
+msgid "psychogeriatic"
+msgstr "முதியோர் உளவியர்"
+
+msgid "purposivism"
+msgstr "நோக்கமுடைமை"
+
+msgid "puzzle box"
+msgstr "புதிர்ப்பெட்டி"
+
+msgid "stress"
+msgstr "மன இறுக்கம்"

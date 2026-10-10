@@ -1,0 +1,197 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: பூச்சு_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "aedis aegypti"
+msgstr "ம‌ஞ்ச‌ள் காய்ச்ச‌ல் கொசு"
+
+msgid "aedis albopictus"
+msgstr "ஆசிய‌ப் புலிக் கொசு"
+
+msgid "aedis cinerus"
+msgstr "ஆப்பிரிக்கப் புலிக் கொசு"
+
+msgid "amsacta albistriga"
+msgstr "ரோமப்புழு"
+
+msgid "anarcia epipias"
+msgstr "நிலக்கடலை மொக்குத்துளைப்பான்"
+
+msgid "anisolepis stali"
+msgstr "காய் துளைப்பான்"
+
+msgid "anophelis gambiae"
+msgstr "ஆப்பிரிக்க முறைக்காய்ச்சல் கொசு"
+
+msgid "anophelis stephensi"
+msgstr "முறைக்காய்ச்சல் கொசு"
+
+msgid "aphid"
+msgstr "தாவ‌ர‌ப் பேன்"
+
+msgid "aphis craccivora"
+msgstr "அசுவினி பூச்சி"
+
+msgid "aproaerema modicella"
+msgstr "சுருள்பூச்சி"
+
+msgid "banana"
+msgstr "வாழைப்பழம்"
+
+msgid "bell fruit"
+msgstr "பஞ்சலிப்பழம்"
+
+msgid "bilberry"
+msgstr "அவுரிநெல்லி"
+
+msgid "bitter watermelon"
+msgstr "கெச்சி"
+
+msgid "black currant"
+msgstr "கருந்திராட்சை, கருங்கொடிமுந்திரி"
+
+msgid "blackberry"
+msgstr "நாகப்பழம்"
+
+msgid "blueberry"
+msgstr "அவுரிநெல்லி"
+
+msgid "box elder bug"
+msgstr "சீமை கத்தி சவுக்கு பூச்சி"
+
+msgid "breadfruit"
+msgstr "சீமைப்பலா, ஈரப்பலா"
+
+msgid "chilli thrips"
+msgstr "இலைப்பேன்"
+
+msgid "coltricia serotta"
+msgstr "வெள்ளைப்புழு"
+
+msgid "cowpea aphid"
+msgstr "அசுவினி பூச்சி"
+
+msgid "culex quinquefasciatus"
+msgstr "மேற்கு நைல் நச்சியக் கொசு"
+
+msgid "damsel fly"
+msgstr "ஊசித்தட்டான்/ஊசித்தும்பி"
+
+msgid "detrivore"
+msgstr "எருவுண்ணி"
+
+msgid "dung fly"
+msgstr "சாணிப்பூச்சி"
+
+msgid "eugenia rubicunda"
+msgstr "சிறுநாவல்"
+
+msgid "groundnut aphid"
+msgstr "அசுவினி பூச்சி"
+
+msgid "groundnut leafminer"
+msgstr "சுருள்பூச்சி"
+
+msgid "guinea worm"
+msgstr "நரம்புச் சிலந்தி"
+
+msgid "insects"
+msgstr "பூச்சு"
+
+msgid "jewel beetle"
+msgstr "பொன்வண்டு"
+
+msgid "kiwi"
+msgstr "பசலிப்பழம்"
+
+msgid "ladybird"
+msgstr "பொறிவண்டு"
+
+msgid "mango fruit"
+msgstr "மாம்பழம்"
+
+msgid "mangosteen"
+msgstr "கடார முருகல்"
+
+msgid "melon"
+msgstr "வெள்ளரிப்பழம்"
+
+msgid "mulberry"
+msgstr "முசுக்கட்டைப்பழம்"
+
+msgid "muscat grape"
+msgstr "அரபுக் கொடிமுந்திரி"
+
+msgid "odontotermes obesus"
+msgstr "கரையான்"
+
+msgid "orange (loose jacket)"
+msgstr "கமலாப்பழம்"
+
+msgid "orange (sweet)"
+msgstr "சாத்துக்கொடி"
+
+msgid "praying mantis"
+msgstr "கும்பிடு பூச்சி"
+
+msgid "quince"
+msgstr "சீமைமாதுளை, சீமைமாதுளம்பழம்"
+
+msgid "red hairy caterpillar"
+msgstr "ரோமப்புழு"
+
+msgid "sanguinivore"
+msgstr "குருதியுண்ணி"
+
+msgid "scritothrips dorsalis"
+msgstr "இலைப்பேன்"
+
+msgid "spenopthera indica"
+msgstr "பொன்வண்டு"
+
+msgid "spider"
+msgstr "சிலந்தி"
+
+msgid "spinosoma aplicua"
+msgstr "பீகார் ரோமப்புழு"
+
+msgid "stink bug"
+msgstr "பச்சாடைப் பூச்சி"
+
+msgid "tarantula"
+msgstr "புலிமுகச்சிலந்தி"
+
+msgid "termite"
+msgstr "கரையான்"
+
+msgid "tick"
+msgstr "உண்ணி"
+
+msgid "toxorhynchites specious"
+msgstr "ராட்சத யானைக்கொசு"
+
+msgid "toxorhynchites splendons"
+msgstr "காட்டு யானைக்கொசு"
+
+msgid "ugli fruit"
+msgstr "முரட்டுத் தோடை"
+
+msgid "wasp"
+msgstr "குளவி"
+
+msgid "wood lice"
+msgstr "மரப்பேன்"
+
+msgid "yellow tea thrips"
+msgstr "இலைப்பேன்"

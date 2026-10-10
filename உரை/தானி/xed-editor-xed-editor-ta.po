@@ -1,0 +1,2157 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Xed Editor)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-25 17:41+0200\n"
+"PO-Revision-Date: 2025-08-25 21:13\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/xed-editor/xed-editor/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "Xed-Editor"
+msgstr "Xed-editor"
+
+#, java-printf-format
+msgctxt "open_drawer"
+msgid "open"
+msgstr "திற"
+
+#, java-printf-format
+msgctxt "close_drawer"
+msgid "close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "ni"
+msgid "This feature is not implemented"
+msgstr "இந்த நற்பொருத்தம் செயல்படுத்தப்படவில்லை"
+
+#, java-printf-format
+msgctxt "unsupported_contnt"
+msgid "Unsupported content"
+msgstr "ஆதரிக்கப்படாத உள்ளடக்கம்"
+
+#, java-printf-format
+msgctxt "null_contnt"
+msgid "Error: Content is null"
+msgstr "பிழை: உள்ளடக்கம் பூச்யமானது"
+
+#, java-printf-format
+msgctxt "restart_required"
+msgid "Restart Required"
+msgstr "மறுதொடக்கம் தேவை"
+
+#, java-printf-format
+msgctxt "save"
+msgid "File saved"
+msgstr "கோப்பு சேமிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "saveAll"
+msgid "saved all files"
+msgstr "எல்லா கோப்புகளையும் சேமித்தது"
+
+#, java-printf-format
+msgctxt "save_label"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "ww_wait"
+msgid "Please wait for word wrap to complete"
+msgstr "சொல் மடக்கு முடிவடையும் வரை காத்திருங்கள்"
+
+#, java-printf-format
+msgctxt "open_file_or_folder"
+msgid "Open File or Folder"
+msgstr "கோப்பு அல்லது கோப்புறையைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "open_file"
+msgid "Open a File"
+msgstr "ஒரு கோப்பைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "open_directory"
+msgid "Open a Directory"
+msgstr "ஒரு கோப்பகத்தைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "new_file"
+msgid "New File"
+msgstr "புதிய கோப்பு"
+
+#, java-printf-format
+msgctxt "newFile_hint"
+msgid "Name eg. Test.txt"
+msgstr "பெயர் எ.கா. Test.txt"
+
+#, java-printf-format
+msgctxt "mime"
+msgid "MimeType eg. text/plain"
+msgstr "Mimetype Eg. உரை/வெற்று"
+
+#, java-printf-format
+msgctxt "rep"
+msgid "Replacement"
+msgstr "மாற்று"
+
+#, java-printf-format
+msgctxt "searck_keyword"
+msgid "Search Keyword"
+msgstr "முக்கிய சொல்லைத் தேடுங்கள்"
+
+#, java-printf-format
+msgctxt "cs"
+msgid "Case Sensitive"
+msgstr "வழக்கு உணர்திறன்"
+
+#, java-printf-format
+msgctxt "wait"
+msgid "Please wait…"
+msgstr "தயவுசெய்து காத்திருங்கள்…"
+
+#, java-printf-format
+msgctxt "report_issue"
+msgid "Report Issue"
+msgstr "சிக்கல் அறிக்கை"
+
+#, java-printf-format
+msgctxt "copy"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, java-printf-format
+msgctxt "save_all"
+msgid "Save All"
+msgstr "அனைத்தையும் சேமி"
+
+#, java-printf-format
+msgctxt "save_1"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "undo"
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#, java-printf-format
+msgctxt "settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "print"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#, java-printf-format
+msgctxt "search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "go_next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, java-printf-format
+msgctxt "go_prev"
+msgid "Prev"
+msgstr "முந்தைய"
+
+#, java-printf-format
+msgctxt "close_search"
+msgid "Close Search"
+msgstr "தேடலை மூடு"
+
+#, java-printf-format
+msgctxt "replace"
+msgid "Replace"
+msgstr "மாற்றவும்"
+
+#, java-printf-format
+msgctxt "share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, java-printf-format
+msgctxt "reselect"
+msgid "Reselect"
+msgstr "மீண்டும் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "openfile"
+msgid "Open File"
+msgstr "கோப்பு திற"
+
+#, java-printf-format
+msgctxt "new_folder"
+msgid "New Folder"
+msgstr "புதிய கோப்புறை"
+
+#, java-printf-format
+msgctxt "new_file_1"
+msgid "New File"
+msgstr "புதிய கோப்பு"
+
+#, java-printf-format
+msgctxt "rename"
+msgid "Rename"
+msgstr "மறுபெயரிடுங்கள்"
+
+#, java-printf-format
+msgctxt "open_with"
+msgid "Open With…"
+msgstr "உடன் திறந்திருக்கும்…"
+
+#, java-printf-format
+msgctxt "save_as"
+msgid "Save As"
+msgstr "எனச் சேமி"
+
+#, java-printf-format
+msgctxt "paste"
+msgid "Paste"
+msgstr "ஒட்டு"
+
+#, java-printf-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "close_this"
+msgid "Close this"
+msgstr "இதை மூடு"
+
+#, java-printf-format
+msgctxt "close_others"
+msgid "Close others"
+msgstr "மற்றவர்களை மூடு"
+
+#, java-printf-format
+msgctxt "close_all"
+msgid "Close all"
+msgstr "அனைத்தையும் மூடு"
+
+#, java-printf-format
+msgctxt "insertdate"
+msgid "Insert Date"
+msgstr "தேதியைச் செருகவும்"
+
+#, java-printf-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "unsaved"
+msgid "Unsaved Files"
+msgstr "சேமிக்கப்படாத கோப்புகள்"
+
+#, java-printf-format
+msgctxt "unsavedfiles"
+msgid "You have unsaved files!"
+msgstr "உங்களிடம் சேமிக்கப்படாத கோப்புகள் உள்ளன!"
+
+#, java-printf-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "saveexit"
+msgid "Save and Exit"
+msgstr "சேமித்து வெளியேறவும்"
+
+#, java-printf-format
+msgctxt "exit"
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#, java-printf-format
+msgctxt "rr"
+msgid "Restart Required"
+msgstr "மறுதொடக்கம் தேவை"
+
+#, java-printf-format
+msgctxt "rapply"
+msgid "Please restart to apply settings"
+msgstr "அமைப்புகளைப் பயன்படுத்த மறுதொடக்கம் செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "oled"
+msgid "Black Theme"
+msgstr "கருப்பு கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "ww"
+msgid "Word Wrap"
+msgstr "சொல் மடக்கு"
+
+#, java-printf-format
+msgctxt "keepdl"
+msgid "Keep Drawer Locked"
+msgstr "டிராயரை பூட்டிக் கொள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "restart"
+msgid "Restart"
+msgstr "மறுதொடக்கம்"
+
+#, java-printf-format
+msgctxt "refresh"
+msgid "Reload"
+msgstr "மறுஏற்றம்"
+
+#, java-printf-format
+msgctxt "dir_example"
+msgid "Name eg. Test"
+msgstr "பெயர் எ.கா. சோதனை"
+
+#, java-printf-format
+msgctxt "create"
+msgid "Create"
+msgstr "உருவாக்கு"
+
+#, java-printf-format
+msgctxt "ask_enter_name"
+msgid "Please enter a name"
+msgstr "தயவுசெய்து ஒரு பெயரை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "already_exists"
+msgid "A document already exist with this name"
+msgstr "இந்த பெயருடன் ஏற்கனவே ஒரு ஆவணம் உள்ளது"
+
+#, java-printf-format
+msgctxt "attention"
+msgid "Attention"
+msgstr "கவனம்"
+
+#, java-printf-format
+msgctxt "ask_del"
+msgid "Are you sure you want to permanently delete"
+msgstr "நீங்கள் நிரந்தரமாக நீக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "redir"
+msgid "Please reselect the directory"
+msgstr "கோப்பகத்தை மீண்டும் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "canthandle"
+msgid "No app found to handle the file"
+msgstr "கோப்பைக் கையாள எந்த பயன்பாடும் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "clipboardempty"
+msgid "Clipboard is empty"
+msgstr "இடைநிலைப்பலகை காலியாக உள்ளது"
+
+#, java-printf-format
+msgctxt "terminal"
+msgid "Terminal"
+msgstr "முனையத்தில்"
+
+#, java-printf-format
+msgctxt "add_file"
+msgid "Add External File"
+msgstr "வெளிப்புற கோப்பைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "keyword_regex"
+msgid "keyword (Regex)"
+msgstr "முக்கிய சொல் (ரீசெக்ச்)"
+
+#, java-printf-format
+msgctxt "replaceall"
+msgid "ReplaceAll"
+msgstr "Followeall"
+
+#, java-printf-format
+msgctxt "add_new_replacement_batch"
+msgid "Add new replacement batch"
+msgstr "புதிய மாற்று தொகுதியைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "remove_a_search_batch"
+msgid "remove a search batch"
+msgstr "ஒரு தேடல் தொகுதியை அகற்று"
+
+#, java-printf-format
+msgctxt "replacement"
+msgid "replacement"
+msgstr "மாற்று"
+
+#, java-printf-format
+msgctxt "title_activity_main"
+msgid "MainActivity"
+msgstr "முக்கியத்துவம்"
+
+#, java-printf-format
+msgctxt "tab_text_1"
+msgid "Tab 1"
+msgstr "தாவல் 1"
+
+#, java-printf-format
+msgctxt "tab_text_2"
+msgid "Tab 2"
+msgstr "தாவல் 2"
+
+#, java-printf-format
+msgctxt "title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, java-printf-format
+msgctxt "description"
+msgid "Description"
+msgstr "விவரம்"
+
+#, java-printf-format
+msgctxt "download"
+msgid "Download"
+msgstr "பதிவிறக்கம்"
+
+#, java-printf-format
+msgctxt "git"
+msgid "Git"
+msgstr "அறிவிலி"
+
+#, java-printf-format
+msgctxt "cred"
+msgid "Credentials"
+msgstr "நற்சான்றிதழ்கள்"
+
+#, java-printf-format
+msgctxt "inavalid_git_cred"
+msgid "Credentials are not valid. Change them in settings"
+msgstr "நற்சான்றிதழ்கள் செல்லுபடியாகாது. அமைப்புகளில் அவற்றை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "gitcred"
+msgid "Credentials for git"
+msgstr "Git க்கான நற்சான்றிதழ்கள்"
+
+#, java-printf-format
+msgctxt "repo_dir"
+msgid "Repository folder"
+msgstr "களஞ்சிய கோப்புறை"
+
+#, java-printf-format
+msgctxt "clone_dir"
+msgid "Folder for cloning repositories"
+msgstr "குளோனிங் களஞ்சியங்களுக்கான கோப்புறை"
+
+#, java-printf-format
+msgctxt "dir_exist_not"
+msgid "Folder does not exists"
+msgstr "கோப்புறை இல்லை"
+
+#, java-printf-format
+msgctxt "file_exist_not"
+msgid "File no longer exists"
+msgstr "கோப்பு இனி இல்லை"
+
+#, java-printf-format
+msgctxt "gitKeyExample"
+msgid "eg. SuperKek:ghp_…"
+msgstr "எ.கா. சூப்பர்கெக்: GHP_…"
+
+#, java-printf-format
+msgctxt "file_saved"
+msgid "File Saved"
+msgstr "கோப்பு சேமிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "gituserexample"
+msgid "eg. UserDev:example@email.com"
+msgstr "எ.கா. Userdev: example@email.com"
+
+#, java-printf-format
+msgctxt "apply"
+msgid "Apply"
+msgstr "இடு"
+
+#, java-printf-format
+msgctxt "userdata"
+msgid "User data"
+msgstr "பயனர் தரவு"
+
+#, java-printf-format
+msgctxt "inavalid_userdata"
+msgid "User data is not valid. Change it in settings"
+msgstr "பயனர் தரவு செல்லுபடியாகாது. அமைப்புகளில் மாற்றவும்"
+
+#, java-printf-format
+msgctxt "userdatagit"
+msgid "User data for git"
+msgstr "GIT க்கான பயனர் தரவு"
+
+#, java-printf-format
+msgctxt "open_in_terminal"
+msgid "Open In Terminal"
+msgstr "முனையத்தில் திறந்திருக்கும்"
+
+#, java-printf-format
+msgctxt "open_dir_in_terminal"
+msgid "Open Directory in Terminal"
+msgstr "முனையத்தில் திறந்த அடைவு"
+
+#, java-printf-format
+msgctxt "file_open_denied"
+msgid "Opening this file with other apps is not permitted"
+msgstr "இந்த கோப்பை மற்ற பயன்பாடுகளுடன் திறக்க அனுமதிக்கப்படாது"
+
+#, java-printf-format
+msgctxt "reload_file_tree"
+msgid "Reload Files"
+msgstr "கோப்புகளை மீண்டும் ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "close_current_project"
+msgid "Close current project"
+msgstr "தற்போதைய திட்டத்தை மூடு"
+
+#, java-printf-format
+msgctxt "rename_descript"
+msgid "Rename the document"
+msgstr "ஆவணத்தை மறுபெயரிடுங்கள்"
+
+#, java-printf-format
+msgctxt "open_with_other"
+msgid "Open selected file in other apps"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பை மற்ற பயன்பாடுகளில் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "delete_descript"
+msgid "Permanently Delete document"
+msgstr "ஆவணத்தை நிரந்தரமாக நீக்கு"
+
+#, java-printf-format
+msgctxt "add_file_desc"
+msgid "Select a new file to be added here"
+msgstr "இங்கே சேர்க்க புதிய கோப்பைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "create_new_file_desc"
+msgid "Create a new file under selected folder"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையின் கீழ் புதிய கோப்பை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "paste_desc"
+msgid "Paste document"
+msgstr "ஆவணத்தை ஒட்டவும்"
+
+#, java-printf-format
+msgctxt "clipboard_empty"
+msgid "File Clipboard is empty"
+msgstr "கோப்பு இடைநிலைப்பலகை காலியாக உள்ளது"
+
+#, java-printf-format
+msgctxt "save_desc"
+msgid "Save the selected file somewhere else"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பை வேறு எங்காவது சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "copy_desc"
+msgid "Copy document"
+msgstr "ஆவணத்தை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "failed_move"
+msgid "Failed to move file"
+msgstr "கோப்பை நகர்த்துவதில் தோல்வி"
+
+#, java-printf-format
+msgctxt "file_name"
+msgid "File name"
+msgstr "கோப்பு பெயர்"
+
+#, java-printf-format
+msgctxt "ff_path"
+msgid "File or folder path"
+msgstr "கோப்பு அல்லது கோப்புறை பாதை"
+
+#, java-printf-format
+msgctxt "path"
+msgid "Path"
+msgstr "பாதை"
+
+#, java-printf-format
+msgctxt "open"
+msgid "Open"
+msgstr "திற"
+
+#, java-printf-format
+msgctxt "enter_path"
+msgid "Please enter a path"
+msgstr "தயவுசெய்து ஒரு பாதையை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "invalid_path"
+msgid "Path does not exist"
+msgstr "பாதை இல்லை"
+
+#, java-printf-format
+msgctxt "permission_denied"
+msgid "Permission Denied"
+msgstr "இசைவு மறுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "wait_download"
+msgid "Please wait while the files are being downloaded."
+msgstr "கோப்புகள் பதிவிறக்கம் செய்யப்படும்போது காத்திருங்கள்."
+
+#, java-printf-format
+msgctxt "done"
+msgid "Success"
+msgstr "செய்"
+
+#, java-printf-format
+msgctxt "git_branch"
+msgid "Branch. Example: main"
+msgstr "கிளை. எடுத்துக்காட்டு: முதன்மை"
+
+#, java-printf-format
+msgctxt "git_commit_msg"
+msgid "Commit message"
+msgstr "செய்தியைச் செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "push"
+msgid "Push"
+msgstr "புச்"
+
+#, java-printf-format
+msgctxt "pull"
+msgid "Pull"
+msgstr "இழுக்கவும்"
+
+#, java-printf-format
+msgctxt "pull_desc"
+msgid "Sync local repository with remote repository"
+msgstr "உள்ளக களஞ்சியத்தை தொலை களஞ்சியத்துடன் ஒத்திசைக்கவும்"
+
+#, java-printf-format
+msgctxt "commit_push"
+msgid "Commit and push"
+msgstr "கமிட் அண்ட் புச்"
+
+#, java-printf-format
+msgctxt "push_desc"
+msgid "Create a commit and push changes to the remote repository"
+msgstr ""
+"தொலை களஞ்சியத்தில் ஒரு உறுதிப்பாட்டை உருவாக்கி மாற்றங்களை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "fill_both"
+msgid "Please fill in both fields"
+msgstr "தயவுசெய்து இரண்டு புலங்களையும் நிரப்பவும்"
+
+#, java-printf-format
+msgctxt "pushing"
+msgid "Pushing to remote repository…"
+msgstr "தொலை களஞ்சியத்திற்கு தள்ளுதல்…"
+
+#, java-printf-format
+msgctxt "nogit"
+msgid "Error: .git folder not found"
+msgstr "பிழை: .GIT கோப்புறை கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "manage_storage"
+msgid "Manage Storage"
+msgstr "சேமிப்பிடத்தை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "manage_storage_reason"
+msgid ""
+"Xed-Editor needs access to edit files in your storage. Please allow the "
+"access in the upcoming system setting."
+msgstr ""
+"உங்கள் சேமிப்பகத்தில் கோப்புகளைத் திருத்த XED-EDITOR க்கு அணுகல் தேவை. "
+"வரவிருக்கும் கணினி அமைப்பில் அணுகலை அனுமதிக்கவும்."
+
+#, java-printf-format
+msgctxt "ok"
+msgid "OK"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "data_clear"
+msgid "App data is cleared"
+msgstr "பயன்பாட்டு தரவு அழிக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "action_done"
+msgid "Action Completed"
+msgstr "நடவடிக்கை முடிந்தது"
+
+#, java-printf-format
+msgctxt "clone_repo"
+msgid "Clone repository"
+msgstr "நகலி களஞ்சியம்"
+
+#, java-printf-format
+msgctxt "exists"
+msgid "already exists!"
+msgstr "ஏற்கனவே உள்ளது!"
+
+#, java-printf-format
+msgctxt "private_files"
+msgid "Private Files"
+msgstr "தனிப்பட்ட கோப்புகள்"
+
+#, java-printf-format
+msgctxt "private_files_desc"
+msgid "Private Files of Xed-Editor"
+msgstr "Xed-editor இன் தனிப்பட்ட கோப்புகள்"
+
+#, java-printf-format
+msgctxt "cloning"
+msgid "Cloning repository…"
+msgstr "குளோனிங் களஞ்சியம்…"
+
+#, java-printf-format
+msgctxt "clone_err"
+msgid "Repository is private. or Check your credentials"
+msgstr "களஞ்சியம் தனிப்பட்டது. அல்லது உங்கள் சான்றுகளை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "err"
+msgid "Error"
+msgstr "பிழை"
+
+#, java-printf-format
+msgctxt "open_dir_desc"
+msgid "Open a directory using SAF"
+msgstr "SAF ஐப் பயன்படுத்தி ஒரு கோப்பகத்தைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "open_file_desc"
+msgid "Choose a file to directly edit it"
+msgstr "அதை நேரடியாக திருத்த ஒரு கோப்பைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "open_path"
+msgid "Internal Storage"
+msgstr "உள் சேமிப்பு"
+
+#, java-printf-format
+msgctxt "open_path_desc"
+msgid "Open internal storage"
+msgstr "உள் சேமிப்பகத்தைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "clone_repo_desc"
+msgid "Clone repository using Git"
+msgstr "அறிவிலி பயன்படுத்தி நகலி களஞ்சியம்"
+
+#, java-printf-format
+msgctxt "add"
+msgid "Add"
+msgstr "கூட்டு"
+
+#, java-printf-format
+msgctxt "already_opened"
+msgid "File already opened"
+msgstr "கோப்பு ஏற்கனவே திறக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "open_cant"
+msgid "Cannot open more than"
+msgstr "விட அதிகமாக திறக்க முடியாது"
+
+#, java-printf-format
+msgctxt "files"
+msgid "Files"
+msgstr "கோப்புகள்"
+
+#, java-printf-format
+msgctxt "installed"
+msgid "Installed"
+msgstr "நிறுவப்பட்டது"
+
+#, java-printf-format
+msgctxt "available"
+msgid "Available"
+msgstr "கிடைக்கிறது"
+
+#, java-printf-format
+msgctxt "already_installed"
+msgid "Already Installed"
+msgstr "ஏற்கனவே நிறுவப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "download_sure"
+msgid "Are you sure you want to download"
+msgstr "நீங்கள் பதிவிறக்கம் செய்ய விரும்புகிறீர்களா என்பது உறுதி"
+
+#, java-printf-format
+msgctxt "yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "fetch_failed"
+msgid "fetch request returned null"
+msgstr "பெறுதல் கோரிக்கை பூச்யமானது"
+
+#, java-printf-format
+msgctxt "app"
+msgid "Application"
+msgstr "பயன்பாடு"
+
+#, java-printf-format
+msgctxt "oled_desc"
+msgid "Use a pure black theme for AMOLED devices"
+msgstr "AMOLED சாதனங்களுக்கான ஒரு தூய கருப்பு கருப்பொருளைப் பயன்படுத்து"
+
+#, java-printf-format
+msgctxt "themes"
+msgid "Themes"
+msgstr "கருப்பொருள்கள்"
+
+#, java-printf-format
+msgctxt "change_theme"
+msgid "Change Theme"
+msgstr "கருப்பொருள் மாற்றவும்"
+
+#, java-printf-format
+msgctxt "editor"
+msgid "Editor"
+msgstr "திருத்தி"
+
+#, java-printf-format
+msgctxt "smooth_tabs"
+msgid "Smooth Tabs"
+msgstr "மென்மையான தாவல்கள்"
+
+#, java-printf-format
+msgctxt "smooth_tab_desc"
+msgid "Smoothly switch between tabs"
+msgstr "தாவல்களுக்கு இடையில் சீராக மாறவும்"
+
+#, java-printf-format
+msgctxt "ww_desc"
+msgid "Enable Word Wrap in all editors"
+msgstr "அனைத்து ஆசிரியர்களிடமும் சொல் மடக்கை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "drawer_lock_desc"
+msgid "Keep drawer locked when opening file"
+msgstr "கோப்பைத் திறக்கும்போது டிராயரை பூட்டிக் கொள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "diagonal_scroll"
+msgid "Diagonal Scrolling"
+msgstr "மூலைவிட்ட ச்க்ரோலிங்"
+
+#, java-printf-format
+msgctxt "diagonal_scroll_desc"
+msgid "Enable Diagonal Scrolling in File Tree"
+msgstr "கோப்பு மரத்தில் மூலைவிட்ட ச்க்ரோலிங் இயக்கவும்"
+
+#, java-printf-format
+msgctxt "cursor_anim"
+msgid "Cursor Animation"
+msgstr "கர்சர் அனிமேசன்"
+
+#, java-printf-format
+msgctxt "cursor_anim_desc"
+msgid "Enable Smooth Cursor Animations"
+msgstr "மென்மையான கர்சர் அனிமேசன்களை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "show_line_number"
+msgid "Show Line Numbers"
+msgstr "வரி எண்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "pin_line_number"
+msgid "Pin Line Numbers"
+msgstr "முள் வரி எண்கள்"
+
+#, java-printf-format
+msgctxt "extra_keys"
+msgid "Extra Keys"
+msgstr "கூடுதல் விசைகள்"
+
+#, java-printf-format
+msgctxt "extra_keys_desc"
+msgid "Show extra keys in the editor"
+msgstr "எடிட்டரில் கூடுதல் விசைகளைக் காட்டு"
+
+#, java-printf-format
+msgctxt "auto_save"
+msgid "Auto Save"
+msgstr "தானியங்கு சேமிப்பு"
+
+#, java-printf-format
+msgctxt "auto_save_desc"
+msgid "automatically save file"
+msgstr "கோப்பை தானாக சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "auto_save_time"
+msgid "Auto Save Time"
+msgstr "ஆட்டோ சேமிப்பு நேரம்"
+
+#, java-printf-format
+msgctxt "auto_save_time_desc"
+msgid "Automatically save file after specified time"
+msgstr "குறிப்பிட்ட நேரத்திற்குப் பிறகு தானாக கோப்பைச் சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "intervalinMs"
+msgid "Interval in milliseconds"
+msgstr "மில்லி விநாடிகளில் இடைவெளி"
+
+#, java-printf-format
+msgctxt "inavalid_v"
+msgid "Invalid value"
+msgstr "தவறான மதிப்பு"
+
+#, java-printf-format
+msgctxt "v_small"
+msgid "Value too small"
+msgstr "மதிப்பு மிகவும் சிறியது"
+
+#, java-printf-format
+msgctxt "v_large"
+msgid "Value too large"
+msgstr "மதிப்பு மிகப் பெரியது"
+
+#, java-printf-format
+msgctxt "text_size"
+msgid "Text Size"
+msgstr "உரை அளவு"
+
+#, java-printf-format
+msgctxt "text_size_desc"
+msgid "Set text size"
+msgstr "உரை அளவை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "tab_size"
+msgid "Tab Size"
+msgstr "தாவல் அளவு"
+
+#, java-printf-format
+msgctxt "tab_size_desc"
+msgid "Set tab size"
+msgstr "தாவல் அளவை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "monet"
+msgid "Dynamic Colors"
+msgstr "மாறும் வண்ணங்கள்"
+
+#, java-printf-format
+msgctxt "monet_desc"
+msgid "Use device theme in app"
+msgstr "பயன்பாட்டில் சாதன கருப்பொருளைப் பயன்படுத்து"
+
+#, java-printf-format
+msgctxt "restart_app"
+msgid "Please restart the application."
+msgstr "விண்ணப்பத்தை மறுதொடக்கம் செய்யுங்கள்."
+
+#, java-printf-format
+msgctxt "old_android"
+msgid "Unsupported Android version"
+msgstr "ஆதரிக்கப்படாத ஆண்ட்ராய்டு பதிப்பு"
+
+#, java-printf-format
+msgctxt "app_desc"
+msgid "General application settings"
+msgstr "பொது பயன்பாட்டு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "editor_desc"
+msgid "General editor settings"
+msgstr "பொது திருத்தி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "terminal_desc"
+msgid "General terminal settings"
+msgstr "பொது முனைய அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "git_desc"
+msgid "General git settings"
+msgstr "பொது அறிவிலி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "Lshell"
+msgid "Launch Shell"
+msgstr "செல் துவக்க"
+
+#, java-printf-format
+msgctxt "Lshell_desc"
+msgid "Executed when the terminal is launched."
+msgstr "முனையம் தொடங்கப்படும் போது செயல்படுத்தப்படுகிறது."
+
+#, java-printf-format
+msgctxt "terminal_text_size"
+msgid "Terminal text size"
+msgstr "முனைய உரை அளவு"
+
+#, java-printf-format
+msgctxt "terminal_text_size_desc"
+msgid "Set terminal text size"
+msgstr "முனைய உரை அளவை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "u_err"
+msgid "Unknown Error"
+msgstr "தெரியாத பிழை"
+
+#, java-printf-format
+msgctxt "is_null"
+msgid "InputStream is null"
+msgstr "உள்ளீட்டு நீரோடை பூச்யமாகும்"
+
+#, java-printf-format
+msgctxt "wait_pkg"
+msgid "Please wait while the packages are being downloaded."
+msgstr "தொகுப்புகள் பதிவிறக்கம் செய்யப்படும்போது தயவுசெய்து காத்திருங்கள்."
+
+#, java-printf-format
+msgctxt "unsupported_aarch"
+msgid "Unsupported Platform, Use Fail Safe"
+msgstr "ஆதரிக்கப்படாத தளம், தோல்வி பாதுகாப்பாக பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pkg_download_failed"
+msgid "Package download failed"
+msgstr "தொகுப்பு பதிவிறக்கம் தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "copy_failed"
+msgid "Failed to copy file"
+msgstr "கோப்பை நகலெடுப்பதில் தோல்வி"
+
+#, java-printf-format
+msgctxt "install_done"
+msgid "Installed Successfully"
+msgstr "வெற்றிகரமாக நிறுவப்பட்டது"
+
+#, java-printf-format
+msgctxt "invalid_file_type"
+msgid "Invalid file type, zip file expected"
+msgstr "தவறான கோப்பு வகை, சிப் கோப்பு எதிர்பார்க்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "install_failed"
+msgid "Failed to install"
+msgstr "நிறுவத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "choose_file"
+msgid "Choose file"
+msgstr "கோப்பைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "force_char"
+msgid "Force Char"
+msgstr "படை கரி"
+
+#, java-printf-format
+msgctxt "force_char_desc"
+msgid "Force Char based input in Terminal"
+msgstr "முனையத்தில் கரி அடிப்படையிலான உள்ளீட்டை கட்டாயப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "useCtrlWorkaround"
+msgid "Use Ctrl Workaround"
+msgstr "கட்டுப்பாடு பணித்தொகுப்பைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "useCtrlWorkaround_desc"
+msgid "Use Ctrl Space Workaround"
+msgstr "கட்டுப்பாடு விண்வெளி பணித்தொகுப்பைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "editor_font"
+msgid "Editor Font"
+msgstr "ஆசிரியர் எழுத்துரு"
+
+#, java-printf-format
+msgctxt "editor_font_desc"
+msgid "Select editor font"
+msgstr "எடிட்டர் எழுத்துருவைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "force_desktop"
+msgid "Force Desktop Mode"
+msgstr "டெச்க்டாப் பயன்முறையை கட்டாயப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "force_desktop_desc"
+msgid "Force Desktop layout on smaller screen devices"
+msgstr "சிறிய திரை சாதனங்களில் டெச்க்டாப் தளவமைப்பை கட்டாயப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "force_normal"
+msgid "Force Normal Mode"
+msgstr "சாதாரண பயன்முறையை கட்டாயப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "force_normal_desc"
+msgid "Force Normal layout on large screen devices"
+msgstr "பெரிய திரை சாதனங்களில் சாதாரண தளவமைப்பை கட்டாயப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "light_mode"
+msgid "Light"
+msgstr "ஒளி"
+
+#, java-printf-format
+msgctxt "dark_mode"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, java-printf-format
+msgctxt "auto_mode"
+msgid "Auto"
+msgstr "தானி"
+
+#, java-printf-format
+msgctxt "theme_mode"
+msgid "Theme Mode"
+msgstr "கருப்பொருள் பயன்முறை"
+
+#, java-printf-format
+msgctxt "cannot_be_empty"
+msgid "It cannot be empty."
+msgstr "அது காலியாக இருக்க முடியாது."
+
+#, java-printf-format
+msgctxt "theme_mode_desc"
+msgid "Change app color theme"
+msgstr "பயன்பாட்டின் வண்ண கருப்பொருள் மாற்று"
+
+#, java-printf-format
+msgctxt "show_suggestions"
+msgid "Show Keyboard Suggestions"
+msgstr "விசைப்பலகை பரிந்துரைகளைக் காட்டு"
+
+#, java-printf-format
+msgctxt "about"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "about_desc"
+msgid "About Xed-Editor"
+msgstr "Xed-editor பற்றி"
+
+#, java-printf-format
+msgctxt "version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, java-printf-format
+msgctxt "version_code"
+msgid "Version Code"
+msgstr "பதிப்பு குறியீடு"
+
+#, java-printf-format
+msgctxt "github"
+msgid "GitHub"
+msgstr "கிரப்"
+
+#, java-printf-format
+msgctxt "github_desc"
+msgid "Star it On Github 🤩"
+msgstr "கிதுபில் விண்மீன்"
+
+#, java-printf-format
+msgctxt "telegram"
+msgid "Telegram Group"
+msgstr "தந்தி குழு"
+
+#, java-printf-format
+msgctxt "telegram_desc"
+msgid "Report issues, feature requests etc."
+msgstr "அறிக்கைகள் சிக்கல்கள், அம்ச கோரிக்கைகள் போன்றவை."
+
+#, java-printf-format
+msgctxt "join"
+msgid "Join"
+msgstr "சேர"
+
+#, java-printf-format
+msgctxt "show_virtual_keyboard"
+msgid "Show Virtual Keyboard"
+msgstr "மெய்நிகர் விசைப்பலகை காட்டு"
+
+#, java-printf-format
+msgctxt "show_virtual_keyboard_desc"
+msgid "Show virtual keyboard when Physical keyboard is connected"
+msgstr "இயற்பியல் விசைப்பலகை இணைக்கப்படும்போது மெய்நிகர் விசைப்பலகை காட்டு"
+
+#, java-printf-format
+msgctxt "git_commit"
+msgid "Git Commit Hash"
+msgstr "அறிவிலி கமிட் ஆச்"
+
+#, java-printf-format
+msgctxt "check_for_updates"
+msgid "Check for Updates"
+msgstr "புதுப்பிப்புகளை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "check_for_updates_desc"
+msgid "Periodically check for updates"
+msgstr "புதுப்பிப்புகளை அவ்வப்போது சரிபார்"
+
+#, java-printf-format
+msgctxt "click_open"
+msgid "Click here to open file"
+msgstr "கோப்பைத் திறக்க இங்கே சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "no"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "file_too_large"
+msgid "File is too big to open"
+msgstr "கோப்பு திறக்க முடியாத அளவுக்கு பெரியது"
+
+#, java-printf-format
+msgctxt "toggle_suggestion"
+msgid "Toggle Suggestion"
+msgstr "ஆலோசனையை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "run"
+msgid "Run"
+msgstr "ஓடு"
+
+#, java-printf-format
+msgctxt "txt_ww"
+msgid "Wrap txt files"
+msgstr "உரை கோப்புகளை மடிக்கவும்"
+
+#, java-printf-format
+msgctxt "txt_ww_desc"
+msgid "Automatically wrap text files"
+msgstr "உரை கோப்புகளை தானாக மடிக்கவும்"
+
+#, java-printf-format
+msgctxt "sora_s"
+msgid "Sora text search"
+msgstr "சோரா உரை தேடல்"
+
+#, java-printf-format
+msgctxt "sora_s_desc"
+msgid "Use Sora text search"
+msgstr "சோரா உரை தேடலைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "manage_editor_font"
+msgid "Manage Editor Fonts"
+msgstr "ஆசிரியர் எழுத்துருக்களை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "default_encoding"
+msgid "Default Encoding"
+msgstr "இயல்புநிலை குறியாக்கம்"
+
+#, java-printf-format
+msgctxt "default_encoding_desc"
+msgid "Editor Default Encoding"
+msgstr "ஆசிரியர் இயல்புநிலை குறியாக்கம்"
+
+#, java-printf-format
+msgctxt "other"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, java-printf-format
+msgctxt "content"
+msgid "Content"
+msgstr "உள்ளடக்கம்"
+
+#, java-printf-format
+msgctxt "fonts"
+msgid "Fonts"
+msgstr "எழுத்துருக்கள்"
+
+#, java-printf-format
+msgctxt "font_added"
+msgid "Font Successfully added"
+msgstr "எழுத்துரு வெற்றிகரமாக சேர்க்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "delete_font"
+msgid "Delete Font"
+msgstr "எழுத்துருவை நீக்கு"
+
+#, java-printf-format
+msgctxt "add_font"
+msgid "Add new Font"
+msgstr "புதிய எழுத்துருவைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "add_font_desc"
+msgid "Choose a ttf font from storage"
+msgstr "சேமிப்பகத்திலிருந்து ஒரு TTF எழுத்துருவைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "install_termux"
+msgid "Install Termux from F-Droid"
+msgstr "எஃப்-டிராய்டிலிருந்து டெர்மக்சை நிறுவவும்"
+
+#, java-printf-format
+msgctxt "termux_exec"
+msgid "Termux Exec"
+msgstr "டெர்ம் எக்சிக்"
+
+#, java-printf-format
+msgctxt "termux_exec_guide"
+msgid "Termux Exec Docs"
+msgstr "Termux exec டாக்ச்"
+
+#, java-printf-format
+msgctxt "termux_exec_guide_desc"
+msgid "Documentation for Enabling Termux Exec"
+msgstr "டெர்ம் எக்சை செயல்படுத்துவதற்கான ஆவணங்கள்"
+
+#, java-printf-format
+msgctxt "gestures"
+msgid "Gestures"
+msgstr "சைகைகள்"
+
+#, java-printf-format
+msgctxt "config_gestures"
+msgid "Configure Gestures"
+msgstr "சைகைகளை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "Save_as"
+msgid "Save As"
+msgstr "என சேமி"
+
+#, java-printf-format
+msgctxt "file_not_saved"
+msgid "Some files are not saved"
+msgstr "சில கோப்புகள் சேமிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "file_unsaved"
+msgid "File Unsaved"
+msgstr "சேமிக்கப்படாத கோப்பு"
+
+#, java-printf-format
+msgctxt "ask_unsaved"
+msgid "Are you sure you want to discard this unsaved document?"
+msgstr "இந்த சேமிக்கப்படாத இந்த ஆவணத்தை நிராகரிக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "keep_editing"
+msgid "Keep Editing"
+msgstr "திருத்துதல் தொடர்ந்து"
+
+#, java-printf-format
+msgctxt "discard"
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "tools"
+msgid "Tools"
+msgstr "கருவிகள்"
+
+#, java-printf-format
+msgctxt "warning"
+msgid "Warning"
+msgstr "எச்சரிக்கை"
+
+#, java-printf-format
+msgctxt "encoding_warning"
+msgid ""
+"Changing the default encoding is highly discouraged, as it can lead to file "
+"corruption. It is strongly recommended to use UTF-8 unless you fully "
+"understand the implications and have created proper backups."
+msgstr ""
+"இயல்புநிலை குறியாக்கத்தை மாற்றுவது மிகவும் ஊக்கமளிக்கிறது, ஏனெனில் இது ஊழல் "
+"கோப்புக்கு வழிவகுக்கும். நீங்கள் தாக்கங்களை முழுமையாகப் புரிந்துகொண்டு "
+"சரியான காப்புப்பிரதிகளை உருவாக்காவிட்டால் UTF-8 ஐப் பயன்படுத்துவது கடுமையாக "
+"பரிந்துரைக்கப்படுகிறது."
+
+#, java-printf-format
+msgctxt "line_spacing"
+msgid "Line Spacing"
+msgstr "வரி இடைவெளி"
+
+#, java-printf-format
+msgctxt "line_spacing_multiplier"
+msgid "Line Spacing Multiplier"
+msgstr "வரி இடைவெளி பெருக்கி"
+
+#, java-printf-format
+msgctxt "mutators"
+msgid "Mutators"
+msgstr "மியூடர்"
+
+#, java-printf-format
+msgctxt "update_av"
+msgid "New Updates Available"
+msgstr "புதிய புதுப்பிப்புகள் கிடைக்கின்றன"
+
+#, java-printf-format
+msgctxt "update"
+msgid "Update"
+msgstr "புதுப்பிப்பு"
+
+#, java-printf-format
+msgctxt "ignore"
+msgid "Ignore"
+msgstr "புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "update_disable"
+msgid "Update check disabled"
+msgstr "புதுப்பிப்பு காசோலை முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "launch_termux"
+msgid "Launch Termux?"
+msgstr "டெர்மக்ச் தொடங்கவா?"
+
+#, java-printf-format
+msgctxt "launch_termux_explanation"
+msgid ""
+"Termux is stopped, so Xed-Editor is unable to run commands in it. Would you "
+"like to start it?"
+msgstr ""
+"டெர்மக்ச் நிறுத்தப்பட்டது, எனவே xed-editor அதில் கட்டளைகளை இயக்க "
+"முடியவில்லை. அதைத் தொடங்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "launch"
+msgid "Launch"
+msgstr "ஏவுதல்"
+
+#, java-printf-format
+msgctxt "mutator_desc"
+msgid "Create user scripts"
+msgstr "பயனர் ச்கிரிப்ட்களை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "restore_sessions"
+msgid "Restore Sessions"
+msgstr "அமர்வுகளை மீட்டமை"
+
+#, java-printf-format
+msgctxt "restore_sessions_desc"
+msgid "Restore previous tabs"
+msgstr "முந்தைய தாவல்களை மீட்டெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "terminal_home"
+msgid "Terminal Home"
+msgstr "முனைய வீடு"
+
+#, java-printf-format
+msgctxt "terminal_home_desc"
+msgid "Default home directory of terminal"
+msgstr "முனையத்தின் இயல்புநிலை வீட்டு அடைவு"
+
+#, java-printf-format
+msgctxt "sessions"
+msgid "Sessions"
+msgstr "அமர்வுகள்"
+
+#, java-printf-format
+msgctxt "add_session"
+msgid "Add Session"
+msgstr "அமர்வு சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "terminal_runtime"
+msgid "Terminal Runtime"
+msgstr "முனைய இயக்க நேரம்"
+
+#, java-printf-format
+msgctxt "terminal_runtime_desc"
+msgid "Select Terminal Runtime"
+msgstr "முனைய இயக்க நேரத்தைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "enable_ext"
+msgid "Extensions"
+msgstr "நீட்டிப்புகள்"
+
+#, java-printf-format
+msgctxt "enable_ext_desc"
+msgid "Load third party Extensions"
+msgstr "மூன்றாம் தரப்பு நீட்டிப்புகளை ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "ext"
+msgid "Extensions"
+msgstr "நீட்டிப்புகள்"
+
+#, java-printf-format
+msgctxt "ext_desc"
+msgid "Manage Extensions"
+msgstr "நீட்டிப்புகளை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "info_mutators"
+msgid ""
+"Mutators are small scripts that are used to modify the editor text. Create a"
+" mutator and click on it to open it in the editor."
+msgstr ""
+"பிறழ்வுகள் சிறிய ச்கிரிப்ட்கள் ஆகும், அவை எடிட்டர் உரையை மாற்ற "
+"பயன்படுகின்றன. ஒரு பிறழ்வை உருவாக்கி, அதை எடிட்டரில் திறக்க அதைக் சொடுக்கு "
+"செய்க."
+
+#, java-printf-format
+msgctxt "no_mutators"
+msgid "No mutators"
+msgstr "பிறழ்வு இல்லை"
+
+#, java-printf-format
+msgctxt "tab_opened"
+msgid "Tab Opened"
+msgstr "தாவல் திறக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "mutator_name"
+msgid "Mutator Name"
+msgstr "பிறழ்வு பெயர்"
+
+#, java-printf-format
+msgctxt "name_empty_err"
+msgid "Name cannot be empty"
+msgstr "பெயர் காலியாக இருக்க முடியாது"
+
+#, java-printf-format
+msgctxt "name_used"
+msgid "Name already used"
+msgstr "ஏற்கனவே பயன்படுத்தப்பட்ட பெயர்"
+
+#, java-printf-format
+msgctxt "script_get_text"
+msgid "get text"
+msgstr "உரையைப் பெறுங்கள்"
+
+#, java-printf-format
+msgctxt "script_show_toast"
+msgid "show toast"
+msgstr "சிற்றுண்டியைக் காட்டு"
+
+#, java-printf-format
+msgctxt "script_network"
+msgid "network"
+msgstr "பிணையம்"
+
+#, java-printf-format
+msgctxt "script_showing_dialog"
+msgid "Showing a dialog"
+msgstr "ஒரு உரையாடலைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "script_set_text"
+msgid "set text"
+msgstr "உரையை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "script_text"
+msgid "this text will be written in the editor"
+msgstr "இந்த உரை எடிட்டரில் எழுதப்படும்"
+
+#, java-printf-format
+msgctxt "script_api_info"
+msgid ""
+"check the ImplApi class in xed-editors source code at "
+"PROJECT/core/main/ui/screens/mutators/ImplApi for more information"
+msgstr ""
+"மேலும் தகவலுக்கு திட்டம்/கோர்/மெயின்/யுஐ/திரைகள்/மியூட்டேட்டர்கள்/இம்ப்ளாபி "
+"ஆகியவற்றில் எக்ச்எட்-எடிட்டர்ச் மூலக் குறியீட்டில் இம்ப்லாபி வகுப்பை "
+"சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "installing"
+msgid "Installing…"
+msgstr "நிறுவுதல்…"
+
+#, java-printf-format
+msgctxt "not_plugin_err"
+msgid "Selected file is not a .apk file"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்பு .apk கோப்பு அல்ல"
+
+#, java-printf-format
+msgctxt "install_from_storage"
+msgid "Install from storage"
+msgstr "சேமிப்பகத்திலிருந்து நிறுவவும்"
+
+#, java-printf-format
+msgctxt "no_ext"
+msgid "No Extension Installed."
+msgstr "நீட்டிப்பு நிறுவப்படவில்லை."
+
+#, java-printf-format
+msgctxt "loading"
+msgid "Loading…"
+msgstr "ஏற்றுகிறது…"
+
+#, java-printf-format
+msgctxt "info_ext"
+msgid ""
+"Extensions can be used to modify the behavior and features of xed-editor. To"
+" learn how to build a plugin, click here."
+msgstr ""
+"XED-ஆசிரியரின் நடத்தை மற்றும் அம்சங்களை மாற்ற நீட்டிப்புகள் "
+"பயன்படுத்தப்படலாம். ஒரு சொருகி எவ்வாறு உருவாக்குவது என்பதை அறிய, இங்கே "
+"சொடுக்கு செய்க."
+
+#, java-printf-format
+msgctxt "initializing"
+msgid "Initializing…"
+msgstr "தொடங்குதல்…"
+
+#, java-printf-format
+msgctxt "downloading"
+msgid "Downloading…"
+msgstr "பதிவிறக்கம்…"
+
+#, java-printf-format
+msgctxt "network_err"
+msgid ""
+"Network error. Please check that your internet connection is working "
+"properly."
+msgstr ""
+"பிணைய பிழை. உங்கள் இணைய இணைப்பு சரியாக செயல்படுகிறதா என்பதை சரிபார்க்கவும்."
+
+#, java-printf-format
+msgctxt "user"
+msgid "User"
+msgstr "பயனர்"
+
+#, java-printf-format
+msgctxt "email"
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#, java-printf-format
+msgctxt "git_auth"
+msgid "Github Token"
+msgstr "அறிவிலிமையம் கிள்ளாக்கு"
+
+#, java-printf-format
+msgctxt "invalid_email"
+msgid "Invalid Email"
+msgstr "தவறான மின்னஞ்சல்"
+
+#, java-printf-format
+msgctxt "invalid_user"
+msgid "Invalid Username"
+msgstr "தவறான பயனர்பெயர்"
+
+#, java-printf-format
+msgctxt "use_github_url"
+msgid "Use default git domain"
+msgstr "இயல்புநிலை அறிவிலி களத்தைப் பயன்படுத்து"
+
+#, java-printf-format
+msgctxt "custom_git_url"
+msgid "Custom Git Url"
+msgstr "தனிப்பயன் அறிவிலி முகவரி"
+
+#, java-printf-format
+msgctxt "http_git_url"
+msgid "Http git domain"
+msgstr "உஉபநெ அறிவிலி களம்"
+
+#, java-printf-format
+msgctxt "scroll_to_bottom"
+msgid "Scroll to Bottom"
+msgstr "கீழே உருட்டவும்"
+
+#, java-printf-format
+msgctxt "scroll_to_bottom_desc"
+msgid "Scroll to Bottom when opening a file"
+msgstr "ஒரு கோப்பைத் திறக்கும்போது கீழே உருட்டவும்"
+
+#, java-printf-format
+msgctxt "file_err"
+msgid "File cannot be saved, try closing and reopening the file"
+msgstr "கோப்பை சேமிக்க முடியாது, கோப்பை மூடி மீண்டும் திறக்க முயற்சிக்கவும்"
+
+#, java-printf-format
+msgctxt "file_not_loaded"
+msgid "File isn't loaded yet."
+msgstr "கோப்பு இன்னும் ஏற்றப்படவில்லை."
+
+#, java-printf-format
+msgctxt "file_not_exist"
+msgid "File no longer exists"
+msgstr "கோப்பு இனி இல்லை"
+
+#, java-printf-format
+msgctxt "isDisableSoftKbdIfHardKbdAvailable"
+msgid "Disable virtual keyboard"
+msgstr "மெய்நிகர் விசைப்பலகை முடக்கு"
+
+#, java-printf-format
+msgctxt "isDisableSoftKbdIfHardKbdAvailable_desc"
+msgid "Disable virtual keyboard if hardware keyboard is available"
+msgstr "வன்பொருள் விசைப்பலகை கிடைத்தால் மெய்நிகர் விசைப்பலகை முடக்கு"
+
+#, java-printf-format
+msgctxt "experimental_feature"
+msgid "Experimental Feature"
+msgstr "சோதனை நற்பொருத்தம்"
+
+#, java-printf-format
+msgctxt "experimental_session_restore_warning"
+msgid "This Feature is experimental and known to sometimes cause loss of data"
+msgstr ""
+"இந்த நற்பொருத்தம் சோதனை மற்றும் சில நேரங்களில் தரவு இழப்பை ஏற்படுத்தும் "
+"என்று அறியப்படுகிறது"
+
+#, java-printf-format
+msgctxt "highlighting"
+msgid "Syntax Highlighting"
+msgstr "தொடரியல் சிறப்பம்சமாக"
+
+#, java-printf-format
+msgctxt "err_no_termux"
+msgid "Termux is not installed"
+msgstr "டெர்மக்ச் நிறுவப்படவில்லை"
+
+#, java-printf-format
+msgctxt "err_termux_incompatible"
+msgid "Termux is not compatible"
+msgstr "டெர்மக்ச் பொருந்தாது"
+
+#, java-printf-format
+msgctxt "unrestricted_file"
+msgid "Open files of any size"
+msgstr "எந்த அளவிலான கோப்புகளையும் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "unrestricted_file_desc"
+msgid "Allow opening files of any size. May lead to crashes."
+msgstr ""
+"எந்த அளவிலான கோப்புகளையும் திறக்க அனுமதிக்கவும். விபத்துக்களுக்கு "
+"வழிவகுக்கும்."
+
+#, java-printf-format
+msgctxt "suggest_clear_app_data"
+msgid "Clearing app data is recommended"
+msgstr "பயன்பாட்டு தரவை அழிக்க பரிந்துரைக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "update_files_cleared"
+msgid "App updated: Data Cleared"
+msgstr "பயன்பாடு புதுப்பிக்கப்பட்டது: தரவு அழிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "toggle_ww"
+msgid "Toggle Word Wrap"
+msgstr "சொல் மடக்கு மாற்று"
+
+#, java-printf-format
+msgctxt "warning_private_dir"
+msgid ""
+"Content of this directory will get deleted if you clear data or delete Xed-"
+"Editor"
+msgstr ""
+"நீங்கள் தரவை அழித்தால் அல்லது xed-editer ஐ நீக்கினால் இந்த கோப்பகத்தின் "
+"உள்ளடக்கம் நீக்கப்படும்"
+
+#, java-printf-format
+msgctxt "read_only_file"
+msgid "File is read only"
+msgstr "கோப்பு மட்டுமே படிக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "new_document"
+msgid "New Document"
+msgstr "புதிய ஆவணம்"
+
+#, java-printf-format
+msgctxt "new_document_desc"
+msgid "New file or folder"
+msgstr "புதிய கோப்பு அல்லது கோப்புறை"
+
+#, java-printf-format
+msgctxt "file"
+msgid "File"
+msgstr "கோப்பு"
+
+#, java-printf-format
+msgctxt "folder"
+msgid "Folder"
+msgstr "கோப்புறை"
+
+#, java-printf-format
+msgctxt "sponsor"
+msgid "Sponsor"
+msgstr "ஒப்புரவாளர்"
+
+#, java-printf-format
+msgctxt "sponsor_desc"
+msgid "Support Development"
+msgstr "உதவி மேம்பாடு"
+
+#, java-printf-format
+msgctxt "feature_toggles"
+msgid "Feature Toggles"
+msgstr "நற்பொருத்தம் மாற்றங்கள்"
+
+#, java-printf-format
+msgctxt "feature_toggles_desc"
+msgid "Enable or disable specific features"
+msgstr "குறிப்பிட்ட அம்சங்களை இயக்கவும் அல்லது முடக்கவும்"
+
+#, java-printf-format
+msgctxt "backup"
+msgid "Backup"
+msgstr "காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "restore"
+msgid "Restore"
+msgstr "மீட்டமை"
+
+#, java-printf-format
+msgctxt "success"
+msgid "Success"
+msgstr "செய்"
+
+#, java-printf-format
+msgctxt "failed"
+msgid "Failed"
+msgstr "தோல்வியுற்றது"
+
+#, java-printf-format
+msgctxt "invalidpath"
+msgid "Invalid path"
+msgstr "தவறான பாதை"
+
+#, java-printf-format
+msgctxt "unknown_err"
+msgid "Something went wrong"
+msgstr "ஏதோ தவறாகிவிட்டது"
+
+#, java-printf-format
+msgctxt "misc"
+msgid "Miscellaneous"
+msgstr "மற்றவை"
+
+#, java-printf-format
+msgctxt "misc_desc"
+msgid "Miscellaneous Settings"
+msgstr "இதர அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "expose_saf"
+msgid "Expose Home Directory"
+msgstr "வீட்டு கோப்பகத்தை அம்பலப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "expose_saf_desc"
+msgid ""
+"Make the home directory accessible to external apps via the system file "
+"picker (SAF)"
+msgstr ""
+"கணினி கோப்பு பிக்கர் (SAF) வழியாக வெளிப்புற பயன்பாடுகளுக்கு வீட்டு "
+"கோப்பகத்தை அணுகவும்"
+
+#, java-printf-format
+msgctxt "saf_expose_warning"
+msgid ""
+"Exposing the home directory may reveal sensitive information to malicious "
+"apps, including Git tokens, passwords, usernames, and other files stored in "
+"your terminal home directory. Do you want to continue?"
+msgstr ""
+"வீட்டு கோப்பகத்தை அம்பலப்படுத்துவது, அறிவிலி டோக்கன்கள், கடவுச்சொற்கள், "
+"பயனர்பெயர்கள் மற்றும் உங்கள் டெர்மினல் ஓம் டைரக்டரியில் சேமிக்கப்பட்ட பிற "
+"கோப்புகள் உள்ளிட்ட தீங்கிழைக்கும் பயன்பாடுகளுக்கு முக்கியமான தகவல்களை "
+"வெளிப்படுத்தக்கூடும். நீங்கள் தொடர விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "info"
+msgid "Info"
+msgstr "தகவல்"
+
+#, java-printf-format
+msgctxt "file_info"
+msgid "File Info"
+msgstr "கோப்பு செய்தி"
+
+#, java-printf-format
+msgctxt "file_size"
+msgid "File Size"
+msgstr "கோப்பு அளவு"
+
+#, java-printf-format
+msgctxt "can_read"
+msgid "Can Read"
+msgstr "படிக்க முடியும்"
+
+#, java-printf-format
+msgctxt "can_write"
+msgid "Can Write"
+msgstr "எழுத முடியும்"
+
+#, java-printf-format
+msgctxt "isfile"
+msgid "Is File"
+msgstr "கோப்பு"
+
+#, java-printf-format
+msgctxt "copied"
+msgid "Copied"
+msgstr "நகலெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "flavor"
+msgid "Flavor"
+msgstr "சுவை"
+
+#, java-printf-format
+msgctxt "cant_undo"
+msgid "This action cannot be undone"
+msgstr "இந்த செயலை செயல்தவிர்க்க முடியாது"
+
+#, java-printf-format
+msgctxt "auto_complete"
+msgid "Editor Auto Complete"
+msgstr "எடிட்டர் ஆட்டோ முடிந்தது"
+
+#, java-printf-format
+msgctxt "capture_logcat"
+msgid "Capture Logcat"
+msgstr "லோகாட்டைப் பிடிக்கவும்"
+
+#, java-printf-format
+msgctxt "capture_logcat_desc"
+msgid "Capture logs in background for debugging"
+msgstr "பிழைத்திருத்தத்திற்கான பின்னணியில் பதிவுகளைப் பிடிக்கவும்"
+
+#, java-printf-format
+msgctxt "logcat_service"
+msgid "Logcat Service"
+msgstr "Logcat பணி"
+
+#, java-printf-format
+msgctxt "logcat_service_desc"
+msgid "Capturing logs in background"
+msgstr "பின்னணியில் பதிவுகளை கைப்பற்றுதல்"
+
+#, java-printf-format
+msgctxt "tempFile"
+msgid "Temp File"
+msgstr "தற்காலிக கோப்பு"
+
+#, java-printf-format
+msgctxt "manage_storage_desc"
+msgid "Manage Storage Permission"
+msgstr "சேமிப்பக அனுமதியை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "lang"
+msgid "Language"
+msgstr "மொழி"
+
+#, java-printf-format
+msgctxt "lang_desc"
+msgid "Language settings"
+msgstr "மொழி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "indian"
+msgid "Indian"
+msgstr "இந்தியன்"
+
+#, java-printf-format
+msgctxt "runners"
+msgid "Runners"
+msgstr "ஓட்டப்பந்தய வீரர்கள்"
+
+#, java-printf-format
+msgctxt "runners_desc"
+msgid "Shell runners"
+msgstr "செல் ஓட்டப்பந்தய வீரர்கள்"
+
+#, java-printf-format
+msgctxt "no_runners"
+msgid "No Runners"
+msgstr "ஓட்டப்பந்தய வீரர்கள் இல்லை"
+
+#, java-printf-format
+msgctxt "new_runner"
+msgid "New Runner"
+msgstr "புதிய ரன்னர்"
+
+#, java-printf-format
+msgctxt "runner_name"
+msgid "Runner Name"
+msgstr "ரன்னர் பெயர்"
+
+#, java-printf-format
+msgctxt "regex_pattern"
+msgid "Regex Pattern"
+msgstr "ரீசெக்ச் முறை"
+
+#, java-printf-format
+msgctxt "invalid_runner_name"
+msgid "Only letters, numbers, underscores and hyphens allowed"
+msgstr ""
+"கடிதங்கள், எண்கள், அடிக்கோடிட்டுக் காட்டுதல் மற்றும் ஐபன்கள் மட்டுமே "
+"அனுமதிக்கப்படுகின்றன"
+
+#, java-printf-format
+msgctxt "invalid_regex"
+msgid "Invalid regex pattern"
+msgstr "தவறான ரீசெக்ச் முறை"
+
+#, java-printf-format
+msgctxt "runner_name_exists"
+msgid "Runner name already exists"
+msgstr "ரன்னர் பெயர் ஏற்கனவே உள்ளது"
+
+#, java-printf-format
+msgctxt "edit_runner"
+msgid "Edit Runner"
+msgstr "ரன்னரைத் திருத்து"
+
+#, java-printf-format
+msgctxt "info_runners"
+msgid ""
+"Runners are small bash scripts that are used to run a file/project. Create a"
+" runner and click on it to open it in the editor."
+msgstr ""
+"ஓட்டப்பந்தய வீரர்கள் சிறிய பாச் ச்கிரிப்ட்கள், அவை கோப்பு/திட்டத்தை இயக்க "
+"பயன்படுகின்றன. ஒரு ரன்னரை உருவாக்கி, அதை எடிட்டரில் திறக்க அதைக் சொடுக்கு "
+"செய்க."
+
+#, java-printf-format
+msgctxt "redo"
+msgid "Redo"
+msgstr "மீண்டும்செய்"
+
+#, java-printf-format
+msgctxt "read_mode"
+msgid "Read Mode"
+msgstr "பயன்முறையைப் படியுங்கள்"
+
+#, java-printf-format
+msgctxt "edit_mode"
+msgid "Edit Mode"
+msgstr "திருத்து பயன்முறை"
+
+#, java-printf-format
+msgctxt "no_folder_opened"
+msgid "No Folder Opened"
+msgstr "கோப்புறை எதுவும் திறக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "cut"
+msgid "Cut"
+msgstr "வெட்டு"
+
+#, java-printf-format
+msgctxt "cut_desc"
+msgid "Move Document"
+msgstr "ஆவணத்தை நகர்த்தவும்"
+
+#, java-printf-format
+msgctxt "timeout"
+msgid ""
+"Download cancelled due to timeout. Please ensure your internet connection is"
+" stable"
+msgstr ""
+"நேரம் முடிந்ததால் பதிவிறக்கம் ரத்து செய்யப்பட்டது. உங்கள் இணைய இணைப்பு "
+"நிலையானது என்பதை உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "more"
+msgid "More"
+msgstr "மேலும்"
+
+#, java-printf-format
+msgctxt "theme_settings"
+msgid "Theme Settings"
+msgstr "கருப்பொருள் அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "add_theme"
+msgid "Add Theme"
+msgstr "கருப்பொருள் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "unsupported_feature"
+msgid "This feature is not supported on your device"
+msgstr "இந்த நற்பொருத்தம் உங்கள் சாதனத்தில் ஆதரிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "confirm_exit"
+msgid "Are you sure you want to exit?"
+msgstr "நீங்கள் வெளியேற விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "controlpanel"
+msgid "ControlPanel"
+msgstr "Controlpanel"
+
+#, java-printf-format
+msgctxt "newtab_oom"
+msgid ""
+"Not enough memory is available to open this tab. Opening it may cause Xed-"
+"Editor to crash. Do you want to continue anyway?"
+msgstr ""
+"இந்த தாவலைத் திறக்க போதுமான நினைவகம் கிடைக்கவில்லை. அதைத் திறப்பது xed-"
+"editor விபத்துக்குள்ளாக்கக்கூடும். எப்படியும் தொடர விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "read_mode_desc"
+msgid "Enable read mode by default"
+msgstr "இயல்புநிலையாக வாசிப்பு பயன்முறையை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "preview_err"
+msgid ""
+"Unable to preview this file. No parent directory is available. Consider "
+"moving this file somewhere else."
+msgstr ""
+"இந்த கோப்பை முன்னோட்டமிட முடியவில்லை. பெற்றோர் அடைவு எதுவும் கிடைக்கவில்லை. "
+"இந்த கோப்பை வேறு எங்காவது நகர்த்துவதைக் கவனியுங்கள்."
+
+#, java-printf-format
+msgctxt "acquire_wakelock"
+msgid "Acquire wakelock"
+msgstr "வேக்கலாக் பெறுங்கள்"
+
+#, java-printf-format
+msgctxt "release_wakelock"
+msgid "Release wakelock"
+msgstr "வேக்க்லாக் வெளியீடு"
+
+#, java-printf-format
+msgctxt "getting_ready"
+msgid "Getting everything ready…"
+msgstr "எல்லாவற்றையும் ஆயத்தம் செய்வது…"

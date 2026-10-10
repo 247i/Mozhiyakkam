@@ -1,0 +1,152 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: இருப்பாதை_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "adequate distance"
+msgstr "போதும் தொலைவு"
+
+msgid "adhesion"
+msgstr "ஒட்டுமை"
+
+msgid "airconditioned chair car"
+msgstr "குளிர்சாதன இருக்கை இருப்புப்பெட்டி"
+
+msgid "airconditioned sleeper car/coach"
+msgstr "குளிர்சாதன படுக்கை இருப்புப்பெட்டி"
+
+msgid "alignment"
+msgstr "இருப்புவழி"
+
+msgid "all-clear signal"
+msgstr "முழுத்தெளிவுச் சைகை"
+
+msgid "apron"
+msgstr "ஏற்றிடம்"
+
+msgid "ashpan"
+msgstr "சாம்பல்பிடி"
+
+msgid "balancing speed"
+msgstr "நிலைநிமிர் வேகம்"
+
+msgid "banker"
+msgstr "துணையுந்துப்பொறி"
+
+msgid "berth"
+msgstr "அணைகரை"
+
+msgid "bogie"
+msgstr "இருப்புப்பெட்டி"
+
+msgid "brake"
+msgstr "நிறுத்தி"
+
+msgid "catenary"
+msgstr "சங்கிலியம்"
+
+msgid "chair car"
+msgstr "இருக்கை இருப்புப்பெட்டி"
+
+msgid "dead-end"
+msgstr "முட்டு"
+
+msgid "dead-end siding"
+msgstr "முட்டுப் பக்கப்பாதை"
+
+msgid "double line"
+msgstr "இரட்டை இருப்புப்பாதை"
+
+msgid "driving cab"
+msgstr "இயக்கிருப்புப்பெட்டி"
+
+msgid "engine (locomotive)"
+msgstr "உந்துபொறி"
+
+msgid "facing points"
+msgstr "விலகும் பிரிவகம்"
+
+msgid "gauntleted track"
+msgstr "பின்னல் இருப்புப்பாதை"
+
+msgid "gradient"
+msgstr "சரிவு"
+
+msgid "grate"
+msgstr "பரணி"
+
+msgid "headway"
+msgstr "இடைநேரம்"
+
+msgid "hotel power"
+msgstr "இருப்பு மின்சாரம்"
+
+msgid "king lever"
+msgstr "தலைப்பு நெம்புகோல்"
+
+msgid "level crossing"
+msgstr "இருப்புப்பாதைக் கடவை"
+
+msgid "locomotive"
+msgstr "உந்துபொறி"
+
+msgid "marshalling yard"
+msgstr "பிரிப்பு முற்றம்"
+
+msgid "monsoon load"
+msgstr "பருவமழைச் சுமை"
+
+msgid "pantograph"
+msgstr "வரைச்சட்டம்"
+
+msgid "phase gap"
+msgstr "கட்ட இடைவெளி"
+
+msgid "points"
+msgstr "பிரிவகம்"
+
+msgid "rack"
+msgstr "இருப்படுக்கு"
+
+msgid "rails"
+msgstr "இருப்புகள்"
+
+msgid "safe stable cruising speed"
+msgstr "பாதுகாப்பான நிலைத்த சீரியங்கு வேகம்"
+
+msgid "siding"
+msgstr "பக்கப்பாதை"
+
+msgid "single line"
+msgstr "ஒற்றை இருப்புப்பாதை"
+
+msgid "sleeper (track)"
+msgstr "படுக்கட்டை"
+
+msgid "sleeper car/coach"
+msgstr "படுக்கை இருப்புப்பெட்டி"
+
+msgid "stabling shed/yard"
+msgstr "ஓய்வு முற்றம்"
+
+msgid "standing load"
+msgstr "நிற்புப் பயண எடை"
+
+msgid "trailing points"
+msgstr "சேரும் பிரிவகம்"
+
+msgid "vestibule"
+msgstr "இணைப்புக்கூண்டு"
+
+msgid "yard"
+msgstr "முற்றம்"

@@ -1,0 +1,461 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: குறிகையியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "alias frequency"
+msgstr "புனையலைவெண்"
+
+msgid "aliasing"
+msgstr "புனையலைவு"
+
+msgid "all-pass filter"
+msgstr "எல்லாம் வடிப்பி"
+
+msgid "amplitude"
+msgstr "வீச்சு"
+
+msgid "amplitude modulated signal"
+msgstr "வீச்சுப் பண்பேற்றக் குறிகை"
+
+msgid "analog to digital converter (adc)"
+msgstr "எண்ணாக்கி/இலக்கமாக்கி/எண்மையாக்கி"
+
+msgid "analog-to-digital convesion"
+msgstr "எண்ணாக்க"
+
+msgid "attenuation"
+msgstr "மெலிப்பு"
+
+msgid "audio engineering"
+msgstr "கேட்பொலியியலில்"
+
+msgid "autocorrelation"
+msgstr "தன்னொட்டுறவு"
+
+msgid "band-reject filter"
+msgstr "பட்டைத்தடு வடிப்பி"
+
+msgid "bandpass"
+msgstr "பட்டைவிடு"
+
+msgid "bandwidth"
+msgstr "பட்டையகலம்"
+
+msgid "bit"
+msgstr "துணுக்கு"
+
+msgid "bit rate"
+msgstr "துணுக்கு வீதம்"
+
+msgid "bit stream"
+msgstr "துணுக்குத் தாரை"
+
+msgid "bit-stream"
+msgstr "துணிக்குத்தாரை"
+
+msgid "bits per second"
+msgstr "துணுக்கு ஒரு நொடி வீதம்"
+
+msgid "bits per second per hertz"
+msgstr "துணுக்கு ஒரு நொடி வீதம் ஒரு hertz வீதம்"
+
+msgid "carrier"
+msgstr "சுமைப்பியை"
+
+msgid "cascade"
+msgstr "ஓடையிணைப்பு"
+
+msgid "center frequency"
+msgstr "மைய அலைவெண்"
+
+msgid "channel estimation"
+msgstr "தடமதிப்பீடு"
+
+msgid "circular convolution"
+msgstr "வட்டச் சுருளல்"
+
+msgid "code symbol"
+msgstr "குறிமுறைக் குறியீடு"
+
+msgid "coding rate"
+msgstr "குறியாக்க வீதம்"
+
+msgid "coherent detection"
+msgstr "ஒத்தியல் உணர்வு"
+
+msgid "continuos functions"
+msgstr "தொடர்ந்தச் சார்புகள்"
+
+msgid "continuos time fourier transform"
+msgstr "தொடர்ந்தக் கால ஃபுரியர் உருமாற்றம்"
+
+msgid "convolution, convolve"
+msgstr "சுருளல், சுருளலிடு"
+
+msgid "delay"
+msgstr "சுணக்கம்"
+
+msgid "digital communication systems"
+msgstr "எண்தொடர்பியல் முறைமைகளில்"
+
+msgid "digital filter"
+msgstr "எண்வடிப்பி"
+
+msgid "digital image processing"
+msgstr "எண்பிம்பவியல்"
+
+msgid "digital image processor"
+msgstr "(எண்)பிம்பச் செயலி"
+
+msgid "digital signal processing"
+msgstr "எண்குறிகையியல்"
+
+msgid "digital signal processor"
+msgstr "(எண்)குறிகைச் செயலி"
+
+msgid "digital to analog converter (dac)"
+msgstr "ஒப்பாக்கி"
+
+msgid "digital-to-analog conversion"
+msgstr "சிறப்பான ஒப்பாக்கம்"
+
+msgid "direct proportion"
+msgstr "நேர்விகிதம்"
+
+msgid "discrete fourier transform"
+msgstr "தனித்த ஃபுரியர் உருமாற்றம்"
+
+msgid "discrete level"
+msgstr "தனித்த மட்டம்"
+
+msgid "discrete levels"
+msgstr "தனித்த மட்டங்கள்"
+
+msgid "discrete time fourier transform"
+msgstr "தனித்தக் கால ஃபுரியர் உருமாற்றம்"
+
+msgid "discrete time sequence"
+msgstr "தனித்தக்கால வரிசையம்"
+
+msgid "duplication"
+msgstr "படியீடு"
+
+msgid "dynamic range"
+msgstr "இயக்க வரம்பு"
+
+msgid "effective aperture"
+msgstr "கதிரலைக்கும்பாவின் செயற்திறப்பு"
+
+msgid "efficiency of the modulation format"
+msgstr "பண்பேற்ற வடிவுருவின் செயற்திறன்"
+
+msgid "energy per bit"
+msgstr "துணுக்காற்றல்"
+
+msgid "energy per bit to noise power spectral density ratio"
+msgstr "துணுக்காற்றல்-இரைச்சல் திறனிறமாலையடர்வு விகிதம்"
+
+msgid "energy per symbol "
+msgstr "குறியீட்டாற்றல்"
+
+msgid "envelope delay"
+msgstr "சூழ்வுச் சுணக்கம்"
+
+msgid "equalization"
+msgstr "சமப்படுத்தல்"
+
+msgid "error code code"
+msgstr "பிழைத்திருத்தக் குறிமுறை"
+
+msgid "error detecting code"
+msgstr "பிழையறி குறிமுறை"
+
+msgid "expression for circular convolution"
+msgstr "வட்டச் சுருளல் கோவை"
+
+msgid "fading"
+msgstr "குன்றல்"
+
+msgid "finite impulse response (fir) filter"
+msgstr "முடிவுறு (கணத்தாக்க) (மறுமொழி)(ப்)பண்பு வடிப்பி"
+
+msgid "flat"
+msgstr "கிடைவளைவு"
+
+msgid "fluctuations"
+msgstr "ஏற்றவிறக்கங்கள்"
+
+msgid "fourier theorem"
+msgstr "ஃபுரியர் தேற்றம்"
+
+msgid "frequency (domain) response"
+msgstr "அலைவெண் (ஆட்கள) மறுமொழிப்பண்பு"
+
+msgid "frequency change"
+msgstr "அலைவெண் மாற்றம்"
+
+msgid "frequency domain"
+msgstr "அலைவெண் ஆட்களம்"
+
+msgid "function"
+msgstr "சார்பு"
+
+msgid "group delay"
+msgstr "குலச் சுணக்கம்"
+
+msgid "group delay"
+msgstr "குலச்சுணக்கம்"
+
+msgid "impulse invariant response"
+msgstr "முடிவிலி (கணத்தாக்க) மறுமொழி"
+
+msgid "impulse response"
+msgstr "கணத்தாக்க மறுமொழிப்பண்பு"
+
+msgid "infinite impulse response filter"
+msgstr "முடிவிலி மறுமொழி வடிப்பி"
+
+msgid "information bits"
+msgstr "தகவல் துணுக்குகள்"
+
+msgid "integral concatenation"
+msgstr "தொகையீட்டுத் தொடுத்தல்"
+
+msgid "intersymbol interference"
+msgstr "குறியீடு இடையீடு"
+
+msgid "linear convolution"
+msgstr "நேரியல் சுருளல்"
+
+msgid "linear phase filter"
+msgstr "நேரியல் கட்ட வடிப்பி"
+
+msgid "linear time invariant (lti) system"
+msgstr "நேரியல் காலமாற்றமுறா அமைப்பு"
+
+msgid "linear time invariant systems"
+msgstr "நேரியல் காலமாற்றமுறா அமைப்புகள்"
+
+msgid "low pass filter"
+msgstr "தாழ் வடிப்பி"
+
+msgid "magnitude"
+msgstr "பருமை"
+
+msgid "magnitude response"
+msgstr "பருமை மறுமொழிப்பண்பு"
+
+msgid "magnitude-time of arrival"
+msgstr "பருமை-வருகை நேரம்"
+
+msgid "modulation"
+msgstr "பண்பேற்றம்"
+
+msgid "modulation efficiency"
+msgstr "பண்பேற்ற செயற்திறன்"
+
+msgid "multipath component"
+msgstr "பலபாதை உறுப்பு"
+
+msgid "multipath fading"
+msgstr "பலபாதைக் குன்றல்"
+
+msgid "noise"
+msgstr "இரைச்சல்"
+
+msgid "noise desntiy"
+msgstr "இரைச்சல் அடர்வு"
+
+msgid "octave"
+msgstr "எண்மம்"
+
+msgid "oscillations"
+msgstr "அலைவுகள்"
+
+msgid "output samples"
+msgstr "வெளியீடு மாதிரிகள்"
+
+msgid "overflow"
+msgstr "மேல்வழிவு"
+
+msgid "overlap-add"
+msgstr "மேல்வீழல் கூட்டல்"
+
+msgid "overlap-save"
+msgstr "மேல்வீழல் சேமி"
+
+msgid "parasitic oscillation"
+msgstr "பொய்யலைவு"
+
+msgid "pass band"
+msgstr "விடுபட்டை"
+
+msgid "pass-band"
+msgstr "விடுபட்டை"
+
+msgid "period"
+msgstr "காலசுழற்சி"
+
+msgid "periodic"
+msgstr "காலசுழற்சியான"
+
+msgid "periodic extension"
+msgstr "காலசுழற்சி விரிவுகள்"
+
+msgid "periodic function"
+msgstr "காலசுழற்சியான சார்பு"
+
+msgid "periodic waveform"
+msgstr "காலசுழற்சியான அலைப்படம்"
+
+msgid "phase"
+msgstr "கட்டம்"
+
+msgid "phase change"
+msgstr "கட்ட மாற்றம் "
+
+msgid "phase response"
+msgstr "கட்ட மறுமொழிப்பண்பு"
+
+msgid "phase-frequency plot"
+msgstr "கட்டம்-அலைவெண் வரைவு"
+
+msgid "phase-lock"
+msgstr "கட்டமடை"
+
+msgid "pink noise"
+msgstr "இளஞ்செவ்விரைச்சல்"
+
+msgid "power spectral density"
+msgstr "திறனிறமாலையடர்த்தி"
+
+msgid "proportionally wide frequency range"
+msgstr "நேர்வீத அகல அலைவெண் இடைவெளி"
+
+msgid "pulse code modulation (pcm)"
+msgstr "துடிப்புக் குறிமுறை பண்பேற்றம்"
+
+msgid "quantization"
+msgstr "சொட்டாக்கம்"
+
+msgid "quantization error"
+msgstr "சொட்டாக்கப் பிழை"
+
+msgid "quantization level"
+msgstr "சொட்டாக்க மட்டம்"
+
+msgid "radar signal processing"
+msgstr "கதிரலைக் கும்பா குறிகையியல்"
+
+msgid "rake receiver"
+msgstr "வறண்டிப் பெறுவி"
+
+msgid "redundancy"
+msgstr "மிகைமை"
+
+msgid "redundant bit(s)"
+msgstr "மிகைத் துணுக்கு(கள்)"
+
+msgid "ripple"
+msgstr "குறுவலைவு"
+
+msgid "sampling"
+msgstr "மாதிரியெடுப்பு"
+
+msgid "sampling instants"
+msgstr "மாதிரியெடுப்புக் கணங்கள்"
+
+msgid "sequence"
+msgstr "வரிசையம்"
+
+msgid "sequences"
+msgstr "வரிசைகள்"
+
+msgid "sigma-delta modulation"
+msgstr "கூட்டுவேற்று பண்பேற்றம்"
+
+msgid "signal amplitude"
+msgstr "குறிகை வீச்சு"
+
+msgid "signal to noise ratio"
+msgstr "குறிகை இரைச்சல் விகிதம்"
+
+msgid "signal to noise ratio per bit"
+msgstr "துணுக்குவாரி குறிகை இரைச்சல் விகிதம்"
+
+msgid "sinusoids"
+msgstr "செவ்வளைவுகள்"
+
+msgid "spurious free dynamic range (sfdr)"
+msgstr "பொய்கையின்றி இயக்கவரம்பு"
+
+msgid "spurious signal"
+msgstr "பொய்கை"
+
+msgid "stop band"
+msgstr "தடுபட்டை"
+
+msgid "stop-band"
+msgstr "தடுபட்டை"
+
+msgid "symbols"
+msgstr "குறியீடுகள் "
+
+msgid "synthetic aperture radar (s.a.r.)"
+msgstr "தொகுத்திறப்புக் கும்பா"
+
+msgid "system phase response"
+msgstr "முறைமை கட்ட மறுமொழிப்பண்பு"
+
+msgid "terrain"
+msgstr "பரப்புக்கூற்றைக்"
+
+msgid "time (domain) response"
+msgstr "கால (ஆட்கள) மறுமொழிப்பண்பு"
+
+msgid "time domain"
+msgstr "கால ஆட்களம்"
+
+msgid "time sequence"
+msgstr "கால வரிசையம்"
+
+msgid "time series"
+msgstr "காலத்தொடர்"
+
+msgid "total transmission energy"
+msgstr "மொத்த செலுத்தாற்றல்"
+
+msgid "ultrasound"
+msgstr "ஊடொலி"
+
+msgid "uncorrellated"
+msgstr "ஒட்டுறவற்றது"
+
+msgid "unity"
+msgstr "ஒருமம்"
+
+msgid "waveform"
+msgstr "அலைப்படம்"
+
+msgid "white noise"
+msgstr "வெண்ணிரைச்சல்"
+
+msgid "z-plane"
+msgstr "z-தளம்"
+
+msgid "z-transform"
+msgstr "z-உருமாற்றம்"
+
+msgid "zero"
+msgstr "சுழியம்"

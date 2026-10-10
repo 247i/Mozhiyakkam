@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Super Tux Party)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-06 16:29+0200\n"
+"PO-Revision-Date: 2025-03-06 21:26+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/super-tux-party/minigameshurdle/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, ignore-inconsistent
+msgctxt "MINIGAME_NAME"
+msgid "Hurdles"
+msgstr "தடைகள்"
+
+#, ignore-inconsistent
+msgctxt "MINIGAME_DESCRIPTION"
+msgid ""
+"The players stand on a moving platform.\n"
+"\n"
+"Do not fall off the platform! The last player standing wins."
+msgstr ""
+"வீரர்கள் நகரும் மேடையில் நிற்கிறார்கள்.\n"
+"\n"
+" மேடையில் இருந்து விழ வேண்டாம்! நிற்கும் கடைசி வீரர் செய் பெறுகிறார்."
+
+msgctxt "MINIGAME_ACTION_JUMP"
+msgid "Jump"
+msgstr "தாவு"
+
+msgctxt "HURDLE_PLAYER_WINS_MSG"
+msgid "{player} wins!"
+msgstr "{player} வெற்றி!"

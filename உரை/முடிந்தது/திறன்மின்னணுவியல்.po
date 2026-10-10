@@ -1,0 +1,465 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: திறன்மின்னணுவியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ac motor"
+msgstr "மாறுதிசை மின்னோட்ட மின்னோடி"
+
+msgid "anode"
+msgstr "நேர் மின்வாய்"
+
+msgid "arc lamp"
+msgstr "மின்வில் விளக்கு"
+
+msgid "armature"
+msgstr "மின்னகம்"
+
+msgid "balance point"
+msgstr "சமநிலை"
+
+msgid "balance wheel"
+msgstr "சமச்சக்கரம்"
+
+msgid "ball bearing"
+msgstr "மணித்தாங்கி, மணிப்பொதிகை"
+
+msgid "band gap"
+msgstr "பட்டை இடைவெளி, பட்டையிடுக்கு"
+
+msgid "bar magnet"
+msgstr "சட்டக் காந்தம்"
+
+msgid "boost regulator"
+msgstr "ஊக்கு மாற்றி"
+
+msgid "brush"
+msgstr "மின்தொடி"
+
+msgid "buck boost regulator"
+msgstr "இறக்கு ஊக்கு மாற்றி"
+
+msgid "buck regulator"
+msgstr "இறக்கு மாற்றி"
+
+msgid "bunched conductor"
+msgstr "கொத்துக்கடத்தி"
+
+msgid "bus bar"
+msgstr "கடத்திச் சட்டம்"
+
+msgid "capacitor motor"
+msgstr "தேக்க மின்னோடி, கொண்ம மின்னோடி"
+
+msgid "ceramic capacitor"
+msgstr "வெண்களிமண் மின்தேக்கி"
+
+msgid "charge pump"
+msgstr "மின்னூட்ட இறைப்பி"
+
+msgid "circuit breaker"
+msgstr "(சுற்றமைப்புப்) பிரிகலன்"
+
+msgid "clamping"
+msgstr "பற்றிடல்"
+
+msgid "clamping circuit"
+msgstr "பற்று மின்சுற்று"
+
+msgid "clipping circuit"
+msgstr "வெட்டு மின்சுற்று"
+
+msgid "commutation (brush)"
+msgstr "திரட்டல்"
+
+msgid "commutation (turning off)"
+msgstr "மின்துண்டிப்பு"
+
+msgid "commutator (brush)"
+msgstr "திரட்டி"
+
+msgid "commutator (turning off)"
+msgstr "மின்துண்டிப்பி"
+
+msgid "commutator motor"
+msgstr "திரட்டி மின்னோடி"
+
+msgid "continuous mode"
+msgstr "தொடர்ந்தப் பாங்கு"
+
+msgid "cosine"
+msgstr "துணைசெவ்வளைவு"
+
+msgid "creepage"
+msgstr "மின்னூர்வு"
+
+msgid "current sense resistor"
+msgstr "மின்னோட்ட உணர் மின்தடை"
+
+msgid "current sensing"
+msgstr "மின்னோட்ட உணர்வு"
+
+msgid "dc motor"
+msgstr "ஒருதிசை மின்னோட்ட மின்னோடி"
+
+msgid "dc-dc converter"
+msgstr "ஒருதிசை-ஒருதிசை மாற்றி"
+
+msgid "diac (triode for ac)"
+msgstr "மாறிருமுனையம், மாறுமின் இருமுனையம்"
+
+msgid "dielectric"
+msgstr "மின்கடத்தாப் பொருள், மின்கடத்திலி"
+
+msgid "dielectric constant"
+msgstr "மின்கடவா எண்"
+
+msgid "dielectric loss"
+msgstr "மின்காப்பிழப்பு"
+
+msgid "dielectric resistance"
+msgstr "மின்காப்புத் தடுப்பு"
+
+msgid "diffraction (wave)"
+msgstr "விளிம்பு வளைவு"
+
+msgid "diffusion, diffusion current"
+msgstr "விரவல், விரவலோட்டம்"
+
+msgid "dipole moment"
+msgstr "இருமுனைத் திருப்பம்"
+
+msgid "direct drive"
+msgstr "நேரோட்டு"
+
+msgid "discharge current"
+msgstr "மின்னிறக்க மின்னோட்டம்"
+
+msgid "discontinuous mode"
+msgstr "தொடரற்றப் பாங்கு"
+
+msgid "drip proof motor"
+msgstr "கசிவுக்காப்பு மின்னோடி"
+
+msgid "drive (amplifier)"
+msgstr "ஓட்டி (மிகைப்பி)"
+
+msgid "electrolytic capacitor"
+msgstr "மின்னாற்பகு மின்தேக்கி"
+
+msgid "electromagenetic compatibility (emc)"
+msgstr "மின்காந்த ஒத்தியல்பு, மின்காந்த ஒத்தியல்புத் திறன்"
+
+msgid "electromagenetic interference (emi)"
+msgstr "மின்காந்த இடையீடு, மின்காந்த இடையீட்டுத் திறன்"
+
+msgid "electromagenetic susceptibility (ems)"
+msgstr "மின்காந்த ஏற்பு, மின்காந்த ஏற்புத்திறன்"
+
+msgid "electrons"
+msgstr "எதிர்மின்னிகள்"
+
+msgid "electrostatic discharge (esd)"
+msgstr "நிலைமின்னிறக்கம்"
+
+msgid "emc-emi"
+msgstr "இடையீடு ஏற்பு திறன், மின்னொத்தியல்புத் திறன்"
+
+msgid "equivalent series inductance (esi)"
+msgstr "சமவலு தொடர்மின்தூண்டம்"
+
+msgid "equivalent series resistance (esr)"
+msgstr "சமவலு தொடர்மின்தடுப்பு"
+
+msgid "field winding"
+msgstr "புலச் சுருணை"
+
+msgid "forced commutation"
+msgstr "வலுக்கட்டாய மின்துண்டிப்பு"
+
+msgid "forward bias"
+msgstr "முன்னோக்குச் சாரிகை"
+
+msgid "forward recovery time"
+msgstr "முன்னோக்கு மின்மீட்டு நேரம்"
+
+msgid "ground return"
+msgstr "நிலத் திரும்பம்"
+
+msgid "hysterisis"
+msgstr "தயக்கம்"
+
+msgid "induction motor"
+msgstr "தூண்டல் மின்னோடி"
+
+msgid "inductor"
+msgstr "மின்தூண்டி"
+
+msgid "inertia"
+msgstr "நிலைமம்"
+
+msgid "instrinsic semiconductor"
+msgstr "உள்ளார்ந்தக் குறைக்கடத்தி"
+
+msgid "insulated gate bipolar transistor (igbt)"
+msgstr "காப்புவாயிலி, மின்காப்பு வாயில் சந்தி திரிதடையம்"
+
+msgid "integer spin"
+msgstr "முழுச்சுழல்"
+
+msgid "interaction"
+msgstr "உள்வினை"
+
+msgid "inversion"
+msgstr "நேர்மாறல்"
+
+msgid "ion"
+msgstr "மின்னணு"
+
+msgid "ion current"
+msgstr "மின்னணுவோட்டம்"
+
+msgid "ion sheath"
+msgstr "மின்னணுவுறை"
+
+msgid "ionic conductivity"
+msgstr "மின்னணுக் கடத்தம்"
+
+msgid "ionization"
+msgstr "மின்னணுவாக்கம்"
+
+msgid "kinetic energy"
+msgstr "இயக்காற்றல்"
+
+msgid "leakage current"
+msgstr "கசிவு மின்னோட்டம்"
+
+msgid "lepton"
+msgstr "மெதுனி"
+
+msgid "magnetization"
+msgstr "காந்தமை, காந்தத்தன்மை"
+
+msgid "malleability"
+msgstr "தகடுமை, தகடாகும் தன்மை"
+
+msgid "metadyne"
+msgstr "மாற்றியங்கி"
+
+msgid "negative ion"
+msgstr "எதிர் மின்னணு"
+
+msgid "no load characteristics"
+msgstr "சுமையில் சிறப்பியல்புகள்"
+
+msgid "overcurrent"
+msgstr "மிகுமின்னோட்டம்"
+
+msgid "overcurrent protection"
+msgstr "மிகுமின்னோட்டக் காபந்து"
+
+msgid "overload"
+msgstr "மிகுசுமை"
+
+msgid "peak current"
+msgstr "உச்ச மின்னோட்டம்"
+
+msgid "peak load"
+msgstr "உச்சச் சுமை"
+
+msgid "potentiometer"
+msgstr "மின்னழுத்தவளவி"
+
+msgid "power distribution system"
+msgstr "மின்பங்கீட்டமைப்பு"
+
+msgid "power down"
+msgstr "திறனகற்றம்/மின்னகற்றம், திறனகற்று/மின்னகற்று"
+
+msgid "power electronics"
+msgstr "திறன்மின்னணுவியல்"
+
+msgid "power engineering"
+msgstr "மின்திறனியல்"
+
+msgid "power factor"
+msgstr "திறன் காரணி "
+
+msgid "power factor correction"
+msgstr "திறன் காரணி திருத்தம்"
+
+msgid "power good"
+msgstr "நற்திறன்"
+
+msgid "power ok"
+msgstr "சரிதிறன்"
+
+msgid "power rail"
+msgstr "மின் கிராதி"
+
+msgid "power supply"
+msgstr "மின் வழங்கி"
+
+msgid "power up"
+msgstr "திறன்தொடக்கம்/மின்தொடக்கம், திறன்தொடங்கு/மின்தொடங்கு"
+
+msgid "powered"
+msgstr "திறனளிப்பு/மின்னளிப்பு நிலை"
+
+msgid "quiescent current"
+msgstr "அமைதிய மின்னோட்டம்"
+
+msgid "ramp down"
+msgstr "சரிவிறக்கம்"
+
+msgid "ramp up"
+msgstr "சரிவேற்றம்"
+
+msgid "rating"
+msgstr "செயல்வரம்பு"
+
+msgid "resonant"
+msgstr "ஒத்திசை"
+
+msgid "resonant cap in parallel to semiconductor switch"
+msgstr ""
+"ஒத்திசை மின்தேக்கி ஒரு குறைக்கடத்தி ஆளியுடன் இணையிணைப்பில் அமைக்கப்படுகிறது"
+
+msgid "reverse bias"
+msgstr "பின்னோக்குச் சாரிகை"
+
+msgid "reverse recovery time"
+msgstr "பின்னோக்கு மின்மீட்டு நேரம்"
+
+msgid "rheostat"
+msgstr "தடைமாற்றி"
+
+msgid "rotatory compressor"
+msgstr "சுழல் அழுத்தி"
+
+msgid "rotory transformer"
+msgstr "சுழல் மின்மாற்றி"
+
+msgid "saturation"
+msgstr "தெவிட்டல்"
+
+msgid "saw-tooth (waveform)"
+msgstr "ரம்பப்பல் (அலைவடிவம்)"
+
+msgid "semiconductor"
+msgstr "குறைக்கடத்தி"
+
+msgid "silicon controlled rectifier"
+msgstr "மண்ணியத்திருத்தி"
+
+msgid "soft-start"
+msgstr "மென்துவக்கம்"
+
+msgid "steady state"
+msgstr "நிலைநிலை"
+
+msgid "step-down (voltage) converter"
+msgstr "படியிறக்கு (மின்னழுத்த) மாற்றி"
+
+msgid "step-down transformer"
+msgstr "படியிறக்கு மின்மாற்றி"
+
+msgid "step-up (voltage) converter"
+msgstr "படியேற்று (மின்னழுத்த) மாற்றி"
+
+msgid "step-up transformer"
+msgstr "படியேற்று மின்மாற்றி"
+
+msgid "supply voltage"
+msgstr "வழங்கல் மின்னழுத்தம்"
+
+msgid "surge"
+msgstr "எழுச்சி"
+
+msgid "surge protection"
+msgstr "எழுச்சிக் காபந்து"
+
+msgid "surge protector"
+msgstr "எழுச்சிக்காப்பி"
+
+msgid "switch"
+msgstr "ஆளி, நிலைமாறி"
+
+msgid "switch mode power supply"
+msgstr "நிலைமாறு மின்வழங்கி"
+
+msgid "switching regulator"
+msgstr "நிலைமாறு சீர்ப்பி"
+
+msgid "synchronous machine"
+msgstr "ஒத்தியங்கு இயந்திரம்"
+
+msgid "synchronous motor"
+msgstr "ஒத்தியங்கு மின்னோடி"
+
+msgid "tachometer"
+msgstr "சுற்றுமானி"
+
+msgid "tantallum capacitor"
+msgstr "இஞ்சாய மின்தேக்கி"
+
+msgid "thermal shutdown"
+msgstr "வெம்மை அணையல்"
+
+msgid "thermostat"
+msgstr "வெப்பநிலைப்பி"
+
+msgid "threshold (voltage/current)"
+msgstr "கருவுணர் (மின்னழுத்தம்/மின்னோட்டம்)"
+
+msgid "thyristor"
+msgstr "வாயில்தடையம்"
+
+msgid "thyristors"
+msgstr "வாயில்தடையங்கள்"
+
+msgid "transient response"
+msgstr "திரிநிலை மறுமொழி"
+
+msgid "transient(s)"
+msgstr "திரிவு(கள்)"
+
+msgid "triac (triode for ac)"
+msgstr "மாறுமும்முனையம், மாறுமின் மும்முனையம்"
+
+msgid "trigger circuit"
+msgstr "குதிரைச் சுற்று"
+
+msgid "trigger, triggering"
+msgstr "குதிரை, குதிரையிடல்"
+
+msgid "turns ratio"
+msgstr "சுற்றுகள் விகிதம்"
+
+msgid "undervoltage lockout"
+msgstr "குறைமின்னழுத்தப் பூட்டணையல்"
+
+msgid "valence band"
+msgstr "இணைதிறன் பட்டை"
+
+msgid "velocity"
+msgstr "திசை வேகம்"
+
+msgid "x-ray"
+msgstr "ஊடுக்கதிர்"
+
+msgid "zero current switching"
+msgstr "சுழிமின்னோட்ட நிலைமாறல்"
+
+msgid "zero voltage switching"
+msgstr "சுழிமின்னழுத்த நிலைமாறல்"

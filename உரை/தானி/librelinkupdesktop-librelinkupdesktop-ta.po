@@ -1,0 +1,344 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (LibreLinkUpDesktop)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-27 18:33+0200\n"
+"PO-Revision-Date: 2025-06-27 22:09\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/librelinkupdesktop/librelinkupdesktop/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+msgctxt "Welcome"
+msgid ""
+"This is a desktop application that fetches your blood sugar from LibreLinkUp"
+msgstr ""
+"இது டெச்க்டாப் பயன்பாடாகும், இது உங்கள் இரத்த சர்க்கரையை "
+"லிப்ரெலிங்கப்பிலிருந்து பெறுகிறது"
+
+msgctxt "Settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgctxt "General"
+msgid "General"
+msgstr "பொது"
+
+msgctxt "Account"
+msgid "Account"
+msgstr "கணக்கு"
+
+msgctxt "First Name"
+msgid "First Name"
+msgstr "முதல் பெயர்"
+
+msgctxt "Last Name"
+msgid "Last Name"
+msgstr "கடைசி பெயர்"
+
+msgctxt "System"
+msgid "System"
+msgstr "மண்டலம்"
+
+msgctxt "Dark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+msgctxt "Light"
+msgid "Light"
+msgstr "ஒளி"
+
+msgctxt "German"
+msgid "German"
+msgstr "செர்மன்"
+
+msgctxt "English"
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+msgctxt "Sinhala"
+msgid "Sinhala"
+msgstr "சிங்களம்"
+
+msgctxt "Norwegian"
+msgid "Norwegian"
+msgstr "நோர்வே"
+
+msgctxt "Spanish"
+msgid "Spanish"
+msgstr "ச்பானிச்"
+
+msgctxt "Czech"
+msgid "Czech"
+msgstr "செக்"
+
+msgctxt "Russian"
+msgid "Russian"
+msgstr "ரச்ய"
+
+msgctxt "Bosnian"
+msgid "Bosnian"
+msgstr "போச்னிய"
+
+msgctxt "Greek"
+msgid "Greek"
+msgstr "கிரேக்கம்"
+
+msgctxt "French"
+msgid "French"
+msgstr "பிரஞ்சு"
+
+msgctxt "Italian"
+msgid "Italian"
+msgstr "இத்தாலிய"
+
+msgctxt "Tamil"
+msgid "Tamil"
+msgstr "தமிழ்"
+
+msgctxt "Swedish"
+msgid "Swedish"
+msgstr "ச்வீடிச்"
+
+msgctxt "Japanese"
+msgid "Japanese"
+msgstr "சப்பானியர்கள்"
+
+msgctxt "Hindi"
+msgid "Hindi"
+msgstr "இந்தி"
+
+msgctxt "Portuguese"
+msgid "Portuguese"
+msgstr "போர்த்துகீசியம்"
+
+msgctxt "Chinese"
+msgid "Chinese"
+msgstr "சீன"
+
+msgctxt "Bengali"
+msgid "Bengali"
+msgstr "பெங்காலி"
+
+msgctxt "Global"
+msgid "Global"
+msgstr "உலகளாவிய"
+
+msgctxt "Germany"
+msgid "Germany"
+msgstr "செர்மனி"
+
+msgctxt "European Union"
+msgid "European Union"
+msgstr "ஐரோப்பிய ஒன்றியம்"
+
+msgctxt "European Union 2"
+msgid "European Union 2"
+msgstr "ஐரோப்பிய ஒன்றியம் 2"
+
+msgctxt "United States"
+msgid "United States"
+msgstr "ஐக்கிய அமெரிக்கா"
+
+msgctxt "Asia/Pacific"
+msgid "Asia/Pacific"
+msgstr "ஆசியா/பசிபிக்"
+
+msgctxt "Canada"
+msgid "Canada"
+msgstr "கனடா"
+
+msgctxt "Japan"
+msgid "Japan"
+msgstr "சப்பான்"
+
+msgctxt "United Arab Emirates"
+msgid "United Arab Emirates"
+msgstr "ஐக்கிய அராபிய எமிரேட்சு"
+
+msgctxt "France"
+msgid "France"
+msgstr "ஃப்ரான்ச்"
+
+msgctxt "Australia"
+msgid "Australia"
+msgstr "ஆச்திரேலியா"
+
+msgctxt "getCredentialsTitle"
+msgid "How to get credentials"
+msgstr "நற்சான்றிதழ்களை எவ்வாறு பெறுவது"
+
+msgctxt "getCredentialsStep1"
+msgid ""
+"As sharing person, open your <1>Libre smartphone app</1>, go to <3>Connected"
+" Apps</3>, click on <5>Manage</5> next to LibreLinkUp, click on <7>Add "
+"connection</7> and input the details for the account you wish to use with "
+"LibreLinkUpDesktop."
+msgstr ""
+"நபரைப் பகிரும் நபராக, உங்கள் <1> லிப்ரே ச்மார்ட்போன் பயன்பாடு </1> ஐத் "
+"திறக்கவும், <3> இணைக்கப்பட்ட பயன்பாடுகளுக்குச் செல்லவும் </3>, <5> நிர்வகி "
+"</5> ஐக் சொடுக்கு செய்க, லிப்ரெலிங்கப்பிற்கு அடுத்து, <7> இணைப்பைச் சேர் "
+"என்பதைக் சொடுக்கு செய்க </7> மற்றும் நீங்கள் பயன்படுத்த விரும்பும் "
+"கணக்கிற்கான விவரங்களை லிப்ரெலிங்கப் டெச்க்டாப் மூலம் உள்ளிடவும்."
+
+msgctxt "getCredentialsStep1Link"
+msgid ""
+"https://play.google.com/store/apps/details?id=com.freestylelibre3.app.de"
+msgstr ""
+"https://play.google.com/store/apps/details?id=com.freestylelibre3.app.de"
+
+msgctxt "getCredentialsStep2"
+msgid ""
+"Save those credentials inside your password manager. You may use them for "
+"yourself or you may share them with someone."
+msgstr ""
+"உங்கள் கடவுச்சொல் நிர்வாகிக்குள் அந்த நற்சான்றிதழ்களைச் சேமிக்கவும். அவற்றை "
+"நீங்களே பயன்படுத்தலாம் அல்லது அவற்றை ஒருவருடன் பகிர்ந்து கொள்ளலாம்."
+
+msgctxt "getCredentialsStep3"
+msgid "Enter those credentials on this login page."
+msgstr "இந்த உள்நுழைவு பக்கத்தில் அந்த சான்றுகளை உள்ளிடவும்."
+
+msgctxt "getCredentialsStep4"
+msgid "That's it. 😄"
+msgstr "அவ்வளவுதான். 😄"
+
+msgctxt "Username"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+msgctxt "Password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+msgctxt "Login"
+msgid "Log in"
+msgstr "புகுபதிகை"
+
+msgctxt "Country"
+msgid "Country"
+msgstr "நாடு"
+
+msgctxt "Language"
+msgid "Language"
+msgstr "மொழி"
+
+msgctxt "SelectCountry"
+msgid "Select Country"
+msgstr "நாட்டைத் தேர்ந்தெடுக்கவும்"
+
+msgctxt "SelectLanguage"
+msgid "Select Language"
+msgstr "மொழியைத் தேர்ந்தெடுக்கவும்"
+
+msgctxt "Theme"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+msgctxt "Unit"
+msgid "Unit"
+msgstr "அலகு"
+
+msgctxt "SelectTheme"
+msgid "Select Theme"
+msgstr "கருப்பொருள் தேர்ந்தெடுக்கவும்"
+
+msgctxt "SelectUnit"
+msgid "Select Unit"
+msgstr "அலகு தேர்ந்தெடுக்கவும்"
+
+msgctxt "SelectMode"
+msgid "Select Mode"
+msgstr "பயன்முறையைத் தேர்ந்தெடுக்கவும்"
+
+msgctxt "WindowMode"
+msgid "Window Mode"
+msgstr "சாளரம் பயன்முறை"
+
+msgctxt "Overlay"
+msgid "Overlay"
+msgstr "மேலடுக்கு"
+
+msgctxt "Overlay (Transparent)"
+msgid "Overlay (Transparent)"
+msgstr "மேலடுக்கில் (வெளிப்படையானது)"
+
+msgctxt "Windowed"
+msgid "Windowed"
+msgstr "சாளரம்"
+
+msgctxt "mmol/L"
+msgid "mmol/L"
+msgstr "mmol / l"
+
+msgctxt "mg/dL"
+msgid "mg/dL"
+msgstr "எம்.சி/டி.எல்"
+
+msgctxt "Alert"
+msgid "Alert"
+msgstr "விழிப்புணர்வு"
+
+msgctxt "ALERT_DESCRIPTION"
+msgid ""
+"LibreLinkUpDesktop can alert you when your blood sugar level is outside of a"
+" normal range. Choose how you'll be alerted and adjust the normal range "
+"below."
+msgstr ""
+"உங்கள் இரத்த சர்க்கரை அளவு சாதாரண வரம்பிற்கு வெளியே இருக்கும்போது "
+"லிப்ரெலிங்கப் டெச்க்டாப் உங்களை எச்சரிக்கலாம். நீங்கள் எவ்வாறு "
+"மாற்றப்படுவீர்கள் என்பதைத் தேர்ந்தெடுத்து, கீழே உள்ள சாதாரண வரம்பை "
+"சரிசெய்யவும்."
+
+msgctxt "Bring Window to Front"
+msgid "Bring Window to Front"
+msgstr "சாளரத்தை முன் கொண்டு வாருங்கள்"
+
+msgctxt "Flash Window"
+msgid "Flash Window"
+msgstr "ஒளிரும் சாளரம்"
+
+msgctxt "Play Sound"
+msgid "Play Sound"
+msgstr "ஒலி விளையாடுங்கள்"
+
+msgctxt "Use Custom Sound"
+msgid "Use Custom Sound"
+msgstr "தனிப்பயன் ஒலியைப் பயன்படுத்தவும்"
+
+msgctxt "Upload Sound"
+msgid "Upload Sound"
+msgstr "ஒலியைப் பதிவேற்றவும்"
+
+msgctxt "Custom Alert Sound"
+msgid "Custom Alert Sound"
+msgstr "தனிப்பயன் முன்னறிவிப்பு ஒலி"
+
+msgctxt "Custom Alert Level"
+msgid "Custom Alert Level"
+msgstr "தனிப்பயன் முன்னறிவிப்பு நிலை"
+
+msgctxt "Min Value"
+msgid "Min Value"
+msgstr "குறைந்தபட்ச மதிப்பு"
+
+msgctxt "Max Value"
+msgid "Max Value"
+msgstr "அதிகபட்ச மதிப்பு"
+
+msgctxt "Enter Value"
+msgid "Enter Value"
+msgstr "மதிப்பை உள்ளிடவும்"
+
+msgctxt "Apply Changes"
+msgid "Apply Changes"
+msgstr "மாற்றங்களைப் பயன்படுத்துங்கள்"
+
+msgctxt "Show glucose values in tray"
+msgid "Show glucose values in tray"
+msgstr "தட்டில் குளுக்கோச் மதிப்புகளைக் காட்டு"

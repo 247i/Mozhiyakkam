@@ -1,0 +1,4521 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Thunderbird for Android / K-9 Mail)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-03 00:48+0200\n"
+"PO-Revision-Date: 2025-07-09 04:41\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/tb-android/app-strings/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#.  === App-specific strings
+#. =============================================================
+#.  Used in the about dialog
+#, java-printf-format
+msgctxt "about_app_authors_k9"
+msgid "The K-9 Dog Walkers"
+msgstr "கே -9 நாய் நடப்பவர்கள்"
+
+#, java-printf-format
+msgctxt "about_app_authors_thunderbird"
+msgid "Thunderbird Mobile Team"
+msgstr "தண்டர்பேர்ட் மொபைல் குழு"
+
+#, java-printf-format
+msgctxt "open_camera"
+msgid "Open Camera"
+msgstr "திறந்த கேமரா"
+
+#, java-printf-format
+msgctxt "attach_file"
+msgid "Attach File"
+msgstr "கோப்பை இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "camera_permission_denied"
+msgid "Camera Permission Denied! Unable to take photo"
+msgstr "கேமரா இசைவு மறுக்கப்பட்டது! புகைப்படம் எடுக்க முடியவில்லை"
+
+#, java-printf-format
+msgctxt "source_code"
+msgid "Source code"
+msgstr "மூலக் குறியீடு"
+
+#, ignore-same, java-printf-format
+msgctxt "app_license"
+msgid "Apache License, Version 2.0"
+msgstr "அப்பாச்சி உரிமம், பதிப்பு 2.0"
+
+#, java-printf-format
+msgctxt "about_project_title"
+msgid "Open Source Project"
+msgstr "திறந்த மூல திட்டம்"
+
+#, java-printf-format
+msgctxt "about_website_title"
+msgid "Website"
+msgstr "வலைத்தளம்"
+
+#, java-printf-format
+msgctxt "get_help_title"
+msgid "Get help"
+msgstr "உதவி பெறு"
+
+#, java-printf-format
+msgctxt "user_forum_title"
+msgid "User forum"
+msgstr "பயனர் மன்றம்"
+
+#, java-printf-format
+msgctxt "about_libraries"
+msgid "Libraries"
+msgstr "நூலகங்கள்"
+
+#, java-printf-format
+msgctxt "license"
+msgid "License"
+msgstr "உரிமம்"
+
+#, java-printf-format
+msgctxt "changelog_title"
+msgid "Changelog"
+msgstr "மாற்றபதிவு"
+
+#, java-printf-format
+msgctxt "changelog_loading_error"
+msgid "Couldn't load the changelog."
+msgstr "சேஞ்ச்லாக் ஏற்ற முடியவில்லை."
+
+#, java-printf-format
+msgctxt "changelog_version_title"
+msgid "Version %s"
+msgstr "பதிப்பு %s"
+
+#, java-printf-format
+msgctxt "changelog_recent_changes_title"
+msgid "What's new"
+msgstr "புதியது என்ன"
+
+#, java-printf-format
+msgctxt "changelog_show_recent_changes"
+msgid "Show recent changes when app was updated"
+msgstr "பயன்பாடு புதுப்பிக்கப்பட்டபோது அண்மைக் கால மாற்றங்களைக் காட்டுங்கள்"
+
+#.  Displayed in a "snack bar" at the bottom of the screen when the app was
+#. updated.
+#, java-printf-format
+msgctxt "changelog_snackbar_text"
+msgid "Find out what's new in this release"
+msgstr "இந்த வெளியீட்டில் புதியது என்ன என்பதைக் கண்டறியவும்"
+
+#.  Button text of the "snack bar" that is displayed when the app was updated.
+#, java-printf-format
+msgctxt "changelog_snackbar_button_text"
+msgid "View"
+msgstr "பார்வை"
+
+#.  General strings that include the app name
+#, java-printf-format
+msgctxt "account_delete_dlg_instructions_fmt"
+msgid ""
+"The account \"<xliff:g id=\"account\">%1$s</xliff:g>\" will be removed from "
+"<xliff:g id=\"app_name\">%2$s</xliff:g>."
+msgstr ""
+"\"<Xliff: g ஐடி =\" கணக்கு \">%1$s </xliff: g>\" கணக்கு <xliff: g ஐடி = "
+"\"app_name\">%2$s </xliff: g> இலிருந்து அகற்றப்படும்."
+
+#.  === General strings
+#. ==================================================================
+#, java-printf-format
+msgctxt "authors"
+msgid "Authors"
+msgstr "ஆசிரியர்கள்"
+
+#, java-printf-format
+msgctxt "about_title"
+msgid "About <xliff:g id=\"app_name\">%s</xliff:g>"
+msgstr "<Xliff: g ஐடி = \"app_name\">%s </xliff: g>"
+
+#. === App-specific strings
+#. =============================================================
+#. This should make it easier for forks to change the branding
+#. Used in AndroidManifest.xml
+#. Used in the about dialog
+#. Displayed in a "snack bar" at the bottom of the screen when the app was
+#. updated.
+#. Button text of the "snack bar" that is displayed when the app was updated.
+#. Default signature
+#. General strings that include the app name
+#. === General strings
+#. ==================================================================
+#, java-printf-format
+msgctxt "accounts_title"
+msgid "Accounts"
+msgstr "கணக்குகள்"
+
+#, java-printf-format
+msgctxt "compose_title_compose"
+msgid "Compose"
+msgstr "எழுது"
+
+#, java-printf-format
+msgctxt "compose_title_reply"
+msgid "Reply"
+msgstr "பதில்"
+
+#, java-printf-format
+msgctxt "compose_title_reply_all"
+msgid "Reply all"
+msgstr "அனைவருக்கும் பதில்"
+
+#, java-printf-format
+msgctxt "compose_title_forward"
+msgid "Forward"
+msgstr "பிறர்க்கு"
+
+#, java-printf-format
+msgctxt "compose_title_forward_as_attachment"
+msgid "Forward as attachment"
+msgstr "இணைப்பாக முன்னோக்கி"
+
+#, java-printf-format
+msgctxt "choose_folder_title"
+msgid "Choose Folder"
+msgstr "கோப்புறை தேர்ந்தெடு"
+
+#, java-printf-format
+msgctxt "choose_folder_move_title"
+msgid "Move to…"
+msgstr "செல்லுங்கள்…"
+
+#, java-printf-format
+msgctxt "choose_folder_copy_title"
+msgid "Copy to…"
+msgstr "நகலெடு…"
+
+#, java-printf-format
+msgctxt "actionbar_selected"
+msgid "<xliff:g id=\"selection_count\">%d</xliff:g> selected"
+msgstr "<xliff:g id=\"selection_count\">%d</xliff:g> தேர்வாகியுள்ளது"
+
+#, java-printf-format
+msgctxt "send_action"
+msgid "Send"
+msgstr "அனுப்பு"
+
+#, java-printf-format
+msgctxt "empty_subject"
+msgid "Subject is empty, click again to send anyway"
+msgstr "பொருள் காலியாக உள்ளது, எப்படியும் அனுப்ப மீண்டும் சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "reply_action"
+msgid "Reply"
+msgstr "பதில்"
+
+#, java-printf-format
+msgctxt "reply_all_action"
+msgid "Reply all"
+msgstr "அனைவருக்கும் பதில்"
+
+#, java-printf-format
+msgctxt "delete_action"
+msgid "Delete"
+msgstr "அழி"
+
+#, java-printf-format
+msgctxt "archive_action"
+msgid "Archive"
+msgstr "காப்பகம் செலுத்து"
+
+#, java-printf-format
+msgctxt "spam_action"
+msgid "Spam"
+msgstr "பயனற்ற"
+
+#, java-printf-format
+msgctxt "forward_action"
+msgid "Forward"
+msgstr "முன் அனுப்பு"
+
+#, java-printf-format
+msgctxt "forward_as_attachment_action"
+msgid "Forward as attachment"
+msgstr "இணைப்பாக முன்னோக்கி"
+
+#, java-printf-format
+msgctxt "edit_as_new_message_action"
+msgid "Edit as new message"
+msgstr "புதிய செய்தியாகத் திருத்தவும்"
+
+#, java-printf-format
+msgctxt "move_action"
+msgid "Move"
+msgstr "நகர்த்து"
+
+#, java-printf-format
+msgctxt "move_to_drafts_action"
+msgid "Move to Drafts"
+msgstr "வரைவுகளுக்கு நகர்த்தவும்"
+
+#, java-printf-format
+msgctxt "refile_action"
+msgid "Refile…"
+msgstr "மீண்டும் நிரப்பு…"
+
+#, java-printf-format
+msgctxt "done_action"
+msgid "Done"
+msgstr "முடி"
+
+#, java-printf-format
+msgctxt "discard_action"
+msgid "Discard"
+msgstr "வேண்டாம்"
+
+#, java-printf-format
+msgctxt "save_draft_action"
+msgid "Save as draft"
+msgstr "வரைவாக சேமி"
+
+#, java-printf-format
+msgctxt "check_mail_action"
+msgid "Check mail"
+msgstr "புதியவை தேடு"
+
+#, java-printf-format
+msgctxt "send_messages_action"
+msgid "Send messages"
+msgstr "அஞ்சல்கள் அனுப்பு"
+
+#, java-printf-format
+msgctxt "refresh_folders_action"
+msgid "Refresh folder list"
+msgstr "கோப்புறை புதுப்பி"
+
+#, java-printf-format
+msgctxt "filter_folders_action"
+msgid "Find folder"
+msgstr "கோப்புறை தேடு"
+
+#, java-printf-format
+msgctxt "add_account_action"
+msgid "Add account"
+msgstr "புது கணக்கு"
+
+#, java-printf-format
+msgctxt "compose_action"
+msgid "Compose"
+msgstr "எழுது"
+
+#, java-printf-format
+msgctxt "search_action"
+msgid "Search"
+msgstr "தேடு"
+
+#, java-printf-format
+msgctxt "search_everywhere_action"
+msgid "Search everywhere"
+msgstr "எல்லா இடங்களிலும் தேடுங்கள்"
+
+#, java-printf-format
+msgctxt "search_results"
+msgid "Search results"
+msgstr "தேடல் முடிவுகள்"
+
+#, java-printf-format
+msgctxt "new_messages_title"
+msgid "New messages"
+msgstr "புதிய செய்திகள்"
+
+#, java-printf-format
+msgctxt "folders_action"
+msgid "Manage folders"
+msgstr "கோப்புறைகளை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_action"
+msgid "Account settings"
+msgstr "கணக்கு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "remove_account_action"
+msgid "Remove account"
+msgstr "கணக்கு நீக்கு"
+
+#, java-printf-format
+msgctxt "mark_as_read_action"
+msgid "Mark as read"
+msgstr "படித்ததாக குறி"
+
+#, java-printf-format
+msgctxt "send_alternate_action"
+msgid "Share"
+msgstr "பகிர்"
+
+#, java-printf-format
+msgctxt "send_alternate_chooser_title"
+msgid "Choose sender"
+msgstr "பெறுநர் தேர்தெடு"
+
+#, java-printf-format
+msgctxt "flag_action"
+msgid "Add star"
+msgstr "நட்சத்திரம் சேர்"
+
+#, java-printf-format
+msgctxt "unflag_action"
+msgid "Remove star"
+msgstr "நட்சத்திரம் கழி"
+
+#, java-printf-format
+msgctxt "copy_action"
+msgid "Copy"
+msgstr "நகல்"
+
+#, java-printf-format
+msgctxt "unsubscribe_action"
+msgid "Unsubscribe"
+msgstr "குழுவிலகவும்"
+
+#, java-printf-format
+msgctxt "show_headers_action"
+msgid "Show headers"
+msgstr "தலைப்புகள் காட்டு"
+
+#, java-printf-format
+msgctxt "copy_address_to_clipboard"
+msgid "Address copied to clipboard"
+msgid_plural "Addresses copied to clipboard"
+msgstr[0] "முகவரி இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது"
+msgstr[1] "இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்ட முகவரிகள்"
+
+#, java-printf-format
+msgctxt "copy_subject_to_clipboard"
+msgid "Subject text copied to clipboard"
+msgstr "பொருள் உரை இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "message_view_theme_action_dark"
+msgid "Switch to dark theme"
+msgstr "இருண்ட வர்ண வார்ப்புரு"
+
+#, java-printf-format
+msgctxt "message_view_theme_action_light"
+msgid "Switch to light theme"
+msgstr "வெளிர் வர்ண வார்ப்புரு"
+
+#, java-printf-format
+msgctxt "mark_as_unread_action"
+msgid "Mark unread"
+msgstr "படித்ததாக குறி"
+
+#, java-printf-format
+msgctxt "read_receipt"
+msgid "Read receipt"
+msgstr "படித்த இரசீது"
+
+#, java-printf-format
+msgctxt "read_receipt_enabled"
+msgid "Will request read receipt"
+msgstr "படித்த இரசீது கேள்"
+
+#, java-printf-format
+msgctxt "read_receipt_disabled"
+msgid "Will not request read receipt"
+msgstr "படித்த இரசீது கேட்க வேண்டாம்"
+
+#, java-printf-format
+msgctxt "add_attachment_action"
+msgid "Add attachment"
+msgstr "இணைப்புகள் சேர்"
+
+#, java-printf-format
+msgctxt "empty_spam_action"
+msgid "Empty Spam"
+msgstr "வெற்று ச்பேம்"
+
+#, java-printf-format
+msgctxt "empty_trash_action"
+msgid "Empty Trash"
+msgstr "குப்பை கழி"
+
+#, java-printf-format
+msgctxt "expunge_action"
+msgid "Expunge"
+msgstr "அகற்று"
+
+#, java-printf-format
+msgctxt "about_action"
+msgid "About"
+msgstr "மேலும்"
+
+#, java-printf-format
+msgctxt "prefs_title"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#.  Shown in place of the subject when a message has no subject. Showing this
+#. in parentheses is customary.
+#. Shown in place of the subject when a message has no subject. Showing this
+#. in parentheses is customary.
+#, java-printf-format
+msgctxt "general_no_subject"
+msgid "(No subject)"
+msgstr "(தலைப்பு இல்லை)"
+
+#, java-printf-format
+msgctxt "general_no_sender"
+msgid "No sender"
+msgstr "அனுப்புநர் இல்லை"
+
+#, java-printf-format
+msgctxt "status_loading_more"
+msgid "Loading messages…"
+msgstr "அஞ்சல் ஏற்றப்படுகிறது …"
+
+#, java-printf-format
+msgctxt "status_network_error"
+msgid "Connection error"
+msgstr "இணைப்பு பிழை"
+
+#, java-printf-format
+msgctxt "status_invalid_id_error"
+msgid "Message not found"
+msgstr "அஞ்சல் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "status_loading_error"
+msgid "Message loading error"
+msgstr "செய்தி ஏற்றுதல் பிழை"
+
+#, java-printf-format
+msgctxt "load_more_messages_fmt"
+msgid "Load up to <xliff:g id=\"messages_to_load\">%d</xliff:g> more"
+msgstr "<Xliff வரை ஏற்றவும்: g ஐடி = \"messages_to_load\">%d </xliff: g> மேலும்"
+
+#, java-printf-format
+msgctxt "size_format_gigabytes"
+msgid "%.1f GB"
+msgstr "%.1f சீபி"
+
+#, java-printf-format
+msgctxt "size_format_megabytes"
+msgid "%.1f MB"
+msgstr "%.1f Mb"
+
+#, java-printf-format
+msgctxt "size_format_kilobytes"
+msgid "%.1f kB"
+msgstr "%.1f KB"
+
+#, java-printf-format
+msgctxt "size_format_bytes"
+msgid "%d B"
+msgstr "%d b"
+
+#, java-printf-format
+msgctxt "notification_new_messages_title"
+msgid "<xliff:g id=\"new_message_count\">%d</xliff:g> new message"
+msgid_plural "<xliff:g id=\"new_message_count\">%d</xliff:g> new messages"
+msgstr[0] "<xliff: g ஐடி = \"new_message_count\">%d </xliff: g> புதிய செய்தி"
+msgstr[1] "<xliff: g ஐடி = \"new_message_count\">%d </xliff: g> புதிய செய்திகள்"
+
+#, java-printf-format
+msgctxt "notification_additional_messages"
+msgid ""
+"+ <xliff:g id=\"additional_messages\">%1$d</xliff:g> more on <xliff:g "
+"id=\"account\">%2$s</xliff:g>"
+msgstr ""
+"+ <xliff: g ஐடி = \"கூடுதல்_மெச்பேச்கள்\">%1$d </xliff: g> <xliff: g ஐடி = "
+"\"கணக்கு\">%2$s </xliff: g> இல் மேலும்"
+
+#, java-printf-format
+msgctxt "notification_action_reply"
+msgid "Reply"
+msgstr "பதில்"
+
+#, java-printf-format
+msgctxt "notification_action_mark_as_read"
+msgid "Mark Read"
+msgstr "படித்ததாக குறி"
+
+#, java-printf-format
+msgctxt "notification_action_mark_all_as_read"
+msgid "Mark All Read"
+msgstr "எல்லா வாசிப்பையும் குறிக்கவும்"
+
+#, java-printf-format
+msgctxt "notification_action_delete"
+msgid "Delete"
+msgstr "அழி"
+
+#, java-printf-format
+msgctxt "notification_action_delete_all"
+msgid "Delete All"
+msgstr "அனைத்தையும் நீக்கு"
+
+#, java-printf-format
+msgctxt "notification_action_archive"
+msgid "Archive"
+msgstr "காப்பகம்"
+
+#, java-printf-format
+msgctxt "notification_action_archive_all"
+msgid "Archive All"
+msgstr "அனைத்தையும் காப்பகப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "notification_action_spam"
+msgid "Spam"
+msgstr "பயனற்றது"
+
+#, java-printf-format
+msgctxt "notification_certificate_error_public"
+msgid "Certificate error"
+msgstr "சான்றிதழ் பிழை"
+
+#, java-printf-format
+msgctxt "notification_certificate_error_title"
+msgid "Certificate error for <xliff:g id=\"account\">%s</xliff:g>"
+msgstr "<xliff:g id=\"account\">%s</xliff:g> சான்றிதழ் பிழை"
+
+#, java-printf-format
+msgctxt "notification_certificate_error_text"
+msgid "Check your server settings"
+msgstr "வழங்கியை சோதி"
+
+#, java-printf-format
+msgctxt "notification_authentication_error_title"
+msgid "Authentication failed"
+msgstr "ஏற்பு தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "notification_authentication_error_text"
+msgid ""
+"Authentication failed for <xliff:g id=\"account\">%s</xliff:g>. Update your "
+"server settings."
+msgstr ""
+"<Xliff: g ஐடி = \"கணக்கு\">%s </xliff: g> க்கு ஏற்பு தோல்வியடைந்தது. உங்கள் "
+"சேவையக அமைப்புகளைப் புதுப்பிக்கவும்."
+
+#.  Title of an error notification that is displayed when creating a
+#. notification for a new message has failed
+#, java-printf-format
+msgctxt "notification_notify_error_title"
+msgid "Notification error"
+msgstr "அறிவிப்பு பிழை"
+
+#.  Body of an error notification that is displayed when creating a
+#. notification for a new message has failed
+#, java-printf-format
+msgctxt "notification_notify_error_text"
+msgid ""
+"An error has occurred while trying to create a system notification for a new message. The reason is most likely a missing notification sound.\n"
+"\n"
+"Tap to open notification settings."
+msgstr ""
+"புதிய செய்திக்கு கணினி அறிவிப்பை உருவாக்க முயற்சிக்கும்போது பிழை ஏற்பட்டது. காரணம் பெரும்பாலும் காணாமல் போன அறிவிப்பு ஒலி.\n"
+"\n"
+" அறிவிப்பு அமைப்புகளைத் திறக்க தட்டவும்."
+
+#. Title of an error notification that is displayed when creating a
+#. notification for a new message has failed
+#. Body of an error notification that is displayed when creating a
+#. notification for a new message has failed
+#, java-printf-format
+msgctxt "notification_bg_sync_ticker"
+msgid ""
+"Checking mail: <xliff:g id=\"account\">%1$s</xliff:g>:<xliff:g "
+"id=\"folder\">%2$s</xliff:g>"
+msgstr ""
+"<xliff:g id=\"account\">%1$s</xliff:g>:<xliff:g id=\"folder\">%2$s</xliff:g>"
+" கணக்கு பார்க்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "notification_bg_sync_title"
+msgid "Checking mail"
+msgstr "கணக்கு பார்க்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "notification_bg_send_ticker"
+msgid "Sending mail: <xliff:g id=\"account\">%s</xliff:g>"
+msgstr "அஞ்சல் அனுப்புதல்: <xliff:g id=\"account\">%s</xliff:g>"
+
+#, java-printf-format
+msgctxt "notification_bg_send_title"
+msgid "Sending mail"
+msgstr "அஞ்சல் அனுப்புதல்"
+
+#, java-printf-format
+msgctxt "notification_bg_title_separator"
+msgid ":"
+msgstr ":"
+
+#, java-printf-format
+msgctxt "notification_channel_push_title"
+msgid "Synchronize (Push)"
+msgstr "ஒத்திசைக்கவும் (புச்)"
+
+#, java-printf-format
+msgctxt "notification_channel_push_description"
+msgid "Displayed while waiting for new messages"
+msgstr "புதிய செய்திகளுக்காக காத்திருக்கும்போது காட்டப்படும்"
+
+#, java-printf-format
+msgctxt "notification_channel_messages_title"
+msgid "Messages"
+msgstr "செய்திகள்"
+
+#, java-printf-format
+msgctxt "notification_channel_messages_description"
+msgid "Notifications related to messages"
+msgstr "செய்திகள் தொடர்பான அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "notification_channel_miscellaneous_title"
+msgid "Miscellaneous"
+msgstr "மற்றவை"
+
+#, java-printf-format
+msgctxt "notification_channel_miscellaneous_description"
+msgid "Miscellaneous notifications like errors etc."
+msgstr "பிழைகள் போன்ற இதர அறிவிப்புகள்."
+
+#, java-printf-format
+msgctxt "send_failure_subject"
+msgid "Failed to send some messages"
+msgstr "அஞ்சல்கள் அனுப்புவதில் பிழை"
+
+#, java-printf-format
+msgctxt "version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, java-printf-format
+msgctxt "debug_enable_debug_logging_title"
+msgid "Enable debug logging"
+msgstr "பிழை பதிவு இயக்கு"
+
+#, java-printf-format
+msgctxt "debug_enable_sync_debug_logging_title"
+msgid "Enable sync debug logging"
+msgstr "ஒத்திசைவு பிழைத்திருத்த பதிவை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "debug_enable_debug_logging_summary"
+msgid "Log extra diagnostic information"
+msgstr "மேம்பட்ட பிழை பதிவு இயக்கு"
+
+#, java-printf-format
+msgctxt "debug_enable_sync_debug_logging_summary"
+msgid "Log sync diagnostic information for 24 hours"
+msgstr "பதிவு ஒத்திசைவு கண்டறியும் தகவல்களை 24 மணி நேரம்"
+
+#, java-printf-format
+msgctxt "debug_enable_sensitive_logging_title"
+msgid "Log sensitive information"
+msgstr "முக்கிய தகவல்களை பதிவுசெய்"
+
+#, java-printf-format
+msgctxt "debug_enable_sensitive_logging_summary"
+msgid "May show passwords in logs."
+msgstr "பதிவுகளில் கடவுச்சொற்களை காட்டலாம்."
+
+#, java-printf-format
+msgctxt "debug_export_logs_title"
+msgid "Export logs"
+msgstr "ஏற்றுமதி பதிவுகள்"
+
+#, java-printf-format
+msgctxt "debug_sync_export_logs_title"
+msgid "Export Sync logs"
+msgstr "ஏற்றுமதி ஒத்திசைவு பதிவுகள்"
+
+#, java-printf-format
+msgctxt "debug_export_logs_success"
+msgid ""
+"Export successful. Logs might contain sensitive information. Be careful who "
+"you send them to."
+msgstr ""
+"ஏற்றுமதி வெற்றிகரமாக. பதிவுகளில் முக்கியமான தகவல்கள் இருக்கலாம். நீங்கள் "
+"அவர்களை யாருக்கு அனுப்புகிறீர்கள் என்பதில் கவனமாக இருங்கள்."
+
+#, java-printf-format
+msgctxt "debug_export_logs_failure"
+msgid "Export failed."
+msgstr "ஏற்றுமதி தோல்வியடைந்தது."
+
+#, java-printf-format
+msgctxt "message_list_load_more_messages_action"
+msgid "Load more messages"
+msgstr "மேலும் செய்திகளை ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "message_to_fmt"
+msgid "To:<xliff:g id=\"counterParty\">%s</xliff:g>"
+msgstr "பெறுநர்:<xliff:g id=\"counterParty\">%s</xliff:g>"
+
+#, java-printf-format
+msgctxt "message_compose_subject_hint"
+msgid "Subject"
+msgstr "பொருள்"
+
+#, java-printf-format
+msgctxt "message_compose_content_hint"
+msgid "Message text"
+msgstr "தகவல்"
+
+#, java-printf-format
+msgctxt "message_compose_signature_hint"
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+#, java-printf-format
+msgctxt "message_compose_quote_header_separator"
+msgid "-------- Original Message --------"
+msgstr "------- உண்மை தகவல் --------"
+
+#, java-printf-format
+msgctxt "message_compose_quote_header_subject"
+msgid "Subject:"
+msgstr "பொருள்:"
+
+#, java-printf-format
+msgctxt "message_compose_quote_header_send_date"
+msgid "Sent:"
+msgstr "அனுப்பியது:"
+
+#, java-printf-format
+msgctxt "message_compose_quote_header_from"
+msgid "From:"
+msgstr "அனுப்புநர்:"
+
+#, java-printf-format
+msgctxt "message_compose_quote_header_to"
+msgid "To:"
+msgstr "பெறுநர்:"
+
+#, java-printf-format
+msgctxt "message_compose_quote_header_cc"
+msgid "Cc:"
+msgstr "நகல்:"
+
+#, java-printf-format
+msgctxt "message_compose_reply_header_fmt"
+msgid "<xliff:g id=\"sender\">%s</xliff:g> wrote:"
+msgstr "<xliff:g id=\"sender\">%s</xliff:g> எழுதியது:"
+
+#, java-printf-format
+msgctxt "message_compose_reply_header_fmt_with_date"
+msgid ""
+"On <xliff:g id=\"sent_date\">%1$s</xliff:g>, <xliff:g "
+"id=\"sender\">%2$s</xliff:g> wrote:"
+msgstr ""
+"<Xliff: g ஐடி = \"sent_date\">%1$s </xliff: g>, <xliff: g ஐடி = "
+"\"sender\">%2$s </xliff: g> எழுதப்பட்டது:"
+
+#, java-printf-format
+msgctxt "message_compose_error_no_recipients"
+msgid "You must add at least one recipient."
+msgstr "ஒரு பெறுநராவது குறி."
+
+#, java-printf-format
+msgctxt "compose_error_incomplete_recipient"
+msgid "Recipient field contains incomplete input!"
+msgstr "பெறுநரின் புலத்தில் முழுமையற்ற உள்ளீடு உள்ளது!"
+
+#, java-printf-format
+msgctxt "error_contact_address_not_found"
+msgid "No email address could be found for this contact."
+msgstr "இந்தத் தொடர்புக்கு அஞ்சல் இல்லை."
+
+#, java-printf-format
+msgctxt "message_compose_attachments_skipped_toast"
+msgid ""
+"Some attachments cannot be forwarded because they have not been downloaded."
+msgstr "சில இணைப்புகள் பதிவிறக்கம் இல்லாததால், இணைக்க முடியாது."
+
+#. Displayed when loading the message details has failed
+#. Name of the action to add a person to contacts. Usually displayed in a menu
+#. or in a tooltip when long-pressing the associated icon.
+#. Name of the action to compose a new message to a particular address.
+#. Usually displayed in a menu or in a tooltip when long-pressing the
+#. associated icon.
+#. Name of the action to copy an email address to the clipboard. Usually
+#. displayed in a menu or in a tooltip when long-pressing the associated icon.
+#. Name of the action to copy a name and email address to the clipboard.
+#. Usually displayed in a menu or in a tooltip when long-pressing the
+#. associated icon.
+#. A user visible label for the email address copied to the clipboard
+#. A user visible label for the name and email address copied to the clipboard
+#. Might be displayed in a notification when deleting an account (in the
+#. background)
+#. For unread messages the first line of a message list item is modified by
+#. this to improve the experience for people with screen readers.
+#, java-printf-format
+msgctxt "message_compose_attachments_forward_toast"
+msgid ""
+"The message cannot be forwarded because some attachments have not been "
+"downloaded."
+msgstr "சில இணைப்புகள் பதிவிறக்கம் செய்யப்படாததால் செய்தியை அனுப்ப முடியாது."
+
+#, java-printf-format
+msgctxt "message_compose_show_quoted_text_action"
+msgid "Include quoted message"
+msgstr "மேற்கோள் செய்த செய்தியைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "message_compose_description_delete_quoted_text"
+msgid "Remove quoted text"
+msgstr "மேர்கோள் வரிகள் நீக்கு"
+
+#, java-printf-format
+msgctxt "message_compose_description_edit_quoted_text"
+msgid "Edit quoted text"
+msgstr "மேர்கோள் வரிகள் மாற்று"
+
+#, java-printf-format
+msgctxt "remove_attachment_action"
+msgid "Remove attachment"
+msgstr "இணைப்பை அகற்று"
+
+#, java-printf-format
+msgctxt "save_attachment_action"
+msgid "Save attachment"
+msgstr "இணைப்பைச் சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "message_to_label"
+msgid "To:"
+msgstr "பெறுநர்:"
+
+#, java-printf-format
+msgctxt "message_view_cc_label"
+msgid "Cc:"
+msgstr "நகல்:"
+
+#, java-printf-format
+msgctxt "message_view_bcc_label"
+msgid "Bcc:"
+msgstr "பி.சி.சி:"
+
+#, java-printf-format
+msgctxt "message_view_status_attachment_not_saved"
+msgid "Unable to save attachment."
+msgstr "இணைப்பைச் சேமிக்க முடியவில்லை."
+
+#.  Used to display the recipient list in the message view screen.
+#, java-printf-format
+msgctxt "message_view_recipients_format"
+msgid "to <xliff:g id=\"recipients\">%s</xliff:g>"
+msgstr "பெறுநர் <xliff: g ஐடி = \"பெறுநர்கள்\">%s </xliff: g>"
+
+#.  Displayed in the message view screen in front of the number of additional
+#. recipients (the ones that are not displayed).
+#, java-printf-format
+msgctxt "message_view_additional_recipient_prefix"
+msgid "+"
+msgstr "+"
+
+#.  Displayed in the message view screen if the message was addressed to the
+#. user. Make sure this works with 'message_view_recipient_prefix'. In English
+#. it's "to me".
+#, java-printf-format
+msgctxt "message_view_me_text"
+msgid "me"
+msgstr "நான்"
+
+#.  Text of the button that is displayed below the message header when the
+#. message body references one or more remote images
+#, java-printf-format
+msgctxt "message_view_show_remote_images_action"
+msgid "Show remote images"
+msgstr "தொலைதூர படங்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "message_view_no_viewer"
+msgid "Unable to find viewer for <xliff:g id=\"mimetype\">%s</xliff:g>."
+msgstr ""
+"<Xliff: g ஐடி = \"mimetype\">%s </xliff: g> க்கான பார்வையாளரைக் கண்டுபிடிக்க"
+" முடியவில்லை."
+
+#. Used to display the recipient list in the message view screen.
+#. Displayed in the message view screen in front of the number of additional
+#. recipients (the ones that are not displayed).
+#. Displayed in the message view screen if the message was addressed to the
+#. user. Make sure this works with 'message_view_recipient_prefix'. In English
+#. it's "to me".
+#. Text of the button that is displayed below the message header when the
+#. message body references one or more remote images
+#, java-printf-format
+msgctxt "message_view_download_remainder"
+msgid "Download complete message"
+msgstr "முழு செய்தியும் பெறு"
+
+#, java-printf-format
+msgctxt "message_view_sender_label"
+msgid "via %1$s"
+msgstr "%1$s வழியாக"
+
+#, java-printf-format
+msgctxt "from_same_sender"
+msgid "More from this sender"
+msgstr "இந்த அனுப்புநரிடமிருந்து மேலும்"
+
+#, java-printf-format
+msgctxt "message_discarded_toast"
+msgid "Message discarded"
+msgstr "செய்தி கைவிடப்பட்டது"
+
+#, java-printf-format
+msgctxt "message_saved_toast"
+msgid "Message saved as draft"
+msgstr "செய்தி சேமிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "global_settings_flag_label"
+msgid "Show stars"
+msgstr "நட்சத்திரங்கள் காட்டு"
+
+#, java-printf-format
+msgctxt "global_settings_flag_summary"
+msgid "Stars indicate flagged messages"
+msgstr "நட்சத்திரங்கள் கொடியிடப்பட்ட செய்திகளைக் குறிக்கின்றன"
+
+#, java-printf-format
+msgctxt "global_settings_preview_lines_label"
+msgid "Preview lines"
+msgstr "முன்னோட்ட வரிகள்"
+
+#, java-printf-format
+msgctxt "global_settings_show_correspondent_names_label"
+msgid "Show correspondent names"
+msgstr "நிருபர் பெயர்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "global_settings_show_correspondent_names_summary"
+msgid "Show correspondent names rather than their email addresses"
+msgstr "நிருபர் பெயர்களை அவர்களின் மின்னஞ்சல் முகவரிகளைக் காட்டிலும் காண்பி"
+
+#, java-printf-format
+msgctxt "global_settings_sender_above_subject_label"
+msgid "Correspondent above subject"
+msgstr "பொருள் மேலே நிருபர்"
+
+#, java-printf-format
+msgctxt "global_settings_sender_above_subject_summary"
+msgid "Show correspondent names above the subject line, rather than below it"
+msgstr "அதற்குக் கீழே இல்லாமல், பொருள் வரிக்கு மேலே நிருபர் பெயர்களைக் காண்பி"
+
+#, java-printf-format
+msgctxt "global_settings_show_contact_name_label"
+msgid "Show contact names"
+msgstr "தொடர்பு பெயர்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "global_settings_show_contact_name_summary"
+msgid "Use recipient names from Contacts when available"
+msgstr "கிடைக்கும்போது தொடர்புகளிலிருந்து பெறுநரின் பெயர்களைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "global_settings_registered_name_color_label"
+msgid "Colorize contacts"
+msgstr "தொடர்புகளை வண்ணமயமாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "global_settings_registered_name_color_changed"
+msgid "Colorize names in your contact list"
+msgstr "Colorize names in your தொடர்பு பட்டியல்"
+
+#, java-printf-format
+msgctxt "general_settings_contact_name_color_label"
+msgid "Contact name color"
+msgstr "தொடர்பு பெயர் நிறம்"
+
+#, java-printf-format
+msgctxt "global_settings_messageview_fixedwidth_label"
+msgid "Fixed-width fonts"
+msgstr "நிலையான அகல எழுத்துருக்கள்"
+
+#, java-printf-format
+msgctxt "global_settings_messageview_fixedwidth_summary"
+msgid "Use a fixed-width font when showing plain text messages"
+msgstr ""
+"எளிய உரை செய்திகளைக் காண்பிக்கும் போது நிலையான அகல எழுத்துருவைப் "
+"பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "global_settings_messageview_autofit_width_label"
+msgid "Auto-fit messages"
+msgstr "தானாக பொருத்தப்பட்ட செய்திகள்"
+
+#, java-printf-format
+msgctxt "global_settings_messageview_autofit_width_summary"
+msgid "Shrink messages to fit the screen"
+msgstr "திரைக்கு ஏற்றவாறு செய்திகளை சுருக்கவும்"
+
+#.  Name of the setting to configure the navigation action to perform after
+#. the user has deleted or moved a message from the message view screen
+#, java-printf-format
+msgctxt "general_settings_post_remove_action_title"
+msgid "After deleting or moving a message"
+msgstr "ஒரு செய்தியை நீக்கிவிட்ட பிறகு அல்லது நகர்த்திய பிறகு"
+
+#, java-printf-format
+msgctxt "general_settings_post_remove_action_return_to_list"
+msgid "Return to message list"
+msgstr "செய்தி பட்டியலுக்குத் திரும்பு"
+
+#, java-printf-format
+msgctxt "general_settings_post_remove_action_show_previous_message"
+msgid "Show previous message"
+msgstr "முந்தைய செய்தியைக் காட்டு"
+
+#, java-printf-format
+msgctxt "general_settings_post_remove_action_show_next_message"
+msgid "Show next message"
+msgstr "அடுத்த செய்தியைக் காட்டு"
+
+#.  Name of the setting to configure the navigation action to perform after
+#. the user has marked a message as unread from the message view screen
+#, java-printf-format
+msgctxt "general_settings_post_mark_as_unread_action_title"
+msgid "After marking a message as unread"
+msgstr "ஒரு செய்தியை படிக்காததாகக் குறிக்கும் பிறகு"
+
+#, java-printf-format
+msgctxt "general_settings_post_mark_as_unread_action_stay"
+msgid "Stay on current message"
+msgstr "தற்போதைய செய்தியில் இருங்கள்"
+
+#, java-printf-format
+msgctxt "general_settings_post_mark_as_unread_action_return_to_list"
+msgid "Return to message list"
+msgstr "செய்தி பட்டியலுக்குத் திரும்பு"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_actions_title"
+msgid "Confirm actions"
+msgstr "செயல்களை உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_actions_summary"
+msgid "Show a dialog whenever you perform selected actions"
+msgstr ""
+"நீங்கள் தேர்ந்தெடுக்கப்பட்ட செயல்களைச் செய்யும்போதெல்லாம் உரையாடலைக் "
+"காட்டுங்கள்"
+
+#. Name of the setting to configure the navigation action to perform after the
+#. user has deleted or moved a message from the message view screen
+#, java-printf-format
+msgctxt "global_settings_confirm_action_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_action_delete_starred"
+msgid "Delete Starred (in message view)"
+msgstr "நட்சத்திரமிட்டது (செய்தி பார்வையில்)"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_action_spam"
+msgid "Spam"
+msgstr "பயனற்றது"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_menu_discard"
+msgid "Discard message"
+msgstr "செய்தியை நிராகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_menu_mark_all_read"
+msgid "Mark all messages as read"
+msgstr "எல்லா செய்திகளையும் படித்தபடி குறிக்கவும்"
+
+#, java-printf-format
+msgctxt "global_settings_confirm_action_delete_notif"
+msgid "Delete (from notification)"
+msgstr "நீக்கு (அறிவிப்பிலிருந்து)"
+
+#.  Title of the screen to configure swipe actions
+#, java-printf-format
+msgctxt "general_settings_swipe_actions_title"
+msgid "Swipe actions"
+msgstr "செயல்களை ச்வைப் செய்யவும்"
+
+#.  Name of the setting to configure the right swipe action
+#, java-printf-format
+msgctxt "general_settings_right_swipe_title"
+msgid "Right swipe"
+msgstr "வலது ச்வைப்"
+
+#.  Name of the setting to configure the left swipe action
+#, java-printf-format
+msgctxt "general_settings_left_swipe_title"
+msgid "Left swipe"
+msgstr "இடது ச்வைப்"
+
+#.  The list item users select to not use a swipe action for a particular
+#. direction
+#, java-printf-format
+msgctxt "general_settings_swipe_action_none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#.  Name of the swipe action to select/deselect a message
+#, java-printf-format
+msgctxt "general_settings_swipe_action_toggle_selection"
+msgid "Toggle selection"
+msgstr "தேர்வை மாற்றவும்"
+
+#.  Name of the swipe action to mark as message as read/unread
+#, java-printf-format
+msgctxt "general_settings_swipe_action_toggle_read"
+msgid "Mark as read/unread"
+msgstr "படிக்க/படிக்காத எனக் குறிக்கவும்"
+
+#.  Name of the swipe action to add/remove a star
+#, java-printf-format
+msgctxt "general_settings_swipe_action_toggle_star"
+msgid "Add/remove star"
+msgstr "நட்சத்திரத்தைச் சேர்க்கவும்/அகற்றவும்"
+
+#.  Name of the swipe action to archive a message
+#. Title of the screen to configure swipe actions
+#. Name of the setting to configure the right swipe action
+#. Name of the setting to configure the left swipe action
+#. The list item users select to not use a swipe action for a particular
+#. direction
+#. Name of the swipe action to select/deselect a message
+#. Name of the swipe action to mark as message as read/unread
+#. Name of the swipe action to add/remove a star
+#. Name of the swipe action to archive a message
+#, java-printf-format
+msgctxt "general_settings_swipe_action_archive"
+msgid "Archive"
+msgstr "காப்பகம்"
+
+#.  Name of the swipe action to delete a message
+#. Name of the swipe action to delete a message
+#, java-printf-format
+msgctxt "general_settings_swipe_action_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#.  Name of the swipe action to move a message to the spam folder
+#. Name of the swipe action to move a message to the spam folder
+#, java-printf-format
+msgctxt "general_settings_swipe_action_spam"
+msgid "Spam"
+msgstr "பயனற்றது"
+
+#.  Name of the swipe action to move a message to another folder
+#. Name of the swipe action to move a message to another folder
+#, java-printf-format
+msgctxt "general_settings_swipe_action_move"
+msgid "Move"
+msgstr "நகர்த்து"
+
+#.  Title of the setting to specify the density of the message list
+#, java-printf-format
+msgctxt "general_settings_message_list_density_title"
+msgid "Density"
+msgstr "அடர்த்தி"
+
+#.  Value for the message list density setting. Uses almost no whitespace to
+#. separate list items.
+#, java-printf-format
+msgctxt "general_settings_ui_density_compact"
+msgid "Compact"
+msgstr "கச்சிதமான"
+
+#.  The default value for the message list density setting. Uses a comfortable
+#. amount of whitespace to separate list items.
+#, java-printf-format
+msgctxt "general_settings_ui_density_default"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#.  Value for the message list density setting. Uses more whitespace than the
+#. default to separate list items.
+#, java-printf-format
+msgctxt "general_settings_ui_density_relaxed"
+msgid "Relaxed"
+msgstr "நிதானமாக"
+
+#, java-printf-format
+msgctxt "global_settings_privacy_hide_useragent"
+msgid "Hide mail client"
+msgstr "அஞ்சல் கிளையண்டை மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "global_settings_privacy_hide_useragent_detail"
+msgid "Remove User-Agent from mail headers"
+msgstr "அஞ்சல் தலைப்புகளிலிருந்து பயனர் முகவர் அகற்றவும்"
+
+#, java-printf-format
+msgctxt "global_settings_privacy_hide_timezone"
+msgid "Hide timezone"
+msgstr "மறை timezone"
+
+#, java-printf-format
+msgctxt "global_settings_privacy_hide_timezone_detail"
+msgid "Use UTC instead of local timezone in mail headers and reply header"
+msgstr ""
+"Use UTC instead of local timezone in mail தலைப்பிகளுக்கு and reply தலைப்பி"
+
+#, java-printf-format
+msgctxt "global_settings_notification_quick_delete_title"
+msgid "Show 'Delete' button"
+msgstr "'நீக்கு' பொத்தானைக் காட்டு"
+
+#. Title of the setting to specify the density of the message list
+#, java-printf-format
+msgctxt "global_settings_notification_quick_delete_never"
+msgid "Never"
+msgstr "ஒருபொழுதும்"
+
+#, java-printf-format
+msgctxt "global_settings_notification_quick_delete_when_single_msg"
+msgid "For single message notification"
+msgstr "க்கு ஒற்றை செய்தி notification"
+
+#, java-printf-format
+msgctxt "global_settings_notification_quick_delete_always"
+msgid "Always"
+msgstr "எப்பொழுதும்"
+
+#, java-printf-format
+msgctxt "global_settings_lock_screen_notification_visibility_title"
+msgid "Lock Screen Notifications"
+msgstr "பூட்டு திரை அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "global_settings_lock_screen_notification_visibility_nothing"
+msgid "No lock screen notifications"
+msgstr "பூட்டு திரை அறிவிப்புகள் இல்லை"
+
+#, java-printf-format
+msgctxt "global_settings_lock_screen_notification_visibility_app_name"
+msgid "Application name"
+msgstr "பயன்பாட்டு பெயர்"
+
+#, java-printf-format
+msgctxt "global_settings_lock_screen_notification_visibility_message_count"
+msgid "New message count"
+msgstr "புதிய செய்தி எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "global_settings_lock_screen_notification_visibility_senders"
+msgid "Message count and senders"
+msgstr "செய்தி எண்ணிக்கை மற்றும் அனுப்புநர்கள்"
+
+#, java-printf-format
+msgctxt "global_settings_lock_screen_notification_visibility_everything"
+msgid "Same as when screen unlocked"
+msgstr "திரை திறக்கப்படும் போது"
+
+#, java-printf-format
+msgctxt "quiet_time"
+msgid "Quiet Time"
+msgstr "அமைதியான நேரம்"
+
+#, java-printf-format
+msgctxt "quiet_time_description"
+msgid "Disable ringing, buzzing and flashing at night"
+msgstr "இரவில் ரிங்கிங், சலசலப்பு மற்றும் ஒளிரும் முடக்கு"
+
+#, java-printf-format
+msgctxt "quiet_time_notification"
+msgid "Disable notifications"
+msgstr "முடக்கு notifications"
+
+#, java-printf-format
+msgctxt "quiet_time_notification_description"
+msgid "Completely disable notifications during Quiet Time"
+msgstr "அமைதியான நேரத்தில் அறிவிப்புகளை முழுமையாக முடக்கு"
+
+#, java-printf-format
+msgctxt "quiet_time_starts"
+msgid "Quiet Time starts"
+msgstr "அமைதியான நேரம் தொடங்குகிறது"
+
+#, java-printf-format
+msgctxt "quiet_time_ends"
+msgid "Quiet Time ends"
+msgstr "அமைதியான நேரம் முடிகிறது"
+
+#, java-printf-format
+msgctxt "account_setup_basics_title"
+msgid "Set up a new account"
+msgstr "புதிய கணக்கை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_setup_incoming_delete_policy_label"
+msgid "When I delete a message"
+msgstr "நான் ஒரு செய்தியை நீக்கும்போது"
+
+#, java-printf-format
+msgctxt "account_setup_incoming_delete_policy_never_label"
+msgid "Do not delete on server"
+msgstr "சேவையகத்தில் நீக்க வேண்டாம்"
+
+#, java-printf-format
+msgctxt "account_setup_incoming_delete_policy_delete_label"
+msgid "Delete from server"
+msgstr "சேவையகத்திலிருந்து நீக்கு"
+
+#, java-printf-format
+msgctxt "account_setup_incoming_delete_policy_markread_label"
+msgid "Mark as read on server"
+msgstr "Mark அச் read on சேவையகம்"
+
+#, java-printf-format
+msgctxt "account_setup_expunge_policy_label"
+msgid "Erase deleted messages on server"
+msgstr "சேவையகத்தில் நீக்கப்பட்ட செய்திகளை அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_setup_expunge_policy_immediately"
+msgid "Immediately"
+msgstr "உடனடியாக"
+
+#, java-printf-format
+msgctxt "account_setup_expunge_policy_on_poll"
+msgid "When polling"
+msgstr "வாக்களிக்கும் போது"
+
+#, java-printf-format
+msgctxt "account_setup_expunge_policy_manual"
+msgid "Manually"
+msgstr "கைமுறையாக"
+
+#, java-printf-format
+msgctxt "drafts_folder_label"
+msgid "Drafts folder"
+msgstr "வரைவுகள் கோப்புறை"
+
+#, java-printf-format
+msgctxt "sent_folder_label"
+msgid "Sent folder"
+msgstr "கோப்புறை அனுப்பப்பட்டது"
+
+#, java-printf-format
+msgctxt "trash_folder_label"
+msgid "Trash folder"
+msgstr "குப்பை கோப்புறை"
+
+#, java-printf-format
+msgctxt "archive_folder_label"
+msgid "Archive folder"
+msgstr "காப்பக கோப்புறை"
+
+#, java-printf-format
+msgctxt "spam_folder_label"
+msgid "Spam folder"
+msgstr "ச்பேம் கோப்புறை"
+
+#, java-printf-format
+msgctxt "account_setup_incoming_subscribed_folders_only_label"
+msgid "Show only subscribed folders"
+msgstr "சந்தா கோப்புறைகளை மட்டுமே காட்டு"
+
+#, java-printf-format
+msgctxt "account_setup_auto_expand_folder"
+msgid "Auto-expand folder"
+msgstr "தானாக காலாவதியான கோப்புறை"
+
+#. Please use the same translation for "screen lock" as is used in the
+#. 'Security' section in Android's settings app
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_never"
+msgid "Never"
+msgstr "ஒருபொழுதும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_15min"
+msgid "Every 15 minutes"
+msgstr "ஒவ்வொரு 15 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_30min"
+msgid "Every 30 minutes"
+msgstr "ஒவ்வொரு 30 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_1hour"
+msgid "Every hour"
+msgstr "ஒவ்வொரு மணி நேரமும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_2hour"
+msgid "Every 2 hours"
+msgstr "ஒவ்வொரு 2 மணி நேரமும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_3hour"
+msgid "Every 3 hours"
+msgstr "ஒவ்வொரு 3 மணி நேரமும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_6hour"
+msgid "Every 6 hours"
+msgstr "ஒவ்வொரு 6 மணி நேரமும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_12hour"
+msgid "Every 12 hours"
+msgstr "ஒவ்வொரு 12 மணி நேரமும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_check_frequency_24hour"
+msgid "Every 24 hours"
+msgstr "ஒவ்வொரு 24 மணி நேரமும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_label"
+msgid "Refresh IDLE connection"
+msgstr "செயலற்ற இணைப்பைப் புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_2min"
+msgid "Every 2 minutes"
+msgstr "ஒவ்வொரு 2 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_3min"
+msgid "Every 3 minutes"
+msgstr "ஒவ்வொரு 3 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_6min"
+msgid "Every 6 minutes"
+msgstr "ஒவ்வொரு 6 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_12min"
+msgid "Every 12 minutes"
+msgstr "ஒவ்வொரு 12 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_24min"
+msgid "Every 24 minutes"
+msgstr "ஒவ்வொரு 24 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_36min"
+msgid "Every 36 minutes"
+msgstr "ஒவ்வொரு 36 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_48min"
+msgid "Every 48 minutes"
+msgstr "ஒவ்வொரு 48 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "idle_refresh_period_60min"
+msgid "Every 60 minutes"
+msgstr "ஒவ்வொரு 60 நிமிடங்களுக்கும்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_10"
+msgid "10 messages"
+msgstr "10 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_25"
+msgid "25 messages"
+msgstr "25 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_50"
+msgid "50 messages"
+msgstr "50 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_100"
+msgid "100 messages"
+msgstr "100 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_250"
+msgid "250 messages"
+msgstr "250 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_500"
+msgid "500 messages"
+msgstr "500 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_1000"
+msgid "1000 messages"
+msgstr "1000 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_2500"
+msgid "2500 messages"
+msgstr "2500 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_5000"
+msgid "5000 messages"
+msgstr "5000 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_10000"
+msgid "10000 messages"
+msgstr "10000 செய்திகள்"
+
+#, java-printf-format
+msgctxt "account_setup_options_mail_display_count_all"
+msgid "all messages"
+msgstr "அனைத்து செய்திகளும்"
+
+#, java-printf-format
+msgctxt "move_copy_cannot_copy_unsynced_message"
+msgid "Cannot copy or move a message that is not synchronized with the server"
+msgstr ""
+"சேவையகத்துடன் ஒத்திசைக்கப்படாத செய்தியை நகலெடுக்கவோ நகர்த்தவோ முடியாது"
+
+#, java-printf-format
+msgctxt "account_settings_push_advanced_title"
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+#, java-printf-format
+msgctxt "account_settings_title_fmt"
+msgid "Account settings"
+msgstr "கணக்கு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "account_settings_notify_label"
+msgid "New mail notifications"
+msgstr "புதிய அஞ்சல் அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "account_settings_notify_sync_label"
+msgid "Sync notifications"
+msgstr "அறிவிப்புகளை ஒத்திசைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_email_label"
+msgid "Your email address"
+msgstr "உங்கள் மின்னஞ்சல் முகவரி"
+
+#, java-printf-format
+msgctxt "account_settings_notify_summary"
+msgid "Notify in status bar when mail arrives"
+msgstr "அஞ்சல் வரும்போது நிலை பட்டியில் அறிவிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_notify_sync_summary"
+msgid "Notify in status bar while mail is checked"
+msgstr "அஞ்சல் சரிபார்க்கப்படும்போது நிலை பட்டியில் அறிவிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_notify_self_label"
+msgid "Include outgoing mail"
+msgstr "வெளிச்செல்லும் அஞ்சலைச் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_notify_self_summary"
+msgid "Show a notification for messages I sent"
+msgstr "நான் அனுப்பிய செய்திகளுக்கு அறிவிப்பைக் காட்டு"
+
+#, java-printf-format
+msgctxt "account_notify_contacts_mail_only_label"
+msgid "Contacts only"
+msgstr "தொடர்புகள் மட்டுமே"
+
+#, java-printf-format
+msgctxt "account_notify_contacts_mail_only_summary"
+msgid "Show notifications only for messages from known contacts"
+msgstr ""
+"அறியப்பட்ட தொடர்புகளின் செய்திகளுக்கு மட்டுமே அறிவிப்புகளைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_ignore_chat_messages_label"
+msgid "Ignore chat messages"
+msgstr "அரட்டை செய்திகளை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_ignore_chat_messages_summary"
+msgid "Don't show notifications for messages belonging to an email chat"
+msgstr ""
+"மின்னஞ்சல் அரட்டையைச் சேர்ந்த செய்திகளுக்கான அறிவிப்புகளைக் காட்ட வேண்டாம்"
+
+#, java-printf-format
+msgctxt "account_settings_mark_message_as_read_on_view_label"
+msgid "Mark as read when opened"
+msgstr "திறக்கும்போது படித்தபடி குறி"
+
+#, java-printf-format
+msgctxt "account_settings_mark_message_as_read_on_view_summary"
+msgid "Mark a message as read when it is opened for viewing"
+msgstr "ஒரு செய்தியைப் பார்க்கத் திறக்கும்போது அதைப் படித்தபடி குறிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_mark_message_as_read_on_delete_label"
+msgid "Mark as read when deleted"
+msgstr "நீக்கும்போது படித்தபடி குறிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_mark_message_as_read_on_delete_summary"
+msgid "Mark a message as read when it is deleted"
+msgstr "ஒரு செய்தியை நீக்கும்போது அதைப் படித்தபடி குறிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_channels_label"
+msgid "Notification categories"
+msgstr "அறிவிப்பு வகைகள்"
+
+#, java-printf-format
+msgctxt "account_settings_open_notification_settings_messages_summary"
+msgid "Configure notifications for new messages"
+msgstr "புதிய செய்திகளுக்கான அறிவிப்புகளை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_open_notification_settings_miscellaneous_summary"
+msgid "Configure error and status notifications"
+msgstr "பிழை மற்றும் நிலை அறிவிப்புகளை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_show_pictures_label"
+msgid "Always show images"
+msgstr "எப்போதும் படங்களைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_show_pictures_never"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "account_settings_show_pictures_only_from_contacts"
+msgid "From contacts"
+msgstr "தொடர்புகளிலிருந்து"
+
+#, java-printf-format
+msgctxt "account_settings_show_pictures_always"
+msgid "From anyone"
+msgstr "யாரிடமிருந்தும்"
+
+#, java-printf-format
+msgctxt "account_settings_composition"
+msgid "Sending mail"
+msgstr "அஞ்சல் அனுப்புதல்"
+
+#, java-printf-format
+msgctxt "account_settings_default_quoted_text_shown_label"
+msgid "Quote message when replying"
+msgstr "பதிலளிக்கும் போது மேற்கோள் செய்தி"
+
+#, java-printf-format
+msgctxt "account_settings_default_quoted_text_shown_summary"
+msgid "Include the original message in your reply."
+msgstr "உங்கள் பதிலில் அசல் செய்தியைச் சேர்க்கவும்."
+
+#, java-printf-format
+msgctxt "account_settings_reply_after_quote_label"
+msgid "Reply after quoted text"
+msgstr "மேற்கோள் காட்டிய பின் பதிலளிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_reply_after_quote_summary"
+msgid "The original message will appear above your reply."
+msgstr "அசல் செய்தி உங்கள் பதிலுக்கு மேலே தோன்றும்."
+
+#, java-printf-format
+msgctxt "account_settings_strip_signature_label"
+msgid "Strip signatures on reply"
+msgstr "பதிலில் உரி கையொப்பங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_strip_signature_summary"
+msgid "Signatures will be removed from quoted messages"
+msgstr "மேற்கோள் செய்த செய்திகளிலிருந்து கையொப்பங்கள் அகற்றப்படும்"
+
+#, java-printf-format
+msgctxt "account_settings_message_format_label"
+msgid "Message Format"
+msgstr "செய்தி வடிவம்"
+
+#, java-printf-format
+msgctxt "account_settings_message_format_text"
+msgid "Plain Text (remove images and formatting)"
+msgstr "எளிய உரை (படங்கள் மற்றும் வடிவமைப்பை அகற்று)"
+
+#, java-printf-format
+msgctxt "account_settings_message_format_html"
+msgid "HTML (keep images and formatting)"
+msgstr "உஉகுமொ (படங்கள் மற்றும் வடிவமைப்பை வைத்திருங்கள்)"
+
+#, java-printf-format
+msgctxt "account_settings_message_format_auto"
+msgid "Automatic"
+msgstr "தானியங்கி"
+
+#, java-printf-format
+msgctxt "account_settings_always_show_cc_bcc_label"
+msgid "Always show Cc/Bcc"
+msgstr "எப்போதும் CC/BCC ஐக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_read_receipt_label"
+msgid "Read receipt"
+msgstr "படித்த இரசீது"
+
+#, java-printf-format
+msgctxt "account_settings_message_read_receipt_summary"
+msgid "Always request a read receipt"
+msgstr "எப்போதும் வாசிப்பு ரசீதைக் கோருங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_quote_style_label"
+msgid "Reply quoting style"
+msgstr "பதில் பாணி"
+
+#, java-printf-format
+msgctxt "account_settings_quote_style_prefix"
+msgid "Prefix (like Gmail)"
+msgstr "முன்னொட்டு (சிமெயில் போன்றது)"
+
+#, java-printf-format
+msgctxt "account_settings_quote_style_header"
+msgid "Header (like Outlook)"
+msgstr "தலைப்பு (அவுட்லுக் போன்றது)"
+
+#, java-printf-format
+msgctxt "account_settings_upload_sent_messages_label"
+msgid "Upload sent messages"
+msgstr "அனுப்பப்பட்ட செய்திகளைப் பதிவேற்றவும்"
+
+#, java-printf-format
+msgctxt "account_settings_upload_sent_messages_summary"
+msgid "Upload messages to Sent folder after sending"
+msgstr "அனுப்பிய பிறகு அனுப்பப்பட்ட கோப்புறையில் செய்திகளைப் பதிவேற்றவும்"
+
+#, java-printf-format
+msgctxt "account_settings_general_title"
+msgid "General settings"
+msgstr "பொது அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "account_settings_reading_mail"
+msgid "Reading mail"
+msgstr "அஞ்சலைப் படித்தல்"
+
+#, java-printf-format
+msgctxt "account_settings_sync"
+msgid "Fetching mail"
+msgstr "அஞ்சல் பெறுதல்"
+
+#, java-printf-format
+msgctxt "account_settings_folders"
+msgid "Folders"
+msgstr "கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_settings_quote_prefix_label"
+msgid "Quoted text prefix"
+msgstr "மேற்கோள் உரை முன்னொட்டு"
+
+#, java-printf-format
+msgctxt "account_settings_crypto"
+msgid "End-to-end encryption"
+msgstr "இறுதி-இறுதி குறியாக்கம்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_app"
+msgid "Enable OpenPGP support"
+msgstr "OpenPGP ஆதரவை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_app_select_title"
+msgid "Select OpenPGP app"
+msgstr "OpenPGP பயன்பாட்டைத் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_key"
+msgid "Configure end-to-end key"
+msgstr "இறுதி முதல் இறுதி விசையை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_summary_off"
+msgid "No OpenPGP app configured"
+msgstr "OpenPGP பயன்பாடு கட்டமைக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_summary_on"
+msgid "Connected to %s"
+msgstr "%s உடன் இணைக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_summary_config"
+msgid "Configuring…"
+msgstr "உள்ளமைத்தல்…"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_encrypt_all_drafts"
+msgid "Store all drafts encrypted"
+msgstr "குறியாக்கப்பட்ட அனைத்து வரைவுகளையும் சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_encrypt_all_drafts_on"
+msgid "All drafts will be stored encrypted"
+msgstr "அனைத்து வரைவுகளும் குறியாக்கம் செய்யப்படும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_encrypt_all_drafts_off"
+msgid "Encrypt drafts only if encryption is enabled"
+msgstr "குறியாக்கம் இயக்கப்பட்டால் மட்டுமே வரைவுகளை குறியாக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_mail_check_frequency_label"
+msgid "Folder poll frequency"
+msgstr "கோப்புறை வாக்கெடுப்பு அதிர்வெண்"
+
+#, java-printf-format
+msgctxt "account_settings_color_label"
+msgid "Account color"
+msgstr "கணக்கு நிறம்"
+
+#, java-printf-format
+msgctxt "account_settings_color_summary"
+msgid "The accent color of this account used in folder and account list"
+msgstr ""
+"கோப்புறை மற்றும் கணக்கு பட்டியலில் பயன்படுத்தப்படும் இந்த கணக்கின் "
+"உச்சரிப்பு நிறம்"
+
+#, java-printf-format
+msgctxt "account_settings_mail_display_count_label"
+msgid "Local folder size"
+msgstr "உள்ளக கோப்புறை அளவு"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_label"
+msgid "Fetch messages up to"
+msgstr "வரை செய்திகளைப் பெறுங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_1"
+msgid "1 KiB"
+msgstr "1"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_2"
+msgid "2 KiB"
+msgstr "2 சிஐபிடி"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_4"
+msgid "4 KiB"
+msgstr "4 இன்"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_8"
+msgid "8 KiB"
+msgstr "குளிர்காலத்தின் 8"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_16"
+msgid "16 KiB"
+msgstr "16"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_32"
+msgid "32 KiB"
+msgstr "32 சிஐபி"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_64"
+msgid "64 KiB"
+msgstr "64 சிஐபி"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_128"
+msgid "128 KiB"
+msgstr "128 சிஐபி"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_256"
+msgid "256 KiB"
+msgstr "256 குளிர்காலம்"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_512"
+msgid "512 KiB"
+msgstr "512 சிஐபி"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_1024"
+msgid "1 MiB"
+msgstr "1 MIB"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_2048"
+msgid "2 MiB"
+msgstr "2 MIB"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_5120"
+msgid "5 MiB"
+msgstr "5 MIB"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_10240"
+msgid "10 MiB"
+msgstr "10 MIB"
+
+#, java-printf-format
+msgctxt "account_settings_autodownload_message_size_any"
+msgid "any size (no limit)"
+msgstr "எந்த அளவு (வரம்பு இல்லை)"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_label"
+msgid "Sync messages from"
+msgstr "இருந்து செய்திகளை ஒத்திசைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_any"
+msgid "any time (no limit)"
+msgstr "எந்த நேரத்திலும் (வரம்பு இல்லை)"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_0"
+msgid "today"
+msgstr "இன்று"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_1"
+msgid "the last 2 days"
+msgstr "கடைசி 2 நாட்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_2"
+msgid "the last 3 days"
+msgstr "கடந்த 3 நாட்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_7"
+msgid "the last week"
+msgstr "கடந்த வாரம்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_14"
+msgid "the last 2 weeks"
+msgstr "கடந்த 2 வாரங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_21"
+msgid "the last 3 weeks"
+msgstr "கடந்த 3 வாரங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_1_month"
+msgid "the last month"
+msgstr "கடந்த மாதம்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_2_months"
+msgid "the last 2 months"
+msgstr "கடந்த 2 மாதங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_3_months"
+msgid "the last 3 months"
+msgstr "கடந்த 3 மாதங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_6_months"
+msgid "the last 6 months"
+msgstr "கடந்த 6 மாதங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_message_age_1_year"
+msgid "the last year"
+msgstr "கடந்த ஆண்டு"
+
+#, java-printf-format
+msgctxt "account_settings_sync_remote_deletetions_label"
+msgid "Sync server deletions"
+msgstr "சேவையக நீக்குதல்களை ஒத்திசைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_sync_remote_deletetions_summary"
+msgid "Remove messages when deleted on server"
+msgstr "சேவையகத்தில் நீக்கப்படும் போது செய்திகளை அகற்று"
+
+#, java-printf-format
+msgctxt "account_settings_openpgp_missing"
+msgid "Missing OpenPGP app - was it uninstalled?"
+msgstr "OpenPGP பயன்பாட்டைக் காணவில்லை - இது நிறுவல் நீக்கப்பட்டதா?"
+
+#, java-printf-format
+msgctxt "folder_settings_title"
+msgid "Folder settings"
+msgstr "கோப்புறை அமைப்பு"
+
+#, java-printf-format
+msgctxt "folder_settings_in_top_group_label"
+msgid "Show in top group"
+msgstr "சிறந்த குழுவில் காட்டு"
+
+#, java-printf-format
+msgctxt "folder_settings_visible_label"
+msgid "Show folder"
+msgstr "கோப்புறையைக் காட்டு"
+
+#, java-printf-format
+msgctxt "folder_settings_sync_label"
+msgid "Enable sync"
+msgstr "ஒத்திசைவை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "folder_settings_push_label"
+msgid "Enable Push"
+msgstr "உந்துதலை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "folder_settings_notifications_label"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "folder_settings_clear_local_folder_action"
+msgid "Clear local messages"
+msgstr "தற்காலிக செய்திகள் நீக்கு"
+
+#, java-printf-format
+msgctxt "account_settings_incoming_label"
+msgid "Incoming server"
+msgstr "உள்வரும் சேவையகம்"
+
+#, java-printf-format
+msgctxt "account_settings_incoming_summary"
+msgid "Configure the incoming mail server"
+msgstr "உள்வரும் அஞ்சல் சேவையகத்தை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_outgoing_label"
+msgid "Outgoing server"
+msgstr "வெளிச்செல்லும் சேவையகம்"
+
+#, java-printf-format
+msgctxt "account_settings_outgoing_summary"
+msgid "Configure the outgoing mail (SMTP) server"
+msgstr "வெளிச்செல்லும் அஞ்சல் (SMTP) சேவையகத்தை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_description_label"
+msgid "Account name"
+msgstr "கணக்கு பெயர்"
+
+#, java-printf-format
+msgctxt "account_settings_name_label"
+msgid "Your name"
+msgstr "உங்கள் பெயர்"
+
+#, java-printf-format
+msgctxt "notifications_title"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "account_settings_vibration"
+msgid "Vibration"
+msgstr "அதிர்வு"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_enable"
+msgid "Vibrate"
+msgstr "அதிர்வு"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_label"
+msgid "Vibration pattern"
+msgstr "அதிர்வு முறை"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_default"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_1"
+msgid "Pattern 1"
+msgstr "முறை 1"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_2"
+msgid "Pattern 2"
+msgstr "முறை 2"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_3"
+msgid "Pattern 3"
+msgstr "முறை 3"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_4"
+msgid "Pattern 4"
+msgstr "முறை 4"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_pattern_5"
+msgid "Pattern 5"
+msgstr "முறை 5"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_times"
+msgid "Repeat vibration"
+msgstr "அதிர்வு மீண்டும்"
+
+#, java-printf-format
+msgctxt "account_settings_vibrate_summary_disabled"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "account_settings_ringtone"
+msgid "New mail ringtone"
+msgstr "புதிய அஞ்சல் ரிங்டோன்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_label"
+msgid "Notification light"
+msgstr "அறிவிப்பு ஒளி"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_disabled"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_account_color"
+msgid "Account color"
+msgstr "கணக்கு நிறம்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_default_color"
+msgid "System default color"
+msgstr "கணினி இயல்புநிலை நிறம்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_white"
+msgid "White"
+msgstr "வெள்ளை"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_red"
+msgid "Red"
+msgstr "சிவப்பு"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_green"
+msgid "Green"
+msgstr "பச்சை"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_blue"
+msgid "Blue"
+msgstr "நீலம்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_yellow"
+msgid "Yellow"
+msgstr "மஞ்சள்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_cyan"
+msgid "Cyan"
+msgstr "சியான்"
+
+#, java-printf-format
+msgctxt "account_settings_notification_light_magenta"
+msgid "Magenta"
+msgstr "மெசந்தா"
+
+#, java-printf-format
+msgctxt "account_settings_composition_title"
+msgid "Message composition options"
+msgstr "செய்தி கலவை விருப்பங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_composition_label"
+msgid "Composition defaults"
+msgstr "கலவை இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "account_settings_composition_summary"
+msgid "Set your default From, Bcc and signature"
+msgstr "உங்கள் இயல்புநிலையை, பி.சி.சி மற்றும் கையொப்பத்திலிருந்து அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_identities_label"
+msgid "Manage identities"
+msgstr "அடையாளங்களை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_identities_summary"
+msgid "Set up alternate 'From' addresses and signatures"
+msgstr "'முகவரிகள் மற்றும் கையொப்பங்களிலிருந்து மாற்று' ஐ அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "manage_identities_title"
+msgid "Manage identities"
+msgstr "அடையாளங்களை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "manage_identities_context_menu_title"
+msgid "Manage identity"
+msgstr "அடையாளத்தை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "edit_identity_title"
+msgid "Edit identity"
+msgstr "அடையாளத்தைத் திருத்தவும்"
+
+#, java-printf-format
+msgctxt "edit_identity_save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "new_identity_action"
+msgid "New identity"
+msgstr "புதிய அடையாளம்"
+
+#, java-printf-format
+msgctxt "account_settings_always_bcc_label"
+msgid "Bcc all messages to"
+msgstr "பி.சி.சி அனைத்து செய்திகளும்"
+
+#, java-printf-format
+msgctxt "manage_identities_edit_action"
+msgid "Edit"
+msgstr "தொகு"
+
+#, java-printf-format
+msgctxt "manage_identities_move_up_action"
+msgid "Move up"
+msgstr "மேலே செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "manage_identities_move_down_action"
+msgid "Move down"
+msgstr "கீழே செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "manage_identities_move_top_action"
+msgid "Move to top / make default"
+msgstr "மேலே செல்லுங்கள் / இயல்புநிலையை உருவாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "manage_identities_remove_action"
+msgid "Remove"
+msgstr "அகற்று"
+
+#, java-printf-format
+msgctxt "edit_identity_description_label"
+msgid "Identity description"
+msgstr "அடையாள விளக்கம்"
+
+#, java-printf-format
+msgctxt "edit_identity_description_hint"
+msgid "(Optional)"
+msgstr "(விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "edit_identity_name_label"
+msgid "Your name"
+msgstr "உங்கள் பெயர்"
+
+#, java-printf-format
+msgctxt "edit_identity_name_hint"
+msgid "(Optional)"
+msgstr "(விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "edit_identity_email_label"
+msgid "Email address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+#, java-printf-format
+msgctxt "edit_identity_email_hint"
+msgid "(Required)"
+msgstr "(தேவை)"
+
+#, java-printf-format
+msgctxt "edit_identity_reply_to_label"
+msgid "Reply-to address"
+msgstr "பதில் முகவரி"
+
+#, java-printf-format
+msgctxt "edit_identity_reply_to_hint"
+msgid "(Optional)"
+msgstr "(விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "edit_identity_signature_label"
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+#, java-printf-format
+msgctxt "edit_identity_signature_hint"
+msgid "(Optional)"
+msgstr "(விரும்பினால்)"
+
+#, java-printf-format
+msgctxt "account_settings_signature_use_label"
+msgid "Use Signature"
+msgstr "கையொப்பத்தைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "account_settings_signature_label"
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+#, java-printf-format
+msgctxt "default_identity_description"
+msgid "Initial identity"
+msgstr "ஆரம்ப அடையாளம்"
+
+#, java-printf-format
+msgctxt "choose_identity_title"
+msgid "Choose identity"
+msgstr "அடையாளத்தைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "send_as"
+msgid "Send as"
+msgstr "அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "no_removable_identity"
+msgid "You can't remove your only identity"
+msgstr "உங்கள் ஒரே அடையாளத்தை அகற்ற முடியாது"
+
+#, java-printf-format
+msgctxt "identity_has_no_email"
+msgid "You can't use an identity without an email address"
+msgstr "மின்னஞ்சல் முகவரி இல்லாமல் நீங்கள் அடையாளத்தைப் பயன்படுத்த முடியாது"
+
+#, java-printf-format
+msgctxt "sort_earliest_first"
+msgid "Earliest messages first"
+msgstr "முதலில் ஆரம்ப செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_latest_first"
+msgid "Latest messages first"
+msgstr "முதலில் அண்மைக் கால செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_subject_alpha"
+msgid "Subject alphabetical"
+msgstr "பொருள் அகரவரிசை"
+
+#, java-printf-format
+msgctxt "sort_subject_re_alpha"
+msgid "Subject reverse alphabetical"
+msgstr "பொருள் தலைகீழ் அகர வரிசைப்படி"
+
+#, java-printf-format
+msgctxt "sort_sender_alpha"
+msgid "Sender alphabetical"
+msgstr "அனுப்புநர் அகரவரிசை"
+
+#, java-printf-format
+msgctxt "sort_sender_re_alpha"
+msgid "Sender reverse alphabetical"
+msgstr "அனுப்புநர் தலைகீழ் அகர வரிசைப்படி"
+
+#, java-printf-format
+msgctxt "sort_flagged_first"
+msgid "Starred messages first"
+msgstr "முதலில் நடித்த செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_flagged_last"
+msgid "Unstarred messages first"
+msgstr "முதலில் அமைக்கப்படாத செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_unread_first"
+msgid "Unread messages first"
+msgstr "முதலில் படிக்காத செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_unread_last"
+msgid "Read messages first"
+msgstr "முதலில் செய்திகளைப் படியுங்கள்"
+
+#, java-printf-format
+msgctxt "sort_attach_first"
+msgid "Messages with attachments first"
+msgstr "முதலில் இணைப்புகளுடன் செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_unattached_first"
+msgid "Messages without attachments first"
+msgstr "முதலில் இணைப்புகள் இல்லாத செய்திகள்"
+
+#, java-printf-format
+msgctxt "sort_by"
+msgid "Sort by…"
+msgstr "வரிசைப்படுத்தவும்…"
+
+#, java-printf-format
+msgctxt "sort_by_date"
+msgid "Date"
+msgstr "திகதி"
+
+#, java-printf-format
+msgctxt "sort_by_arrival"
+msgid "Arrival"
+msgstr "வருகை"
+
+#, java-printf-format
+msgctxt "sort_by_subject"
+msgid "Subject"
+msgstr "பொருள்"
+
+#, java-printf-format
+msgctxt "sort_by_sender"
+msgid "Sender"
+msgstr "அனுப்புநர்"
+
+#, java-printf-format
+msgctxt "sort_by_flag"
+msgid "Star"
+msgstr "விண்மீன்"
+
+#, java-printf-format
+msgctxt "sort_by_unread"
+msgid "Read/unread"
+msgstr "படிக்க/படிக்காதது"
+
+#, java-printf-format
+msgctxt "sort_by_attach"
+msgid "Attachments"
+msgstr "இணைப்புகள்"
+
+#, java-printf-format
+msgctxt "account_delete_dlg_title"
+msgid "Remove Account"
+msgstr "கணக்கை அகற்று"
+
+#, java-printf-format
+msgctxt "folder_list_filter_hint"
+msgid "Folder name contains"
+msgstr "கோப்புறை பெயர் உள்ளது"
+
+#, java-printf-format
+msgctxt "folder_list_show_hidden_folders"
+msgid "Show hidden folders"
+msgstr "மறைக்கப்பட்ட கோப்புறைகளைக் காட்டு"
+
+#, java-printf-format
+msgctxt "account_settings_signature__location_label"
+msgid "Signature position"
+msgstr "கையொப்ப நிலை"
+
+#, java-printf-format
+msgctxt "account_settings_signature__location_before_quoted_text"
+msgid "Before quoted message"
+msgstr "மேற்கோள் செய்திக்கு முன்"
+
+#, java-printf-format
+msgctxt "account_settings_signature__location_after_quoted_text"
+msgid "After quoted message"
+msgstr "மேற்கோள் செய்த பிறகு"
+
+#, java-printf-format
+msgctxt "setting_theme_global"
+msgid "Use app theme"
+msgstr "பயன்பாட்டு கருப்பொருளைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "setting_theme_dark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, java-printf-format
+msgctxt "setting_theme_light"
+msgid "Light"
+msgstr "ஒளி"
+
+#, java-printf-format
+msgctxt "setting_theme_follow_system"
+msgid "Use system default"
+msgstr "கணினி இயல்புநிலையைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "display_preferences"
+msgid "Display"
+msgstr "காட்சி"
+
+#, java-printf-format
+msgctxt "global_preferences"
+msgid "Global"
+msgstr "உலகளாவிய"
+
+#, java-printf-format
+msgctxt "debug_preferences"
+msgid "Debugging"
+msgstr "பிழைத்திருத்தம்"
+
+#, java-printf-format
+msgctxt "privacy_preferences"
+msgid "Privacy"
+msgstr "தனியுரிமை"
+
+#, java-printf-format
+msgctxt "network_preferences"
+msgid "Network"
+msgstr "பிணையம்"
+
+#, java-printf-format
+msgctxt "interaction_preferences"
+msgid "Interaction"
+msgstr "உள்வினை"
+
+#, java-printf-format
+msgctxt "accountlist_preferences"
+msgid "Account list"
+msgstr "கணக்கு பட்டியல்"
+
+#, java-printf-format
+msgctxt "messagelist_preferences"
+msgid "Message lists"
+msgstr "செய்தி பட்டியல்கள்"
+
+#, java-printf-format
+msgctxt "messageview_preferences"
+msgid "Messages"
+msgstr "செய்திகள்"
+
+#, java-printf-format
+msgctxt "settings_theme_label"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "settings_message_theme_label"
+msgid "Message view theme"
+msgstr "செய்தி பார்வை கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "settings_compose_theme_label"
+msgid "Composer theme"
+msgstr "இசையமைப்பாளர் கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "settings_language_label"
+msgid "Language"
+msgstr "மொழி"
+
+#, java-printf-format
+msgctxt "preference_search_no_results"
+msgid "No settings found"
+msgstr "அமைப்புகள் எதுவும் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "settings_message_theme_selection_label"
+msgid "Fixed message theme"
+msgstr "நிலையான செய்தி கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "settings_message_theme_selection_summary_off"
+msgid "Select the message view theme while viewing the message"
+msgstr "செய்தியைப் பார்க்கும்போது செய்தி பார்வை கருப்பொருள் தேர்ந்தெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_message_theme_selection_summary_on"
+msgid "Use a fixed message view theme"
+msgstr "நிலையான செய்தி பார்வை கருப்பொருளைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "setting_language_system"
+msgid "System default"
+msgstr "கணினி இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "background_ops_label"
+msgid "Background sync"
+msgstr "பின்னணி ஒத்திசைவு"
+
+#, java-printf-format
+msgctxt "background_ops_never"
+msgid "Never"
+msgstr "ஒருபொழுதும்"
+
+#, java-printf-format
+msgctxt "background_ops_always"
+msgid "Always"
+msgstr "எப்பொழுதும்"
+
+#, java-printf-format
+msgctxt "background_ops_auto_sync_only"
+msgid "When 'Auto-sync' is checked"
+msgstr "'ஆட்டோ-ஒத்திசைவு' சரிபார்க்கப்படும் போது"
+
+#, java-printf-format
+msgctxt "batch_select_all"
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_label"
+msgid "Max folders to check with push"
+msgstr "புச் மூலம் சரிபார்க்க அதிகபட்ச கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_5"
+msgid "5 folders"
+msgstr "5 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_10"
+msgid "10 folders"
+msgstr "10 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_25"
+msgid "25 folders"
+msgstr "25 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_50"
+msgid "50 folders"
+msgstr "50 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_100"
+msgid "100 folders"
+msgstr "100 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_250"
+msgid "250 folders"
+msgstr "250 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_500"
+msgid "500 folders"
+msgstr "500 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "account_setup_push_limit_1000"
+msgid "1000 folders"
+msgstr "1000 கோப்புறைகள்"
+
+#, java-printf-format
+msgctxt "animations_title"
+msgid "Animation"
+msgstr "அனிமேசன்"
+
+#, java-printf-format
+msgctxt "animations_summary"
+msgid "Use gaudy visual effects"
+msgstr "அழகிய காட்சி விளைவுகளைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "volume_navigation_title_short"
+msgid "Volume key navigation"
+msgstr "தொகுதி விசை வழிசெலுத்தல்"
+
+#, java-printf-format
+msgctxt "volume_navigation_summary"
+msgid "Navigate between messages using the volume keys in message view"
+msgstr ""
+"செய்தி பார்வையில் தொகுதி விசைகளைப் பயன்படுத்தி செய்திகளுக்கு இடையில் "
+"செல்லவும்"
+
+#, java-printf-format
+msgctxt "show_unified_inbox_title"
+msgid "Show Unified Inbox"
+msgstr "ஒருங்கிணைந்த இன்பாக்சைக் காட்டு"
+
+#, java-printf-format
+msgctxt "show_starred_count_title"
+msgid "Show starred count"
+msgstr "சோ ச்டாரி கவுண்ட்"
+
+#, java-printf-format
+msgctxt "integrated_inbox_title"
+msgid "Unified Inbox"
+msgstr "ஒருங்கிணைந்த இன்பாக்ச்"
+
+#, java-printf-format
+msgctxt "integrated_inbox_detail"
+msgid "All messages in unified folders"
+msgstr "ஒருங்கிணைந்த கோப்புறைகளில் உள்ள அனைத்து செய்திகளும்"
+
+#, java-printf-format
+msgctxt "folder_settings_include_in_integrated_inbox_label"
+msgid "Unify"
+msgstr "ஒன்றுபடுங்கள்"
+
+#, java-printf-format
+msgctxt "account_settings_no_folder_selected"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "account_settings_automatic_special_folder"
+msgid "Automatic (%s)"
+msgstr "தானியங்கி (%s)"
+
+#, java-printf-format
+msgctxt "font_size_settings_title"
+msgid "Font size"
+msgstr "எழுத்துரு அளவு"
+
+#, java-printf-format
+msgctxt "font_size_settings_description"
+msgid "Configure font size"
+msgstr "எழுத்துரு அளவை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "font_size_message_list"
+msgid "Message lists"
+msgstr "செய்தி பட்டியல்கள்"
+
+#, java-printf-format
+msgctxt "font_size_message_list_subject"
+msgid "Subject"
+msgstr "பொருள்"
+
+#, java-printf-format
+msgctxt "font_size_message_list_sender"
+msgid "Sender"
+msgstr "அனுப்புநர்"
+
+#, java-printf-format
+msgctxt "font_size_message_list_date"
+msgid "Date"
+msgstr "திகதி"
+
+#, java-printf-format
+msgctxt "font_size_message_list_preview"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#, java-printf-format
+msgctxt "font_size_message_view"
+msgid "Messages"
+msgstr "செய்திகள்"
+
+#.  Displayed in the font size settings screen to configure the font size of
+#. the account name in the message view.
+#, java-printf-format
+msgctxt "font_size_message_view_account"
+msgid "Account name"
+msgstr "கணக்கு பெயர்"
+
+#, java-printf-format
+msgctxt "font_size_message_view_sender"
+msgid "Sender"
+msgstr "அனுப்புநர்"
+
+#, java-printf-format
+msgctxt "font_size_message_view_recipients"
+msgid "Recipients"
+msgstr "பெறுநர்கள்"
+
+#. Displayed in the font size settings screen to configure the font size of
+#. the account name in the message view.
+#, java-printf-format
+msgctxt "font_size_message_view_subject"
+msgid "Subject"
+msgstr "பொருள்"
+
+#, java-printf-format
+msgctxt "font_size_message_view_date"
+msgid "Time and date"
+msgstr "நேரம் மற்றும் தேதி"
+
+#, java-printf-format
+msgctxt "font_size_message_view_content"
+msgid "Message body"
+msgstr "செய்தி உடல்"
+
+#, java-printf-format
+msgctxt "font_size_message_compose"
+msgid "Message composition"
+msgstr "செய்தி கலவை"
+
+#, java-printf-format
+msgctxt "font_size_message_compose_input"
+msgid "Text input fields"
+msgstr "உரை உள்ளீட்டு புலங்கள்"
+
+#, java-printf-format
+msgctxt "font_size_default"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "font_size_tiniest"
+msgid "Tiniest"
+msgstr "மிகச்சிறிய"
+
+#, java-printf-format
+msgctxt "font_size_tiny"
+msgid "Tiny"
+msgstr "சிறிய"
+
+#, java-printf-format
+msgctxt "font_size_smaller"
+msgid "Smaller"
+msgstr "சிறிய"
+
+#, java-printf-format
+msgctxt "font_size_small"
+msgid "Small"
+msgstr "சிறிய"
+
+#, java-printf-format
+msgctxt "font_size_medium"
+msgid "Medium"
+msgstr "சராசரி"
+
+#, java-printf-format
+msgctxt "font_size_large"
+msgid "Large"
+msgstr "பெரிய"
+
+#, java-printf-format
+msgctxt "font_size_larger"
+msgid "Larger"
+msgstr "பெரியது"
+
+#, java-printf-format
+msgctxt "error_activity_not_found"
+msgid "No suitable application for this action found."
+msgstr "இந்த செயலுக்கு பொருத்தமான பயன்பாடு எதுவும் கிடைக்கவில்லை."
+
+#, java-printf-format
+msgctxt "send_failed_reason"
+msgid "Send failed: %s"
+msgstr "தோல்வியுற்றதை அனுப்பு: %s"
+
+#, java-printf-format
+msgctxt "save_or_discard_draft_message_dlg_title"
+msgid "Save draft message?"
+msgstr "வரைவு செய்தியைச் சேமிக்கவா?"
+
+#, java-printf-format
+msgctxt "save_or_discard_draft_message_instructions_fmt"
+msgid "Save or Discard this message?"
+msgstr "இந்த செய்தியைச் சேமிக்கவா அல்லது நிராகரிக்கவா?"
+
+#, java-printf-format
+msgctxt "save_or_discard_draft_message_changes"
+msgid "Save or Discard changes?"
+msgstr "மாற்றங்களைச் சேமிக்கவா அல்லது நிராகரிக்கவா?"
+
+#, java-printf-format
+msgctxt "confirm_discard_draft_message_title"
+msgid "Discard message?"
+msgstr "செய்தியை நிராகரிக்கவா?"
+
+#, java-printf-format
+msgctxt "confirm_discard_draft_message"
+msgid "Are you sure you want to discard this message?"
+msgstr "இந்த செய்தியை நிராகரிக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_clear_local_folder_title"
+msgid "Clear local messages?"
+msgstr "உள்ளக செய்திகளை அழிக்கவா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_clear_local_folder_message"
+msgid ""
+"This will remove all local messages from the folder. No messages will be "
+"deleted from the server."
+msgstr ""
+"இது அனைத்து உள்ளக செய்திகளையும் கோப்புறையிலிருந்து அகற்றும். "
+"சேவையகத்திலிருந்து எந்த செய்திகளும் நீக்கப்படாது."
+
+#, java-printf-format
+msgctxt "dialog_confirm_clear_local_folder_action"
+msgid "Clear messages"
+msgstr "செய்திகளை அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_delete_title"
+msgid "Confirm deletion"
+msgstr "நீக்குதலை உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_delete_message"
+msgid "Do you want to delete this message?"
+msgstr "இந்த செய்தியை நீக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_delete_messages"
+msgid "Do you really want to delete this message?"
+msgid_plural ""
+"Do you really want to delete <xliff:g id=\"message_count\">%1$d</xliff:g> "
+"messages?"
+msgstr[0] "இந்த செய்தியை நீக்க விரும்புகிறீர்களா?"
+msgstr[1] ""
+"<Xliff: g ஐடி = \"message_count\">%1$d </xliff: g> செய்திகளை நீக்க "
+"விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_delete_confirm_button"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_delete_cancel_button"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "dialog_confirm_mark_all_as_read_title"
+msgid "Confirm mark all as read"
+msgstr "அனைத்தையும் படித்தபடி உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_mark_all_as_read_message"
+msgid "Do you want to mark all messages as read?"
+msgstr "எல்லா செய்திகளையும் படிக்க விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_empty_spam_title"
+msgid "Confirm empty spam"
+msgstr "வெற்று ச்பேம் உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_empty_spam_message"
+msgid "Do you want to empty the spam folder?"
+msgstr "ச்பேம் கோப்புறையை வெறுமை செய்ய விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_empty_trash_title"
+msgid "Confirm empty trash"
+msgstr "வெற்று குப்பைகளை உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_empty_trash_message"
+msgid "Do you want to empty the trash folder?"
+msgstr "குப்பை கோப்புறையை வெறுமை செய்ய விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_mark_all_as_read_confirm_button"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_mark_all_as_read_cancel_button"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "dialog_confirm_spam_title"
+msgid "Confirm move to spam folder"
+msgstr "ச்பேம் கோப்புறைக்கு நகர்வதை உறுதிப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_spam_message"
+msgid "Do you really want to move this message to the spam folder?"
+msgid_plural ""
+"Do you really want to move <xliff:g id=\"message_count\">%1$d</xliff:g> "
+"messages to the spam folder?"
+msgstr[0] "இந்த செய்தியை ச்பேம் கோப்புறையில் நகர்த்த விரும்புகிறீர்களா?"
+msgstr[1] ""
+"நீங்கள் உண்மையில் <xliff: g ஐடி = \"message_count\">%1$d </xliff: g> ச்பேம் "
+"கோப்புறையில் செய்திகளை நகர்த்த விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "dialog_confirm_spam_confirm_button"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, java-printf-format
+msgctxt "dialog_confirm_spam_cancel_button"
+msgid "No"
+msgstr "இல்லை"
+
+#, java-printf-format
+msgctxt "dialog_attachment_progress_title"
+msgid "Downloading attachment"
+msgstr "இணைப்பு பதிவிறக்குதல்"
+
+#, java-printf-format
+msgctxt "settings_list_backup_category"
+msgid "Backup"
+msgstr "காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "settings_list_miscellaneous_category"
+msgid "Miscellaneous"
+msgstr "மற்றவை"
+
+#, java-printf-format
+msgctxt "settings_list_action_support"
+msgid "Support <xliff:g id=\"app_name\">%s</xliff:g>"
+msgstr "உதவி <xliff: g ஐடி = \"app_name\">%s </xliff: g>"
+
+#, java-printf-format
+msgctxt "settings_export_title"
+msgid "Export settings"
+msgstr "ஏற்றுமதி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "settings_export_button"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, java-printf-format
+msgctxt "settings_export_share_button"
+msgid "Share"
+msgstr "பகிர்"
+
+#, java-printf-format
+msgctxt "settings_export_progress_text"
+msgid "Exporting settings…"
+msgstr "ஏற்றுமதி அமைப்புகள்…"
+
+#, java-printf-format
+msgctxt "settings_export_success_generic"
+msgid "Settings successfully exported"
+msgstr "அமைப்புகள் வெற்றிகரமாக ஏற்றுமதி செய்யப்பட்டன"
+
+#, java-printf-format
+msgctxt "settings_export_failure"
+msgid "Failed to export settings"
+msgstr "அமைப்புகளை ஏற்றுமதி செய்யத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "webview_empty_message"
+msgid "No text"
+msgstr "உரை இல்லை"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_link_view_action"
+msgid "Open link"
+msgstr "இணைப்பை திற"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_link_share_action"
+msgid "Share link"
+msgstr "இணைப்பைப் பகிரவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_link_copy_action"
+msgid "Copy link to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு இணைப்பை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_link_clipboard_label"
+msgid "Link"
+msgstr "இணைப்பு"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_link_text_copy_action"
+msgid "Copy link text to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு இணைப்பு உரையை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_link_text_clipboard_label"
+msgid "Link text"
+msgstr "இணைப்பு உரை"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_image_title"
+msgid "Image"
+msgstr "படம்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_image_view_action"
+msgid "View image"
+msgstr "படத்தைக் காண்க"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_image_save_action"
+msgid "Save image"
+msgstr "படத்தை சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_image_download_action"
+msgid "Download image"
+msgstr "படத்தைப் பதிவிறக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_image_copy_action"
+msgid "Copy image URL to clipboard"
+msgstr "பட முகவரி ஐ இடைநிலைப்பலகைக்கு நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_image_clipboard_label"
+msgid "Image URL"
+msgstr "பட முகவரி"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_phone_call_action"
+msgid "Call number"
+msgstr "அழைப்பு எண்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_phone_save_action"
+msgid "Save to Contacts"
+msgstr "தொடர்புகளுக்கு சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_phone_copy_action"
+msgid "Copy number to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு எண்ணை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_phone_clipboard_label"
+msgid "Phone number"
+msgstr "தொலைபேசி எண்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_email_send_action"
+msgid "Send mail"
+msgstr "அஞ்சல் அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_email_save_action"
+msgid "Save to Contacts"
+msgstr "தொடர்புகளுக்கு சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_email_copy_action"
+msgid "Copy address to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு முகவரியை நகலெடுக்கவும்"
+
+#, java-printf-format
+msgctxt "webview_contextmenu_email_clipboard_label"
+msgid "Email address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+#. Displayed after importing accounts when one or multiple accounts require
+#. entering a password
+#. Displayed after importing accounts when one or multiple accounts require to
+#. use the OAuth authorization flow
+#. Displayed after importing accounts when some accounts require entering a
+#. password and some to use the OAuth authorization flow
+#. Content description for the icon that is displayed next to an imported
+#. account that requires sign-in
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_all"
+msgid "All"
+msgstr "அனைத்தும்"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_10"
+msgid "10"
+msgstr "10"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_25"
+msgid "25"
+msgstr "25"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_50"
+msgid "50"
+msgstr "50"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_100"
+msgid "100"
+msgstr "100"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_250"
+msgid "250"
+msgstr "250"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_500"
+msgid "500"
+msgstr "500"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_results_entries_1000"
+msgid "1000"
+msgstr "1000"
+
+#, java-printf-format
+msgctxt "account_settings_remote_search_num_label"
+msgid "Server search limit"
+msgstr "வழங்கி தேடல் வரம்பு"
+
+#, java-printf-format
+msgctxt "remote_search_sending_query"
+msgid "Sending query to server"
+msgstr "சேவையகத்திற்கு வினவலை அனுப்புகிறது"
+
+#, java-printf-format
+msgctxt "remote_search_downloading"
+msgid "Fetching %d result"
+msgid_plural "Fetching %d results"
+msgstr[0] "%d முடிவைப் பெறுதல்"
+msgstr[1] "%d முடிவுகளைப் பெறுதல்"
+
+#, java-printf-format
+msgctxt "remote_search_downloading_limited"
+msgid "Fetching %1$d of %2$d results"
+msgid_plural "Fetching %1$d of %2$d results"
+msgstr[0] "%2$d முடிவுகளின் %1$d ஐப் பெறுகிறது"
+msgstr[1] "%2$d முடிவுகளின் %1$d ஐப் பெறுகிறது"
+
+#, java-printf-format
+msgctxt "remote_search_error"
+msgid "Remote search failed"
+msgstr "தொலைநிலை தேடல் தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "account_settings_search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, java-printf-format
+msgctxt "action_remote_search"
+msgid "Search messages on server"
+msgstr "வழங்கியில் தேடு"
+
+#, java-printf-format
+msgctxt "remote_search_unavailable_no_network"
+msgid "A network connection is required for server search."
+msgstr "சேவையக தேடலுக்கு பிணைய இணைப்பு தேவை."
+
+#, java-printf-format
+msgctxt "global_settings_background_as_unread_indicator_label"
+msgid "Change colour when read"
+msgstr "படிக்கும்போது நிறத்தை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "global_settings_background_as_unread_indicator_summary"
+msgid "A different background will show that the message has been read"
+msgstr "செய்தி படிக்கப்பட்டிருப்பதை வேறு பின்னணி காண்பிக்கும்"
+
+#, java-printf-format
+msgctxt "global_settings_threaded_view_label"
+msgid "Threaded view"
+msgstr "திரிக்கப்பட்ட பார்வை"
+
+#, java-printf-format
+msgctxt "global_settings_threaded_view_summary"
+msgid "Group messages by conversation"
+msgstr "உரையாடல் மூலம் குழு செய்திகள்"
+
+#, java-printf-format
+msgctxt "upgrade_databases_title"
+msgid "Upgrading databases"
+msgstr "தரவுத்தளங்கள் மேம்படுகிறது"
+
+#, java-printf-format
+msgctxt "upgrade_databases_unspecified"
+msgid "Upgrading databases…"
+msgstr "தரவுத்தளங்கள் மேம்படுகிறது…"
+
+#, java-printf-format
+msgctxt "upgrade_database_format"
+msgid "Upgrading database of account \"<xliff:g id=\"account\">%s</xliff:g>\""
+msgstr ""
+"கணக்கின் தரவுத்தளத்தை மேம்படுத்துதல்: <xliff:g id=\"account\">%s</xliff:g>"
+
+#, java-printf-format
+msgctxt "global_settings_splitview_mode_label"
+msgid "Show split-screen"
+msgstr "திரையை வெட்டிக்காட்டு"
+
+#, java-printf-format
+msgctxt "global_settings_splitview_always"
+msgid "Always"
+msgstr "எப்பொழுதும்"
+
+#, java-printf-format
+msgctxt "global_settings_splitview_never"
+msgid "Never"
+msgstr "ஒருபொழுதும்"
+
+#, java-printf-format
+msgctxt "global_settings_splitview_when_in_landscape"
+msgid "When in Landscape orientation"
+msgstr "அகலத்திரையி"
+
+#, java-printf-format
+msgctxt "message_view_empty"
+msgid "Please select a message on the left"
+msgstr "வலப்புறம் ஒர் அஞ்சல் தெரிவு செய்"
+
+#, java-printf-format
+msgctxt "global_settings_show_contact_picture_label"
+msgid "Show contact pictures"
+msgstr "தொடர்பு படம் காட்டு"
+
+#, java-printf-format
+msgctxt "global_settings_show_contact_picture_summary"
+msgid "Show contact pictures in the message list"
+msgstr "செய்தி பட்டியலில் தொடர்பு படங்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "mark_all_as_read"
+msgid "Mark all as read"
+msgstr "அனைத்தையும் படித்தபடி குறிக்கவும்"
+
+#, java-printf-format
+msgctxt "global_settings_colorize_missing_contact_pictures_label"
+msgid "Colorize contact pictures"
+msgstr "தொடர்பு படங்களை வண்ணமயமாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "global_settings_colorize_missing_contact_pictures_summary"
+msgid "Colorize missing contact pictures"
+msgstr "காணாமல் போன தொடர்பு படங்களை வண்ணமயமாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "global_settings_messageview_visible_refile_actions_title"
+msgid "Visible message actions"
+msgstr "புலப்படும் செய்தி செயல்கள்"
+
+#, java-printf-format
+msgctxt "global_settings_messageview_visible_refile_actions_summary"
+msgid "Show selected actions in the message view menu"
+msgstr "செய்தி காட்சி பட்டியலில் தேர்ந்தெடுக்கப்பட்ட செயல்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "loading_attachment"
+msgid "Loading attachment…"
+msgstr "இணைப்பை ஏற்றுகிறது…"
+
+#, java-printf-format
+msgctxt "fetching_attachment_dialog_title_send"
+msgid "Sending message"
+msgstr "செய்தி அனுப்புகிறது"
+
+#, java-printf-format
+msgctxt "fetching_attachment_dialog_title_save"
+msgid "Saving draft"
+msgstr "வரைவு சேமிப்பு"
+
+#, java-printf-format
+msgctxt "fetching_attachment_dialog_message"
+msgid "Fetching attachment…"
+msgstr "இணைப்பைப் பெறுதல்…"
+
+#.  Note: This references message_view_download_remainder
+#, java-printf-format
+msgctxt "preview_encrypted"
+msgid "*Encrypted*"
+msgstr "*மறைகுறியாக்கப்பட்டது*"
+
+#, java-printf-format
+msgctxt "add_from_contacts"
+msgid "Add from Contacts"
+msgstr "தொடர்புகளிலிருந்து சேர்க்கவும்"
+
+#. === Client certificates specific
+#. ==================================================================
+#. Note: This references message_view_download_remainder
+#, java-printf-format
+msgctxt "recipient_cc"
+msgid "Cc"
+msgstr "நகல்"
+
+#, java-printf-format
+msgctxt "recipient_bcc"
+msgid "Bcc"
+msgstr "மறை நகல்"
+
+#, java-printf-format
+msgctxt "recipient_to"
+msgid "To"
+msgstr "பெறுநர்"
+
+#, java-printf-format
+msgctxt "recipient_from"
+msgid "From"
+msgstr "இருந்து"
+
+#, java-printf-format
+msgctxt "reply_to_label"
+msgid "Reply to"
+msgstr "பதில்"
+
+#, java-printf-format
+msgctxt "expand_content_description"
+msgid "Expand"
+msgstr "விரிவாக்கு"
+
+#, java-printf-format
+msgctxt "unknown_recipient"
+msgid "<Unknown Recipient>"
+msgstr "<அறியப்படாத பெறுநர்>"
+
+#, java-printf-format
+msgctxt "unknown_sender"
+msgid "<Unknown Sender>"
+msgstr "<அறியப்படாத அனுப்புநர்>"
+
+#, java-printf-format
+msgctxt "address_type_home"
+msgid "Home"
+msgstr "வீடு"
+
+#, java-printf-format
+msgctxt "address_type_work"
+msgid "Work"
+msgstr "வேலை"
+
+#, java-printf-format
+msgctxt "address_type_other"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, java-printf-format
+msgctxt "address_type_mobile"
+msgid "Mobile"
+msgstr "மொபைல்"
+
+#, java-printf-format
+msgctxt "compose_error_no_draft_folder"
+msgid "No Drafts folder configured for this account!"
+msgstr "இந்த கணக்கிற்காக எந்த வரைவுகள் கோப்புறை கட்டமைக்கப்படவில்லை!"
+
+#, java-printf-format
+msgctxt "compose_error_no_key_configured"
+msgid "No key configured for this account! Check your settings."
+msgstr ""
+"இந்த கணக்கிற்கு எந்த விசையும் கட்டமைக்கப்படவில்லை! உங்கள் அமைப்புகளை "
+"சரிபார்க்கவும்."
+
+#, java-printf-format
+msgctxt "error_crypto_provider_incompatible"
+msgid "Crypto provider uses incompatible version. Please check your settings!"
+msgstr ""
+"மறையீட்டு வழங்குநர் பொருந்தாத பதிப்பைப் பயன்படுத்துகிறார். உங்கள் அமைப்புகளை"
+" சரிபார்க்கவும்!"
+
+#, java-printf-format
+msgctxt "error_crypto_provider_connect"
+msgid ""
+"Cannot connect to crypto provider, check your settings or click crypto icon "
+"to retry!"
+msgstr ""
+"மறையீட்டு வழங்குநருடன் இணைக்க முடியாது, உங்கள் அமைப்புகளை சரிபார்க்கவும் "
+"அல்லது மீண்டும் முயற்சிக்க மறையீட்டு ஐகானைக் சொடுக்கு செய்யவும்!"
+
+#, java-printf-format
+msgctxt "error_crypto_provider_ui_required"
+msgid "Failed to initialize end-to-end encryption, please check your settings"
+msgstr ""
+"இறுதி முதல் இறுதி குறியாக்கத்தைத் தொடங்குவதில் தோல்வி, தயவுசெய்து உங்கள் "
+"அமைப்புகளை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "error_crypto_inline_attach"
+msgid "PGP/INLINE mode does not support attachments!"
+msgstr "பிசிபி/இன்லைன் பயன்முறை இணைப்புகளை ஆதரிக்காது!"
+
+#, java-printf-format
+msgctxt "enable_inline_pgp"
+msgid "Enable PGP/INLINE"
+msgstr "பிசிபி/இன்லைன் இயக்கவும்"
+
+#, java-printf-format
+msgctxt "disable_inline_pgp"
+msgid "Disable PGP/INLINE"
+msgstr "பிசிபி/இன்லைன் முடக்கு"
+
+#, java-printf-format
+msgctxt "enable_sign_only"
+msgid "Enable PGP Sign-Only"
+msgstr "பிசிபி கையொப்பத்தை மட்டும் இயக்கவும்"
+
+#, java-printf-format
+msgctxt "disable_sign_only"
+msgid "Disable PGP Sign-Only"
+msgstr "பிசிபி கையொப்பத்தை மட்டும் முடக்கு"
+
+#, java-printf-format
+msgctxt "openpgp_inline_title"
+msgid "PGP/INLINE Mode"
+msgstr "பிசிபி/இன்லைன் பயன்முறை"
+
+#, java-printf-format
+msgctxt "openpgp_inline_text"
+msgid ""
+"The email is sent in PGP/INLINE format.\n"
+"This should only be used for compatibility:"
+msgstr ""
+"மின்னஞ்சல் பிசிபி/இன்லைன் வடிவத்தில் அனுப்பப்படுகிறது.\n"
+" இது பொருந்தக்கூடிய தன்மைக்கு மட்டுமே பயன்படுத்தப்பட வேண்டும்:"
+
+#, java-printf-format
+msgctxt "openpgp_inline_plus_compat"
+msgid "Some clients only support this format"
+msgstr "சில வாடிக்கையாளர்கள் இந்த வடிவமைப்பை மட்டுமே ஆதரிக்கிறார்கள்"
+
+#, java-printf-format
+msgctxt "openpgp_inline_minus_transit"
+msgid "Signatures may break during transit"
+msgstr "போக்குவரத்தின் போது கையொப்பங்கள் உடைக்கலாம்"
+
+#, java-printf-format
+msgctxt "openpgp_inline_minus_attach"
+msgid "Attachments are not supported"
+msgstr "இணைப்புகள் ஆதரிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "openpgp_inline_ok"
+msgid "Got it!"
+msgstr "கிடைத்தது!"
+
+#, java-printf-format
+msgctxt "openpgp_inline_disable"
+msgid "Disable"
+msgstr "முடக்கு"
+
+#, java-printf-format
+msgctxt "openpgp_inline_keep_enabled"
+msgid "Keep Enabled"
+msgstr "இயக்கப்பட்டிருங்கள்"
+
+#, java-printf-format
+msgctxt "openpgp_sign_only_ok"
+msgid "Got it!"
+msgstr "கிடைத்தது!"
+
+#, java-printf-format
+msgctxt "openpgp_sign_only_disable"
+msgid "Disable"
+msgstr "முடக்கு"
+
+#, java-printf-format
+msgctxt "openpgp_sign_only_keep_enabled"
+msgid "Keep Enabled"
+msgstr "இயக்கப்பட்டிருங்கள்"
+
+#, java-printf-format
+msgctxt "openpgp_dialog_sign_only_title"
+msgid "PGP Sign-Only Mode"
+msgstr "பிசிபி அடையாளம் மட்டும் பயன்முறை"
+
+#, java-printf-format
+msgctxt "openpgp_dialog_sign_only_text"
+msgid ""
+"In this mode, your PGP key will be used to create a cryptographic signature "
+"of an unencrypted email."
+msgstr ""
+"இந்த பயன்முறையில், மறைகுறியாக்கப்பட்ட மின்னஞ்சலின் கிரிப்டோகிராஃபிக் "
+"கையொப்பத்தை உருவாக்க உங்கள் பிசிபி விசை பயன்படுத்தப்படும்."
+
+#, java-printf-format
+msgctxt "openpgp_dialog_sign_only_plus_verified"
+msgid ""
+"This does not encrypt the email, but verifies that it was sent from your "
+"key."
+msgstr ""
+"இது மின்னஞ்சலை குறியாக்கவில்லை, ஆனால் அது உங்கள் விசையிலிருந்து "
+"அனுப்பப்பட்டதை சரிபார்க்கிறது."
+
+#, java-printf-format
+msgctxt "openpgp_dialog_sign_only_minus_break"
+msgid "Signatures may break when sent to mailing lists."
+msgstr "அஞ்சல் பட்டியல்களுக்கு அனுப்பும்போது கையொப்பங்கள் உடைக்கப்படலாம்."
+
+#, java-printf-format
+msgctxt "openpgp_dialog_sign_only_minus_attach"
+msgid ""
+"Signatures may be displayed as 'signature.asc' attachments in some clients."
+msgstr ""
+"சில வாடிக்கையாளர்களில் கையொப்பங்கள் 'கையொப்பம்.ஆச்க்' இணைப்புகளாகக் "
+"காட்டப்படலாம்."
+
+#, java-printf-format
+msgctxt "openpgp_dialog_sign_only_neutral_encsigned"
+msgid "Encrypted messages always include a signature."
+msgstr "மறைகுறியாக்கப்பட்ட செய்திகளில் எப்போதும் கையொப்பம் அடங்கும்."
+
+#, java-printf-format
+msgctxt "crypto_msg_title_plaintext"
+msgid "Plaintext"
+msgstr "எளிய உரை"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_error"
+msgid "end-to-end signature contained an error"
+msgstr "இறுதி முதல் இறுதி கையொப்பத்தில் பிழை இருந்தது"
+
+#, java-printf-format
+msgctxt "crypto_msg_incomplete_signed"
+msgid "must fully download message to process signature"
+msgstr "கையொப்பத்தை செயலாக்க செய்தியை முழுமையாக பதிவிறக்கம் செய்ய வேண்டும்"
+
+#, java-printf-format
+msgctxt "crypto_msg_unsupported_signed"
+msgid "contains unsupported end-to-end signature"
+msgstr "ஆதரிக்கப்படாத இறுதி முதல் இறுதி கையொப்பம் உள்ளது"
+
+#, java-printf-format
+msgctxt "crypto_msg_unsupported_encrypted"
+msgid "Message is encrypted, but in an unsupported format."
+msgstr "செய்தி குறியாக்கம் செய்யப்பட்டுள்ளது, ஆனால் ஆதரிக்கப்படாத வடிவத்தில்."
+
+#, java-printf-format
+msgctxt "crypto_msg_cancelled"
+msgid "Message is encrypted, but decryption was cancelled."
+msgstr ""
+"செய்தி குறியாக்கம் செய்யப்பட்டுள்ளது, ஆனால் மறைகுறியாக்கம் ரத்து "
+"செய்யப்பட்டது."
+
+#, java-printf-format
+msgctxt "crypto_msg_title_unencrypted_signed_e2e"
+msgid "End-to-End signed plaintext"
+msgstr "முடிவு-க்கு-இறுதி கையொப்பமிடப்பட்ட எளிய உரை"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_verified"
+msgid "from verified signer"
+msgstr "சரிபார்க்கப்பட்ட கையொப்பமிட்டவரிடமிருந்து"
+
+#, java-printf-format
+msgctxt "crypto_msg_title_unencrypted_signed"
+msgid "Signed plaintext"
+msgstr "கையொப்பமிடப்பட்ட எளிய உரை"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_mismatch"
+msgid "but end-to-end key didn't match sender"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை அனுப்புநருடன் பொருந்தவில்லை"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_expired"
+msgid "but end-to-end key is expired"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை காலாவதியாகும்"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_revoked"
+msgid "but end-to-end key is revoked"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை ரத்து செய்யப்படுகிறது"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_insecure"
+msgid "but end-to-end key is not considered secure"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை ஆகியவை பாதுகாப்பாக கருதப்படவில்லை"
+
+#, java-printf-format
+msgctxt "crypto_msg_unencrypted_sign_unknown"
+msgid "from unknown end-to-end key"
+msgstr "அறியப்படாத இறுதி முதல் இறுதி விசையிலிருந்து"
+
+#, java-printf-format
+msgctxt "crypto_msg_title_encrypted_unknown"
+msgid "Encrypted"
+msgstr "குறியாக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_error"
+msgid "but there was a decryption error"
+msgstr "ஆனால் ஒரு மறைகுறியாக்க பிழை இருந்தது"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_incomplete"
+msgid "must fully download message for decryption"
+msgstr "மறைகுறியாக்கத்திற்கான செய்தியை முழுமையாக பதிவிறக்கம் செய்ய வேண்டும்"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_no_provider"
+msgid "but no crypto app is configured"
+msgstr "ஆனால் எந்த மறையீட்டு பயன்பாடும் கட்டமைக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "crypto_msg_title_encrypted_unsigned"
+msgid "Encrypted"
+msgstr "குறியாக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_unsigned"
+msgid "but not end-to-end"
+msgstr "ஆனால் இறுதி முதல் இறுதி அல்ல"
+
+#, java-printf-format
+msgctxt "crypto_msg_title_encrypted_signed_e2e"
+msgid "End-to-End encrypted"
+msgstr "இறுதி-க்கு-இறுதி குறியாக்கம்"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_verified"
+msgid "from verified sender"
+msgstr "சரிபார்க்கப்பட்ட அனுப்புநரிடமிருந்து"
+
+#, java-printf-format
+msgctxt "crypto_msg_title_encrypted_signed"
+msgid "Encrypted"
+msgstr "குறியாக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_unknown"
+msgid "from unknown end-to-end key"
+msgstr "அறியப்படாத இறுதி முதல் இறுதி விசையிலிருந்து"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_mismatch"
+msgid "but end-to-end key didn't match sender"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை அனுப்புநருடன் பொருந்தவில்லை"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_expired"
+msgid "but end-to-end key is expired"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை காலாவதியாகும்"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_revoked"
+msgid "but end-to-end key is revoked"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை ரத்து செய்யப்படுகிறது"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_insecure"
+msgid "but end-to-end key is not considered secure"
+msgstr "ஆனால் இறுதி முதல் இறுதி விசை ஆகியவை பாதுகாப்பாக கருதப்படவில்லை"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_sign_error"
+msgid "but end-to-end data has errors"
+msgstr "ஆனால் இறுதி முதல் இறுதி தரவு பிழைகள் உள்ளன"
+
+#, java-printf-format
+msgctxt "crypto_msg_encrypted_insecure"
+msgid "but encryption not considered secure"
+msgstr "ஆனால் குறியாக்கம் பாதுகாப்பாக கருதப்படவில்லை"
+
+#, java-printf-format
+msgctxt "locked_attach_unlock"
+msgid "Unlock"
+msgstr "திறக்க"
+
+#, java-printf-format
+msgctxt "locked_attach_unencrypted"
+msgid "This part was not encrypted, and may be insecure."
+msgstr "இந்த பகுதி குறியாக்கம் செய்யப்படவில்லை, பாதுகாப்பற்றதாக இருக்கலாம்."
+
+#, java-printf-format
+msgctxt "locked_attach_title"
+msgid "Unprotected Attachment"
+msgstr "பாதுகாப்பற்ற இணைப்பு"
+
+#, java-printf-format
+msgctxt "message_progress_text"
+msgid "Loading…"
+msgstr "ஏற்றுகிறது…"
+
+#, java-printf-format
+msgctxt "messageview_decrypt_cancelled"
+msgid "Decryption was cancelled."
+msgstr "மறைகுறியாக்கம் ரத்து செய்யப்பட்டது."
+
+#, java-printf-format
+msgctxt "messageview_decrypt_retry"
+msgid "Retry"
+msgstr "மீண்டும் முயற்சிக்கவும்"
+
+#, java-printf-format
+msgctxt "messageview_decrypt_incomplete"
+msgid "Encrypted message must be downloaded for decryption."
+msgstr "மறைகுறியாக்கப்பட்ட செய்தி பதிவிறக்கம் செய்யப்பட வேண்டும்."
+
+#, java-printf-format
+msgctxt "messageview_crypto_error_title"
+msgid "Error decrypting email"
+msgstr "மின்னஞ்சலை மறைகுறியாக்குவதில் பிழை"
+
+#, java-printf-format
+msgctxt "recipient_error_non_ascii"
+msgid "Special characters are currently not supported!"
+msgstr "சிறப்பு எழுத்துக்கள் தற்போது ஆதரிக்கப்படவில்லை!"
+
+#, java-printf-format
+msgctxt "recipient_error_parse_failed"
+msgid "Error parsing address!"
+msgstr "பிழை பாகுபடுத்தும் முகவரி!"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_hide_sign_only"
+msgid "Hide unencrypted signatures"
+msgstr "மறைகுறியாக்கப்பட்ட கையொப்பங்களை மறைக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_hide_sign_only_on"
+msgid "Only encrypted signatures will be displayed"
+msgstr "மறைகுறியாக்கப்பட்ட கையொப்பங்கள் மட்டுமே காண்பிக்கப்படும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_hide_sign_only_off"
+msgid "All signatures will be displayed"
+msgstr "அனைத்து கையொப்பங்களும் காண்பிக்கப்படும்"
+
+#, java-printf-format
+msgctxt "error_sign_only_no_encryption"
+msgid "Encryption unavailable in sign-only mode!"
+msgstr "அடையாளம்-மட்டும் பயன்முறையில் குறியாக்கம் கிடைக்கவில்லை!"
+
+#, java-printf-format
+msgctxt "unsigned_text_divider_label"
+msgid "Unsigned Text"
+msgstr "கையொப்பமிடாத உரை"
+
+#, java-printf-format
+msgctxt "crypto_no_provider_title"
+msgid "This email is encrypted"
+msgstr "இந்த மின்னஞ்சல் குறியாக்கம் செய்யப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "crypto_no_provider_message"
+msgid ""
+"This email has been encrypted with OpenPGP.\n"
+"To read it, you need to install and configure a compatible OpenPGP App."
+msgstr ""
+"இந்த மின்னஞ்சல் OpenPGP உடன் குறியாக்கம் செய்யப்பட்டுள்ளது.\n"
+" அதைப் படிக்க, நீங்கள் ஒரு இணக்கமான OpenPGP பயன்பாட்டை நிறுவி கட்டமைக்க வேண்டும்."
+
+#, java-printf-format
+msgctxt "crypto_no_provider_button"
+msgid "Go to Settings"
+msgstr "அமைப்புகளுக்குச் செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "openpgp_enabled_error_title"
+msgid "Encryption not possible"
+msgstr "குறியாக்கம் சாத்தியமில்லை"
+
+#, java-printf-format
+msgctxt "openpgp_enabled_error_msg"
+msgid "Some of the selected recipients don't support this feature!"
+msgstr "தேர்ந்தெடுக்கப்பட்ட பெறுநர்களில் சிலர் இந்த அம்சத்தை ஆதரிக்கவில்லை!"
+
+#, java-printf-format
+msgctxt "enable_encryption"
+msgid "Enable Encryption"
+msgstr "குறியாக்கத்தை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "disable_encryption"
+msgid "Disable Encryption"
+msgstr "குறியாக்கத்தை முடக்கு"
+
+#, java-printf-format
+msgctxt "openpgp_description_text1"
+msgid ""
+"Encrypting messages ensures they can be read by the recipient, and nobody "
+"else."
+msgstr ""
+"செய்திகளை குறியாக்குவது அவற்றை பெறுநரால் படிக்க முடியும் என்பதை உறுதி "
+"செய்கிறது, வேறு யாரும் இல்லை."
+
+#, java-printf-format
+msgctxt "openpgp_description_text3"
+msgid ""
+"Encryption will only show up if supported by all recipients, and they must "
+"have sent you an email before."
+msgstr ""
+"அனைத்து பெறுநர்களும் ஆதரித்திருந்தால் மட்டுமே குறியாக்கம் காண்பிக்கப்படும், "
+"மேலும் அவர்கள் இதற்கு முன்பு உங்களுக்கு ஒரு மின்னஞ்சலை அனுப்பியிருக்க "
+"வேண்டும்."
+
+#, java-printf-format
+msgctxt "openpgp_description_text2"
+msgid "Toggle encryption by clicking this icon."
+msgstr "இந்த ஐகானைக் சொடுக்கு செய்வதன் மூலம் குறியாக்கத்தை மாற்றவும்."
+
+#, java-printf-format
+msgctxt "openpgp_enabled_error_gotit"
+msgid "Got it"
+msgstr "கிடைத்தது"
+
+#. Displayed in the the message list widget when the app hasn't had a chance
+#. to send content to it yet
+#. Might be displayed in the message list widget when the list is scrolled and
+#. new data can't be fetched fast enough
+#, java-printf-format
+msgctxt "openpgp_enabled_error_back"
+msgid "Back"
+msgstr "பின்"
+
+#, java-printf-format
+msgctxt "openpgp_enabled_error_disable"
+msgid "Disable Encryption"
+msgstr "குறியாக்கத்தை முடக்கு"
+
+#, java-printf-format
+msgctxt "openpgp_encryption"
+msgid "OpenPGP Encryption"
+msgstr "OpenPGP குறியாக்கம்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_prefer_encrypt"
+msgid "Autocrypt mutual mode"
+msgstr "தன்னியக்க பரச்பர முறை"
+
+#, java-printf-format
+msgctxt "dialog_autocrypt_mutual_title"
+msgid "Autocrypt mutual mode"
+msgstr "தன்னியக்க பரச்பர முறை"
+
+#, java-printf-format
+msgctxt "dialog_autocrypt_mutual_description_1"
+msgid ""
+"Messages will normally be encrypted by choice, or when replying to an "
+"encrypted message."
+msgstr ""
+"செய்திகள் பொதுவாக தேர்வால் குறியாக்கம் செய்யப்படும், அல்லது "
+"மறைகுறியாக்கப்பட்ட செய்திக்கு பதிலளிக்கும் போது."
+
+#, java-printf-format
+msgctxt "dialog_autocrypt_mutual_description_2"
+msgid ""
+"If both sender and recipients enable mutual mode, encryption will be enabled"
+" by default."
+msgstr ""
+"அனுப்புநர் மற்றும் பெறுநர்கள் இருவரும் பரச்பர பயன்முறையை இயக்கினால், "
+"குறியாக்கம் இயல்பாக இயக்கப்படும்."
+
+#, java-printf-format
+msgctxt "dialog_autocrypt_mutual_learn_more"
+msgid ""
+"You can <a href=\"https://k9mail.app/2018/02/26/OpenPGP-Considerations-Part-"
+"III-Autocrypt.html\">click here</a> to learn more."
+msgstr ""
+"நீங்கள் <a href=\"https://k9mail.app/2018/02/26/openpgp-considerations-iii-"
+"autocrypt.html\"> மேலும் அறிய இங்கே சொடுக்கு செய்க </a>."
+
+#, java-printf-format
+msgctxt "general_settings_title"
+msgid "General settings"
+msgstr "பொது அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "dialog_openkeychain_info_title"
+msgid "No OpenPGP app installed"
+msgstr "OpenPGP பயன்பாடு எதுவும் நிறுவப்படவில்லை"
+
+#, java-printf-format
+msgctxt "dialog_openkeychain_info_install"
+msgid "Install"
+msgstr "நிறுவவும்"
+
+#, java-printf-format
+msgctxt "dialog_openkeychain_info_text"
+msgid ""
+"The app OpenKeychain is required to enable support for end-to-end "
+"encryption."
+msgstr ""
+"இறுதி முதல் இறுதி குறியாக்கத்திற்கான ஆதரவை செயல்படுத்த OpenKeyChain பயன்பாடு"
+" தேவை."
+
+#, java-printf-format
+msgctxt "account_settings_crypto_encrypt_subject"
+msgid "Encrypt message subjects"
+msgstr "செய்தி பாடங்களை குறியாக்கவும்"
+
+#, java-printf-format
+msgctxt "account_settings_crypto_encrypt_subject_subtitle"
+msgid "May not be supported by some recipients"
+msgstr "சில பெறுநர்களால் ஆதரிக்கப்படாமல் இருக்கலாம்"
+
+#, java-printf-format
+msgctxt "toast_account_not_found"
+msgid "Internal error: Invalid account!"
+msgstr "உள் பிழை: தவறான கணக்கு!"
+
+#, java-printf-format
+msgctxt "toast_openpgp_provider_error"
+msgid "Error connecting to %s!"
+msgstr "%s உடன் இணைக்கும் பிழை!"
+
+#, java-printf-format
+msgctxt "ac_transfer_setting_title"
+msgid "Send Autocrypt Setup Message"
+msgstr "ஆட்டோகிரிப்ட் அமைவு செய்தியை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "ac_transfer_setting_summary"
+msgid "Securely share end-to-end setup with other devices"
+msgstr ""
+"பிற சாதனங்களுடன் இறுதி முதல் இறுதி அமைப்பை பாதுகாப்பாக பகிர்ந்து கொள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "ac_transfer_title"
+msgid "Autocrypt Setup Message"
+msgstr "ஆட்டோகிரிப்ட் அமைவு செய்தி"
+
+#, java-printf-format
+msgctxt "ac_transfer_intro"
+msgid ""
+"An Autocrypt Setup Message securely shares your end-to-end setup with other "
+"devices."
+msgstr ""
+"ஒரு ஆட்டோகிரிப்ட் அமைவு செய்தி உங்கள் இறுதி முதல் இறுதி அமைப்பை மற்ற "
+"சாதனங்களுடன் பாதுகாப்பாக பகிர்ந்து கொள்கிறது."
+
+#, java-printf-format
+msgctxt "ac_transfer_button_send"
+msgid "Send Setup Message"
+msgstr "அமைவு செய்தியை அனுப்பவும்"
+
+#, java-printf-format
+msgctxt "ac_transfer_will_be_sent"
+msgid "The message will be sent to your address:"
+msgstr "செய்தி உங்கள் முகவரிக்கு அனுப்பப்படும்:"
+
+#, java-printf-format
+msgctxt "ac_transfer_generating"
+msgid "Generating setup message…"
+msgstr "அமைவு செய்தியை உருவாக்குதல்…"
+
+#, java-printf-format
+msgctxt "ac_transfer_sending_to"
+msgid "Sending message to:"
+msgstr "இதற்கு செய்தியை அனுப்புகிறது:"
+
+#, java-printf-format
+msgctxt "ac_transfer_finish"
+msgid ""
+"To finish, open the message on your other device and enter the setup code."
+msgstr ""
+"முடிக்க, உங்கள் மற்ற சாதனத்தில் செய்தியைத் திறந்து அமைவு குறியீட்டை "
+"உள்ளிடவும்."
+
+#, java-printf-format
+msgctxt "ac_transfer_show_code"
+msgid "Show Setup Code"
+msgstr "அமைவு குறியீட்டைக் காட்டு"
+
+#, java-printf-format
+msgctxt "ac_transfer_msg_subject"
+msgid "Autocrypt Setup Message"
+msgstr "ஆட்டோகிரிப்ட் அமைவு செய்தி"
+
+#, java-printf-format
+msgctxt "ac_transfer_msg_body"
+msgid ""
+"This message contains all information to transfer your Autocrypt settings "
+"along with your secret key securely from your original device. To set up "
+"your new device for Autocrypt, please follow the instructions that should be"
+" presented by your new device. You can keep this message and use it as a "
+"backup for your secret key. If you want to do this, you should write down "
+"the password and store it securely."
+msgstr ""
+"உங்கள் அசல் சாதனத்திலிருந்து உங்கள் ரகசிய விசையுடன் உங்கள் ஆட்டோகிரிப்ட் "
+"அமைப்புகளை மாற்றுவதற்கான அனைத்து தகவல்களும் இந்த செய்தியைக் கொண்டுள்ளன. "
+"ஆட்டோகிரிப்டுக்காக உங்கள் புதிய சாதனத்தை அமைக்க, உங்கள் புதிய சாதனத்தால் "
+"வழங்கப்பட வேண்டிய வழிமுறைகளைப் பின்பற்றவும். நீங்கள் இந்த செய்தியை வைத்து "
+"உங்கள் ரகசிய விசைக்கான காப்புப்பிரதியாகப் பயன்படுத்தலாம். நீங்கள் இதைச் "
+"செய்ய விரும்பினால், நீங்கள் கடவுச்சொல்லை எழுதி பாதுகாப்பாக சேமிக்க வேண்டும்."
+
+#, java-printf-format
+msgctxt "ac_transfer_error_send"
+msgid ""
+"An error occurred while sending the message. Please check your network "
+"connectivity and outgoing server configuration."
+msgstr ""
+"செய்தியை அனுப்பும்போது பிழை ஏற்பட்டது. உங்கள் பிணைய இணைப்பு மற்றும் "
+"வெளிச்செல்லும் சேவையக உள்ளமைவை சரிபார்க்கவும்."
+
+#, java-printf-format
+msgctxt "switch_on"
+msgid "On"
+msgstr "ஆன்"
+
+#, java-printf-format
+msgctxt "switch_off"
+msgid "Off"
+msgstr "அணை"
+
+#, java-printf-format
+msgctxt "generic_loading_error"
+msgid "An error occurred while loading the data"
+msgstr "தரவை ஏற்றும்போது பிழை ஏற்பட்டது"
+
+#, java-printf-format
+msgctxt "push_notification_state_initializing"
+msgid "Initializing…"
+msgstr "தொடங்குதல்…"
+
+#, java-printf-format
+msgctxt "push_notification_state_listening"
+msgid "Waiting for new emails"
+msgstr "புதிய மின்னஞ்சல்களுக்காக காத்திருக்கிறது"
+
+#, java-printf-format
+msgctxt "push_notification_state_wait_background_sync"
+msgid "Sleeping until background sync is allowed"
+msgstr "பின்னணி ஒத்திசைவு அனுமதிக்கப்படும் வரை தூங்குகிறது"
+
+#, java-printf-format
+msgctxt "push_notification_state_wait_network"
+msgid "Sleeping until network is available"
+msgstr "பிணையம் கிடைக்கும் வரை தூங்குகிறது"
+
+#, java-printf-format
+msgctxt "push_notification_state_alarm_permission_missing"
+msgid "Missing permission to schedule alarms"
+msgstr "அலாரங்களை திட்டமிட இசைவு இல்லை"
+
+#, java-printf-format
+msgctxt "push_notification_info"
+msgid "Tap to learn more."
+msgstr "மேலும் அறிய தட்டவும்."
+
+#, java-printf-format
+msgctxt "push_notification_grant_alarm_permission"
+msgid "Tap to grant permission."
+msgstr "இசைவு வழங்க தட்டவும்."
+
+#, java-printf-format
+msgctxt "push_info_title"
+msgid "Push Info"
+msgstr "செய்தி தள்ளுங்கள்"
+
+#, java-printf-format
+msgctxt "push_info_notification_explanation_text"
+msgid ""
+"When using Push, <xliff:g id=\"app_name\">%1$s</xliff:g> maintains a "
+"connection to the mail server. Android requires displaying an ongoing "
+"notification while the app is active in the background. <xliff:g "
+"id=\"optional_extended_explanation\">%2$s</xliff:g>"
+msgstr ""
+"புச் பயன்படுத்தும் போது, <xliff: g ஐடி = \"app_name\">%1$s </xliff: g> "
+"அஞ்சல் சேவையகத்துடன் இணைப்பைப் பராமரிக்கிறது. பயன்பாடு பின்னணியில் செயலில் "
+"இருக்கும்போது ஆண்ட்ராய்டு க்கு தொடர்ச்சியான அறிவிப்பைக் காண்பிக்க வேண்டும். "
+"<xliff: g ஐடி = \"atanal_extended_explanation\">%2$s </xliff: g>"
+
+#, java-printf-format
+msgctxt "push_info_configure_notification_text"
+msgid "However, Android also allows you to hide the notification."
+msgstr "இருப்பினும், ஆண்ட்ராய்டு அறிவிப்பை மறைக்க உங்களை அனுமதிக்கிறது."
+
+#, java-printf-format
+msgctxt "push_info_learn_more_text"
+msgid "Learn more"
+msgstr "மேலும் அறிக"
+
+#, java-printf-format
+msgctxt "push_info_configure_notification_action"
+msgid "Configure notification"
+msgstr "அறிவிப்பை உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "push_info_disable_push_text"
+msgid ""
+"If you don't need instant notifications about new messages, you should "
+"disable Push and use Polling. Polling checks for new mail at regular "
+"intervals and does not need the notification."
+msgstr ""
+"புதிய செய்திகளைப் பற்றிய உடனடி அறிவிப்புகள் உங்களுக்குத் தேவையில்லை என்றால்,"
+" நீங்கள் தள்ளி முடக்கி வாக்குப்பதிவைப் பயன்படுத்த வேண்டும். புதிய "
+"அஞ்சலுக்கான வாக்குச் சாவடிகள் வழக்கமான இடைவெளியில் மற்றும் அறிவிப்பு "
+"தேவையில்லை."
+
+#, java-printf-format
+msgctxt "push_info_disable_push_action"
+msgid "Disable Push"
+msgstr "புச் முடக்கு"
+
+#.  Name of the swipe action to select a message. Try to keep it short.
+#. permissions
+#. Name of the swipe action to select a message. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_select"
+msgid "Select"
+msgstr "தேர்தெடு"
+
+#.  Name of the swipe action to deselect a message. Try to keep it short.
+#. Name of the swipe action to deselect a message. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_deselect"
+msgid "Deselect"
+msgstr "தேர்வு நீக்கு"
+
+#.  Name of the swipe action to mark a message as read. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_mark_as_read"
+msgid "Mark read"
+msgstr "குறி படித்தது"
+
+#.  Name of the swipe action to mark a message as unread. Try to keep it
+#. short.
+#. Name of the swipe action to mark a message as read. Try to keep it short.
+#. Name of the swipe action to mark a message as unread. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_mark_as_unread"
+msgid "Mark unread"
+msgstr "படித்ததாக குறி"
+
+#.  Name of the swipe action to add the star to a message. Try to keep it
+#. short.
+#. Name of the swipe action to add the star to a message. Try to keep it
+#. short.
+#, java-printf-format
+msgctxt "swipe_action_add_star"
+msgid "Add star"
+msgstr "நட்சத்திரம் சேர்"
+
+#.  Name of the swipe action to remove the star from a message. Try to keep it
+#. short.
+#. Name of the swipe action to remove the star from a message. Try to keep it
+#. short.
+#, java-printf-format
+msgctxt "swipe_action_remove_star"
+msgid "Remove star"
+msgstr "நட்சத்திரம் கழி"
+
+#.  Name of the swipe action to archive a message. Try to keep it short.
+#. Name of the swipe action to archive a message. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_archive"
+msgid "Archive"
+msgstr "காப்பகம்"
+
+#, java-printf-format
+msgctxt "swipe_action_archive_folder_not_set"
+msgid "Set Up Archive Folder"
+msgstr "காப்பக கோப்புறையை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "swipe_action_change_swipe_gestures"
+msgid ""
+"Change \n"
+"Swipe Gestures"
+msgstr ""
+"மாற்றம் \n"
+"சைகைகளை ச்வைப் செய்யுங்கள்"
+
+#.  Name of the swipe action to delete a message. Try to keep it short.
+#. Name of the swipe action to delete a message. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#.  Name of the swipe action to move a message to the Spam folder. Try to keep
+#. it short.
+#. Name of the swipe action to move a message to the Spam folder. Try to keep
+#. it short.
+#, java-printf-format
+msgctxt "swipe_action_spam"
+msgid "Spam"
+msgstr "பயனற்றது"
+
+#.  Name of the swipe action to move a message. The ellipsis (…) indicates
+#. that there is another step (selecting a folder) before the action is
+#. performed. Try to keep it short.
+#, java-printf-format
+msgctxt "swipe_action_move"
+msgid "Move…"
+msgstr "நகர்த்தவும்…"
+
+#.  Name of setting to configure whether to show a "compose" floating action
+#. button on top of the message list
+#, java-printf-format
+msgctxt "general_settings_show_compose_button_title"
+msgid "Show floating compose button"
+msgstr "மிதக்கும் இசையமைப்புக் பொத்தானைக் காட்டு"
+
+#.  Displayed in the toolbar when there was an error loading the message list,
+#. e.g. because the folder no longer exists.
+#, java-printf-format
+msgctxt "message_list_error_title"
+msgid "Error"
+msgstr "பிழை"
+
+#.  Displayed instead of the message list when a folder couldn't be found,
+#. e.g. due to an outdated home screen shortcut.
+#, java-printf-format
+msgctxt "message_list_error_folder_not_found"
+msgid "Folder not found"
+msgstr "கோப்புறை கிடைக்கவில்லை"
+
+#.  Title of the toolbar that is displayed when the message details bottom
+#. sheet has been expanded
+#, java-printf-format
+msgctxt "message_details_toolbar_title"
+msgid "Message details"
+msgstr "செய்தி விவரங்கள்"
+
+#.  Displayed when an email is missing the 'Date' header field and no date can
+#. be displayed in the message details bottom sheet.
+#, java-printf-format
+msgctxt "message_details_missing_date"
+msgid "Missing 'Date' header"
+msgstr "'தேதி' தலைப்பு இல்லை"
+
+#.  Title of the "From" section in the message details bottom sheet. This
+#. should probably be the same as the string 'recipient_from'.
+#, java-printf-format
+msgctxt "message_details_from_section_title"
+msgid "From"
+msgstr "இருந்து"
+
+#.  Title of the "Sender" section in the message details bottom sheet. This
+#. refers to the 'Sender' header. Be careful with translations.
+#, java-printf-format
+msgctxt "message_details_sender_section_title"
+msgid "Sender"
+msgstr "அனுப்புநர்"
+
+#.  Title of the "Reply to" section in the message details bottom sheet. This
+#. should probably be the same as the string 'reply_to_label'.
+#, java-printf-format
+msgctxt "message_details_replyto_section_title"
+msgid "Reply to"
+msgstr "பதில்"
+
+#.  Title of the "To" section in the message details bottom sheet. This should
+#. probably be the same as the string 'recipient_to'.
+#. Name of the swipe action to move a message. The ellipsis (…) indicates that
+#. there is another step (selecting a folder) before the action is performed.
+#. Try to keep it short.
+#. Name of setting to configure whether to show a "compose" floating action
+#. button on top of the message list
+#. Displayed in the toolbar when there was an error loading the message list,
+#. e.g. because the folder no longer exists.
+#. Displayed instead of the message list when a folder couldn't be found, e.g.
+#. due to an outdated home screen shortcut.
+#. Title of the toolbar that is displayed when the message details bottom
+#. sheet has been expanded
+#. Displayed when an email is missing the 'Date' header field and no date can
+#. be displayed in the message details bottom sheet.
+#. Title of the "From" section in the message details bottom sheet. This
+#. should probably be the same as the string 'recipient_from'.
+#. Title of the "Sender" section in the message details bottom sheet. This
+#. refers to the 'Sender' header. Be careful with translations.
+#. Title of the "Reply to" section in the message details bottom sheet. This
+#. should probably be the same as the string 'reply_to_label'.
+#. Title of the "To" section in the message details bottom sheet. This should
+#. probably be the same as the string 'recipient_to'.
+#, java-printf-format
+msgctxt "message_details_to_section_title"
+msgid "To"
+msgstr "பெறுநர்"
+
+#.  Title of the "Cc" section in the message details bottom sheet. This should
+#. probably be the same as the string 'recipient_cc'.
+#. Title of the "Cc" section in the message details bottom sheet. This should
+#. probably be the same as the string 'recipient_cc'.
+#, java-printf-format
+msgctxt "message_details_cc_section_title"
+msgid "Cc"
+msgstr "நகல்"
+
+#.  Title of the "Bcc" section in the message details bottom sheet. This
+#. should probably be the same as the string 'recipient_bcc'.
+#. Title of the "Bcc" section in the message details bottom sheet. This should
+#. probably be the same as the string 'recipient_bcc'.
+#, java-printf-format
+msgctxt "message_details_bcc_section_title"
+msgid "Bcc"
+msgstr "மறை நகல்"
+
+#.  Displayed when loading the message details has failed
+#, java-printf-format
+msgctxt "message_details_loading_error"
+msgid "An error occurred while loading the message details."
+msgstr "செய்தி விவரங்களை ஏற்றும்போது பிழை ஏற்பட்டது."
+
+#.  Name of the action to add a person to contacts. Usually displayed in a
+#. menu or in a tooltip when long-pressing the associated icon.
+#, java-printf-format
+msgctxt "action_add_to_contacts"
+msgid "Add to contacts"
+msgstr "தொடர்புகளில் சேர்க்கவும்"
+
+#.  Name of the action to compose a new message to a particular address.
+#. Usually displayed in a menu or in a tooltip when long-pressing the
+#. associated icon.
+#, java-printf-format
+msgctxt "action_compose_message_to"
+msgid "Compose message to"
+msgstr "செய்தியை எழுதுங்கள்"
+
+#.  Name of the action to copy an email address to the clipboard. Usually
+#. displayed in a menu or in a tooltip when long-pressing the associated icon.
+#, java-printf-format
+msgctxt "action_copy_email_address"
+msgid "Copy email address"
+msgstr "மின்னஞ்சல் முகவரியை நகலெடுக்கவும்"
+
+#.  Name of the action to copy a name and email address to the clipboard.
+#. Usually displayed in a menu or in a tooltip when long-pressing the
+#. associated icon.
+#, java-printf-format
+msgctxt "action_copy_name_and_email_address"
+msgid "Copy name and email address"
+msgstr "பெயர் மற்றும் மின்னஞ்சல் முகவரியை நகலெடுக்கவும்"
+
+#.  A user visible label for the email address copied to the clipboard
+#, java-printf-format
+msgctxt "clipboard_label_email_address"
+msgid "Email address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+#.  A user visible label for the name and email address copied to the
+#. clipboard
+#, java-printf-format
+msgctxt "clipboard_label_name_and_email_address"
+msgid "Name and email address"
+msgstr "பெயர் மற்றும் மின்னஞ்சல் முகவரி"
+
+#.  Might be displayed in a notification when deleting an account (in the
+#. background)
+#, java-printf-format
+msgctxt "background_work_notification_remove_account"
+msgid "Removing account…"
+msgstr "கணக்கை நீக்குதல்…"
+
+#.  For unread messages the first line of a message list item is modified by
+#. this to improve the experience for people with screen readers.
+#, java-printf-format
+msgctxt "message_list_content_description_unread_prefix"
+msgid "unread, %s"
+msgstr "படிக்க, %s"
+
+#.  Name of the "data collection" section in the general settings screen
+#, java-printf-format
+msgctxt "settings_ui_data_collection"
+msgid "Data collection"
+msgstr "தரவு சேகரிப்பு"
+
+#.  Title of the "Usage and technical data" setting used in the "data
+#. collection" section of the general settings screen
+#, java-printf-format
+msgctxt "settings_ui_telemetry_title"
+msgid "Usage and technical data"
+msgstr "பயன்பாடு மற்றும் தொழில்நுட்ப தரவு"
+
+#.  Description of the "Usage and technical data" setting used in the "data
+#. collection" section of the general settings screen
+#, java-printf-format
+msgctxt "settings_ui_telemetry_description"
+msgid ""
+"Shares performance, usage, hardware and customization data about this app "
+"with Mozilla to help us make Thunderbird better"
+msgstr ""
+"இந்த பயன்பாட்டைப் பற்றிய செயல்திறன், பயன்பாடு, வன்பொருள் மற்றும் "
+"தனிப்பயனாக்குதல் தரவைப் பகிர்ந்து கொள்கிறது மொசில்லாவுடன் தண்டர்பேர்டை "
+"சிறந்ததாக்க எங்களுக்கு உதவுகிறது"
+
+#, java-printf-format
+msgctxt "archiving_not_available_for_this_account"
+msgid "Archiving is not available for this account."
+msgstr "இந்த கணக்கிற்கு காப்பகம் கிடைக்கவில்லை."

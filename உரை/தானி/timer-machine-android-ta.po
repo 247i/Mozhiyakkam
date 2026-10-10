@@ -1,0 +1,3431 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (timer-machine)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-20 02:51+0200\n"
+"PO-Revision-Date: 2025-03-21 13:16\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/timer-machine/android/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#, java-printf-format
+msgctxt "app_name"
+msgid "TimeR Machine"
+msgstr "நேரங்குறிகருவி இயந்திரம்"
+
+#, java-printf-format
+msgctxt "ok"
+msgid "OK"
+msgstr "சரி"
+
+#, java-printf-format
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "more"
+msgid "More"
+msgstr "மேலும்"
+
+#, java-printf-format
+msgctxt "delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "undo"
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#. Common actions
+#, java-printf-format
+msgctxt "understand"
+msgid "I get it"
+msgstr "நான் அதைப் பெறுகிறேன்"
+
+#, java-printf-format
+msgctxt "add"
+msgid "Add"
+msgstr "கூட்டு"
+
+#, java-printf-format
+msgctxt "discard"
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#, java-printf-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "duplicate"
+msgid "Duplicate"
+msgstr "நகல்"
+
+#, java-printf-format
+msgctxt "enable"
+msgid "Enable"
+msgstr "இயக்கு"
+
+#, java-printf-format
+msgctxt "disable"
+msgid "Disable"
+msgstr "முடக்கு"
+
+#, java-printf-format
+msgctxt "nav_up"
+msgid "Navigate up"
+msgstr "மேலே செல்லவும்"
+
+#, java-printf-format
+msgctxt "open_menu"
+msgid "Open menu"
+msgstr "திறந்த பட்டியல்"
+
+#, java-printf-format
+msgctxt "edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, java-printf-format
+msgctxt "previous"
+msgid "Previous"
+msgstr "முந்தைய"
+
+#, java-printf-format
+msgctxt "next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, java-printf-format
+msgctxt "exit"
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#, java-printf-format
+msgctxt "move"
+msgid "Move"
+msgstr "நகர்த்தவும்"
+
+#, java-printf-format
+msgctxt "expand"
+msgid "Expand"
+msgstr "விரிவாக்கு"
+
+#, java-printf-format
+msgctxt "deselect"
+msgid "Deselect"
+msgstr "தேர்வுநீக்கு"
+
+#, java-printf-format
+msgctxt "share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, java-printf-format
+msgctxt "dismiss"
+msgid "Dismiss"
+msgstr "தள்ளுபடி"
+
+#, java-printf-format
+msgctxt "grant"
+msgid "Grant"
+msgstr "மானியம்"
+
+#. App actions
+#, java-printf-format
+msgctxt "start"
+msgid "Start"
+msgstr "தொடங்கு"
+
+#, java-printf-format
+msgctxt "pause"
+msgid "Pause"
+msgstr "இடைநிறுத்தம்"
+
+#, java-printf-format
+msgctxt "stop"
+msgid "Stop"
+msgstr "நிறுத்து"
+
+#, java-printf-format
+msgctxt "plus_one_minute"
+msgid "Add 1 Minute"
+msgstr "1 மணித்துளி சேர்க்கவும்"
+
+#. Common
+#, java-printf-format
+msgctxt "unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, java-printf-format
+msgctxt "thanks"
+msgid "Thanks for your support!"
+msgstr "உங்கள் ஆதரவுக்கு நன்றி!"
+
+#, java-printf-format
+msgctxt "no_action_found"
+msgid "No apps can perform this action"
+msgstr "இந்த செயலை எந்த பயன்பாடுகளும் செய்ய முடியாது"
+
+#, java-printf-format
+msgctxt "empty"
+msgid "Empty"
+msgstr "காலி"
+
+#, java-printf-format
+msgctxt "delete_confirmation_template"
+msgid "Delete %s?"
+msgstr "%s ஐ நீக்கவா?"
+
+#, java-printf-format
+msgctxt "delete_done_template"
+msgid "%s deleted"
+msgstr "%s நீக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "trash_done_template"
+msgid "%s trashed"
+msgstr "%s குப்பை"
+
+#, java-printf-format
+msgctxt "save_changes"
+msgid "Save changes?"
+msgstr "மாற்றங்களைச் சேமிக்கவா?"
+
+#, java-printf-format
+msgctxt "privacy_policy"
+msgid "Privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#, java-printf-format
+msgctxt "terms_of_service"
+msgid "Terms"
+msgstr "விதிமுறைகள்"
+
+#. Main actions
+#, java-printf-format
+msgctxt "main_action_timers"
+msgid "Timers"
+msgstr "டைமர்கள்"
+
+#, java-printf-format
+msgctxt "main_action_schedulers"
+msgid "Schedulers"
+msgstr "திட்டமிடுபவர்கள்"
+
+#, java-printf-format
+msgctxt "main_action_backup"
+msgid "Backup & Restore"
+msgstr "காப்புப்பிரதி மற்றும் மீட்டமை"
+
+#, java-printf-format
+msgctxt "main_action_help"
+msgid "Help & Feedback"
+msgstr "உதவி & கருத்து"
+
+#, java-printf-format
+msgctxt "main_action_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "main_action_dark"
+msgid "Dark Theme"
+msgstr "இருண்ட கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "main_action_record"
+msgid "Records"
+msgstr "பதிவுகள்"
+
+#. Permission
+#, java-printf-format
+msgctxt "perm_rational_floating"
+msgid "To show a floating window, grant the app \"Floating Window\" permission"
+msgstr ""
+"மிதக்கும் சாளரத்தைக் காட்ட, பயன்பாட்டை \"மிதக்கும் சாளரம்\" இசைவு வழங்கவும்"
+
+#. Timer list
+#, java-printf-format
+msgctxt "timers"
+msgid "1 timer"
+msgid_plural "%1$s timers"
+msgstr[0] "1 நேரங்குறிகருவி"
+msgstr[1] "%1$s டைமர்கள்"
+
+#, java-printf-format
+msgctxt "timer_pick_required"
+msgid "Click here to pick a timer"
+msgstr "டைமரை எடுக்க இங்கே சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "timer_pick_hint"
+msgid "Pick a timer"
+msgstr "ஒரு டைமரைத் தேர்ந்தெடுங்கள்"
+
+#. Folder
+#, java-printf-format
+msgctxt "folder_default"
+msgid "Default Set"
+msgstr "இயல்புநிலை தொகுப்பு"
+
+#, java-printf-format
+msgctxt "folder_new_folder"
+msgid "New timer set"
+msgstr "புதிய நேரங்குறிகருவி தொகுப்பு"
+
+#, java-printf-format
+msgctxt "folder_trash"
+msgid "Trash"
+msgstr "குப்பை"
+
+#, java-printf-format
+msgctxt "folder_name"
+msgid "Set Name"
+msgstr "பெயரை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "folder_rename"
+msgid "Rename set"
+msgstr "செட் மறுபெயரிடுதல்"
+
+#, java-printf-format
+msgctxt "folder_delete"
+msgid "Delete set"
+msgstr "செட் நீக்கு"
+
+#, java-printf-format
+msgctxt "folder_delete_timer_explanation"
+msgid "The timer with its records and schedulers will be permanently deleted"
+msgstr ""
+"நேரங்குறிகருவி அதன் பதிவுகள் மற்றும் திட்டமிடுபவர்களுடன் நிரந்தரமாக "
+"நீக்கப்படும்"
+
+#, java-printf-format
+msgctxt "folder_trash_folder_confirmation"
+msgid "Move timers to trash?"
+msgstr "டைமர்களை குப்பைக்கு நகர்த்தவா?"
+
+#, java-printf-format
+msgctxt "folder_empty_trash_confirmation"
+msgid "Empty trash?"
+msgstr "வெற்று குப்பை?"
+
+#, java-printf-format
+msgctxt "folder_sort"
+msgid "Sort by"
+msgstr "வரிசைப்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "folder_sort_added_newest"
+msgid "Newest added first"
+msgstr "புதியது முதலில் சேர்க்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "folder_sort_added_oldest"
+msgid "Oldest added first"
+msgstr "பழமையானது முதலில் சேர்க்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "folder_sort_run_newest"
+msgid "Newest run first"
+msgstr "முதலில் புதிய ரன்"
+
+#, java-printf-format
+msgctxt "folder_sort_run_oldest"
+msgid "Oldest run first"
+msgstr "முதலில் பழமையான ரன்"
+
+#, java-printf-format
+msgctxt "folder_sort_a_to_z"
+msgid "Name A ➝ Z"
+msgstr "A ➝ சட் என்ற பெயர்"
+
+#, java-printf-format
+msgctxt "folder_sort_z_to_a"
+msgid "Name Z ➝ A"
+msgstr "பெயர் சட் ➝ a"
+
+#, java-printf-format
+msgctxt "folder_to_list_view"
+msgid "Switch to list view"
+msgstr "பட்டியல் பார்வைக்கு மாறவும்"
+
+#, java-printf-format
+msgctxt "folder_to_grid_view"
+msgid "Switch to grid view"
+msgstr "கட்டம் பார்வைக்கு மாறவும்"
+
+#. Edit screen
+#, java-printf-format
+msgctxt "edit_create_timer"
+msgid "Create Timer"
+msgstr "டைமரை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "edit_edit_timer"
+msgid "Edit Timer"
+msgstr "நேரத்தைத் திருத்து"
+
+#, java-printf-format
+msgctxt "edit_default_timer_name"
+msgid "Timer"
+msgstr "நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "edit_step_name"
+msgid "Step Name"
+msgstr "படி பெயர்"
+
+#, java-printf-format
+msgctxt "edit_default_step_name"
+msgid "Step"
+msgstr "படி"
+
+#, java-printf-format
+msgctxt "edit_default_notifier_name"
+msgid "Notifier"
+msgstr "அறிவிக்கவும்"
+
+#, java-printf-format
+msgctxt "edit_group"
+msgid "Group"
+msgstr "குழு"
+
+#, java-printf-format
+msgctxt "edit_start_step"
+msgid "Timer Start"
+msgstr "நேரங்குறிகருவி தொடக்க"
+
+#, java-printf-format
+msgctxt "edit_end_step"
+msgid "Timer End"
+msgstr "நேரங்குறிகருவி முடிவு"
+
+#, java-printf-format
+msgctxt "edit_group_start"
+msgid "Group Start"
+msgstr "குழு தொடக்க"
+
+#, java-printf-format
+msgctxt "edit_group_end"
+msgid "Group End"
+msgstr "குழு முடிவு"
+
+#, java-printf-format
+msgctxt "edit_delete_group"
+msgid "Delete group"
+msgstr "குழுவை நீக்கு"
+
+#, java-printf-format
+msgctxt "edit_step"
+msgid "Edit Step"
+msgstr "படி திருத்து"
+
+#, java-printf-format
+msgctxt "edit_add_step"
+msgid "Add a new step"
+msgstr "ஒரு புதிய படி சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "edit_add_normal"
+msgid "Normal"
+msgstr "சாதாரண"
+
+#, java-printf-format
+msgctxt "edit_add_normal_desp"
+msgid "Add a normal step"
+msgstr "ஒரு சாதாரண படி சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "edit_add_notifier"
+msgid "Notifier"
+msgstr "அறிவிக்கவும்"
+
+#, java-printf-format
+msgctxt "edit_add_notifier_desp"
+msgid "A convenient reminding step. It remembers your edit"
+msgstr ""
+"ஒரு வசதியான நினைவூட்டல் படி. இது உங்கள் திருத்தத்தை நினைவில் கொள்கிறது"
+
+#, java-printf-format
+msgctxt "edit_add_group"
+msgid "Group"
+msgstr "குழு"
+
+#, java-printf-format
+msgctxt "edit_add_group_desp"
+msgid "It has its name and loop and can contain steps"
+msgstr ""
+"இது அதன் பெயர் மற்றும் வளையத்தைக் கொண்டுள்ளது மற்றும் படிகளைக் "
+"கொண்டிருக்கலாம்"
+
+#, java-printf-format
+msgctxt "edit_add_start"
+msgid "Start Step"
+msgstr "படி தொடக்க"
+
+#, java-printf-format
+msgctxt "edit_add_start_desp"
+msgid "Run a step once at the start of the whole task to prepare yourself"
+msgstr ""
+"உங்களை தயார்படுத்துவதற்கு முழு பணியின் தொடக்கத்திலும் ஒரு படி ஒரு படி "
+"இயக்கவும்"
+
+#, java-printf-format
+msgctxt "edit_add_start_too_many"
+msgid "There is already a start step"
+msgstr "ஏற்கனவே ஒரு தொடக்க படி உள்ளது"
+
+#, java-printf-format
+msgctxt "edit_add_end"
+msgid "End Step"
+msgstr "இறுதி படி"
+
+#, java-printf-format
+msgctxt "edit_add_end_desp"
+msgid "Run a step once at the end of the whole task to wind up"
+msgstr "முழு பணியின் முடிவில் ஒரு படி இயக்கவும்"
+
+#, java-printf-format
+msgctxt "edit_add_end_too_many"
+msgid "There is already an end step"
+msgstr "ஏற்கனவே ஒரு இறுதி படி உள்ளது"
+
+#, java-printf-format
+msgctxt "edit_at_least_1s"
+msgid "The duration should be at least 1 second"
+msgstr "காலம் குறைந்தது 1 வினாடியாக இருக்க வேண்டும்"
+
+#, java-printf-format
+msgctxt "edit_wrong_empty_name"
+msgid "Timer name should not be empty"
+msgstr "நேரங்குறிகருவி பெயர் காலியாக இருக்கக்கூடாது"
+
+#, java-printf-format
+msgctxt "edit_wrong_negative_loop"
+msgid "The loop should be a positive number"
+msgstr "லூப் நேர்மறை எண்ணாக இருக்க வேண்டும்"
+
+#, java-printf-format
+msgctxt "edit_wrong_empty_steps"
+msgid "There should be at least one step"
+msgstr "குறைந்தது ஒரு படி இருக்க வேண்டும்"
+
+#, java-printf-format
+msgctxt "edit_more_show_notif"
+msgid "Show timing notification"
+msgstr "நேர அறிவிப்பைக் காட்டு"
+
+#, java-printf-format
+msgctxt "edit_more_notif_count"
+msgid "Show remaining time in the notification"
+msgstr "அறிவிப்பில் மீதமுள்ள நேரத்தைக் காட்டு"
+
+#, java-printf-format
+msgctxt "edit_more_trigger"
+msgid "After the timer finishes, start"
+msgstr "நேரங்குறிகருவி முடிந்ததும், தொடங்குங்கள்"
+
+#, java-printf-format
+msgctxt "edit_more_a11y"
+msgid "More timer settings"
+msgstr "மேலும் நேரங்குறிகருவி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "edit_cant_move_start"
+msgid "Unable to move the start step"
+msgstr "தொடக்க படிநிலையை நகர்த்த முடியவில்லை"
+
+#, java-printf-format
+msgctxt "edit_cant_move_end"
+msgid "Unable to move the end step"
+msgstr "இறுதி படிநிலையை நகர்த்த முடியவில்லை"
+
+#, java-printf-format
+msgctxt "edit_cant_move_group"
+msgid "Unable to move a group"
+msgstr "ஒரு குழுவை நகர்த்த முடியவில்லை"
+
+#, java-printf-format
+msgctxt "edit_cant_move_footer"
+msgid "Unable to move these buttons"
+msgstr "இந்த பொத்தான்களை நகர்த்த முடியவில்லை"
+
+#, java-printf-format
+msgctxt "edit_share_as_text"
+msgid "Share as text"
+msgstr "உரையாக பகிரவும்"
+
+#, java-printf-format
+msgctxt "edit_import_from_the_clipboard"
+msgid "Import from the clipboard"
+msgstr "கிளிப்போர்டிலிருந்து இறக்குமதி செய்யுங்கள்"
+
+#. Edit widgets
+#, java-printf-format
+msgctxt "name_loop_name_hint"
+msgid "Name"
+msgstr "பெயர்"
+
+#, java-printf-format
+msgctxt "name_loop_loop_hint"
+msgid "Loop"
+msgstr "லூப்"
+
+#, java-printf-format
+msgctxt "time_picker_type_panel"
+msgid "Panel"
+msgstr "பேனல்"
+
+#, java-printf-format
+msgctxt "time_picker_type_scroll"
+msgid "Scroll"
+msgstr "சுருள்"
+
+#. Behaviour
+#, java-printf-format
+msgctxt "behaviour_no_behaviours"
+msgid "A Silent Step"
+msgstr "ஒரு அமைதியான படி"
+
+#, java-printf-format
+msgctxt "behaviour_add_new"
+msgid "Add a reminder"
+msgstr "கூட்டு a reminder"
+
+#, java-printf-format
+msgctxt "behaviour_music"
+msgid "Music"
+msgstr "இசை"
+
+#, java-printf-format
+msgctxt "behaviour_music_help"
+msgid "Play music at this step"
+msgstr "இந்த கட்டத்தில் இசையை வாசிக்கவும்"
+
+#, java-printf-format
+msgctxt "music_pick_ringtone"
+msgid "Pick Step Music"
+msgstr "படி இசையைத் தேர்ந்தெடுங்கள்"
+
+#, java-printf-format
+msgctxt "music_loop"
+msgid "Loop"
+msgstr "லூப்"
+
+#, java-printf-format
+msgctxt "music_saf_pick"
+msgid "SAF Pick"
+msgstr "SAF தேர்வு"
+
+#, java-printf-format
+msgctxt "music_saf_pick_desp"
+msgid ""
+"If you would like to pick music without granting permission, or the default "
+"ringtone picker doesn't show your music, enabling this option might help."
+msgstr ""
+"இசைவு வழங்காமல் இசையை எடுக்க விரும்பினால், அல்லது இயல்புநிலை ரிங்டோன் "
+"பிக்கர் உங்கள் இசையைக் காட்டவில்லை என்றால், இந்த விருப்பத்தை இயக்குவது "
+"உதவக்கூடும்."
+
+#, java-printf-format
+msgctxt "behaviour_vibration"
+msgid "Vibration"
+msgstr "அதிர்வு"
+
+#, java-printf-format
+msgctxt "behaviour_vibration_help"
+msgid "Vibrate the phone at this step"
+msgstr "இந்த கட்டத்தில் தொலைபேசியை அதிர்வுறும்"
+
+#, java-printf-format
+msgctxt "vibration_count"
+msgid "Count"
+msgstr "எண்ணுங்கள்"
+
+#, java-printf-format
+msgctxt "vibration_count_desp_0"
+msgid "0 for keeping vibrating until the end of the step"
+msgstr "0 படியின் இறுதி வரை அதிர்வுறும்"
+
+#, java-printf-format
+msgctxt "vibration_count_desp_range"
+msgid "The count should be between 0 and 100"
+msgstr "எண்ணிக்கை 0 முதல் 100 வரை இருக்க வேண்டும்"
+
+#, java-printf-format
+msgctxt "vibration_pattern"
+msgid "Pattern"
+msgstr "முறை"
+
+#, java-printf-format
+msgctxt "vibration_short"
+msgid "Short Vibration"
+msgstr "குறுகிய அதிர்வு"
+
+#, java-printf-format
+msgctxt "vibration_normal"
+msgid "Normal Vibration"
+msgstr "சாதாரண அதிர்வு"
+
+#, java-printf-format
+msgctxt "vibration_long"
+msgid "Long Vibration"
+msgstr "நீண்ட அதிர்வு"
+
+#, java-printf-format
+msgctxt "behaviour_screen"
+msgid "Screen"
+msgstr "திரை"
+
+#, java-printf-format
+msgctxt "behaviour_screen_help"
+msgid "Wake up the phone and show a reminding screen"
+msgstr "தொலைபேசியை எழுப்பி, நினைவூட்டும் திரையைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "screen_fullscreen"
+msgid "Always Fullscreen"
+msgstr "எப்போதும் முழுத்திரை"
+
+#, java-printf-format
+msgctxt "behaviour_halt"
+msgid "Halt"
+msgstr "நிறுத்த"
+
+#, java-printf-format
+msgctxt "behaviour_halt_help"
+msgid ""
+"Stay at the step until you move on manually, and make it forward-timing"
+msgstr ""
+"நீங்கள் கைமுறையாக நகரும் வரை படியில் இருங்கள், அதை முன்னோக்கிச் செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "behaviour_voice"
+msgid "Voice"
+msgstr "குரல்"
+
+#, java-printf-format
+msgctxt "behaviour_voice_help"
+msgid "Read this step name"
+msgstr "இந்த படி பெயரைப் படியுங்கள்"
+
+#, java-printf-format
+msgctxt "voice_content_title"
+msgid "Talking Content"
+msgstr "பேசும் உள்ளடக்கம்"
+
+#, java-printf-format
+msgctxt "voice_content_info_empty"
+msgid "* If the field is empty, step name will be spoken."
+msgstr "* புலம் காலியாக இருந்தால், படி பெயர் பேசப்படும்."
+
+#, java-printf-format
+msgctxt "voice_content_info_variables_intro"
+msgid ""
+"* Click the \"Variables\" button at the bottom to pick variables. They will "
+"be replaced with the corresponding value when running."
+msgstr ""
+"* மாறிகள் எடுக்க கீழே உள்ள \"மாறிகள்\" பொத்தானைக் சொடுக்கு செய்க. அவை "
+"இயங்கும் போது தொடர்புடைய மதிப்புடன் மாற்றப்படும்."
+
+#, java-printf-format
+msgctxt "voice_content_group_variables"
+msgid ""
+"* Variables whose description starts with \"(Group)\" means when the step is"
+" in a group, the value is calculated based on the group instead of the "
+"timer."
+msgstr ""
+"* அதன் விளக்கம் \"(குழு)\" உடன் தொடங்கும் மாறிகள் என்பது ஒரு குழுவில் படி "
+"இருக்கும்போது, ​​டைமருக்கு பதிலாக குழுவின் அடிப்படையில் மதிப்பு "
+"கணக்கிடப்படுகிறது."
+
+#, java-printf-format
+msgctxt "voice_variables"
+msgid "Variables"
+msgstr "மாறிகள்"
+
+#, java-printf-format
+msgctxt "voice_loop"
+msgid "Current loop"
+msgstr "தற்போதைய வளையம்"
+
+#, java-printf-format
+msgctxt "voice_total_loop"
+msgid "Total loop"
+msgstr "மொத்த வளையம்"
+
+#, java-printf-format
+msgctxt "voice_step_name"
+msgid "Step name"
+msgstr "படி பெயர்"
+
+#, java-printf-format
+msgctxt "voice_step_duration"
+msgid "Step duration"
+msgstr "படி காலம்"
+
+#, java-printf-format
+msgctxt "voice_group_variable"
+msgid "@string/edit_group"
+msgstr "@சரம்/திருத்து_ குழுமம்"
+
+#, java-printf-format
+msgctxt "voice_time_variable"
+msgid "Time"
+msgstr "நேரம்"
+
+#, java-printf-format
+msgctxt "voice_current_time"
+msgid "Current time(e.g. %s)"
+msgstr "தற்போதைய நேரம் (எ.கா. %s)"
+
+#, java-printf-format
+msgctxt "voice_group_end_time"
+msgid "Group end time"
+msgstr "குழு இறுதி நேரம்"
+
+#, java-printf-format
+msgctxt "voice_content2_enable"
+msgid "Use new variables"
+msgstr "புதிய மாறிகள் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "voice_content2_disable"
+msgid "Use old variables"
+msgstr "பழைய மாறிகள் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "voice_variable_info_empty"
+msgid "@string/voice_content_info_empty"
+msgstr "@string/voory_content_info_empty"
+
+#, java-printf-format
+msgctxt "voice_variable_info_usage"
+msgid ""
+"* Variables will be replaced with the corresponding value when running."
+msgstr "* இயங்கும் போது மாறிகள் தொடர்புடைய மதிப்புடன் மாற்றப்படும்."
+
+#, java-printf-format
+msgctxt "voice_variable_info_operations"
+msgid ""
+"* Tap variables to insert them into the text box. Long press to check its "
+"usage."
+msgstr ""
+"* அவற்றை உரை பெட்டியில் செருக மாறிகள் தட்டவும். அதன் பயன்பாட்டை சரிபார்க்க "
+"நீண்ட அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "voice_variable_timer_group"
+msgid "Timer"
+msgstr "நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_name"
+msgid "{TName}"
+msgstr "{TName}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_name_desp"
+msgid "Timer name"
+msgstr "நேரங்குறிகருவி பெயர்"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_loop"
+msgid "{TLoop}"
+msgstr "{TLoop}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_loop_desp"
+msgid "Timer current loop"
+msgstr "நேரங்குறிகருவி தற்போதைய வளையம்"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_total_loop"
+msgid "{TTotalLoop}"
+msgstr "{TTotalLoop}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_total_loop_desp"
+msgid "Timer total loop"
+msgstr "நேரங்குறிகருவி மொத்த வளையம்"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_duration"
+msgid "{TDuration}"
+msgstr "{TDuration}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_duration_desp"
+msgid "Timer duration"
+msgstr "நேரங்குறிகருவி காலம்"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_elapsed"
+msgid "{TElapsed}"
+msgstr "{TElapsed}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_elapsed_desp"
+msgid "Timer elapsed time"
+msgstr "நேரங்குறிகருவி கடந்த நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_elapsed_percent"
+msgid "{TElapsed%}"
+msgstr "{Telapsed%}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_elapsed_percent_desp"
+msgid "Timer elapsed time in percent"
+msgstr "நேரங்குறிகருவி சதவீதத்தில் நேரம் கடந்துவிட்டது"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_remaining"
+msgid "{TRemaining}"
+msgstr "{TRemaining}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_remaining_desp"
+msgid "Timer remaining time"
+msgstr "நேரங்குறிகருவி மீதமுள்ள நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_remaining_percent"
+msgid "{TRemaining%}"
+msgstr "{நடுக்கம்%}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_remaining_percent_desp"
+msgid "Timer remaining time in percent"
+msgstr "நேரங்குறிகருவி மீதமுள்ள நேரம் விழுக்காடு"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_end_time"
+msgid "{TEndTime}"
+msgstr "{TEndTime}"
+
+#, java-printf-format
+msgctxt "voice_variable_timer_end_time_desp"
+msgid "Timer end time"
+msgstr "நேரங்குறிகருவி இறுதி நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_group"
+msgid "Group"
+msgstr "குழு"
+
+#, java-printf-format
+msgctxt "voice_variable_group_name"
+msgid "{GName}"
+msgstr "{GName}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_name_desp"
+msgid "Group name"
+msgstr "குழு பெயர்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_loop"
+msgid "{GLoop}"
+msgstr "{GLoop}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_loop_desp"
+msgid "Group current loop"
+msgstr "குழு தற்போதைய வளையம்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_total_loop"
+msgid "{GTotalLoop}"
+msgstr "{GTotalLoop}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_total_loop_desp"
+msgid "Group total loop"
+msgstr "குழு மொத்த வளையம்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_duration"
+msgid "{GDuration}"
+msgstr "{GDuration}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_duration_desp"
+msgid "Group duration"
+msgstr "குழு காலம்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_elapsed"
+msgid "{GElapsed}"
+msgstr "{GElapsed}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_elapsed_desp"
+msgid "Group elapsed time"
+msgstr "குழு கடந்த நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_elapsed_percent"
+msgid "{GElapsed%}"
+msgstr "{செலாப்ச்%}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_elapsed_percent_desp"
+msgid "Group elapsed time in percent"
+msgstr "குழு விழுக்காடு கடந்த காலத்தை கடந்தது"
+
+#, java-printf-format
+msgctxt "voice_variable_group_remaining"
+msgid "{GRemaining}"
+msgstr "{GRemaining}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_remaining_desp"
+msgid "Group remaining time"
+msgstr "குழு மீதமுள்ள நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_group_remaining_percent"
+msgid "{GRemaining%}"
+msgstr "{கிரெமனிங்%}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_remaining_percent_desp"
+msgid "Group remaining time in percent"
+msgstr "குழு மீதமுள்ள நேரம் விழுக்காடு"
+
+#, java-printf-format
+msgctxt "voice_variable_group_end_time"
+msgid "{GEndTime}"
+msgstr "{GEndTime}"
+
+#, java-printf-format
+msgctxt "voice_variable_group_end_time_desp"
+msgid "Group end time"
+msgstr "குழு இறுதி நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_step_group"
+msgid "Step"
+msgstr "படி"
+
+#, java-printf-format
+msgctxt "voice_variable_step_name"
+msgid "{SName}"
+msgstr "{SName}"
+
+#, java-printf-format
+msgctxt "voice_variable_step_name_desp"
+msgid "Step name"
+msgstr "படி பெயர்"
+
+#, java-printf-format
+msgctxt "voice_variable_step_name_next"
+msgid "{SNameNext}"
+msgstr "{SNameNext}"
+
+#, java-printf-format
+msgctxt "voice_variable_step_name_next_desp"
+msgid "The next step's name"
+msgstr "அடுத்த கட்டத்தின் பெயர்"
+
+#, java-printf-format
+msgctxt "voice_variable_step_duration"
+msgid "{SDuration}"
+msgstr "{SDuration}"
+
+#, java-printf-format
+msgctxt "voice_variable_step_duration_desp"
+msgid "Step duration"
+msgstr "படி காலம்"
+
+#, java-printf-format
+msgctxt "voice_variable_step_end_time"
+msgid "{SEndTime}"
+msgstr "{SEndTime}"
+
+#, java-printf-format
+msgctxt "voice_variable_step_end_time_desp"
+msgid "Step end time"
+msgstr "படி இறுதி நேரம்"
+
+#, java-printf-format
+msgctxt "voice_variable_other_group"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, java-printf-format
+msgctxt "voice_variable_other_clock_time"
+msgid "{OClockTime}"
+msgstr "{OClockTime}"
+
+#, java-printf-format
+msgctxt "voice_variable_other_clock_time_desp"
+msgid "Current clock time"
+msgstr "தற்போதைய கடிகார நேரம்"
+
+#, java-printf-format
+msgctxt "tts_error_template"
+msgid "TextToSpeech error: %s"
+msgstr "உரை டோச்பீச் பிழை: %s"
+
+#, java-printf-format
+msgctxt "behaviour_beep"
+msgid "Beep"
+msgstr "பீப்"
+
+#, java-printf-format
+msgctxt "behaviour_beep_help"
+msgid "Play a beep every second"
+msgstr "ஒவ்வொரு நொடியும் ஒரு பீப் விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "beep_count_title"
+msgid "Beep Count"
+msgstr "பீப் எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "beep_count_intro_usage"
+msgid "Enter the times after which the beep should stop"
+msgstr "பீப் நிறுத்த வேண்டிய நேரங்களை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "beep_count_intro_0_meaning"
+msgid "0 for keeping beeping until the end of the step"
+msgstr "0 படி முடிவடையும் வரை பீப்பிங் செய்வதற்கு"
+
+#, java-printf-format
+msgctxt "beep_sound"
+msgid "Beep Sound"
+msgstr "பீப் ஒலி"
+
+#, java-printf-format
+msgctxt "beep_respect_other"
+msgid "Respect Other Sound"
+msgstr "மற்ற ஒலியை மதிக்கவும்"
+
+#, java-printf-format
+msgctxt "behaviour_half"
+msgid "Half"
+msgstr "பாதி"
+
+#, java-printf-format
+msgctxt "behaviour_half_help"
+msgid "Read \"Half of the time\" when this step is over halfway"
+msgstr "இந்த படி பாதியிலேயே இருக்கும்போது \"பாதி நேரம்\" படிக்கவும்"
+
+#, java-printf-format
+msgctxt "half_option"
+msgid "Half Reminder"
+msgstr "அரை நினைவூட்டல்"
+
+#, java-printf-format
+msgctxt "half_option_voice"
+msgid "Voice"
+msgstr "குரல்"
+
+#, java-printf-format
+msgctxt "half_option_voice_desp"
+msgid "(Default) Read \"Half of the time\""
+msgstr "(இயல்புநிலை) \"நேரம் பாதி\""
+
+#, java-printf-format
+msgctxt "half_option_music"
+msgid "Music"
+msgstr "இசை"
+
+#, java-printf-format
+msgctxt "half_option_music_desp"
+msgid "Play default ringtone"
+msgstr "இயல்புநிலை ரிங்டோன் விளையாடுங்கள்"
+
+#, java-printf-format
+msgctxt "half_option_vibration"
+msgid "Vibration"
+msgstr "அதிர்வு"
+
+#, java-printf-format
+msgctxt "half_option_vibration_desp"
+msgid "Normal Pattern, Twice"
+msgstr "சாதாரண முறை, இரண்டு முறை"
+
+#, java-printf-format
+msgctxt "half_content"
+msgid "Half of the time"
+msgstr "பாதி நேரம்"
+
+#, java-printf-format
+msgctxt "behaviour_count"
+msgid "Count"
+msgstr "எண்ணுங்கள்"
+
+#, java-printf-format
+msgctxt "behaviour_count_help"
+msgid "Count down the last several seconds"
+msgstr "கடந்த பல வினாடிகளை எண்ணுங்கள்"
+
+#, java-printf-format
+msgctxt "count_times"
+msgid "Count Times"
+msgstr "நேரங்களை எண்ணுங்கள்"
+
+#, java-printf-format
+msgctxt "count_times_desp"
+msgid "* Enter the number of countdown seconds at the end of the step"
+msgstr "* படிநிலையின் முடிவில் கவுண்டவுன் விநாடிகளின் எண்ணிக்கையை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "behaviour_notification"
+msgid "Notification"
+msgstr "அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "behaviour_notification_help"
+msgid "Show another notification at the start of a step"
+msgstr "ஒரு படியின் தொடக்கத்தில் மற்றொரு அறிவிப்பைக் காட்டுங்கள்"
+
+#, java-printf-format
+msgctxt "notification_duration"
+msgid "Duration"
+msgstr "காலம்"
+
+#, java-printf-format
+msgctxt "notification_duration_desp_usage"
+msgid ""
+"Enter the number of seconds after which the notification will be dismissed "
+"automatically"
+msgstr ""
+"அறிவிப்பு தானாக தள்ளுபடி செய்யப்படும் வினாடிகளின் எண்ணிக்கையை உள்ளிடவும்"
+
+#, java-printf-format
+msgctxt "notification_duration_desp_0_meaning"
+msgid "0 for not dismissing automatically"
+msgstr "0 தானாக நிராகரிக்காததற்கு"
+
+#, java-printf-format
+msgctxt "notification_settings"
+msgid "Edit notification"
+msgstr "அறிவிப்பைத் திருத்தவும்"
+
+#, java-printf-format
+msgctxt "behaviour_flashlight"
+msgid "Flashlight"
+msgstr "ஒளிரும் விளக்கு"
+
+#, java-printf-format
+msgctxt "behaviour_flashlight_help"
+msgid "Turn the flashlight on and off"
+msgstr "ஒளிரும் விளக்கை இயக்கவும் அணைக்கவும்"
+
+#, java-printf-format
+msgctxt "behaviour_image"
+msgid "Image"
+msgstr "படம்"
+
+#, java-printf-format
+msgctxt "behaviour_image_help"
+msgid "Attach an image for the step"
+msgstr "படி ஒரு படத்தை இணைக்கவும்"
+
+#, java-printf-format
+msgctxt "image_pick"
+msgid "Pick an image"
+msgstr "ஒரு படத்தைத் தேர்ந்தெடுக்கவும்"
+
+#. Sample timers strings
+#, java-printf-format
+msgctxt "sample_timer_template_title"
+msgid "Timer Template"
+msgstr "நேரங்குறிகருவி வார்ப்புரு"
+
+#, java-printf-format
+msgctxt "sample_timer_template_prepare"
+msgid "Prepare"
+msgstr "ஆயத்தம்"
+
+#, java-printf-format
+msgctxt "sample_timer_template_finish"
+msgid "Finish"
+msgstr "முடிக்க"
+
+#, java-printf-format
+msgctxt "sample_timer_template_done"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#, java-printf-format
+msgctxt "sample_timer_template_1_stage_name"
+msgid "One Stage Timer"
+msgstr "ஒரு நிலை நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "sample_timer_template_1_stage_work"
+msgid "Work"
+msgstr "வேலை"
+
+#, java-printf-format
+msgctxt "sample_timer_template_2_stages_name"
+msgid "Two Stages Timer"
+msgstr "இரண்டு நிலைகள் நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "sample_timer_template_2_stages_start"
+msgid "Warm-up"
+msgstr "சூடான"
+
+#, java-printf-format
+msgctxt "sample_timer_template_2_stages_high"
+msgid "High Intensity"
+msgstr "அதிக தீவிரம்"
+
+#, java-printf-format
+msgctxt "sample_timer_template_2_stages_low"
+msgid "Low Intensity"
+msgstr "குறைந்த தீவிரம்"
+
+#, java-printf-format
+msgctxt "sample_timer_template_2_stages_end"
+msgid "Cool Down"
+msgstr "குளிர்"
+
+#, java-printf-format
+msgctxt "sample_timer_template_3_stages_name"
+msgid "Three Stages Timer"
+msgstr "மூன்று நிலைகள் நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "sample_timer_template_3_stages_1"
+msgid "Stage 1"
+msgstr "நிலை 1"
+
+#, java-printf-format
+msgctxt "sample_timer_template_3_stages_2"
+msgid "Stage 2"
+msgstr "நிலை 2"
+
+#, java-printf-format
+msgctxt "sample_timer_template_3_stages_3"
+msgid "Stage 3"
+msgstr "நிலை 3"
+
+#. Record
+#, java-printf-format
+msgctxt "record_all_timers"
+msgid "All timers"
+msgstr "அனைத்து டைமர்களும்"
+
+#, java-printf-format
+msgctxt "record_overview"
+msgid "Overview"
+msgstr "கண்ணோட்டம்"
+
+#, java-printf-format
+msgctxt "record_overview_total_time"
+msgid "Total running time"
+msgstr "மொத்த இயங்கும் நேரம்"
+
+#, java-printf-format
+msgctxt "record_overview_total_count"
+msgid "Total number of timer runs"
+msgstr "நேரங்குறிகருவி ரன்களின் மொத்த எண்ணிக்கை"
+
+#, java-printf-format
+msgctxt "record_timeline"
+msgid "Timeline"
+msgstr "காலவரிசை"
+
+#, java-printf-format
+msgctxt "record_timeline_time"
+msgid "Running time"
+msgstr "இயங்கும் நேரம்"
+
+#, java-printf-format
+msgctxt "record_timeline_count"
+msgid "The number of timer runs"
+msgstr "டைமரின் எண்ணிக்கை இயங்குகிறது"
+
+#, java-printf-format
+msgctxt "record_calendar"
+msgid "Calendar"
+msgstr "நாட்காட்டி"
+
+#, java-printf-format
+msgctxt "record_other_data"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, java-printf-format
+msgctxt "record_today"
+msgid "Today"
+msgstr "இன்று"
+
+#, java-printf-format
+msgctxt "record_this_week"
+msgid "This week"
+msgstr "இந்த வாரம்"
+
+#, java-printf-format
+msgctxt "record_this_month"
+msgid "This month"
+msgstr "இந்த மாதம்"
+
+#, java-printf-format
+msgctxt "record_this_year"
+msgid "This year"
+msgstr "இந்த ஆண்டு"
+
+#, java-printf-format
+msgctxt "record_total_time"
+msgid "From day one"
+msgstr "முதல் நாளிலிருந்து"
+
+#, java-printf-format
+msgctxt "record_previous_month_a11y"
+msgid "Previous month"
+msgstr "முந்தைய மாதம்"
+
+#, java-printf-format
+msgctxt "record_next_month_a11y"
+msgid "Next month"
+msgstr "அடுத்த மாதம்"
+
+#, java-printf-format
+msgctxt "record_deleted_timer"
+msgid "Deleted"
+msgstr "நீக்கப்பட்டது"
+
+#. Timer running screen
+#, java-printf-format
+msgctxt "one_action_lock_ui"
+msgid "Lock UI"
+msgstr "பூட்டு இடைமுகம்"
+
+#, java-printf-format
+msgctxt "one_action_unlock_ui"
+msgid "Unlock UI"
+msgstr "இடைமுகம் ஐ திறக்கவும்"
+
+#, java-printf-format
+msgctxt "one_action_show_float"
+msgid "Floating Window"
+msgstr "மிதக்கும் சாளரம்"
+
+#, java-printf-format
+msgctxt "one_action_pip"
+msgid "PiP Mode"
+msgstr "பிப் பயன்முறை"
+
+#, java-printf-format
+msgctxt "one_action_edit_layout"
+msgid "Customize Screen"
+msgstr "திரையைத் தனிப்பயனாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "one_action_add_shortcut"
+msgid "Create Shortcut"
+msgstr "குறுக்குவழியை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "one_action_edit_timer"
+msgid "Edit Timer"
+msgstr "நேரத்தைத் திருத்து"
+
+#, java-printf-format
+msgctxt "one_action_stop"
+msgid "Stop timer"
+msgstr "டைமரை நிறுத்து"
+
+#, java-printf-format
+msgctxt "one_action_prev"
+msgid "To the previous step"
+msgstr "முந்தைய படிக்கு"
+
+#, java-printf-format
+msgctxt "one_action_next"
+msgid "To the next step"
+msgstr "அடுத்த கட்டத்திற்கு"
+
+#, java-printf-format
+msgctxt "one_action_more"
+msgid "More timer settings"
+msgstr "மேலும் நேரங்குறிகருவி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "one_action_tweak_time"
+msgid "Tweak Time"
+msgstr "மாற்ற நேரம்"
+
+#, java-printf-format
+msgctxt "one_action_add_one_minute"
+msgid "+ 1:00"
+msgstr "+ 1:00"
+
+#, java-printf-format
+msgctxt "one_unable_to_start_timers_in_the_trash"
+msgid "Unable to start a timer in the trash"
+msgstr "குப்பையில் ஒரு டைமரைத் தொடங்க முடியவில்லை"
+
+#, java-printf-format
+msgctxt "one_ui_locked"
+msgid "UI is locked"
+msgstr "இடைமுகம் பூட்டப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "one_ui_unlock"
+msgid "Unlock"
+msgstr "திறக்க"
+
+#, java-printf-format
+msgctxt "one_shortcut_name"
+msgid "Shortcut name"
+msgstr "குறுக்குவழி பெயர்"
+
+#, java-printf-format
+msgctxt "one_shortcut_open_on_click"
+msgid "Open timer screen on click"
+msgstr "சொடுக்கு செய்யும் நேரங்குறிகருவி திரையை திறக்கவும்"
+
+#, java-printf-format
+msgctxt "one_layout_bar"
+msgid "Timing Bar"
+msgstr "நேர பட்டி"
+
+#, java-printf-format
+msgctxt "one_layout_time_size"
+msgid "Time Text Size"
+msgstr "நேர உரை அளவு"
+
+#, java-printf-format
+msgctxt "one_layout_edit"
+msgid "Edit Layout"
+msgstr "தளவமைப்பைத் திருத்து"
+
+#. Time panels
+#, java-printf-format
+msgctxt "time_panel_picker"
+msgid "Time Panel Picker"
+msgstr "நேர பேனல் பிக்கர்"
+
+#, java-printf-format
+msgctxt "time_panel_elapsed_time"
+msgid "Elapsed time"
+msgstr "கடந்த நேரம்"
+
+#, java-printf-format
+msgctxt "time_panel_elapsed_percent"
+msgid "Elapsed time in percent"
+msgstr "விழுக்காடு கடந்த நேரம்"
+
+#, java-printf-format
+msgctxt "time_panel_remaining_time"
+msgid "Remaining time"
+msgstr "மீதமுள்ள நேரம்"
+
+#, java-printf-format
+msgctxt "time_panel_remaining_percent"
+msgid "Remaining time in percent"
+msgstr "விழுக்காடு மீதமுள்ள நேரம்"
+
+#, java-printf-format
+msgctxt "time_panel_step_end_time"
+msgid "Step end time"
+msgstr "படி இறுதி நேரம்"
+
+#, java-printf-format
+msgctxt "time_panel_timer_end_time"
+msgid "Timer end time"
+msgstr "நேரங்குறிகருவி இறுதி நேரம்"
+
+#. Notifications
+#, java-printf-format
+msgctxt "notif_timer_title"
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#, java-printf-format
+msgctxt "notif_timer_running"
+msgid "%1$s running"
+msgstr "%1$s இயங்கும்"
+
+#, java-printf-format
+msgctxt "notif_timer_paused"
+msgid "%1$s paused"
+msgstr "%1$s இடைநிறுத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "notif_timer_screen_showing"
+msgid "%1$s is waking the screen"
+msgstr "%1$s திரையை எழுப்புகிறது"
+
+#, java-printf-format
+msgctxt "notif_channel_fore_title"
+msgid "Foreground Service"
+msgstr "முன்புற பணி"
+
+#, java-printf-format
+msgctxt "notif_channel_fore_desp"
+msgid "Controls all notifications"
+msgstr "அனைத்து அறிவிப்புகளையும் கட்டுப்படுத்துகிறது"
+
+#, java-printf-format
+msgctxt "notif_channel_timing_title"
+msgid "Timing Notification"
+msgstr "நேர அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "notif_channel_timing_desp"
+msgid "Shows the info of an ongoing timer and its actions"
+msgstr ""
+"நடந்துகொண்டிருக்கும் டைமரின் செய்தி மற்றும் அதன் செயல்களைக் காட்டுகிறது"
+
+#, java-printf-format
+msgctxt "notif_channel_screen_title"
+msgid "Screen Notification"
+msgstr "திரை அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "notif_channel_screen_desp"
+msgid "Used by Screen reminder"
+msgstr "திரை நினைவூட்டலால் பயன்படுத்தப்படுகிறது"
+
+#, java-printf-format
+msgctxt "notif_channel_b_notif_title"
+msgid "\"Notification\" Reminder Notification"
+msgstr "\"அறிவிப்பு\" நினைவூட்டல் அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "notif_channel_b_notif_desp"
+msgid "Used by Notification reminder"
+msgstr "அறிவிப்பு நினைவூட்டலால் பயன்படுத்தப்படுகிறது"
+
+#, java-printf-format
+msgctxt "notif_channel_app_info_title"
+msgid "App Info"
+msgstr "பயன்பாட்டு செய்தி"
+
+#, java-printf-format
+msgctxt "notif_channel_app_info_desp"
+msgid "Like errors, billing issues, account issues, etc"
+msgstr "பிழைகள், பட்டியலிடல் சிக்கல்கள், கணக்கு சிக்கல்கள் போன்றவை"
+
+#, java-printf-format
+msgctxt "notif_timers_running"
+msgid "%1$s running"
+msgstr "%1$s இயங்கும்"
+
+#, java-printf-format
+msgctxt "notif_timers_paused"
+msgid "%1$s paused"
+msgstr "%1$s இடைநிறுத்தப்பட்டது"
+
+#, java-printf-format
+msgctxt "notif_a11y_start_ally"
+msgid "Start all timers"
+msgstr "எல்லா டைமர்களையும் தொடங்கவும்"
+
+#, java-printf-format
+msgctxt "notif_a11y_pause_ally"
+msgid "Pause all timers"
+msgstr "அனைத்து டைமர்களையும் இடைநிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "notif_a11y_stop_ally"
+msgid "Stop all timers"
+msgstr "எல்லா டைமர்களையும் நிறுத்துங்கள்"
+
+#. Scheduler
+#, java-printf-format
+msgctxt "scheduler_alert_title"
+msgid "Please use scheduler at your own risk"
+msgstr "உங்கள் சொந்த ஆபத்தில் திட்டமிடுபவரைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "scheduler_alert_content"
+msgid ""
+"Scheduling work on Android is tricky. There are chances that the system does"
+" not trigger a scheduler. Please test on your own before relying on "
+"schedulers."
+msgstr ""
+"ஆண்ட்ராய்டு இல் வேலை திட்டமிடுவது தந்திரமானது. கணினி ஒரு திட்டமிடலைத் "
+"தூண்டாத வாய்ப்புகள் உள்ளன. திட்டமிடுபவர்களை நம்புவதற்கு முன் தயவுசெய்து "
+"உங்கள் சொந்தமாக சோதிக்கவும்."
+
+#, java-printf-format
+msgctxt "scheduler_default_name"
+msgid "Scheduler"
+msgstr "திட்டமிடுபவர்"
+
+#, java-printf-format
+msgctxt "scheduler_title"
+msgid "Edit Scheduler"
+msgstr "திட்டமிடுபவரைத் திருத்து"
+
+#, java-printf-format
+msgctxt "scheduler_name"
+msgid "Scheduler Name"
+msgstr "திட்டமிடுபவர் பெயர்"
+
+#, java-printf-format
+msgctxt "scheduler_timer"
+msgid "Timer"
+msgstr "நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "scheduler_action"
+msgid "Action"
+msgstr "செயல்"
+
+#, java-printf-format
+msgctxt "scheduler_start"
+msgid "Start the timer"
+msgstr "டைமரைத் தொடங்கவும்"
+
+#, java-printf-format
+msgctxt "scheduler_end"
+msgid "Stop the timer"
+msgstr "டைமரை நிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "scheduler_time"
+msgid "Time"
+msgstr "நேரம்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat"
+msgid "Repeat"
+msgstr "மீண்டும்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_once"
+msgid "Once"
+msgstr "ஒருமுறை"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_every_week"
+msgid "Repeat every week"
+msgstr "ஒவ்வொரு வாரமும் மீண்டும் செய்யவும்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_every_days"
+msgid "Repeat every several days"
+msgstr "ஒவ்வொரு பல நாட்களிலும் மீண்டும் செய்யவும்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_every"
+msgid "Every"
+msgstr "ஒவ்வொன்றும்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_days"
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] "நாள்"
+msgstr[1] "நாட்கள்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_every_day"
+msgid "Every day"
+msgstr "தினமும்"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_tomorrow"
+msgid "Tomorrow"
+msgstr "நாளை"
+
+#, java-printf-format
+msgctxt "scheduler_repeat_today"
+msgid "Today"
+msgstr "இன்று"
+
+#, java-printf-format
+msgctxt "scheduler_wrong_timer_id"
+msgid "This scheduler requires a timer"
+msgstr "இந்த திட்டமிடலுக்கு ஒரு நேரங்குறிகருவி தேவை"
+
+#, java-printf-format
+msgctxt "scheduler_wrong_every_days"
+msgid "This value should be between 1 and 127"
+msgstr "இந்த மதிப்பு 1 முதல் 127 வரை இருக்க வேண்டும்"
+
+#, java-printf-format
+msgctxt "scheduler_set1"
+msgid "Scheduler set for less than 1 minute from now"
+msgstr "இப்போதிலிருந்து 1 நிமிடத்திற்கும் குறைவாக திட்டமிடல் அமைக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "scheduler_set2"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 days\" id=\"DAYS\">%1$s</xliff:g> "
+"from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 நாட்கள்\" ஐடி = \"நாட்கள்\">%1$s </xliff: g>"
+" க்கான திட்டமிடல் அமைக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "scheduler_set3"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 hours\" id=\"HOURS\">%2$s</xliff:g> "
+"from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 மணிநேரம்\" ஐடி = \"மணிநேரம்\">%2$s </xliff: "
+"g> க்கான திட்டமிடல் அமைக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "scheduler_set4"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 days\" id=\"DAYS\">%1$s</xliff:g> and"
+" <xliff:g example=\"2 hours\" id=\"HOURS\">%2$s</xliff:g> from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 நாட்கள்\" ஐடி = \"நாட்கள்\">%1$s </xliff: g>"
+" மற்றும் <xliff: g எடுத்துக்காட்டு = \"2 மணிநேரம்\" ஐடி = \"மணிநேரம்\">%2$s "
+"</xliff: g>"
+
+#, java-printf-format
+msgctxt "scheduler_set5"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 minutes\" "
+"id=\"MINUTES\">%3$s</xliff:g> from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 நிமிடங்கள்\" ஐடி = \"நிமிடங்கள்\">%3$s "
+"</xliff: g> க்கான திட்டமிடல் அமைக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "scheduler_set6"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 days\" id=\"DAYS\">%1$s</xliff:g> and"
+" <xliff:g example=\"2 minutes\" id=\"MINUTES\">%3$s</xliff:g> from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 நாட்கள்\" ஐடி = \"நாட்கள்\">%1$s </xliff: g>"
+" மற்றும் <xliff: g எடுத்துக்காட்டு = \"2 நிமிடங்கள்\" ஐடி = "
+"\"நிமிடங்கள்\">%3$s </xliff: g>"
+
+#, java-printf-format
+msgctxt "scheduler_set7"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 hours\" id=\"HOURS\">%2$s</xliff:g> "
+"and <xliff:g example=\"2 minutes\" id=\"MINUTES\">%3$s</xliff:g> from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 மணிநேரம்\" ஐடி = \"மணிநேரம்\">%2$s </xliff: "
+"g> மற்றும் <xliff: g எடுத்துக்காட்டு = \"2 நிமிடங்கள்\" ஐடி = "
+"\"நிமிடங்கள்\">%3$s </xliff: g>"
+
+#, java-printf-format
+msgctxt "scheduler_set8"
+msgid ""
+"Scheduler set for <xliff:g example=\"2 days\" id=\"DAYS\">%1$s</xliff:g>, "
+"<xliff:g example=\"2 hours\" id=\"HOURS\">%2$s</xliff:g>, and <xliff:g "
+"example=\"2 minutes\" id=\"MINUTES\">%3$s</xliff:g> from now"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"2 நாட்கள்\" ஐடி = \"நாட்கள்\">%1$s </xliff: "
+"g>, <xliff: g எடுத்துக்காட்டு = \"2 மணிநேரம்\" ஐடி = \"மணிநேரம்\""
+
+#, java-printf-format
+msgctxt "scheduler_schedule_failed"
+msgid "Setting scheduler failed %s"
+msgstr "திட்டமிடலை அமைத்தல் %s தோல்வியுற்றது"
+
+#, java-printf-format
+msgctxt "scheduler_canceled_template"
+msgid "%1$s canceled"
+msgstr "%1$s ரத்து செய்யப்பட்டன"
+
+#, java-printf-format
+msgctxt "scheduler_starts_action_template"
+msgid "Start %1$s"
+msgstr "தொடக்க %1$s"
+
+#, java-printf-format
+msgctxt "scheduler_stops_action_template"
+msgid "Stop %1$s"
+msgstr "%1$s ஐ நிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "schedulers"
+msgid "1 scheduler"
+msgid_plural "%1$s schedulers"
+msgstr[0] "1 திட்டமிடுபவர்"
+msgstr[1] "%1$s திட்டமிடுபவர்கள்"
+
+#, java-printf-format
+msgctxt "days"
+msgid "1 day"
+msgid_plural "<xliff:g example=\"7\" id=\"number\">%s</xliff:g> days"
+msgstr[0] "1 நாள்"
+msgstr[1] "<xliff: g எடுத்துக்காட்டு = \"7\" ஐடி = \"எண்\">%s </xliff: g> நாட்கள்"
+
+#, java-printf-format
+msgctxt "hours"
+msgid "1 hour"
+msgid_plural "<xliff:g example=\"7\" id=\"number\">%s</xliff:g> hours"
+msgstr[0] "1 மணி நேரம்"
+msgstr[1] "<xliff: g எடுத்துக்காட்டு = \"7\" ஐடி = \"எண்\">%s </xliff: g> மணிநேரம்"
+
+#, java-printf-format
+msgctxt "minutes"
+msgid "1 minute"
+msgid_plural "<xliff:g example=\"7\" id=\"number\">%s</xliff:g> minutes"
+msgstr[0] "1 மணித்துளி"
+msgstr[1] "<xliff: g எடுத்துக்காட்டு = \"7\" ஐடி = \"எண்\">%s </xliff: g> நிமிடங்கள்"
+
+#, java-printf-format
+msgctxt "seconds_0"
+msgid "0 second"
+msgstr "0 இரண்டாவது"
+
+#, java-printf-format
+msgctxt "seconds"
+msgid "1 second"
+msgid_plural "<xliff:g example=\"7\" id=\"number\">%s</xliff:g> seconds"
+msgstr[0] "1 நொடி"
+msgstr[1] "<xliff: g எடுத்துக்காட்டு = \"7\" ஐடி = \"எண்\">%s </xliff: g> விநாடிகள்"
+
+#. Shortcut
+#, java-printf-format
+msgctxt "shortcut_created"
+msgid "Shortcut created"
+msgstr "குறுக்குவழி உருவாக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "shortcut_disabled"
+msgid "Timer not found. Please recreate one"
+msgstr ""
+"நேரங்குறிகருவி கண்டுபிடிக்கப்படவில்லை. தயவுசெய்து ஒன்றை மீண்டும் "
+"உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "shortcut_not_support"
+msgid "The current launcher can't create a shortcut"
+msgstr "தற்போதைய துவக்கத்தால் குறுக்குவழியை உருவாக்க முடியாது"
+
+#, java-printf-format
+msgctxt "shortcut_remove_old"
+msgid "Please delete this timer's old shortcut first"
+msgstr "இந்த டைமரின் பழைய குறுக்குவழியை முதலில் நீக்கவும்"
+
+#, java-printf-format
+msgctxt "shortcut_timer_started"
+msgid "The timer has started"
+msgstr "நேரங்குறிகருவி தொடங்கியது"
+
+#. Theme
+#, java-printf-format
+msgctxt "theme_title"
+msgid "App Theme"
+msgstr "பயன்பாட்டு கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "theme_light_status_bar"
+msgid "Light status bar"
+msgstr "ஒளி நிலை பட்டி"
+
+#, java-printf-format
+msgctxt "theme_theme_nav_bar"
+msgid "Tint navigation bar"
+msgstr "சாயல் வழிசெலுத்தல் பட்டி"
+
+#, java-printf-format
+msgctxt "theme_custom_title"
+msgid "Custom Theme"
+msgstr "தனிப்பயன் கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "theme_custom_primary"
+msgid "Primary color"
+msgstr "முதன்மை நிறம்"
+
+#, java-printf-format
+msgctxt "theme_custom_secondary"
+msgid "Accent color"
+msgstr "உச்சரிப்பு நிறம்"
+
+#, java-printf-format
+msgctxt "theme_pick_colors"
+msgid "Custom"
+msgstr "தனிப்பயன்"
+
+#, java-printf-format
+msgctxt "theme_pick_presets"
+msgid "Presets"
+msgstr "முன்னமைவுகள்"
+
+#, java-printf-format
+msgctxt "theme_pick_back"
+msgid "Back"
+msgstr "பின்"
+
+#, java-printf-format
+msgctxt "theme_step_color_dialog_title"
+msgid "Pick Step Color"
+msgstr "படி நிறத்தைத் தேர்ந்தெடுங்கள்"
+
+#, java-printf-format
+msgctxt "theme_step_color_title"
+msgid "Step Color"
+msgstr "படி நிறம்"
+
+#. Backup
+#, java-printf-format
+msgctxt "backup_local_backup"
+msgid "Local"
+msgstr "உள்ளக"
+
+#, java-printf-format
+msgctxt "backup_app_data"
+msgid "Application Data"
+msgstr "பயன்பாட்டு தரவு"
+
+#, java-printf-format
+msgctxt "backup_app_settings"
+msgid "Application Settings"
+msgstr "பயன்பாட்டு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "backup_next_step"
+msgid "Next Step"
+msgstr "அடுத்த அடி"
+
+#, java-printf-format
+msgctxt "backup_wrong_saf"
+msgid ""
+"Storage Access Framework not found\n"
+"This device doesn't support export and import"
+msgstr ""
+"சேமிப்பக அணுகல் கட்டமைப்பு காணப்படவில்லை\n"
+" இந்த சாதனம் ஏற்றுமதி மற்றும் இறக்குமதியை ஆதரிக்காது"
+
+#, java-printf-format
+msgctxt "backup_key_cloud"
+msgid "backup_key_cloud"
+msgstr "Backub_key_cloud"
+
+#, java-printf-format
+msgctxt "backup_key_export"
+msgid "backup_key_export"
+msgstr "Backup_Key_export"
+
+#, java-printf-format
+msgctxt "backup_key_import"
+msgid "backup_key_import"
+msgstr "காப்புப்பிரதி_கே_இம்போர்ட்"
+
+#. Cloud Backup
+#, java-printf-format
+msgctxt "cloud_backup_title"
+msgid "Cloud Backup"
+msgstr "முகில் காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "cloud_backup_account_issue_notif_title"
+msgid "Cloud Backup Failed"
+msgstr "முகில் காப்புப்பிரதி தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "cloud_backup_account_issue_notif_desp"
+msgid "Unable to find your account. Click here to sign in"
+msgstr ""
+"உங்கள் கணக்கைக் கண்டுபிடிக்க முடியவில்லை. உள்நுழைய இங்கே சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "cloud_backup_billing_issue_notif_title"
+msgid "Cloud Backup Failed"
+msgstr "முகில் காப்புப்பிரதி தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "cloud_backup_billing_issue_notif_desp"
+msgid "Unable to find your subscription. Click here to manage subscriptions"
+msgstr ""
+"உங்கள் சந்தாவைக் கண்டுபிடிக்க முடியவில்லை. சந்தாக்களை நிர்வகிக்க இங்கே "
+"சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "cloud_backup_state_required"
+msgid "Backup required"
+msgstr "காப்புப்பிரதி தேவை"
+
+#, java-printf-format
+msgctxt "cloud_backup_state_scheduled"
+msgid "Scheduled"
+msgstr "திட்டமிடப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "cloud_backup_state_running"
+msgid "In progress"
+msgstr "முன்னேற்றத்தில் உள்ளது"
+
+#, java-printf-format
+msgctxt "cloud_backup_state_up_to_date"
+msgid "Up-to-date"
+msgstr "புதுப்பித்த"
+
+#, java-printf-format
+msgctxt "cloud_backup_state_error"
+msgid "Error"
+msgstr "பிழை"
+
+#, java-printf-format
+msgctxt "cloud_backup_account_required"
+msgid "Create an account to keep track of backups"
+msgstr "காப்புப்பிரதிகளைக் கண்காணிக்க ஒரு கணக்கை உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "cloud_backup_backup_options"
+msgid "Backup Options"
+msgstr "காப்பு விருப்பங்கள்"
+
+#, java-printf-format
+msgctxt "cloud_backup_backup_state"
+msgid "Backup State"
+msgstr "காப்புப்பிரதி நிலை"
+
+#, java-printf-format
+msgctxt "cloud_backup_backup_now"
+msgid "Backup Now"
+msgstr "இப்போது காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "cloud_backup_backup_now_failed"
+msgid "Backup failed"
+msgstr "காப்புப்பிரதி தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "cloud_backup_uploading"
+msgid "Backup in progress…"
+msgstr "காப்புப்பிரதி செயலில் உள்ளது…"
+
+#, java-printf-format
+msgctxt "cloud_backup_finished"
+msgid "Backup finished"
+msgstr "காப்புப்பிரதி முடிந்தது"
+
+#, java-printf-format
+msgctxt "cloud_backup_auto_backup_title"
+msgid "Auto Cloud Backup"
+msgstr "ஆட்டோ முகில் காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "cloud_backup_auto_backup_enabled"
+msgid "Auto Cloud Backup enabled"
+msgstr "ஆட்டோ முகில் காப்புப்பிரதி இயக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "cloud_backup_restore"
+msgid "Restore"
+msgstr "மீட்டமை"
+
+#, java-printf-format
+msgctxt "cloud_backup_restoring"
+msgid "Restoring…"
+msgstr "மீட்டமைத்தல்…"
+
+#, java-printf-format
+msgctxt "cloud_backup_restore_failed"
+msgid "Restore failed"
+msgstr "மீட்டமை தோல்வியடைந்தது"
+
+#, java-printf-format
+msgctxt "cloud_backup_restore_alert"
+msgid "Your app data and settings will be overridden. Continue?"
+msgstr "உங்கள் பயன்பாட்டு தரவு மற்றும் அமைப்புகள் மேலெழுதப்படும். தொடரவா?"
+
+#, java-printf-format
+msgctxt "cloud_backup_other_options"
+msgid "Other Options"
+msgstr "பிற விருப்பங்கள்"
+
+#, java-printf-format
+msgctxt "cloud_backup_recent_error"
+msgid "Recent Error"
+msgstr "அண்மைக் கால பிழை"
+
+#. Export
+#, java-printf-format
+msgctxt "export_data_title"
+msgid "Export Application Data"
+msgstr "பயன்பாட்டு தரவை ஏற்றுமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "export_data_summary"
+msgid "Save this app's data as a file"
+msgstr "இந்த பயன்பாட்டின் தரவை ஒரு கோப்பாக சேமிக்கவும்"
+
+#, java-printf-format
+msgctxt "export_error"
+msgid "Export failed. Please try again."
+msgstr "ஏற்றுமதி தோல்வியடைந்தது. மீண்டும் முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "export_path_title"
+msgid "Export Location"
+msgstr "ஏற்றுமதி இடம்"
+
+#, java-printf-format
+msgctxt "export_select_location"
+msgid "Choose an export location"
+msgstr "ஏற்றுமதி இருப்பிடத்தைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "export_content_title"
+msgid "Content Selection"
+msgstr "உள்ளடக்க தேர்வு"
+
+#, java-printf-format
+msgctxt "export_begin"
+msgid "Begin Exporting"
+msgstr "ஏற்றுமதி செய்யத் தொடங்குங்கள்"
+
+#, java-printf-format
+msgctxt "export_action"
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#, java-printf-format
+msgctxt "export_done"
+msgid "Export done"
+msgstr "ஏற்றுமதி முடிந்தது"
+
+#. Import
+#, java-printf-format
+msgctxt "import_data_title"
+msgid "Import Application Data"
+msgstr "பயன்பாட்டு தரவை இறக்குமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "import_data_summary"
+msgid "Import app's data from an exported file"
+msgstr ""
+"ஏற்றுமதி செய்யப்பட்ட கோப்பிலிருந்து பயன்பாட்டின் தரவை இறக்குமதி செய்யுங்கள்"
+
+#, java-printf-format
+msgctxt "import_error"
+msgid ""
+"Import failed. Please try again.\n"
+"\n"
+"Possible solutions:\n"
+"1. Import again. \n"
+"2. Update the app to the latest version.\n"
+"3. Clean the app data and then import it again."
+msgstr ""
+"இறக்குமதி தோல்வியடைந்தது. மீண்டும் முயற்சிக்கவும்.\n"
+"\n"
+" சாத்தியமான தீர்வுகள்:\n"
+" 1. மீண்டும் இறக்குமதி செய்யுங்கள்.\n"
+" 2. பயன்பாட்டை அண்மைக் கால பதிப்பிற்கு புதுப்பிக்கவும்.\n"
+" 3. பயன்பாட்டு தரவை தூய்மை செய்து மீண்டும் இறக்குமதி செய்யுங்கள்."
+
+#, java-printf-format
+msgctxt "import_path_title"
+msgid "Choose Import File(.json/.tmd)"
+msgstr "இறக்குமதி கோப்பைத் தேர்வுசெய்க (.json/.tmd)"
+
+#, java-printf-format
+msgctxt "import_select_location"
+msgid "Choose File"
+msgstr "கோப்பைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "import_no_file"
+msgid "No file is available"
+msgstr "கோப்பு எதுவும் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "import_empty_file"
+msgid "The file is empty"
+msgstr "கோப்பு காலியாக உள்ளது"
+
+#, java-printf-format
+msgctxt "import_wipe_first"
+msgid "Wipe out old data"
+msgstr "பழைய தரவை அழிக்கவும்"
+
+#, java-printf-format
+msgctxt "import_wipe_warning"
+msgid "This will wipe out current data and then add the new data"
+msgstr "இது தற்போதைய தரவை அழித்து பின்னர் புதிய தரவைச் சேர்க்கும்"
+
+#, java-printf-format
+msgctxt "import_content_title"
+msgid "Content Selection"
+msgstr "உள்ளடக்க தேர்வு"
+
+#, java-printf-format
+msgctxt "import_begin"
+msgid "Begin Importing"
+msgstr "இறக்குமதி செய்யத் தொடங்குங்கள்"
+
+#, java-printf-format
+msgctxt "import_action"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#, java-printf-format
+msgctxt "import_done"
+msgid "Import done"
+msgstr "இறக்குமதி முடிந்தது"
+
+#, java-printf-format
+msgctxt "import_restart_content"
+msgid "Restart the app to activate changes?"
+msgstr "மாற்றங்களைச் செயல்படுத்த பயன்பாட்டை மறுதொடக்கம் செய்யவா?"
+
+#, java-printf-format
+msgctxt "import_restart"
+msgid "Restart"
+msgstr "மறுதொடக்கம்"
+
+#. Help
+#, java-printf-format
+msgctxt "help_email_title"
+msgid "TimeR Machine Feedback"
+msgstr "நேரங்குறிகருவி இயந்திர கருத்து"
+
+#, java-printf-format
+msgctxt "help_tutorial"
+msgid "Tutorial"
+msgstr "பயிற்சி"
+
+#, java-printf-format
+msgctxt "help_tutorial_desp"
+msgid "Get started from here"
+msgstr "இங்கிருந்து தொடங்கவும்"
+
+#, java-printf-format
+msgctxt "help_tips_tricks"
+msgid "Tips and Tricks"
+msgstr "உதவிக்குறிப்புகள் மற்றும் தந்திரங்கள்"
+
+#, java-printf-format
+msgctxt "help_tips_tricks_desp"
+msgid "Get the most out of this app"
+msgstr "இந்த பயன்பாட்டிலிருந்து அதிகம் கிடைக்கும்"
+
+#, java-printf-format
+msgctxt "help_whitelist"
+msgid "Whitelist Guideline"
+msgstr "அனுமதிப்பட்டியல் வழிகாட்டுதல்"
+
+#, java-printf-format
+msgctxt "help_whitelist_desp"
+msgid "Prevent phone vendors from killing this app while it's running"
+msgstr ""
+"தொலைபேசி விற்பனையாளர்கள் இந்த பயன்பாடு இயங்கும்போது அதைக் கொல்வதைத் "
+"தடுக்கவும்"
+
+#, java-printf-format
+msgctxt "help_tts"
+msgid "Text-to-speech Configuration"
+msgstr "உரை-க்கு-பேச்சு உள்ளமைவு"
+
+#, java-printf-format
+msgctxt "help_tts_desp"
+msgid "Voice and Countdown reminders depend on it"
+msgstr "குரல் மற்றும் கவுண்டவுன் நினைவூட்டல்கள் அதைப் பொறுத்தது"
+
+#, java-printf-format
+msgctxt "help_tts_test_read_content"
+msgid "Click here to try to convert this text to speech"
+msgstr "இந்த உரையை பேச்சாக மாற்ற முயற்சிக்க இங்கே சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "help_tts_test_question"
+msgid "Does your device read the text?"
+msgstr "உங்கள் சாதனம் உரையைப் படிக்கிறதா?"
+
+#, java-printf-format
+msgctxt "help_tts_test_yes"
+msgid "Yes!"
+msgstr "ஆம்!"
+
+#, java-printf-format
+msgctxt "help_tts_test_instruction"
+msgid "No. I'd like to read the instruction"
+msgstr "இல்லை. நான் அறிவுறுத்தலைப் படிக்க விரும்புகிறேன்"
+
+#, java-printf-format
+msgctxt "help_tts_test_system_settings"
+msgid "No. I'd like to go to the system settings"
+msgstr "இல்லை. நான் கணினி அமைப்புகளுக்கு செல்ல விரும்புகிறேன்"
+
+#, java-printf-format
+msgctxt "help_tts_test_system_settings_manual"
+msgid ""
+"You need to search \"Text-to-speech\" in the system settings to configure "
+"TTS"
+msgstr "TTS ஐ உள்ளமைக்க கணினி அமைப்புகளில் \"உரை-க்கு-பேச்சு\" தேட வேண்டும்"
+
+#, java-printf-format
+msgctxt "help_qa"
+msgid "Common Q & A"
+msgstr "பொது கேள்வி பதில்"
+
+#, java-printf-format
+msgctxt "help_feedback"
+msgid "Feedback"
+msgstr "கருத்து"
+
+#, java-printf-format
+msgctxt "help_feedback_desp"
+msgid "Send an email and get replied in 24 hours"
+msgstr "ஒரு மின்னஞ்சல் அனுப்பி 24 மணி நேரத்தில் பதிலளிக்கவும்"
+
+#, java-printf-format
+msgctxt "help_key_tutorial"
+msgid "key_help_tutorial"
+msgstr "key_help_tutorial"
+
+#, java-printf-format
+msgctxt "help_key_tips"
+msgid "key_help_tips"
+msgstr "key_help_tips"
+
+#, java-printf-format
+msgctxt "help_key_qa"
+msgid "key_help_qa"
+msgstr "key_help_qa"
+
+#, java-printf-format
+msgctxt "help_key_whitelist"
+msgid "key_help_whitelist"
+msgstr "key_help_whitelist"
+
+#, java-printf-format
+msgctxt "help_key_tts"
+msgid "key_help_tts"
+msgstr "key_help_tts"
+
+#, java-printf-format
+msgctxt "help_key_feedback"
+msgid "key_help_feedback"
+msgstr "key_help_feedback"
+
+#. Dark theme
+#, java-printf-format
+msgctxt "dark_theme_title"
+msgid "Dark Theme"
+msgstr "இருண்ட கருப்பொருள்"
+
+#, java-printf-format
+msgctxt "dark_theme_manual"
+msgid "Manual"
+msgstr "கையேடு"
+
+#, java-printf-format
+msgctxt "dark_theme_scheduled"
+msgid "Scheduled"
+msgstr "திட்டமிடப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "dark_theme_scheduled_from"
+msgid "From"
+msgstr "இருந்து"
+
+#, java-printf-format
+msgctxt "dark_theme_scheduled_to"
+msgid "To"
+msgstr "பெறுநர்"
+
+#, java-printf-format
+msgctxt "dark_theme_system_default"
+msgid "System default"
+msgstr "கணினி இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "dark_theme_battery_saver"
+msgid "Set by battery saver"
+msgstr "பேட்டரி சேவர் அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "dark_theme_scheduled_dark_now"
+msgid "Switched to the dark theme"
+msgstr "இருண்ட கருப்பொருளுக்கு மாறியது"
+
+#, java-printf-format
+msgctxt "dark_theme_scheduled_light_now"
+msgid "Switched to the light theme"
+msgstr "ஒளி கருப்பொருளுக்கு மாறியது"
+
+#. Tweak time
+#, java-printf-format
+msgctxt "tweak_time_title"
+msgid "Tweak Time Settings"
+msgstr "நேர அமைப்புகளை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "tweak_time_main_title"
+msgid "Main Buttons"
+msgstr "முதன்மையான பொத்தான்கள்"
+
+#, java-printf-format
+msgctxt "tweak_time_overflow_title"
+msgid "Overflow Buttons"
+msgstr "வழிதல் பொத்தான்கள்"
+
+#. App preferences
+#, java-printf-format
+msgctxt "pref_category_title_app"
+msgid "Application Settings"
+msgstr "பயன்பாட்டு அமைப்புகள்"
+
+#. Timer preferences
+#, java-printf-format
+msgctxt "pref_category_title_timer_setting"
+msgid "Timer Settings"
+msgstr "நேரங்குறிகருவி அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "pref_screen_title"
+msgid "Screen Brightness"
+msgstr "திரை ஒளி"
+
+#, java-printf-format
+msgctxt "pref_screen_title_on"
+msgid "Keep the screen on"
+msgstr "திரையை வைத்திருங்கள்"
+
+#, java-printf-format
+msgctxt "pref_screen_title_dim"
+msgid "Dim the screen"
+msgstr "திரை மங்கலானது"
+
+#, java-printf-format
+msgctxt "pref_screen_title_default"
+msgid "Use system default"
+msgstr "கணினி இயல்புநிலையைப் பயன்படுத்தவும்"
+
+#, java-printf-format
+msgctxt "pref_screen_value_keep"
+msgid "screen_keep"
+msgstr "ச்கிரீன்_கீப்"
+
+#, java-printf-format
+msgctxt "pref_screen_value_dim"
+msgid "screen_dim"
+msgstr "திரை_டிம்"
+
+#, java-printf-format
+msgctxt "pref_screen_value_default"
+msgid "screen_system"
+msgstr "திரை_ அமைப்பு"
+
+#, java-printf-format
+msgctxt "pref_screen_timing_title"
+msgid "Screen Brightness Application Timing"
+msgstr "திரை ஒளி பயன்பாட்டு நேரம்"
+
+#, java-printf-format
+msgctxt "pref_screen_timing_title_open"
+msgid "When the app is open"
+msgstr "பயன்பாடு திறந்திருக்கும் போது"
+
+#, java-printf-format
+msgctxt "pref_screen_timing_title_running"
+msgid "When the app is open and any timer is running"
+msgstr "பயன்பாடு திறந்திருக்கும் போது மற்றும் எந்த டைமரும் இயங்கும்போது"
+
+#, java-printf-format
+msgctxt "pref_screen_timing_value_timer"
+msgid "timer"
+msgstr "நேரங்குறிகருவி"
+
+#, java-printf-format
+msgctxt "pref_screen_timing_value_service"
+msgid "service"
+msgstr "பணி"
+
+#, java-printf-format
+msgctxt "pref_screen_timing_value_default"
+msgid "@string/pref_screen_timing_value_timer"
+msgstr "@string/pref_screen_timing_value_timer"
+
+#, java-printf-format
+msgctxt "pref_notifier_plus_title"
+msgid "When plus time at a notifier"
+msgstr "ஒரு அறிவிப்பாளரில் பிளச் நேரம் போது"
+
+#, java-printf-format
+msgctxt "pref_notifier_plus_title_return"
+msgid "Return to the last step and set time to 1m"
+msgstr "கடைசி கட்டத்திற்குத் திரும்பி 1 மீட்டர் வரை நேரத்தை அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_notifier_plus_title_time"
+msgid "Add more time"
+msgstr "அதிக நேரம் சேர்க்கவும்"
+
+#, java-printf-format
+msgctxt "pref_tweak_time_title"
+msgid "Advanced Time Tweak"
+msgstr "மேம்பட்ட நேர மாற்றங்கள்"
+
+#, java-printf-format
+msgctxt "pref_tweak_time_on"
+msgid "Enabled"
+msgstr "இயக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "pref_tweak_time_off"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip"
+msgid "Floating Window & PIP"
+msgstr "மிதக்கும் சாளரம் & பிப்"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_auto_close"
+msgid "Automatically Close Window"
+msgstr "தானாக சாளரத்தை மூடு"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_auto_close_on"
+msgid "When a timer finishes, close the floating window or PIP"
+msgstr "ஒரு நேரங்குறிகருவி முடிந்ததும், மிதக்கும் சாளரம் அல்லது பிப் மூடு"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_auto_close_off"
+msgid "When a timer finishes, keep the floating window or PIP open"
+msgstr ""
+"ஒரு நேரங்குறிகருவி முடிவடையும் போது, ​​மிதக்கும் சாளரத்தை அல்லது பிப் "
+"திறந்து வைக்கவும்"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_floating"
+msgid "Floating Window"
+msgstr "மிதக்கும் சாளரம்"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_floating_alpha"
+msgid "Window Transparency"
+msgstr "சாளர வெளிப்படைத்தன்மை"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_floating_size"
+msgid "Window Size"
+msgstr "விண்டர் அளவு"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_pip"
+msgid "PIP"
+msgstr "பிப்"
+
+#, java-printf-format
+msgctxt "settings_floating_window_pip_floating_failed"
+msgid "Unable to create a Floating Window. Please try again"
+msgstr "மிதக்கும் சாளரத்தை உருவாக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_phone_call"
+msgid "When the phone is on a call"
+msgstr "தொலைபேசி அழைப்பில் இருக்கும்போது"
+
+#, java-printf-format
+msgctxt "pref_phone_call_title_nothing"
+msgid "Do nothing"
+msgstr "எதுவும் செய்ய வேண்டாம்"
+
+#, java-printf-format
+msgctxt "pref_phone_call_title_pause"
+msgid "Pause all timers"
+msgstr "அனைத்து டைமர்களையும் இடைநிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "pref_phone_call_title_pause_resume"
+msgid "Pause and then resume all after the call"
+msgstr ""
+"இடைநிறுத்தப்பட்டு பின்னர் அழைப்புக்குப் பிறகு அனைத்தையும் மீண்டும் "
+"தொடங்குங்கள்"
+
+#, java-printf-format
+msgctxt "pref_show_timer_total_time"
+msgid "Total Time When Editing"
+msgstr "திருத்துதல் செய்யும் போது மொத்த நேரம்"
+
+#, java-printf-format
+msgctxt "pref_show_timer_total_time_on"
+msgid "Show the total time of the timer and groups"
+msgstr "நேரங்குறிகருவி மற்றும் குழுக்களின் மொத்த நேரத்தைக் காட்டு"
+
+#, java-printf-format
+msgctxt "pref_show_timer_total_time_off"
+msgid "Hide it"
+msgstr "அதை மறைக்க"
+
+#. Use the previously generated speech synthesis file instead of synthesizing
+#. the voice every time. Similar to caching.
+#, java-printf-format
+msgctxt "pref_tts_bakery"
+msgid "Text-to-speech bakery"
+msgstr "உரை-க்கு-பேச்சு பேக்கரி"
+
+#, java-printf-format
+msgctxt "pref_tts_bakery_off"
+msgid ""
+"Generate the audio file of every Text-to-speech content for a quick speech "
+"afterward"
+msgstr ""
+"ஒவ்வொரு உரை-க்கு-பேச்சு உள்ளடக்கத்தின் ஆடியோ கோப்பை விரைவான பேச்சுக்கு "
+"உருவாக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_tts_bakery_on"
+msgid "If Text-to-speech malfunctions, please turn off this option"
+msgstr ""
+"உரை-க்கு-பேச்சு செயலிழப்புகள் என்றால், தயவுசெய்து இந்த விருப்பத்தை "
+"அணைக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_media_style_notification"
+msgid "Media Style Notification"
+msgstr "மீடியா பாணி ​​அறிவிப்பு"
+
+#. Reminder preferences
+#, java-printf-format
+msgctxt "pref_reminder"
+msgid "Reminder"
+msgstr "நினைவூட்டல்"
+
+#, java-printf-format
+msgctxt "pref_reminder_baked_count_title"
+msgid "Baked count sound"
+msgstr "வேகவைத்த எண்ணிக்கை ஒலி"
+
+#, java-printf-format
+msgctxt "pref_reminder_baked_count_desp"
+msgid ""
+"When counting down from 20 to 0, play recorded sound instead of synthesizing the speech from text.\n"
+"\n"
+"This is faster and more consistent."
+msgstr ""
+"20 முதல் 0 வரை கணக்கிடும்போது, ​​உரையிலிருந்து உரையை ஒருங்கிணைப்பதற்கு பதிலாக பதிவுசெய்யப்பட்ட ஒலி.\n"
+"\n"
+" இது வேகமாகவும் சீரானதாகவும் இருக்கிறது."
+
+#, java-printf-format
+msgctxt "pref_reminder_baked_count_on"
+msgid "Enabled"
+msgstr "இயக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "pref_reminder_baked_count_off"
+msgid "Disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "pref_reminder_baked_count_downloading"
+msgid "Downloading resources…"
+msgstr "வளங்களை பதிவிறக்குகிறது…"
+
+#. Scheduler preferences
+#, java-printf-format
+msgctxt "pref_category_title_scheduler_setting"
+msgid "Scheduler Settings"
+msgstr "திட்டமிடல் அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "pref_week_start_title"
+msgid "Start Week on"
+msgstr "வாரத்தைத் தொடங்கவும்"
+
+#. Notification preferences
+#, java-printf-format
+msgctxt "pref_category_notif"
+msgid "Notifications"
+msgstr "அறிவிப்புகள்"
+
+#, java-printf-format
+msgctxt "pref_open_notif_setting"
+msgid "Open Notification Settings"
+msgstr "அறிவிப்பு அமைப்புகளைத் திறக்கவும்"
+
+#. Audio preferences
+#, java-printf-format
+msgctxt "pref_category_title_audio"
+msgid "Audio"
+msgstr "ஆடியோ"
+
+#, java-printf-format
+msgctxt "pref_audio_focus_type_title"
+msgid "Audio Focus Type"
+msgstr "ஆடியோ கவனம் வகை"
+
+#. AudioManager.AUDIOFOCUS_GAIN
+#, java-printf-format
+msgctxt "pref_audio_focus_type_default"
+msgid "2"
+msgstr "2"
+
+#, java-printf-format
+msgctxt "pref_audio_focus_title_pause"
+msgid "Pause other sounds"
+msgstr "மற்ற ஒலிகளை இடைநிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "pref_audio_focus_title_stop"
+msgid "Stop other sounds"
+msgstr "மற்ற ஒலிகளை நிறுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "pref_audio_focus_title_lower"
+msgid "Lower other sounds"
+msgstr "மற்ற ஒலிகளைக் குறைக்கவும்"
+
+#, java-printf-format
+msgctxt "pref_audio_focus_title_none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "pref_audio_type_title"
+msgid "Sound Type"
+msgstr "ஒலி வகை"
+
+#, java-printf-format
+msgctxt "pref_audio_type_title_alarm"
+msgid "Alarm"
+msgstr "அலாரம்"
+
+#, java-printf-format
+msgctxt "pref_audio_type_title_media"
+msgid "Media"
+msgstr "ஊடகம்"
+
+#, java-printf-format
+msgctxt "pref_audio_type_title_notification"
+msgid "Notification"
+msgstr "அறிவிப்பு"
+
+#, java-printf-format
+msgctxt "pref_audio_volume_title"
+msgid "Volume"
+msgstr "தொகுதி"
+
+#. Other preferences
+#, java-printf-format
+msgctxt "pref_title_other"
+msgid "Other"
+msgstr "மற்றொன்று"
+
+#, java-printf-format
+msgctxt "rate_five_stars"
+msgid "Rate This App 5 Stars"
+msgstr "இந்த பயன்பாட்டை 5 நட்சத்திரங்களை மதிப்பிடுங்கள்"
+
+#, java-printf-format
+msgctxt "pref_recommend"
+msgid "Share This App"
+msgstr "இந்த பயன்பாட்டைப் பகிரவும்"
+
+#, java-printf-format
+msgctxt "pref_about_title"
+msgid "About"
+msgstr "பற்றி"
+
+#, java-printf-format
+msgctxt "about_version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, java-printf-format
+msgctxt "about_source_code"
+msgid "Source code"
+msgstr "மூலக் குறியீடு"
+
+#, java-printf-format
+msgctxt "about_developer"
+msgid "Developer"
+msgstr "உருவாக்குநர்"
+
+#, java-printf-format
+msgctxt "about_more_apps_from_me"
+msgid "More apps from me"
+msgstr "என்னிடமிருந்து கூடுதல் பயன்பாடுகள்"
+
+#, java-printf-format
+msgctxt "share_content"
+msgid "TimeR Machine, a great interval/workouts timer app"
+msgstr ""
+"நேரங்குறிகருவி மெசின், ஒரு சிறந்த இடைவெளி/உடற்பயிற்சி நேரங்குறிகருவி "
+"பயன்பாடு"
+
+#. Log
+#, java-printf-format
+msgctxt "log_title"
+msgid "App log"
+msgstr "பயன்பாட்டு பதிவு"
+
+#. App intro
+#, java-printf-format
+msgctxt "intro_start_sample_timer_name"
+msgid "Exercise Plan"
+msgstr "உடற்பயிற்சி திட்டம்"
+
+#, java-printf-format
+msgctxt "intro_start_sample_timer_step1"
+msgid "Run 3 minutes"
+msgstr "3 நிமிடங்கள் இயக்கவும்"
+
+#, java-printf-format
+msgctxt "intro_start_sample_timer_step2"
+msgid "End of Run"
+msgstr "ரன் முடிவு"
+
+#, java-printf-format
+msgctxt "intro_start_sample_timer_step3"
+msgid "Walk 2 minutes"
+msgstr "2 நிமிடங்கள் நடக்க"
+
+#, java-printf-format
+msgctxt "intro_start_sample_timer_step4"
+msgid "End of Walk"
+msgstr "நடைப்பயணத்தின் முடிவு"
+
+#, java-printf-format
+msgctxt "intro_start_welcome"
+msgid ""
+"Welcome!\n"
+"Click the <b>Right Arrow</b> below to start the tutorial."
+msgstr ""
+"வரவேற்கிறோம்!\n"
+" டுடோரியலைத் தொடங்க கீழே உள்ள <b> வலது அம்பு </b> ஐக் சொடுக்கு செய்க."
+
+#, java-printf-format
+msgctxt "intro_start_our_plan"
+msgid ""
+"Let's create an exercise plan where we <b>run for 3 minutes</b>, then "
+"<b>walk 2 minutes</b>, and <b>loop the process 5 times</b>."
+msgstr ""
+"ஒரு உடற்பயிற்சி திட்டத்தை உருவாக்குவோம், அங்கு நாம் <b> 3 நிமிடங்கள் "
+"இயக்குகிறோம் </b>, பின்னர் <b> 2 நிமிடங்கள் நடக்க வேண்டும் </b>, மற்றும் <b>"
+" செயல்முறையை 5 முறை லூப் செய்யுங்கள் </b>."
+
+#, java-printf-format
+msgctxt "intro_start_create_timer"
+msgid "Click ➕ to create a new timer."
+msgstr "புதிய டைமரை உருவாக்க ➕ என்பதைக் சொடுக்கு செய்க."
+
+#, java-printf-format
+msgctxt "intro_start_enter_loop"
+msgid "First, set the <b>Loop</b> to <b>5</b>."
+msgstr "முதலில், <b> லூப் </b> ஐ <b> 5 </b> ஆக அமைக்கவும்."
+
+#, java-printf-format
+msgctxt "intro_start_step_card"
+msgid "A card represents a step of the plan."
+msgstr "ஒரு அட்டை திட்டத்தின் ஒரு படியைக் குறிக்கிறது."
+
+#, java-printf-format
+msgctxt "intro_start_step_time"
+msgid ""
+"Click <b>the time by the side of the step name</b> and change the time to "
+"<b>3 minutes</b>."
+msgstr ""
+"<b> படி பெயரின் பக்கத்திலுள்ள நேரத்தைக் சொடுக்கு செய்து, நேரத்தை <b> 3 "
+"நிமிடங்கள் </b> ஆக மாற்றவும்."
+
+#, java-printf-format
+msgctxt "intro_start_notifier"
+msgid ""
+"In this app, you <b>must add reminders after a step, or the app won't remind"
+" you</b>."
+msgstr ""
+"இந்த பயன்பாட்டில், நீங்கள் <b> ஒரு படிக்குப் பிறகு நினைவூட்டல்களைச் சேர்க்க "
+"வேண்டும், அல்லது பயன்பாடு உங்களுக்கு நினைவூட்டாது </b>."
+
+#, java-printf-format
+msgctxt "intro_start_add_notifier"
+msgid ""
+"Click <b>Notifier</b> button to add a step to remind you after the run."
+msgstr ""
+"இயக்கப்பட்ட பிறகு உங்களுக்கு நினைவூட்ட ஒரு படி சேர்க்க <b> அறிவிப்பாளர் </b>"
+" பொத்தானைக் சொடுக்கு செய்க."
+
+#, java-printf-format
+msgctxt "intro_start_add_reminder"
+msgid ""
+"Click ➕ below the step duration to add reminders. Let's add <b>Music</b> and"
+" <b>Vibration</b>."
+msgstr ""
+"நினைவூட்டல்களைச் சேர்க்க படி காலத்திற்கு கீழே ➕ என்பதைக் சொடுக்கு செய்க. <b>"
+" இசை </b> மற்றும் <b> அதிர்வு </b> ஆகியவற்றைச் சேர்ப்போம்."
+
+#, java-printf-format
+msgctxt "intro_start_reminder_usage"
+msgid ""
+"You can <b>long-press a reminder to check its usage</b>, on added reminders,"
+" or when selecting."
+msgstr ""
+"கூடுதல் நினைவூட்டல்களில் அல்லது தேர்ந்தெடுக்கும்போது, ​​அதன் பயன்பாட்டை "
+"சரிபார்க்க ஒரு நினைவூட்டலை நீங்கள் <b> நீண்ட நேரம் அழுத்தலாம்."
+
+#, java-printf-format
+msgctxt "intro_start_add_walk_step"
+msgid "Add a <b>Normal</b> step for walking."
+msgstr "ஒரு <b> இயல்பான </b> நடைபயிற்சி படி."
+
+#, java-printf-format
+msgctxt "intro_start_walk_step_name"
+msgid "Set the walk time to <b>2 minutes</b>."
+msgstr "நடை நேரத்தை <b> 2 நிமிடங்கள் </b> க்கு அமைக்கவும்."
+
+#, java-printf-format
+msgctxt "intro_start_walk_notifier"
+msgid "Add <b>another notifier</b> to <b>get reminded after the walk</b>."
+msgstr ""
+"<b> மற்றொரு அறிவிப்பாளரைச் சேர்க்கவும் </b> <b> நடைப்பயணத்திற்குப் பிறகு "
+"நினைவூட்டப்படுங்கள் </b>."
+
+#, java-printf-format
+msgctxt "intro_start_timer_done"
+msgid ""
+"Setup is done! Let's click ✔ at the top of the screen to <b>save the "
+"timer</b>."
+msgstr ""
+"அமைப்பு முடிந்தது! திரையின் மேற்புறத்தில் <b> டைமரைச் சேமி </b> க்கு "
+"சொடுக்கு செய்வோம்."
+
+#, java-printf-format
+msgctxt "intro_start_run_timer"
+msgid "<b>Click the timer</b> to enter the running screen."
+msgstr "<b> இயங்கும் திரையை உள்ளிட நேரங்குறிகருவியைக் சொடுக்கு செய்க </b>."
+
+#, java-printf-format
+msgctxt "intro_start_timer_time"
+msgid ""
+"This part shows <b>the remaining time</b>, the remaining loop, and the "
+"button to tweak time."
+msgstr ""
+"இந்த பகுதி <b> மீதமுள்ள நேரம் </b>, மீதமுள்ள வளையத்தையும், நேரத்தை "
+"மாற்றுவதற்கான பொத்தானையும் காட்டுகிறது."
+
+#, java-printf-format
+msgctxt "intro_start_timer_steps"
+msgid ""
+"This part shows <b>the step list</b> and highlights <b>the current running "
+"step</b>."
+msgstr ""
+"இந்த பகுதி <b> படி பட்டியல் </b> ஐக் காட்டுகிறது <b> தற்போதைய இயங்கும் படி "
+"</b> ஐ எடுத்துக்காட்டுகிறது."
+
+#, java-printf-format
+msgctxt "intro_start_timer_buttons"
+msgid ""
+"This is the control panel. They're <b>Stop, Previous Step, Start/Pause, Next"
+" Step</b>, and more options."
+msgstr ""
+"இது கட்டுப்பாட்டு குழு. அவை <b> நிறுத்தம், முந்தைய படி, தொடக்க/இடைநிறுத்தம்,"
+" அடுத்த படி </b> மற்றும் கூடுதல் விருப்பங்கள்."
+
+#, java-printf-format
+msgctxt "intro_start_finish"
+msgid "<b>Congratulations! You've finished the tutorial.</b>"
+msgstr "<b> வாழ்த்துக்கள்! நீங்கள் டுடோரியலை முடித்துவிட்டீர்கள். </B>"
+
+#, java-printf-format
+msgctxt "intro_start_edit_behaviour"
+msgid ""
+"Click allows you to edit a reminder. For now, please finish the tutorial "
+"first"
+msgstr ""
+"ஒரு நினைவூட்டலைத் திருத்த உங்களை அனுமதிக்கிறது. இப்போதைக்கு, முதலில் "
+"டுடோரியலை முடிக்கவும்"
+
+#, java-printf-format
+msgctxt "intro_start_quick_start_pause"
+msgid ""
+"This starts a timer quickly. For now, click on the timer name to see its "
+"detail"
+msgstr ""
+"இது விரைவாக ஒரு டைமரைத் தொடங்குகிறது. இப்போதைக்கு, நேரங்குறிகருவி பெயரை அதன்"
+" விவரங்களைக் காண சொடுக்கு செய்க"
+
+#, java-printf-format
+msgctxt "intro_save_for_later"
+msgid "You can try this after the tutorial"
+msgstr "டுடோரியலுக்குப் பிறகு இதை முயற்சி செய்யலாம்"
+
+#, java-printf-format
+msgctxt "intro_exit_confirmation"
+msgid "Exit the tutorial?"
+msgstr "டுடோரியலில் இருந்து வெளியேறவா?"
+
+#, java-printf-format
+msgctxt "intro_exit_difficult_app_alert"
+msgid "Without finishing the tutorial, the app may be confusing to use."
+msgstr "டுடோரியலை முடிக்காமல், பயன்பாடு பயன்படுத்த குழப்பமாக இருக்கலாம்."
+
+#, java-printf-format
+msgctxt "intro_exit_previous_hint"
+msgid ""
+"To go back to the previous step, click the <b>Left Arrow</b> at the bottom "
+"of the screen."
+msgstr ""
+"முந்தைய படிக்குச் செல்ல, திரையின் அடிப்பகுதியில் உள்ள <b> இடது அம்பு </b> "
+"என்பதைக் சொடுக்கு செய்க."
+
+#, java-printf-format
+msgctxt "intro_location"
+msgid "You can find the tutorial in \"Help & Feedback\""
+msgstr "\"உதவி மற்றும் பின்னூட்டம்\" இல் நீங்கள் டுடோரியலைக் காணலாம்"
+
+#, java-printf-format
+msgctxt "tip_missed_timer"
+msgid ""
+"<b>Some timers are stopped abnormally!</b>\n"
+"\n"
+"It is probably because the system kills the app in the background. <b>To resolve this problem, please consider whitelisting this app in system settings.</b>"
+msgstr ""
+"<b> சில டைமர்கள் அசாதாரணமாக நிறுத்தப்படுகின்றன! </b>\n"
+"\n"
+" கணினி பின்னணியில் பயன்பாட்டை கொன்றுவிடுவதால் இருக்கலாம். <b> இந்த சிக்கலைத் தீர்க்க, கணினி அமைப்புகளில் இந்த பயன்பாட்டை அனுமதிப்பிடிப்பதைக் கவனியுங்கள். </b>"
+
+#, java-printf-format
+msgctxt "tip_android_12_phone_calls"
+msgid "Pausing on phone calls now requires \"Read phone status\" permission"
+msgstr ""
+"தொலைபேசி அழைப்புகளை இடைநிறுத்த இப்போது \"தொலைபேசி நிலையைப் படியுங்கள்\" "
+"இசைவு தேவை"
+
+#, java-printf-format
+msgctxt "tip_android_12_battery"
+msgid "Tasker support now requires \"Ignore Battery Optimization\" permission"
+msgstr "டாச்கர் ஆதரவுக்கு இப்போது \"பேட்டரி தேர்வுமுறை புறக்கணிப்பு\" இசைவு தேவை"
+
+#. Updates
+#, java-printf-format
+msgctxt "update_title"
+msgid "Changelog"
+msgstr "மாற்றபதிவு"
+
+#. Tasker
+#, java-printf-format
+msgctxt "tasker_edit_title"
+msgid "TimeR Machine Plugin"
+msgstr "நேரங்குறிகருவி இயந்திர சொருகி"
+
+#, java-printf-format
+msgctxt "tasker_event_timer_starts"
+msgid ""
+"Trigger when <xliff:g example=\"Timer name\" id=\"timer_name\">%s</xliff:g> "
+"starts"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"நேரங்குறிகருவி பெயர்\" ஐடி = \"டைமர்_பேம்\">%s"
+" </xliff: g> தொடங்கும் போது தூண்டுதல்"
+
+#, java-printf-format
+msgctxt "tasker_event_timer_stops"
+msgid ""
+"Trigger when <xliff:g example=\"Timer name\" id=\"timer_name\">%s</xliff:g> "
+"stops"
+msgstr ""
+"<Xliff: g எடுத்துக்காட்டு = \"நேரங்குறிகருவி பெயர்\" ஐடி = \"timer_name\">%s"
+" </xliff: g> நிறுத்தப்படும்போது தூண்டுதல்"
+
+#. Whitelist
+#, java-printf-format
+msgctxt "whitelist_disclaimer"
+msgid ""
+"<b>Many Android manufacturers may kill running apps when the screen is off or switching to another app</b>, which is an infamous Android problem.\n"
+"\n"
+"This app tries its best to do its job well, but there's still a chance of failing.\n"
+"\n"
+"<b>Please whitelist this app in the system settings</b>."
+msgstr ""
+"<b> பல ஆண்ட்ராய்டு உற்பத்தியாளர்கள் திரை முடக்கப்படும்போது அல்லது மற்றொரு பயன்பாட்டிற்கு மாறும்போது இயங்கும் பயன்பாடுகளைக் கொல்லலாம் </b>, இது ஒரு பிரபலமற்ற ஆண்ட்ராய்டு சிக்கலாகும்.\n"
+"\n"
+" இந்த பயன்பாடு அதன் வேலையைச் சிறப்பாகச் செய்ய முயற்சிக்கிறது, ஆனால் இன்னும் தோல்வியடையும் வாய்ப்பு உள்ளது.\n"
+"\n"
+" <b> கணினி அமைப்புகளில் இந்த பயன்பாட்டை அனுமதிக்கவும் </b>."
+
+#, java-printf-format
+msgctxt "whitelist_disclaimer_yes"
+msgid "Check Whitelist Guideline"
+msgstr "அனுமதிப்பட்டியல் வழிகாட்டுதலை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "whitelist_disclaimer_no"
+msgid "No, I understand the consequences"
+msgstr "இல்லை, விளைவுகளை நான் புரிந்துகொள்கிறேன்"
+
+#, java-printf-format
+msgctxt "whitelist_disclaimer_no_confirmation"
+msgid "Skip the guideline?"
+msgstr "வழிகாட்டுதலைத் தவிர்க்கவா?"
+
+#, java-printf-format
+msgctxt "whitelist_location"
+msgid "You can find Whitelist Guideline in \"Help & Feedback\""
+msgstr "\"உதவி மற்றும் பின்னூட்டம்\" இல் அனுமதிப்பட்டியல் வழிகாட்டுதலைக் காணலாம்"
+
+#, java-printf-format
+msgctxt "whitelist_intro"
+msgid ""
+"Most Android manufacturers shut down running background apps by force, making apps stops reminding you.\n"
+"\n"
+"Please allow auto-start, allow background running, turn off battery optimization, etc., in the settings.\n"
+"\n"
+"Here are some instructions:"
+msgstr ""
+"பெரும்பாலான ஆண்ட்ராய்டு உற்பத்தியாளர்கள் இயங்கும் பின்னணி பயன்பாடுகளை பலத்தால் மூடிவிடுகிறார்கள், பயன்பாடுகள் உங்களுக்கு நினைவூட்டுவதை நிறுத்துகின்றன.\n"
+"\n"
+" தயவுசெய்து ஆட்டோ-ச்டார்ட் அனுமதிக்கவும், பின்னணி இயங்க அனுமதிக்கவும், அமைப்புகளில் பேட்டரி உகப்பாக்கம் போன்றவற்றை அணைக்கவும்.\n"
+"\n"
+" சில வழிமுறைகள் இங்கே:"
+
+#, java-printf-format
+msgctxt "whitelist_don_t_kill_desp"
+msgid "A website that provides many solutions"
+msgstr "பல தீர்வுகளை வழங்கும் வலைத்தளம்"
+
+#, java-printf-format
+msgctxt "whitelist_setting"
+msgid "Configure"
+msgstr "உள்ளமைக்கவும்"
+
+#, java-printf-format
+msgctxt "whitelist_links"
+msgid "Links"
+msgstr "இணைப்புகள்"
+
+#, java-printf-format
+msgctxt "whitelist_quick_settings"
+msgid "Some quick Settings"
+msgstr "சில விரைவான அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "whitelist_ignore_battery_optimization"
+msgid "Ignore Battery Optimization"
+msgstr "பேட்டரி தேர்வுமுறை புறக்கணிக்கவும்"
+
+#, java-printf-format
+msgctxt "whitelist_settings_template"
+msgid "System setting %d"
+msgstr "கணினி அமைப்பு %d"
+
+#. Account
+#, java-printf-format
+msgctxt "account_sign_out_confirmation"
+msgid "Sign out?"
+msgstr "வெளியேறு?"
+
+#, java-printf-format
+msgctxt "account_sign_out"
+msgid "Sign Out"
+msgstr "விடுபதிகை"
+
+#, java-printf-format
+msgctxt "account_signing_out"
+msgid "Signing Out…"
+msgstr "கையொப்பமிடுதல்…"
+
+#, java-printf-format
+msgctxt "account_delete"
+msgid "Delete Account and All Backup"
+msgstr "கணக்கு மற்றும் அனைத்து காப்புப்பிரதியையும் நீக்கு"
+
+#, java-printf-format
+msgctxt "account_delete_confirmation_title"
+msgid "Delete your account and all your backup data?"
+msgstr "உங்கள் கணக்கையும் உங்கள் காப்புப்பிரதி தரவையும் நீக்கவா?"
+
+#, java-printf-format
+msgctxt "account_delete_confirmation_desp"
+msgid ""
+"This does <b>NOT</b> affect your subscription. You can manage your "
+"subscription in the Google Play Store."
+msgstr ""
+"இது <b> இல்லை </b> உங்கள் சந்தாவை பாதிக்கிறது. கூகிள் பிளே ச்டோரில் உங்கள் "
+"சந்தாவை நிர்வகிக்கலாம்."
+
+#, java-printf-format
+msgctxt "account_deleting"
+msgid "Deleting Account…"
+msgstr "கணக்கை நீக்குதல்…"
+
+#, java-printf-format
+msgctxt "account_sign_in"
+msgid "Register / Sign In"
+msgstr "பதிவு / உள்நுழைக"
+
+#. Billing
+#, java-printf-format
+msgctxt "billing_iap"
+msgid "In-App Purchases"
+msgstr "பயன்பாட்டு கொள்முதல்"
+
+#, java-printf-format
+msgctxt "billing_loading"
+msgid "Loading"
+msgstr "ஏற்றுகிறது"
+
+#, java-printf-format
+msgctxt "billing_purchase"
+msgid "Purchase"
+msgstr "வாங்க"
+
+#, java-printf-format
+msgctxt "billing_subscribe"
+msgid "Subscribe"
+msgstr "குழுசேர்"
+
+#, java-printf-format
+msgctxt "billing_owned"
+msgid "Owned"
+msgstr "சொந்தமானது"
+
+#, java-printf-format
+msgctxt "billing_per_year"
+msgid "/Year"
+msgstr "/ஆண்டு"
+
+#, java-printf-format
+msgctxt "billing_explanation"
+msgid ""
+"By tapping Subscribe, your payment will be charged to your Google Play Store"
+" account. Your subscription will automatically renew for the same plan "
+"length at the same price until you cancel it on Subscriptions in the Google "
+"Play Store at least 24 hours before the end of the current period. By "
+"tapping Subscribe,\" you agree to our <xliff:g example=\"Privacy policy\" "
+"id=\"privacy_policy\">%1$s</xliff:g> and <xliff:g example=\"Terms\" "
+"id=\"terms\">%2$s</xliff:g>.\""
+msgstr ""
+"குழுசேரைத் தட்டுவதன் மூலம், உங்கள் கட்டணம் உங்கள் Google Play Store கணக்கில்"
+" வசூலிக்கப்படும். தற்போதைய காலத்தின் முடிவில் குறைந்தது 24 மணி நேரத்திற்கு "
+"முன்பே கூகிள் பிளே ச்டோரில் உள்ள சந்தாக்களில் அதை ரத்துசெய்யும் வரை உங்கள் "
+"சந்தா அதே திட்ட நீளத்திற்கு அதே விலையில் தானாகவே புதுப்பிக்கப்படும். "
+"குழுசேர்வைத் தட்டுவதன் மூலம், \"எங்கள் <xliff: g எடுத்துக்காட்டு =\" "
+"தனியுரிமைக் கொள்கை \"ஐடி =\" தனியுரிமை_போலிசி \">%1$s </xliff: g> மற்றும் "
+"<xliff: g எடுத்துக்காட்டு =\" விதிமுறைகள் \"ஐடி =\" விதிமுறைகள் \">%2$s "
+"</xliff: g>.\""
+
+#, java-printf-format
+msgctxt "billing_cancel_anytime"
+msgid "Recurring billing. Cancel anytime."
+msgstr "தொடர்ச்சியான பட்டியலிடல். எப்போது வேண்டுமானாலும் ரத்துசெய்."
+
+#, java-printf-format
+msgctxt "billing_not_supported"
+msgid "Subscriptions are not supported at the moment"
+msgstr "இந்த நேரத்தில் சந்தாக்கள் ஆதரிக்கப்படவில்லை"
+
+#, java-printf-format
+msgctxt "billing_connect_issue"
+msgid ""
+"There was an error connecting with Google Play.\n"
+"\n"
+"This issue might be temporary, so please try again in a few minutes."
+msgstr ""
+"Google Play உடன் இணைக்கும் பிழை இருந்தது.\n"
+"\n"
+" இந்த சிக்கல் தற்காலிகமாக இருக்கலாம், எனவே தயவுசெய்து சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "billing_manage_subscription"
+msgid "Manage Subscription"
+msgstr "சந்தாவை நிர்வகிக்கவும்"
+
+#, java-printf-format
+msgctxt "billing_under_maintenance"
+msgid "Under maintenance"
+msgstr "பராமரிப்பின் கீழ்"
+
+#, java-printf-format
+msgctxt "billing_cloud_backup_title"
+msgid "Cloud backup"
+msgstr "முகில் காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "billing_cloud_backup_desp"
+msgid "Never lose your record of hard work"
+msgstr "கடின உழைப்பின் உங்கள் பதிவை ஒருபோதும் இழக்காதீர்கள்"
+
+#, java-printf-format
+msgctxt "billing_more_themes_title"
+msgid "More themes"
+msgstr "மேலும் கருப்பொருள்கள்"
+
+#, java-printf-format
+msgctxt "billing_more_themes_desp"
+msgid "Carefully picked and perfect colors for the app"
+msgstr "பயன்பாட்டிற்கான கவனமாக தேர்ந்தெடுக்கப்பட்ட மற்றும் சரியான வண்ணங்கள்"
+
+#, java-printf-format
+msgctxt "billing_dynamic_themes_title"
+msgid "Dynamic themes"
+msgstr "மாறும் கருப்பொருள்கள்"
+
+#, java-printf-format
+msgctxt "billing_dynamic_themes_desp"
+msgid "Android 12+"
+msgstr "ஆண்ட்ராய்டு 12+"
+
+#, java-printf-format
+msgctxt "billing_baked_count_title"
+msgid "Baked count sound"
+msgstr "வேகவைத்த எண்ணிக்கை ஒலி"
+
+#, java-printf-format
+msgctxt "billing_baked_count_desp"
+msgid "Fast and consistent count down sounds"
+msgstr "வேகமான மற்றும் சீரான எண்ணிக்கை ஒலிகள்"
+
+#, java-printf-format
+msgctxt "billing_ad_off_title"
+msgid "No ads"
+msgstr "விளம்பரங்கள் இல்லை"
+
+#, java-printf-format
+msgctxt "billing_ad_off_desp"
+msgid "Help the app stay ad-free and open-sourced"
+msgstr "பயன்பாட்டிற்கு விளம்பரமில்லாத மற்றும் திறந்த மூலமாக இருக்க உதவுங்கள்"
+
+#, java-printf-format
+msgctxt "billing_future_title"
+msgid "More in the future"
+msgstr "எதிர்காலத்தில் மேலும்"
+
+#, java-printf-format
+msgctxt "billing_future_desp"
+msgid "Your help makes the app better!"
+msgstr "உங்கள் உதவி பயன்பாட்டை சிறந்ததாக்குகிறது!"
+
+#, java-printf-format
+msgctxt "billing_a_part_of_iap"
+msgid "This is a part of in-app purchases."
+msgstr "இது பயன்பாட்டு வாங்குதல்களின் ஒரு பகுதியாகும்."
+
+#, java-printf-format
+msgctxt "billing_subscription_service"
+msgid "This is a subscription service."
+msgstr "இது சந்தா பணி."
+
+#, java-printf-format
+msgctxt "billing_help_title"
+msgid "Help"
+msgstr "உதவி"
+
+#, java-printf-format
+msgctxt "billing_help_contact"
+msgid "Contact"
+msgstr "தொடர்பு"
+
+#, java-printf-format
+msgctxt "billing_help_email_title"
+msgid "TimeR Machine Billing Issue"
+msgstr "நேரங்குறிகருவி மெசின் பட்டியலிடல் சிக்கல்"

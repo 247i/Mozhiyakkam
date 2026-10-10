@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (SoundSwitch)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-05 00:52+0200\n"
+"PO-Revision-Date: 2025-03-05 09:49+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/soundswitch/about/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+msgctxt "created"
+msgid "Created by"
+msgstr "உருவாக்கியது"
+
+msgctxt "maintained"
+msgid "Maintained by"
+msgstr "மூலம் பராமரிக்கப்படுகிறது"
+
+msgctxt "version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+msgctxt "author"
+msgid "Author and Program Info"
+msgstr "ஆசிரியர் மற்றும் நிரல் செய்தி"
+
+msgctxt "credits"
+msgid "Credits and Attribution"
+msgstr "வரவு மற்றும் பண்புக்கூறு"
+
+msgctxt "defaultPlaybackDeviceChange"
+msgid "Default Playback device change"
+msgstr "இயல்புநிலை பிளேபேக் சாதன மாற்றம்"
+
+msgctxt "keyboardHotkeys"
+msgid "Keyboard hotkey system"
+msgstr "விசைப்பலகை ஆட்ச்கி சிச்டம்"
+
+msgctxt "icons"
+msgid "Icons"
+msgstr "சின்னங்கள்"
+
+msgctxt "logo"
+msgid "Logo made by"
+msgstr "லோகோ தயாரித்தது"

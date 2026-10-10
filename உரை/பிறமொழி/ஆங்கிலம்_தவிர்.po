@@ -1,0 +1,402 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ஆங்கிலம்_தவிர்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+
+msgid "ஃபோகச்"
+msgstr "கவனம்"
+
+msgid "அப்ச்ட்ரீமுக்கு"
+msgstr "மேலோடைக்கு"
+
+msgid "அப்ச்ட்ரீம்"
+msgstr "மேலோடை"
+
+msgid "ஆஃப்லைன்"
+msgstr "இணைப்பில்லாத"
+
+msgid "ஆச்கி"
+msgstr "தபஅஇகு"
+
+msgid "ஆச்கீ"
+msgstr "தபஅஇகு"
+
+msgid "ஆன்லைன்"
+msgstr "நிகழ்நிலை"
+
+msgid "இசட்"
+msgstr "சட்"
+
+msgid "உள்ளூர்"
+msgstr "உள்ளக"
+
+msgid "எக்ச்"
+msgstr "ஃச்"
+
+msgid "எச்எச்எச்"
+msgstr "பாஓடு"
+
+msgid "சிஎச்வி"
+msgstr "காபிம"
+
+msgid "எச்எச்ஓ"
+msgstr "ஒருகைஉள்"
+
+msgid "எடிட்"
+msgstr "திருத்து"
+
+msgid "எடிட்டிங்"
+msgstr "திருத்துதல்"
+
+msgid "ஏபிஐ"
+msgstr "பநிஇ"
+
+msgid "ஓச்ட்"
+msgstr "புரவலன்"
+
+msgid "ஓபன்சிஃப்ட்"
+msgstr "திறந்தஉயர்த்து"
+
+msgid "கரன்சி"
+msgstr "நாணயம்"
+
+msgid "கமிட்"
+msgstr "உறுதி"
+
+msgid "காம்பாக்ட்"
+msgstr "சிறிய"
+
+msgid "கார்டு"
+msgstr "அட்டை"
+
+msgid "கிட்"
+msgstr "அறிவிலி"
+
+msgid "கிட்அப்"
+msgstr "அறிவிலிமையம்"
+
+msgid "கிட்லாப்"
+msgstr "அறிவிலிஆய்வு"
+
+msgid "கிதுப்"
+msgstr "அறிவிலிமையம்"
+
+msgid "கிரிப்டோ"
+msgstr "மறையீட்டு"
+
+msgid "கிரிப்டோகரன்சி"
+msgstr "மறையீட்டு நாணயம்"
+
+msgid "கிரிப்டோகரன்ச்களில்"
+msgstr "மறையீட்டு நாணயங்களில்"
+
+msgid "கிரெடிட்"
+msgstr "கடன்"
+
+msgid "கிலாபெல்"
+msgstr "வபஇசிட்டை"
+
+msgid "கிளவுட்"
+msgstr "முகில்"
+
+msgid "கிளாசிக்கல்"
+msgstr "பாரம்பரிய"
+
+msgid "கிளிக்"
+msgstr "சொடுக்கு"
+
+msgid "கிளிப்போர்டுக்கு"
+msgstr "இடைநிலைபலகைக்கு"
+
+msgid "கிளையண்ட்"
+msgstr "வாங்கி"
+
+msgid "குளோனிலிருந்து"
+msgstr "நகலியிலிருந்து"
+
+msgid "குளோனை"
+msgstr "நகலியை"
+
+msgid "குளோன்"
+msgstr "நகலி"
+
+msgid "குளோபல்"
+msgstr "உலகளாவிய"
+
+msgid "கேன்வாச்"
+msgstr "வரைதிரை"
+
+msgid "சாட்"
+msgstr "காட்சி"
+
+msgid "சாட்ச்"
+msgstr "காட்சிகள்"
+
+msgid "சிஐ"
+msgstr "தொஒ"
+
+msgid "சிவில்"
+msgstr "குடிமை"
+
+msgid "ச்கிரீன்"
+msgstr "திரை"
+
+msgid "ச்கிரிப்ட்"
+msgstr "கையெழுத்துப்படிவம்"
+
+msgid "ச்கிரீன்சாட்"
+msgstr "திரைக்காட்சி"
+
+msgid "ச்கிரீன்சாட்ச்"
+msgstr "திரைக்காட்சிகள்"
+
+msgid "ச்கேல்"
+msgstr "அளவுகோல்"
+
+msgid "ச்டேக்"
+msgstr "அடுக்கு"
+
+msgid "ச்டைல்"
+msgstr "பாணி"
+
+msgid "ச்டோர்"
+msgstr "கடை"
+
+msgid "ச்டோர்"
+msgstr "கடை"
+
+msgid "ச்பான்சர்"
+msgstr "ஒப்புரவாளர்"
+
+msgid "ச்பான்சர்கள்"
+msgstr "ஒப்புரவாளர்கள்"
+
+msgid "ச்பிங்க்ச்"
+msgstr "சூரரிமாச்சிலை"
+
+msgid "ச்மார்ட்"
+msgstr "அறிவுள்ள"
+
+msgid "ச்வாக்"
+msgstr "ஈட்டம்"
+
+msgid "டாக்ச்ட்ரிங்"
+msgstr "ஆவணசரம்"
+
+msgid "டார்பால்"
+msgstr "நாடாகாப்பகபந்து"
+
+msgid "டீம்"
+msgstr "குழு"
+
+msgid "டெவலப்பர்"
+msgstr "உருவாக்குபவர்"
+
+msgid "டெவலப்பர்கள்"
+msgstr "உருவாக்குபவர்கள்"
+
+msgid "டைனமிக்"
+msgstr "மாறும்"
+
+msgid "டைமரைக்"
+msgstr "நேரங்குறிகருவியைக்"
+
+msgid "டைமர்"
+msgstr "நேரங்குறிகருவி"
+
+msgid "டோக்கனை"
+msgstr "கிள்ளாக்கை"
+
+msgid "டோக்கனைப்"
+msgstr "கிள்ளாக்கைப்"
+
+msgid "டோக்கன்"
+msgstr "கிள்ளாக்கு"
+
+msgid "டோக்கர்"
+msgstr "கப்பல்துறை"
+
+msgid "டோடோ"
+msgstr "செய்யவேண்டிய"
+
+msgid "தீம்"
+msgstr "கருப்பொருள்"
+
+msgid "நெட்வொர்க்"
+msgstr "பிணையம்"
+
+msgid "பிக்சல்"
+msgstr "படப்புள்ளி"
+
+msgid "பிக்சல்கள்"
+msgstr "படப்புள்ளிகள்"
+
+msgid "பிராண்டட்"
+msgstr "சூட்டுக்குறியிட்ட"
+
+msgid "பிராண்ட்"
+msgstr "சூட்டுக்குறி"
+
+msgid "பிரீமியம்"
+msgstr "காப்பீடு"
+
+msgid "பில்லிங்"
+msgstr "பட்டியலிடல்"
+
+msgid "பீட்டா"
+msgstr "ஆவண்ணா"
+
+msgid "புக்மார்க்"
+msgstr "புத்தகக்குறி"
+
+msgid "புக்மார்க்கை"
+msgstr "புத்தகக்குறியை"
+
+msgid "புளூடூத்"
+msgstr "ஊடலை"
+
+msgid "பூட்ச்ட்ராப்"
+msgstr "தொடக்கவார்"
+
+msgid "பேட்ச்"
+msgstr "ஒட்டு"
+
+msgid "பேனல்"
+msgstr "பலகம்"
+
+msgid "போர்ட்"
+msgstr "துறைமுகம்"
+
+msgid "ப்ராக்சி"
+msgstr "பதிலாள்"
+
+msgid "மாடல்"
+msgstr "மாதிரி"
+
+msgid "மீத்தரவு"
+msgstr "மேனிலை தரவு"
+
+msgid "மெட்டாடேட்டா"
+msgstr "மேனிலை தரவு"
+
+msgid "மெனு"
+msgstr "பட்டியல்"
+
+msgid "மெனுவில்"
+msgstr "பட்டியலில்"
+
+msgid "மெமரி"
+msgstr "நினைவக"
+
+msgid "மைக்ரோசாஃப்ட்"
+msgstr "நுண்மென்"
+
+msgid "யுனைடெட்"
+msgstr "ஒன்றுபட்டது"
+
+msgid "ரெசெக்ச்"
+msgstr "வழக்கவெளி"
+
+msgid "ரெண்டரிங்"
+msgstr "வழங்குதல்"
+
+msgid "ரெண்டர்"
+msgstr "வழங்குதல்"
+
+msgid "லேபிள்"
+msgstr "சிட்டை"
+
+msgid "லோக்கல்"
+msgstr "உள்ளக"
+
+msgid "விண்டோ"
+msgstr "சாளரம்"
+
+msgid "விண்டோசில்"
+msgstr "சாளரங்களில்"
+
+msgid "விண்டோச்"
+msgstr "சாளரங்கள்"
+
+msgid "வெப்லேட்"
+msgstr "வலைபெயர்ப்பு"
+
+msgid "வெப்ளேட்"
+msgstr "வலைபெயர்ப்பு"
+
+msgid "வெப்ளேட்"
+msgstr "வலைபெயர்ப்பு"
+
+msgid "பிரேச்"
+msgstr "அடைப்புக்குறி"
+
+msgid "மேக்ரோ"
+msgstr "பெரிய"
+
+msgid "மோட்டார்"
+msgstr "மின்னோடி"
+
+msgid "டிரைவ்"
+msgstr "இயக்கி"
+
+msgid "டிக்கெட்"
+msgstr "சீட்டு"
+
+msgid "ஐகான்"
+msgstr "படவுரு"
+
+msgid "மெட்டா"
+msgstr "மேவு"
+
+msgid "ச்ட்ரிப்"
+msgstr "உரி"
+
+msgid "வைல்ட்"
+msgstr "காடு"
+
+msgid "ஆடியோ"
+msgstr "ஒலி"
+
+msgid "யூனிகோட்"
+msgstr "ஒருங்குறி"
+
+msgid "யுனிகோடு"
+msgstr "ஒருங்குறி"
+
+msgid "லைட்"
+msgstr "விளக்கு"
+
+msgid "சினிமா"
+msgstr "திரைப்படம்"
+
+msgid "பச்"
+msgstr "பேருந்து"
+
+msgid "டிபன்"
+msgstr "சிற்றுண்டி"
+
+msgid "டாக்டர்"
+msgstr "மருத்துவர்"
+
+msgid "ஃபேன்"
+msgstr "மின் விசிறி"
+
+msgid "ரேடியோ"
+msgstr "வானொலி"
+
+msgid "வாட்ச்"
+msgstr "கடிகாரம்"
+
+msgid "சோப்"
+msgstr "வழலைக் கட்டி"

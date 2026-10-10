@@ -1,0 +1,212 @@
+#
+msgid ""
+msgstr ""
+"Project-id-version: மீன்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "amblygaster clupeoides"
+msgstr "கீரிமீன் சாளை"
+
+msgid "anchovies"
+msgstr "நெத்திலி மீன்"
+
+msgid "baby shark"
+msgstr "பால் சுறா"
+
+msgid "barber's knife"
+msgstr "அம்பட்டன்வாளை/சொட்டைவாளை"
+
+msgid "barillius gatensis"
+msgstr "ஆட்கான்டி"
+
+msgid "barracuda"
+msgstr "சீலா மீன்"
+
+msgid "blotched croaker"
+msgstr "கோரோவா"
+
+msgid "broadfin shark"
+msgstr "கோர சுறா"
+
+msgid "butter fish"
+msgstr "விறால் மீன்"
+
+msgid "cat fish"
+msgstr "கெளுத்தி மீன்"
+
+msgid "channa marulius"
+msgstr "அவிரி"
+
+msgid "chitala chitala"
+msgstr "அம்புட்டன் வாழ"
+
+msgid "cirrhinus cirrhosus"
+msgstr "வெள்ளை அரிஞ்சான்"
+
+msgid "clupea ilisha"
+msgstr "ஆற்றுல்லம்"
+
+msgid "cod"
+msgstr "பன்னா மீன்"
+
+msgid "coromandel flying fish"
+msgstr "கோலா"
+
+msgid "cuttlefish"
+msgstr "கனவாய் மீன்"
+
+msgid "dactylopterus orientalis"
+msgstr "ஆனதும்பி"
+
+msgid "diploprion bifasciatum"
+msgstr "அனுவ மீன்"
+
+msgid "eel"
+msgstr "விலாங்கு மீன்"
+
+msgid "encheliophis homei"
+msgstr "வெள்ளி அரிஞ்சான்"
+
+msgid "etroplus suratensis"
+msgstr "உடுப்பாத்தி"
+
+msgid "goldbond gold fish"
+msgstr "நாவர மீன்"
+
+msgid "gymnura poecilura"
+msgstr "அத்வாணி திருக்‍கை"
+
+msgid "halibut"
+msgstr "போத்தா மீன"
+
+msgid "hemipristis elongata"
+msgstr "அடுக்குப்பல் சுறா"
+
+msgid "hirundichthys coromandelensis"
+msgstr "கோலா"
+
+msgid "jelly fish"
+msgstr "இழுது மீன்."
+
+msgid "king fish"
+msgstr "வஞ்சரம் மீன்"
+
+msgid "lamiopsis temminckii"
+msgstr "கோர சுறா"
+
+msgid "leather skin"
+msgstr "தீரா மீன்"
+
+msgid "little tunny"
+msgstr "சூரை மீன்"
+
+msgid "liza"
+msgstr "அவிலி, அவீலீ"
+
+msgid "lobster"
+msgstr "சிங்கி இறால்"
+
+msgid "malabar trevally"
+msgstr "பாரை மீன்"
+
+msgid "mene maculata"
+msgstr "அம்பட்டன்கத்தி"
+
+msgid "monocanthus monoceros"
+msgstr "அப்பைக்கொவ்வை"
+
+msgid "monocanthus scriptus"
+msgstr "ஊமைக்கிளாத்தி"
+
+msgid "mullet"
+msgstr "கெண்டை மீன்"
+
+msgid "nibea maculata"
+msgstr "கோரோவா"
+
+msgid "notopterus kapirat"
+msgstr "அம்பட்டன்வாளை/சொட்டைவாளை"
+
+msgid "notopterus notopterus"
+msgstr "அம்பட்டன் கத்தி"
+
+msgid "parrot fish"
+msgstr "கிளி முக்கு மீன்"
+
+msgid "pistanachus sephen"
+msgstr "அதவாழன் திருக்‍கை"
+
+msgid "plotosus canius"
+msgstr "ஆக்கணாங்கெளிறு"
+
+msgid "pomfret"
+msgstr "வாவல்"
+
+msgid "rastralliger kanagurta"
+msgstr "அகலை"
+
+msgid "red snapper"
+msgstr "சங்கரா மீன்"
+
+msgid "rhicodon typus"
+msgstr "அமீனீ உளுவை"
+
+msgid "ribbon fish"
+msgstr "வாலை மீன்"
+
+msgid "sardine"
+msgstr "சாலை மீன்"
+
+msgid "sardinina longiceps"
+msgstr "பேய்ச் சாலை"
+
+msgid "saw fish"
+msgstr "கோலா மீன்"
+
+msgid "scoplopsis taeniopterus"
+msgstr "கும்டுல்"
+
+msgid "sea bass"
+msgstr "கொடுவா மீன்"
+
+msgid "shark"
+msgstr "சுறா மீன"
+
+msgid "smelt"
+msgstr "கெலங்கா மீன்"
+
+msgid "spade fish"
+msgstr "சீப்பு திரட்டை மீன"
+
+msgid "squid"
+msgstr "ஊசிக் கணவாய்"
+
+msgid "sword-fish"
+msgstr "வாளை மீன்"
+
+msgid "terapon jarbua"
+msgstr "கீச்சான்"
+
+msgid "thryssa malabarica"
+msgstr "அடுப்பு ⁮பொறுவா"
+
+msgid "tigerfish"
+msgstr "கீச்சான்"
+
+msgid "triacanthus strigilifer"
+msgstr "கிளாத்தி/கிழாத்தி"
+
+msgid "umbrina macroptera"
+msgstr "ஆனைக்கற்றலை"
+
+msgid "yellow tuna"
+msgstr "கீரை மீன்"

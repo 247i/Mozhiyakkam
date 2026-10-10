@@ -1,0 +1,223 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Tracks)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-09 23:42+0200\n"
+"PO-Revision-Date: 2025-03-10 09:16+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/tracks/harbour-tracks/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+msgctxt "AboutPage"
+msgid "About"
+msgstr "பற்றி"
+
+msgctxt "AboutPage"
+msgid "Tracks"
+msgstr "தடங்கள்"
+
+msgctxt "AboutPage"
+msgid "Version %1"
+msgstr "பதிப்பு %1"
+
+msgctxt "AboutPage"
+msgid "Tracks is a simple client for the Tracks todo application."
+msgstr "தடங்கள் தடங்கள் செய்யவேண்டிய பயன்பாட்டிற்கான எளிய கிளையன்ட் ஆகும்."
+
+msgctxt "AboutPage"
+msgid "Thanking:"
+msgstr "நன்றி:"
+
+msgctxt "AboutPage"
+msgid "– J. Lavoie (German and French translation)"
+msgstr "- சே. லாவோய் (செர்மன் மற்றும் பிரஞ்சு மொழிபெயர்ப்பு)"
+
+msgctxt "AboutPage"
+msgid "– Allan Nordhøy (Norwegian Bokmål translation)"
+msgstr "- ஆலன் நோர்தே (நோர்வே போக்மால் மொழிபெயர்ப்பு)"
+
+msgctxt "AboutPage"
+msgid "– Алексей Свистунов (Russian translation)"
+msgstr "- அலெக்சி ச்விச்டுனோவ் (ரச்ய மொழிபெயர்ப்பு)"
+
+msgctxt "AboutPage"
+msgid "GitHub (source codes and issues)"
+msgstr "அறிவிலிமையம் (மூல குறியீடுகள் மற்றும் சிக்கல்கள்)"
+
+msgctxt "AboutPage"
+msgid "Hosted Tracks application"
+msgstr "புரவலன் செய்யப்பட்ட தடங்கள் பயன்பாடு"
+
+msgctxt "AboutPage"
+msgid "Tracks web page"
+msgstr "வலைப்பக்கத்தைக் கண்காணிக்கிறது"
+
+msgctxt "AboutPage"
+msgid "– Jyri-Petteri ”ZeiP” Paloposki (author)"
+msgstr "-சிரி-பெட்டரி “சீப்” பாலோபோச்கி (ஆசிரியர்)"
+
+msgctxt "AboutPage"
+msgid "– Burak Hüseyin Ekseli and Oğuz Ersen (Turkish translation)"
+msgstr "- புராக் எசின் எகெலி மற்றும் ஓசுச் எர்சன் (துருக்கிய மொழிபெயர்ப்பு)"
+
+msgctxt "AddForm"
+msgid "Add task"
+msgstr "பணியைச் சேர்க்கவும்"
+
+msgctxt "AddForm"
+msgid "Task description"
+msgstr "பணி விளக்கம்"
+
+msgctxt "AddForm"
+msgid "Note"
+msgstr "குறிப்பு"
+
+msgctxt "AddForm"
+msgid "Context"
+msgstr "சூழல்"
+
+msgctxt "AddForm"
+msgid "Project"
+msgstr "திட்டம்"
+
+msgctxt "AddForm"
+msgid "Due date"
+msgstr "இரண்டு தேதிகள்"
+
+msgctxt "AddForm"
+msgid "Select"
+msgstr "தேர்ந்தெடு"
+
+msgctxt "AddForm"
+msgid "Show from"
+msgstr "இருந்து காட்டு"
+
+msgctxt "AddForm"
+msgid "Tracks task added"
+msgstr "தடங்கள் பணி சேர்க்கப்பட்டது"
+
+msgctxt "AddForm"
+msgid "Tracks task adding failed"
+msgstr "தடங்கள் பணி சேர்க்கை தோல்வியடைந்தது"
+
+msgctxt "AddForm"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+msgctxt "AddForm"
+msgid "Task %1 added to context %2."
+msgstr "பணி %1 சூழல் %2 இல் சேர்க்கப்பட்டது."
+
+msgctxt "AddForm"
+msgid "Adding task %1 failed."
+msgstr "பணி %1 ஐ சேர்ப்பது தோல்வியடைந்தது."
+
+msgctxt "AddForm"
+msgid "Tag"
+msgstr "குறிச்சொல்"
+
+msgctxt "ContextList"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgctxt "ContextList"
+msgid "Add task"
+msgstr "பணியைச் சேர்க்கவும்"
+
+msgctxt "ContextList"
+msgid "Refresh"
+msgstr "புதுப்பிப்பு"
+
+msgctxt "ContextList"
+msgid "Contexts"
+msgstr "சூழல்கள்"
+
+msgctxt "ContextList"
+msgid "Nothing here"
+msgstr "இங்கே எதுவும் இல்லை"
+
+msgctxt "ContextList"
+msgid "Check your settings"
+msgstr "உங்கள் அமைப்புகளை சரிபார்க்கவும்"
+
+msgctxt "ContextList"
+msgid "Scroll to top"
+msgstr "மேலே உருட்டவும்"
+
+msgctxt "ContextList"
+msgid "About"
+msgstr "பற்றி"
+
+msgctxt "CoverPage"
+msgid "Tracks"
+msgstr "தடங்கள்"
+
+msgctxt "SettingsPage"
+msgid "Save"
+msgstr "சேமி"
+
+msgctxt "SettingsPage"
+msgid "Tracks base URL"
+msgstr "அடிப்படை முகவரி ஐ கண்காணிக்கிறது"
+
+msgctxt "SettingsPage"
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+msgctxt "SettingsPage"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+msgctxt "TaskList"
+msgid "Refresh"
+msgstr "புதுப்பிப்பு"
+
+msgctxt "TaskList"
+msgid "Nothing here"
+msgstr "இங்கே எதுவும் இல்லை"
+
+msgctxt "TaskList"
+msgid "Check your settings"
+msgstr "உங்கள் அமைப்புகளை சரிபார்க்கவும்"
+
+msgctxt "TaskList"
+msgid "Marking as done"
+msgstr "முடிந்தபடி குறிப்பது"
+
+msgctxt "TaskList"
+msgid "Task %1 set done."
+msgstr "பணி %1 தொகுப்பு முடிந்தது."
+
+msgctxt "TaskList"
+msgid "Tracks task set done"
+msgstr "கண்காணிப்புகள் பணி தொகுப்பு முடிந்தது"
+
+msgctxt "TaskList"
+msgid "Setting task %1 done failed."
+msgstr "பணி %1 முடிந்தது தோல்வியுற்றது."
+
+msgctxt "TaskList"
+msgid "Tracks task setting failed"
+msgstr "கண்காணிப்புகள் பணி அமைப்பு தோல்வியடைந்தது"
+
+msgctxt "TaskList"
+msgid "Scroll to top"
+msgstr "மேலே உருட்டவும்"
+
+msgctxt "TaskList"
+msgid "Actions in %1"
+msgstr "%1 இல் செயல்கள்"
+
+msgctxt "TaskList"
+msgid "Add task"
+msgstr "பணியைச் சேர்க்கவும்"
+
+msgctxt "harbour-tracks"
+msgid "None"
+msgstr "எதுவுமில்லை"

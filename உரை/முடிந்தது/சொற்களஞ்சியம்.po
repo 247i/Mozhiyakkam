@@ -1,0 +1,8816 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: சொற்களஞ்சியம்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "abacus"
+msgstr "மணிச்சட்டம்"
+
+msgid "abbreviation"
+msgstr "குறுக்கம்"
+
+msgid "abduction"
+msgstr "ஆட்கடத்தல்"
+
+msgid "abroad"
+msgstr "வெளிநாடு"
+
+msgid "ad-hoc"
+msgstr "முன்திட்டமற்ற"
+
+msgid "act of law"
+msgstr "கட்டளைக்கோல்"
+
+msgid "acrobat"
+msgstr "கழைக்கூத்து"
+
+msgid "acrobatics"
+msgstr "கழைக்கூத்தாடி"
+
+msgid "adaptation"
+msgstr "தழுவல்"
+
+msgid "adrenal gland"
+msgstr "அண்ணீரகம்"
+
+msgid "adrenaline"
+msgstr "அண்ணீர்"
+
+msgid "advance money"
+msgstr "முன்பணம்"
+
+msgid "aerosled"
+msgstr "இசிவூர்தி"
+
+msgid "aerosani"
+msgstr "இசிவூர்தி"
+
+msgid "aesthetics"
+msgstr "முருகியல்"
+
+msgid "agriculture"
+msgstr "உழவு"
+
+msgid "acquired immuno deficiency syndrome"
+msgstr "உடற்தேய்வு நோய்"
+
+msgid "air bag"
+msgstr "காற்றுப்பை"
+
+msgid "air-conditioner"
+msgstr "குளிரூட்டி"
+
+msgid "airliner"
+msgstr "முறைவழி வானூர்தி"
+
+msgid "accessory"
+msgstr "துணைக்கருவி"
+
+msgid "accountant"
+msgstr "கணக்கர்"
+
+msgid "airport"
+msgstr "வானூர்தி நிலையம்"
+
+msgid "alarm"
+msgstr "அலறி"
+
+msgid "alarm clock"
+msgstr "அலறிக் கடிகாரம்"
+
+msgid "alarm chain"
+msgstr "அபாயச் சங்கிலி"
+
+msgid "albino"
+msgstr "பாண்டு"
+
+msgid "albinism"
+msgstr "பாண்டுமை"
+
+msgid "alchemist"
+msgstr "இரசவாதி"
+
+msgid "alchemy"
+msgstr "இரசவாதம்"
+
+msgid "align"
+msgstr "சீரமை"
+
+msgid "alignment"
+msgstr "சீரமைவு"
+
+msgid "allergen"
+msgstr "ஒவ்வான்"
+
+msgid "allergy"
+msgstr "ஒவ்வாமை"
+
+msgid "ammonium chloride"
+msgstr "நவச்சார வாயு"
+
+msgid "amphibious vehicle"
+msgstr "ஈரூடகவூர்தி"
+
+msgid "amplitude modulation"
+msgstr "மதியலை"
+
+msgid "medium wave"
+msgstr "மதியலை"
+
+msgid "acknowledge"
+msgstr "ஏற்புத்தெரிவி"
+
+msgid "acorus"
+msgstr "வசம்பு"
+
+msgid "acquisition"
+msgstr "கையகப்படுத்தல்"
+
+msgid "acre"
+msgstr "இணையேர்"
+
+msgid "actinium"
+msgstr "கதிர்வினைமம், நீலமம்"
+
+msgid "activity"
+msgstr "செய்கைப்பாடு"
+
+msgid "acrylic"
+msgstr "ஆக்கிரம்"
+
+msgid "adhesion"
+msgstr "ஒட்டுப்பண்பு"
+
+msgid "adhesive"
+msgstr "பசைமம்"
+
+msgid "adjective"
+msgstr "பெயர் உரிச்சொல்"
+
+msgid "adverb"
+msgstr "வினை உரிச்சொல்"
+
+msgid "aerial antenna"
+msgstr "வானலை வாங்கி"
+
+msgid "aerobridge"
+msgstr "வான்பாலம்"
+
+msgid "aerogramme"
+msgstr "வான்மடல்"
+
+msgid "aeroplane"
+msgstr "வானூர்தி"
+
+msgid "aerosol"
+msgstr "சொட்டூதி"
+
+msgid "anaconda"
+msgstr "ஆனைக்கொன்றான்"
+
+msgid "antarctic"
+msgstr "தெற்கத்திடம்"
+
+msgid "artarctic ocean"
+msgstr "தெற்கத்திப் பெருங்கடல்"
+
+msgid "antenna"
+msgstr "அலைக்கம்பம்"
+
+msgid "aerial antenna"
+msgstr "வானலை வாங்கி"
+
+msgid "afterburner"
+msgstr "பின்னெரிகருவி"
+
+msgid "antimony"
+msgstr "கருநிமிளை"
+
+msgid "apartment"
+msgstr "அடுக்ககம்"
+
+msgid "apple"
+msgstr "குமளிப்பழம்"
+
+msgid "apple cider vinegar"
+msgstr "அர‌த்தி நொதிக்காடி"
+
+msgid "appreciation"
+msgstr "நயத்தல்"
+
+msgid "april"
+msgstr "பங்குனிச்சித்திரை"
+
+msgid "job appointment"
+msgstr "பணி அமர்த்தம்"
+
+msgid "appointment"
+msgstr "முன்பதிவு"
+
+msgid "approach"
+msgstr "அணுகு"
+
+msgid "agent"
+msgstr "முகவர்"
+
+msgid "agency"
+msgstr "முகமையகம்"
+
+msgid "agricultural tract"
+msgstr "பானல்"
+
+msgid "adam's apple"
+msgstr "கண்டம்"
+
+msgid "aileron"
+msgstr "இரக்கைத் துடுப்பு"
+
+msgid "air"
+msgstr "காற்று"
+
+msgid "air-cooler"
+msgstr "காற்றுப் பெட்டி"
+
+msgid "air corridor"
+msgstr "வான் தாழ்வாரம்"
+
+msgid "air freshener"
+msgstr "காற்றினிமைத் திவலை"
+
+msgid "air mail"
+msgstr "வானஞ்சல்"
+
+msgid "air pocket"
+msgstr "காற்று வெற்றிடம்"
+
+msgid "air route"
+msgstr "பறத்தடம்"
+
+msgid "air waybill"
+msgstr "வான் பார‌ப்ப‌ட்டி"
+
+msgid "aircraft"
+msgstr "வானூர்தி"
+
+msgid "aircraft carrier"
+msgstr "வானூர்தி தாங்கி கப்பல்"
+
+msgid "airhostess"
+msgstr "விமானப்பணிப்பெண்"
+
+msgid "airline"
+msgstr "வான்வழி"
+
+msgid "airspace"
+msgstr "வானெல்லை"
+
+msgid "airway"
+msgstr "பறத்தடம்"
+
+msgid "airworthiness"
+msgstr "பறத்தகுதி"
+
+msgid "airworthy"
+msgstr "பறத்தகுதியுள்ள"
+
+msgid "album"
+msgstr "செருகேடு"
+
+msgid "albumin"
+msgstr "வெண்புரதம்"
+
+msgid "alburnum"
+msgstr "மென்மரம்"
+
+msgid "alcohol"
+msgstr "சாராயம்"
+
+msgid "alfalfa"
+msgstr "குதிரை மசால்"
+
+msgid "algae"
+msgstr "நீர்ப்பாசி"
+
+msgid "alligator"
+msgstr "ஆட்பிடியன்"
+
+msgid "alloy"
+msgstr "உலோகக் கலவை"
+
+msgid "almond"
+msgstr "பாதாம்"
+
+msgid "alum"
+msgstr "படிகாரம்"
+
+msgid "airport apron"
+msgstr "ஏற்றிடம்"
+
+msgid "kitchen apron"
+msgstr "சமயலுடை"
+
+msgid "arbitration powers"
+msgstr "மேலாண்மையுரிமை"
+
+msgid "arch"
+msgstr "தோரணவாயில்"
+
+msgid "arctic"
+msgstr "உதக்கிடம்"
+
+msgid "arctic ocean"
+msgstr "உதக்குப் பெருங்கடல்"
+
+msgid "aluminium"
+msgstr "அளமியம்"
+
+msgid "amateur"
+msgstr "அமர்த்தர்"
+
+msgid "ambulance"
+msgstr "திரிவூர்தி"
+
+msgid "americium"
+msgstr "அமரகம்"
+
+msgid "ammonia"
+msgstr "நவச்சாரியம்"
+
+msgid "anchor"
+msgstr "நங்கூரம்"
+
+msgid "androgen"
+msgstr "ஆண்மையூக்கி"
+
+msgid "anesthetic"
+msgstr "உணர்வகற்றி"
+
+msgid "aniline"
+msgstr "அவுரியுருந்தி"
+
+msgid "animation"
+msgstr "அசைப்படம்"
+
+msgid "anise"
+msgstr "சோம்பு"
+
+msgid "ankle"
+msgstr "கணுக்கால்"
+
+msgid "ant-eater"
+msgstr "எறும்புதின்னி"
+
+msgid "anthanum"
+msgstr "அருங்கனியம்"
+
+msgid "anthropoda"
+msgstr "கணுக்காலி"
+
+msgid "antonym"
+msgstr "எதிர்ப்பதம்"
+
+msgid "ape"
+msgstr "கோந்தி"
+
+msgid "applause"
+msgstr "கரவொலி"
+
+msgid "argon"
+msgstr "இலியன்"
+
+msgid "arrears"
+msgstr "நிலவுத்தொகை"
+
+msgid "arrogance"
+msgstr "ஆணவம்"
+
+msgid "arthritis"
+msgstr "கீல்வாதம்"
+
+msgid "assembly"
+msgstr "ஒன்றுகூட்டல்"
+
+msgid "appliance"
+msgstr "துணைக்கருவி"
+
+msgid "apricot"
+msgstr "சக்கரை பாதாமி"
+
+msgid "appliqué"
+msgstr "தடவுத்தையல்"
+
+msgid "aquamarine"
+msgstr "இந்திரநீலம்"
+
+msgid "aramid"
+msgstr "கடுநார்"
+
+msgid "arc lamp"
+msgstr "வில் விளக்கு"
+
+msgid "arch-bishop"
+msgstr "பேராயர்"
+
+msgid "arch-diocese"
+msgstr "பேராயம்"
+
+msgid "arecanut"
+msgstr "பாக்கு"
+
+msgid "arena"
+msgstr "கோதா"
+
+msgid "armed"
+msgstr "ஆயுதபாணி"
+
+msgid "armadillo"
+msgstr "நல்லங்கு"
+
+msgid "armnament"
+msgstr "படைக்கலம்"
+
+msgid "arrowroot"
+msgstr "கூவை"
+
+msgid "arsenic"
+msgstr "பிறாக்காண்டம்"
+
+msgid "astatine"
+msgstr "தேய்தன்"
+
+msgid "astonishment"
+msgstr "திகைப்பு"
+
+msgid "august"
+msgstr "ஆடியாவணி"
+
+msgid "authenticity"
+msgstr "சொக்கமான"
+
+msgid "authentic"
+msgstr "சொக்கம்"
+
+msgid "attain"
+msgstr "எய்து"
+
+msgid "artery"
+msgstr "தமனி"
+
+msgid "artillery"
+msgstr "சேணேவி"
+
+msgid "artisan"
+msgstr "கைவினைஞர்"
+
+msgid "asafoetida"
+msgstr "பெருங்காயம்"
+
+msgid "asbestos"
+msgstr "கல்நார்"
+
+msgid "asparagus"
+msgstr "தண்ணீர்விட்டான்"
+
+msgid "asphalt"
+msgstr "நிலக்கீல்"
+
+msgid "assasination"
+msgstr "வன்கொலை"
+
+msgid "assembly-line"
+msgstr "ஒன்றுகூட்டு வரிசை"
+
+msgid "assumption"
+msgstr "தற்கோள்"
+
+msgid "assurance"
+msgstr "காப்பீட்டுறுதி"
+
+msgid "asteroid"
+msgstr "சிறுகோள்"
+
+msgid "astrology"
+msgstr "ஐந்திரம்"
+
+msgid "astringent"
+msgstr "துவர்ப்பி"
+
+msgid "astronaut"
+msgstr "விண்வெளி வீரர்"
+
+msgid "attendant"
+msgstr "ஏவலாள்"
+
+msgid "atonement"
+msgstr "கழுவாய்"
+
+msgid "automatic teller machine"
+msgstr "தானியங்கி பணவழங்கி"
+
+msgid "automobile"
+msgstr "தானுந்து"
+
+msgid "autorickshaw"
+msgstr "தானி"
+
+msgid "autumn"
+msgstr "கூதிர்காலம்"
+
+msgid "available"
+msgstr "கிடைக்கும்"
+
+msgid "availability"
+msgstr "கிடைக்கப் பெறுதல்"
+
+msgid "athletics"
+msgstr "தடகளம்"
+
+msgid "atol"
+msgstr "பவழத்தீவு"
+
+msgid "atomic bomb"
+msgstr "அணுகுண்டு"
+
+msgid "audio"
+msgstr "கேட்பொலி"
+
+msgid "audio-cassette"
+msgstr "ஒலிப்பேழை"
+
+msgid "aqua regia"
+msgstr "அரசப்புளியம்"
+
+msgid "avalanche"
+msgstr "பனிச்சரிவு"
+
+msgid "avenue"
+msgstr "நிழற்சாலை"
+
+msgid "aviation"
+msgstr "பறப்பியல்"
+
+msgid "avionics"
+msgstr "பறப்பு மின்னணுவியல்"
+
+msgid "avocado"
+msgstr "வெண்ணைப் பழம்"
+
+msgid "axle"
+msgstr "அச்சாணி"
+
+msgid "bacteria"
+msgstr "பற்றுயிரிக்கள்"
+
+msgid "bacillus"
+msgstr "கோலியம்"
+
+msgid "backwater"
+msgstr "கடற்கழி"
+
+msgid "backyard"
+msgstr "கொல்லை"
+
+msgid "babchi seeds"
+msgstr "கற்பகரிசி கற்பூரவரிசி"
+
+msgid "backbiting"
+msgstr "புறங்கூறல்"
+
+msgid "backgammon"
+msgstr "சொக்கட்டான்"
+
+msgid "bacon"
+msgstr "உப்புக்கண்டம்"
+
+msgid "badminton ball"
+msgstr "பூப்பந்து"
+
+msgid "badge"
+msgstr "வில்லை"
+
+msgid "baize"
+msgstr "கவியிழை"
+
+msgid "baker"
+msgstr "வெதுப்பகர்"
+
+msgid "bait"
+msgstr "இரை"
+
+msgid "balance sheet"
+msgstr "ஐந்தொகை"
+
+msgid "ball"
+msgstr "பந்து"
+
+msgid "ball badminton"
+msgstr "பூப்பந்தாட்டம்"
+
+msgid "ball bearing"
+msgstr "மணித்தாங்கி"
+
+msgid "ballad"
+msgstr "கதைப்பாடல்"
+
+msgid "bait"
+msgstr "இரை"
+
+msgid "ballistic missile"
+msgstr "எறிவிசை ஏவுகணை"
+
+msgid "ballistic nylon"
+msgstr "நார் நொழிவிழை"
+
+msgid "ballistics"
+msgstr "எறியியல்"
+
+msgid "banner"
+msgstr "பதாகை"
+
+msgid "banyan tree"
+msgstr "ஆலமரம்"
+
+msgid "bar code"
+msgstr "பட்டைக் குறியிடு"
+
+msgid "barber"
+msgstr "நாவிதன்"
+
+msgid "barbados cherry"
+msgstr "சீமைநெல்லி"
+
+msgid "bargain"
+msgstr "பேரம் பேசு"
+
+msgid "barley"
+msgstr "வால்கோதுமை"
+
+msgid "barracuda"
+msgstr "சீலா மீன்"
+
+msgid "barrister"
+msgstr "வழக்குரைஞர்"
+
+msgid "bakery"
+msgstr "அடுமனை"
+
+msgid "balcony"
+msgstr "மேல்மாடம்"
+
+msgid "ball-point pen"
+msgstr "பந்துமுனை எழுதுகோல்"
+
+msgid "baloon"
+msgstr "வளிக்கூண்டு"
+
+msgid "bandage"
+msgstr "கட்டு"
+
+msgid "money bank"
+msgstr "வங்கி"
+
+msgid "river bank"
+msgstr "ஆற்றங்கறை"
+
+msgid "drinks bar"
+msgstr "அருந்தகம்"
+
+msgid "barium"
+msgstr "பாரவியம்"
+
+msgid "tree bark"
+msgstr "மரப்பட்டை"
+
+msgid "bat"
+msgstr "வவ்வால்"
+
+msgid "sport bat"
+msgstr "மட்டை"
+
+msgid "battle-field"
+msgstr "போர்க்களம்"
+
+msgid "cricket batsman"
+msgstr "மட்டையாளர்"
+
+msgid "baseball batter"
+msgstr "மட்டையாளர்"
+
+msgid "base pay"
+msgstr "தேக்கநிலை ஊதியம்"
+
+msgid "baseball"
+msgstr "அடிப்பந்தாட்டம்"
+
+msgid "batallion"
+msgstr "பட்டாளம்"
+
+msgid "bath-tub"
+msgstr "குளியல் தொட்டி"
+
+msgid "bay"
+msgstr "விரிகுடா"
+
+msgid "beam"
+msgstr "வடக்கு"
+
+msgid "beaver"
+msgstr "நீரெலி"
+
+msgid "bee's wax"
+msgstr "தேன்மெழுகு"
+
+msgid "beer"
+msgstr "தோப்பி"
+
+msgid "beetroot"
+msgstr "செங்கிழங்கு"
+
+msgid "berry"
+msgstr "சதைக்கனி"
+
+msgid "berkelium"
+msgstr "விழுக்கலிழியம்"
+
+msgid "bible"
+msgstr "வேதாகமம்"
+
+msgid "biceps branchii muscle"
+msgstr "இருதலைப்புயத்தசை"
+
+msgid "biceps femoris muscle"
+msgstr "இருதலைத்தொடைத்தசை"
+
+msgid "biceps muscle"
+msgstr "இருதலைத் தசை"
+
+msgid "bicycle"
+msgstr "மிதிவண்டி,"
+
+msgid "bilberry"
+msgstr "அவுரிநெல்லி"
+
+msgid "bile"
+msgstr "பித்தம்"
+
+msgid "bill"
+msgstr "விலைப்பட்டியல்"
+
+msgid "binocular"
+msgstr "இரட்டைக்கண்நோக்கி"
+
+msgid "biscuit"
+msgstr "மாச்சில்"
+
+msgid "bismuth"
+msgstr "நிமிளை"
+
+msgid "bison"
+msgstr "காட்டேணி"
+
+msgid "bit"
+msgstr "துணுக்கு"
+
+msgid "bitumen"
+msgstr "கரிக்கீல்"
+
+msgid "black gram"
+msgstr "உளுத்தம் பருப்பு"
+
+msgid "black eyed peas"
+msgstr "வெள்ளை காராமணி"
+
+msgid "battery"
+msgstr "மின்னடுக்கு"
+
+msgid "belly-worm"
+msgstr "நாங்கூழ்"
+
+msgid "waist belt"
+msgstr "இடுப்பு வார்"
+
+msgid "berylium"
+msgstr "வெளிரியம்"
+
+msgid "beverage"
+msgstr "குடிநீர்மம்"
+
+msgid "bilge"
+msgstr "வங்கு"
+
+msgid "billiards"
+msgstr "கோல்மேசை"
+
+msgid "billion"
+msgstr "இருமநுல்லியம்"
+
+msgid "bitcoin"
+msgstr "நுண்காசு"
+
+msgid "bitcoin cash"
+msgstr "நுண்ணுரொக்கக்காசு"
+
+msgid "blackberry"
+msgstr "நாகப்பழம்"
+
+msgid "blackbuck"
+msgstr "வேலிமான்"
+
+msgid "blacksmith"
+msgstr "கொல்லர்"
+
+msgid "blade"
+msgstr "அலகு"
+
+msgid "blender"
+msgstr "மின்கலப்பி"
+
+msgid "blister pack"
+msgstr "கொப்புளச் சிப்பம்"
+
+msgid "blister paint"
+msgstr "கொப்புளசப் பூச்சு"
+
+msgid "blue"
+msgstr "நீலம்"
+
+msgid "blueberry"
+msgstr "அவுரிநெல்லி"
+
+msgid "blue vitriol"
+msgstr "மயில்துத்தம்"
+
+msgid "blue-bell"
+msgstr "நீலமணி"
+
+msgid "bluetooth"
+msgstr "ஊடலை"
+
+msgid "blotting paper"
+msgstr "உறிஞ்சுதாள்"
+
+msgid "black"
+msgstr "கார்"
+
+msgid "blackberry messenger"
+msgstr "நாவல்வரி"
+
+msgid "bleaching powder"
+msgstr "வெளுப்புத் தூள்"
+
+msgid "block chain"
+msgstr "கட்டச்சங்கிலி"
+
+msgid "blunt"
+msgstr "மொண்ணையான"
+
+msgid "blood vessel"
+msgstr "குருதி நாடி"
+
+msgid "boa"
+msgstr "அயகரம்"
+
+msgid "boarding card"
+msgstr "ஏற்றட்டை"
+
+msgid "boarding pass"
+msgstr "ஏற்றட்டை"
+
+msgid "boat house"
+msgstr "படகுக் குழாம்"
+
+msgid "bobbin lace"
+msgstr "துய்யா"
+
+msgid "bohrium"
+msgstr "புறவியம்"
+
+msgid "boiler"
+msgstr "கொதிகலன்"
+
+msgid "bodyguard"
+msgstr "மெய்க்காப்பாளர்"
+
+msgid "bomb"
+msgstr "வெடிகுண்டு"
+
+msgid "book"
+msgstr "நூல்"
+
+msgid "book-keeping"
+msgstr "கணக்குப்பதிவியல்"
+
+msgid "bounce"
+msgstr "துள்ளல்"
+
+msgid "borax"
+msgstr "வெண்காரம்"
+
+msgid "boat"
+msgstr "தோணி"
+
+msgid "bone"
+msgstr "எளும்பு"
+
+msgid "bone marrow"
+msgstr "மச்சை"
+
+msgid "botheration"
+msgstr "கோளாறு"
+
+msgid "border"
+msgstr "எல்லை"
+
+msgid "boredom"
+msgstr "அலுப்பு"
+
+msgid "borewell"
+msgstr "ஆழ்குழாய் கிணறு"
+
+msgid "boring"
+msgstr "அலுப்பான"
+
+msgid "borrow"
+msgstr "இரவல் வாங்கு"
+
+msgid "bottle gourd"
+msgstr "சுரைக்காய்"
+
+msgid "braille"
+msgstr "புற்றெழுத்து"
+
+msgid "boomerang"
+msgstr "சுழல்படை"
+
+msgid "boot"
+msgstr "சோடு"
+
+msgid "boron"
+msgstr "கார்மம்"
+
+msgid "brake"
+msgstr "நிறுத்தி"
+
+msgid "brittle"
+msgstr "நொறுங்கும்"
+
+msgid "brittleness"
+msgstr "நொறுங்குமை"
+
+msgid "brass"
+msgstr "பித்தளை"
+
+msgid "brassiere"
+msgstr "மார்க்கச்சு"
+
+msgid "bravado"
+msgstr "சூரத்தனம்"
+
+msgid "bread"
+msgstr "ரொட்டி"
+
+msgid "brewer's yeast"
+msgstr "வடிப்போனொதி"
+
+msgid "briefcase"
+msgstr "குறும்பெட்டி"
+
+msgid "bridge"
+msgstr "பாலம்"
+
+msgid "brinjal"
+msgstr "கத்திரிக்காய்"
+
+msgid "broccoli"
+msgstr "பச்சைப் பூக்கொசு"
+
+msgid "broken beans"
+msgstr "மொச்சைக் கொட்டை"
+
+msgid "broadband"
+msgstr "ஆலலை"
+
+msgid "broadband connection"
+msgstr "ஆலலை இணைப்பு"
+
+msgid "bromine"
+msgstr "நெடியம்"
+
+msgid "bubble wrap"
+msgstr "குமிழியுறை"
+
+msgid "bubonic plague"
+msgstr "அரையாப்புக்கட்டிக் கொள்ளைநோய்"
+
+msgid "buckram"
+msgstr "முரட்டுத்துகில்"
+
+msgid "budget"
+msgstr "பொக்கிடு"
+
+msgid "broker"
+msgstr "தரகர்"
+
+msgid "brokerage firm"
+msgstr "தரககம்"
+
+msgid "bronze"
+msgstr "வெண்கலம்"
+
+msgid "brooch"
+msgstr "அணியூக்கு"
+
+msgid "bruise"
+msgstr "ஊமையடி"
+
+msgid "brussels sprouts"
+msgstr "களைக் கோசு"
+
+msgid "buffing wheel"
+msgstr "சாணைச் சக்கரம்"
+
+msgid "bugle"
+msgstr "ஊதுகொம்பு"
+
+msgid "bulldozer"
+msgstr "இடிவாரி"
+
+msgid "bun"
+msgstr "மெதுவன்"
+
+msgid "bundle"
+msgstr "பொதி"
+
+msgid "bureaucracy"
+msgstr "அதிகாரவர்க்கம்"
+
+msgid "burial urn"
+msgstr "முதுமக்கள் தாழி"
+
+msgid "burlap"
+msgstr "பருக்கன்"
+
+msgid "burner"
+msgstr "விளக்குக்காய்"
+
+msgid "burring machine"
+msgstr "சானைப் பொறி"
+
+msgid "burring reamer"
+msgstr "சாணைத் துனைப்பான்"
+
+msgid "software bug"
+msgstr "இடும்பை"
+
+msgid "electric bulb"
+msgstr "மின்குமிழ்"
+
+msgid "buoy"
+msgstr "காவியா"
+
+msgid "bus stop"
+msgstr "பேருந்து நிறுத்தம்"
+
+msgid "bush"
+msgstr "புதர்"
+
+msgid "mechanical bush"
+msgstr "உள்ளாழி"
+
+msgid "busy"
+msgstr "வேலையாக"
+
+msgid "bus"
+msgstr "பேருந்து"
+
+msgid "business visa"
+msgstr "வணிக இசைவு"
+
+msgid "butter"
+msgstr "வெண்ணெய்"
+
+msgid "buzzer"
+msgstr "இமிரி"
+
+msgid "cab"
+msgstr "வாடகைச் சீருந்து"
+
+msgid "cabbage"
+msgstr "முட்டைக் கோசு"
+
+msgid "cable"
+msgstr "வடம்"
+
+msgid "cable car"
+msgstr "கம்பிவட ஊர்தி"
+
+msgid "cabin"
+msgstr "சிற்றறை"
+
+msgid "cactus"
+msgstr "சப்பாத்திக் கள்ளி"
+
+msgid "cadmium"
+msgstr "நீலீயம்"
+
+msgid "caesium"
+msgstr "வெண்ணிதள்"
+
+msgid "caffeine"
+msgstr "வெறியம்"
+
+msgid "calendar"
+msgstr "நாள்காட்டி"
+
+msgid "californium"
+msgstr "கலிழ்வெள்ளீயம்"
+
+msgid "caliper"
+msgstr "நழுவிடுக்கி"
+
+msgid "call option"
+msgstr "வாங்கல் சூதம்"
+
+msgid "call taxi"
+msgstr "அழைப்பூர்தி"
+
+msgid "calculator"
+msgstr "கணிப்பான்"
+
+msgid "calibre"
+msgstr "குழல்விட்டம்"
+
+msgid "caliper"
+msgstr "விட்டமானி"
+
+msgid "calumny"
+msgstr "வசை"
+
+msgid "camcorder"
+msgstr "நிகழ்பதிவி"
+
+msgid "camel"
+msgstr "ஒட்டகம்"
+
+msgid "camphor"
+msgstr "கற்பூரம்"
+
+msgid "canal"
+msgstr "கால்வாய்"
+
+msgid "canoe"
+msgstr "வள்ளம்"
+
+msgid "canopy"
+msgstr "கவிகை"
+
+msgid "canvas"
+msgstr "கித்தான்"
+
+msgid "canvas shoe"
+msgstr "கித்தான் சப்பாத்து"
+
+msgid "canyon"
+msgstr "ஆற்றுக்குடைவு"
+
+msgid "capstan"
+msgstr "நங்கூரவுருளை"
+
+msgid "car"
+msgstr "சீருந்து"
+
+msgid "caramel"
+msgstr "எரிசர்க்கரை"
+
+msgid "carbohydrate"
+msgstr "மாவுச்சத்து"
+
+msgid "carbon"
+msgstr "கரிமம்"
+
+msgid "carbon paper"
+msgstr "கரிப்படித்தாள்"
+
+msgid "carborundum"
+msgstr "தோகைக்கல்"
+
+msgid "carboy"
+msgstr "கவிழ்கலன்"
+
+msgid "carburetor"
+msgstr "காற்றுக்கலக்கி"
+
+msgid "card reader"
+msgstr "அட்டைப் படிப்பி"
+
+msgid "cardamom"
+msgstr "ஏலக்காய்"
+
+msgid "caretaker government"
+msgstr "காபந்து அரசு"
+
+msgid "carol"
+msgstr "ஞானகீதம்"
+
+msgid "carpenter"
+msgstr "தச்சர்"
+
+msgid "carpet"
+msgstr "தரைப்பாய்"
+
+msgid "carrier truck"
+msgstr "தாங்குந்து"
+
+msgid "cartilege"
+msgstr "குடுத்தெலும்பு"
+
+msgid "cartoon"
+msgstr "கருத்துப்படம்"
+
+msgid "casuarina"
+msgstr "சவுக்கு"
+
+msgid "cashier"
+msgstr "காசாளர்"
+
+msgid "cast iron"
+msgstr "வார்ப்பிரும்பு"
+
+msgid "casting"
+msgstr "வார்ப்படம்"
+
+msgid "castle in the air"
+msgstr "மனக்கோட்டை"
+
+msgid "cat"
+msgstr "பூனை"
+
+msgid "cat's eye"
+msgstr "வைடூரியம்"
+
+msgid "cat fish"
+msgstr "கெளுத்தி"
+
+msgid "catalyst"
+msgstr "வினையூக்கி"
+
+msgid "catalytic converter"
+msgstr "மாசகற்றி"
+
+msgid "cabin"
+msgstr "வானறை"
+
+msgid "cake"
+msgstr "இனியப்பம்"
+
+msgid "cake shop"
+msgstr "இனியப்பகம்"
+
+msgid "calcium"
+msgstr "சுண்ணவியம்"
+
+msgid "camera"
+msgstr "நிழற்படவி"
+
+msgid "canine"
+msgstr "கோரைப்பல்"
+
+msgid "cannibal"
+msgstr "தன்னினத்தின்னி"
+
+msgid "cannibalism"
+msgstr "தன்னினத்தின்னல்"
+
+msgid "cataract"
+msgstr "கண்புரை"
+
+msgid "catering"
+msgstr "ஊட்டநெறி"
+
+msgid "cat's eye"
+msgstr "வைடூரியம்"
+
+msgid "cat fish"
+msgstr "கெளுத்தி"
+
+msgid "catechin"
+msgstr "காசிச்சத்து"
+
+msgid "catechu"
+msgstr "காசிப்பட்டை"
+
+msgid "caustic soda"
+msgstr "சாடாக் காரம்"
+
+msgid "cavalry"
+msgstr "குதிரைப்படை"
+
+msgid "cedar"
+msgstr "தேவதாரு மரம்"
+
+msgid "ceiling"
+msgstr "உட்கூரை"
+
+msgid "ceiling fan"
+msgstr "கூரை விசிறி"
+
+msgid "celery"
+msgstr "சிவரிக்கீரை"
+
+msgid "cello"
+msgstr "சிலையாழ்"
+
+msgid "cellulose"
+msgstr "மரநார்"
+
+msgid "centigrade scale"
+msgstr "சதாம்ச அளவு"
+
+msgid "centimeter"
+msgstr "சதமீட்டம்"
+
+msgid "ceramic tile"
+msgstr "வனையோடு"
+
+msgid "ceramic"
+msgstr "வனைபொருள்"
+
+msgid "cess"
+msgstr "தீர்வை"
+
+msgid "ceylon plum"
+msgstr "சொத்தைக்களா"
+
+msgid "chalk"
+msgstr "சுண்ணங்கட்டி"
+
+msgid "challenge"
+msgstr "அறைகூவல்"
+
+msgid "chamomile"
+msgstr "சீமைச்சாமந்தி"
+
+msgid "chaos"
+msgstr "கசகு"
+
+msgid "charger"
+msgstr "மின்னூட்டி"
+
+msgid "chauvinism"
+msgstr "குறுகியவாதம்"
+
+msgid "chauvinist"
+msgstr "குறுகியவாதி"
+
+msgid "check-in"
+msgstr "பயண் ஆயத்தம்"
+
+msgid "check-post"
+msgstr "சோதனைச் சாவடி"
+
+msgid "checque"
+msgstr "காசோலை"
+
+msgid "checque-book"
+msgstr "காசோலை ஏடு"
+
+msgid "cheese"
+msgstr "பாலாடைக்கட்டி"
+
+msgid "cheese spread"
+msgstr "பாலாடைத் தடவை"
+
+msgid "cheetah"
+msgstr "சவங்கிப்புலி"
+
+msgid "chemist"
+msgstr "வேதியியலர்"
+
+msgid "chess"
+msgstr "சதுரங்கம்"
+
+msgid "crewing gum"
+msgstr "மெல்கோந்து"
+
+msgid "chia seeds"
+msgstr "சீமைக் கசகசா"
+
+msgid "chicada"
+msgstr "சிள்வண்டு"
+
+msgid "cannon"
+msgstr "பீரங்கி"
+
+msgid "cantelever"
+msgstr "துருத்துவிட்டம்"
+
+msgid "cantonment"
+msgstr "பாளையம்"
+
+msgid "chickpea"
+msgstr "கொண்டைக்கடலை"
+
+msgid "chicory"
+msgstr "காசினிவிரை"
+
+msgid "chiffon"
+msgstr "மென்பட்டு"
+
+msgid "chikungunya"
+msgstr "மூட்டுக்காய்ச்சல்"
+
+msgid "chimney"
+msgstr "புகைப்போக்கி"
+
+msgid "chisel"
+msgstr "உளி"
+
+msgid "chlorination"
+msgstr "பாசிகவூட்டல்"
+
+msgid "chocolate"
+msgstr "காவிக்கண்டு"
+
+msgid "cholorophyl"
+msgstr "பச்சையம்"
+
+msgid "cholera"
+msgstr "வாந்திபேதி"
+
+msgid "cholestrol"
+msgstr "ரத்தக் கொழுப்பு"
+
+msgid "christmas"
+msgstr "நத்தார்"
+
+msgid "chronometer"
+msgstr "காலமானி"
+
+msgid "cigar"
+msgstr "சுருட்டு"
+
+msgid "cinnamon"
+msgstr "லவங்கப் பட்டை"
+
+msgid "cape"
+msgstr "கடல்முனை"
+
+msgid "flight captain"
+msgstr "குழுத்தலைவர்"
+
+msgid "ship captain"
+msgstr "மீகாமர்"
+
+msgid "captain"
+msgstr "அணித்தலைவர்"
+
+msgid "car rental"
+msgstr "மகிழுந்து இரவல்"
+
+msgid "car vacuum"
+msgstr "மகிழுந்து வெற்றிடவுறிஞ்சி"
+
+msgid "carrom board"
+msgstr "சதுப்பலகை"
+
+msgid "carrot"
+msgstr "செம்மங்கி"
+
+msgid "amusement carousal"
+msgstr "குதிரை ராட்டிணம்"
+
+msgid "carousal"
+msgstr "சக்கரவியூகம்"
+
+msgid "cash"
+msgstr "காசு"
+
+msgid "castling"
+msgstr "கோட்டைக் கட்டுதல்"
+
+msgid "casual leave"
+msgstr "தற்செயல் விடுப்பு"
+
+msgid "cauliflower"
+msgstr "பூக்கோசு"
+
+msgid "cayenne pepper"
+msgstr "சீமை சிகப்பு மிளகாய்"
+
+msgid "cell phone"
+msgstr "அலைபேசி"
+
+msgid "mobile phone"
+msgstr "நகர்பேசி"
+
+msgid "cement"
+msgstr "சீமைக்காரை"
+
+msgid "ceremony"
+msgstr "சடங்கு"
+
+msgid "certify"
+msgstr "சான்றளி"
+
+msgid "certificate"
+msgstr "சான்றிதழ்"
+
+msgid "cerium"
+msgstr "சீரீயம்"
+
+msgid "cesium"
+msgstr "வெண்ணிதள்"
+
+msgid "chair"
+msgstr "நாற்காலி"
+
+msgid "chayote"
+msgstr "சௌச்சௌ"
+
+msgid "checkers game"
+msgstr "வரைவு வாரியம்"
+
+msgid "check-in"
+msgstr "சரக்கிடு"
+
+msgid "checked luggage"
+msgstr "சரக்கிட்டச் சுமை"
+
+msgid "cherry"
+msgstr "சேலாப்பழம்"
+
+msgid "chicken-pox"
+msgstr "சின்னம்மை"
+
+msgid "chintz"
+msgstr "சீட்டித்துகில்"
+
+msgid "chips"
+msgstr "சீவல்"
+
+msgid "chives"
+msgstr "உள்ளித்தழை"
+
+msgid "chlorine"
+msgstr "பாசிகை"
+
+msgid "chloroform"
+msgstr "ஒருக்கொள்ளிய முப்பாசிகம்"
+
+msgid "choker"
+msgstr "அட்டிகை"
+
+msgid "chromium"
+msgstr "நீலிரும்பு"
+
+msgid "cigarette"
+msgstr "வெண்சுருட்டு"
+
+msgid "circus"
+msgstr "வட்டரங்கு"
+
+msgid "tricks"
+msgstr "வித்தைகள்"
+
+msgid "citizen"
+msgstr "குடிநபர்"
+
+msgid "clamp"
+msgstr "இறுக்கி"
+
+msgid "clarity"
+msgstr "தெளிவு"
+
+msgid "clause"
+msgstr "உறுப்புரை"
+
+msgid "cleaning powder"
+msgstr "சுத்தப்பொடி"
+
+msgid "client"
+msgstr "வாடிக்கையாளர்"
+
+msgid "closed circuit television"
+msgstr "சுற்று மூட்டத் தொலைக்காட்சி"
+
+msgid "circuit breaker"
+msgstr "சுற்று முறிப்பான்"
+
+msgid "circular"
+msgstr "சுற்றரிக்கை"
+
+msgid "circulate"
+msgstr "சுற்றனுப்பு"
+
+msgid "citizenship"
+msgstr "குடியுரிமை"
+
+msgid "civet cat"
+msgstr "புனுகுப்பூனை"
+
+msgid "civil supplies"
+msgstr "குடிமைப்பொருள்"
+
+msgid "clairvoyance"
+msgstr "தெளிவுக்காட்சி"
+
+msgid "clarinet"
+msgstr "கிளாக்களம்"
+
+msgid "clerk"
+msgstr "எழுத்தர்"
+
+msgid "cliff"
+msgstr "ஓங்கல்"
+
+msgid "clinic"
+msgstr "மருத்துவகம்"
+
+msgid "clip"
+msgstr "பிடிப்பி"
+
+msgid "clone"
+msgstr "போலிகை"
+
+msgid "closed circuit camera"
+msgstr "மறைபடக்கருவி"
+
+msgid "clothes rack"
+msgstr "உடை ஏந்தானம்"
+
+msgid "clove"
+msgstr "கிராம்பு"
+
+msgid "clover"
+msgstr "சீமைமசால்"
+
+msgid "club"
+msgstr "மன்றகம்"
+
+msgid "clutch"
+msgstr "விடுபற்றி"
+
+msgid "co-ordinate"
+msgstr "ஒருங்கியக்கு"
+
+msgid "co-ordination"
+msgstr "ஒருங்கியக்கம்"
+
+msgid "co-ordinator"
+msgstr "ஒருங்கியக்குநர்"
+
+msgid "recreational club"
+msgstr "மனமகிழ் மன்றம்"
+
+msgid "cobalt"
+msgstr "மென்வெள்ளி"
+
+msgid "cocoa powder"
+msgstr "காவித் தூள்"
+
+msgid "cocoa plant"
+msgstr "காவிச் செடி"
+
+msgid "cocoa seed "
+msgstr "காவி விதை"
+
+msgid "cocoa tree"
+msgstr "காவி மரம்"
+
+msgid "cocoa"
+msgstr "காவிக்கொட்டை"
+
+msgid "coconut"
+msgstr "தேங்காய்"
+
+msgid "coconut shell"
+msgstr "கொட்டாங்குச்சி"
+
+msgid "code of law"
+msgstr "சட்டக்கோவை"
+
+msgid "code share agreement"
+msgstr "பறத்தட ஒப்பந்தம்"
+
+msgid "coat"
+msgstr "குப்பாயம்"
+
+msgid "cobbler"
+msgstr "சக்கிலியர்"
+
+msgid "cockpit"
+msgstr "விமானியறை"
+
+msgid "cocoon"
+msgstr "கூட்டுப்புழு"
+
+msgid "cod"
+msgstr "பன்னா"
+
+msgid "coke"
+msgstr "கற்கரி"
+
+msgid "cold water"
+msgstr "தண்ணீர்"
+
+msgid "collar bone"
+msgstr "காறையுலும்பு"
+
+msgid "college"
+msgstr "கல்லூரி"
+
+msgid "colloid"
+msgstr "கூழ்மம்"
+
+msgid "colloidal silver"
+msgstr "வெள்ளிக் கூழ்மம்"
+
+msgid "colon"
+msgstr "முன் சிறுகுடல்"
+
+msgid "colour pencil"
+msgstr "வண்ண விரிசில்"
+
+msgid "columbium"
+msgstr "களங்கன்"
+
+msgid "comet"
+msgstr "வால்வெள்ளி"
+
+msgid "coffee"
+msgstr "குளம்பி"
+
+msgid "shirt collar"
+msgstr "கழுத்துப் பட்டி"
+
+msgid "collateral"
+msgstr "பிணையம்"
+
+msgid "commission"
+msgstr "பணிப்பாணை"
+
+msgid "composite"
+msgstr "கூட்டமைப்பொருள்"
+
+msgid "composites"
+msgstr "கூட்டமைப்பொருட்கள்"
+
+msgid "commander"
+msgstr "படைத்தலைவர்"
+
+msgid "commando"
+msgstr "அதிரடிப்படையர்"
+
+msgid "commission"
+msgstr "ஆணைக்குழு"
+
+msgid "committee"
+msgstr "செயற்குழு"
+
+msgid "commodity"
+msgstr "பண்டம்"
+
+msgid "commomorative"
+msgstr "ஞாபகார்த்தம்"
+
+msgid "commutator"
+msgstr "திசைமாற்றி"
+
+msgid "compassion"
+msgstr "ஈவிறக்கம்"
+
+msgid "compass"
+msgstr "கவராயம்"
+
+msgid "compact disk"
+msgstr "குறுவட்டு"
+
+msgid "company"
+msgstr "குழுமம்"
+
+msgid "complacency"
+msgstr "மெத்தனம்"
+
+msgid "compliant"
+msgstr "இணக்கமான"
+
+msgid "compliance"
+msgstr "இணக்கம்"
+
+msgid "complaint"
+msgstr "குற்றச்சாட்டு"
+
+msgid "concert"
+msgstr "அரங்கிசை"
+
+msgid "concoction"
+msgstr "கியாழம்"
+
+msgid "computer"
+msgstr "கணினி"
+
+msgid "computerized numerical control machine"
+msgstr "கணிக்கடைப்பொறி"
+
+msgid "concentrate"
+msgstr "கவனி"
+
+msgid "concentration"
+msgstr "கவனம்"
+
+msgid "concentration of acid"
+msgstr "அமில செறிவு"
+
+msgid "concern"
+msgstr "இடர்ப்பாடு"
+
+msgid "condition"
+msgstr "அக்குத்து"
+
+msgid "concrete"
+msgstr "கற்காரை"
+
+msgid "concrete mixer"
+msgstr "கற்காரைக் கலக்கி"
+
+msgid "condensed milk"
+msgstr "குறுகியப் பால்"
+
+msgid "confectionary"
+msgstr "பணிகாரம்"
+
+msgid "confectioner"
+msgstr "பணிகாரர்"
+
+msgid "conference"
+msgstr "கருத்தரங்கு"
+
+msgid "confidence"
+msgstr "தன்னம்பிக்கை"
+
+msgid "coniferous forest"
+msgstr "ஊசியிலைக் காடு"
+
+msgid "conscience"
+msgstr "மனசாட்சி"
+
+msgid "conscription"
+msgstr "படையாட்சேர்ப்பு"
+
+msgid "constituency"
+msgstr "தொகுதி"
+
+msgid "contact lens"
+msgstr "விழிவில்லை"
+
+msgid "container"
+msgstr "கொள்கலன்"
+
+msgid "context"
+msgstr "இடஞ்சொற்பொருள்"
+
+msgid "context-sensitive menu"
+msgstr "சூழமைவுணர்ப்பட்டி"
+
+msgid "continent"
+msgstr "கண்டம்"
+
+msgid "contraceptive"
+msgstr "கருத்தடையி"
+
+msgid "controversy"
+msgstr "சர்ச்சை"
+
+msgid "conviction"
+msgstr "திடநம்பிக்கை"
+
+msgid "cooky"
+msgstr "ஈரட்டி"
+
+msgid "coolant"
+msgstr "குளிர்பொருள்"
+
+msgid "coppernickel"
+msgstr "கல்வெள்ளி"
+
+msgid "copper sulphate"
+msgstr "மயில்துத்தம்"
+
+msgid "corel tree"
+msgstr "கல்யாணமுருங்கை"
+
+msgid "cork"
+msgstr "தக்கை"
+
+msgid "cormorant"
+msgstr "காரண்டலம்"
+
+msgid "corn"
+msgstr "மக்காச் சோளம்"
+
+msgid "corn flakes"
+msgstr "சோளத்துருவல்"
+
+msgid "cornea"
+msgstr "விழிவெண்படலம்"
+
+msgid "cornice"
+msgstr "கொடுங்கை"
+
+msgid "coronavirus"
+msgstr "பரிவட்ட நச்சுயிரி"
+
+msgid "corrosion"
+msgstr "அரிப்பு"
+
+msgid "cottage"
+msgstr "குடில்"
+
+msgid "cottage cheese"
+msgstr "பால்கட்டி"
+
+msgid "countdown"
+msgstr "நேரநருங்கல்"
+
+msgid "counter"
+msgstr "முகப்பு"
+
+msgid "conference call"
+msgstr "கலந்துரையாடல் அழைப்பு"
+
+msgid "conifer"
+msgstr "ஊசியிலை மரம்"
+
+msgid "coniferous forest"
+msgstr "ஊசியிலைக் காடு"
+
+msgid "confidentiality"
+msgstr "மந்தணம்"
+
+msgid "confidential"
+msgstr "மந்தணமான"
+
+msgid "conjuctivities"
+msgstr "வெண்விழி அழற்சி"
+
+msgid "consumer"
+msgstr "நுகர்வர்"
+
+msgid "consistency"
+msgstr "ஒருதரம்"
+
+msgid "consistent"
+msgstr "ஒருதரமான"
+
+msgid "contact"
+msgstr "தொடர்பு"
+
+msgid "container"
+msgstr "சரக்குப் பெட்டகம்"
+
+msgid "contrast"
+msgstr "உறழ்பொருவு"
+
+msgid "convenor"
+msgstr "அவைக்கட்டுநர்"
+
+msgid "conveyor belt"
+msgstr "ஊர்திப்பட்டை"
+
+msgid "convince"
+msgstr "நம்பவை"
+
+msgid "copernicium"
+msgstr "விழுச்செப்பு"
+
+msgid "copper"
+msgstr "செம்பு"
+
+msgid "coral"
+msgstr "பவழம்"
+
+msgid "corduroy"
+msgstr "கோநூல்"
+
+msgid "coupe"
+msgstr "பதுங்கறைச் சீருந்து"
+
+msgid "courier"
+msgstr "தூதஞ்சல்"
+
+msgid "courtesy"
+msgstr "பணிவன்பு"
+
+msgid "crab"
+msgstr "நண்டு"
+
+msgid "crack"
+msgstr "வெடிப்பு"
+
+msgid "craftsman"
+msgstr "கைவினைஞன்"
+
+msgid "crane"
+msgstr "பளுத்தூக்கி"
+
+msgid "network coverage"
+msgstr "இணைய துழாவுகை"
+
+msgid "test coverage"
+msgstr "சோதனை துழாவுகை"
+
+msgid "crayon"
+msgstr "வண்ணக்கட்டி"
+
+msgid "crater"
+msgstr "கிண்ணக்குழி"
+
+msgid "credit card"
+msgstr "கடனட்டை"
+
+msgid "creepage"
+msgstr "மின்னூர்வு"
+
+msgid "crepe silk"
+msgstr "முறுக்குநூற்பட்டு"
+
+msgid "crinoline"
+msgstr "குருட்சணல்"
+
+msgid "critic"
+msgstr "திறனாய்வாளர்"
+
+msgid "crotch"
+msgstr "கவட்டை"
+
+msgid "cruise control"
+msgstr "சீர்வேகக்கருவி"
+
+msgid "cruising speed"
+msgstr "சீரியங்கு விரைவு"
+
+msgid "crane"
+msgstr "கொக்கு"
+
+msgid "loan"
+msgstr "கடன்"
+
+msgid "credit"
+msgstr "வரவு (தமிழ்க் குறி ௷)"
+
+msgid "creaking sound"
+msgstr "கிரீச்சொலி"
+
+msgid "crematorium"
+msgstr "சுடுகாடு"
+
+msgid "crystal"
+msgstr "படிகம்"
+
+msgid "cubicle"
+msgstr "குறுவறை"
+
+msgid "curtain"
+msgstr "திரைச்சீலை"
+
+msgid "cuticle"
+msgstr "புறத்தோல்"
+
+msgid "cricket game"
+msgstr "துடுப்பாட்டம்"
+
+msgid "cricket insect"
+msgstr "சீரிகை"
+
+msgid "cruise"
+msgstr "சீரியங்கு"
+
+msgid "earth crust"
+msgstr "புவிஓடு"
+
+msgid "crypto currency "
+msgstr "மறைநாணயம்"
+
+msgid "current month"
+msgstr "நாளது மாதம்"
+
+msgid "curriculum"
+msgstr "பாடத்திட்டம்"
+
+msgid "electric current"
+msgstr "மின்னோட்டம்"
+
+msgid "sea current"
+msgstr "நீரோட்டம்"
+
+msgid "border customs"
+msgstr "சுங்கம்"
+
+msgid "cutter vessel"
+msgstr "கத்திக் கப்பல்"
+
+msgid "cumin"
+msgstr "சீரகம்"
+
+msgid "cup"
+msgstr "கோப்பை"
+
+msgid "curfew"
+msgstr "ஊரடங்கு"
+
+msgid "curd"
+msgstr "தயிர்"
+
+msgid "curium"
+msgstr "அகோரியம்"
+
+msgid "cutlet"
+msgstr "கொத்தடை"
+
+msgid "colour die"
+msgstr "சாயம்"
+
+msgid "cylinder"
+msgstr "கலன்"
+
+msgid "gas cylinder"
+msgstr "வாயூகலன்"
+
+msgid "cylinder shape"
+msgstr "உருளை வடிவம்"
+
+msgid "cyanide"
+msgstr "தழைமக்கரிமம்"
+
+msgid "deduction"
+msgstr "பிடித்தம்"
+
+msgid "dance"
+msgstr "நடனம்"
+
+msgid "dancer"
+msgstr "நடனர்"
+
+msgid "dandruff"
+msgstr "பொடுகு"
+
+msgid "daily newspaper"
+msgstr "நாளிகை"
+
+msgid "daisy"
+msgstr "வெளிராதவப்பூ"
+
+msgid "darn"
+msgstr "ஒட்டத்தை"
+
+msgid "darner"
+msgstr "ஒட்டத்தையலாளர்"
+
+msgid "darning"
+msgstr "ஒட்டத்தையல்"
+
+msgid "death row"
+msgstr "மரணச்சிறை"
+
+msgid "death row prisoner"
+msgstr "மரணக்கைதி"
+
+msgid "debit"
+msgstr "பற்று (தமிழ்க் குறி ௶)"
+
+msgid "decaffinated coffee"
+msgstr "வெறியம் நீக்கியக் குளம்பி"
+
+msgid "december"
+msgstr "காத்திகைமார்கழி"
+
+msgid "decillion"
+msgstr "பதின்மநுல்லியம்"
+
+msgid "customs declaration"
+msgstr "விளம்புகை"
+
+msgid "default"
+msgstr "முன்னிருப்பு"
+
+msgid "defibrillator"
+msgstr "குறுநடுக்கமெடுப்பி"
+
+msgid "education degree"
+msgstr "பட்டம்"
+
+msgid "angle degree"
+msgstr "பாகை"
+
+msgid "delivery order"
+msgstr "கொண்டளியாணை"
+
+msgid "demand draft"
+msgstr "வரைவு காசோலை"
+
+msgid "demography"
+msgstr "மக்கள் கணிப்பியல்"
+
+msgid "demographer"
+msgstr "மக்கள் கணிப்பியலர்"
+
+msgid "demonstration of an equipment"
+msgstr "தெரியக்காட்டல்"
+
+msgid "dense"
+msgstr "அடர்த்தியான"
+
+msgid "denseness"
+msgstr "அடர்த்தி"
+
+msgid "density"
+msgstr "அடர்த்தி"
+
+msgid "department"
+msgstr "துறை"
+
+msgid "detergent"
+msgstr "சலவைக்காரம்"
+
+msgid "mentally determined"
+msgstr "மன உறுதியான"
+
+msgid "dial"
+msgstr "சுழற்று"
+
+msgid "diarrhoea"
+msgstr "பேதி"
+
+msgid "diary"
+msgstr "நாட்குறிப்பு"
+
+msgid "dictatorship"
+msgstr "வல்லாட்சி"
+
+msgid "game die"
+msgstr "பகடைக்காய்"
+
+msgid "integrated circuit die"
+msgstr "வகுமம்"
+
+msgid "diesel"
+msgstr "வளியெண்ணை"
+
+msgid "digital"
+msgstr "மின்னிலக்க"
+
+msgid "digital audio tape"
+msgstr "மின்னிலக்க ஒலிநாடா"
+
+msgid "digital camera"
+msgstr "மின்னிலக்க நிழற்படக்கருவி"
+
+msgid "digital single-lens reflex camera"
+msgstr "எண்ணியல் ஒருவில்லை சீர்ப்படக்கருவி"
+
+msgid "dimethyl sulphoxide"
+msgstr "இருக்கொள்ளியக் கந்தகவுயிரகம்"
+
+msgid "direct"
+msgstr "நேரடியான"
+
+msgid "direct-to-home"
+msgstr "இல்ல‌நேர‌டித் தொலைக்காட்சி"
+
+msgid "discuss"
+msgstr "கலந்தாராய்"
+
+msgid "disclaimer"
+msgstr "மறுதலிப்பு"
+
+msgid "distillrery"
+msgstr "வடிமனை"
+
+msgid "divert"
+msgstr "கவனமாற்று"
+
+msgid "diversion"
+msgstr "கவனமாற்றம்"
+
+msgid "divided by"
+msgstr "வகுத்தல்"
+
+msgid "dividend"
+msgstr "ஈவுத்தொகை"
+
+msgid "dog in the manager"
+msgstr "அலுப்பன்"
+
+msgid "dolphinfish"
+msgstr "பாதாளன்"
+
+msgid "dome"
+msgstr "திருக்குடம்"
+
+msgid "dowry"
+msgstr "மணக்கொடை"
+
+msgid "dragon"
+msgstr "பறவைநாகம்"
+
+msgid "draughts game"
+msgstr "அட்டாங்கம்"
+
+msgid "driver"
+msgstr "ஓட்டி"
+
+msgid "dung"
+msgstr "சாணி"
+
+msgid "duty-free shop"
+msgstr "தீர்வையில்லங்காடி"
+
+msgid "dynamite"
+msgstr "களிக்கரை வெடி"
+
+msgid "dysprosium"
+msgstr "கலிழியம்"
+
+msgid "earth"
+msgstr "பூமி"
+
+msgid "ebola"
+msgstr "புலைக்காய்ச்சல்"
+
+msgid "echo-sounder"
+msgstr "எதிரொலிக் கும்பா"
+
+msgid "editor"
+msgstr "திருத்தி"
+
+msgid "news editor"
+msgstr "தொகுப்பாளர்"
+
+msgid "elastic band"
+msgstr "மீள்பட்டை"
+
+msgid "elephant"
+msgstr "வேழம்"
+
+msgid "embroidery"
+msgstr "பூத்தையல்"
+
+msgid "emigration"
+msgstr "குடிபெயர்வு"
+
+msgid "emulate"
+msgstr "பின்பற்று"
+
+msgid "enamel tooth"
+msgstr "பற்சிப்பி"
+
+msgid "enamel paint"
+msgstr "கனிம நிறம்"
+
+msgid "enema"
+msgstr "வத்தி"
+
+msgid "enforcement"
+msgstr "செயலாக்கம்"
+
+msgid "entry"
+msgstr "நுழைவு"
+
+msgid "entrance"
+msgstr "நுழைவு"
+
+msgid "entry ticket"
+msgstr "நுழைவுச்சீட்டு"
+
+msgid "entry pass"
+msgstr "நுழைவுச்சீட்டு"
+
+msgid "episode"
+msgstr "கிளைக்கதை"
+
+msgid "europium"
+msgstr "அரியவியம்"
+
+msgid "evaporated milk"
+msgstr "பால் சுண்டி"
+
+msgid "exam"
+msgstr "தேர்வு"
+
+msgid "examinee"
+msgstr "பரிட்சையாளர்"
+
+msgid "examiner"
+msgstr "பரிட்சகர்"
+
+msgid "example"
+msgstr "சான்று"
+
+msgid "execute death sentence"
+msgstr "சாவுஒறுப்பு நிறைவேற்று"
+
+msgid "execute a task"
+msgstr "செயல்படுத்து"
+
+msgid "executioner"
+msgstr "நிசாரணன்"
+
+msgid "evidence"
+msgstr "தடயம்"
+
+msgid "extempore"
+msgstr "ஆசாக"
+
+msgid "extempore music"
+msgstr "ஆசாற்றுகை"
+
+msgid "extempore speech"
+msgstr "ஆசுப்பேச்சு"
+
+msgid "falsework"
+msgstr "பொய்வேலை"
+
+msgid "fang"
+msgstr "நச்சுப்பல்"
+
+msgid "farmer"
+msgstr "வேளாளர்"
+
+msgid "fat"
+msgstr "கொழுப்பு"
+
+msgid "faucet"
+msgstr "பீலி"
+
+msgid "fax"
+msgstr "தொலைநகல்"
+
+msgid "feature"
+msgstr "நற்பொருத்தம்"
+
+msgid "february"
+msgstr "தைமாசி"
+
+msgid "felt"
+msgstr "இறுநார்"
+
+msgid "feudal system"
+msgstr "படைமானியத் திட்டம்"
+
+msgid "field of work"
+msgstr "களப்பணி"
+
+msgid "fine amount"
+msgstr "தண்டம்"
+
+msgid "fig fruit"
+msgstr "அத்திப்பழம்"
+
+msgid "fig tree"
+msgstr "அத்திமரம்"
+
+msgid "fitting plumbing"
+msgstr "குழாய்ச் பொருள்"
+
+msgid "flag"
+msgstr "கொடி"
+
+msgid "flagstaff"
+msgstr "கொடிமரம்"
+
+msgid "flap"
+msgstr "சிறகடி"
+
+msgid "flat"
+msgstr "அடுக்கு வீடு"
+
+msgid "flattery"
+msgstr "முகத்துதி"
+
+msgid "flax seed"
+msgstr "அலி விரை"
+
+msgid "flexible"
+msgstr "வளைமையான"
+
+msgid "flexibility"
+msgstr "வளைமை"
+
+msgid "flight"
+msgstr "பறக்கை"
+
+msgid "flight number"
+msgstr "பறக்கையெண்"
+
+msgid "floppy"
+msgstr "நெகிழ்வட்டு"
+
+msgid "fluorine"
+msgstr "வினைவியம்"
+
+msgid "fluorination"
+msgstr "வினையியமூட்டல்"
+
+msgid "flush"
+msgstr "நீரலம்பு"
+
+msgid "flush-out"
+msgstr "நீரலம்பி"
+
+msgid "flush-out system"
+msgstr "நீரலம்பல் முறை"
+
+msgid "follow up"
+msgstr "பின்தொட‌ர்"
+
+msgid "formwork"
+msgstr "உருவவேலை"
+
+msgid "frequency"
+msgstr "அலைவெண்"
+
+msgid "frequency of service"
+msgstr "அடிக்கடியம்"
+
+msgid "free time"
+msgstr "விடுமை"
+
+msgid "free of cost"
+msgstr "இலவசம்"
+
+msgid "freezer"
+msgstr "உறையறை"
+
+msgid "frying pan"
+msgstr "வறையோடு"
+
+msgid "fulcrum"
+msgstr "ஆதாரப்புள்ளி"
+
+msgid "full moon"
+msgstr "வெள்ளுவா"
+
+msgid "furniture"
+msgstr "அறைகலன்"
+
+msgid "fuse"
+msgstr "எரியிழை"
+
+msgid "gadolinium"
+msgstr "காந்தவியம்"
+
+msgid "galaxy"
+msgstr "விண்மீன் மண்டலம்"
+
+msgid "cuttlefish"
+msgstr "கணவாய்"
+
+msgid "cycle"
+msgstr "மிதிவண்டி"
+
+msgid "cycle-rickshaw"
+msgstr "மிதியிழுவண்டி"
+
+msgid "cyclostyle"
+msgstr "படிப்பெருக்கி"
+
+msgid "gallium"
+msgstr "மென்தங்கம்"
+
+msgid "gas cylinder"
+msgstr "வாயூகலன்"
+
+msgid "gasket"
+msgstr "இடையடைப்பு"
+
+msgid "gill fish"
+msgstr "செவுள்"
+
+msgid "god"
+msgstr "கடவுள்"
+
+msgid "gps"
+msgstr "இடங்காட்டி"
+
+msgid "graphite"
+msgstr "காரீயம்"
+
+msgid "grease"
+msgstr "பிசிக்கு"
+
+msgid "green beans"
+msgstr "பச்சை அவரை"
+
+msgid "grey color"
+msgstr "சாம்பல் நிறம்"
+
+msgid "electric grid"
+msgstr "மின்தொகுப்பு"
+
+msgid "grind"
+msgstr "அறை"
+
+msgid "grinding"
+msgstr "அறவை"
+
+msgid "grinding stone"
+msgstr "ஆட்டுக்கல்"
+
+msgid "grope"
+msgstr "துளாவு"
+
+msgid "daffodil"
+msgstr "பேரரளி"
+
+msgid "dagger"
+msgstr "பிச்சுவா"
+
+msgid "dahlia"
+msgstr "சீமையல்லி"
+
+msgid "hub-and-spoke"
+msgstr "குவிபிரி முறை"
+
+msgid "guest house"
+msgstr "விருந்தகம்"
+
+msgid "guides"
+msgstr "சாரணியர்"
+
+msgid "hangar"
+msgstr "கூடாரம்"
+
+msgid "hanger"
+msgstr "தொங்கி"
+
+msgid "hatchback car"
+msgstr "பொதுவறை மகிழுந்தி"
+
+msgid "hawk"
+msgstr "இராசாளி"
+
+msgid "helicopter"
+msgstr "உலங்கூர்தி"
+
+msgid "helium"
+msgstr "பரிதியம்"
+
+msgid "hernia"
+msgstr "குடலிறக்கம்"
+
+msgid "hinge"
+msgstr "பிணைச்சல்"
+
+msgid "hollow of the neck"
+msgstr "தொண்டைக்குழி"
+
+msgid "hollow"
+msgstr "குடைவு"
+
+msgid "hovercraft"
+msgstr "மெத்தூர்தி"
+
+msgid "daily allowance"
+msgstr "அகவிலைப்படி"
+
+msgid "dairy"
+msgstr "பால் பண்ணை"
+
+msgid "darmstadtium"
+msgstr "நொடியன்"
+
+msgid "dashcam"
+msgstr "முகப்புப்படக்கருவி"
+
+msgid "datua"
+msgstr "ஊமத்தை"
+
+msgid "date"
+msgstr "திகதி"
+
+msgid "deadline"
+msgstr "கெடு"
+
+msgid "debit card"
+msgstr "பற்றட்டை"
+
+msgid "decade"
+msgstr "பத்தாண்டு"
+
+msgid "decoction"
+msgstr "வடிசாறு"
+
+msgid "decree"
+msgstr "தீர்ப்பாணை"
+
+msgid "debenture"
+msgstr "கடனியம்"
+
+msgid "debt collector"
+msgstr "கடன்மீட்பர்"
+
+msgid "debt instrument"
+msgstr "கடன் பத்திரம்"
+
+msgid "decency"
+msgstr "தகைமை"
+
+msgid "decentralization"
+msgstr "பரவலாக்கம்"
+
+msgid "defendant"
+msgstr "எதிராளி"
+
+msgid "defibrillation"
+msgstr "குறுநடுக்கநீக்கம்"
+
+msgid "delivery"
+msgstr "கொண்டளிப்பு"
+
+msgid "demand notice"
+msgstr "கோரிக்கை அறிவிப்பு"
+
+msgid "dementia"
+msgstr "மூளைத்தேய்வு"
+
+msgid "democracy"
+msgstr "மக்களாட்சி"
+
+msgid "demurrage"
+msgstr "சுணக்கக் கட்டணம்"
+
+msgid "dengue fever"
+msgstr "எலும்பு முறிக் காய்ச்சல்"
+
+msgid "denim"
+msgstr "உரப்புப்பருத்தி"
+
+msgid "denture"
+msgstr "பற்தொகுதி"
+
+msgid "deodourant"
+msgstr "நாற்றநீக்கி"
+
+msgid "deodourizer"
+msgstr "நாற்றகற்றி"
+
+msgid "departmental store"
+msgstr "பலசரக்கு அங்காடி"
+
+msgid "deport"
+msgstr "நாடுகடத்து"
+
+msgid "derivative"
+msgstr "சார்பியம்"
+
+msgid "deserve"
+msgstr "அருகதைப்படு"
+
+msgid "determine"
+msgstr "உறுதிபடுத்து"
+
+msgid "detonator"
+msgstr "வெடிதூண்டி"
+
+msgid "devil fig"
+msgstr "பேயத்தி"
+
+msgid "dial tone"
+msgstr "இயங்கொலி"
+
+msgid "dialect"
+msgstr "கிளைமொழி"
+
+msgid "diaphragm"
+msgstr "உதரவிதானம்"
+
+msgid "dictation"
+msgstr "சொல்வதெழுதுதல்"
+
+msgid "dictator"
+msgstr "சர்வாதிகாரி"
+
+msgid "digit"
+msgstr "இலக்கம்"
+
+msgid "digital watch"
+msgstr "எண்கடிகை"
+
+msgid "dignified"
+msgstr "கண்ணியமான"
+
+msgid "dignity"
+msgstr "கண்ணியம்"
+
+msgid "dinosaur"
+msgstr "தொன்மா"
+
+msgid "diphtheria"
+msgstr "தொண்டை அடைப்பான் நோய்"
+
+msgid "diplomat"
+msgstr "விரகர்"
+
+msgid "director"
+msgstr "இயக்குநர்"
+
+msgid "dipstick"
+msgstr "எண்ணைக்குச்சி"
+
+msgid "discomfort"
+msgstr "கோளாறு"
+
+msgid "discussion"
+msgstr "கலந்தாய்வு"
+
+msgid "disorder"
+msgstr "சீர்குலைவு"
+
+msgid "dividend"
+msgstr "ஈவுத்தொகை"
+
+msgid "disc"
+msgstr "வட்டு"
+
+msgid "dish antenna"
+msgstr "அலைக்கும்பா"
+
+msgid "distillation"
+msgstr "துளித்தெடுப்பு"
+
+msgid "distilled water"
+msgstr "ஆவிநீர்"
+
+msgid "distraction"
+msgstr "கவனச்சிதைவு"
+
+msgid "doctor"
+msgstr "மருத்துவர்"
+
+msgid "dog"
+msgstr "நாய்"
+
+msgid "dolphin"
+msgstr "ஓங்கில்"
+
+msgid "domain"
+msgstr "எல்லையம்"
+
+msgid "door-lens"
+msgstr "புறநோக்கி"
+
+msgid "door-mat"
+msgstr "சவுட்டி"
+
+msgid "dot matrix printer"
+msgstr "புள்ளியணி அச்சுப்பொறி"
+
+msgid "dough"
+msgstr "மேல்தயிர்"
+
+msgid "dove"
+msgstr "புறா"
+
+msgid "drain"
+msgstr "வடிகால்"
+
+msgid "drain pipe"
+msgstr "தூம்பு"
+
+msgid "draw bridge"
+msgstr "தூக்குப்பாலம்"
+
+msgid "drawee"
+msgstr "பெயரவர்"
+
+msgid "drill-bit"
+msgstr "துரவாணி"
+
+msgid "driilling machine"
+msgstr "துரப்பணம்"
+
+msgid "drinking water"
+msgstr "குடிநீர்"
+
+msgid "drinking water pond"
+msgstr "ஊருணி"
+
+msgid "drive-through"
+msgstr "வழியோட்டகம்"
+
+msgid "drive-through pharmacy"
+msgstr "வழியோட்டு மருந்தகம்"
+
+msgid "drive-through restaurant"
+msgstr "வழியோட்டுணவகம்"
+
+msgid "dry land"
+msgstr "புஞ்செய்"
+
+msgid "drumset"
+msgstr "தொகுமுரசு"
+
+msgid "dubnium"
+msgstr "துப்பினியம்"
+
+msgid "dugong"
+msgstr "அவில்லியா"
+
+msgid "dumb bell"
+msgstr "கர்லாக்கட்டை"
+
+msgid "durian"
+msgstr "முள்நாரிப்பழம்"
+
+msgid "duty-free"
+msgstr "தீர்வையற்ற"
+
+msgid "dynamo"
+msgstr "மின்னாக்கி"
+
+msgid "dysentary"
+msgstr "சீதபேதி"
+
+msgid "ear"
+msgstr "செவி"
+
+msgid "ear-drum"
+msgstr "செவிப்பறை"
+
+msgid "ear wax"
+msgstr "குறும்பி"
+
+msgid "earth mover"
+msgstr "மண்வாரி"
+
+msgid "earthquake"
+msgstr "நிலஅதிர்ச்சி"
+
+msgid "ebony"
+msgstr "கருங்காலி"
+
+msgid "echo"
+msgstr "எதிரொலி"
+
+msgid "economy class"
+msgstr "சிக்கன வகுப்பு"
+
+msgid "eczema"
+msgstr "மேகப்பட்டை"
+
+msgid "eel"
+msgstr "விலாங்கு"
+
+msgid "egg"
+msgstr "முட்டை"
+
+msgid "ego"
+msgstr "தன்முனைப்பு"
+
+msgid "einsteinium"
+msgstr "ஈந்தியம்"
+
+msgid "emulsion"
+msgstr "பால்மம்"
+
+msgid "electrical cut-out"
+msgstr "எரியிழை எடுப்பான்"
+
+msgid "electronic"
+msgstr "மின்னணு"
+
+msgid "electronics"
+msgstr "மின்னணுவியல்"
+
+msgid "electrostatic sensitive"
+msgstr "நிலைமின்பாதிப்புத்தகு"
+
+msgid "elegy"
+msgstr "இறங்கற்பா"
+
+msgid "elk deer"
+msgstr "கடம்பைமான்"
+
+msgid "emerald"
+msgstr "மரகதம்"
+
+msgid "emergency"
+msgstr "உற்றுழி"
+
+msgid "emergency assistance"
+msgstr "உற்றுழியுதவி"
+
+msgid "emollient"
+msgstr "வறட்சியகற்றி"
+
+msgid "emoluments"
+msgstr "பணியூதியம்"
+
+msgid "encumbrence"
+msgstr "வில்லங்கம்"
+
+msgid "encyclopaedia"
+msgstr "கலைக்களஞ்சியம்"
+
+msgid "endowment"
+msgstr "அறக்கட்டளை"
+
+msgid "engine"
+msgstr "விசைப்பொறி"
+
+msgid "engineer"
+msgstr "பொறியாளர்"
+
+msgid "enigma"
+msgstr "பூடகம்"
+
+msgid "enquiry"
+msgstr "விசாரிப்பு"
+
+msgid "enthusiasm"
+msgstr "ஆர்வம்"
+
+msgid "entrepreneur"
+msgstr "தொழில்முனைவர்"
+
+msgid "entrepreneurship"
+msgstr "தொழில்முனைவு"
+
+msgid "entry visa"
+msgstr "நுழை இசைவு"
+
+msgid "enzyme"
+msgstr "நொதியம்"
+
+msgid "erasor"
+msgstr "அழிப்பான்"
+
+msgid "erbium"
+msgstr "எல்லிரும்பு"
+
+msgid "ergonomics"
+msgstr "பணிச்சூழலியல்"
+
+msgid "ergot"
+msgstr "சோளக்காளான்"
+
+msgid "escalator"
+msgstr "நகரும் படிகள்"
+
+msgid "estampage"
+msgstr "மசிப்படி"
+
+msgid "estate"
+msgstr "பேட்டை"
+
+msgid "etherium"
+msgstr "தூயங்காசு"
+
+msgid "ethernet"
+msgstr "தூயவெளி"
+
+msgid "exhaust fan"
+msgstr "புகைவிசிறி"
+
+msgid "exhaustion"
+msgstr "ஆயாசம்"
+
+msgid "experience"
+msgstr "பட்டறிவு"
+
+msgid "expert"
+msgstr "வல்லுநர்"
+
+msgid "expertise"
+msgstr "வல்லமை"
+
+msgid "export"
+msgstr "ஏற்றுமதி"
+
+msgid "equality"
+msgstr "ஒரு நிகர்"
+
+msgid "equator"
+msgstr "நிலநடுக்கோடு"
+
+msgid "equinox"
+msgstr "விடுவம்"
+
+msgid "estuary"
+msgstr "கழிமுகம்"
+
+msgid "experiment"
+msgstr "பரிட்சார்த்தம்"
+
+msgid "expressway"
+msgstr "விரைவுச்சாலை"
+
+msgid "extorsion"
+msgstr "கப்பம்"
+
+msgid "extravagance"
+msgstr "உதாரித்தனம்"
+
+msgid "eye"
+msgstr "கண்"
+
+msgid "eye lash"
+msgstr "புருவம்"
+
+msgid "eye lid"
+msgstr "இமை"
+
+msgid "eye-wash"
+msgstr "கண்துடைப்பு"
+
+msgid "facial bleach"
+msgstr "முகப் பூச்சு"
+
+msgid "fake"
+msgstr "போலி"
+
+msgid "falcon"
+msgstr "வல்லூறு"
+
+msgid "fan"
+msgstr "விசிறி"
+
+msgid "farewell"
+msgstr "பிரியாவிடை"
+
+msgid "farming"
+msgstr "உழவு"
+
+msgid "fast food"
+msgstr "துரித உணவகம்"
+
+msgid "fastener"
+msgstr "கொண்டி"
+
+msgid "feather"
+msgstr "இறகு"
+
+msgid "fennel"
+msgstr "பெருஞ்சீரகம்"
+
+msgid "fermium"
+msgstr "வெளுகன்"
+
+msgid "fern"
+msgstr "பன்னம்"
+
+msgid "ferrule"
+msgstr "பூண்"
+
+msgid "ferry"
+msgstr "ஓடம்"
+
+msgid "feudalism"
+msgstr "நிலப்பிரபுத்துவம்"
+
+msgid "fibre"
+msgstr "இழை"
+
+msgid "fibreglass"
+msgstr "கண்ணாடியிழை"
+
+msgid "fibre-optic cable"
+msgstr "ஒளியிழைவடம்"
+
+msgid "fickleness"
+msgstr "சபலம்"
+
+msgid "fiction"
+msgstr "புனைக்கதை"
+
+msgid "figure of speech"
+msgstr "வழிமொழி"
+
+msgid "filament"
+msgstr "கம்பியிழை"
+
+msgid "file"
+msgstr "அரம்"
+
+msgid "filter coffee"
+msgstr "வடிக்குளம்பி"
+
+msgid "fin"
+msgstr "இறகு"
+
+msgid "financial asset"
+msgstr "நிதிச் சொத்து"
+
+msgid "fir tree"
+msgstr "பாய்மரவிருட்சம்"
+
+msgid "firewalking"
+msgstr "தீ மிதி"
+
+msgid "first class"
+msgstr "முதல் வகுப்பு"
+
+msgid "fitting"
+msgstr "பொருத்துக்கருவி"
+
+msgid "fixed deposit"
+msgstr "நிரந்தர வைப்பு"
+
+msgid "flamingo"
+msgstr "செந்நாரை"
+
+msgid "flannel"
+msgstr "மென்தாவளி"
+
+msgid "flask"
+msgstr "குடுவை"
+
+msgid "flax seed oil"
+msgstr "சணலெண்ணை"
+
+msgid "flerovium"
+msgstr "விழுவெள்ளி"
+
+msgid "flintstone"
+msgstr "சிக்கிமுக்கிக்கல்"
+
+msgid "fluid"
+msgstr "பாய்மம்"
+
+msgid "fog"
+msgstr "மூடுபனி"
+
+msgid "foliage"
+msgstr "தழை"
+
+msgid "folkways"
+msgstr "குடிவழக்கு"
+
+msgid "follow through"
+msgstr "பின்தொட‌ர்ச்சி"
+
+msgid "font"
+msgstr "எழுத்துரு"
+
+msgid "food processing"
+msgstr "உணவு பரிகரிப்பு"
+
+msgid "footfall"
+msgstr "அடியெடுப்பு"
+
+msgid "foreign affairs"
+msgstr "அயலுறவு"
+
+msgid "fork"
+msgstr "முள்கரண்டி"
+
+msgid "frequency modulation"
+msgstr "பண்பலை"
+
+msgid "formula"
+msgstr "வரைவிதி"
+
+msgid "fossil"
+msgstr "தொல் எச்சம்"
+
+msgid "foundary"
+msgstr "வார்ப்பகம்"
+
+msgid "fountain"
+msgstr "நீரூற்று"
+
+msgid "fountain pen"
+msgstr "ஊற்று எழுதுகோல்"
+
+msgid "foxtail millet"
+msgstr "திணை"
+
+msgid "francium"
+msgstr "வெடியிதள்"
+
+msgid "french beans"
+msgstr "நாரில்லா விதையவரை"
+
+msgid "frequent"
+msgstr "அடிக்கடி"
+
+msgid "frequent flyer program"
+msgstr "தொடர் பயணியர் திட்டம்"
+
+msgid "friday"
+msgstr "வேள்ளிக்கிழமை"
+
+msgid "friend"
+msgstr "நண்பர்"
+
+msgid "frieze moulding"
+msgstr "எழுதகம்"
+
+msgid "frigate"
+msgstr "போர்க்கப்பல்"
+
+msgid "frog"
+msgstr "தவளை"
+
+msgid "frogfish"
+msgstr "நுணல்"
+
+msgid "frost"
+msgstr "உறைபனி"
+
+msgid "fruit salad"
+msgstr "பழக்கூட்டு"
+
+msgid "fuller's earth"
+msgstr "உவர்மண்"
+
+msgid "fundamentalist"
+msgstr "அடிப்படைவாதி"
+
+msgid "fungus"
+msgstr "பூஞ்சனம்"
+
+msgid "funnel"
+msgstr "புனல்"
+
+msgid "fur"
+msgstr "மென்மயிர்"
+
+msgid "furrow"
+msgstr "சால்"
+
+msgid "fuselage"
+msgstr "வானுடல்"
+
+msgid "fustian"
+msgstr "பிலுக்கிழை"
+
+msgid "gain"
+msgstr "லாபம்"
+
+msgid "gall bladder"
+msgstr "பித்தப்பை"
+
+msgid "gall-nut"
+msgstr "கடுக்காய்"
+
+msgid "gallows"
+msgstr "தூக்குமரம்"
+
+msgid "garbanzo beans"
+msgstr "கொண்டைக் கடலை"
+
+msgid "garden"
+msgstr "தோட்டம்"
+
+msgid "garden plot"
+msgstr "பாத்தி"
+
+msgid "garnet"
+msgstr "கருமணிக்கல்"
+
+msgid "gate"
+msgstr "வாயில்"
+
+msgid "gauze"
+msgstr "நொய்யிழை"
+
+msgid "gear"
+msgstr "பற்சக்கரம்"
+
+msgid "gel"
+msgstr "களிமம்"
+
+msgid "gelatin"
+msgstr "ஊண்பசை"
+
+msgid "gemstone"
+msgstr "நவரத்தினக் கல்"
+
+msgid "genetically modified"
+msgstr "மரபணு மாற்றப்பட்ட"
+
+msgid "genome"
+msgstr "மரபு கோடு"
+
+msgid "georgette"
+msgstr "மெல்லொள்ளி"
+
+msgid "germ"
+msgstr "கிருமி"
+
+msgid "germanium"
+msgstr "சாம்பலியம்"
+
+msgid "germicide"
+msgstr "கிருமிக்கொல்லி"
+
+msgid "giant wheel"
+msgstr "ராட்சத ராட்டிணம்"
+
+msgid "giloy"
+msgstr "அமிழ்தவள்ளி"
+
+msgid "ginkgo biloba"
+msgstr "வெள்ளி பாதாமி"
+
+msgid "ginger"
+msgstr "இஞ்சி"
+
+msgid "gingham"
+msgstr "கிண்டன்"
+
+msgid "ginseng"
+msgstr "குணசிங்கி"
+
+msgid "giraffe"
+msgstr "ஒட்டகச் சிவங்கி"
+
+msgid "gladiator"
+msgstr "கொடுஞ்சண்டை வீரர்"
+
+msgid "glass fibre"
+msgstr "கிளர்நார்"
+
+msgid "glaze"
+msgstr "துலக்கப்பூச்சு"
+
+msgid "gliricidia"
+msgstr "சீமை அகத்தி"
+
+msgid "glider"
+msgstr "சறுக்கு வானூர்தி"
+
+msgid "glitch"
+msgstr "தடுமாற்றம்"
+
+msgid "gluten"
+msgstr "மதச்சத்து"
+
+msgid "global warming"
+msgstr "உலக வெம்மை"
+
+msgid "gloss"
+msgstr "துலக்கம்"
+
+msgid "glycerine"
+msgstr "களிக்கரை"
+
+msgid "glycerol"
+msgstr "களிக்கரை"
+
+msgid "goat"
+msgstr "ஆடு"
+
+msgid "goatee"
+msgstr "ஆட்டுத் தாடி"
+
+msgid "godown"
+msgstr "கிடங்கு"
+
+msgid "goldsmith"
+msgstr "பொற்கொல்லர்"
+
+msgid "golf"
+msgstr "குழிப்பந்தாட்டம்"
+
+msgid "gong"
+msgstr "சேகண்டி"
+
+msgid "gooseberry"
+msgstr "நெல்லிக்காய்"
+
+msgid "gorilla"
+msgstr "மனிதக்குரங்கு"
+
+msgid "gorge"
+msgstr "மலையிடுக்கு"
+
+msgid "gossamer"
+msgstr "படல இழை"
+
+msgid "gossip"
+msgstr "ஊர்க்கதை"
+
+msgid "gown"
+msgstr "மெய்ப்பை"
+
+msgid "granite"
+msgstr "கருங்கல்"
+
+msgid "grapefruit"
+msgstr "பப்ளிமாச்"
+
+msgid "grapes"
+msgstr "கொடிமுந்திரிகள்"
+
+msgid "grassland"
+msgstr "புன்னிலம்"
+
+msgid "gratitude"
+msgstr "செய்நன்றி"
+
+msgid "gratuity"
+msgstr "பணிக்கொடை"
+
+msgid "gravel"
+msgstr "குறுமண்"
+
+msgid "green"
+msgstr "பச்சை"
+
+msgid "green vitriol"
+msgstr "அன்னபேதி"
+
+msgid "greenhouse"
+msgstr "பசுமைக் குடில்"
+
+msgid "grinder"
+msgstr "மின்னறவை"
+
+msgid "grizzly bear"
+msgstr "கொடுங்கரடி"
+
+msgid "grogram"
+msgstr "படல இழை"
+
+msgid "ground floor"
+msgstr "தரைத் தளம்"
+
+msgid "guarantor"
+msgstr "பிணையாளி"
+
+msgid "guard"
+msgstr "மெய்க்காப்பாளர்"
+
+msgid "guest"
+msgstr "விருந்தாளி"
+
+msgid "guest-book"
+msgstr "வாசகர் ஏடு"
+
+msgid "guild"
+msgstr "குழாம்"
+
+msgid "guitar"
+msgstr "நரம்புகலம்"
+
+msgid "guitarist"
+msgstr "நரம்புகலமர்"
+
+msgid "gul mohar"
+msgstr "மயில் கொன்றை"
+
+msgid "gulf"
+msgstr "வளைகுடா"
+
+msgid "gum"
+msgstr "கோந்து"
+
+msgid "gum arabic"
+msgstr "கருவேலம் பிசின்"
+
+msgid "gun"
+msgstr "துப்பாக்கி"
+
+msgid "gun metal"
+msgstr "பீரங்கி வெண்கலம்"
+
+msgid "gun-powder"
+msgstr "கருமருந்து"
+
+msgid "guttural"
+msgstr "மிடற்றொலி எழுத்து"
+
+msgid "gym"
+msgstr "உடற்பயிற்சியகம்"
+
+msgid "gyn"
+msgstr "பழஊறல்"
+
+msgid "gymnastics"
+msgstr "சீருடற்பயிற்சி"
+
+msgid "gypsum"
+msgstr "உறைகளிக்கல்"
+
+msgid "hacksaw"
+msgstr "நைவாள்"
+
+msgid "hafnium"
+msgstr "அவிரியம்"
+
+msgid "hail"
+msgstr "ஆலங்கட்டி மழை"
+
+msgid "hailstorm"
+msgstr "கல்மாரி"
+
+msgid "hair follicle"
+msgstr "முடி மூட்டுப்பை"
+
+msgid "hall"
+msgstr "கூடம்"
+
+msgid "halibut"
+msgstr "பொத்தல்"
+
+msgid "hallucination"
+msgstr "பிரமை"
+
+msgid "halogen lamp"
+msgstr "உப்பீனி விளக்கு"
+
+msgid "hamster"
+msgstr "வெள்ளெலி"
+
+msgid "hamstring"
+msgstr "பின்தொடைத் தசைநார்"
+
+msgid "handbook"
+msgstr "கையேடு"
+
+msgid "handkerchief"
+msgstr "கைக்குட்டை"
+
+msgid "handloom"
+msgstr "கைத்தறி"
+
+msgid "hangman"
+msgstr "அலுகோசு"
+
+msgid "hard disk"
+msgstr "நிலைவட்டு"
+
+msgid "hardware"
+msgstr "வன்பொருள்"
+
+msgid "harmone"
+msgstr "சுரப்புநீர்"
+
+msgid "harmonica"
+msgstr "ஊதுக்கின்னரம்"
+
+msgid "harmonium"
+msgstr "கிண்ணாரம்"
+
+msgid "harp"
+msgstr "யாழ்"
+
+msgid "harvest"
+msgstr "அறுவடை"
+
+msgid "hatred"
+msgstr "துவேசம்"
+
+msgid "headlight"
+msgstr "முகப்புவிளக்கு"
+
+msgid "hearing aid"
+msgstr "காதுக்கருவி"
+
+msgid "heat exchanger"
+msgstr "வெப்பமாற்றி"
+
+msgid "hell"
+msgstr "அளறு"
+
+msgid "helmet"
+msgstr "தலையந்தளகம்"
+
+msgid "helper"
+msgstr "கையாள்"
+
+msgid "helplessness"
+msgstr "நிராதரவு"
+
+msgid "hemisphere"
+msgstr "அரைக்கோளம்"
+
+msgid "hemp"
+msgstr "சீமைச்சணல்"
+
+msgid "herpes"
+msgstr "அக்கி"
+
+msgid "high tide"
+msgstr "கடலேற்றம்"
+
+msgid "hinterland"
+msgstr "பின்னிலம்"
+
+msgid "hippopotomous"
+msgstr "நீர்யானை"
+
+msgid "hitch-hike"
+msgstr "கெஞ்சுப்பயணம்"
+
+msgid "hitch-hiker"
+msgstr "கெஞ்சுப்பயணி"
+
+msgid "hobby"
+msgstr "ஓய்வுழை"
+
+msgid "hockey"
+msgstr "கோல்பந்து"
+
+msgid "holmium"
+msgstr "ஒளிமியம்"
+
+msgid "homeopathy"
+msgstr "இனமுறை மருத்துவம்"
+
+msgid "honey-comb"
+msgstr "தேன்கூடு"
+
+msgid "hoopoe"
+msgstr "கொண்டலாத்தி"
+
+msgid "horoscope"
+msgstr "பிறப்பியம்"
+
+msgid "horse"
+msgstr "குதிரை"
+
+msgid "hors d'ouevre"
+msgstr "பசியூட்டி"
+
+msgid "hose"
+msgstr "நெளிவுக்குழாய்"
+
+msgid "hosiery"
+msgstr "உள்ளாடை"
+
+msgid "hospitality industry"
+msgstr "விருந்தோம்பல் துறை"
+
+msgid "hospitalization"
+msgstr "மருத்துவமனைச் சேர்க்கை"
+
+msgid "hostage"
+msgstr "பிணையாளி"
+
+msgid "hotspot"
+msgstr "பகிரலை"
+
+msgid "hour-glass"
+msgstr "மணிக்கலம்"
+
+msgid "howitzer"
+msgstr "தெறோச்சி"
+
+msgid "hue"
+msgstr "வண்ணச்சாயல்"
+
+msgid "hum"
+msgstr "இமிர்"
+
+msgid "humar resources"
+msgstr "மனிதவளம்"
+
+msgid "hummingbird"
+msgstr "ரீங்காரப் பறவை"
+
+msgid "hurdles"
+msgstr "தடையோட்டம்"
+
+msgid "hurricane"
+msgstr "அசுரப்புயல்"
+
+msgid "husk"
+msgstr "உமி"
+
+msgid "hybrid engine"
+msgstr "கலப்பின விசைபொறி"
+
+msgid "hydel power"
+msgstr "புனல் மின்சாரம்"
+
+msgid "hydrofoil"
+msgstr "விரைப்படகு"
+
+msgid "hyperactivity"
+msgstr "மிகைச்சுறுதி"
+
+msgid "hyprocracy"
+msgstr "இருதரம்"
+
+msgid "hyprocrat"
+msgstr "இருதரமானவர்"
+
+msgid "ice"
+msgstr "பனிக்கட்டி"
+
+msgid "ice cream"
+msgstr "பனிக்கூழ்"
+
+msgid "ice hockey"
+msgstr "பனிக்கோல்பந்து"
+
+msgid "ideology"
+msgstr "கொள்கை"
+
+msgid "idol"
+msgstr "வழிபாட்டுருவம்"
+
+msgid "ignorance"
+msgstr "பேதமை"
+
+msgid "immigration"
+msgstr "குடிநுழைவு"
+
+msgid "implementation"
+msgstr "செயல்முறைப்படுத்தல்"
+
+msgid "import"
+msgstr "இறக்குமதி"
+
+msgid "inch"
+msgstr "அங்குலம்"
+
+msgid "inch tape"
+msgstr "அளவுநாடா"
+
+msgid "incisor"
+msgstr "வெட்டுப்பல்"
+
+msgid "indigo"
+msgstr "கருநீலம்"
+
+msgid "induction stove"
+msgstr "மின்தூண்டல் அடுப்பு"
+
+msgid "inferior venecava"
+msgstr "கீழ்ப்பெருஞ்சிரை"
+
+msgid "influenza"
+msgstr "சளிக்காய்ச்சல்"
+
+msgid "informant"
+msgstr "தகவலர்"
+
+msgid "inflation"
+msgstr "பணவீக்கம்"
+
+msgid "injunction"
+msgstr "உறுத்துக்கட்டளை"
+
+msgid "inn"
+msgstr "அறையகம்"
+
+msgid "innovation"
+msgstr "புதுமை"
+
+msgid "insignia"
+msgstr "அடையாள முத்திரை"
+
+msgid "inspiration"
+msgstr "ஊக்கம்"
+
+msgid "instagram"
+msgstr "படவரி"
+
+msgid "installment"
+msgstr "தவணை"
+
+msgid "insulation"
+msgstr "மின்காப்பு"
+
+msgid "insulation tape"
+msgstr "மின்காப்பு நாடா"
+
+msgid "instruction booklet"
+msgstr "அறிவுறுத்தல் குறுநூல்"
+
+msgid "interaction"
+msgstr "இடைவினை"
+
+msgid "internet"
+msgstr "இணையம்"
+
+msgid "internet browsing center"
+msgstr "இணைய உலாவகம்"
+
+msgid "intuition"
+msgstr "உள்ளுணர்வு"
+
+msgid "inventory"
+msgstr "பொருள் கணக்கு"
+
+msgid "investigation"
+msgstr "புலனாய்வு"
+
+msgid "iris"
+msgstr "கருவிழி"
+
+msgid "irrigation"
+msgstr "பாசனம்"
+
+msgid "irrigation tank"
+msgstr "கண்மாய்"
+
+msgid "irony"
+msgstr "வஞ்சப் புகழ்ச்சி"
+
+msgid "island"
+msgstr "தீவு"
+
+msgid "italics"
+msgstr "சரிவெழுத்து"
+
+msgid "itinerary"
+msgstr "பயணநிரல்"
+
+msgid "ivory"
+msgstr "தந்தம்"
+
+msgid "jacinth"
+msgstr "சுநீரம்"
+
+msgid "jack"
+msgstr "பளுவுயர்த்தி"
+
+msgid "jade"
+msgstr "சீனப் பச்சைக்கல்"
+
+msgid "jamaica cherry"
+msgstr "தேன்பழம்"
+
+msgid "jamdani"
+msgstr "வங்கத்துகில்"
+
+msgid "jaw"
+msgstr "தாடை"
+
+msgid "jamun fruit"
+msgstr "நாகப்பழம்"
+
+msgid "janitor"
+msgstr "தூய்மையர்"
+
+msgid "jargon"
+msgstr "குழுமொழி"
+
+msgid "javelin"
+msgstr "ஈட்டி"
+
+msgid "javelin throw"
+msgstr "ஈட்டியெறிதல்"
+
+msgid "jealousy"
+msgstr "பொறாமை"
+
+msgid "jeans pant"
+msgstr "உரப்புக் காற்சட்டை"
+
+msgid "jelly"
+msgstr "திடக்கூழ்"
+
+msgid "jet loom"
+msgstr "தாரைத் தறி"
+
+msgid "jet plane"
+msgstr "தாரை வானூர்தி"
+
+msgid "jerrycan"
+msgstr "தூக்குக்கலன்"
+
+msgid "job"
+msgstr "பணி"
+
+msgid "joke"
+msgstr "நையாண்டி"
+
+msgid "journalism"
+msgstr "பத்திரிகையியல்"
+
+msgid "journey"
+msgstr "வழிப்பயணம்"
+
+msgid "jump"
+msgstr "தாவு"
+
+msgid "jupiter"
+msgstr "வியாழன்"
+
+msgid "justice"
+msgstr "அறம்"
+
+msgid "justness"
+msgstr "தார்மீகம்"
+
+msgid "jute"
+msgstr "சணல்"
+
+msgid "joystick"
+msgstr "இயக்குப்பிடி"
+
+msgid "kala-azar"
+msgstr "கருங்காச்சல்"
+
+msgid "kale"
+msgstr "பரட்டைக்கீரை"
+
+msgid "kangaroo"
+msgstr "பைமான்"
+
+msgid "ketchup"
+msgstr "தக்காளிச் சுவைச்சாறு"
+
+msgid "kettle"
+msgstr "கெண்டி"
+
+msgid "key"
+msgstr "திறவுகோல்"
+
+msgid "key chain"
+msgstr "சாவிக்கொத்து"
+
+msgid "knol rabi"
+msgstr "நூல்கோல்"
+
+msgid "kilometer"
+msgstr "கிழமீட்டம்"
+
+msgid "kindergarten"
+msgstr "அரிவரி"
+
+msgid "kiwi fruit"
+msgstr "பசலிப்பழம்"
+
+msgid "hundred billion"
+msgstr "இருநுல்லியம்"
+
+msgid "hundred million"
+msgstr "புதுமை"
+
+msgid "hundred thousand"
+msgstr "நியுதம்"
+
+msgid "hundred quadrillion"
+msgstr "அயல்"
+
+msgid "hundred trillion"
+msgstr "நூறு மும்மநுல்லியம்"
+
+msgid "hurdle"
+msgstr "இடையூறு"
+
+msgid "hydrogen"
+msgstr "நீரசம்"
+
+msgid "hydrogen peroxide"
+msgstr "நீரகம் ஈருயிரகம்"
+
+msgid "hyena"
+msgstr "கழுதைப்புலி"
+
+msgid "hypnotism"
+msgstr "அறிதுயில்"
+
+msgid "illustrate"
+msgstr "எடுத்துரை"
+
+msgid "illustration"
+msgstr "எடுத்துரைப்பு"
+
+msgid "immitate"
+msgstr "பின்பற்று"
+
+msgid "immitation"
+msgstr "பின்பற்றல்"
+
+msgid "immitation"
+msgstr "போலி"
+
+msgid "impromptu"
+msgstr "ஆசான"
+
+msgid "impromptu music"
+msgstr "ஆசாற்றுகை"
+
+msgid "impromptu speech"
+msgstr "ஆசுப்பேச்சு"
+
+msgid "impunity"
+msgstr "விலக்குரிமை"
+
+msgid "independant"
+msgstr "தானாக"
+
+msgid "indium"
+msgstr "நீலவரிமம்"
+
+msgid "inference"
+msgstr "உய்ப்பு"
+
+msgid "initiate"
+msgstr "தூண்டிவிடு"
+
+msgid "initiative"
+msgstr "தூண்டுதல்"
+
+msgid "ink"
+msgstr "மை"
+
+msgid "ink-jet printer"
+msgstr "மைப்பீச்சு அச்சுப்பொறி"
+
+msgid "inning"
+msgstr "நுழைவு"
+
+msgid "inquisitive"
+msgstr "விடுப்பான"
+
+msgid "knight"
+msgstr "திருத்தகை"
+
+msgid "knob"
+msgstr "குமிழ்"
+
+msgid "kodo millet"
+msgstr "வரகு"
+
+msgid "krait"
+msgstr "கட்டு விரியன்"
+
+msgid "krypton"
+msgstr "மறைவியம்"
+
+msgid "lab"
+msgstr "ஆய்வகம்"
+
+msgid "lace"
+msgstr "இறேந்தை"
+
+msgid "ladder"
+msgstr "ஏணி"
+
+msgid "land owner"
+msgstr "நிலக்கிழார்"
+
+msgid "landmine"
+msgstr "கண்ணிவெடி"
+
+msgid "landscape"
+msgstr "நிலத்தோற்றம்"
+
+msgid "langur"
+msgstr "கரடிக் குரங்கு"
+
+msgid "lard"
+msgstr "பன்றிக்கொழுப்பு"
+
+msgid "insult"
+msgstr "அவமதி"
+
+msgid "insurance"
+msgstr "காப்பீடு"
+
+msgid "insurance coverage"
+msgstr "காப்புறுதித் துழாவுகை"
+
+msgid "intercept"
+msgstr "இடைமறி"
+
+msgid "interception"
+msgstr "இடைமறிப்பு"
+
+msgid "intelligence"
+msgstr "நுண்ணறிவு"
+
+msgid "intensive care unit"
+msgstr "தீவிர சிகிச்சைப் பிரிவு"
+
+msgid "interpreter"
+msgstr "பொருள்விளக்குநர்"
+
+msgid "media interview"
+msgstr "நேர் காணல்"
+
+msgid "staffing interview"
+msgstr "நேர்க்காணல்"
+
+msgid "introspect"
+msgstr "உள்முகத்தேடடு"
+
+msgid "introspection"
+msgstr "உள்முகத்தேடல்"
+
+msgid "investigator"
+msgstr "புலனாய்வாளர்"
+
+msgid "invoice list"
+msgstr "விவரப்பட்டியல்"
+
+msgid "price invoice"
+msgstr "விலைப்பட்டியல்"
+
+msgid "internet protocol tv"
+msgstr "இணையவழி தொலைக்காட்சி"
+
+msgid "iodine"
+msgstr "கருமயிலம்"
+
+msgid "ionosphere"
+msgstr "மின்னூட்டணுவெளி"
+
+msgid "larva"
+msgstr "வளர்புழு"
+
+msgid "larynx"
+msgstr "மிடறு"
+
+msgid "iridium"
+msgstr "உறுதியம்"
+
+msgid "ironbox"
+msgstr "மின்தேய்ப்பு பெட்டி"
+
+msgid "jacket"
+msgstr "மேலிகை"
+
+msgid "jam food"
+msgstr "பழப்பாகு"
+
+msgid "january"
+msgstr "மார்கழித்தை"
+
+msgid "jean"
+msgstr "உரப்பு"
+
+msgid "lasagna"
+msgstr "மாவடை"
+
+msgid "latex"
+msgstr "மரப்பால்"
+
+msgid "lathe"
+msgstr "கடைப்பொறி"
+
+msgid "jeep"
+msgstr "வல்லுந்து"
+
+msgid "jetty"
+msgstr "வாய்க்கரை"
+
+msgid "joist"
+msgstr "தராய்"
+
+msgid "juggler"
+msgstr "காரடன்"
+
+msgid "jugglery"
+msgstr "காரடவித்தை"
+
+msgid "july"
+msgstr "ஆனியாடி"
+
+msgid "june"
+msgstr "வைகாசியானி"
+
+msgid "junk mail"
+msgstr "கூளஞ்சல்"
+
+msgid "kaptan"
+msgstr "காப்பதம்"
+
+msgid "kaptan tape"
+msgstr "காப்பத நாடா"
+
+msgid "latitude"
+msgstr "அகலாங்கு"
+
+msgid "lava"
+msgstr "எரிமலைக்குழம்பு"
+
+msgid "law-suit"
+msgstr "தாவா"
+
+msgid "lawn cloth"
+msgstr "மென்னாளி"
+
+msgid "lawrencium"
+msgstr "உலரியம்"
+
+msgid "lawyer"
+msgstr "வழக்கறிஞர்"
+
+msgid "laxative"
+msgstr "மலமிளக்கி"
+
+msgid "l.e.d. bulb"
+msgstr "ஒளியுமிழி மின்குமிழ்"
+
+msgid "leader"
+msgstr "தலைவர்"
+
+msgid "leap year"
+msgstr "மிகுநாள் ஆண்டு"
+
+msgid "leapard"
+msgstr "சிறுத்தை"
+
+msgid "leaven"
+msgstr "கமீர்"
+
+msgid "lecturer"
+msgstr "விரிவுரையாளர்"
+
+msgid "leech"
+msgstr "அட்டைப் பூச்சி"
+
+msgid "leek"
+msgstr "இராகூச்சிட்டம்"
+
+msgid "left-justify"
+msgstr "இடவொழுங்குசெய்"
+
+msgid "legerdemain"
+msgstr "கண்கட்டுவித்தை"
+
+msgid "lend"
+msgstr "இரவல் கொடு"
+
+msgid "keel"
+msgstr "எரா"
+
+msgid "keyboard"
+msgstr "விசைப்பலகை"
+
+msgid "musical keyboard"
+msgstr "இசைப்பலகை"
+
+msgid "khadi"
+msgstr "திரணூல்"
+
+msgid "kitchen"
+msgstr "சமயலறை"
+
+msgid "kite bird"
+msgstr "பருந்து"
+
+msgid "kite sport"
+msgstr "பட்டம்"
+
+msgid "lagoon"
+msgstr "கடற்கரைக்காயல்"
+
+msgid "lanthanum"
+msgstr "மாய்மம்"
+
+msgid "laser"
+msgstr "ஊடொளி"
+
+msgid "laser printer"
+msgstr "ஊடொளி அச்சுப்பொறி"
+
+msgid "door latch"
+msgstr "தாழ்ப்பூட்டு"
+
+msgid "latex fibre"
+msgstr "பைசுநார்"
+
+msgid "lay off"
+msgstr "ஆட்குறைப்பு"
+
+msgid "land layout"
+msgstr "மனைப்பிரிவு"
+
+msgid "light emitting diode"
+msgstr "ஒளியுமிழி"
+
+msgid "lead"
+msgstr "துப்பு"
+
+msgid "lead metal"
+msgstr "ஈயம்"
+
+msgid "lens"
+msgstr "கண்ணாடி வில்லை"
+
+msgid "lettuce"
+msgstr "இலைக்கோசு"
+
+msgid "leucorrhea"
+msgstr "வெள்ளைப்படுதல்"
+
+msgid "leucoderma"
+msgstr "வேண்குட்டம்"
+
+msgid "levee"
+msgstr "தடுப்புச்சுவர்"
+
+msgid "level crossing"
+msgstr "இருப்புப்பாதைக் கடவை"
+
+msgid "learner's license"
+msgstr "பழகுநர் உரிமம்"
+
+msgid "level"
+msgstr "மட்டம்"
+
+msgid "lidar"
+msgstr "சீரொளிக்கும்பா"
+
+msgid "bitter lime"
+msgstr "கிச்சிலிப்பழம்"
+
+msgid "limousine"
+msgstr "உல்லாசவுந்து"
+
+msgid "linen"
+msgstr "ஆளிநார்"
+
+msgid "ocean liner"
+msgstr "முறைவழிக் கப்பல்"
+
+msgid "lint"
+msgstr "சலவைத்திரி"
+
+msgid "lithium"
+msgstr "மென்னியம்"
+
+msgid "lithium battery"
+msgstr "மென்னிய மின்கலம்"
+
+msgid "lever"
+msgstr "நெம்புகோல்"
+
+msgid "levitation"
+msgstr "இலகுமம்"
+
+msgid "licence"
+msgstr "உரிமம்"
+
+msgid "licorice"
+msgstr "அதிமதுரம்"
+
+msgid "lifetime"
+msgstr "வாழ்நாள்"
+
+msgid "lift"
+msgstr "மின் தூக்கி"
+
+msgid "lift-well"
+msgstr "மின்தூக்கித் துரவு"
+
+msgid "ligament"
+msgstr "தசைநார்"
+
+msgid "light house"
+msgstr "கலங்கரை விளக்கம்"
+
+msgid "lilac"
+msgstr "இளமூதா"
+
+msgid "linoleum"
+msgstr "சிறுசணலியத்திண்மம்"
+
+msgid "linseed"
+msgstr "சீறுசணல்"
+
+msgid "live telecast"
+msgstr "நேரலை"
+
+msgid "live program"
+msgstr "நேரலை"
+
+msgid "load"
+msgstr "பொதி"
+
+msgid "loading"
+msgstr "பொதியேற்றுதல்"
+
+msgid "lysergic acid dimethylamide"
+msgstr "சோளக்காளான் ஈரிருக்கொள்ளிய நீரகப்பரியம்"
+
+msgid "linseed oil"
+msgstr "சிறுசணலெண்ணை"
+
+msgid "liposuction"
+msgstr "கொழுப்புறிஞ்சல்"
+
+msgid "lipstick"
+msgstr "உதடுச்சாயம்"
+
+msgid "liter"
+msgstr "இட்டம்"
+
+msgid "little cormorant"
+msgstr "நீர்க்காக்கை"
+
+msgid "litre"
+msgstr "இட்டம்"
+
+msgid "liver"
+msgstr "கல்லீரல்"
+
+msgid "livermorium"
+msgstr "இளவமியம்"
+
+msgid "loach"
+msgstr "அயிரை"
+
+msgid "load-auto"
+msgstr "பொதித் தானி"
+
+msgid "locomotive"
+msgstr "உந்துப்பொறி"
+
+msgid "locket"
+msgstr "தொங்குசிமிழ்"
+
+msgid "loden"
+msgstr "உடுச்சடை"
+
+msgid "lodge"
+msgstr "தங்ககம்"
+
+msgid "log in"
+msgstr "புகுபதிகை"
+
+msgid "log out"
+msgstr "விடுபதிகை"
+
+msgid "logo"
+msgstr "இலச்சினை"
+
+msgid "lutetium"
+msgstr "மிளிரியம்"
+
+msgid "lymph"
+msgstr "நிணநீர்"
+
+msgid "lymph gland"
+msgstr "நிணநீச் சுரப்பி"
+
+msgid "lymph node"
+msgstr "நிணநீர்க் கட்டி"
+
+msgid "logistics"
+msgstr "ஏற்பாட்டியல்"
+
+msgid "longitude"
+msgstr "நெட்டாங்கு"
+
+msgid "lotion"
+msgstr "நீர்க்க‌ளிம்பு"
+
+msgid "louvi plum"
+msgstr "சீமைச்சொத்தைக்களா"
+
+msgid "low tide"
+msgstr "கடல்வற்றம்"
+
+msgid "lubricant"
+msgstr "மசகு"
+
+msgid "luggage"
+msgstr "பயணப்பெட்டி"
+
+msgid "luminol"
+msgstr "குருதி நீலொளிரி"
+
+msgid "lunar day"
+msgstr "பிறைநாள்"
+
+msgid "lychee"
+msgstr "விளச்சிப்பழம்"
+
+msgid "lynchpin"
+msgstr "கடையாணி"
+
+msgid "macaroni"
+msgstr "மாச்சுருள்"
+
+msgid "machine"
+msgstr "இயந்திரம்"
+
+msgid "mace"
+msgstr "சாதிப்பத்திரி"
+
+msgid "mackeral"
+msgstr "கானான் கெழுத்தி மீன"
+
+msgid "madrassah"
+msgstr "ஓதப்பள்ளி"
+
+msgid "magenta"
+msgstr "கருஞ்சிவப்பு"
+
+msgid "magnet"
+msgstr "காந்தம்"
+
+msgid "magnifying glass"
+msgstr "பூதக் கண்ணாடி"
+
+msgid "mahogany"
+msgstr "சீமைநூக்கு"
+
+msgid "mahua"
+msgstr "இலுப்பை"
+
+msgid "mailing list"
+msgstr "மடற்குழு"
+
+msgid "mainstream"
+msgstr "பெருவோட்டம்"
+
+msgid "maize"
+msgstr "மக்காச்சோளம்"
+
+msgid "makhmal"
+msgstr "முசுப்பட்டு"
+
+msgid "malabar nut"
+msgstr "ஆடாதொடை"
+
+msgid "malaria"
+msgstr "முறைக்காய்ச்சல்"
+
+msgid "mallet"
+msgstr "கொடாப்புளி"
+
+msgid "malt"
+msgstr "முளைதானியம்"
+
+msgid "mammal"
+msgstr "பாலூட்டி"
+
+msgid "mandola"
+msgstr "மண்டையாழ்"
+
+msgid "mandolin"
+msgstr "மடல்வீணை"
+
+msgid "maneuver"
+msgstr "நழுவியக்கம்"
+
+msgid "manganese"
+msgstr "செவ்விரும்பு"
+
+msgid "man-hole"
+msgstr "சாக்கடைப் புழை"
+
+msgid "map"
+msgstr "வரைப்படம்"
+
+msgid "marker pen"
+msgstr "குறிப்பு எழுதுகோல்"
+
+msgid "market"
+msgstr "சந்தை"
+
+msgid "marigold"
+msgstr "துலுக்கச்சாமந்தி"
+
+msgid "mariner's compass"
+msgstr "காந்தப் பெட்டி"
+
+msgid "maroon"
+msgstr "அரக்கு நிறம்"
+
+msgid "marrow"
+msgstr "மச்சை"
+
+msgid "marsh"
+msgstr "சதுப்பு நிலம்"
+
+msgid "marsh gas"
+msgstr "சேற்றுவாயு"
+
+msgid "mat"
+msgstr "பாய்"
+
+msgid "material"
+msgstr "மூலதனம்"
+
+msgid "matter"
+msgstr "சேதி"
+
+msgid "matrimonial"
+msgstr "மணமேடை"
+
+msgid "mattress"
+msgstr "மெத்தை"
+
+msgid "mechanism"
+msgstr "பொறிநுட்பம்"
+
+msgid "meitnerium"
+msgstr "மறுவியம்"
+
+msgid "meme"
+msgstr "போன்மி"
+
+msgid "memo"
+msgstr "குறிப்பாணை"
+
+msgid "memory"
+msgstr "நினைவு"
+
+msgid "mendelevium"
+msgstr "மைந்தியம்"
+
+msgid "menthol"
+msgstr "கற்பூரியம்"
+
+msgid "mercenary"
+msgstr "கூலிப்படையர்"
+
+msgid "merchandise"
+msgstr "வணிகச்சரக்கு"
+
+msgid "merry-go-round"
+msgstr "ராட்டிணம்"
+
+msgid "messenger"
+msgstr "தூதர்"
+
+msgid "metabolism"
+msgstr "வளர்சிதைமாற்றம்"
+
+msgid "metallic fibre"
+msgstr "மாழை நார்"
+
+msgid "meteor"
+msgstr "எரிமீன்"
+
+msgid "meteorite"
+msgstr "விண்கல்"
+
+msgid "meter"
+msgstr "மீட்டம்"
+
+msgid "microfibre"
+msgstr "நூகநார்"
+
+msgid "micronutrient"
+msgstr "நூண்ணூட்டம்"
+
+msgid "microwave oven"
+msgstr "நுண்ணலை அடுப்பு"
+
+msgid "middleman"
+msgstr "இடைத்தரகர்"
+
+msgid "mike"
+msgstr "ஒலிவாங்கி"
+
+msgid "mile"
+msgstr "கட்டை"
+
+msgid "milk"
+msgstr "பால்"
+
+msgid "milkshake"
+msgstr "பாற்சாறு"
+
+msgid "millet"
+msgstr "வரகு"
+
+msgid "milliliter"
+msgstr "நுல்லியிட்டம்"
+
+msgid "millilitre"
+msgstr "நுல்லியிட்டம்"
+
+msgid "millimeter"
+msgstr "நுல்லிமீட்டம்"
+
+msgid "mine"
+msgstr "சுரங்கம்"
+
+msgid "mineral"
+msgstr "கனிமம்"
+
+msgid "mini giant wheel"
+msgstr "ரங்கராட்டினம்"
+
+msgid "minibus"
+msgstr "சிற்றுந்து"
+
+msgid "mirage"
+msgstr "கானல்நீர்"
+
+msgid "mirror"
+msgstr "ஆடி"
+
+msgid "misfortune"
+msgstr "அவப்பேறு"
+
+msgid "missile"
+msgstr "ஏவுகணை"
+
+msgid "mixie"
+msgstr "மின்னம்மி"
+
+msgid "moat"
+msgstr "அகழி"
+
+msgid "modem"
+msgstr "இணக்கி"
+
+msgid "modesty"
+msgstr "தன்னடக்கம்"
+
+msgid "mohair"
+msgstr "ஆட்டிழை"
+
+msgid "molar tooth"
+msgstr "கடைவாய்ப் பல்"
+
+msgid "molasses"
+msgstr "சர்க்கரைப்பாகு"
+
+msgid "molybdenum"
+msgstr "போன்றீயம்"
+
+msgid "monarchy"
+msgstr "மன்னராட்சி"
+
+msgid "magnesium"
+msgstr "வெளிமம்"
+
+msgid "maltose"
+msgstr "மாப்பசைவெல்லம்"
+
+msgid "mamba"
+msgstr "மம்பாம்பு"
+
+msgid "magnetic levitation"
+msgstr "காந்தலகுமம்"
+
+msgid "march month"
+msgstr "மாசிப்பங்குனி"
+
+msgid "mars"
+msgstr "செவ்வாய் கோள்"
+
+msgid "may"
+msgstr "மேழவிடை"
+
+msgid "mealybug"
+msgstr "மாவுப் பூச்சி"
+
+msgid "messenger"
+msgstr "தூதுவன்"
+
+msgid "management"
+msgstr "மேலாண்மை"
+
+msgid "maple tree"
+msgstr "சீமை கத்தி சவுக்கு மரம்"
+
+msgid "monastry"
+msgstr "மடம்"
+
+msgid "mechanic"
+msgstr "பொறிநுட்பர்"
+
+msgid "mediterrainean"
+msgstr "மத்தியத்தரைக்கடல்"
+
+msgid "mercury"
+msgstr "அகரம்"
+
+msgid "mercury planet"
+msgstr "அறிவன் கோள்"
+
+msgid "mesosphere"
+msgstr "இடை வளிமண்டலம்"
+
+msgid "mesquite tree"
+msgstr "சீமைப்பரம்பை"
+
+msgid "metal"
+msgstr "மாழை"
+
+msgid "metalloid"
+msgstr "மாழைப்போலி"
+
+msgid "methane"
+msgstr "கொள்ளிவாயு"
+
+msgid "metro rail"
+msgstr "விரைந‌க‌ர்வு"
+
+msgid "mica"
+msgstr "அப்ரகம்"
+
+msgid "milk chocolate"
+msgstr "பால் காவிக்கண்டு"
+
+msgid "million"
+msgstr "நுல்லியம்"
+
+msgid "mimicry"
+msgstr "அவிநயக்கூத்து"
+
+msgid "mineral nutrient"
+msgstr "கனிமச்சத்து"
+
+msgid "mineral water"
+msgstr "தாதுநீர்"
+
+msgid "minesweeper"
+msgstr "கண்ணிவாரி"
+
+msgid "miser"
+msgstr "கஞ்சன்"
+
+msgid "model"
+msgstr "மாதிரி"
+
+msgid "module"
+msgstr "கட்டகம்"
+
+msgid "modular"
+msgstr "கட்டக"
+
+msgid "monday"
+msgstr "திங்கட்கிழமை"
+
+msgid "money transfer"
+msgstr "பணமாற்று"
+
+msgid "monk"
+msgstr "பிக்கு"
+
+msgid "monorail"
+msgstr "த‌னித்த‌ட‌ம்"
+
+msgid "monsoon"
+msgstr "பருவக்காற்று"
+
+msgid "moon"
+msgstr "நிலவு"
+
+msgid "moon-sign"
+msgstr "ஓரை"
+
+msgid "moonstone"
+msgstr "நிலாமணிக்கல்"
+
+msgid "moped"
+msgstr "குதியுந்து"
+
+msgid "morphine"
+msgstr "கனவியம்"
+
+msgid "mortar"
+msgstr "சாந்து"
+
+msgid "motel"
+msgstr "உந்துவிடுதி"
+
+msgid "mother"
+msgstr "தாய்"
+
+msgid "motor"
+msgstr "மின்னோடி"
+
+msgid "motor bike"
+msgstr "விசையுந்து"
+
+msgid "motor-cycle"
+msgstr "விசையுந்து"
+
+msgid "motor pump"
+msgstr "மின்னிறைப்பி"
+
+msgid "motor vehicle"
+msgstr "இயக்கூர்தி"
+
+msgid "moving walkway"
+msgstr "ந‌க‌ர்ந‌டைமேடை"
+
+msgid "mouse deer"
+msgstr "புலுட்டுமான்"
+
+msgid "mouth freshener"
+msgstr "வாயினிப்பி"
+
+msgid "mud"
+msgstr "மண்"
+
+msgid "mule"
+msgstr "கோவேறுக்கழுதை"
+
+msgid "multiple sclerosis"
+msgstr "தண்டுவட மரப்பு நோய்"
+
+msgid "mumps"
+msgstr "அம்மைக்கட்டு"
+
+msgid "munition"
+msgstr "படைக்கலம்"
+
+msgid "marshmallow"
+msgstr "சீமைத்துத்தி"
+
+msgid "monastry"
+msgstr "விகாரை"
+
+msgid "money order"
+msgstr "காசாணை"
+
+msgid "computer monitor"
+msgstr "திரையகம்"
+
+msgid "monthly magazine"
+msgstr "மாதிகை"
+
+msgid "mortar"
+msgstr "கணையெக்கி"
+
+msgid "moscovium"
+msgstr "மிகுவியம்"
+
+msgid "mosque"
+msgstr "மசூதி"
+
+msgid "muscle"
+msgstr "தசை"
+
+msgid "museum"
+msgstr "அருங்காட்சியகம்"
+
+msgid "mushroom"
+msgstr "காளான்"
+
+msgid "musk"
+msgstr "காசறை"
+
+msgid "musk deer"
+msgstr "காசறை மான்"
+
+msgid "fungus mould"
+msgstr "பூஞ்சனம்"
+
+msgid "musk mallow"
+msgstr "வெற்றிலைக் காசறை"
+
+msgid "musket"
+msgstr "தெதெறாடி"
+
+msgid "mutton"
+msgstr "ஆட்டிறைச்சி"
+
+msgid "myrrh"
+msgstr "வெள்ளைப்போளம்"
+
+msgid "mouth-wash"
+msgstr "வாய்க்கழுவி"
+
+msgid "mud guard"
+msgstr "மணல் காப்புறை"
+
+msgid "multi-utility vehicle"
+msgstr "பலபயன் மகிழுந்து"
+
+msgid "muslin"
+msgstr "நயப்பன்னல்"
+
+msgid "nainsook"
+msgstr "நொய்யிழை"
+
+msgid "narcoric"
+msgstr "போதைப் பொருள்"
+
+msgid "sea navigation"
+msgstr "கடலோடல்"
+
+msgid "air navigation"
+msgstr "வானோடல்"
+
+msgid "national electronic funds transfer"
+msgstr "உள்நாட்டு மின்நிதிமாற்றம்"
+
+msgid "negative"
+msgstr "நொகை"
+
+msgid "nanny"
+msgstr "செவிலித்தாய்"
+
+msgid "napalm"
+msgstr "பொடிக்கட்டி"
+
+msgid "naptha"
+msgstr "நெய்தை"
+
+msgid "narcissus"
+msgstr "பேரரளி"
+
+msgid "nationality"
+msgstr "நாட்டினம்"
+
+msgid "nature"
+msgstr "இயற்கை"
+
+msgid "natural gas"
+msgstr "இயல்வளி"
+
+msgid "nautical chart"
+msgstr "வழிகாணல் வரைப்படம்"
+
+msgid "navel"
+msgstr "கொப்பூழ்"
+
+msgid "navy"
+msgstr "கடற்படை"
+
+msgid "nebulization"
+msgstr "தெளிமருந்துச் மருத்தீடு"
+
+msgid "nebulizer"
+msgstr "தெளிமருந்துக்கருவி"
+
+msgid "neighbour"
+msgstr "அண்டையர்"
+
+msgid "net-conference"
+msgstr "வலையாடல்"
+
+msgid "network"
+msgstr "பிணையம்"
+
+msgid "newsletter"
+msgstr "செய்திமடல்"
+
+msgid "nicotine"
+msgstr "புகைநஞ்சம்"
+
+msgid "nigerseed"
+msgstr "பேயெள்ளு"
+
+msgid "night club"
+msgstr "கூத்தரங்கு"
+
+msgid "nihonium"
+msgstr "நகுவியம்"
+
+msgid "nitrile gloves"
+msgstr "கரிமத்தழைமக் கையுறை"
+
+msgid "nobelium"
+msgstr "நறுங்கன்"
+
+msgid "noise"
+msgstr "இரைச்சல்"
+
+msgid "nomination"
+msgstr "நியமனம்"
+
+msgid "nomination paper"
+msgstr "வேட்பு மனு"
+
+msgid "noodles"
+msgstr "நூலடை"
+
+msgid "norm"
+msgstr "நெறிமிறை"
+
+msgid "north pole"
+msgstr "வட முனை"
+
+msgid "notary public"
+msgstr "சான்றுறுதி அலுவலர்"
+
+msgid "notebook"
+msgstr "குறிப்பேடு, கொப்பி"
+
+msgid "notebook computer"
+msgstr "மடிகணினி"
+
+msgid "notice board"
+msgstr "அறிவிப்புப் பலகை"
+
+msgid "nuclear reactor"
+msgstr "அணு உலை"
+
+msgid "nurse"
+msgstr "செவிலியர்"
+
+msgid "nursing home"
+msgstr "நலம்பேணகம்"
+
+msgid "nutmeg"
+msgstr "சாதிக்காய்"
+
+msgid "nylon"
+msgstr "நொசிவிழை"
+
+msgid "new moon day"
+msgstr "காருவா நாள்"
+
+msgid "neodymium"
+msgstr "புதுமஞ்சை"
+
+msgid "neon"
+msgstr "ஒளிரியம்"
+
+msgid "neon sign"
+msgstr "ஒளிரியக் செய்தி பலகை"
+
+msgid "neptune"
+msgstr "புறநீலன்"
+
+msgid "neptunium"
+msgstr "நெருப்பியம்"
+
+msgid "nickel"
+msgstr "வன்வெள்ளி"
+
+msgid "nimbus cloud"
+msgstr "சூல்மேகம்"
+
+msgid "niobium"
+msgstr "அருமிமம்"
+
+msgid "nitrile"
+msgstr "கரிமத்தழைமம்"
+
+msgid "nitrile rubber"
+msgstr "கரிமத்தழைமீள்மம்"
+
+msgid "nitrogen"
+msgstr "தழைமம்"
+
+msgid "nitrogen gas"
+msgstr "இலவணவாயு"
+
+msgid "nonillion"
+msgstr "ஒன்பதிநுல்லியம்"
+
+msgid "november"
+msgstr "துலைநளி"
+
+msgid "musical note"
+msgstr "கோவை"
+
+msgid "nursery school"
+msgstr "மழலைப்பள்ளி"
+
+msgid "nursery plant"
+msgstr "நாற்றங்கால்"
+
+msgid "oatmeal"
+msgstr "காடைக்கண்ணிக் கூழ்"
+
+msgid "objective"
+msgstr "பொருட்டு"
+
+msgid "objectively"
+msgstr "பொருட்டுடன்"
+
+msgid "oak tree"
+msgstr "கருவாலி"
+
+msgid "oar"
+msgstr "துடுப்பு"
+
+msgid "oath"
+msgstr "உறுதிமொழி"
+
+msgid "oats"
+msgstr "காடைக்கண்ணி"
+
+msgid "obligation"
+msgstr "கடப்பாடு"
+
+msgid "oblique"
+msgstr "சாய்வான"
+
+msgid "oblong"
+msgstr "நீள்சதுரம்"
+
+msgid "observer"
+msgstr "நோக்காளன்"
+
+msgid "ocean"
+msgstr "பெருங்கடல்"
+
+msgid "octapus"
+msgstr "சிலந்திமீன்"
+
+msgid "oestrogen"
+msgstr "பெண்மையூக்கி"
+
+msgid "obsolete"
+msgstr "வழக்கொழிந்த"
+
+msgid "octane"
+msgstr "எட்டகம்"
+
+msgid "octane number"
+msgstr "எட்டக எண்"
+
+msgid "octave"
+msgstr "எண்மம்"
+
+msgid "octillion"
+msgstr "எண்ணுல்லியம்"
+
+msgid "october"
+msgstr "கன்னித்துலை"
+
+msgid "offset printing"
+msgstr "மறுதோன்றி அச்சு"
+
+msgid "oganesson"
+msgstr "உகுந்தியம்"
+
+msgid "oleander"
+msgstr "அரளி"
+
+msgid "olive"
+msgstr "இடலை"
+
+msgid "olive oil"
+msgstr "இடலையெண்ணை"
+
+msgid "olive green"
+msgstr "இடலைப் பச்சை"
+
+msgid "omen"
+msgstr "நிமித்தம்"
+
+msgid "omnipresent"
+msgstr "நீக்கமற"
+
+msgid "opal"
+msgstr "அமுதக்கல்"
+
+msgid "office"
+msgstr "அலுவலகம்"
+
+msgid "oil extract"
+msgstr "ஊற்றெண்ணை"
+
+msgid "omelet"
+msgstr "முட்டையடை"
+
+msgid "open order"
+msgstr "திறந்தாணை"
+
+msgid "operation"
+msgstr "பண்டுவம்"
+
+msgid "option"
+msgstr "சூதம்"
+
+msgid "operation theater"
+msgstr "பண்டுவ அறை"
+
+msgid "opium"
+msgstr "அபின்"
+
+msgid "opticals"
+msgstr "கண்ணணியகம்"
+
+msgid "optician"
+msgstr "கண்ணணிப்பாளர்"
+
+msgid "optimist"
+msgstr "உகமையர்"
+
+msgid "optimistic"
+msgstr "நன்னம்பிக்கையுடைய"
+
+msgid "orchard"
+msgstr "தோப்பு"
+
+msgid "orchid"
+msgstr "மந்தாரை"
+
+msgid "organdy"
+msgstr "பாலாவித்துகில் பாலாவித்துணி"
+
+msgid "organza"
+msgstr "கிளரிழை"
+
+msgid "oriel"
+msgstr "சுவராதாரப்பாகணி"
+
+msgid "ornament"
+msgstr "அணிகலன்"
+
+msgid "orange colour"
+msgstr "செம்மஞ்சள் நிறம்"
+
+msgid "orange"
+msgstr "நரந்தம்பழம்"
+
+msgid "sweet orange"
+msgstr "சாத்துக்கொடி"
+
+msgid "mouthorgan"
+msgstr "நாதப்பெட்டி"
+
+msgid "osmium"
+msgstr "கருநீலீயம்"
+
+msgid "over-the-counter medication"
+msgstr "எழுதிக்கொடா மருந்து"
+
+msgid "oregano"
+msgstr "கற்பூரவள்ளி"
+
+msgid "osmosis"
+msgstr "சவ்வூடுபரவல்"
+
+msgid "ostrich"
+msgstr "நெருப்புகோழி"
+
+msgid "otter"
+msgstr "நீர்நாய்"
+
+msgid "oven"
+msgstr "போறணை"
+
+msgid "ox"
+msgstr "எருது"
+
+msgid "overlap"
+msgstr "மேலுறல்"
+
+msgid "overdraft"
+msgstr "மேல்வரைபற்று"
+
+msgid "oxygen gas"
+msgstr "உயிர்வளி"
+
+msgid "oxygen"
+msgstr "உயிர்மம்"
+
+msgid "oyster"
+msgstr "கிளிஞ்சல்"
+
+msgid "ozone"
+msgstr "சாரலியம்"
+
+msgid "pacific"
+msgstr "அமைதியிடம்"
+
+msgid "pacific ocean"
+msgstr "அமைதிப் பெருங்கடல்"
+
+msgid "pacemaker"
+msgstr "இதயமுடுக்கி"
+
+msgid "package"
+msgstr "சிப்பம்"
+
+msgid "packaged drinking water"
+msgstr "அடைக்கப்பட்ட குடிநீர்"
+
+msgid "pact"
+msgstr "உடன்படிக்கை"
+
+msgid "paddy field"
+msgstr "கழனி"
+
+msgid "pager"
+msgstr "விளிப்பான்"
+
+msgid "pagoda"
+msgstr "வராகன்"
+
+msgid "paint"
+msgstr "வண்ணெய்"
+
+msgid "paintbrush"
+msgstr "வண்ணெய்தூரிகை"
+
+msgid "painter"
+msgstr "நிறம் பூசாளர்"
+
+msgid "palaenlithic"
+msgstr "தொல் கற்காலம்"
+
+msgid "painter"
+msgstr "ஓவியர்"
+
+msgid "painting"
+msgstr "ஓவியம்"
+
+msgid "palladium"
+msgstr "வெண்ணிரும்பு"
+
+msgid "palmyra"
+msgstr "பனைமரம்"
+
+msgid "pant"
+msgstr "காற்சட்டை"
+
+msgid "parcel"
+msgstr "சிப்பம்"
+
+msgid "parcel service"
+msgstr "சிப்பம் அனுப்பகம்"
+
+msgid "parking lot"
+msgstr "நிறுத்திடம்"
+
+msgid "parmesan cheese"
+msgstr "பருமா பாலாடைக்கட்டி"
+
+msgid "pass (car, student)"
+msgstr "சலுகைச்சீட்டு"
+
+msgid "pasteurization"
+msgstr "பால் பதனீடு"
+
+msgid "patent"
+msgstr "புனைவுரிமை"
+
+msgid "patent pending"
+msgstr "புனைவுரிமை நிலுவையில்"
+
+msgid "palaenthology"
+msgstr "தொல்கால மனிதவியல்"
+
+msgid "palaeogaea"
+msgstr "தொல்லுலகம்"
+
+msgid "pancreas"
+msgstr "கணையம்"
+
+msgid "panda"
+msgstr "கரடிப்பூனை"
+
+msgid "pandemic"
+msgstr "உலகளாவியத் தொற்று"
+
+msgid "pantograph"
+msgstr "வரைசட்டம்"
+
+msgid "panther"
+msgstr "கருஞ்சிருத்தை"
+
+msgid "paper"
+msgstr "காகிதம்"
+
+msgid "paper-mache"
+msgstr "காகிதக்கூழ்"
+
+msgid "paprika"
+msgstr "சிகப்பு மிளகு"
+
+msgid "papyrus"
+msgstr "தாள்புல்"
+
+msgid "parachute"
+msgstr "வான்குடை"
+
+msgid "parade"
+msgstr "கவாத்து"
+
+msgid "paraffin"
+msgstr "வெண்மெழுகு"
+
+msgid "parapet"
+msgstr "கைப்பிடிச்சுவர்"
+
+msgid "partner"
+msgstr "பங்காளி"
+
+msgid "parliament"
+msgstr "நாடாளுமன்றம்"
+
+msgid "partiality"
+msgstr "பக்கச் சார்பு"
+
+msgid "pattern"
+msgstr "தோரணி"
+
+msgid "pelican"
+msgstr "கூழைக்கடா"
+
+msgid "pencil"
+msgstr "கரிக்கோல்"
+
+msgid "pencil sharpener"
+msgstr "விரிசில் துருகி"
+
+msgid "pennywise pound foolish"
+msgstr "கடுகு போன இடம் ஆராய்வார்"
+
+msgid "partition"
+msgstr "பிரிவினை"
+
+msgid "passbook"
+msgstr "கைச்சாத்துப் நூல்"
+
+msgid "passenger terminal"
+msgstr "பயணிகள் பணி முனையம்"
+
+msgid "passport"
+msgstr "கடவுச்சீட்டு"
+
+msgid "pasta"
+msgstr "மாச்சேவை"
+
+msgid "peninsula"
+msgstr "தீபகற்பம்"
+
+msgid "per capita income"
+msgstr "தலைவீத வருமானம்"
+
+msgid "permutations and combinations"
+msgstr "சேர்வரிசைகள்"
+
+msgid "perfume"
+msgstr "வாசனைப்பொருள்"
+
+msgid "personal computer"
+msgstr "தன்னுடமைக் கணினி"
+
+msgid "personal digital assistant"
+msgstr "தன்னுடமை எண்ணியல் உதவி"
+
+msgid "person media player"
+msgstr "த‌ன்னூட‌கி"
+
+msgid "personal identification number"
+msgstr "ஆளறியெண்"
+
+msgid "petrol"
+msgstr "கல்லெண்ணை"
+
+msgid "phosphate"
+msgstr "மணிச்சத்து"
+
+msgid "phosphorous"
+msgstr "தீமுறி"
+
+msgid "pastry"
+msgstr "பிசையடை"
+
+msgid "patrol"
+msgstr "பாரா"
+
+msgid "pathology"
+msgstr "நோய்நாடல்"
+
+msgid "patio"
+msgstr "பின் திண்ணை"
+
+msgid "payload"
+msgstr "தாங்குசுமை"
+
+msgid "pedal"
+msgstr "மிதிக்கட்டை"
+
+msgid "pear"
+msgstr "பேரிக்காய்"
+
+msgid "pick-up truck"
+msgstr "பொதியுந்து"
+
+msgid "pier"
+msgstr "பாந்து"
+
+msgid "pile"
+msgstr "முளைத்தூண்"
+
+msgid "pilgrim"
+msgstr "உலாவன்"
+
+msgid "pilgrimage"
+msgstr "புனிதப்பயணி"
+
+msgid "pilot"
+msgstr "வானோடி"
+
+msgid "pipe"
+msgstr "புழம்பு"
+
+msgid "cricket pitch"
+msgstr "ஓடுதளம்"
+
+msgid "music pitch"
+msgstr "சுருதி"
+
+msgid "screw pitch"
+msgstr "புரியிடைவெளி"
+
+msgid "building plan"
+msgstr "கிடைப்படம்"
+
+msgid "platelet"
+msgstr "குருதி தட்டு"
+
+msgid "platelets"
+msgstr "குருதி தட்டுகள்"
+
+msgid "platform"
+msgstr "நடைபாதை"
+
+msgid "pebble"
+msgstr "கூழாங்கல்"
+
+msgid "pedal"
+msgstr "மிதிக்கட்டை"
+
+msgid "pedestrial fan"
+msgstr "நெடுவிசிறி"
+
+msgid "platinum"
+msgstr "வெண்தங்கம்"
+
+msgid "pleat"
+msgstr "கொசுவம்"
+
+msgid "plumber"
+msgstr "குழாய்ப்பணியாளர்"
+
+msgid "toilet plunger"
+msgstr "தள்ளாங்கோல்"
+
+msgid "plum"
+msgstr "கொத்துப்பேசி"
+
+msgid "plus"
+msgstr "கூட்டல்"
+
+msgid "pluto"
+msgstr "அயலாம்"
+
+msgid "plutonium"
+msgstr "அயலியம்"
+
+msgid "poliomyelitis"
+msgstr "இளம்பிள்ளை உரையாடல்"
+
+msgid "polonium"
+msgstr "அனலியம்"
+
+msgid "poly vinyl chloride"
+msgstr "தேறலியம்"
+
+msgid "polyester"
+msgstr "பலமரிழை"
+
+msgid "polymer"
+msgstr "பல்படியம்"
+
+msgid "polythene bag"
+msgstr "ஈகநார்ப் பை"
+
+msgid "polythene"
+msgstr "ஈகநார்"
+
+msgid "swimming pool"
+msgstr "நீச்சல்குளம்"
+
+msgid "billiards pool"
+msgstr "கோல்மேசை"
+
+msgid "pouch"
+msgstr "குழைப்பை"
+
+msgid "positive"
+msgstr "நிறை"
+
+msgid "post"
+msgstr "இடுகை"
+
+msgid "post master"
+msgstr "அஞ்சல் தலைவர்"
+
+msgid "postman"
+msgstr "அஞ்சலர்"
+
+msgid "potassium"
+msgstr "வெடியம்"
+
+msgid "potato chips"
+msgstr "உருளைக்கிழங்குச் சீவல்"
+
+msgid "pedestrian"
+msgstr "நடையாளர்"
+
+msgid "peepal"
+msgstr "அரசமரம்"
+
+msgid "pen"
+msgstr "எழுதுகோல்"
+
+msgid "pen drive"
+msgstr "விரலி"
+
+msgid "pendant"
+msgstr "தொங்கட்டான்"
+
+msgid "penetentiary"
+msgstr "சீர்த்திருத்தப்பள்ளி"
+
+msgid "penguin"
+msgstr "பனிப்பாடி"
+
+msgid "pension"
+msgstr "ஓய்வூதியம்"
+
+msgid "peon"
+msgstr "ஏவலர்"
+
+msgid "peppermint"
+msgstr "புதினா"
+
+msgid "perfumery"
+msgstr "அத்தரகம்"
+
+msgid "periscope"
+msgstr "மறைநோக்கி"
+
+msgid "potential"
+msgstr "இயலாற்றல்"
+
+msgid "practice"
+msgstr "பயிற்சி"
+
+msgid "praseodymium"
+msgstr "வெண்மஞ்சை"
+
+msgid "preaching"
+msgstr "உபதேசம்"
+
+msgid "preach"
+msgstr "உபதேசி"
+
+msgid "pretend"
+msgstr "பாசாங்குசெய்"
+
+msgid "pretention"
+msgstr "பாசாங்கு"
+
+msgid "pretension"
+msgstr "பம்மாத்து"
+
+msgid "primer"
+msgstr "முதற்பூச்சு"
+
+msgid "print-out"
+msgstr "அச்செடுப்பு"
+
+msgid "prism"
+msgstr "அரியம்"
+
+msgid "private"
+msgstr "புரிவர்"
+
+msgid "prime"
+msgstr "பெரும்பு"
+
+msgid "priming"
+msgstr "பெரும்புதல்"
+
+msgid "proclaim"
+msgstr "பறைசாற்று"
+
+msgid "proclamation"
+msgstr "பறைசாற்றல்"
+
+msgid "promethium"
+msgstr "அரிதியம்"
+
+msgid "prompt"
+msgstr "விரைவுத்தன்மை"
+
+msgid "prompt person"
+msgstr "உடனடி பதிலளிப்பவர்"
+
+msgid "perks"
+msgstr "மேலதிகச் சலுகைகள்"
+
+msgid "personality"
+msgstr "ஆளுமை"
+
+msgid "perspicacity"
+msgstr "நுண்மாண் நுழைபுலம்"
+
+msgid "pessimist"
+msgstr "படுகையர்"
+
+msgid "petition"
+msgstr "மனு"
+
+msgid "petrol-bunk"
+msgstr "கன்னெய்க் கிடங்கு"
+
+msgid "petrochemical"
+msgstr "பாறைவேதிப்பொருள்"
+
+msgid "petroleum"
+msgstr "பாறையெண்ணை"
+
+msgid "petticoat"
+msgstr "உள்பாவாடை"
+
+msgid "pianist"
+msgstr "கின்னரப்பெட்டியிசைஞர்"
+
+msgid "piano"
+msgstr "கின்னரப்பெட்டி"
+
+msgid "picnic"
+msgstr "உல்லாச உலாப்போக்கு"
+
+msgid "pin"
+msgstr "குண்டூசி"
+
+msgid "propeller"
+msgstr "உந்தி"
+
+msgid "prostitution"
+msgstr "பரத்தமை"
+
+msgid "protactinium"
+msgstr "பாகையம்"
+
+msgid "protection"
+msgstr "பாதுகாப்பு"
+
+msgid "pub"
+msgstr "குடிமனை"
+
+msgid "puberty"
+msgstr "பூப்படைவு"
+
+msgid "purchase order"
+msgstr "வாங்காணை"
+
+msgid "quadrillion"
+msgstr "நால்மநுல்லியம்"
+
+msgid "qiviut"
+msgstr "கவரியிழை"
+
+msgid "qiviuq "
+msgstr "கவரியிழை"
+
+msgid "quarrel"
+msgstr "வாய்ச்சண்டை"
+
+msgid "quarry"
+msgstr "கற்சுரங்கம்"
+
+msgid "quill-pen"
+msgstr "எழுதிறகு"
+
+msgid "quince"
+msgstr "சீமைமாதுளை"
+
+msgid "quinoa"
+msgstr "சீமைத் திணை"
+
+msgid "quintillion"
+msgstr "ஐமநுல்லியம்"
+
+msgid "quiver"
+msgstr "அம்புக்கூடு"
+
+msgid "quran"
+msgstr "திருமறை"
+
+msgid "rabies"
+msgstr "வெறிநாய்க்கடி நோய்"
+
+msgid "rare"
+msgstr "ஐதான"
+
+msgid "rareness"
+msgstr "ஐது"
+
+msgid "pin cushion"
+msgstr "ஊசிப்பஞ்சு"
+
+msgid "pink"
+msgstr "இளஞ்சிவப்பு"
+
+msgid "piper"
+msgstr "பைக்குழல்"
+
+msgid "piston"
+msgstr "ஆடுதண்டு"
+
+msgid "pivot joint"
+msgstr "முளைமூட்டு"
+
+msgid "pizza"
+msgstr "வேகப்பம்"
+
+msgid "pizzeria"
+msgstr "வேகப்பகம்"
+
+msgid "plague"
+msgstr "கொள்ளைநோய்"
+
+msgid "plastic"
+msgstr "நெகிழி"
+
+msgid "plastic surgery"
+msgstr "ஒட்டுறுப்பு அறுவை மருத்தீடு"
+
+msgid "plier"
+msgstr "குறடு"
+
+msgid "plunder"
+msgstr "சூறையாட்டம்"
+
+msgid "plug"
+msgstr "செருகி"
+
+msgid "plush"
+msgstr "பூசுப் பட்டு"
+
+msgid "plywood"
+msgstr "ஒட்டுப்பலகை"
+
+msgid "pneumatic"
+msgstr "காற்றியக்க"
+
+msgid "pole-cat"
+msgstr "மரநாய்"
+
+msgid "polite"
+msgstr "பணிவான"
+
+msgid "politics"
+msgstr "அரிசியல்"
+
+msgid "politician"
+msgstr "அரிசியல்வாதி"
+
+msgid "polycystic ovarian syndrome"
+msgstr "சினைப்பை நோய்க்குறி"
+
+msgid "pomfret"
+msgstr "வாவல் மீன்"
+
+msgid "pop corn"
+msgstr "சோளப்பொறி"
+
+msgid "poplin"
+msgstr "பளபளி"
+
+msgid "poppy"
+msgstr "கசகசா"
+
+msgid "portia"
+msgstr "பூவரசு"
+
+msgid "porosity"
+msgstr "புரைமை"
+
+msgid "portrait"
+msgstr "உருவப்படம்"
+
+msgid "postal order"
+msgstr "அஞ்சலாணை"
+
+msgid "postnatal care"
+msgstr "பிற‌விய‌டுத்த‌ப் பேணுகை"
+
+msgid "postpartum depression"
+msgstr "மக‌ப்பேற‌டுத்த‌ உள‌ச்சோர்வு"
+
+msgid "posture"
+msgstr "தோரணை"
+
+msgid "potter"
+msgstr "குயவர்"
+
+msgid "power grid"
+msgstr "மின் தொகுப்பு"
+
+msgid "power station"
+msgstr "மின் நிலையம்"
+
+msgid "plastic surgery"
+msgstr "ஒட்டுறுப்பு அறுவை மருத்தீடு"
+
+msgid "prawn"
+msgstr "இரால்"
+
+msgid "predator"
+msgstr "கொன்றுண்ணி"
+
+msgid "premium economy class"
+msgstr "சிறப்புச் சிக்கன வகுப்பு"
+
+msgid "prescription"
+msgstr "மருந்துச்சீட்டு"
+
+msgid "prescription drug"
+msgstr "எழுதிக்கொடு மருந்து"
+
+msgid "preservative"
+msgstr "பதப்பொருள்"
+
+msgid "presence of mind"
+msgstr "சமயோசிதம்"
+
+msgid "pressure"
+msgstr "அழுத்தம்"
+
+msgid "pressure cooker"
+msgstr "அழுத்தப் பாத்திரம்"
+
+msgid "primrose"
+msgstr "சீமைமுட்செவ்வந்தி"
+
+msgid "print-screen"
+msgstr "திரைப் பிடிப்பு"
+
+msgid "privacy"
+msgstr "மறைபொருள்"
+
+msgid "printer"
+msgstr "அச்சுப்பொறி"
+
+msgid "process"
+msgstr "தொடர்முறை"
+
+msgid "profit"
+msgstr "ஆதாயம்"
+
+msgid "programmer"
+msgstr "நிரலர்"
+
+msgid "progress"
+msgstr "ஆக்கம்"
+
+msgid "project manager"
+msgstr "திட்ட மேலாளர்"
+
+msgid "projector"
+msgstr "ஒளிவீச்சி"
+
+msgid "promisory note"
+msgstr "வாக்குறுதி பத்திரம்"
+
+msgid "promoter"
+msgstr "மேம்படுத்துநர்"
+
+msgid "protractor"
+msgstr "பாகைமானி"
+
+msgid "prototype"
+msgstr "படியச்சு"
+
+msgid "provision"
+msgstr "மளிகை"
+
+msgid "psychology"
+msgstr "உளவியல்"
+
+msgid "pulsar"
+msgstr "துடிப்பு விண்மீன்"
+
+msgid "pulse"
+msgstr "கைநாடி"
+
+msgid "pumice"
+msgstr "நுரைக்கல்"
+
+msgid "pump"
+msgstr "எக்கி"
+
+msgid "punctuality"
+msgstr "காலத்தவறாமை"
+
+msgid "pupa"
+msgstr "கூட்டுப்புழு"
+
+msgid "purple"
+msgstr "ஊதா"
+
+msgid "put option"
+msgstr "விற்றல் சூதம்"
+
+msgid "pyknometer"
+msgstr "அடர்த்திமானி"
+
+msgid "pyramid"
+msgstr "கூம்பகம்"
+
+msgid "python"
+msgstr "மலைப்பாம்பு"
+
+msgid "quail"
+msgstr "காடை"
+
+msgid "qualification"
+msgstr "கல்வித் தகுதி"
+
+msgid "quality"
+msgstr "தகுதி"
+
+msgid "quarantine"
+msgstr "தொற்றொதுக்கம்"
+
+msgid "quartz"
+msgstr "படிகக்கல்"
+
+msgid "questionable"
+msgstr "ஆட்சேபத்திற்குறிய"
+
+msgid "quasar"
+msgstr "துடிப்பண்டம்"
+
+msgid "quay"
+msgstr "கப்பல் துறை"
+
+msgid "quotation"
+msgstr "விலைப்புள்ளி"
+
+msgid "racoon"
+msgstr "அணில்கரடி"
+
+msgid "rack"
+msgstr "ஏந்தானம்"
+
+msgid "radiator"
+msgstr "கதிர்வீசி"
+
+msgid "radio"
+msgstr "வானொலி"
+
+msgid "radiologist"
+msgstr "கதிரியக்கர்"
+
+msgid "radio station"
+msgstr "வானொலி நிலையம்"
+
+msgid "radius"
+msgstr "ஆரம்"
+
+msgid "rafflesia"
+msgstr "பிணவல்லி"
+
+msgid "ragam"
+msgstr "பண்"
+
+msgid "railing"
+msgstr "கிராதி"
+
+msgid "railways"
+msgstr "இருப்புப்பாதை"
+
+msgid "rainbow"
+msgstr "வானவில்"
+
+msgid "rare"
+msgstr "அரிய"
+
+msgid "raspberry"
+msgstr "புற்றுப்பழம்"
+
+msgid "rat race"
+msgstr "போட்டிம‌ய‌ம்"
+
+msgid "ration"
+msgstr "பங்கீடு"
+
+msgid "rattlesnake"
+msgstr "சாரைப்பாம்பு"
+
+msgid "raven"
+msgstr "அண்டங்காக்கை"
+
+msgid "razor knife"
+msgstr "சவரக் கத்தி"
+
+msgid "receipt"
+msgstr "பற்றுச்சீட்டு"
+
+msgid "receptacle"
+msgstr "கொள்கலம்"
+
+msgid "reception"
+msgstr "வரவேற்பறை"
+
+msgid "receptionist"
+msgstr "வரவேற்பாளர்"
+
+msgid "reconnaissance vehicle"
+msgstr "வேவூர்தி"
+
+msgid "reconstruction"
+msgstr "மறுசீரமைப்பு"
+
+msgid "rectum"
+msgstr "மலக்குடல்"
+
+msgid "recycling"
+msgstr "மறுசுழற்சி"
+
+msgid "red"
+msgstr "சிவப்பு"
+
+msgid "red cross society"
+msgstr "செஞ்சிலுவைச் சங்கம்"
+
+msgid "red kidney beans"
+msgstr "சிகப்பு காராமணி"
+
+msgid "redress"
+msgstr "குறைதீர்"
+
+msgid "reed"
+msgstr "அதிர்தகடு"
+
+msgid "referendum"
+msgstr "பொதுவாக்கெடுப்பு"
+
+msgid "refill pack"
+msgstr "நிரப்பில் சிப்பம்"
+
+msgid "refined oil"
+msgstr "சுத்திகரிக்கப்பட்ட எண்ணை"
+
+msgid "reflex"
+msgstr "எதிர்வினை"
+
+msgid "refridgerant"
+msgstr "குளிர்ப்பொருள்"
+
+msgid "rehabilitation"
+msgstr "புனர்வாழ்வு"
+
+msgid "reindeer"
+msgstr "பனிக்கலைமான்"
+
+msgid "reject"
+msgstr "நிராகரி"
+
+msgid "rejoice"
+msgstr "மகிழ்"
+
+msgid "rejoinder"
+msgstr "எதிருரை"
+
+msgid "relapse"
+msgstr "பின்னடைவு"
+
+msgid "reminder"
+msgstr "ஞாபகப்படுத்தல்"
+
+msgid "remote control"
+msgstr "தொலையியக்கி"
+
+msgid "renewal"
+msgstr "புதுப்பிப்பு"
+
+msgid "renovate"
+msgstr "புனரமை"
+
+msgid "rented car"
+msgstr "இரவல் சீருந்து"
+
+msgid "renumeration"
+msgstr "பணியூதியம்"
+
+msgid "repeat"
+msgstr "மறுசெயல்"
+
+msgid "repeatability"
+msgstr "மறுசெயற்திறன்"
+
+msgid "response"
+msgstr "மறுமொழி"
+
+msgid "result"
+msgstr "முடிவு"
+
+msgid "retail"
+msgstr "சில்லரையான"
+
+msgid "retina"
+msgstr "விழித்திரை"
+
+msgid "retreading"
+msgstr "மறைக்கிழித்தல்"
+
+msgid "revenue stamp"
+msgstr "முத்திரை வில்லை"
+
+msgid "reverse osmosis"
+msgstr "எதிர்மறை சவ்வூடுபரவல்"
+
+msgid "rhinocerous"
+msgstr "காண்டாமிருகம்"
+
+msgid "rice"
+msgstr "அரிசி"
+
+msgid "rice bran"
+msgstr "அரிசித் தவிடு"
+
+msgid "ricochet"
+msgstr "தவ்வல்"
+
+msgid "ride"
+msgstr "சவாரி"
+
+msgid "ridge gourd"
+msgstr "பீர்க்கங்காய்"
+
+msgid "rifle"
+msgstr "துமுக்கி"
+
+msgid "right-justify"
+msgstr "வலவொழுங்குசெய்"
+
+msgid "ringtone"
+msgstr "மணியோசை"
+
+msgid "ringworm"
+msgstr "படர்தாமரை"
+
+msgid "risk"
+msgstr "இடர்ப்பாடு"
+
+msgid "road-roller"
+msgstr "சாலைச் சமனி"
+
+msgid "roast"
+msgstr "முறுவல்"
+
+msgid "robot"
+msgstr "பொறியன்"
+
+msgid "roentgenium"
+msgstr "உருத்தியம்"
+
+msgid "roller coaster"
+msgstr "உருளி ஓடம்"
+
+msgid "roof"
+msgstr "கூரை"
+
+msgid "rose"
+msgstr "முட்செவ்வந்தி"
+
+msgid "radar"
+msgstr "கதிரலைக் கும்பா"
+
+msgid "radium"
+msgstr "கதிரியம்"
+
+msgid "radon"
+msgstr "கதிரம்"
+
+msgid "rain coat"
+msgstr "மழைப்பாகை"
+
+msgid "rain meter"
+msgstr "மழைமானி"
+
+msgid "rally"
+msgstr "பேரணி"
+
+msgid "rash"
+msgstr "சினப்பு"
+
+msgid "rayon"
+msgstr "மரவிழைப் பட்டு"
+
+msgid "razor blade"
+msgstr "சவர அலகு"
+
+msgid "readymade dress"
+msgstr "ஆயத்த ஆடை"
+
+msgid "reclammation of land"
+msgstr "மீளகம்"
+
+msgid "reed plant"
+msgstr "நாணல்"
+
+msgid "reference"
+msgstr "மேற்கோள்"
+
+msgid "refill"
+msgstr "நிரப்பில்"
+
+msgid "reflection"
+msgstr "எதிரொளி"
+
+msgid "refridgerator"
+msgstr "குளிர்பதனப்பெட்டி"
+
+msgid "reinforced cement concrete"
+msgstr "திண்காரை"
+
+msgid "repair"
+msgstr "செப்பனிடு"
+
+msgid "repair work"
+msgstr "செப்பம் வேலை"
+
+msgid "resin"
+msgstr "குங்கிலியம்"
+
+msgid "revolver"
+msgstr "சுழற்துப்பாக்கி"
+
+msgid "rhenium"
+msgstr "கரிவெள்ளி"
+
+msgid "rhodium"
+msgstr "அரத்தியம்"
+
+msgid "rickety"
+msgstr "நரங்கிய"
+
+msgid "ridge"
+msgstr "வரப்பு"
+
+msgid "ritual"
+msgstr "சமயாசாரம்"
+
+msgid "rivet"
+msgstr "தறையாணி"
+
+msgid "road"
+msgstr "வீதி"
+
+msgid "roaming facility"
+msgstr "அலையல் வசதி"
+
+msgid "rocket"
+msgstr "ஏவுகலன்"
+
+msgid "rodent"
+msgstr "கொறித்துண்ணி"
+
+msgid "rose apple"
+msgstr "நாவல்பழம்"
+
+msgid "rose-milk"
+msgstr "முளரிப் பால்"
+
+msgid "rotunda"
+msgstr "கவிமாடம்"
+
+msgid "rowboat"
+msgstr "தோணி"
+
+msgid "royalty"
+msgstr "உரிமத்தொகை"
+
+msgid "eraser"
+msgstr "அழிப்பான்"
+
+msgid "rubber"
+msgstr "மீள்மம்"
+
+msgid "rubber stamp"
+msgstr "மீள்ம முத்திரை"
+
+msgid "rubella"
+msgstr "செர்மானிய மணல்வாரி"
+
+msgid "runway"
+msgstr "ஓடுபாதை"
+
+msgid "rusk"
+msgstr "காந்தல் ரொட்டி"
+
+msgid "russel's viper"
+msgstr "கண்ணாடி விரியன்"
+
+msgid "rust"
+msgstr "துரு"
+
+msgid "rye"
+msgstr "புல்லரிசி"
+
+msgid "rubidium"
+msgstr "அரும்பியம்"
+
+msgid "ruby"
+msgstr "மாணிக்கம்"
+
+msgid "runner of a zip"
+msgstr "பல்லோடி"
+
+msgid "ruthenium"
+msgstr "சீர்பொன்"
+
+msgid "rutherfordium"
+msgstr "உருத்திரவியம்"
+
+msgid "ryemeal"
+msgstr "புல்லரிசிக் கூழ்"
+
+msgid "sabbatical leave"
+msgstr "பணியிடைவிடுப்பு"
+
+msgid "sacrifice"
+msgstr "வேள்வி"
+
+msgid "safety"
+msgstr "ஏமம்"
+
+msgid "safety pin"
+msgstr "காப்பூசி"
+
+msgid "safflower"
+msgstr "குசம்பப்பூ"
+
+msgid "safflower oil"
+msgstr "குசம்பப்பூ எண்ணை"
+
+msgid "saffron colour"
+msgstr "காவி நிறம்"
+
+msgid "sage"
+msgstr "அழிஞ்சில்"
+
+msgid "sailing"
+msgstr "மிதப்பு"
+
+msgid "sales order"
+msgstr "விற்பாணை"
+
+msgid "samarium"
+msgstr "வெண்நரைமம்"
+
+msgid "sandpaper"
+msgstr "உப்புக்காகிதம்"
+
+msgid "sanitary worker"
+msgstr "துப்புறவுத் தொழிலாளர்"
+
+msgid "saturation"
+msgstr "தெவிட்டல்"
+
+msgid "saturate"
+msgstr "தெவிண்டுபோ"
+
+msgid "saturn"
+msgstr "காரி"
+
+msgid "savanna"
+msgstr "வெப்பப்புல்வெளி"
+
+msgid "carperter's saw"
+msgstr "ரம்பம்"
+
+msgid "scaffolding"
+msgstr "சாரக்கட்டு"
+
+msgid "music scale"
+msgstr "மண்டிலம்"
+
+msgid "screen"
+msgstr "திரை"
+
+msgid "screw"
+msgstr "திருகாணி"
+
+msgid "stamp seal"
+msgstr "முத்திரை"
+
+msgid "sedan"
+msgstr "சரக்கறை சீருந்து"
+
+msgid "september"
+msgstr "மடங்கற்கன்னி"
+
+msgid "septillion"
+msgstr "எழுநுல்லியம்"
+
+msgid "set top box"
+msgstr "மேலமர்வுப் பெட்டி"
+
+msgid "sextillion"
+msgstr "அறுநுல்லியம்"
+
+msgid "shallow"
+msgstr "களப்பான"
+
+msgid "shampoo"
+msgstr "சீயநெய்"
+
+msgid "shaving cream"
+msgstr "மழிப்புக் களிம்பு"
+
+msgid "shell weapon"
+msgstr "எறிகணை"
+
+msgid "shepard"
+msgstr "இடையன்"
+
+msgid "ship"
+msgstr "கப்பல்"
+
+msgid "shoe"
+msgstr "மிதியடி"
+
+msgid "shoot of plant"
+msgstr "தண்டுக்கிளை"
+
+msgid "shopping cart"
+msgstr "வணிகத் தொகுப்பு"
+
+msgid "shorts"
+msgstr "அரைக்கால்சட்டை"
+
+msgid "show-case"
+msgstr "காட்சிப் பேழை"
+
+msgid "shower tap"
+msgstr "பீச்சுக்குழாய்"
+
+msgid "shutter"
+msgstr "சார்த்தி"
+
+msgid "shuttering"
+msgstr "சாரமைப்பு"
+
+msgid "shuttle-cock"
+msgstr "இறகுப்பந்து"
+
+msgid "shuttle badminton"
+msgstr "இறகுப்பந்தாட்டம்"
+
+msgid "silicon"
+msgstr "மண்ணியம்"
+
+msgid "silt"
+msgstr "வண்டல்"
+
+msgid "sink"
+msgstr "மித்தம்"
+
+msgid "selenite"
+msgstr "களிக்கல்"
+
+msgid "selenium"
+msgstr "செங்கந்தகம்"
+
+msgid "self-concious"
+msgstr "தன்னுணர்வுடன்"
+
+msgid "selfie"
+msgstr "தம் படம்"
+
+msgid "skipping"
+msgstr "கெந்துதல்"
+
+msgid "skipping rope"
+msgstr "கெந்துகயிறு"
+
+msgid "skull"
+msgstr "மண்டையோடு"
+
+msgid "smallpox"
+msgstr "பெரிய அம்மை"
+
+msgid "smart card"
+msgstr "விரைவூக்க அட்டை"
+
+msgid "socket"
+msgstr "தாங்குகுழி"
+
+msgid "electric socket"
+msgstr "மின்சார தாங்குகுழி"
+
+msgid "socks"
+msgstr "காலுறை"
+
+msgid "soda"
+msgstr "உவர்காரம்"
+
+msgid "saddle"
+msgstr "சேணம்"
+
+msgid "safety valve"
+msgstr "பாதுகாப்பு ஓரதர்"
+
+msgid "saffron"
+msgstr "குங்குமப்பூ"
+
+msgid "sago"
+msgstr "சவ்வரிசி"
+
+msgid "sarin"
+msgstr "சரணன்"
+
+msgid "sailing ship"
+msgstr "பாய்மரக் கப்பல்"
+
+msgid "sofa"
+msgstr "நீள் சாய்விருக்கை"
+
+msgid "salary"
+msgstr "சம்பளம்"
+
+msgid "saline soil"
+msgstr "களர்நிலம்"
+
+msgid "salinity"
+msgstr "களர்த்திறன்"
+
+msgid "solitary"
+msgstr "ஏகாந்தமான"
+
+msgid "soya"
+msgstr "சோயாமொச்சை"
+
+msgid "snow"
+msgstr "உறைமழை"
+
+msgid "snowfall"
+msgstr "பனிமழை"
+
+msgid "snooker"
+msgstr "கோல்மேசை"
+
+msgid "space"
+msgstr "விண்"
+
+msgid "space craft"
+msgstr "விண் ஓடம்"
+
+msgid "saliva"
+msgstr "உமிழ்நீர்"
+
+msgid "salt lake"
+msgstr "உப்பேரி"
+
+msgid "sample"
+msgstr "மாதிரி"
+
+msgid "sanction"
+msgstr "இசைவாணை"
+
+msgid "sandpaper tree"
+msgstr "உகா மரம்"
+
+msgid "sandstone"
+msgstr "மணப்பாறை"
+
+msgid "sandwich"
+msgstr "அடுக்கு ரொட்டி"
+
+msgid "sanitary napkin"
+msgstr "சுகாதாரக் குட்டை"
+
+msgid "sanskrit"
+msgstr "சங்கதம்"
+
+msgid "sap-wood"
+msgstr "மென்மரம்"
+
+msgid "spade"
+msgstr "மண்வெட்டி"
+
+msgid "span"
+msgstr "வீச்செல்லை"
+
+msgid "specialist"
+msgstr "களப்பணியாளர்"
+
+msgid "specialization"
+msgstr "களப்பணி"
+
+msgid "saphire"
+msgstr "மரகதம்"
+
+msgid "sardine"
+msgstr "சாலை மீன்"
+
+msgid "saturday"
+msgstr "காரிக்கிழமை"
+
+msgid "satellite"
+msgstr "செயற்கைக் கோள்"
+
+msgid "satin"
+msgstr "ஒண்பட்டு"
+
+msgid "satin-wood"
+msgstr "ஏமல்"
+
+msgid "flammable sprit"
+msgstr "எரிசாராயம்"
+
+msgid "sport utility vehicle"
+msgstr "கடுவழிப்பயன் மகிழுந்து"
+
+msgid "satire"
+msgstr "வசைச்செய்யுள்"
+
+msgid "satisfaction"
+msgstr "பொந்திகை"
+
+msgid "sauce"
+msgstr "சுவைச்சாறு"
+
+msgid "saucer"
+msgstr "ஏந்துதட்டு"
+
+msgid "spray"
+msgstr "தெளிப்பி"
+
+msgid "sprinkle"
+msgstr "தெளி"
+
+msgid "sprinkler"
+msgstr "தெளிப்பான்"
+
+msgid "squash racquets"
+msgstr "அறைப்பந்தாட்டம்"
+
+msgid "saw scaled viper"
+msgstr "சுருட்டைப் பாம்பு"
+
+msgid "saxophone"
+msgstr "கூம்பிசைக்க‌ருவி"
+
+msgid "scab"
+msgstr "பொருக்கு"
+
+msgid "scandal"
+msgstr "ஊர்வாய்"
+
+msgid "scandium"
+msgstr "காந்தியம்"
+
+msgid "staff member"
+msgstr "அலுவலர்"
+
+msgid "stainless steel"
+msgstr "துருவுறா எஃகு"
+
+msgid "standing order"
+msgstr "தொடராணை"
+
+msgid "stapler"
+msgstr "பிணிக்கை"
+
+msgid "scarecrow"
+msgstr "வெருளி"
+
+msgid "scarf"
+msgstr "கழுத்துக்குட்டை"
+
+msgid "scabbard"
+msgstr "வாளுறை"
+
+msgid "scanner"
+msgstr "வருடி"
+
+msgid "school"
+msgstr "பள்ளி"
+
+msgid "school fees"
+msgstr "பள்ளிக்கூடச் சம்பளம்"
+
+msgid "scissors"
+msgstr "கத்தரிக்கோல்"
+
+msgid "scooter"
+msgstr "துள்ளுந்து"
+
+msgid "scouts"
+msgstr "சாரணர்"
+
+msgid "screw gauge"
+msgstr "திருகுமானி"
+
+msgid "screwdriver"
+msgstr "திருப்புளி"
+
+msgid "sea"
+msgstr "கடல்"
+
+msgid "sea eagle"
+msgstr "ஆலா"
+
+msgid "sea gull"
+msgstr "கடற்புறா"
+
+msgid "seaborgium"
+msgstr "சிற்பியம்"
+
+msgid "seal"
+msgstr "கடல்நாய்"
+
+msgid "sea lion"
+msgstr "கடற்சிங்கம்"
+
+msgid "sea shell"
+msgstr "சிப்பி"
+
+msgid "seaman"
+msgstr "மாலுமி"
+
+msgid "sergeant"
+msgstr "செய்வகர்"
+
+msgid "season-ticket"
+msgstr "பருவச்சீட்டு"
+
+msgid "seat belt"
+msgstr "இருக்கை வார்"
+
+msgid "secreteriat"
+msgstr "தலைமைச் செயலகம்"
+
+msgid "seer fish"
+msgstr "சீலா மீன்"
+
+msgid "seniority"
+msgstr "பணிமூப்பு"
+
+msgid "sepal"
+msgstr "புல்லிதழ்"
+
+msgid "serendipity"
+msgstr "தற்செயற்கண்டுபிடிப்பு"
+
+msgid "serge"
+msgstr "ஈரிழைப் பன்னல்"
+
+msgid "sesame"
+msgstr "எள்ளு"
+
+msgid "session"
+msgstr "செற்றம்"
+
+msgid "sextant"
+msgstr "கோணமானி"
+
+msgid "shaft"
+msgstr "சுழல்தண்டு"
+
+msgid "shag"
+msgstr "அரிலி"
+
+msgid "shale clay"
+msgstr "மென்களிக்கல்"
+
+msgid "share-auto"
+msgstr "பங்குத் தானி"
+
+msgid "shark"
+msgstr "சுறாமீன்"
+
+msgid "shed"
+msgstr "கொட்டாரம்"
+
+msgid "sheep"
+msgstr "செம்மறி ஆடு"
+
+msgid "sheer"
+msgstr "படலநார்"
+
+msgid "sherbat"
+msgstr "நறுமட்டு"
+
+msgid "shine"
+msgstr "பளபளப்பு"
+
+msgid "shipping"
+msgstr "கடல்முகம்"
+
+msgid "shock absorber"
+msgstr "அதிர்வேற்பி"
+
+msgid "shopping"
+msgstr "வணிகம்"
+
+msgid "shopping basket"
+msgstr "வணிகக் கூடை"
+
+msgid "shrimp"
+msgstr "இரால்"
+
+msgid "shopping"
+msgstr "கடையியல்"
+
+msgid "signal light"
+msgstr "சைகை விளக்கு"
+
+msgid "sign board"
+msgstr "செய்தி பலகை"
+
+msgid "signs of life"
+msgstr "பேச்சுமூச்சு"
+
+msgid "silica"
+msgstr "மணல்மம்"
+
+msgid "silk"
+msgstr "பட்டு"
+
+msgid "silk-cotton"
+msgstr "இலவம்பஞ்சு"
+
+msgid "silk flower"
+msgstr "பட்டுக்கூடு"
+
+msgid "sim card"
+msgstr "செறிவட்டை"
+
+msgid "siphon"
+msgstr "இறைகுழாய்"
+
+msgid "sisal"
+msgstr "கதலையிழை"
+
+msgid "sketch pen"
+msgstr "வரையெழுதுகோல்"
+
+msgid "ski"
+msgstr "பனிச் சருக்கல்"
+
+msgid "skype"
+msgstr "காயலை"
+
+msgid "slate"
+msgstr "கற்பலகை"
+
+msgid "slogan"
+msgstr "சொலவம்"
+
+msgid "smartphone"
+msgstr "திறன்பேசி"
+
+msgid "smithy"
+msgstr "உலைக்களம்"
+
+msgid "snail"
+msgstr "நத்தை"
+
+msgid "snake gourd"
+msgstr "புடலங்காய்"
+
+msgid "soap"
+msgstr "வழலை"
+
+msgid "soap-nut"
+msgstr "மணிப்புங்கு"
+
+msgid "socket joint"
+msgstr "கிண்ணமூட்டு"
+
+msgid "sodium"
+msgstr "உவர்மம்"
+
+msgid "software"
+msgstr "மென்பொருள்"
+
+msgid "solute"
+msgstr "கரையம்"
+
+msgid "solvent"
+msgstr "கரைப்பான்"
+
+msgid "somersault"
+msgstr "குட்டிக்கரணம்"
+
+msgid "soor"
+msgstr "எக்காளம்"
+
+msgid "sophisticated"
+msgstr "மதிநுட்பமான"
+
+msgid "soup"
+msgstr "சப்புநீர்"
+
+msgid "soy-sauce"
+msgstr "சோயாமொச்சைக் குழம்பு"
+
+msgid "south pole"
+msgstr "தென் முனை"
+
+msgid "space shuttle"
+msgstr "விண்கலம்"
+
+msgid "spaghetti"
+msgstr "நூலப்பம்"
+
+msgid "spandex"
+msgstr "நெகிழிழை"
+
+msgid "spanner"
+msgstr "திருகி"
+
+msgid "spark"
+msgstr "தீப்பொறி"
+
+msgid "spark plug"
+msgstr "தீப்பொறிச்செருகி"
+
+msgid "spasm"
+msgstr "இசிவு"
+
+msgid "speaker"
+msgstr "ஒலிபெருக்கி"
+
+msgid "spectrum"
+msgstr "நிறமாலை"
+
+msgid "speculative trading"
+msgstr "யூக வணிகம்"
+
+msgid "spell-checker"
+msgstr "எழுத்தாயர்"
+
+msgid "spelling"
+msgstr "எழுத்துக்கோர்வை"
+
+msgid "sphere"
+msgstr "கோளம்"
+
+msgid "spine"
+msgstr "முள்ளெளும்பு"
+
+msgid "spitoon"
+msgstr "உமிழ்கலம்"
+
+msgid "spleen"
+msgstr "மண்ணீரல்"
+
+msgid "spoke"
+msgstr "ஆரக்கால்"
+
+msgid "sponsorship"
+msgstr "நல்கை"
+
+msgid "spool"
+msgstr "கண்டு"
+
+msgid "spoon"
+msgstr "கரண்டி"
+
+msgid "spring"
+msgstr "சுருள்"
+
+msgid "spyware"
+msgstr "ஒற்று மென்பொருள்"
+
+msgid "square"
+msgstr "நாற்கை"
+
+msgid "square yard"
+msgstr "குழி"
+
+msgid "squash gourd"
+msgstr "சீமைப்பூசனிக்காய்"
+
+msgid "squid"
+msgstr "ஊசிக் கணவாய்"
+
+msgid "stable"
+msgstr "நிலைப்பான"
+
+msgid "stalactite"
+msgstr "கசிதுளிவீழ்"
+
+msgid "stalagmite"
+msgstr "கசிதுளிப்படிவு"
+
+msgid "stag"
+msgstr "கலைமான்"
+
+msgid "staple"
+msgstr "பிணிப்பூசி"
+
+msgid "steel"
+msgstr "எஃகு"
+
+msgid "steamer"
+msgstr "நீராவிக்கப்பல்"
+
+msgid "steering"
+msgstr "சக்கரம் திருப்பான்"
+
+msgid "stenographer"
+msgstr "சுருக்கெழுத்தர்"
+
+msgid "sterlize"
+msgstr "கிருமிநீக்கம்"
+
+msgid "sterlization"
+msgstr "கிருமிநீக்கம் செய்"
+
+msgid "stereo"
+msgstr "இசைப்பெட்டி"
+
+msgid "steroid"
+msgstr "ஊக்கியம்"
+
+msgid "steward"
+msgstr "விமானப்பணியாளர்"
+
+msgid "stigmata"
+msgstr "மூச்சுத்துளை"
+
+msgid "stilts"
+msgstr "முட்டுக்கட்டை"
+
+msgid "stingray"
+msgstr "திருக்கை மீன்"
+
+msgid "stone-age"
+msgstr "கற்காலம்"
+
+msgid "stock market"
+msgstr "பங்குச்சந்தை"
+
+msgid "stork"
+msgstr "நாரை"
+
+msgid "stowaway travel"
+msgstr "புகுபயணம்"
+
+msgid "straight"
+msgstr "நேர்"
+
+msgid "strawberry"
+msgstr "செம்புற்றுப்பழம்"
+
+msgid "stealth"
+msgstr "மறைவியக்க"
+
+msgid "steam wash"
+msgstr "வெள்ளாவிச் சலவை"
+
+msgid "stencil"
+msgstr "வரையச்சு"
+
+msgid "star"
+msgstr "விண்மீன்"
+
+msgid "starch"
+msgstr "கஞ்சி"
+
+msgid "stationary"
+msgstr "நகராத"
+
+msgid "stationery"
+msgstr "எழுதுபொருள்"
+
+msgid "stereotype"
+msgstr "ஒரே மாதிரி சிந்த‌னை"
+
+msgid "stethoscope"
+msgstr "துடிப்புமானி"
+
+msgid "stream"
+msgstr "புனல்"
+
+msgid "statistics"
+msgstr "புள்ளியியல்"
+
+msgid "statistician"
+msgstr "புள்ளியியலர்"
+
+msgid "stool"
+msgstr "முக்காலி"
+
+msgid "stowaway luggage"
+msgstr "புகுசுமை"
+
+msgid "stowaway passenger"
+msgstr "புகுபயணி"
+
+msgid "stretcher"
+msgstr "டோலி"
+
+msgid "strip"
+msgstr "கீற்று"
+
+msgid "stroller"
+msgstr "இழுபெட்டி"
+
+msgid "studio"
+msgstr "நிழற்படமனை"
+
+msgid "sturgeon"
+msgstr "கோழிமீன்"
+
+msgid "stylus"
+msgstr "எழுத்தாணி"
+
+msgid "styrofoam"
+msgstr "மலக்கிய மெத்து"
+
+msgid "subcontinent"
+msgstr "துணைக் கண்டம்"
+
+msgid "sublet"
+msgstr "உள்வாடகை"
+
+msgid "sublimate"
+msgstr "பதங்கம்"
+
+msgid "sugar beet"
+msgstr "சர்க்ரைக் கிழங்கு"
+
+msgid "suitcase"
+msgstr "உடைப்பெட்டி"
+
+msgid "sulphur"
+msgstr "கந்தகம்"
+
+msgid "sultry"
+msgstr "புழக்கமான"
+
+msgid "sump"
+msgstr "கட்டுத் தொட்டி"
+
+msgid "sunberry"
+msgstr "மனத்தக்காளி"
+
+msgid "sunflower"
+msgstr "பொழுதுவணங்கி"
+
+msgid "sun"
+msgstr "கதிரவன்"
+
+msgid "sunday"
+msgstr "ஞாயிற்றுக்கிழமை"
+
+msgid "sunroof"
+msgstr "வெளிச்சக்கூரை"
+
+msgid "superpower"
+msgstr "வல்லரசு"
+
+msgid "superior venecava"
+msgstr "மேல்பெருஞ்சிரை"
+
+msgid "superstition"
+msgstr "மூடநம்பிக்கை"
+
+msgid "supersonic"
+msgstr "ஒலிமிகை"
+
+msgid "supplicant"
+msgstr "இரந்து வேண்டுநர்"
+
+msgid "supplication"
+msgstr "இரந்து வேண்டுதல்"
+
+msgid "surfing"
+msgstr "கடல்சருக்கல்"
+
+msgid "surpeti"
+msgstr "சுரப்பெட்டி"
+
+msgid "surplus"
+msgstr "மிகை"
+
+msgid "surveyor"
+msgstr "நிலஅளவர்"
+
+msgid "suspension"
+msgstr "தொங்கல்"
+
+msgid "suttle"
+msgstr "நாசூக்கான, நாசூக்காக"
+
+msgid "swamp"
+msgstr "சதுப்பு நிலம்"
+
+msgid "swan"
+msgstr "சோறு"
+
+msgid "sweater"
+msgstr "வெயர்வி"
+
+msgid "sweet sorghum"
+msgstr "சர்க்கரைச் சோளம்"
+
+msgid "syllable"
+msgstr "அசை"
+
+msgid "syllabus"
+msgstr "பாடத்திட்டம்"
+
+msgid "symptom"
+msgstr "அறிகுறி"
+
+msgid "synthetic fibre"
+msgstr "செய்தொடை நார்"
+
+msgid "syphilis"
+msgstr "கிரந்தி நோய்"
+
+msgid "system analyst"
+msgstr "முறைமை பகுப்பாய்வர்"
+
+msgid "strait"
+msgstr "நீர்சந்தி"
+
+msgid "bottle straw"
+msgstr "உறிஞ்சி"
+
+msgid "hay straw"
+msgstr "வைக்கோல்"
+
+msgid "stencil-wheel"
+msgstr "கோலத்தட்டு"
+
+msgid "stevia"
+msgstr "சர்க்கரைத் துளசி"
+
+msgid "stratosphere"
+msgstr "படை வளிமண்டலம்"
+
+msgid "strontium"
+msgstr "சிதறியம்"
+
+msgid "cricket stumps"
+msgstr "குச்சம்"
+
+msgid "submarine"
+msgstr "நீழ்மூழ்கிக் கப்பல்"
+
+msgid "sugar"
+msgstr "சர்க்கரை"
+
+msgid "suggest"
+msgstr "பரிந்துரை"
+
+msgid "suggestion"
+msgstr "பரிந்துரைப்பு"
+
+msgid "suit"
+msgstr "சூட்டிகையுடை"
+
+msgid "superstructure"
+msgstr "மேல்கட்டமைப்பு"
+
+msgid "supply to"
+msgstr "அளிப்பு"
+
+msgid "supply from"
+msgstr "வரத்து"
+
+msgid "sun-shade"
+msgstr "சாளரக் கூரை"
+
+msgid "surgeon"
+msgstr "பண்டுவர்"
+
+msgid "surgery"
+msgstr "பண்டுவம்"
+
+msgid "land survey"
+msgstr "நில அளவை"
+
+msgid "sustain"
+msgstr "பேண்"
+
+msgid "sustainability"
+msgstr "பேணியலுகை"
+
+msgid "switch"
+msgstr "நிலைமாற்றி"
+
+msgid "disease syndrome"
+msgstr "இணைப்போக்கு"
+
+msgid "t-shirt"
+msgstr "கொசுவுசட்டை"
+
+msgid "tank"
+msgstr "தொட்டி"
+
+msgid "tanker"
+msgstr "பீரங்கி வண்டி"
+
+msgid "tantallum"
+msgstr "இஞ்சாயம்"
+
+msgid "tar"
+msgstr "கரிக்கீல்"
+
+msgid "tarpaulin"
+msgstr "கீல்ப்பாய்"
+
+msgid "tavern"
+msgstr "தவறணை"
+
+msgid "tea"
+msgstr "தேநீர்"
+
+msgid "tea leaf"
+msgstr "தேயிலை"
+
+msgid "technetium"
+msgstr "செய்தனிமம்"
+
+msgid "technician"
+msgstr "தொழ்நுட்பப் பணியாளர்"
+
+msgid "teflon"
+msgstr "வினைவிப்படியம்"
+
+msgid "tele-conference"
+msgstr "தொலையாடல்"
+
+msgid "teleconferencing"
+msgstr "தொலையாடல்"
+
+msgid "telegram"
+msgstr "தொலைவரி"
+
+msgid "tellurium"
+msgstr "வெண்கந்தகம்"
+
+msgid "temple"
+msgstr "கோயில்"
+
+msgid "temple of the head"
+msgstr "நெற்றிப்பொட்டு"
+
+msgid "table"
+msgstr "மேசை"
+
+msgid "table tennis"
+msgstr "மேசைப்பந்தாட்டம்"
+
+msgid "tablet"
+msgstr "மாத்திரை"
+
+msgid "tadpole"
+msgstr "தலைப்பிரட்டை"
+
+msgid "taffeta"
+msgstr "மெதுபட்டு"
+
+msgid "tailor"
+msgstr "தையலர்"
+
+msgid "talc"
+msgstr "பட்டுக்கல்"
+
+msgid "talcum powder"
+msgstr "பூத்தூள்"
+
+msgid "tangerine"
+msgstr "கமலாப்பழம்"
+
+msgid "tanker lorry"
+msgstr "தொட்டிச் சரக்குந்து"
+
+msgid "tanker ship"
+msgstr "தொட்டிக் கப்பல்"
+
+msgid "tapioca"
+msgstr "மரவள்ளிக்கிழங்கு"
+
+msgid "tartan"
+msgstr "கம்பாயம்"
+
+msgid "task"
+msgstr "செய்பணி"
+
+msgid "tattoo"
+msgstr "பச்சைக்குத்து"
+
+msgid "taxi"
+msgstr "வாடகி"
+
+msgid "tapeworm"
+msgstr "தட்டைப்புழு"
+
+msgid "tape recorder"
+msgstr "நாடாப் பதிவி"
+
+msgid "telephone"
+msgstr "தொலைபேசி"
+
+msgid "tele-text"
+msgstr "தொலையுரை"
+
+msgid "television"
+msgstr "தொலைகாட்சி"
+
+msgid "telex"
+msgstr "தொலைப்பதிவு"
+
+msgid "teller"
+msgstr "காசாளர்"
+
+msgid "template"
+msgstr "வார்ப்புரு"
+
+msgid "tendon"
+msgstr "தசைநாண்"
+
+msgid "ten billion"
+msgstr "பத்து இருமநுல்லியம்"
+
+msgid "ten quadrillion"
+msgstr "நால்மநுல்லியம்"
+
+msgid "ten trillion"
+msgstr "பத்து மும்மநுல்லியம்"
+
+msgid "terbium"
+msgstr "தென்னிரும்பு"
+
+msgid "terra-cotta"
+msgstr "சுடுமண்"
+
+msgid "tennessine"
+msgstr "திணிவியம்"
+
+msgid "tennis"
+msgstr "வரிப்பந்தாட்டம்"
+
+msgid "terrapin"
+msgstr "கிணற்றாமை"
+
+msgid "terry cotton"
+msgstr "நுணங்கைப் பருத்தி"
+
+msgid "thermate"
+msgstr "மீவெப்பேற்றி"
+
+msgid "thallium"
+msgstr "தெள்ளீயம்"
+
+msgid "thaw"
+msgstr "கெட்டியுருகு"
+
+msgid "termite"
+msgstr "மீவெப்பூட்டி"
+
+msgid "thermos flask"
+msgstr "அடைக்குடுவை"
+
+msgid "thermosphere"
+msgstr "வெப்ப வளிமண்டலம்"
+
+msgid "thorium"
+msgstr "இடியம்"
+
+msgid "thulium"
+msgstr "துலங்கியம்"
+
+msgid "test cricket"
+msgstr "தேர்வு துடுப்பாட்டம்"
+
+msgid "transparency sheet"
+msgstr "தெளிதகடு"
+
+msgid "trial pack"
+msgstr "தேர்வுச் சிப்பம்"
+
+msgid "testimony"
+msgstr "வாக்குமூலம்"
+
+msgid "tetanus"
+msgstr "தசைவிறைப்பு"
+
+msgid "tetanus shot"
+msgstr "ஏற்பு ஊசி"
+
+msgid "ticket"
+msgstr "பயணச்சீட்டு"
+
+msgid "tide"
+msgstr "கடல் ஓதம்"
+
+msgid "floor tile"
+msgstr "தரை ஓடு"
+
+msgid "time-table"
+msgstr "கால அட்டவணை"
+
+msgid "tin can"
+msgstr "தகர பொட்டி"
+
+msgid "tin"
+msgstr "வெள்ளீயம்"
+
+msgid "tissue"
+msgstr "இழையம்"
+
+msgid "tissue paper"
+msgstr "மெல்லிழுப்புத்தாள்"
+
+msgid "tethering"
+msgstr "திடரிணைப்பு"
+
+msgid "textbook"
+msgstr "பாடநூல்"
+
+msgid "theatre"
+msgstr "திரையரங்கு"
+
+msgid "thermal power"
+msgstr "அனல் மின்சாரம்"
+
+msgid "thermite"
+msgstr "மீவெப்பூட்டி"
+
+msgid "throng"
+msgstr "குழுமு"
+
+msgid "thermocole"
+msgstr "மலக்கிய மெத்து"
+
+msgid "thermometer"
+msgstr "வெப்பமானி"
+
+msgid "thinner"
+msgstr "மெலிபூச்சு"
+
+msgid "tic tac toe"
+msgstr "நடுக்கம்"
+
+msgid "thumb drive"
+msgstr "விரலி"
+
+msgid "thumbnail"
+msgstr "சிறுபடம்"
+
+msgid "thursday"
+msgstr "வியாழக்கிழமை"
+
+msgid "ticket checker"
+msgstr "சீட்டு நோக்கர்"
+
+msgid "ticket counter"
+msgstr "சீட்டு முகப்பு"
+
+msgid "tillage"
+msgstr "கமத்தொழில்"
+
+msgid "tincture"
+msgstr "கறையம்"
+
+msgid "tindaloo"
+msgstr "கார வடிக்கறி"
+
+msgid "titanium"
+msgstr "வெண்வெள்ளி"
+
+msgid "toaster"
+msgstr "ரொட்டிச் சுடுவி"
+
+msgid "tongue-twister"
+msgstr "நாநெகிழி"
+
+msgid "tips"
+msgstr "கொசுறு"
+
+msgid "toad"
+msgstr "தேரை"
+
+msgid "tobacco"
+msgstr "புகையிலை"
+
+msgid "token"
+msgstr "கிள்ளாக்கு"
+
+msgid "tolerance"
+msgstr "சகிப்பு"
+
+msgid "toll gate"
+msgstr "சுங்கச்சாவடி"
+
+msgid "toothbrush"
+msgstr "பல் தூரிகை"
+
+msgid "toothpaste"
+msgstr "பற்பசை"
+
+msgid "topaz"
+msgstr "புச்பராகம்"
+
+msgid "torchlight"
+msgstr "சுடர்விளக்கு"
+
+msgid "tornado"
+msgstr "ஊசிப்புயல்"
+
+msgid "torpedo"
+msgstr "கடற்கணை"
+
+msgid "touch-screen"
+msgstr "தொடுவுணர்திரை"
+
+msgid "touchstone"
+msgstr "கட்டளைக்கல்"
+
+msgid "tourism"
+msgstr "சுற்றுலா"
+
+msgid "tourist"
+msgstr "சுற்றுலாப் பயணி"
+
+msgid "tourist visa"
+msgstr "சுற்றுலா இசைவு"
+
+msgid "tower"
+msgstr "கோபுரம்"
+
+msgid "railtrack"
+msgstr "தண்டவாளம்"
+
+msgid "vehicular traffic"
+msgstr "துரவுகை"
+
+msgid "carriage train"
+msgstr "தொடர்வண்டி"
+
+msgid "tonic"
+msgstr "தெம்பூட்டி"
+
+msgid "topology"
+msgstr "நிலவுருவியல்"
+
+msgid "trace"
+msgstr "சுவடுகாண்"
+
+msgid "traceability"
+msgstr "சுவடுகாணல்"
+
+msgid "track"
+msgstr "தடங்காண்"
+
+msgid "trackability"
+msgstr "தடங்காணல்"
+
+msgid "tracking number"
+msgstr "தடங்காணெண்"
+
+msgid "traction"
+msgstr "துரக்கம்"
+
+msgid "tracker"
+msgstr "தடங்காட்டி"
+
+msgid "tractor"
+msgstr "ஏருந்து"
+
+msgid "trade-mark"
+msgstr "வர்த்தகக் குறி"
+
+msgid "traffic light"
+msgstr "சைகை விளக்கு"
+
+msgid "traffic signal"
+msgstr "சைகை விளக்கு"
+
+msgid "trainee"
+msgstr "பயிலாளர்"
+
+msgid "train"
+msgstr "பயிற்சியளி"
+
+msgid "trailer"
+msgstr "இழுவை"
+
+msgid "trillion"
+msgstr "மும்மநுல்லியம்"
+
+msgid "trainer"
+msgstr "பயிற்றாளர்"
+
+msgid "traitor"
+msgstr "துரோகி"
+
+msgid "tram"
+msgstr "கம்பிப் பேருந்து"
+
+msgid "transformer"
+msgstr "மின்மாற்றி"
+
+msgid "transponder"
+msgstr "செலுத்துவாங்கி"
+
+msgid "travel agency"
+msgstr "பயண முகமையகம்"
+
+msgid "travel agent"
+msgstr "பயண முகவர்"
+
+msgid "traveller's checque"
+msgstr "பயணியர் காசோலை"
+
+msgid "transfer passenger"
+msgstr "மாற்று பயணி"
+
+msgid "transit passenger"
+msgstr "இடைநிற் பயணி"
+
+msgid "transit lounge"
+msgstr "மாற்றுப்பயணியர் ஓய்வறை"
+
+msgid "travel"
+msgstr "செல்கை"
+
+msgid "travellator"
+msgstr "ந‌க‌ர்ந‌டைமேடை"
+
+msgid "tray"
+msgstr "தட்டம்"
+
+msgid "treadmill"
+msgstr "ஓடுபொறி"
+
+msgid "treason"
+msgstr "துரோகம்"
+
+msgid "treasury"
+msgstr "கருவூலம்"
+
+msgid "tremor"
+msgstr "நிலநடுக்கம்"
+
+msgid "transparent"
+msgstr "ஒளிப்புகு"
+
+msgid "physics"
+msgstr "இயற்பியல்"
+
+msgid "trinitro toluene"
+msgstr "முத்தழைமவீயுயிரக வர்ணியம்"
+
+msgid "gun trigger"
+msgstr "துப்பாக்கி விசைவில்"
+
+msgid "tribunal"
+msgstr "நடுவர் மன்றம்"
+
+msgid "trial and error"
+msgstr "முயன்று தெரிதல்"
+
+msgid "trijet"
+msgstr "முத்தாரை வானூர்தி"
+
+msgid "trip"
+msgstr "பயணம்"
+
+msgid "trip-sheet"
+msgstr "நடைமுறி"
+
+msgid "trolley"
+msgstr "தள்ளுவண்டி"
+
+msgid "tropic of cancer"
+msgstr "கடக கோடு"
+
+msgid "tropic of capricorn"
+msgstr "மகர கோடு"
+
+msgid "truck"
+msgstr "சுமையுந்து"
+
+msgid "true mahogani"
+msgstr "சீமைநுக்கு"
+
+msgid "tropics"
+msgstr "வெப்பமண்டலம்"
+
+msgid "tropical"
+msgstr "வெப்பமண்டல"
+
+msgid "tropopause"
+msgstr "அடி வளிமண்டலம்"
+
+msgid "troposphere"
+msgstr "அடி வளிமண்டலம்"
+
+msgid "trustee"
+msgstr "அரங்காவலர்"
+
+msgid "trumpet"
+msgstr "தாரைக்களம்"
+
+msgid "truss"
+msgstr "தூலக்கட்டு"
+
+msgid "tsunami"
+msgstr "ஆழிப்பேரலை"
+
+msgid "tubelight"
+msgstr "குழல்விளக்கு"
+
+msgid "tuberculosis"
+msgstr "காசநோய்"
+
+msgid "tuberose"
+msgstr "நிலச்சம்பங்கி"
+
+msgid "tuck"
+msgstr "கொசுவு"
+
+msgid "tuesday"
+msgstr "செவ்வாய்க்கிழமை"
+
+msgid "tulip"
+msgstr "காட்டுச்செண்பகம்"
+
+msgid "tumbler"
+msgstr "லோட்டா"
+
+msgid "tumour"
+msgstr "கழலை"
+
+msgid "tune"
+msgstr "சந்தம்"
+
+msgid "turbulence"
+msgstr "கொந்தளிப்பு"
+
+msgid "turmeric"
+msgstr "மஞ்சள்"
+
+msgid "turning lathe"
+msgstr "கடைமரம்"
+
+msgid "turning point"
+msgstr "திருப்பும் முனை"
+
+msgid "turnip"
+msgstr "கோசுக்கிழ‌ங்கு"
+
+msgid "turquoise"
+msgstr "பேரோசனை"
+
+msgid "tusker elephant"
+msgstr "கொம்பன்யானை"
+
+msgid "tusker"
+msgstr "கொம்பன்"
+
+msgid "tuxedo"
+msgstr "தக்கவுடை"
+
+msgid "tube"
+msgstr "தூம்பு"
+
+msgid "tungsten"
+msgstr "மெல்லிழையம்"
+
+msgid "turpentine"
+msgstr "கற்பூரநெய்"
+
+msgid "tyranny"
+msgstr "கொடுங்கொண்மை"
+
+msgid "tyre"
+msgstr "உருளிப்பட்டை"
+
+msgid "twig"
+msgstr "சுள்ளி"
+
+msgid "twilight"
+msgstr "அந்தியொளி"
+
+msgid "twine"
+msgstr "சரடு"
+
+msgid "twitter"
+msgstr "கீச்சகம்"
+
+msgid "typewriter"
+msgstr "தட்டச்சுப்பொறி"
+
+msgid "typhoid"
+msgstr "குடற்காய்ச்சல்"
+
+msgid "typhoon"
+msgstr "அசுரப்புயல்"
+
+msgid "typist"
+msgstr "தட்டச்சர்"
+
+msgid "ultraviolet"
+msgstr "புறஊதா"
+
+msgid "ultrasonic"
+msgstr "கேளாஒலி"
+
+msgid "ultrasound"
+msgstr "ஊடொலி"
+
+msgid "unarmed"
+msgstr "நிராயுதபாணி"
+
+msgid "umbrella"
+msgstr "குடை"
+
+msgid "umbrella thorn"
+msgstr "நாட்டு ஓடை"
+
+msgid "united nations"
+msgstr "ஐக்கிய நாட்டு அவை"
+
+msgid "universe"
+msgstr "அண்டம்"
+
+msgid "university"
+msgstr "பல்கலைக்கழகம்"
+
+msgid "uniform dress"
+msgstr "சீருடை"
+
+msgid "update"
+msgstr "புதுப்பிப்பு"
+
+msgid "uranus"
+msgstr "அகநீலன்"
+
+msgid "unanymously"
+msgstr "ஏகோபித்து"
+
+msgid "unananymous"
+msgstr "ஏகோபித்த"
+
+msgid "ureter"
+msgstr "சிறுநீர்ப் புறவழி"
+
+msgid "urgent"
+msgstr "அவசரமான"
+
+msgid "urn"
+msgstr "தாழி"
+
+msgid "useless"
+msgstr "உதவாக்கரை"
+
+msgid "usb"
+msgstr "ஊடிணை"
+
+msgid "uterus"
+msgstr "கருப்பை"
+
+msgid "utensil"
+msgstr "பாத்திரம்"
+
+msgid "vacabulary"
+msgstr "சொற்றொகை"
+
+msgid "uranium"
+msgstr "விண்ணிமம்"
+
+msgid "vanadium"
+msgstr "வெண்ணாகம்"
+
+msgid "varicose veins"
+msgstr "சுருட்டை நரம்பு"
+
+msgid "varnish"
+msgstr "மெருகெண்ணை"
+
+msgid "velvet"
+msgstr "பூம்பட்டு"
+
+msgid "velveteen"
+msgstr "பூம்பருத்தி"
+
+msgid "vacuum cleaner"
+msgstr "வெற்றிடவுறிஞ்சி"
+
+msgid "venus"
+msgstr "வெள்ளி"
+
+msgid "virgo"
+msgstr "ஆயிழை"
+
+msgid "viscose"
+msgstr "பாகிழை"
+
+msgid "volatile"
+msgstr "வெடிமையுடைய"
+
+msgid "volatility"
+msgstr "வெடிமை"
+
+msgid "viscous"
+msgstr "பிசுக்கானம்"
+
+msgid "viscosity"
+msgstr "பிசுக்குமை"
+
+msgid "value"
+msgstr "விழிமியம்"
+
+msgid "valve"
+msgstr "ஓரதர்"
+
+msgid "van"
+msgstr "கூடுந்து"
+
+msgid "vanilla"
+msgstr "வனிக்கோடி"
+
+msgid "vein"
+msgstr "சிரை"
+
+msgid "ventilator"
+msgstr "காலதர்"
+
+msgid "verandah"
+msgstr "ஆளோடி"
+
+msgid "volume"
+msgstr "கொள்ளளவு"
+
+msgid "sound volume"
+msgstr "ஒலி விசை"
+
+msgid "vomit"
+msgstr "வாந்தி"
+
+msgid "verdigris"
+msgstr "செம்புக்களிம்பு"
+
+msgid "vermifuge"
+msgstr "புழுக்கொல்லி"
+
+msgid "version"
+msgstr "பதிப்பு"
+
+msgid "vestibule"
+msgstr "இணைப்புக்கூண்டு"
+
+msgid "veteran"
+msgstr "மறவர்"
+
+msgid "veteran's day"
+msgstr "மறவர் நாள்"
+
+msgid "viber"
+msgstr "வாய்புறம்"
+
+msgid "video"
+msgstr "காணொளி"
+
+msgid "video coach"
+msgstr "படக்காட்சிப் பேருந்து"
+
+msgid "video cassette"
+msgstr "ஒளிப்பேழை"
+
+msgid "video conferencing"
+msgstr "கானொளிக் கருத்தரங்கு"
+
+msgid "video phone"
+msgstr "காணொளிப்பேசி"
+
+msgid "vinegar"
+msgstr "புளிக்காடி"
+
+msgid "viola"
+msgstr "விழைவீணை"
+
+msgid "violin"
+msgstr "விழையாழ்"
+
+msgid "violin-cello"
+msgstr "சிலையாழ்"
+
+msgid "vindaloo"
+msgstr "வடிக்கறி"
+
+msgid "viper"
+msgstr "விரியன்"
+
+msgid "virus"
+msgstr "நச்சியம்"
+
+msgid "visa"
+msgstr "இசைவுச்சீட்டு"
+
+msgid "visibility"
+msgstr "விழிமை"
+
+msgid "visiting card"
+msgstr "முகப்பு அட்டை"
+
+msgid "vitrified tile"
+msgstr "வல்லோடு"
+
+msgid "voodoo"
+msgstr "சூனியம்"
+
+msgid "vow"
+msgstr "நேர்த்திக்கடன்"
+
+msgid "vulture"
+msgstr "பிணந்தின்னிக் கழுகு"
+
+msgid "waffle"
+msgstr "குழிவப்பம்"
+
+msgid "wallabee"
+msgstr "பைமுயல்"
+
+msgid "wallform"
+msgstr "சுவரச்சு"
+
+msgid "walkman"
+msgstr "நடைகேட்பி"
+
+msgid "walkie-talkie"
+msgstr "நடைபேசி"
+
+msgid "walking stick"
+msgstr "ஊன்றுகோல்"
+
+msgid "walrus"
+msgstr "கடற்பசு"
+
+msgid "wander"
+msgstr "சுற்றித்திரி"
+
+msgid "warrant"
+msgstr "பற்றாணை"
+
+msgid "wardrobe"
+msgstr "ஆடை அலமாரி"
+
+msgid "warehouse"
+msgstr "கிட்டங்கி"
+
+msgid "wart"
+msgstr "மரு"
+
+msgid "wash area"
+msgstr "அலம்பகம்"
+
+msgid "wash basin"
+msgstr "கழுவுதொட்டி"
+
+msgid "washerman"
+msgstr "கட்டாடி"
+
+msgid "washer"
+msgstr "அடைப்பி"
+
+msgid "washing machine"
+msgstr "சலவை இயந்திரம்"
+
+msgid "washing powder"
+msgstr "சலவைத்தூள்"
+
+msgid "water-colour"
+msgstr "நீர்வண்ணம்"
+
+msgid "water cooler"
+msgstr "நீர்க்குளிரி"
+
+msgid "water heater"
+msgstr "நீர்வெம்மி"
+
+msgid "water inflow"
+msgstr "நீர்வரத்து"
+
+msgid "water-proof"
+msgstr "நீர்ப்புகா"
+
+msgid "water resistant"
+msgstr "நீரெதிர்"
+
+msgid "water supply"
+msgstr "நீர்வழங்கல்"
+
+msgid "watermark"
+msgstr "நீர்க்குறி"
+
+msgid "wax"
+msgstr "மெழுகு"
+
+msgid "ear wax"
+msgstr "காதுக்குறும்பி"
+
+msgid "waybill"
+msgstr "ஊர்திப் பார‌ப்ப‌ட்டி"
+
+msgid "watermelon"
+msgstr "கொம்மட்டிப்பழம்"
+
+msgid "watchman"
+msgstr "காவலாளி"
+
+msgid "watch tower"
+msgstr "காவல்மேடை"
+
+msgid "wax bath"
+msgstr "மெழுகுத் தொட்டி"
+
+msgid "weasel"
+msgstr "மரநாய்"
+
+msgid "weather"
+msgstr "வானிலை"
+
+msgid "web cam"
+msgstr "இணையப் படப்க்கருவி"
+
+msgid "website"
+msgstr "இணையதளம்"
+
+msgid "wedge"
+msgstr "ஆப்பு"
+
+msgid "wednesday"
+msgstr "அறிவன்கிழமை"
+
+msgid "wechat"
+msgstr "அளாவி"
+
+msgid "weekly magazine"
+msgstr "வாரிகை"
+
+msgid "weld"
+msgstr "பற்றவை"
+
+msgid "welding"
+msgstr "பற்றவைத்தல்"
+
+msgid "welding rod"
+msgstr "பற்றுக்கோல்"
+
+msgid "wet"
+msgstr "ஈரமான"
+
+msgid "wetness"
+msgstr "ஈரம்"
+
+msgid "wet land"
+msgstr "நஞ்செய்"
+
+msgid "wet grinder"
+msgstr "மின்னுரல்"
+
+msgid "whale"
+msgstr "திமிங்கலம்"
+
+msgid "wheat"
+msgstr "கோதுமை"
+
+msgid "whatsapp"
+msgstr "என்னாப்பு"
+
+msgid "wheat bran"
+msgstr "கோதுமைத் தவிடு"
+
+msgid "whey"
+msgstr "தயிர்த் தெளிவு"
+
+msgid "whet"
+msgstr "சாணைபிடி"
+
+msgid "whetstone"
+msgstr "சாணைக்கல்"
+
+msgid "whip"
+msgstr "கசை"
+
+msgid "whirlpool"
+msgstr "நீர்ச்சுழல்"
+
+msgid "whisky"
+msgstr "ஊறல்"
+
+msgid "white"
+msgstr "வெள்ளை"
+
+msgid "white cement"
+msgstr "வெண்காரை"
+
+msgid "white dwarf"
+msgstr "வெண் குறுமீன்"
+
+msgid "white gold"
+msgstr "வெள்ளித் தங்கம்"
+
+msgid "white vitriol"
+msgstr "வெள்ளைத் துத்தம்"
+
+msgid "wholesale"
+msgstr "மொத்தமான"
+
+msgid "whisper"
+msgstr "குசுகுசுப்பு"
+
+msgid "whistle"
+msgstr "ஊதல்"
+
+msgid "cricket wicket"
+msgstr "இலக்கு"
+
+msgid "widow"
+msgstr "கைம்பெண்"
+
+msgid "widower"
+msgstr "தாரமிழந்தவன்"
+
+msgid "wifi"
+msgstr "அருகலை"
+
+msgid "wild jasmine"
+msgstr "காட்டுமல்லிகை"
+
+msgid "winch"
+msgstr "மின்னிழுவை"
+
+msgid "wind sock"
+msgstr "திசைக்கூம்பு"
+
+msgid "windmill"
+msgstr "காற்றாலை"
+
+msgid "windward"
+msgstr "வாப்பர்"
+
+msgid "wine"
+msgstr "தேறல்"
+
+msgid "wintergreen"
+msgstr "கோலக்காய்"
+
+msgid "wiper"
+msgstr "துடைப்பான்"
+
+msgid "wire gauze"
+msgstr "சல்லடைத் தகடு"
+
+msgid "wire transfer"
+msgstr "கம்பி பரிமாற்றம்"
+
+msgid "wireless"
+msgstr "கம்பியில்லா"
+
+msgid "woodpecker"
+msgstr "மரங்கொத்தி"
+
+msgid "wood polish"
+msgstr "மரவெண்ணை"
+
+msgid "word processor"
+msgstr "சொற்செயலி"
+
+msgid "wolf"
+msgstr "ஓநாய்"
+
+msgid "wool"
+msgstr "கம்பளம்"
+
+msgid "work"
+msgstr "வேலை"
+
+msgid "workman"
+msgstr "வேலையாள்"
+
+msgid "workmanship"
+msgstr "வேலைப்பாடு"
+
+msgid "worth"
+msgstr "பெறுமானம்"
+
+msgid "wreath"
+msgstr "மலர்வளையம்"
+
+msgid "wrist"
+msgstr "மணிக்கட்டு"
+
+msgid "x-ray"
+msgstr "ஊடுக்கதிர்"
+
+msgid "x-ray photograph"
+msgstr "கதிர்ப்படம்"
+
+msgid "xebec"
+msgstr "முப்பாய்ப்படகு"
+
+msgid "xenon"
+msgstr "அணுகன்"
+
+msgid "xerophyte"
+msgstr "பாலைவனத் செடி"
+
+msgid "xerox"
+msgstr "நகலி"
+
+msgid "xylem"
+msgstr "மரவியம்"
+
+msgid "xylophone"
+msgstr "சுர‌ இசைக்க‌ருவி"
+
+msgid "yak"
+msgstr "கவரிமான்"
+
+msgid "yam"
+msgstr "சேனைக்கிழங்கு"
+
+msgid "yard"
+msgstr "இரு முழம்"
+
+msgid "yardstick"
+msgstr "அளவுகோல்"
+
+msgid "yardboat"
+msgstr "பருமல்"
+
+msgid "yardship"
+msgstr "குறுக்குமரம்"
+
+msgid "yarn"
+msgstr "நூலிழை"
+
+msgid "yaght"
+msgstr "செலவி"
+
+msgid "year-book"
+msgstr "ஆண்டுநூல்"
+
+msgid "yeast"
+msgstr "புளிச்சொண்டி"
+
+msgid "yeastball"
+msgstr "சொண்டிச்சோறு"
+
+msgid "yellow"
+msgstr "மஞ்சள்"
+
+msgid "yellow oleander"
+msgstr "சீமையலரி"
+
+msgid "yoghurt"
+msgstr "வெண்தயிர்"
+
+msgid "yolk"
+msgstr "மஞ்சள் கரு"
+
+msgid "yttrium"
+msgstr "திகழியம்"
+
+msgid "ytterbium"
+msgstr "திகழ்வெள்ளீயம்"
+
+msgid "youtube"
+msgstr "வலையொளி"
+
+msgid "zamindar"
+msgstr "பண்ணையார்"
+
+msgid "zigzag"
+msgstr "எதிர்புதிரான"
+
+msgid "zillion"
+msgstr "பன்மனுல்லியம்"
+
+msgid "zinc"
+msgstr "துத்தநாகம்"
+
+msgid "zinnia"
+msgstr "நிறவாதவப்பூ"
+
+msgid "zip lock bag"
+msgstr "பிணையடைப் பை"
+
+msgid "zip"
+msgstr "பற்பிணை"
+
+msgid "zipper"
+msgstr "பற்பிணை"
+
+msgid "zirconium"
+msgstr "வன்தங்கம்"
+
+msgid "zucchini"
+msgstr "சீமைச் சுரைக்காய்"
+
+msgid "zodiac"
+msgstr "ஞாயிற்று வீதி"
+
+msgid "zone"
+msgstr "வட்டாரம்"
+
+msgid "zoo"
+msgstr "விலங்குப் பூங்கா"

@@ -1,0 +1,456 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (YesWiki)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 17:51+0200\n"
+"PO-Revision-Date: 2025-06-10 21:52\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/yeswiki/yeswiki-extension-tag/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+msgctxt "return[]->'TAGS_TAGS'"
+msgid "Mots clés"
+msgstr "மோட்ச் க்ளெச்"
+
+msgctxt "return[]->'TAGS_ACTION_ADMINTAGS'"
+msgid "Action {{admintags ...}}"
+msgstr "செயல் {{admintags ...}}"
+
+msgctxt "return[]->'TAGS_ACTION_ADMINTAGS_ONLY_FOR_ADMINS'"
+msgid "l'action est réservée au groupe des administrateurs"
+msgstr "நிர்வாகிகள் குழுவிற்கு இந்த நடவடிக்கை ஒதுக்கப்பட்டுள்ளது"
+
+msgctxt "return[]->'TAGS_NO_WRITE_ACCESS'"
+msgid "Vous n'avez pas accès en écriture à cette page !"
+msgstr "இந்த பக்கத்திற்கு உங்களுக்கு அணுகல் இல்லை!"
+
+msgctxt "return[]->'TAGS_FROM_THIS_PAGE'"
+msgid "de cette page"
+msgstr "டி செட் பக்கம்"
+
+msgctxt "return[]->'TAGS_FROM_ALL_PAGES'"
+msgid "de toutes les pages"
+msgstr "டி டூட்ச் லெச் பக்கங்கள்"
+
+msgctxt "return[]->'TAGS_PRESENT_IN'"
+msgid "présent dans"
+msgstr "தற்போது"
+
+msgctxt "return[]->'TAGS_DELETE_MINUSCULE'"
+msgid "supprimer"
+msgstr "SUPPRIMER"
+
+msgctxt "return[]->'TAGS_CANCEL'"
+msgid "Annuler"
+msgstr "ANNULER"
+
+msgctxt "return[]->'TAGS_MODIFY'"
+msgid "Modifier"
+msgstr "மாற்றியமைப்பாளர்"
+
+msgctxt "return[]->'TAGS_ADD_TAGS'"
+msgid "Ajouter mots clés en utilisant la touche entrée"
+msgstr "ENTER விசையைப் பயன்படுத்தி முக்கிய வார்த்தைகளைச் சேர்க்கவும்"
+
+msgctxt "return[]->'TAGS_COMMENTS_ACTIVATED'"
+msgid "Les commentaires de cette page ont été activés."
+msgstr "இந்த பக்கத்தில் உள்ள கருத்துகள் செயல்படுத்தப்பட்டன."
+
+msgctxt "return[]->'TAGS_ACTIVATE_COMMENTS'"
+msgid "Activer les commentaires"
+msgstr "ஆக்டிவர் லெச் கருத்துரை"
+
+msgctxt "return[]->'TAGS_ACTIVATE_COMMENTS_ON_THIS_PAGE'"
+msgid "Activer les commentaires sur cette page"
+msgstr "ஆக்டிவர் லெச் கருத்துரு சர் செட் பக்கம்"
+
+msgctxt "return[]->'TAGS_DESACTIVATE_COMMENTS'"
+msgid "Désactiver les commentaires"
+msgstr "கருத்துகளை முடக்கு"
+
+msgctxt "return[]->'TAGS_DESACTIVATE_COMMENTS_ON_THIS_PAGE'"
+msgid "Désactiver les commentaires sur cette page"
+msgstr "இந்த பக்கத்தில் கருத்துகளை முடக்கு"
+
+msgctxt "return[]->'TAGS_COMMENTS_ON_THIS_PAGE'"
+msgid "Commentaires sur cette page."
+msgstr "வர்ணனைகள் சுர் செட் பக்கம்."
+
+msgctxt "return[]->'TAGS_COMMENTS_DESACTIVATED'"
+msgid "Commentaires désactivés."
+msgstr "கருத்துகள் முடக்கப்பட்டன."
+
+msgctxt "return[]->'TAGS_SEE_ALL_PAGES_WITH_THIS_TAGS'"
+msgid "Voir toutes les pages contenant ce mot clé"
+msgstr "இந்த முக்கிய சொல்லைக் கொண்ட அனைத்து பக்கங்களையும் காண்க"
+
+msgctxt "return[]->'TAGS_ALERT_PAGE_ALREADY_MODIFIED'"
+msgid ""
+"ALERTE : Cette page a été modifiée par quelqu'un d'autre pendant que vous "
+"l'éditiez.<br />Veuillez copier vos changements et rééditer cette page."
+msgstr ""
+"எச்சரிக்கை: நீங்கள் அதை உருவாக்கும் போது இந்த பக்கம் வேறொருவரால் "
+"மாற்றியமைக்கப்பட்டுள்ளது. <br /> தயவுசெய்து உங்கள் மாற்றங்களை நகலெடுத்து "
+"இந்த பக்கத்தை மீண்டும் வெளியிடுங்கள்."
+
+msgctxt "return[]->'TAGS_ANSWER_THIS_COMMENT'"
+msgid "Répondre à ce commentaire"
+msgstr "இந்த கருத்துக்கு பதிலளிக்கவும்"
+
+msgctxt "return[]->'TAGS_DATE_FORMAT'"
+msgid "le d.m.Y &ag\\rave; H:i:s"
+msgstr "லே என் & அக்ரேவ்; எச்: நான்: எச்"
+
+msgctxt "return[]->'TAGS_WRITE_YOUR_COMMENT_HERE'"
+msgid "Ecrire votre commentaire ici..."
+msgstr "எக்ரைர் வோட்ரே வர்ணனை ஐசிஐ ..."
+
+msgctxt "return[]->'TAGS_ADD_YOUR_COMMENT'"
+msgid "Ajouter votre commentaire"
+msgstr "அசூட்டர் வோட்ரே வர்ணனை"
+
+msgctxt "return[]->'TAGS_ACTION_FILTERTAGS'"
+msgid "Action {{filtertags ...}}"
+msgstr "செயல் {{filtertags ...}}"
+
+msgctxt "return[]->'TAGS_NO_FILTERS'"
+msgid "pas de paramètre \"filter1\" trouvé, alors qu'il est obligatoire."
+msgstr "\"வடிகட்டி 1\" அளவுரு இல்லை, அது கட்டாயமானது."
+
+msgctxt "return[]->'TAGS_ONLY_ONE_DOUBLEPOINT'"
+msgid ""
+"il ne peut y avoir qu'une fois le double point (:) pour indiquer le label, "
+"plusieurs trouvés."
+msgstr ""
+"ஒரு முறை மட்டுமே இரட்டை புள்ளி இருக்க முடியும் (:) லேபிளைக் குறிக்க, பல "
+"காணப்படுகின்றன."
+
+msgctxt "return[]->'TAGS_ACTION_INCLUDEPAGES'"
+msgid "Action {{includepages ...}}"
+msgstr "செயல் {{includepages ...}}"
+
+msgctxt "return[]->'TAGS_NO_PARAM_PAGES'"
+msgid "pas de paramètre \"pages\" trouvé, alors qu'il est obligatoire."
+msgstr "\"பக்கங்கள்\" அளவுரு இல்லை, அது கட்டாயமானது."
+
+msgctxt "return[]->'TAGS_NO_RESULTS'"
+msgid "Pas de résultats avec ces mots clés."
+msgstr "இந்த முக்கிய வார்த்தைகளுடன் முடிவுகள் இல்லை."
+
+msgctxt "return[]->'TAGS_RESULTS'"
+msgid "résultats"
+msgstr "முடிவுகள்"
+
+msgctxt "return[]->'TAGS_FILTER'"
+msgid "Filtrer"
+msgstr "வடிகட்டி"
+
+msgctxt "return[]->'TAGS_CONTAINING_TAG'"
+msgid "avec le mot clé"
+msgstr "முக்கிய சொல்லுடன்"
+
+msgctxt "return[]->'TAGS_ONE_PAGE'"
+msgid "Une page"
+msgstr "Une பக்கம்"
+
+msgctxt "return[]->'TAGS_PAGES'"
+msgid "pages"
+msgstr "பக்கங்கள்"
+
+msgctxt "return[]->'TAGS_NO_TAG'"
+msgid "Aucun mot clé utilisé pour le moment"
+msgstr "Aucun mot clé utilise bour le தருணம்"
+
+msgctxt "return[]->'TAGS_TOTAL_NB_PAGES'"
+msgid "Un total de %{nb_total} pages a été trouvé"
+msgstr "மொத்தம் %{nb_total} பக்கங்கள் காணப்பட்டன"
+
+msgctxt "return[]->'TAGS_ONE_PAGE_FOUND'"
+msgid "Une page a été trouvée"
+msgstr "ஒரு பக்கம் கண்டுபிடிக்கப்பட்டது"
+
+msgctxt "return[]->'TAGS_NO_PAGE'"
+msgid "Aucune page trouvée"
+msgstr "எந்தப் பக்கமும் கிடைக்கவில்லை"
+
+msgctxt "return[]->'TAGS_WITH_KEYWORD'"
+msgid "avec le mot clé"
+msgstr "முக்கிய சொல்லுடன்"
+
+msgctxt "return[]->'TAGS_WITH_KEYWORD_SEPARATOR'"
+msgid "et"
+msgstr "et"
+
+msgctxt "return[]->'TAGS_RSS_FEED_FOR_NEW_PAGES_WITH_TAGS'"
+msgid "Flux RSS des nouvelles pages avec les tags"
+msgstr "ஃப்ளக்ச் ஆர்எச்எச் டெச் நோவல்ச் பக்கங்கள் அவெக் லெச் குறிச்சொற்கள்"
+
+msgctxt "return[]->'TAGS_YOUR_EBOOK'"
+msgid "Votre Ebook"
+msgstr "வோர்ட்ரே மின்புத்தகம்"
+
+msgctxt "return[]->'TAGS_SPAM_RISK'"
+msgid "Il faut activer javascript pour ne pas être considéré comme du spam."
+msgstr ""
+"ச்பேம் என்று கருதப்படாதபடி நீங்கள் சாவாச்கிரிப்டை செயல்படுத்த வேண்டும்."
+
+msgctxt "return[]->'TAGS_GENERATE_EBOOK'"
+msgid "Générer l'Ebook"
+msgstr "மின்புத்தகத்தை உருவாக்குங்கள்"
+
+msgctxt "return[]->'TAGS_EXPORT_PAGES_INFO'"
+msgid "Sélectionnez vos pages pour l'Ebook en cliquant sur "
+msgstr ""
+"சொடுக்கு செய்வதன் மூலம் மின்புத்தகத்திற்கான உங்கள் பக்கங்களைத் "
+"தேர்ந்தெடுக்கவும்"
+
+msgctxt "return[]->'TAGS_ORDER_PAGES_INFO'"
+msgid "Déplacez les pages pour les mettre dans l'ordre qui vous convient."
+msgstr "பக்கங்களை உங்களுக்கு ஏற்ற வரிசையில் வைக்க நகர்த்தவும்."
+
+msgctxt "return[]->'TAGS_EBOOK_TITLE'"
+msgid "Titre de l'ouvrage"
+msgstr "டைட்ரே டி எல் ஓவ்ரேச்"
+
+msgctxt "return[]->'TAGS_EBOOK_DESC'"
+msgid "Description"
+msgstr "விவரம்"
+
+msgctxt "return[]->'TAGS_EBOOK_AUTHOR'"
+msgid "Prénom puis nom de l'auteur"
+msgstr "முதல் பெயர் பின்னர் ஆசிரியரின் பெயர்"
+
+msgctxt "return[]->'TAGS_EXAMPLE_AUTHOR'"
+msgid "Ex: Victor Hugo"
+msgstr "எ.கா: விக்டர் அ்யூகோ"
+
+msgctxt "return[]->'TAGS_EBOOK_BIBLIO_AUTHOR'"
+msgid "Nom de l'auteur, virgule prénom"
+msgstr "ஆசிரியரின் பெயர், முதல் பெயர்"
+
+msgctxt "return[]->'TAGS_EXAMPLE_BIBLIO_AUTHOR'"
+msgid "Ex: Hugo, Victor"
+msgstr "எ.கா: அ்யூகோ, விக்டர்"
+
+msgctxt "return[]->'TAGS_EBOOK_COVER_IMAGE'"
+msgid "Lien vers l'image de couverture de l'ouvrage"
+msgstr "Lien vers l'image de couverture de l'ovrage"
+
+msgctxt "return[]->'TAGS_NO_TITLE_FOUND'"
+msgid "ERREUR : Le titre n'a pas été renseigné."
+msgstr "பிழை: தலைப்பு தெரிவிக்கப்படவில்லை."
+
+msgctxt "return[]->'TAGS_NO_DESC_FOUND'"
+msgid "ERREUR : La description n'a pas été renseigné."
+msgstr "பிழை: விளக்கம் தெரிவிக்கப்படவில்லை."
+
+msgctxt "return[]->'TAGS_NO_AUTHOR_FOUND'"
+msgid "ERREUR : L'auteur n'a pas été renseigné."
+msgstr "பிழை: ஆசிரியருக்கு அறிவிக்கப்படவில்லை."
+
+msgctxt "return[]->'TAGS_NO_BIBLIO_AUTHOR_FOUND'"
+msgid "ERREUR : L'auteur (version biblio) n'a pas été renseigné."
+msgstr "பிழை: ஆசிரியர் (பிப்லியோ பதிப்பு) தெரிவிக்கப்படவில்லை."
+
+msgctxt "return[]->'TAGS_NO_IMAGE_FOUND'"
+msgid "ERREUR : Le lien vers l'image de couverture n'a pas été renseigné."
+msgstr "பிழை: கவர் படத்திற்கான இணைப்பு தெரிவிக்கப்படவில்லை."
+
+msgctxt "return[]->'TAGS_NOT_IMAGE_FILE'"
+msgid ""
+"ERREUR : Le lien vers l'image de couverture n'est pas une image avec "
+"l'extension .jpg."
+msgstr ""
+"எர்ரூர்: லு லீன் வெர்சச் எல்'அம்பேம் டி கூர்வெர்ட்ரே என் ஈச்ட் பாச் யூன் "
+"இமேச் அவெக் எல் நீட்டிப்பு .jpg."
+
+msgctxt "return[]->'TAGS_EBOOK_PAGE_CREATED'"
+msgid "La page de l'Ebook a été créée avec succès"
+msgstr "மின்புத்தக பக்கம் வெற்றிகரமாக உருவாக்கப்பட்டது"
+
+msgctxt "return[]->'TAGS_GOTO_EBOOK_PAGE'"
+msgid "Aller voir la page : "
+msgstr "அல்லர் Voir LA பக்கம்: "
+
+msgctxt "return[]->'TAGS_FILTER_PAGES'"
+msgid "Filtrer les pages"
+msgstr "குறைந்த பக்கங்களை வடிகட்டவும்"
+
+msgctxt "return[]->'TAGS_SEE_PAGE'"
+msgid "Voir la page"
+msgstr "Voir LA பக்கம்"
+
+msgctxt "return[]->'TAGS_SELECT_PAGE'"
+msgid "Sélectionner la page"
+msgstr "பக்கத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgctxt "return[]->'TAGS_DELETE_PAGE'"
+msgid "Enlever la page"
+msgstr "என்லீவர் லா பக்கம்"
+
+msgctxt "return[]->'TAGS_DELETE'"
+msgid "Supprimer"
+msgstr "SUPPRIMER"
+
+msgctxt "return[]->'TAGS_FOR_THE_EBOOK'"
+msgid "pour l&apos;Ebook"
+msgstr "எல் & அப்போச்; மின்புத்தகம் ஊற்றவும்"
+
+msgctxt "return[]->'TAGS_FROM_THE_EBOOK'"
+msgid "de l&apos;Ebook"
+msgstr "டி எல் & அப்போச்; மின்புத்தகம்"
+
+msgctxt "return[]->'TAGS_AVAILABLE_PAGES'"
+msgid "Pages disponibles"
+msgstr "பக்கங்கள் அகற்றும்"
+
+msgctxt "return[]->'TAGS_START_PAGE'"
+msgid "Page d'introduction"
+msgstr "பக்கம் டி அறிமுகம்"
+
+msgctxt "return[]->'TAGS_END_PAGE'"
+msgid "Page de fin"
+msgstr "பேச் டி ஃபின்"
+
+msgctxt "return[]->'TAGS_PUBLISHED_UNDER_CREATIVE_COMMONS_BY_SA'"
+msgid "Cet ouvrage est publié sous licence Creative Commons BY SA."
+msgstr "இந்த வேலை ச உரிமம் மூலம் கிரியேட்டிவ் காமன்ச் கீழ் வெளியிடப்படுகிறது."
+
+msgctxt "return[]->'TAGS_BY'"
+msgid "Par"
+msgstr "Par"
+
+msgctxt "return[]->'TAGS_ABOUT_THIS_EBOOK'"
+msgid "Information sur cet ouvrage"
+msgstr "செய்தி சுர் cet ouvrage"
+
+msgctxt "return[]->'TAGS_DOWNLOAD_EPUB'"
+msgid ".epub"
+msgstr ".epub"
+
+msgctxt "return[]->'TAGS_DOWNLOAD_PDF'"
+msgid ".pdf"
+msgstr ".pdf"
+
+msgctxt "return[]->'TAGS_DOWNLOAD'"
+msgid "Télécharger"
+msgstr "Télécharger"
+
+msgctxt "return[]->'TAGS_CONTENT_VISIBLE_ONLINE_FROM_PAGE'"
+msgid "Contenu en ligne sur la page"
+msgstr "கான்டெனு என் லிக்னே சுர் லா பக்கம்"
+
+msgctxt "return[]->'TAGS_NO_EBOOK_METADATAS'"
+msgid ""
+"Cette page ne possède pas les métadonnées nécessaires pour créer l'ebook."
+msgstr "இந்த பக்கத்தில் மின்புத்தகத்தை உருவாக்க தேவையான மேனிலை தரவு இல்லை."
+
+msgctxt "return[]->'TAGS_NO_EBOOK_FOUND'"
+msgid "Pas d'ebook trouvé."
+msgstr "எந்த புத்தகமும் கிடைக்கவில்லை."
+
+msgctxt "return[]->'TAGS_HIDDEN_CONTENT'"
+msgid "Contenu masqué"
+msgstr "கான்டெனு மாச்குவே"
+
+msgctxt "return[]->'AB_tags_group_label'"
+msgid "Gestion des tags"
+msgstr "கெச்டியன் டெச் குறிச்சொற்கள்"
+
+msgctxt "return[]->'AB_tags_admintag_label'"
+msgid "Gestion des tags"
+msgstr "கெச்டியன் டெச் குறிச்சொற்கள்"
+
+msgctxt "return[]->'AB_tags_listpagestag_label'"
+msgid "Liste des pages par tag"
+msgstr "பட்டியல் டெச் பக்கங்கள் பார் குறிச்சொல்"
+
+msgctxt "return[]->'AB_tags_listpagestag_type_label'"
+msgid "Type"
+msgstr "வகை"
+
+msgctxt "return[]->'AB_tags_listpagestag_type_all'"
+msgid "toutes les pages et les fiches du wiki"
+msgstr "டூட்ச் லெச் பக்கங்கள் மற்றும் லெச் ஃபிடச் டு விக்கி"
+
+msgctxt "return[]->'AB_tags_listpagestag_type_wiki'"
+msgid "uniquement les pages du wiki"
+msgstr "தனித்துவமான லெச் பக்கங்கள் டு விக்கி"
+
+msgctxt "return[]->'AB_tags_listpagestag_type_bazar'"
+msgid "uniquement les fiches des formulaires"
+msgstr "தனித்துவமான லெச் ஃபிடச் டெச் ஃபார்முலேர்ச்"
+
+msgctxt "return[]->'AB_tags_listpagestag_tags_label'"
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+msgctxt "return[]->'AB_tags_listpagestag_tags_hint'"
+msgid "séparés par des virgules"
+msgstr "sépares par des கன்னங்கள்"
+
+msgctxt "return[]->'AB_tags_listpagestag_nb_label'"
+msgid "Nombre de pages"
+msgstr "நோம்ப்ரே டி பக்கங்கள்"
+
+msgctxt "return[]->'AB_tags_listpagestag_tri_label'"
+msgid "Tri"
+msgstr "ட்ரை"
+
+msgctxt "return[]->'AB_tags_listpagestag_tri_date'"
+msgid "tri par date décroissante"
+msgstr "ட்ரை சம தேதி décroissante"
+
+msgctxt "return[]->'AB_tags_listpagestag_tri_alpha'"
+msgid "tri par ordre alphabétique"
+msgstr "ட்ரை பார் ஆர்ட்ரே ஆல்பாபெடிக்"
+
+msgctxt "return[]->'AB_tags_listpagestag_template_label'"
+msgid "template"
+msgstr "வார்ப்புரு"
+
+msgctxt "return[]->'AB_tags_listpagestag_template_list'"
+msgid "liste"
+msgstr "பட்டியல்"
+
+msgctxt "return[]->'AB_tags_listpagestag_template_list_panel'"
+msgid "liste avec encadré"
+msgstr "பட்டியல் அவெக் என்காட்ரே"
+
+msgctxt "return[]->'AB_tags_listpagestag_template_list_num'"
+msgid "liste avec puces"
+msgstr "பட்டியல் அவெக் பியூச்"
+
+msgctxt "return[]->'AB_tags_listpagestag_shownumberinfo_label'"
+msgid "afficher le nombre de pages"
+msgstr "afficher le nombre de பக்கங்கள்"
+
+msgctxt "return[]->'AB_tags_listpagestag_nuagetag_label'"
+msgid "nuage de tags"
+msgstr "nuage டி குறிச்சொற்கள்"
+
+msgctxt "return[]->'AB_tags_listpagestag_rss_label'"
+msgid "lien rss vers la liste pour des tags donnés"
+msgstr "lien rss vers vers la liste bour des குறிச்சொற்கள் donnes"
+
+msgctxt "return[]->'AB_tags_listpagestag_nbclasses_label'"
+msgid "nombre de classes CSS disponibles pour le nuage"
+msgstr "நோம்ப்ரே டி வகுப்புகள் சிஎச்எச் டிச்போனிபில்கள் லு நியூசை ஊற்றுகின்றன"
+
+msgctxt "return[]->'AB_tags_nuagetag_tri_shuffle'"
+msgid "aléatoire"
+msgstr "அலாடோயர்"
+
+msgctxt "return[]->'EDIT_CONFIG_HINT_HIDE_KEYWORDS'"
+msgid "Cacher les mots-clés en bas des pages (true ou false)"
+msgstr "கேச்சர் லெச் மோட்ச்-கிளெச் என் பாச் டெச் பக்கங்கள் (உண்மையான தவறான)"
+
+msgctxt "return[]->'EDIT_CONFIG_GROUP_TAGS'"
+msgid "Mots-clés (tags)"
+msgstr "MOTS-CLES (குறிச்சொற்கள்)"

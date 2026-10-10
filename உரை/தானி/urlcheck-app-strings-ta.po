@@ -1,0 +1,1990 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (URLCheck)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-04 16:29+0200\n"
+"PO-Revision-Date: 2025-08-05 20:36\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/urlcheck/app-strings/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#.         Translator(s) name:
+#.         If you create or update a translation, add how you want to be
+#. credited here.
+#.         For multiple translators, separate them by semicolon.
+#.         Example: <string name="translators">John Doe; Jane Doe</string>
+#. If you create or update a translation, add how you want to be credited
+#. here.
+#. For multiple translators, separate them by semicolon.
+#. Example: "John Doe; Jane Doe"
+#, java-printf-format
+msgctxt "translators"
+msgid "TrianguloY"
+msgstr "முக்கோண"
+
+#.         Locale name:
+#.         Write the locale name in the locale language, for users that
+#. doesn't know english. For example 'Español' instead of 'Spanish'.
+#.         IMPORTANT!: If not translated, the translation will be omitted.
+#. Write the locale name in the locale language, for users that doesn't know
+#. english. For example 'Español' instead of 'Spanish'
+#, java-printf-format
+msgctxt "locale"
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+#.         main
+#, java-printf-format
+msgctxt "txt_info"
+msgid ""
+"This app acts as an intermediary when opening clicked URL links. A dialog "
+"with some info about the link is shown when choosing this app to open it. "
+"Press the module button below to check and configure all available modules."
+msgstr ""
+"சொடுக்கு செய்யப்பட்ட முகவரி இணைப்புகளைத் திறக்கும்போது இந்த பயன்பாடு "
+"இடைத்தரகராக செயல்படுகிறது. இந்த பயன்பாட்டைத் திறக்கத் தேர்ந்தெடுக்கும்போது "
+"இணைப்பைப் பற்றிய சில தகவல்களைக் கொண்ட உரையாடல் காண்பிக்கப்படும். "
+"கிடைக்கக்கூடிய அனைத்து தொகுதிகளையும் சரிபார்க்கவும் உள்ளமைக்கவும் கீழே உள்ள "
+"தொகுதி பொத்தானை அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "txt_sample"
+msgid "Press the link below to test it:"
+msgstr "அதைச் சோதிக்க கீழே உள்ள இணைப்பை அழுத்தவும்:"
+
+#, java-printf-format
+msgctxt "a_modules"
+msgid "Modules"
+msgstr "தொகுதிகள்"
+
+#, java-printf-format
+msgctxt "a_settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "a_about"
+msgid "About"
+msgstr "பற்றி"
+
+#.         about
+#, java-printf-format
+msgctxt "txt_about"
+msgid ""
+"App created by %1$s.\n"
+"\n"
+"Contributions: %2$s.\n"
+"Translations: %3$s."
+msgstr ""
+"%1$s-ஆல் உருவாக்கப்பட்ட பயன்பாடு.\n"
+"\n"
+" பங்களிப்புகள்: %2$s.\n"
+" மொழிபெயர்ப்புகள்: %3$s."
+
+#, java-printf-format
+msgctxt "link_blog"
+msgid "%s's blog"
+msgstr "%s-இன் வலைப்பதிவு"
+
+#, java-printf-format
+msgctxt "link_changelog"
+msgid "Changelog"
+msgstr "மாற்றபதிவு"
+
+#, java-printf-format
+msgctxt "link_source"
+msgid "Source code"
+msgstr "மூலக் குறியீடு"
+
+#, java-printf-format
+msgctxt "link_privacy"
+msgid "Privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
+
+#.         modules
+#, java-printf-format
+msgctxt "txt_conf"
+msgid ""
+"Here are all the available modules, where you can check their description "
+"and settings. You can also reorder, toggle the title visibility and "
+"enable/disable them."
+msgstr ""
+"கிடைக்கக்கூடிய அனைத்து தொகுதிகளும் இங்கே உள்ளன, அங்கு அவற்றின் விளக்கம் "
+"மற்றும் அமைப்புகளை நீங்கள் சரிபார்க்கலாம். நீங்கள் மறுவரிசைப்படுத்தலாம், "
+"தலைப்பு தெரிவுநிலையை மாற்றலாம் மற்றும் அவற்றை இயக்கலாம்/முடக்கலாம்."
+
+#, java-printf-format
+msgctxt "toast_cantEnable"
+msgid "Can't enable the module: %s"
+msgstr "தொகுதியை இயக்க முடியாது: %s"
+
+#, java-printf-format
+msgctxt "menu_resetOrder"
+msgid "Reset order"
+msgstr "ஆர்டரை மீட்டமை"
+
+#, java-printf-format
+msgctxt "menu_toggleDecorations"
+msgid "Toggle all titles"
+msgstr "எல்லா தலைப்புகளையும் மாற்றவும்"
+
+#, java-printf-format
+msgctxt "desc_up"
+msgid "Move up"
+msgstr "மேலே செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "desc_down"
+msgid "Move down"
+msgstr "கீழே செல்லுங்கள்"
+
+#, java-printf-format
+msgctxt "desc_decorations"
+msgid "Show/hide title"
+msgstr "தலைப்பைக் காட்டு/மறைக்க"
+
+#, java-printf-format
+msgctxt "desc_enable"
+msgid "Enable/disable module"
+msgstr "தொகுதியை இயக்கவும்/முடக்கவும்"
+
+#.         settings
+#, java-printf-format
+msgctxt "txt_openLinks"
+msgid ""
+"Open links on this app: Over the years Android has changed the way to "
+"configure it, and differs between versions. Find below all available "
+"settings for your device, if links are not being opened on this app try them"
+" all."
+msgstr ""
+"இந்த பயன்பாட்டில் திறந்த இணைப்புகள்: பல ஆண்டுகளாக ஆண்ட்ராய்டு அதை உள்ளமைக்க "
+"வழியை மாற்றியுள்ளது, மேலும் பதிப்புகளுக்கு இடையில் வேறுபடுகிறது. இந்த "
+"பயன்பாட்டில் இணைப்புகள் திறக்கப்படாவிட்டால், உங்கள் சாதனத்திற்கான "
+"கிடைக்கக்கூடிய அனைத்து அமைப்புகளுக்கும் கீழே கண்டுபிடி, அவை அனைத்தையும் "
+"முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "btn_setBrowser"
+msgid "Set as default browser"
+msgstr "இயல்புநிலை உலாவியாக அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "toast_defaultSet"
+msgid "The app is now the default web browser"
+msgstr "பயன்பாடு இப்போது இயல்புநிலை வலை உலாவி"
+
+#, java-printf-format
+msgctxt "btn_configureBrowser"
+msgid "Default web browser"
+msgstr "இயல்புநிலை வலை உலாவி"
+
+#, java-printf-format
+msgctxt "btn_linksSettings"
+msgid "Open supported links"
+msgstr "உதவி இணைப்புகளைத் திறக்கவும்"
+
+#, java-printf-format
+msgctxt "btn_androidSettings"
+msgid "Android app settings"
+msgstr "ஆண்ட்ராய்டு பயன்பாட்டு அமைப்புகள்"
+
+#, java-printf-format
+msgctxt "txt_theme"
+msgid "Theme:"
+msgstr "தீம்:"
+
+#, java-printf-format
+msgctxt "spin_darkTheme"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, java-printf-format
+msgctxt "spin_lightTheme"
+msgid "Light"
+msgstr "ஒளி"
+
+#, java-printf-format
+msgctxt "txt_width"
+msgid ""
+"Dialog width:\n"
+"Warning! Small values may hide screen elements."
+msgstr ""
+"உரையாடல் அகலம்:\n"
+" எச்சரிக்கை! சிறிய மதிப்புகள் திரை கூறுகளை மறைக்கக்கூடும்."
+
+#, java-printf-format
+msgctxt "spin_fullWidth"
+msgid "Full"
+msgstr "முழு"
+
+#, java-printf-format
+msgctxt "spin_dynamicWidth"
+msgid "Dynamic"
+msgstr "மாறும்"
+
+#, java-printf-format
+msgctxt "txt_locale"
+msgid "Locale:"
+msgstr "இடம்:"
+
+#, java-printf-format
+msgctxt "txt_animation"
+msgid "Enable animations"
+msgstr "அனிமேசன்களை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "txt_processText"
+msgid ""
+"Sync url with editable text (when the app is opened by long tapping text on "
+"an input textbox)"
+msgstr ""
+"திருத்தக்கூடிய உரையுடன் முகவரி ஐ ஒத்திசைக்கவும் (உள்ளீட்டு உரைப்பெட்டியில் "
+"நீண்ட தட்டுவதன் மூலம் பயன்பாடு திறக்கப்படும் போது)"
+
+#, java-printf-format
+msgctxt "btn_tutorialSettings"
+msgid "Repeat tutorial"
+msgstr "டுடோரியலை மீண்டும் செய்யவும்"
+
+#, java-printf-format
+msgctxt "btn_backupRestore"
+msgid "Backup / Restore"
+msgstr "காப்புப்பிரதி / மீட்டமை"
+
+#.         Backup / Restore
+#, java-printf-format
+msgctxt "bck_mn_advanced"
+msgid "Show advanced options"
+msgstr "மேம்பட்ட விருப்பங்களைக் காட்டு"
+
+#, java-printf-format
+msgctxt "btn_backup"
+msgid "Backup"
+msgstr "காப்புப்பிரதி"
+
+#, java-printf-format
+msgctxt "btn_restore"
+msgid "Restore"
+msgstr "மீட்டெடு"
+
+#, java-printf-format
+msgctxt "btn_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, java-printf-format
+msgctxt "bkp_description"
+msgid ""
+"Choose which elements to backup/restore.\n"
+"When restoring, if the backup was created without it, existing ones will be kept."
+msgstr ""
+"காப்புப்பிரதி/மீட்டமைக்க எந்த கூறுகளைத் தேர்வுசெய்க.\n"
+" மீட்டமைக்கும்போது, அது இல்லாமல் காப்புப்பிரதி உருவாக்கப்பட்டால், ஏற்கனவே உள்ளவை வைக்கப்படும்."
+
+#, java-printf-format
+msgctxt "bkp_data"
+msgid ""
+"Data: Standard application data. Things like enabled modules, json "
+"configurations, etc. Will not include secrets nor cache."
+msgstr ""
+"தரவு: நிலையான பயன்பாட்டு தரவு. இயக்கப்பட்ட தொகுதிகள், சாதொபொகு உள்ளமைவுகள் "
+"போன்றவற்றில் ரகசியங்கள் அல்லது தற்காலிக சேமிப்பு இருக்காது."
+
+#, java-printf-format
+msgctxt "bkp_data_prefs"
+msgid "Preferences: Data saved as preferences."
+msgstr "விருப்பத்தேர்வுகள்: தரவு விருப்பங்களாக சேமிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "bkp_data_files"
+msgid "Files: Data saved as files."
+msgstr "கோப்புகள்: தரவு கோப்புகளாக சேமிக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "bkp_secrets"
+msgid ""
+"Secrets: Data considered 'secret', like the VirusTotal api key or the log."
+msgstr ""
+"ரகசியங்கள்: வைரச்டாட்டல் பநிஇ விசை அல்லது பதிவு போன்ற 'ரகசியமாக' கருதப்படும்"
+" தரவு."
+
+#, java-printf-format
+msgctxt "bjp_cache"
+msgid ""
+"Cache: Data that can be easily downloaded/generated, like the hosts "
+"database. Enabling this option may increase the backup size notably."
+msgstr ""
+"கேச்: ஓச்ட்கள் தரவுத்தளத்தைப் போல எளிதாக பதிவிறக்கம் செய்ய/உருவாக்கக்கூடிய "
+"தரவு. இந்த விருப்பத்தை செயல்படுத்துவது காப்பு அளவை குறிப்பாக "
+"அதிகரிக்கக்கூடும்."
+
+#, java-printf-format
+msgctxt "bck_restoreDelete"
+msgid ""
+"Delete elements before restoring. Note that preferences and some files with "
+"default values may not exist, so disabling this option will merge the "
+"existing elements with the backup ones in unexpected ways. Disable if you "
+"know what you are doing."
+msgstr ""
+"மீட்டமைப்பதற்கு முன் கூறுகளை நீக்கு. விருப்பத்தேர்வுகள் மற்றும் இயல்புநிலை "
+"மதிப்புகளைக் கொண்ட சில கோப்புகள் இருக்காது என்பதை நினைவில் கொள்க, எனவே இந்த "
+"விருப்பத்தை முடக்குவது ஏற்கனவே உள்ள கூறுகளை காப்பு மூலம் எதிர்பாராத வழிகளில்"
+" ஒன்றிணைக்கும். நீங்கள் என்ன செய்கிறீர்கள் என்று உங்களுக்குத் தெரிந்தால் "
+"முடக்கு."
+
+#, java-printf-format
+msgctxt "bck_ignoreNewer"
+msgid "Allow backups created from newer app versions."
+msgstr ""
+"புதிய பயன்பாட்டு பதிப்புகளிலிருந்து உருவாக்கப்பட்ட காப்புப்பிரதிகளை "
+"அனுமதிக்கவும்."
+
+#, java-printf-format
+msgctxt "bck_newer"
+msgid "Canceled. The backup was created with a newer app version."
+msgstr ""
+"ரத்து செய்யப்பட்டது. புதிய பயன்பாட்டு பதிப்பில் காப்புப்பிரதி "
+"உருவாக்கப்பட்டது."
+
+#, java-printf-format
+msgctxt "bck_chooseFile"
+msgid "Choose backup file"
+msgstr "காப்பு கோப்பைத் தேர்வுசெய்க"
+
+#, java-printf-format
+msgctxt "bck_backupOk"
+msgid "Backup created"
+msgstr "காப்புப்பிரதி உருவாக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "bck_backupError"
+msgid ""
+"Unable to create backup, try to choose a different location for the file."
+msgstr ""
+"காப்புப்பிரதியை உருவாக்க முடியவில்லை, கோப்பிற்கு வேறு இடத்தைத் தேர்வு செய்ய "
+"முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "bck_restoreTitle"
+msgid "Restore backup"
+msgstr "காப்புப்பிரதியை மீட்டமைக்கவும்"
+
+#, java-printf-format
+msgctxt "bck_restoreMessage"
+msgid ""
+"WARNING! This will replace the selected elements from the backup.\n"
+"Do you really want to continue?"
+msgstr ""
+"எச்சரிக்கை! இது தேர்ந்தெடுக்கப்பட்ட கூறுகளை காப்புப்பிரதியிலிருந்து மாற்றும்.\n"
+" நீங்கள் உண்மையில் தொடர விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "bck_restoreConfirm"
+msgid "Replace elements"
+msgstr "கூறுகளை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "bck_restoreOk"
+msgid "Backup restored"
+msgstr "காப்புப்பிரதி மீட்டெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "bck_restoreError"
+msgid "Unable to restore the backup. Is it a valid file?"
+msgstr "காப்புப்பிரதியை மீட்டெடுக்க முடியவில்லை. இது சரியான கோப்பா?"
+
+#, java-printf-format
+msgctxt "bck_deleteTitle"
+msgid "Delete elements"
+msgstr "கூறுகளை நீக்கு"
+
+#, java-printf-format
+msgctxt "bck_deleteMessage"
+msgid ""
+"WARNING! This will delete all the selected elements.\n"
+"Do you really want to continue?"
+msgstr ""
+"எச்சரிக்கை! இது தேர்ந்தெடுக்கப்பட்ட அனைத்து கூறுகளையும் நீக்கிவிடும்.\n"
+" நீங்கள் உண்மையில் தொடர விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "bck_deleteConfirm"
+msgid "Delete elements"
+msgstr "கூறுகளை நீக்கு"
+
+#, java-printf-format
+msgctxt "bck_deleteOk"
+msgid "Elements deleted"
+msgstr "கூறுகள் நீக்கப்பட்டன"
+
+#, java-printf-format
+msgctxt "bck_deleteError"
+msgid "Unable to delete elements"
+msgstr "கூறுகளை நீக்க முடியவில்லை"
+
+#.         tutorial
+#, java-printf-format
+msgctxt "tutorial"
+msgid "Tutorial"
+msgstr "பயிற்சி"
+
+#, java-printf-format
+msgctxt "txt_tutorial1"
+msgid ""
+"Thanks for downloading the app!\n"
+"\n"
+"This is the tutorial, if you want to skip it you can do so with the button below. You can always come back to this tutorial from the settings menu."
+msgstr ""
+"பயன்பாட்டைப் பதிவிறக்கியதற்கு நன்றி!\n"
+"\n"
+" இது டுடோரியல், நீங்கள் அதைத் தவிர்க்க விரும்பினால் கீழே உள்ள பொத்தானைக் கொண்டு அவ்வாறு செய்யலாம். அமைப்புகள் மெனுவிலிருந்து நீங்கள் எப்போதும் இந்த டுடோரியலுக்கு திரும்பி வரலாம்."
+
+#, java-printf-format
+msgctxt "txt_tutorial2"
+msgid ""
+"The app acts as an intermediary when opening or sharing url links. Once an "
+"url is sent to the app you can interact with it via the modules. After that "
+"you can open the link (in the app you want), share it or copy it to the "
+"clipboard."
+msgstr ""
+"முகவரி இணைப்புகளைத் திறக்கும்போது அல்லது பகிரும்போது பயன்பாடு ஒரு "
+"இடைத்தரகராக செயல்படுகிறது. பயன்பாட்டிற்கு ஒரு முகவரி அனுப்பப்பட்டதும் "
+"நீங்கள் தொகுதிகள் வழியாக தொடர்பு கொள்ளலாம். அதன் பிறகு நீங்கள் இணைப்பைத் "
+"திறக்கலாம் (நீங்கள் விரும்பும் பயன்பாட்டில்), அதைப் பகிரவும் அல்லது "
+"கிளிப்போர்டில் நகலெடுக்கவும்."
+
+#, java-printf-format
+msgctxt "txt_tutorial3"
+msgid ""
+"Set the app as the default web browser to intercept URLs when opening them. \n"
+"(Not needed if URLs are redirected using the “Share” functionality.)"
+msgstr ""
+"பயன்பாட்டை இயல்புநிலை வலை உலாவியாக முகவரி களைத் திறக்கும்போது இடைமறிக்க அமைக்கவும்.\n"
+" (“பங்கு” செயல்பாட்டைப் பயன்படுத்தி முகவரி கள் திருப்பி விடப்பட்டால் தேவையில்லை.)"
+
+#, java-printf-format
+msgctxt "txt_tutorial4"
+msgid ""
+"Modules is how the app interacts with the URLs. \n"
+"Each of the modules has a specific function. Usually to present info about the URL, or allowing it to be modified. \n"
+"Read about them and set them up as needed. \n"
+" \n"
+"Important: All the actions are manual by default. The app won't modify anything nor connect to the Internet unless you specifically allow it, but some actions can be auto-applied if desired. \n"
+" \n"
+"Open the list of modules from the main screen, or by tapping the button below."
+msgstr ""
+"பயன்பாடு முகவரி களுடன் எவ்வாறு தொடர்பு கொள்கிறது என்பது தொகுதிகள்.\n"
+" ஒவ்வொரு தொகுதிகளும் ஒரு குறிப்பிட்ட செயல்பாட்டைக் கொண்டுள்ளன. வழக்கமாக முகவரி பற்றிய தகவல்களை முன்வைக்க, அல்லது அதை மாற்ற அனுமதிப்பது.\n"
+" அவற்றைப் பற்றி படித்து தேவைக்கேற்ப அவற்றை அமைக்கவும்.\n"
+"\n"
+" முக்கியமானது: அனைத்து செயல்களும் இயல்புநிலையாக கையேடு. நீங்கள் குறிப்பாக அனுமதிக்காவிட்டால் பயன்பாடு எதையும் மாற்றியமைக்காது அல்லது இணையத்துடன் இணைக்காது, ஆனால் சில செயல்களை விரும்பினால் தானாகவே பயன்படுத்தலாம்.\n"
+"\n"
+" முதன்மையான திரையில் இருந்து தொகுதிகளின் பட்டியலைத் திறக்கவும் அல்லது கீழே உள்ள பொத்தானைத் தட்டுவதன் மூலம்."
+
+#, java-printf-format
+msgctxt "txt_tutorial5"
+msgid ""
+"That's all. Here are some tips that can be useful:\n"
+"\n"
+"When an app doesn't give you a way to open or share a url, but it gives you a way to do the other you can solve the issue using this app. You can also copy the url to the clipboard by long pressing the share button.\n"
+"\n"
+"There are some urls which its only purpose is redirecting you to another url. If the final url can be opened in an app, then you can avoid opening it in a browser.\n"
+"\n"
+"Hope you find the app useful! And don't hesitate to suggest features, report bugs or even propose changes. Find all relevant links on the about screen."
+msgstr ""
+"அவ்வளவுதான். பயனுள்ளதாக இருக்கும் சில குறிப்புகள் இங்கே:\n"
+"\n"
+" ஒரு பயன்பாடு உங்களுக்கு முகவரி ஐ திறக்க அல்லது பகிர ஒரு வழியை வழங்காதபோது, ஆனால் இந்த பயன்பாட்டைப் பயன்படுத்தி சிக்கலைத் தீர்க்கக்கூடிய மற்றதைச் செய்ய இது ஒரு வழியை வழங்குகிறது. பங்கு பொத்தானை நீண்ட நேரம் அழுத்துவதன் மூலம் நீங்கள் முகவரி ஐ கிளிப்போர்டில் நகலெடுக்கலாம்.\n"
+"\n"
+" சில முகவரி கள் உள்ளன, அதன் ஒரே நோக்கம் உங்களை மற்றொரு முகவரி க்கு திருப்பி விடுகிறது. இறுதி முகவரி ஐ ஒரு பயன்பாட்டில் திறக்க முடிந்தால், அதை உலாவியில் திறப்பதைத் தவிர்க்கலாம்.\n"
+"\n"
+" பயன்பாடு பயனுள்ளதாக இருக்கும் என்று நம்புகிறேன்! அம்சங்களை பரிந்துரைக்க, பிழைகள் புகாரளிக்க அல்லது மாற்றங்களை முன்மொழிய தயங்க வேண்டாம். பற்றி திரையில் தொடர்புடைய அனைத்து இணைப்புகளையும் கண்டறியவும்."
+
+#, java-printf-format
+msgctxt "btn_tutorialSkip"
+msgid "Skip tutorial"
+msgstr "டுடோரியலைத் தவிர்க்கவும்"
+
+#, java-printf-format
+msgctxt "btn_tutorialEnd"
+msgid "Finish tutorial"
+msgstr "டுடோரியலை முடிக்கவும்"
+
+#.         generic
+#, java-printf-format
+msgctxt "toast_noApp"
+msgid "Can not open the app"
+msgstr "பயன்பாட்டைத் திறக்க முடியாது"
+
+#, java-printf-format
+msgctxt "toast_noBrowser"
+msgid "Can not open the web browser"
+msgstr "வலை உலாவியைத் திறக்க முடியாது"
+
+#, java-printf-format
+msgctxt "invalid"
+msgid "Invalid"
+msgstr "செல்லுபடியாகாத"
+
+#, java-printf-format
+msgctxt "save"
+msgid "Save"
+msgstr "சேமி"
+
+#, java-printf-format
+msgctxt "reset"
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#, java-printf-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#, java-printf-format
+msgctxt "clear"
+msgid "Clear"
+msgstr "தெளிவான"
+
+#, java-printf-format
+msgctxt "none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, java-printf-format
+msgctxt "auto"
+msgid "Automatic"
+msgstr "தானியங்கி"
+
+#, java-printf-format
+msgctxt "defaultOn"
+msgid "Enabled by default"
+msgstr "இயல்பாக இயக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "defaultOff"
+msgid "Disabled by default"
+msgstr "இயல்பாக முடக்கப்பட்டுள்ளது"
+
+#, java-printf-format
+msgctxt "alwaysOn"
+msgid "Always on"
+msgstr "எப்போதும் இயக்கவும்"
+
+#, java-printf-format
+msgctxt "alwaysOff"
+msgid "Always off"
+msgstr "எப்போதும் அணைக்கவும்"
+
+#, java-printf-format
+msgctxt "hidden"
+msgid "Hidden"
+msgstr "மறைக்கப்பட்ட"
+
+#, java-printf-format
+msgctxt "share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, java-printf-format
+msgctxt "canceled"
+msgid "Canceled"
+msgstr "ரத்து செய்யப்பட்டது"
+
+#, java-printf-format
+msgctxt "deviceDefault"
+msgid "Device default"
+msgstr "சாதன இயல்புநிலை"
+
+#, java-printf-format
+msgctxt "next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, java-printf-format
+msgctxt "back"
+msgid "Back"
+msgstr "பின்"
+
+#, java-printf-format
+msgctxt "dismiss"
+msgid "Dismiss"
+msgstr "தள்ளுபடி"
+
+#, java-printf-format
+msgctxt "noLinks"
+msgid "No links detected"
+msgstr "இணைப்புகள் எதுவும் கண்டறியப்படவில்லை"
+
+#, java-printf-format
+msgctxt "small"
+msgid "Small"
+msgstr "சிறிய"
+
+#, java-printf-format
+msgctxt "normal"
+msgid "Normal"
+msgstr "சாதாரண"
+
+#, java-printf-format
+msgctxt "big"
+msgid "Big"
+msgstr "பெரியது"
+
+#, java-printf-format
+msgctxt "format"
+msgid "Format"
+msgstr "வடிவம்"
+
+#, java-printf-format
+msgctxt "discard"
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#.         json
+#, java-printf-format
+msgctxt "json_editor"
+msgid "Json editor"
+msgstr "சாதொபொகு ஆசிரியர்"
+
+#, java-printf-format
+msgctxt "json_info"
+msgid "Show info"
+msgstr "தகவலைக் காட்டு"
+
+#, java-printf-format
+msgctxt "json_ignore"
+msgid ""
+"The content is not valid Json. Do you want to discard it and close the "
+"editor?"
+msgstr ""
+"உள்ளடக்கம் செல்லுபடியாகும் சாதொபொகு அல்ல. நீங்கள் அதை நிராகரித்து எடிட்டரை "
+"மூட விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "json_discard_close"
+msgid "Discard and close"
+msgstr "நிராகரித்து மூடு"
+
+#, java-printf-format
+msgctxt "json_save"
+msgid "There are unsaved changes, do you want to save or discard them?"
+msgstr ""
+"சேமிக்கப்படாத மாற்றங்கள் உள்ளன, அவற்றை சேமிக்க அல்லது நிராகரிக்க "
+"விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "json_save_error"
+msgid "Unable to save: %s"
+msgstr "சேமிக்க முடியவில்லை: %s"
+
+#, java-printf-format
+msgctxt "json_format_error"
+msgid "The content is not valid Json, can't be parsed."
+msgstr "உள்ளடக்கம் செல்லுபடியாகும் சாதொபொகு அல்ல, பாகுபடுத்த முடியாது."
+
+#, java-printf-format
+msgctxt "json_discard"
+msgid ""
+"Warning, this will replace the editor content with the saved json. All "
+"changes made will be lost. Do you want to continue?"
+msgstr ""
+"எச்சரிக்கை, இது எடிட்டர் உள்ளடக்கத்தை சேமித்த சாதொபொகு உடன் மாற்றும். "
+"செய்யப்பட்ட அனைத்து மாற்றங்களும் இழக்கப்படும். நீங்கள் தொடர "
+"விரும்புகிறீர்களா?"
+
+#, java-printf-format
+msgctxt "json_reset"
+msgid ""
+"Warning, this will replace the editor content with the built-in json. All "
+"editor changes made will be lost, but saved content will not be modified "
+"unless manually saved. Do you want to continue?"
+msgstr ""
+"எச்சரிக்கை, இது ஆசிரியர் உள்ளடக்கத்தை உள்ளமைக்கப்பட்ட சாதொபொகு உடன் "
+"மாற்றும். செய்யப்பட்ட அனைத்து எடிட்டர் மாற்றங்களும் இழக்கப்படும், ஆனால் "
+"கைமுறையாக சேமிக்கப்படாவிட்டால் சேமிக்கப்பட்ட உள்ளடக்கம் மாற்றப்படாது. "
+"நீங்கள் தொடர விரும்புகிறீர்களா?"
+
+#.         shortcuts
+#, java-printf-format
+msgctxt "shortcut_checkClipboard"
+msgid "Check URLs from the clipboard"
+msgstr "கிளிப்போர்டிலிருந்து முகவரி களை சரிபார்க்கவும்"
+
+#.         automations
+#, java-printf-format
+msgctxt "a_automations"
+msgid "Automations"
+msgstr "ஆட்டோமேசன்ச்"
+
+#, java-printf-format
+msgctxt "auto_desc"
+msgid ""
+"With automations you can perform module actions based on triggers. You can "
+"configure the automations here, or disable all them together using the "
+"toggle below."
+msgstr ""
+"ஆட்டோமேசன் மூலம் நீங்கள் தூண்டுதல்களின் அடிப்படையில் தொகுதி செயல்களைச் "
+"செய்யலாம். நீங்கள் இங்கே ஆட்டோமேசனை உள்ளமைக்கலாம் அல்லது கீழே உள்ள மாற்று "
+"ஐப் பயன்படுத்தி அனைத்தையும் ஒன்றாக முடக்கலாம்."
+
+#, java-printf-format
+msgctxt "auto_enabled"
+msgid "Enable automations feature"
+msgstr "ஆட்டோமேசன் அம்சத்தை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "auto_error_toast"
+msgid "Show toast if automation fails"
+msgstr "ஆட்டோமேசன் தோல்வியுற்றால் சிற்றுண்டியைக் காட்டு"
+
+#, java-printf-format
+msgctxt "auto_notFound"
+msgid ""
+"No automation with key '%s' is available. Make sure it is valid and the "
+"required module is active."
+msgstr ""
+"முக்கிய '%s' உடன் ஆட்டோமேசன் எதுவும் கிடைக்கவில்லை. இது செல்லுபடியாகும் "
+"என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள் மற்றும் தேவையான தொகுதி செயலில் உள்ளது."
+
+#, java-printf-format
+msgctxt "auto_editor"
+msgid ""
+"Automations configuration. Format: list of objects where the key is a unique automation name and the content includes the following values:\n"
+"- 'regex': string|list: if present, a valid java regex that the url must match for the automation to run. If list, at least one regex must match. If omitted, all urls will match.\n"
+"- 'excludeRegex': string|list: if present, a valid java regex that the url must not match for the automation to run. If list, none of the regex must match. If omitted, no url will be excluded.\n"
+"- 'referrer': string|list: if present, the referrer (the app that opened the link) must exactly match this value. If list, the referrer must be one of the values. If omitted, all urls will match. You can use the debug module to check the actual value.\n"
+"- 'action': string|list, required: the key of the automation to run. If multiple they will run in order. Check below for a list of all the available keys.\n"
+"- 'args', object: values that the action may require, see the description of each action for the values they accept. Example: { …, \"args\": { \"text\": \"example\" } }\n"
+"- 'stop': boolean: if true, no more automations will run for the current url. False by default.\n"
+"- 'enabled': boolean: if false this automation will be skipped. True by default."
+msgstr ""
+"ஆட்டோமேசன் உள்ளமைவு. வடிவம்: விசை ஒரு தனித்துவமான ஆட்டோமேசன் பெயர் மற்றும் உள்ளடக்கம் பின்வரும் மதிப்புகளை உள்ளடக்கிய பொருள்களின் பட்டியல்: \n"
+". பட்டியல் என்றால், குறைந்தது ஒரு ரீசெக்ச் பொருந்த வேண்டும். விடுபட்டால், அனைத்து முகவரி களும் பொருந்தும். \n"
+". பட்டியல் என்றால், ரீசெக்ச் எதுவும் பொருந்தக்கூடாது. விடுபட்டால், எந்த முகவரி ஐ விலக்காது. \n"
+". பட்டியல் என்றால், பரிந்துரைப்பவர் மதிப்புகளில் ஒன்றாக இருக்க வேண்டும். விடுபட்டால், அனைத்து முகவரி களும் பொருந்தும். உண்மையான மதிப்பைச் சரிபார்க்க பிழைத்திருத்த தொகுதியைப் பயன்படுத்தலாம். \n"
+"- 'செயல்': சரம் | பட்டியல், தேவை: இயக்க ஆட்டோமேசனின் விசை. பல இருந்தால் அவை வரிசையில் இயங்கும். கிடைக்கக்கூடிய அனைத்து விசைகளின் பட்டியலுக்கு கீழே சரிபார்க்கவும். \n"
+"- 'ஆர்க்ச்', பொருள்: செயலுக்குத் தேவைப்படும் மதிப்புகள், அவர்கள் ஏற்றுக்கொள்ளும் மதிப்புகளுக்கு ஒவ்வொரு செயலின் விளக்கத்தையும் காண்க. எடுத்துக்காட்டு: {…, \"args\": {\"உரை\": \"எடுத்துக்காட்டு\"}} \n"
+"- 'நிறுத்து': பூலியன்: உண்மையாக இருந்தால், தற்போதைய முகவரி க்கு ஆட்டோமேசன்கள் எதுவும் இயங்காது. இயல்புநிலையாக பொய். \n"
+"- 'இயக்கப்பட்டது': பூலியன்: பொய்யானது இருந்தால் இந்த ஆட்டோமேசன் தவிர்க்கப்படும். இயல்புநிலையாக உண்மை."
+
+#, java-printf-format
+msgctxt "auto_available_prefix"
+msgid "Available automation actions (keys):"
+msgstr "கிடைக்கும் ஆட்டோமேசன் செயல்கள் (விசைகள்):"
+
+#, java-printf-format
+msgctxt "auto_available_disabled"
+msgid "This module is disabled, automations won't run"
+msgstr "இந்த தொகுதி முடக்கப்பட்டுள்ளது, ஆட்டோமேசன்ச் இயங்காது"
+
+#, java-printf-format
+msgctxt "auto_rule_bitly"
+msgid "Unshort bit.ly"
+msgstr "விரிவாக்கு bit.ly"
+
+#, java-printf-format
+msgctxt "auto_rule_webhook"
+msgid "Send everything to webhook"
+msgstr "எல்லாவற்றையும் வெப்ஊக்கிற்கு அனுப்புங்கள்"
+
+#, java-printf-format
+msgctxt "auto_rule_toast"
+msgid "Toast example"
+msgstr "சிற்றுண்டி சான்று"
+
+#, java-printf-format
+msgctxt "auto_open"
+msgid ""
+"Will open the url. If no expected 'args' are provided, the first available "
+"app will be used (equivalent of pressing the 'open' button). If the 'args': "
+"'package' and/or 'component' are provided, those will be used instead."
+msgstr ""
+"முகவரி ஐ திறக்கும். எதிர்பார்க்கப்படும் 'ஆர்க்ச்' வழங்கப்படாவிட்டால், "
+"கிடைக்கக்கூடிய முதல் பயன்பாடு பயன்படுத்தப்படும் ('திறந்த' பொத்தானை "
+"அழுத்துவதற்கு சமம்). 'ஆர்க்ச்': 'தொகுப்பு' மற்றும்/அல்லது 'கூறு' "
+"வழங்கப்பட்டால், அவை அதற்கு பதிலாக பயன்படுத்தப்படும்."
+
+#, java-printf-format
+msgctxt "auto_share"
+msgid "Will share the url. Equivalent of pressing the 'share' button."
+msgstr "முகவரி ஐப் பகிர்ந்து கொள்ளும். 'பகிர்' பொத்தானை அழுத்துவதற்கு சமம்."
+
+#, java-printf-format
+msgctxt "auto_copy"
+msgid "Will copy the url. Equivalent of pressing the 'copy' button."
+msgstr "முகவரி ஐ நகலெடுக்கும். 'நகல்' பொத்தானை அழுத்துவதற்கு சமம்."
+
+#, java-printf-format
+msgctxt "auto_ctabs"
+msgid ""
+"Will enable ctabs. Equivalent of pressing the 'ctabs' button if disabled "
+"(even if hidden)."
+msgstr ""
+"CTAB களை இயக்கும். முடக்கப்பட்டால் 'CTABS' பொத்தானை அழுத்துவதற்கு சமம் "
+"(மறைக்கப்பட்டிருந்தாலும் கூட)."
+
+#, java-printf-format
+msgctxt "auto_incognito"
+msgid ""
+"Will enable incognito. Equivalent of pressing the 'incognito' button if "
+"disabled (even if hidden)."
+msgstr ""
+"மறைமுகத்தை இயக்கும். முடக்கப்பட்டால் 'மறைநிலை' பொத்தானை அழுத்துவதற்கு சமம் "
+"(மறைக்கப்பட்டிருந்தாலும் கூட)."
+
+#, java-printf-format
+msgctxt "auto_close"
+msgid "Will close the application, doing nothing else."
+msgstr "பயன்பாட்டை மூடும், வேறு எதுவும் செய்யாது."
+
+#, java-printf-format
+msgctxt "auto_checkStatus"
+msgid "Will run the status check. Equivalent of pressing the 'Check' button."
+msgstr "நிலை சோதனை இயங்கும். 'செக்' பொத்தானை அழுத்துவதற்கு சமம்."
+
+#, java-printf-format
+msgctxt "auto_unshort"
+msgid ""
+"Will run the unshort process. Equivalent of pressing the 'Unshort' button."
+msgstr ""
+"அன்சார்ட் செயல்முறையை இயக்கும். 'அன்சார்ட்' பொத்தானை அழுத்துவதற்கு சமம்."
+
+#, java-printf-format
+msgctxt "auto_scan"
+msgid "Will scan the url. Equivalent of pressing the 'Scan' button."
+msgstr "முகவரி ஐ ச்கேன் செய்யும். 'ச்கேன்' பொத்தானை அழுத்துவதற்கு சமம்."
+
+#, java-printf-format
+msgctxt "auto_clear"
+msgid ""
+"Will clear the url. Equivalent of pressing the 'Clear' button. Note that the"
+" module itself contains an auto setting that will also clear all urls more "
+"efficiently, and should be preferred."
+msgstr ""
+"முகவரி ஐ அழிக்கும். 'தெளிவான' பொத்தானை அழுத்துவதற்கு சமம். தொகுதியில் ஒரு "
+"ஆட்டோ அமைப்பு உள்ளது என்பதை நினைவில் கொள்க, இது அனைத்து முகவரி களையும் "
+"மிகவும் திறமையாக அழிக்கும், மேலும் அது விரும்பப்பட வேண்டும்."
+
+#, java-printf-format
+msgctxt "auto_drawer"
+msgid ""
+"Will open the drawer. Equivalent of pressing the drawer button if collapsed."
+msgstr "டிராயரைத் திறக்கும். சரிந்தால் டிராயர் பொத்தானை அழுத்துவதற்கு சமம்."
+
+#, java-printf-format
+msgctxt "auto_toast"
+msgid ""
+"Display a toast with a fixed text. The text must be provided as an 'args' "
+"named 'text'."
+msgstr ""
+"ஒரு நிலையான உரையுடன் ஒரு சிற்றுண்டியைக் காண்பி. உரை 'உரை' என்று பெயரிடப்பட்ட"
+" 'ஆர்க்ச்' என வழங்கப்பட வேண்டும்."
+
+#.         modules
+#, java-printf-format
+msgctxt "mPttrn_name"
+msgid "Pattern checker"
+msgstr "முறை சரிபார்ப்பு"
+
+#, java-printf-format
+msgctxt "mPttrn_desc"
+msgid ""
+"This module checks the url with regex patterns that warns, suggests or applies replacements. You can modify or create your own patterns, or even use user-created ones.\n"
+"Built-in patterns include:\n"
+"- Warning when contains non-ascii characters like greek letters. This can be used for phishing: googĺe.com vs google.com\n"
+"- Suggest replacing 'http' with 'https'\n"
+"- Suggest replacing Youtube, Reddit or Twitter with privacy-friendly alternatives [disabled by default]"
+msgstr ""
+"இந்த தொகுதி முகவரி ஐ ரீசெக்ச் வடிவங்களுடன் சரிபார்க்கிறது, இது மாற்றீடுகளை எச்சரிக்கிறது, பரிந்துரைக்கிறது அல்லது பயன்படுத்துகிறது. நீங்கள் உங்கள் சொந்த வடிவங்களை மாற்றலாம் அல்லது உருவாக்கலாம் அல்லது பயனர் உருவாக்கியவற்றைப் பயன்படுத்தலாம்.\n"
+" உள்ளமைக்கப்பட்ட வடிவங்கள் பின்வருமாறு:\n"
+" - கிரேக்க எழுத்துக்கள் போன்ற ASCII அல்லாத எழுத்துக்கள் இருக்கும்போது எச்சரிக்கை. ஃபிசிங் செய்ய இதைப் பயன்படுத்தலாம்: Googĺe.com vs Google.com\n"
+" - 'http' ஐ 'https' உடன் மாற்ற பரிந்துரைக்கவும்\n"
+" - யூடியூப், ரெடிட் அல்லது ட்விட்டரை தனியுரிமை நட்பு மாற்றுகளுடன் மாற்ற பரிந்துரைக்கவும் [இயல்புநிலையாக முடக்கப்பட்டுள்ளது]"
+
+#, java-printf-format
+msgctxt "mPttrn_regexfix"
+msgid "Fix optional regex groups (disable if regex is not working correctly)"
+msgstr ""
+"விருப்ப ரீசெக்ச் குழுக்களை சரிசெய்யவும் (ரீசெக்ச் சரியாக வேலை செய்யவில்லை "
+"என்றால் முடக்கு)"
+
+#, java-printf-format
+msgctxt "mPttrn_userContent"
+msgid "List of other useful user-created patterns: %s"
+msgstr "பிற பயனுள்ள பயனர் உருவாக்கிய வடிவங்களின் பட்டியல்: %s"
+
+#, java-printf-format
+msgctxt "mPttrn_fix"
+msgid "Apply"
+msgstr "இடு"
+
+#, java-printf-format
+msgctxt "mPttrn_fixed"
+msgid "Applied - %s"
+msgstr "பயன்பாடு - %s"
+
+#, java-printf-format
+msgctxt "mPttrn_ascii"
+msgid "Warning! Non-ASCII characters found."
+msgstr "எச்சரிக்கை! அசி அல்லாத எழுத்துக்கள் காணப்பட்டன."
+
+#, java-printf-format
+msgctxt "mPttrn_upperDomain"
+msgid "Warning! Upper case letter in domain."
+msgstr "எச்சரிக்கை! டொமைனில் மேல் வழக்கு கடிதம்."
+
+#, java-printf-format
+msgctxt "mPttrn_http"
+msgid "HTTP link. Consider using HTTPS."
+msgstr "HTTP இணைப்பு. HTTPS ஐப் பயன்படுத்துவதைக் கவனியுங்கள்."
+
+#, java-printf-format
+msgctxt "mPttrn_noSchemeHttp"
+msgid "Missing HTTP scheme."
+msgstr "HTTP திட்டத்தைக் காணவில்லை."
+
+#, java-printf-format
+msgctxt "mPttrn_noSchemeHttps"
+msgid "Missing HTTPS scheme."
+msgstr "HTTPS திட்டத்தைக் காணவில்லை."
+
+#, java-printf-format
+msgctxt "mPttrn_wrongSchemaHttp"
+msgid "Invalid http scheme capitalization."
+msgstr "தவறான HTTP திட்ட மூலதனம்."
+
+#, java-printf-format
+msgctxt "mPttrn_wrongSchemaHttps"
+msgid "Invalid https scheme capitalization."
+msgstr "தவறான HTTPS திட்ட மூலதனம்."
+
+#, java-printf-format
+msgctxt "mPttrn_ok"
+msgid "No matching patterns"
+msgstr "பொருந்தக்கூடிய வடிவங்கள் இல்லை"
+
+#, java-printf-format
+msgctxt "mPttrn_editor"
+msgid ""
+"Here you can edit or add new pattern. Format:\n"
+"- 'encode': boolean: set to true to encode the url before checking regex.\n"
+"- 'regex': string|list: a valid java regex that the url must match, otherwise the pattern is skipped. If list, at least one regex must match. If omitted, the full url will match.\n"
+"- 'excludeRegex': string|list: if provided, a valid java regex that the url must not match, otherwise the pattern is skipped. If list, and at least one regex matches, the pattern will be skipped.\n"
+"- 'replacement': string|list: if provided, the 'fix' button will run 'url=url.replaceAll(regex,replacement)' [if regex was list, the first pattern to match will be used]. If list, replacement will be a random element from it.\n"
+"- 'decode': boolean: set to true to decode the replaced url.\n"
+"- 'automatic': boolean: set to true to automatically apply the pattern.\n"
+"- 'enabled': boolean: set to false to disable the pattern.\n"
+"Note: if you edit the patterns, new built-in patterns from app updates will not be added automatically (you can restore them with the reset option)."
+msgstr ""
+"இங்கே நீங்கள் புதிய வடிவத்தைத் திருத்தலாம் அல்லது சேர்க்கலாம். வடிவம்: \n"
+"- 'குறியாக்கம்': பூலியன்: ரீசெக்சை சரிபார்க்கும் முன் முகவரி ஐ குறியாக்க உண்மைக்கு அமைக்கவும். \n"
+". பட்டியல் என்றால், குறைந்தது ஒரு ரீசெக்ச் பொருந்த வேண்டும். விடுபட்டால், முழு முகவரி பொருந்தும். \n"
+". பட்டியல், மற்றும் குறைந்தது ஒரு ரீசெக்ச் பொருந்தினால், முறை தவிர்க்கப்படும். \n"
+". பட்டியல் என்றால், மாற்றீடு அதிலிருந்து ஒரு சீரற்ற உறுப்பு ஆகும். \n"
+"- 'டிகோட்': பூலியன்: மாற்றப்பட்ட முகவரி ஐ டிகோட் செய்ய உண்மையாக அமைக்கவும். \n"
+"- 'தானியங்கி': பூலியன்: வடிவத்தை தானாகவே பயன்படுத்துவதற்கு உண்மையாக அமைக்கவும். \n"
+"- 'இயக்கப்பட்டது': பூலியன்: வடிவத்தை முடக்க பொய்யாக அமைக்கவும். \n"
+"குறிப்பு: நீங்கள் வடிவங்களைத் திருத்தினால், பயன்பாட்டு புதுப்பிப்புகளிலிருந்து புதிய உள்ளமைக்கப்பட்ட வடிவங்கள் தானாகவே சேர்க்கப்படாது (மீட்டமை விருப்பத்துடன் அவற்றை மீட்டெடுக்கலாம்)."
+
+#, java-printf-format
+msgctxt "mOpen_name"
+msgid "Open and share"
+msgstr "திறந்து பகிரவும்"
+
+#, java-printf-format
+msgctxt "mOpen_desc"
+msgid ""
+"Contains the following buttons (left to right):\n"
+"- Custom Tabs button: toggle to enable/disable the custom tab feature. When enabled, the browser should be opened in a 'lite' mode.\n"
+"- Incognito button: For Firefox only. Toggle to enable/disable the incognito mode. When enabled, the browser should be opened in incognito.\n"
+"- Open button: Press the app name to open the link on that app. If a link can be opened with multiple apps, an arrow will be shown to let you choose.\n"
+"- Copy button: Press the button to copy the link into the clipboard.\n"
+"- Share button: Press the button to share the link."
+msgstr ""
+"பின்வரும் பொத்தான்கள் உள்ளன (இடமிருந்து வலமாக):\n"
+" - தனிப்பயன் தாவல்கள் பொத்தான்: தனிப்பயன் தாவல் அம்சத்தை இயக்க/முடக்க மாற்று. இயக்கப்பட்டால், உலாவி ஒரு 'லைட்' பயன்முறையில் திறக்கப்பட வேண்டும்.\n"
+" - மறைநிலை பொத்தான்: பயர்பாக்சுக்கு மட்டும். மறைநிலை பயன்முறையை இயக்க/முடக்க மாற்று. இயக்கப்பட்டால், உலாவி மறைநிலையில் திறக்கப்பட வேண்டும்.\n"
+" - திறக்க பொத்தானை: அந்த பயன்பாட்டில் இணைப்பைத் திறக்க பயன்பாட்டு பெயரை அழுத்தவும். பல பயன்பாடுகளுடன் ஒரு இணைப்பைத் திறக்க முடிந்தால், நீங்கள் தேர்வு செய்ய அனுமதிக்க ஒரு அம்பு காண்பிக்கப்படும்.\n"
+" - நகல் பொத்தானை: கிளிப்போர்டில் இணைப்பை நகலெடுக்க பொத்தானை அழுத்தவும்.\n"
+" - பகிர்வு பொத்தான்: இணைப்பைப் பகிர பொத்தானை அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "mOpen_ctabs"
+msgid "Custom tabs:"
+msgstr "தனிப்பயன் தாவல்கள்:"
+
+#, java-printf-format
+msgctxt "mOpen_incognito"
+msgid "Incognito mode:"
+msgstr "மறைநிலை பயன்முறை:"
+
+#, java-printf-format
+msgctxt "mOpen_closeOpen"
+msgid "Close dialog after opening"
+msgstr "திறந்த பிறகு உரையாடலை மூடு"
+
+#, java-printf-format
+msgctxt "mOpen_closeShare"
+msgid "Close dialog after sharing"
+msgstr "பகிர்வுக்குப் பிறகு உரையாடலை மூடு"
+
+#, java-printf-format
+msgctxt "mOpen_closeCopy"
+msgid "Close dialog after copying"
+msgstr "நகலெடுத்த பிறகு உரையாடலை மூடு"
+
+#, java-printf-format
+msgctxt "mOpen_perDomain"
+msgid "Sort different domains independently"
+msgstr "வெவ்வேறு களங்களை சுயாதீனமாக வரிசைப்படுத்துங்கள்"
+
+#, java-printf-format
+msgctxt "mOpen_noReferrer"
+msgid "Hide the source app (referrer)"
+msgstr "மூல பயன்பாட்டை மறைக்கவும் (குறிப்பு)"
+
+#, java-printf-format
+msgctxt "mOpen_rejected"
+msgid ""
+"Hide app if URL was rejected (an app immediately requests to open the same "
+"URL it was opened with). Doesn't affect sharing."
+msgstr ""
+"பயன்பாட்டை மறைக்க முகவரி நிராகரிக்கப்பட்டால் (ஒரு பயன்பாடு உடனடியாக "
+"திறக்கப்பட்ட அதே முகவரி ஐ திறக்குமாறு கோருகிறது). பகிர்வை பாதிக்காது."
+
+#, java-printf-format
+msgctxt "mOpen_mergeCopy"
+msgid "Merge Copy and Share buttons (long press to copy)"
+msgstr ""
+"நகல் மற்றும் பகிர பொத்தான்களை ஒன்றிணைக்கவும் (நகலெடுக்க நீண்ட அழுத்தவும்)"
+
+#, java-printf-format
+msgctxt "mOpen_iconSize"
+msgid "Icon size"
+msgstr "படவுரு அளவு"
+
+#, java-printf-format
+msgctxt "mOpen_with"
+msgid "Open with %s"
+msgstr "%s உடன் திறந்திருக்கும்"
+
+#, java-printf-format
+msgctxt "mOpen_open"
+msgid "Open"
+msgstr "திற"
+
+#, java-printf-format
+msgctxt "mOpen_share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, java-printf-format
+msgctxt "mOpen_copyUrl"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, java-printf-format
+msgctxt "mOpen_clipboard"
+msgid "URL copied to clipboard"
+msgstr "முகவரி இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "mOpen_noapps"
+msgid "No apps"
+msgstr "பயன்பாடுகள் இல்லை"
+
+#, java-printf-format
+msgctxt "mOpen_tabsDesc"
+msgid "Toggle Custom Tabs feature"
+msgstr "தனிப்பயன் தாவல்கள் அம்சத்தை மாற்றவும்"
+
+#, java-printf-format
+msgctxt "mOpen_incognitoDesc"
+msgid "Toggle incognito mode (for Firefox only)"
+msgstr "மறைநிலை பயன்முறையை மாற்றவும் (பயர்பாக்சுக்கு மட்டும்)"
+
+#, java-printf-format
+msgctxt "mStatus_name"
+msgid "Status code"
+msgstr "நிலை குறியீடு"
+
+#, java-printf-format
+msgctxt "mStatus_desc"
+msgid ""
+"By pressing the check button, a network request will be made to retrieve and"
+" display the site status code. If the result is a redirection, you will be "
+"able to view the destination URL. The URL content is obtained (GET), but not"
+" evaluated, so redirections based on JavaScript won't be detected."
+msgstr ""
+"காசோலை பொத்தானை அழுத்துவதன் மூலம், தள நிலை குறியீட்டை மீட்டெடுக்கவும் "
+"காண்பிக்கவும் பிணைய கோரிக்கை செய்யப்படும். இதன் விளைவாக ஒரு திருப்பிவிடுதலாக"
+" இருந்தால், நீங்கள் இலக்கு முகவரி ஐக் காண முடியும். முகவரி உள்ளடக்கம் "
+"பெறப்படுகிறது (GET), ஆனால் மதிப்பீடு செய்யப்படவில்லை, எனவே சாவாச்கிரிப்டை "
+"அடிப்படையாகக் கொண்ட திருப்பிவிடங்கள் கண்டறியப்படாது."
+
+#, java-printf-format
+msgctxt "mStatus_ioerror"
+msgid "Network error while trying to check the URL: %s"
+msgstr "முகவரி ஐ சரிபார்க்க முயற்சிக்கும்போது பிணைய பிழை: %s"
+
+#, java-printf-format
+msgctxt "mStatus_error"
+msgid "Internal error while trying to check the URL: %s"
+msgstr "முகவரி ஐ சரிபார்க்க முயற்சிக்கும்போது உள் பிழை: %s"
+
+#, java-printf-format
+msgctxt "mStatus_check"
+msgid "Check status"
+msgstr "நிலையை சரிபார்க்கவும்"
+
+#, java-printf-format
+msgctxt "mStatus_recheck"
+msgid "Check"
+msgstr "சரிபார்"
+
+#, java-printf-format
+msgctxt "mStatus_checking"
+msgid "Checking…"
+msgstr "சோதனை…"
+
+#, java-printf-format
+msgctxt "mStatus_unknownCode"
+msgid "%d: Unknown status code"
+msgstr "%d: அறியப்படாத நிலைக் குறியீடு"
+
+#, java-printf-format
+msgctxt "mStatus_redir"
+msgid "Redirects to %s"
+msgstr "%s க்கு திருப்பிவிடுகிறது"
+
+#, java-printf-format
+msgctxt "mStatus_autoRedirect"
+msgid "Automatically replace redirection URLs"
+msgstr "திருப்பிவிடுதல் முகவரி களை தானாக மாற்றவும்"
+
+#, java-printf-format
+msgctxt "mInput_name"
+msgid "Input text"
+msgstr "உள்ளீட்டு உரை"
+
+#, java-printf-format
+msgctxt "mInput_desc"
+msgid "Displays the current URL. Press it to enter edit mode."
+msgstr ""
+"தற்போதைய முகவரி ஐக் காட்டுகிறது. திருத்து பயன்முறையை உள்ளிட அதை அழுத்தவும்."
+
+#, java-printf-format
+msgctxt "mVT_name"
+msgid "URL Scanner"
+msgstr "முகவரி ச்கேனர்"
+
+#, java-printf-format
+msgctxt "mVT_desc"
+msgid ""
+"When this module is enabled you can scan the URL using VirusTotal and check "
+"the report. A personal VirusTotal API key is needed for it to work, you can "
+"get one after registering for a free account here: %s ."
+msgstr ""
+"இந்த தொகுதி இயக்கப்பட்டால், நீங்கள் முகவரி ஐ வைரச்டோட்டலைப் பயன்படுத்தி "
+"ச்கேன் செய்து அறிக்கையைச் சரிபார்க்கலாம். இது வேலை செய்ய தனிப்பட்ட "
+"வைரச்டோட்டல் பநிஇ விசை தேவை, இலவச கணக்கிற்கு பதிவுசெய்த பிறகு நீங்கள் "
+"ஒன்றைப் பெறலாம்: %s."
+
+#, java-printf-format
+msgctxt "mVT_apiKey"
+msgid "API key"
+msgstr "பநிஇ விசை"
+
+#, java-printf-format
+msgctxt "mVT_checkKey"
+msgid "Check"
+msgstr "சரிபார்"
+
+#, java-printf-format
+msgctxt "mVT_noKey"
+msgid "Missing API key"
+msgstr "பநிஇ விசையை காணவில்லை"
+
+#, java-printf-format
+msgctxt "mVT_validKey"
+msgid "Valid key from user: %s"
+msgstr "பயனரிடமிருந்து செல்லுபடியாகும் விசை: %s"
+
+#, java-printf-format
+msgctxt "mVT_tm"
+msgid "VirusTotal™ is a trademark of Google, Inc."
+msgstr "வைரச்டோட்டல் ™ என்பது கூகிள், இன்க்."
+
+#, java-printf-format
+msgctxt "mVT_scan"
+msgid "Scan"
+msgstr "ச்கேன்"
+
+#, java-printf-format
+msgctxt "mVT_cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, java-printf-format
+msgctxt "mVT_scanning"
+msgid "Scanning…"
+msgstr "ச்கேனிங்…"
+
+#, java-printf-format
+msgctxt "mVT_goodUrl"
+msgid "None of the %1$d engines detected the URL (as of date %2$s)"
+msgstr "%1$d என்சின்கள் எதுவும் முகவரி ஐ கண்டறியவில்லை (தேதி %2$s வரை)"
+
+#, java-printf-format
+msgctxt "mVT_warningUrl"
+msgid "Warning, %1$d/%2$d engines detected the URL (as of date %3$s)"
+msgstr ""
+"எச்சரிக்கை, %1$d/ %2$d என்சின்கள் முகவரி ஐக் கண்டறிந்தன (தேதி %3$s இன் படி)"
+
+#, java-printf-format
+msgctxt "mVT_badUrl"
+msgid "Careful! %1$d/%2$d engines detected the URL (as of date %3$s)"
+msgstr ""
+"கவனமாக! %1$d/ %2$d என்சின்கள் முகவரி ஐக் கண்டறிந்தன (தேதி %3$s இன் படி)"
+
+#, java-printf-format
+msgctxt "mVT_error"
+msgid ""
+"Unable to get a valid answer from VirusTotal. Make sure the api key is valid"
+" and that you are connected to the Internet, or try again later."
+msgstr ""
+"வைரச்டோட்டலுடன் இணைக்க முடியாது. பநிஇ விசை செல்லுபடியாகும் என்பதை "
+"உறுதிப்படுத்தவும், அல்லது பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+#, java-printf-format
+msgctxt "mVt_title"
+msgid "Title:"
+msgstr "தலைப்பு:"
+
+#, java-printf-format
+msgctxt "mVt_finalUrl"
+msgid "Final url:"
+msgstr "இறுதி URL:"
+
+#, java-printf-format
+msgctxt "mVt_reputation"
+msgid "Reputation:"
+msgstr "நற்பெயர்:"
+
+#, java-printf-format
+msgctxt "mVt_votes"
+msgid "Votes:"
+msgstr "வாக்குகள்:"
+
+#, java-printf-format
+msgctxt "mVt_categories"
+msgid "Categories:"
+msgstr "வகைகள்:"
+
+#, java-printf-format
+msgctxt "mVt_detections"
+msgid "Detections:"
+msgstr "கண்டறிதல்கள்:"
+
+#, java-printf-format
+msgctxt "mD_name"
+msgid "Debug/Marker module"
+msgstr "பிழைத்திருத்த/மார்க்கர் தொகுதி"
+
+#, java-printf-format
+msgctxt "mD_desc"
+msgid ""
+"If you reorder the modules, new ones added in future updates will be placed above this one.\n"
+"\n"
+"If you enable this it will display some internal debug data (like original intent uri), useful for developers.\n"
+"\n"
+"You can hold to select text."
+msgstr ""
+"நீங்கள் தொகுதிகளை மறுவரிசைப்படுத்தினால், எதிர்கால புதுப்பிப்புகளில் சேர்க்கப்பட்ட புதியவை இதற்கு மேலே வைக்கப்படும்.\n"
+"\n"
+" இதை நீங்கள் இயக்கினால், இது டெவலப்பர்களுக்கு பயனுள்ள சில உள் பிழைத்திருத்த தரவைக் காண்பிக்கும் (அசல் நோக்கம் யூரி போன்றவை).\n"
+"\n"
+" உரையைத் தேர்ந்தெடுக்க நீங்கள் வைத்திருக்கலாம்."
+
+#, java-printf-format
+msgctxt "mD_ctabs"
+msgid "Show debug messages from the custom tabs service"
+msgstr "தனிப்பயன் தாவல்கள் சேவையிலிருந்து பிழைத்திருத்த செய்திகளைக் காட்டு"
+
+#, java-printf-format
+msgctxt "mD_show"
+msgid "Load debug data"
+msgstr "பிழைத்திருத்த தரவை ஏற்றவும்"
+
+#, java-printf-format
+msgctxt "mHist_name"
+msgid "History"
+msgstr "வரலாறு"
+
+#, java-printf-format
+msgctxt "mHist_desc"
+msgid ""
+"When the URL is edited, either manually or by other modules, this one allows"
+" you to view and revert changes."
+msgstr ""
+"முகவரி ஐ திருத்தும்போது, கைமுறையாக அல்லது பிற தொகுதிகள் மூலமாக, மாற்றங்களைக்"
+" காணவும் மாற்றவும் இது உங்களை அனுமதிக்கிறது."
+
+#, java-printf-format
+msgctxt "mClear_name"
+msgid "URL Cleaner"
+msgstr "முகவரி கிளீனர்"
+
+#, java-printf-format
+msgctxt "mClear_desc"
+msgid ""
+"This module removes tracking, referrer and other useless parameters from the"
+" URL. It also allows for common offline URL redirections."
+msgstr ""
+"இந்த தொகுதி முகவரி இலிருந்து கண்காணிப்பு, பரிந்துரைப்பவர் மற்றும் பிற பயனற்ற"
+" அளவுருக்களை நீக்குகிறது. இது பொதுவான இணைப்பில்லாத முகவரி "
+"திசைதிருப்பல்களையும் அனுமதிக்கிறது."
+
+#, java-printf-format
+msgctxt "mClear_tm"
+msgid "Built-in catalog copied from ClearURLs: %s"
+msgstr "க்ளியர்யூர்ல்களிலிருந்து நகலெடுக்கப்பட்ட உள்ளமைக்கப்பட்ட பட்டியல்: %s"
+
+#, java-printf-format
+msgctxt "mClear_clear"
+msgid "Apply"
+msgstr "இடு"
+
+#, java-printf-format
+msgctxt "mClear_matches"
+msgid "Matches %s"
+msgstr "பொருந்துகிறது %s"
+
+#, java-printf-format
+msgctxt "mClear_blocked"
+msgid "- BLOCKED!"
+msgstr "- தடுக்கப்பட்டது!"
+
+#, java-printf-format
+msgctxt "mClear_exception"
+msgid "- ignored due to exception %s"
+msgstr "- விதிவிலக்கு %s காரணமாக புறக்கணிக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "mClear_rule"
+msgid "- useless parameter found"
+msgstr "- பயனற்ற அளவுரு காணப்படுகிறது"
+
+#, java-printf-format
+msgctxt "mClear_rawRule"
+msgid "- useless content found"
+msgstr "- பயனற்ற உள்ளடக்கம் காணப்பட்டது"
+
+#, java-printf-format
+msgctxt "mClear_referral"
+msgid "- referral found"
+msgstr "- பரிந்துரை காணப்பட்டது"
+
+#, java-printf-format
+msgctxt "mClear_forcedRedirection"
+msgid "- forced redirection found"
+msgstr "- கட்டாய திசைதிருப்பல் காணப்பட்டது"
+
+#, java-printf-format
+msgctxt "mClear_redirection"
+msgid "- redirection found"
+msgstr "- திசை திருப்புதல் கிடைத்தது"
+
+#, java-printf-format
+msgctxt "mClear_cleared"
+msgid "- Cleared"
+msgstr "- அழிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "mClear_noRules"
+msgid "No matching rules"
+msgstr "பொருந்தக்கூடிய விதிகள் இல்லை"
+
+#, java-printf-format
+msgctxt "mClear_auto"
+msgid "Auto-apply"
+msgstr "தானாகவே"
+
+#, java-printf-format
+msgctxt "mClear_toggleReferral"
+msgid "Enable referral marketing (referral parameters won't be cleared)"
+msgstr "பரிந்துரை சந்தைப்படுத்தல் (பரிந்துரை அளவுருக்கள் அழிக்கப்படாது)"
+
+#, java-printf-format
+msgctxt "mClear_toggleVerbose"
+msgid "Enable verbose info for the matching process"
+msgstr "பொருந்தும் செயல்முறைக்கு வாய்மொழி தகவலை இயக்கவும்"
+
+#, java-printf-format
+msgctxt "mClear_error"
+msgid "Could not check rule"
+msgstr "விதியை சரிபார்க்க முடியவில்லை"
+
+#, java-printf-format
+msgctxt "mClear_updater"
+msgid "Updater"
+msgstr "புதுப்பிப்பவர்"
+
+#, java-printf-format
+msgctxt "mClear_sourceDesc"
+msgid "URL of the Json file catalog with the rules:"
+msgstr "விதிகளுடன் சாதொபொகு கோப்பு பட்டியலின் URL:"
+
+#, java-printf-format
+msgctxt "mClear_urlHint"
+msgid "Catalog URL"
+msgstr "அட்டவணை முகவரி"
+
+#, java-printf-format
+msgctxt "mClear_hashDesc"
+msgid ""
+"URL of the catalog hash file. If omitted, the download will not be checked "
+"to see if it was tampered/modified (not recommended)"
+msgstr ""
+"அட்டவணை ஆச் கோப்பின் முகவரி. விடுபட்டால், பதிவிறக்கம் அது "
+"சேதப்படுத்தப்பட்டதா/மாற்றியமைக்கப்பட்டதா என்று சரிபார்க்கப்படாது "
+"(பரிந்துரைக்கப்படவில்லை)"
+
+#, java-printf-format
+msgctxt "mClear_hashHint"
+msgid "No hash check"
+msgstr "ஆச் காசோலை இல்லை"
+
+#, java-printf-format
+msgctxt "mClear_updateNow"
+msgid "Update now"
+msgstr "இப்போது புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "mClear_autoUpdate"
+msgid "Update periodically"
+msgstr "அவ்வப்போது புதுப்பிக்கவும்"
+
+#, java-printf-format
+msgctxt "mClear_lastCheck"
+msgid "Last check:"
+msgstr "கடைசி சோதனை:"
+
+#, java-printf-format
+msgctxt "mClear_lastUpdate"
+msgid "Last update:"
+msgstr "கடைசி புதுப்பிப்பு:"
+
+#, java-printf-format
+msgctxt "mClear_updated"
+msgid "Catalog updated"
+msgstr "பட்டியல் புதுப்பிக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "mClear_upToDate"
+msgid "Catalog up to date"
+msgstr "புதுப்பித்த நிலையில் பட்டியலிடுங்கள்"
+
+#, java-printf-format
+msgctxt "mClear_urlError"
+msgid ""
+"Unable to fetch the rules, make sure the URL is valid and you have an active"
+" connection"
+msgstr ""
+"விதிகளைப் பெற முடியவில்லை, முகவரி செல்லுபடியாகும் என்பதை உறுதிப்படுத்தவும், "
+"உங்களுக்கு செயலில் இணைப்பு உள்ளது"
+
+#, java-printf-format
+msgctxt "mClear_hashError"
+msgid ""
+"Unable to fetch the hash, make sure the url is valid and you have an active "
+"connection"
+msgstr ""
+"ஆசைப் பெற முடியவில்லை, முகவரி செல்லுபடியாகும் என்பதை உறுதிப்படுத்தவும், "
+"உங்களுக்கு செயலில் இணைப்பு உள்ளது"
+
+#, java-printf-format
+msgctxt "mClear_hashMismatch"
+msgid ""
+"Hashes do not match, the file may have been tampered with. If you want to "
+"skip the check remove the hash URL"
+msgstr ""
+"ஆச்கள் பொருந்தவில்லை, கோப்பு சேதப்படுத்தப்பட்டிருக்கலாம். நீங்கள் காசோலையைத்"
+" தவிர்க்க விரும்பினால் ஆச் முகவரி ஐ அகற்றவும்"
+
+#, java-printf-format
+msgctxt "mClear_restore"
+msgid "Restore ClearURLs paths"
+msgstr "கிளியர்யூர்ல்ச் பாதைகளை மீட்டமை"
+
+#, java-printf-format
+msgctxt "mClear_editor"
+msgid ""
+"Catalog rules: They must follow the format from %s.\n"
+"Note that any modification to the parent object 'providers' will be overwritten if the catalog is updated automatically or manually from the updater dialog. To have personal rules set them in a different parent object (any name)."
+msgstr ""
+"பட்டியல் விதிகள்: அவை %s இலிருந்து வடிவமைப்பைப் பின்பற்ற வேண்டும்.\n"
+" புதுப்பிப்பு உரையாடலில் இருந்து தானாகவோ அல்லது கைமுறையாகவோ பட்டியல் புதுப்பிக்கப்பட்டால், பெற்றோர் பொருள் 'வழங்குநர்கள்' மீறப்படுவது மேலெழுதப்படும் என்பதை நினைவில் கொள்க. தனிப்பட்ட விதிகள் இருக்க அவற்றை வேறு பெற்றோர் பொருளில் (எந்த பெயரும்) அமைக்கவும்."
+
+#, java-printf-format
+msgctxt "mRemove_name"
+msgid "Queries Remover"
+msgstr "வினவல்கள் நீக்கி"
+
+#, java-printf-format
+msgctxt "mRemove_desc"
+msgid ""
+"[DEPRECATED] With this module you can remove queries from the URL.\n"
+"Press the button to remove them all or press the arrow to remove one at a time.\n"
+"Thanks to PabloOQ for the idea and original implementation!\n"
+"\n"
+"This module has been deprecated in favor of the 'Uri parts' module"
+msgstr ""
+"[நீக்கப்பட்டது] இந்த தொகுதி மூலம் நீங்கள் முகவரி இலிருந்து வினவல்களை அகற்றலாம்.\n"
+" அவை அனைத்தையும் அகற்ற பொத்தானை அழுத்தவும் அல்லது ஒரு நேரத்தில் ஒன்றை அகற்ற அம்புக்குறியை அழுத்தவும்.\n"
+" சிந்தனை மற்றும் அசல் செயலாக்கத்திற்கு பப்லூக் நன்றி!\n"
+"\n"
+" இந்த தொகுதி 'யுஆர்ஐ பாகங்கள்' தொகுதிக்கு ஆதரவாக நீக்கப்பட்டது"
+
+#, java-printf-format
+msgctxt "mRemove_found1"
+msgid "1 query found"
+msgstr "1 வினவல் கிடைத்தது"
+
+#, java-printf-format
+msgctxt "mRemove_found"
+msgid "%d queries found"
+msgstr "%d வினவல்கள் காணப்பட்டன"
+
+#, java-printf-format
+msgctxt "mRemove_noQueries"
+msgid "No queries"
+msgstr "வினவல்கள் இல்லை"
+
+#, java-printf-format
+msgctxt "mRemove_all"
+msgid "Remove all"
+msgstr "அனைத்தையும் அகற்று"
+
+#, java-printf-format
+msgctxt "mRemove_one"
+msgid "Remove %s"
+msgstr "%s ஐ அகற்று"
+
+#, java-printf-format
+msgctxt "mRemove_empty"
+msgid "Remove empty"
+msgstr "காலியாக அகற்றவும்"
+
+#, java-printf-format
+msgctxt "mLog_name"
+msgid "Log"
+msgstr "பதிவு"
+
+#, java-printf-format
+msgctxt "mLog_desc"
+msgid ""
+"This module logs all checked URLs. You can view, clear or edit the full log "
+"here, no visual indication will appear on the main dialog. To disable "
+"logging, just disable the module."
+msgstr ""
+"இந்த தொகுதி சரிபார்க்கப்பட்ட அனைத்து முகவரி களையும் பதிவு செய்கிறது. முழு "
+"பதிவையும் இங்கே காணலாம், அழிக்கலாம் அல்லது திருத்தலாம், முதன்மையான "
+"உரையாடலில் காட்சி அறிகுறி எதுவும் தோன்றாது. பதிவை முடக்க, தொகுதியை முடக்கு."
+
+#, java-printf-format
+msgctxt "mLog_view"
+msgid "View log"
+msgstr "பதிவைக் காண்க"
+
+#, java-printf-format
+msgctxt "mLog_edit"
+msgid "Edit log"
+msgstr "பதிவைத் திருத்து"
+
+#, java-printf-format
+msgctxt "mLog_empty"
+msgid "No data"
+msgstr "தரவு இல்லை"
+
+#, java-printf-format
+msgctxt "mLog_limit"
+msgid ""
+"Maximum number of entries to keep. Recommended value: 100. Set empty for "
+"unlimited"
+msgstr ""
+"வைத்திருக்க அதிகபட்ச உள்ளீடுகளின் எண்ணிக்கை. பரிந்துரைக்கப்பட்ட மதிப்பு: "
+"100. வரம்பற்ற காலியாக அமைக்கவும்"
+
+#, java-printf-format
+msgctxt "mLog_unlimited"
+msgid "Unlimited"
+msgstr "வரம்பற்றது"
+
+#, java-printf-format
+msgctxt "mHosts_name"
+msgid "Hosts labeler"
+msgstr "ஓச்ட்கள் லேபிளர்"
+
+#, java-printf-format
+msgctxt "mHosts_desc"
+msgid ""
+"This module labels hosts, configured either by specifying them manually or "
+"by using a remote hosts-like file. You can use it to warn about dangerous or"
+" special sites. The builtin configuration specifies StevenBlack's hosts "
+"(adware/malware, fakenews, gambling and adult content) from %s. Note: "
+"subdomains will also be checked, so 'x.y.z' and 'y.z' will be detected for "
+"the entry 'y.z'"
+msgstr ""
+"இந்த தொகுதி ஓச்ட்களை லேபிளிடுகிறது, அவற்றை கைமுறையாகக் குறிப்பிடுவதன் மூலமோ "
+"அல்லது தொலை ஓச்ட்கள் போன்ற கோப்பைப் பயன்படுத்துவதன் மூலமோ "
+"கட்டமைக்கப்படுகிறது. ஆபத்தான அல்லது சிறப்பு தளங்களைப் பற்றி எச்சரிக்க "
+"நீங்கள் இதைப் பயன்படுத்தலாம். பில்டின் உள்ளமைவு %s இலிருந்து "
+"ச்டீவ்ல்ப்ளேக்கின் ஓச்ட்களை (ஆட்வேர்/தீம்பொருள், ஃபேக்கனியூச், சூதாட்டம் "
+"மற்றும் அகவை வந்தோர் உள்ளடக்கம்) குறிப்பிடுகிறது. குறிப்பு: துணை டொமைன்களும்"
+" சரிபார்க்கப்படும், எனவே 'Y.Z' நுழைவுக்கு 'X.Y.Z' மற்றும் 'Y.Z' ஆகியவை "
+"கண்டறியப்படும்"
+
+#, java-printf-format
+msgctxt "mHosts_tm"
+msgid "StevenBlack's hosts from %s"
+msgstr "%s இலிருந்து ச்டீவன் பிளாக் ஓச்ட்கள்"
+
+#, java-printf-format
+msgctxt "mHosts_malware"
+msgid "adware/malware"
+msgstr "ஆட்வேர்/தீம்பொருள்"
+
+#, java-printf-format
+msgctxt "mHosts_info"
+msgid "Host:"
+msgstr "புரவலன்:"
+
+#, java-printf-format
+msgctxt "mHosts_noLabel"
+msgid "no label"
+msgstr "சிட்டை இல்லை"
+
+#, java-printf-format
+msgctxt "mHosts_fakenews"
+msgid "fakenews"
+msgstr "ஃபேக்கனியூச்"
+
+#, java-printf-format
+msgctxt "mHosts_gambling"
+msgid "gambling"
+msgstr "சூதாட்டம்"
+
+#, java-printf-format
+msgctxt "mHosts_adult"
+msgid "adult content"
+msgstr "வயதுவந்தோர் உள்ளடக்கம்"
+
+#, java-printf-format
+msgctxt "mHosts_build"
+msgid "Build"
+msgstr "உருவாக்கு"
+
+#, java-printf-format
+msgctxt "mHosts_uninitialized"
+msgid "Hosts database uninitialized. Press to build"
+msgstr "தரவுத்தளத்தை வழங்காத புரவலன். உருவாக்க அழுத்தவும்"
+
+#, java-printf-format
+msgctxt "mHosts_parseError"
+msgid "Can not parse URL host"
+msgstr "முகவரி ஓச்டை அலச முடியாது"
+
+#, java-printf-format
+msgctxt "mHosts_editor"
+msgid ""
+"Hosts configuration. Format: List of objects where the key is the hosts label and the content includes the following optional values:\n"
+"- file: An url of a remote hosts-file to download. All valid hosts present will be added. The lines should follow the hosts syntax: 'ip host [alias…]', but those with only 'host' are valid too.\n"
+"- hosts: List of raw hosts (strings) to add.\n"
+"- color: The label's color. An Android color string (#AARRGGBB, #RRGGBB or a valid color name). Defaults to a 'danger' red.\n"
+"- replace: if false existing hosts won't be replaced. Note that objects are evaluated from top to bottom. True by default.\n"
+"- enabled: if false this whole object will be skipped. True by default."
+msgstr ""
+"உள்ளமைவு புரவலன். வடிவம்: முக்கிய ஓச்ட்கள் சிட்டை மற்றும் உள்ளடக்கத்தில் உள்ள பொருள்களின் பட்டியல் பின்வரும் விருப்ப மதிப்புகளை உள்ளடக்கியது:\n"
+" - கோப்பு: பதிவிறக்கம் செய்ய தொலை ஓச்ட்கள்-கோப்பின் முகவரி. தற்போதுள்ள அனைத்து செல்லுபடியாகும் ஓச்ட்களும் சேர்க்கப்படும். கோடுகள் ஓச்ட்களின் தொடரியல்: 'ஐபி புரவலன் [மாற்றுப்பெயர்…]', ஆனால் 'புரவலன்' மட்டுமே உள்ளவர்களும் செல்லுபடியாகும்.\n"
+" - ஓச்ட்கள்: சேர்க்க மூல ஓச்ட்களின் பட்டியல் (சரங்கள்).\n"
+" - நிறம்: லேபிளின் நிறம். ஒரு ஆண்ட்ராய்டு வண்ண சரம் (#AarggBB, #RRGGBB அல்லது செல்லுபடியாகும் வண்ண பெயர்). 'இடர்' சிவப்பு நிறத்திற்கு இயல்புநிலை.\n"
+" - மாற்றவும்: தவறான ஓச்ட்கள் மாற்றப்படாது என்றால். பொருள்கள் மேலிருந்து கீழாக மதிப்பீடு செய்யப்படுகின்றன என்பதை நினைவில் கொள்க. இயல்புநிலையாக உண்மை.\n"
+" - இயக்கப்பட்டது: பொய்யானது இருந்தால் இந்த முழு பொருளும் தவிர்க்கப்படும். இயல்புநிலையாக உண்மை."
+
+#, java-printf-format
+msgctxt "mHosts_buildTitle"
+msgid "Build hosts database"
+msgstr "ஓச்ட்கள் தரவுத்தளத்தை உருவாக்குங்கள்"
+
+#, java-printf-format
+msgctxt "mHosts_buildDesc"
+msgid ""
+"This will clear the current hosts database and build it with the current "
+"configuration, downloading hosts files from the internet if required. This "
+"action may take a few seconds. Continue?"
+msgstr ""
+"இது தற்போதைய புரவலன் தரவுத்தளத்தை அழித்து தற்போதைய உள்ளமைவுடன் உருவாக்கும், "
+"தேவைப்பட்டால் இணையத்திலிருந்து ஓச்ட்கள் கோப்புகளைப் பதிவிறக்குகிறது. இந்த "
+"நடவடிக்கை சில வினாடிகள் ஆகலாம். தொடரவா?"
+
+#, java-printf-format
+msgctxt "mHosts_buildProgress"
+msgid "Building catalog"
+msgstr "கட்டிட அட்டவணை"
+
+#, java-printf-format
+msgctxt "mHosts_buildInit"
+msgid "Initializing"
+msgstr "துவக்குதல்"
+
+#, java-printf-format
+msgctxt "mHosts_buildClear"
+msgid "Clearing…"
+msgstr "தீர்வு…"
+
+#, java-printf-format
+msgctxt "mHosts_buildDownload"
+msgid "Downloading '%1$s' hosts from %2$s…"
+msgstr "%2$s இலிருந்து ' %1$s' ஓச்ட்களைப் பதிவிறக்குவது…"
+
+#, java-printf-format
+msgctxt "mHosts_buildSave"
+msgid "Saving…"
+msgstr "சேமிப்பு…"
+
+#, java-printf-format
+msgctxt "mHosts_built"
+msgid "Database built: %d hosts"
+msgstr "தரவுத்தளம் கட்டப்பட்டது: %d ஓச்ட்கள்"
+
+#, java-printf-format
+msgctxt "mUnshort_name"
+msgid "Unshortener"
+msgstr "அன்சார்டனர்"
+
+#, java-printf-format
+msgctxt "mUnshort_unshort"
+msgid "Unshort"
+msgstr "விரிவாக்கு"
+
+#, java-printf-format
+msgctxt "mUnshort_desc"
+msgid ""
+"This module will unshort links by sending them to %s, which evaluates them on their servers and save the redirection for future requests. Avoid unshortening links with private or sensitive data.\n"
+"Their api is rate limited to 10 requests per hour for new checks. The module response will show how many requests you have pending."
+msgstr ""
+"இந்த தொகுதி அவற்றை %s க்கு அனுப்புவதன் மூலம் இணைப்புகளை மாற்றும், அவை அவற்றின் சேவையகங்களில் மதிப்பிடுகின்றன மற்றும் எதிர்கால கோரிக்கைகளுக்கான திருப்பிவிடலை சேமிக்கின்றன. தனிப்பட்ட அல்லது முக்கியமான தரவுகளுடன் இணைப்புகளைத் தவிர்க்கவும்.\n"
+" அவற்றின் பநிஇ புதிய காசோலைகளுக்கான ஒரு மணி நேரத்திற்கு 10 கோரிக்கைகளுக்கு வரையறுக்கப்பட்டுள்ளது. நீங்கள் எத்தனை கோரிக்கைகள் நிலுவையில் உள்ளது என்பதை தொகுதி பதில் காண்பிக்கும்."
+
+#, java-printf-format
+msgctxt "mUnshort_tm"
+msgid "unshorten.me free API by Unshorten.me"
+msgstr "anshorten.me இலவச பநிஇ ஆல் unshorten.me"
+
+#, java-printf-format
+msgctxt "mUnshort_checking"
+msgid "Checking…"
+msgstr "சோதனை…"
+
+#, java-printf-format
+msgctxt "mUnshort_error"
+msgid "Server error: %s"
+msgstr "சேவையக பிழை: %s"
+
+#, java-printf-format
+msgctxt "mUnshort_internal"
+msgid "Internal error (%s)"
+msgstr "உள் பிழை (%s)"
+
+#, java-printf-format
+msgctxt "mUnshort_to"
+msgid "Unshortens to %s"
+msgstr "%s க்கு அசைக்கப்படுகிறது"
+
+#, java-printf-format
+msgctxt "mUnshort_notFound"
+msgid "No unshorted url found"
+msgstr "அசைக்கப்படாத முகவரி எதுவும் கிடைக்கவில்லை"
+
+#, java-printf-format
+msgctxt "mUnshort_pending"
+msgid "pending: %1$d/%2$d"
+msgstr "நிலுவையில் உள்ளது: %1$d/ %2$d"
+
+#, java-printf-format
+msgctxt "mUnshort_ok"
+msgid "Unshortened"
+msgstr "அசைக்கப்படாதது"
+
+#, java-printf-format
+msgctxt "mFlags_name"
+msgid "Flags editor"
+msgstr "கொடிகள் ஆசிரியர்"
+
+#, java-printf-format
+msgctxt "mFlag_desc"
+msgid ""
+"[Beta feature] This is an advanced module, it allows you to edit the intent flags when opening another app.\n"
+"This module will show a list of flags, you can change if the flag is set or not by taping the icon. There is also an overflow menu to hide flags in there, it is just visual, flags will still use the assigned state.\n"
+"The flags will have two color indicators next to the checkbox. The left one shows the value received from the intent, the right one indicates the state set by the module itself. Red means the flag is not set and green means the flag is set. Additionally the preference indicator can be grey, this means that the state was set to auto.\n"
+"With the button below you can edit the default state and the visibility of the flags."
+msgstr ""
+"[பீட்டா அம்சம்] இது ஒரு மேம்பட்ட தொகுதி, மற்றொரு பயன்பாட்டைத் திறக்கும்போது நோக்கக் கொடிகளைத் திருத்த இது உங்களை அனுமதிக்கிறது.\n"
+" இந்த தொகுதி கொடிகளின் பட்டியலைக் காண்பிக்கும், ஐகானைத் தட்டுவதன் மூலம் கொடி அமைக்கப்பட்டதா இல்லையா என்பதை நீங்கள் மாற்றலாம். அங்கு கொடிகளை மறைக்க ஒரு வழிதல் பட்டியல் உள்ளது, அது காட்சி, கொடிகள் இன்னும் ஒதுக்கப்பட்ட நிலையைப் பயன்படுத்தும்.\n"
+" கொடிகள் தேர்வுப்பெட்டிக்கு அடுத்ததாக இரண்டு வண்ண குறிகாட்டிகளைக் கொண்டிருக்கும். இடது ஒன்று நோக்கத்திலிருந்து பெறப்பட்ட மதிப்பைக் காட்டுகிறது, வலது ஒன்று தொகுதியால் நிர்ணயிக்கப்பட்ட நிலையை குறிக்கிறது. சிவப்பு என்றால் கொடி அமைக்கப்படவில்லை மற்றும் பச்சை என்றால் கொடி அமைக்கப்பட்டுள்ளது. கூடுதலாக, விருப்பக் காட்டி சாம்பல் நிறமாக இருக்கலாம், இதன் பொருள் மாநிலம் ஆட்டோவாக அமைக்கப்பட்டது.\n"
+" கீழேயுள்ள பொத்தானைக் கொண்டு இயல்புநிலை நிலை மற்றும் கொடிகளின் தெரிவுநிலையைத் திருத்தலாம்."
+
+#, java-printf-format
+msgctxt "mFlag_editFlags"
+msgid "Edit default flag values"
+msgstr "இயல்புநிலை கொடி மதிப்புகளைத் திருத்தவும்"
+
+#, java-printf-format
+msgctxt "mParts_name"
+msgid "Uri parts"
+msgstr "யூரி பாகங்கள்"
+
+#, java-printf-format
+msgctxt "mParts_desc"
+msgid ""
+"This module shows all parts of the url decoded: scheme, authority, paths, queries and fragment.\n"
+"By clicking a part it will be set as the new url, useful for example if one of the queries or paths was an encoded redirection url.\n"
+"By long clicking a part it will be copied to the clipboard.\n"
+"You can also click the 'X' button to remove some of them.\n"
+"This is an advanced version of the 'Queries Remover' module."
+msgstr ""
+"இந்த தொகுதி முகவரி டிகோட் செய்யப்பட்ட அனைத்து பகுதிகளையும் காட்டுகிறது: திட்டம், அதிகாரம், பாதைகள், வினவல்கள் மற்றும் துண்டு.\n"
+" ஒரு பகுதியைக் சொடுக்கு செய்வதன் மூலம் அது புதிய முகவரி ஆக அமைக்கப்படும், எடுத்துக்காட்டாக வினவல்கள் அல்லது பாதைகளில் ஒன்று குறியிடப்பட்ட திசைதிருப்பல் முகவரி ஆக இருந்தால் பயனுள்ளதாக இருக்கும்.\n"
+" ஒரு பகுதியை நீண்ட நேரம் சொடுக்கு செய்வதன் மூலம் அது இடைநிலைப்பலகைக்கு நகலெடுக்கப்படும்.\n"
+" அவற்றில் சிலவற்றை அகற்ற 'ஃச்' பொத்தானைக் சொடுக்கு செய்யலாம்.\n"
+" இது 'வினவல்கள் நீக்குதல்' தொகுதியின் மேம்பட்ட பதிப்பாகும்."
+
+#, java-printf-format
+msgctxt "mParts_empty"
+msgid "(empty)"
+msgstr "(காலியாக)"
+
+#, java-printf-format
+msgctxt "mParts_copy"
+msgid "Part copied to clipboard"
+msgstr "இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்ட பகுதி"
+
+#, java-printf-format
+msgctxt "mWebhook_name"
+msgid "Webhook"
+msgstr "வெப்ஊக்"
+
+#, java-printf-format
+msgctxt "mWebhook_desc"
+msgid ""
+"This module sends URLs to a configured webhook endpoint. Each URL is sent with a timestamp, allowing you to collect and process URLs on your own server.\n"
+"Thanks to anoop-b for the idea and base implementation!\n"
+"\n"
+"Configure your webhook URL and body below to start sending URLs.\n"
+"For the body, you can use the placeholders $URL$, $TIMESTAMP$ and $REFERRER$."
+msgstr ""
+"இந்த தொகுதி கட்டமைக்கப்பட்ட வெப்ஊக் இறுதிப்புள்ளிக்கு முகவரி களை அனுப்புகிறது. ஒவ்வொரு முகவரி ஒரு நேர முத்திரையுடன் அனுப்பப்படுகிறது, இது உங்கள் சொந்த சேவையகத்தில் முகவரி களை சேகரித்து செயலாக்க அனுமதிக்கிறது. \n"
+"சிந்தனை மற்றும் அடிப்படை செயலாக்கத்திற்கு அனூப்-பி நன்றி! \n"
+"\n"
+"URL களை அனுப்பத் தொடங்க கீழே உங்கள் வெப்ஊக் முகவரி மற்றும் உடலை உள்ளமைக்கவும். \n"
+"உடலைப் பொறுத்தவரை, நீங்கள் பிளேச்ஓல்டர்கள் $ முகவரி $, $ டைம்ச்டாம்ப் $ மற்றும் $ ரெபரர் $ ஐப் பயன்படுத்தலாம்."
+
+#, java-printf-format
+msgctxt "mWebhook_url_hint"
+msgid "Webhook URL"
+msgstr "வெப்ஊக் முகவரி"
+
+#, java-printf-format
+msgctxt "mWebhook_body_hint"
+msgid "Webhook body"
+msgstr "வெப்ஊக் உடல்"
+
+#, java-printf-format
+msgctxt "mWebhook_send"
+msgid "Send to Webhook"
+msgstr "வெப்ஊக்கிற்கு அனுப்புங்கள்"
+
+#, java-printf-format
+msgctxt "mWebhook_auto_send"
+msgid "Send to webhook"
+msgstr "வெப்ஊக்கிற்கு அனுப்புங்கள்"
+
+#, java-printf-format
+msgctxt "mWebhook_missing_config"
+msgid "Missing webhook url or body"
+msgstr "வெப்ஊக் முகவரி அல்லது உடலை காணவில்லை"
+
+#, java-printf-format
+msgctxt "mWebhook_sending"
+msgid "Sending to webhook…"
+msgstr "வெப்ஊக்கிற்கு அனுப்புகிறது…"
+
+#, java-printf-format
+msgctxt "mWebhook_success"
+msgid "Successfully sent to webhook"
+msgstr "வெப்ஊக்கிற்கு வெற்றிகரமாக அனுப்பப்பட்டது"
+
+#, java-printf-format
+msgctxt "mWebhook_error"
+msgid "Failed to send to webhook"
+msgstr "வெப்ஊக்கிற்கு அனுப்பத் தவறிவிட்டது"
+
+#, java-printf-format
+msgctxt "mWebhook_templates"
+msgid "Templates"
+msgstr "வார்ப்புருக்கள்"
+
+#, java-printf-format
+msgctxt "mWebhook_test"
+msgid "Test webhook"
+msgstr "வெப்ஊக்கை சோதிக்கவும்"
+
+#, java-printf-format
+msgctxt "mDrawer_name"
+msgid "Drawer"
+msgstr "டிராயர்"
+
+#, java-printf-format
+msgctxt "mDrawer_desc"
+msgid ""
+"All modules below this will be hidden in a drawer. The modules will still "
+"work, but will be hidden until you open the drawer. Here you can place "
+"modules you rarely use, to avoid clutter."
+msgstr ""
+"இதற்கு கீழே உள்ள அனைத்து தொகுதிகளும் ஒரு அலமாரியில் மறைக்கப்படும். தொகுதிகள்"
+" இன்னும் வேலை செய்யும், ஆனால் நீங்கள் டிராயரைத் திறக்கும் வரை மறைக்கப்படும்."
+" ஒழுங்கீனத்தைத் தவிர்க்க, நீங்கள் அரிதாகவே பயன்படுத்தும் தொகுதிகளை இங்கே "
+"வைக்கலாம்."
+
+#, java-printf-format
+msgctxt "mChg_name"
+msgid "Changelog"
+msgstr "மாற்றபதிவு"
+
+#, java-printf-format
+msgctxt "mChg_desc"
+msgid "Will notify when the app was updated."
+msgstr "பயன்பாடு புதுப்பிக்கப்பட்டபோது அறிவிக்கும்."
+
+#, java-printf-format
+msgctxt "mChg_updated"
+msgid "The app has been updated."
+msgstr "பயன்பாடு புதுப்பிக்கப்பட்டுள்ளது."
+
+#, java-printf-format
+msgctxt "mChg_current"
+msgid "Current version: %s"
+msgstr "தற்போதைய பதிப்பு: %s"
+
+#, java-printf-format
+msgctxt "mChg_view"
+msgid "View changes"
+msgstr "மாற்றங்களைக் காண்க"

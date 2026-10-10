@@ -1,0 +1,811 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (NOÉ)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-09 17:00+0200\n"
+"PO-Revision-Date: 2025-08-09 22:12\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/noe/registrations/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+msgctxt "aProblemToRegister"
+msgid "Un problème pour s'inscrire ?"
+msgstr "பதிவு செய்ய சிக்கல்?"
+
+msgctxt "actions->changeIdentity"
+msgid "Changer d'identité"
+msgstr "மாற்றம்"
+
+msgctxt "actions->changeIdentityDescription"
+msgid ""
+"Cliquez sur un⋅e utilisateur⋅ice pour prendre son identité en vous "
+"connectant sur son compte."
+msgstr ""
+"உங்கள் கணக்கில் உள்நுழைவதன் மூலம் அவர்களின் அடையாளத்தை எடுக்க பயனரைக் "
+"சொடுக்கு செய்க."
+
+msgctxt "actions->stopChangeIdentity"
+msgid "Stopper le changement d'identité"
+msgstr "அடையாள மாற்றத்தை நிறுத்துங்கள்"
+
+msgctxt "availabilities->accessAdvancedEditor"
+msgid "accéder à l'éditeur avancé"
+msgstr "மேம்பட்ட வெளியீட்டாளரை அணுகவும்"
+
+msgctxt "availabilities->andILeaveOn"
+msgid "et je repars le"
+msgstr "நான் விட்டு விடுகிறேன்"
+
+msgctxt "availabilities->backToSimpleEditor"
+msgid "retour à l'éditeur simplifié"
+msgstr "எளிமைப்படுத்தப்பட்ட வெளியீட்டாளருக்குத் திரும்பு"
+
+msgctxt "availabilities->datePicker->aroundXh"
+msgid "vers {{hour}}h"
+msgstr "vers {{hour}} h"
+
+msgctxt "availabilities->datePicker->datePlaceholder"
+msgid "Date…"
+msgstr "தேதி…"
+
+msgctxt "availabilities->datePicker->hourPlaceholder"
+msgid "Heure…"
+msgstr "மணி…"
+
+msgctxt "availabilities->datePicker->shortcuts"
+msgid "Raccourcis"
+msgstr "குறுக்குவழி"
+
+msgctxt "availabilities->datePicker->timestampTemplate"
+msgid "{{label}} (~ {{hour}}h)"
+msgstr "{{label}} (~ {{hour}} h)"
+
+msgctxt "availabilities->datesAreComplicated"
+msgid "Mes dates de présence sont un peu compliquées :"
+msgstr "எனது இருப்பு தேதிகள் சற்று சிக்கலானவை:"
+
+msgctxt "availabilities->datesAreSimple"
+msgid "Mes dates de présence sont simples :"
+msgstr "எனது இருப்பு தேதிகள் எளிமையானவை:"
+
+msgctxt "availabilities->errors->addAStartDate"
+msgid "Ajoutez votre date d'arrivée."
+msgstr "உங்கள் வருகை தேதியைச் சேர்க்கவும்."
+
+msgctxt "availabilities->errors->addAnEndDate"
+msgid "Ajoutez votre date de départ."
+msgstr "உங்கள் புறப்படும் தேதியைச் சேர்க்கவும்."
+
+msgctxt "availabilities->iArriveOn"
+msgid "J'arrive le"
+msgstr "நான் வருகிறேன்"
+
+msgctxt "availabilities->infoMessage"
+msgid ""
+"L'événement a lieu du <strong>{{start}}</strong> au <strong>{{end}}</strong>"
+" inclus. <br/>Si vous ne savez pas encore quand vous venez, faites au mieux "
+": vous pourrez corriger vos dates plus tard."
+msgstr ""
+"நிகழ்வு <strong> {{start}} </strong> இலிருந்து <strong> {{end}} </strong> "
+"சேர்க்கப்பட்டுள்ளது. <br/> நீங்கள் வரும்போது இன்னும் தெரியாவிட்டால், "
+"சிறந்தது: உங்கள் தேதிகளை பின்னர் சரிசெய்யலாம்."
+
+msgctxt "availabilities->linkedToStewardAlert->dates->description"
+msgid ""
+"<p>Les organisateur⋅ices ont défini vos dates de présence, visibles ci-dessous.</p>\n"
+"<p>\n"
+"  <strong>Si vous constatez des différences</strong> entre vos dates et celles\n"
+"  rentrées par les organisateur⋅ices, merci de rentrer en contact avec elleux pour\n"
+"  <strong>mettre vos dates à jour</strong>.\n"
+"</p>\n"
+msgstr ""
+"<p> அமைப்பாளர்கள் உங்கள் இருப்பு தேதிகளை வரையறுத்துள்ளனர், கீழே தெரியும். </p>\n"
+"<p>\n"
+"<strong> நீங்கள் வேறுபாடுகளைக் கண்டால் </strong> உங்கள் தேதிகளுக்கும் அவற்றுக்கும் இடையில்\n"
+"அமைப்பாளர்களால் திரும்பியது, தயவுசெய்து அவளுடன் தொடர்பு கொள்ளுங்கள்\n"
+"<strong> உங்கள் தேதிகளைப் புதுப்பிக்கவும் </strong>. \n"
+"</p>\n"
+
+msgctxt "availabilities->linkedToStewardAlert->dates->title"
+msgid "Vos dates de présence en tant qu'$t(stewards:labelDown)"
+msgstr "$ T (ச்டீவர்ட்ச்: லேபல்டவுன்) என உங்கள் தேதிகள்"
+
+msgctxt "availabilities->linkedToStewardAlert->description"
+msgid ""
+"Si cette information est fausse ou si vos dates de présence sont différentes"
+" de celles affichées, contactez l'équipe organisatrice."
+msgstr ""
+"இந்த செய்தி தவறானது என்றால் அல்லது உங்கள் இருப்பு தேதிகள் "
+"காட்டப்பட்டவற்றிலிருந்து வேறுபட்டிருந்தால், ஒழுங்கமைக்கும் குழுவைத் தொடர்பு "
+"கொள்ளுங்கள்."
+
+msgctxt "availabilities->linkedToStewardAlert->message"
+msgid ""
+"Vous avez été désigné⋅e comme $t(stewards:labelDown) de l'événement, sous le"
+" nom de {{name}}"
+msgstr ""
+"{{name}} என்ற பெயரில், நிகழ்வின் $ t (ச்டீவர்ட்ச்: லேபில்டவுன்) என நீங்கள் "
+"நியமிக்கப்பட்டுள்ளீர்கள்"
+
+msgctxt "availabilities->timestamps->afterDinner"
+msgid "après le dîner"
+msgstr "இரவு உணவிற்குப் பிறகு"
+
+msgctxt "availabilities->timestamps->afterLunch"
+msgid "après le repas du midi"
+msgstr "மதிய உணவுக்குப் பிறகு"
+
+msgctxt "availabilities->timestamps->earlyInTheMorning"
+msgid "tôt le matin"
+msgstr "அதிகாலையில்"
+
+msgctxt "availabilities->timestamps->inTheLateAfternoon"
+msgid "en fin d'après-midi"
+msgstr "மதியம் முடிவில்"
+
+msgctxt "availabilities->timestamps->inTheMorning"
+msgid "dans la matinée"
+msgstr "காலையில்"
+
+msgctxt "availabilities->title"
+msgid "Quand serez-vous présent⋅e à l'événement ?"
+msgstr "நிகழ்வில் நீங்கள் எப்போது இருப்பீர்கள்?"
+
+msgctxt "backToForm"
+msgid "Retour au formulaire"
+msgstr "படிவத்திற்குத் திரும்பு"
+
+msgctxt "form->mandatoryFieldsNotice"
+msgid ""
+"Les champs précédés d'une astérisque <redColor>*</redColor> sont "
+"obligatoires."
+msgstr "ஒரு விண்மீன் <tolor>**</ redcolor> க்கு முந்தைய புலங்கள் கட்டாயமானவை."
+
+msgctxt "form->title"
+msgid "Formulaire d'inscription"
+msgstr "பதிவு"
+
+msgctxt "groupedSmsButtons->noPhoneNumbersFound"
+msgid "Pas de numéros de téléphone trouvés."
+msgstr "தொலைபேசி எண்கள் எதுவும் கிடைக்கவில்லை."
+
+msgctxt "groupedSmsButtons->tooltip"
+msgid "Envoyer un SMS groupé à tous·tes les participant·es"
+msgstr "பங்கேற்பாளர்கள் அனைவருக்கும் குழுவாக ஒரு எச்எம்எச் அனுப்பவும்"
+
+msgctxt "groupedSmsButtons->useThisFeatureOnAPhone"
+msgid "Pour envoyer des SMS, utilisez votre téléphone :)"
+msgstr "எச்எம்எச் அனுப்ப, உங்கள் தொலைபேசியைப் பயன்படுத்தவும் :)"
+
+#, ignore-inconsistent
+msgctxt "label"
+msgid "Participant⋅e"
+msgstr "பங்கேற்பாளர்"
+
+msgctxt "labelMyRegistration"
+msgid "Mon inscription"
+msgstr "எனது பதிவு"
+
+msgctxt "labelRegister"
+msgid "S'inscrire"
+msgstr "பதிவு செய்யுங்கள்"
+
+#, ignore-inconsistent
+msgctxt "label_edit"
+msgid "Modifier un⋅e participant⋅e"
+msgstr "மாற்றியமைக்கும் UNəe பங்கேற்பாளர்"
+
+#, ignore-inconsistent
+msgctxt "label_other"
+msgid "Participant⋅es"
+msgstr "பங்கேற்பாளர்"
+
+msgctxt "list->advancedMode"
+msgid "Mode avancé"
+msgstr "மேம்பட்ட ஃபேசன்"
+
+msgctxt "list->dataDisplayOptionsTitle"
+msgid "Affichage des données"
+msgstr "தரவு காட்சி"
+
+msgctxt "list->displayUnbookedUsers"
+msgid "Afficher les personnes désinscrit⋅es et non-inscrites"
+msgstr "அறிவிக்கப்படாத மற்றும் பதிவு செய்யப்படாதவர்களைக் காட்டுங்கள்"
+
+#, ignore-inconsistent
+msgctxt "list->groupedPdfPlanningExportButton->customFileName"
+msgid "Sélection de plannings participant·es"
+msgstr "பங்கேற்கும் அட்டவணைகளின் தேர்வு"
+
+#, ignore-inconsistent
+msgctxt "list->groupedPdfPlanningExportButton->tooltip"
+msgid ""
+"Exporter les plannings des participant·es sélectionné·es en une seule fois."
+msgstr ""
+"ஒரே நேரத்தில் தேர்ந்தெடுக்கப்பட்ட பங்கேற்பாளர்களின் திட்டங்களை ஏற்றுமதி "
+"செய்யுங்கள்."
+
+msgctxt "main->erase"
+msgid "Effacer"
+msgstr "அழிக்க"
+
+msgctxt "main->eventNotOpen->comeBackLater"
+msgid ""
+"Les inscriptions sont fermées pour l'instant. Revenez un peu plus tard."
+msgstr ""
+"பதிவுகள் இப்போதைக்கு மூடப்பட்டுள்ளன. சிறிது நேரம் கழித்து திரும்பி "
+"வாருங்கள்."
+
+msgctxt "main->eventNotOpen->full"
+msgid "Oh mince ! L'événement est complet."
+msgstr "ஓ மெல்லிய! நிகழ்வு முடிந்தது."
+
+msgctxt "main->eventNotOpen->notYet"
+msgid "Oh mince ! L'événement n'est pas encore ouvert."
+msgstr "ஓ மெல்லிய! நிகழ்வு இன்னும் திறக்கப்படவில்லை."
+
+msgctxt "main->helpToast"
+msgid "Besoin d'aide ? Cliquez ici pour savoir comment vous inscrire."
+msgstr "உதவி தேவையா? பதிவு செய்வது எப்படி என்பதை அறிய இங்கே சொடுக்கு செய்க."
+
+msgctxt "main->registerToTheEvent"
+msgid "Valider mon inscription"
+msgstr "எனது பதிவை சரிபார்க்கவும்"
+
+msgctxt "main->saveModifications"
+msgid "Enregistrer les modifications"
+msgstr "மாற்றங்களைச் சேமிக்கவும்"
+
+msgctxt "main->unregisterButton->linkedToStewardCantUnregister"
+msgid ""
+"Vous êtes associé⋅e à un⋅e $t(stewards:labelDown), vous ne pouvez pas vous "
+"désinscrire par vous-même."
+msgstr ""
+"நீங்கள் ஒரு $ t (ச்டீவர்ட்ச்: லேபல்டவுன்) உடன் தொடர்புடையவர், நீங்களே "
+"குழுவிலக முடியாது."
+
+msgctxt "main->unregisterButton->thisWillUnsubscribeParticipantsFromSessions"
+msgid ""
+"Cela désinscrira également les personnes de <br /> leurs sessions et équipes"
+" si elles en ont."
+msgstr ""
+"இது <br /> அவர்களின் அமர்வுகள் மற்றும் அணிகள் வைத்திருந்தால் அவற்றைக் "
+"கொண்டிருக்கும்."
+
+#, ignore-reused
+msgctxt "main->unregisterButton->title"
+msgid "Me désinscrire"
+msgstr "குழுவிலகவும்"
+
+msgctxt "main->unregisterButton->yesRestartFromBeginning"
+msgid "Oui, je veux recommencer de zéro."
+msgstr "ஆம், நான் புதிதாக மீண்டும் தொடங்க விரும்புகிறேன்."
+
+msgctxt "main->unregisterButton->yesUnregister"
+msgid "Oui, je me désinscris."
+msgstr "ஆம், நான் குழுவிலக்கிறேன்."
+
+msgctxt "main->unregisterButton->youWillBeUnregisteredFromActivities"
+msgid "Vous serez désinscrit⋅e de toutes vos activités."
+msgstr "உங்கள் எல்லா நடவடிக்கைகளுக்கும் நீங்கள் காலாவதியாக இருப்பீர்கள்."
+
+msgctxt "main->unregisterButton->youWillLooseYouProgress"
+msgid "Tout ce que vous avez renseigné sur cette page sera effacé."
+msgstr "இந்த பக்கத்தைப் பற்றி நீங்கள் தெரிவித்த அனைத்தும் அழிக்கப்படும்."
+
+msgctxt "main->validateAndProceed"
+msgid "Valider et continuer"
+msgstr "சரிபார்க்கவும் தொடரவும்"
+
+msgctxt "main->welcomeMessages->newUser->description"
+msgid ""
+"Vous êtes sur la page d'inscription de l'événement {{projectName}}. \n"
+"Pour vous inscrire, il suffit de remplir les informations nécessaires sur cette page,\n"
+"puis de cliquer sur \"Valider mon inscription\".\n"
+msgstr ""
+"நீங்கள் நிகழ்வின் பதிவு பக்கத்தில் இருக்கிறீர்கள் {{projectName}}. \n"
+"பதிவு செய்ய, இந்த பக்கத்தில் தேவையான தகவல்களை நிரப்பவும்,\n"
+"பின்னர் \"எனது கல்வெட்டை சரிபார்க்கவும்\" என்பதைக் சொடுக்கு செய்க.\n"
+
+msgctxt "main->welcomeMessages->newUser->message"
+msgid "Bienvenue, {{userName}} !"
+msgstr "வரவேற்கிறோம், {{userName}}!"
+
+msgctxt "main->welcomeMessages->registrationComplete->description"
+msgid ""
+"<p>\n"
+"  Vous pouvez modifier vos informations en cliquant sur \"Enregistrer les modifications\".\n"
+"</p>\n"
+"Accédez à votre planning en cliquant sur <linkToPlanning><strong>\"Mon Planning\"</strong></linkToPlanning>.\n"
+msgstr ""
+"<p>\n"
+"\"மாற்றங்களைச் சேமி\" என்பதைக் சொடுக்கு செய்வதன் மூலம் உங்கள் தகவலை மாற்றலாம். \n"
+"</p>\n"
+"<sktoplaning> <strong> \"எனது திட்டமிடல்\" </strong> </sktoplaning> இல் சொடுக்கு செய்வதன் மூலம் உங்கள் அட்டவணையை அணுகவும்.\n"
+
+msgctxt "main->welcomeMessages->registrationComplete->message"
+msgid "Vous êtes inscrit⋅e."
+msgstr "நீங்கள் பதிவு செய்யப்பட்டுள்ளீர்கள்."
+
+msgctxt "main->welcomeMessages->registrationSaved->description"
+msgid ""
+"Vos données d'inscription ont été sauvegardées. Rentrez les derniers détails"
+" demandés pour vous inscrire."
+msgstr ""
+"உங்கள் பதிவு தரவு சேமிக்கப்பட்டுள்ளது. பதிவு செய்யக் கோரப்பட்ட அண்மைக் கால "
+"விவரங்களைத் திருப்பி விடுங்கள்."
+
+msgctxt "main->welcomeMessages->registrationSaved->message"
+msgid "Vous y êtes presque."
+msgstr "நீங்கள் கிட்டத்தட்ட இருக்கிறீர்கள்."
+
+msgctxt "messages->bravoYouAreRegistered->comeBackWhenSubscriptionsAreOpen"
+msgid ""
+"Revenez plus tard quand les inscriptions aux activités seront ouvertes, pour"
+" vous inscrire au programme de l'événement. À très vite 👋"
+msgstr ""
+"நிகழ்வுகளுக்கான நடவடிக்கைகள் திறந்திருக்கும் போது, நிகழ்வு திட்டத்திற்கு "
+"பதிவு செய்ய பின்னர் திரும்பவும். விரைவில் சந்திப்போம்"
+
+msgctxt "messages->bravoYouAreRegistered->subTitle"
+msgid "Inscrivez-vous maintenant aux sessions de l'événement !"
+msgstr "இப்போது நிகழ்வு அமர்வுகளுக்கு பதிவு செய்யுங்கள்!"
+
+msgctxt "messages->bravoYouAreRegistered->title"
+msgid "Bravo, vous êtes inscrit⋅e ! 🎉"
+msgstr "நல்லது, நீங்கள் பதிவு செய்யப்பட்டுள்ளீர்கள்! ."
+
+msgctxt "messages->defaultError"
+msgid ""
+"Oups, vous avez trouvé un bug ! Il y a eu un petit problème pendant "
+"l'enregistrement de vos données. Merci d'en informer l'équipe organisatrice."
+msgstr ""
+"அச்சச்சோ, நீங்கள் ஒரு பிழையைக் கண்டுபிடித்தீர்கள்! உங்கள் தரவைப் பதிவு "
+"செய்யும் போது ஒரு சிறிய சிக்கல் இருந்தது. ஒழுங்கமைக்கும் குழுவுக்கு "
+"தெரிவிக்கவும்."
+
+msgctxt "messages->registrationIncomplete"
+msgid "Votre inscription n'est pas encore complète."
+msgstr "உங்கள் பதிவு இன்னும் முழுமையடையவில்லை."
+
+msgctxt "messages->registrationIncompleteCanAlreadySaveProgress"
+msgid ""
+"Votre inscription n'est pas encore complète, mais vous pouvez déjà sauver "
+"vos progrès si vous le souhaitez :)"
+msgstr ""
+"உங்கள் பதிவு இன்னும் முழுமையடையவில்லை, ஆனால் நீங்கள் விரும்பினால் உங்கள் "
+"முன்னேற்றத்தை ஏற்கனவே சேமிக்க முடியும் :)"
+
+msgctxt "messages->registrationIncompleteCantSaveModifications"
+msgid ""
+"Votre inscription n'est pas complète, vous ne pouvez pas enregistrer les "
+"modifications."
+msgstr "உங்கள் பதிவு முழுமையடையவில்லை, மாற்றங்களைச் சேமிக்க முடியாது."
+
+msgctxt "messages->registrationIncompleteShouldSetDatesOfPresence"
+msgid ""
+"Votre inscription n'est pas complète. Commencez par renseigner vos dates de "
+"présence :)"
+msgstr ""
+"உங்கள் பதிவு முழுமையடையவில்லை. உங்கள் இருப்பு தேதிகளை உள்ளிடுவதன் மூலம் "
+"தொடங்கவும் :)"
+
+msgctxt "messages->savedProgress"
+msgid ""
+"Renseignez toutes les informations requises pour valider votre inscription. "
+"Votre progrès ont été sauvegardés."
+msgstr ""
+"உங்கள் பதிவை சரிபார்க்க தேவையான அனைத்து தகவல்களையும் உள்ளிடவும். உங்கள் "
+"முன்னேற்றம் சேமிக்கப்பட்டுள்ளது."
+
+msgctxt "messages->unregistrationSuccessful"
+msgid "Désinscription réussie !"
+msgstr "வெற்றிகரமான குழுவிலகப்பட்டது!"
+
+msgctxt "notifIncomplete->completeMyRegistration"
+msgid "Compléter mon inscription"
+msgstr "எனது பதிவை முடிக்கவும்"
+
+msgctxt "notifIncomplete->form"
+msgid ""
+"<strong>Formulaire incomplet :</strong> Renseignez les champs obligatoires "
+"pour valider votre inscription."
+msgstr ""
+"<strong> முழுமையற்ற படிவம்: </strong> உங்கள் பதிவை சரிபார்க்க கட்டாய "
+"புலங்களைத் தெரிவிக்கவும்."
+
+msgctxt "notifIncomplete->ticketing"
+msgid ""
+"<strong>Billet nécessaire :</strong> Renseignez un numéro de billet pour "
+"valider votre inscription."
+msgstr ""
+"<strong> டிக்கெட் தேவை: </strong> உங்கள் பதிவை சரிபார்க்க டிக்கெட் எண்ணை "
+"உள்ளிடவும்."
+
+msgctxt "notifIncomplete->title"
+msgid "Votre inscription n'est pas encore complète."
+msgstr "உங்கள் பதிவு இன்னும் முழுமையடையவில்லை."
+
+msgctxt "numberOfDaysOfPresence->label"
+msgid "Jours"
+msgstr "நாட்கள்"
+
+msgctxt "participantsAndStats"
+msgid "Participant⋅es & stats"
+msgstr "பங்கேற்பாளர் & புள்ளிவிவரங்கள்"
+
+msgctxt "registrationHelpButton->consultHelpCenter->description"
+msgid "Consulter le centre d'aide de NOÉ"
+msgstr "நோவாவின் உதவி மையத்தை அணுகவும்"
+
+msgctxt "registrationHelpButton->consultHelpCenter->subtitle"
+msgid "Fonctionnement de l'outil, données personnelles, etc."
+msgstr "கருவி செயல்பாடு, தனிப்பட்ட தரவு போன்றவை."
+
+msgctxt "registrationHelpButton->consultHelpCenter->title"
+msgid "J'ai une question liée à l'utilisation de l'outil"
+msgstr "கருவியின் பயன்பாடு தொடர்பான கேள்வி என்னிடம் உள்ளது"
+
+msgctxt "registrationHelpButton->contactEventTeam->description"
+msgid "Contacter l'équipe organisatrice de l'événement"
+msgstr "நிகழ்வு ஒழுங்கமைக்கும் குழுவைத் தொடர்பு கொள்ளுங்கள்"
+
+msgctxt "registrationHelpButton->contactEventTeam->emailSubject"
+msgid "J'ai un problème lié à mon inscription sur NOÉ"
+msgstr "நோவில் எனது பதிவு தொடர்பான சிக்கல் எனக்கு உள்ளது"
+
+msgctxt "registrationHelpButton->contactEventTeam->subtitle"
+msgid "Formulaire, billetterie, inscription aux sessions, etc."
+msgstr "படிவம், டிக்கெட் அலுவலகம், அமர்வுகளுக்கான பதிவு போன்றவை."
+
+msgctxt "registrationHelpButton->contactEventTeam->title"
+msgid "J'ai un souci lié à mon inscription"
+msgstr "எனது பதிவோடு இணைக்கப்பட்ட ஒரு கவலை எனக்கு உள்ளது"
+
+msgctxt "registrationHelpButton->contactNOETeam->description"
+msgid "Contacter l'équipe NOÉ"
+msgstr "NOé அணியைத் தொடர்பு கொள்ளுங்கள்"
+
+msgctxt "registrationHelpButton->contactNOETeam->subtitle"
+msgid "Bug, page d'erreur, comportement inattendu, etc."
+msgstr "பிழை, பிழை பக்கம், எதிர்பாராத நடத்தை போன்றவை."
+
+msgctxt "registrationHelpButton->contactNOETeam->title"
+msgid "La plateforme ne fonctionne pas"
+msgstr "தளம் வேலை செய்யாது"
+
+msgctxt "registrationValidation->endCannotBeBeforeStart"
+msgid "Votre date de départ ne peut pas être avant votre date d'arrivée."
+msgstr "உங்கள் வருகை தேதிக்கு முன் உங்கள் புறப்படும் தேதி இருக்க முடியாது."
+
+msgctxt "registrationValidation->selectDatesToRegister"
+msgid ""
+"Sélectionnez une date d'arrivée et une date de départ pour vous inscrire."
+msgstr "பதிவு செய்ய வருகை தேதி மற்றும் புறப்படும் தேதியைத் தேர்ந்தெடுக்கவும்."
+
+msgctxt "registrationValidation->someFormFieldsAreMandatory"
+msgid "Certains champs obligatoires du formulaire restent à remplir:"
+msgstr "படிவத்தின் சில கட்டாய புலங்கள் முடிக்கப்பட உள்ளன:"
+
+msgctxt "registrationValidation->ticketingIsMandatory"
+msgid ""
+"Vous devez réserver un billet pour vous inscrire. Si vous avez déjà le "
+"vôtre, vous pourrez le renseigner manuellement."
+msgstr ""
+"பதிவு செய்ய நீங்கள் டிக்கெட் முன்பதிவு செய்ய வேண்டும். உங்களிடம் ஏற்கனவே "
+"உங்களுடையது இருந்தால், அதை கைமுறையாகக் காணலாம்."
+
+msgctxt "roles->orgaOfTheEvent"
+msgid "organisateur⋅ice de l'événement"
+msgstr "நிகழ்வு அமைப்பாளர்"
+
+msgctxt "roles->stewardOnThisSession"
+msgid "$t(stewards:labelDown) de cette session"
+msgstr "இந்த அமர்வின் $ t (ச்டீவர்ட்ச்: லேபல்டவுன்)"
+
+msgctxt "schema->arrivalDateTime->label"
+msgid "Date d'arrivée"
+msgstr "வந்த தேதி"
+
+msgctxt "schema->departureDateTime->label"
+msgid "Date de départ"
+msgstr "புறப்படும் தேதி"
+
+msgctxt "schema->everythingIsOk->label"
+msgid "Inscrit·e"
+msgstr "கல்வெட்டு"
+
+msgctxt "schema->hasCheckedIn->label"
+msgid "Arrivé·e"
+msgstr "வருகை"
+
+#, ignore-inconsistent, ignore-reused
+msgctxt "schema->hidden->label"
+msgid "Caché⋅e"
+msgstr "Cachéve"
+
+msgctxt "schema->role->addRole"
+msgid "Ajouter de nouveaux droits"
+msgstr "புதிய உரிமைகளைச் சேர்க்கவும்"
+
+msgctxt "schema->role->label"
+msgid "Droits"
+msgstr "உரிமைகள்"
+
+msgctxt "schema->role->options->admin->description"
+msgid ""
+"Droits de consultation, de création, d'édition et de suppression. Accès à la"
+" configuration avancée et à la gestion des droits."
+msgstr ""
+"அறிவுரை, உருவாக்கம், திருத்துதல் மற்றும் நீக்குதல் உரிமைகள். மேம்பட்ட "
+"உள்ளமைவு மற்றும் உரிமைகள் நிர்வாகத்திற்கான அணுகல்."
+
+msgctxt "schema->role->options->admin->label"
+msgid "Administrateur⋅ice"
+msgstr "நிர்வாகி"
+
+msgctxt "schema->role->options->contrib->description"
+msgid "Droits de consultation, de création et d'édition."
+msgstr "அறிவுரை, உருவாக்கம் மற்றும் வெளியீட்டு உரிமைகள்."
+
+msgctxt "schema->role->options->contrib->label"
+msgid "Contributeur⋅ice"
+msgstr "பங்களிப்பு"
+
+msgctxt "schema->role->options->guest->description"
+msgid "Droits de consultation seulement."
+msgstr "அறிவுரை உரிமைகள் மட்டுமே."
+
+msgctxt "schema->role->options->guest->label"
+msgid "Invité⋅e"
+msgstr "Invitéve"
+
+msgctxt "schema->role->placeholder"
+msgid "droits"
+msgstr "உரிமைகள்"
+
+msgctxt "schema->role->roleScale"
+msgid "Échelle des droits"
+msgstr "உரிமைகள் அளவுகோல்"
+
+msgctxt "schema->steward->label"
+msgid "$t(stewards:label) lié·e"
+msgstr "$ t (ச்டீவர்ட்ச்: லேபிள்) இணைக்கப்பட்டுள்ளது"
+
+msgctxt "schema->tags->label"
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+msgctxt "schema->team->label"
+msgid "Équipe"
+msgstr "அணி"
+
+msgctxt "schema->tickets->label"
+msgid "Billets"
+msgstr "பில்லெட்ச்"
+
+msgctxt "schema->volunteeringStats->label"
+msgid "Bénévolat"
+msgstr "தன்னார்வ"
+
+msgctxt "ticketing->add"
+msgid "Ajouter"
+msgstr "சேர்"
+
+msgctxt "ticketing->addAnotherTicket"
+msgid "Renseigner un autre billet :"
+msgstr "மற்றொரு இடுகையை நிரப்பவும்:"
+
+msgctxt "ticketing->addManually"
+msgid "Vous avez déjà votre billet ? Ajoutez le ici :"
+msgstr "உங்களிடம் ஏற்கனவே டிக்கெட் இருக்கிறதா? இங்கே சேர்க்கவும்:"
+
+msgctxt "ticketing->addYourTicketHere"
+msgid "Renseignez votre numéro de billet ici :"
+msgstr "உங்கள் டிக்கெட் எண்ணை இங்கே கண்டுபிடிக்கவும்:"
+
+msgctxt "ticketing->alreadyHaveTicket"
+msgid "Vous avez déjà votre billet ?"
+msgstr "உங்களிடம் ஏற்கனவே டிக்கெட் இருக்கிறதா?"
+
+msgctxt "ticketing->helloAssoAlert"
+msgid ""
+"Ci-dessous se trouve une <strong>page de paiement Hello Asso</strong> 👇 "
+"C'est ici que vous pouvez acheter votre billet. <br/> <strong>Renseignez la "
+"même adresse email</strong> que celle avec laquelle vous avez créé votre "
+"compte NOÉ (<i>{{email}}</i>). De cette manière, NOÉ saura que c'est bien "
+"vous qui effectuez l'achat 😌"
+msgstr ""
+"கீழே ஒரு <strong> அலோ அசோ கட்டணப் பக்கம் </strong> your உங்கள் டிக்கெட்டை "
+"வாங்கக்கூடிய இடம் இங்குதான். <br/> <strong> அதே மின்னஞ்சல் முகவரியைத் "
+"தெரிவிக்கவும் </strong> உங்கள் NOé கணக்கை நீங்கள் உருவாக்கியதைப் போல (<i> "
+"{{email}} </i>). இந்த வழியில், வாங்குவதை நீங்கள் தான் செய்வது நோவாவுக்குத் "
+"தெரியும்"
+
+msgctxt "ticketing->labelBookATicket"
+msgid "Achetez votre billet"
+msgstr "உங்கள் டிக்கெட்டை வாங்கவும்"
+
+msgctxt "ticketing->labelIHaveATicket"
+msgid "J'ai un numéro de billet"
+msgstr "என்னிடம் டிக்கெட் எண் உள்ளது"
+
+msgctxt "ticketing->labelMyTickets"
+msgid "Mes billets"
+msgstr "எனது டிக்கெட்"
+
+msgctxt "ticketing->messages->alreadyUsedTicket"
+msgid "Le billet a déjà été utilisé."
+msgstr "டிக்கெட் ஏற்கனவே பயன்படுத்தப்பட்டுள்ளது."
+
+msgctxt "ticketing->messages->ticketAdded"
+msgid "Billet ajouté !"
+msgstr "டிக்கெட் சேர்க்கப்பட்டது!"
+
+msgctxt "ticketing->messages->ticketNotFound"
+msgid "Le numéro de billet n'a pas été trouvé."
+msgstr "டிக்கெட் எண் கண்டுபிடிக்கப்படவில்லை."
+
+msgctxt "ticketing->messages->unregisterBeforeRemovingTicket"
+msgid ""
+"Pour retirer tous vos billets, désinscrivez-vous de l'événement d'abord."
+msgstr ""
+"உங்கள் எல்லா டிக்கெட்டுகளையும் திரும்பப் பெற, நிகழ்வை முதலில் பிரிக்கவும்."
+
+msgctxt "ticketing->schema->amount"
+msgid "Montant"
+msgstr "தொகை"
+
+#, ignore-same
+msgctxt "ticketing->schema->article"
+msgid "Article"
+msgstr "கட்டுரை"
+
+msgctxt "ticketing->schema->id"
+msgid "Numéro de billet"
+msgstr "டிக்கெட் எண்"
+
+msgctxt "ticketing->schema->options"
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+msgctxt "ticketing->schema->userName"
+msgid "Nom"
+msgstr "நோம்"
+
+msgctxt "ticketing->thanksToTiBilletAlert"
+msgid ""
+"NOÉ est fier de travailler avec <linkToTiBillet>TiBillet</linkToTiBillet>, une billetterie \n"
+"open-source et coopérative. Ce sont eux qui s'occupent des tickets : achetez le vôtre juste en dessous 👇\n"
+msgstr ""
+"<லிங்க்டோடிபில்லெட்> டிபில்லெட் </ லிங்க்டோடிபில்லெட்>, டிக்கெட் அலுவலகத்துடன் பணியாற்றுவதில் நோவா பெருமிதம் கொள்கிறார்\n"
+"திறந்த மூல மற்றும் கூட்டுறவு. அவர்கள் தான் டிக்கெட்டுகளை கவனித்துக்கொள்கிறார்கள்: உங்களுடையதை கீழே வாங்கவும்\n"
+
+msgctxt "ticketing->ticketInputPlaceholder"
+msgid "numéro de billet"
+msgstr "டிக்கெட் எண்"
+
+msgctxt "ticketing->transfer->button->label"
+msgid "Transférer"
+msgstr "இடமாற்றம்"
+
+msgctxt "ticketing->transfer->button->tooltip"
+msgid "Transférez votre billet à un·e autre participant·e en un clic !"
+msgstr ""
+"உங்கள் டிக்கெட்டை வேறு எந்த பங்கேற்பாளருக்கும் ஒரே கிளிக்கில் மாற்றவும்!"
+
+msgctxt "ticketing->transfer->infoAlert"
+msgid ""
+"<p>\n"
+"  Vous pouvez transférer votre billet à un·e autre participant·e en renseignant l'email de son compte NOÉ.\n"
+"  Iel recevra alors un email pour l'informer du transfert.\n"
+"</p>  Le transfert de ticket ne prend pas en compte le transfert d'argent. Si votre billet était payant, assurez vous de récupérer l'argent auprès du destinataire par vos propres moyens."
+msgstr ""
+"<p>\n"
+"அவரது NOé கணக்கிலிருந்து மின்னஞ்சலை உள்ளிட்டு வேறு எந்த பங்கேற்பாளருக்கும் உங்கள் டிக்கெட்டை மாற்றலாம். \n"
+"அது பரிமாற்றத்தைப் பற்றி தெரிவிக்க ஒரு மின்னஞ்சலைப் பெறும். \n"
+"</p> டிக்கெட்டை மாற்றுவது பணத்தை மாற்றுவதை கணக்கில் எடுத்துக்கொள்ளாது. உங்கள் டிக்கெட் பணம் செலுத்தினால், பெறுநரிடமிருந்து பணத்தை உங்கள் சொந்தமாக மீட்டெடுப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
+
+msgctxt "ticketing->transfer->messages->notFound"
+msgid ""
+"Oh oh… ça n'a pas marché. Est-ce que le destinataire a un compte sur NOÉ ?"
+msgstr "ஓ… அது வேலை செய்யவில்லை. பெறுநருக்கு நோவாவில் ஒரு கணக்கு இருக்கிறதா?"
+
+msgctxt "ticketing->transfer->messages->success"
+msgid ""
+"Transfert réussi ! Le destinataire a reçu une confirmation par email à "
+"l'adresse {{toEmail}}."
+msgstr ""
+"வெற்றிகரமான பரிமாற்றம்! பெறுநர் {{toEmail} adder முகவரியில் மின்னஞ்சல் மூலம்"
+" உறுதிப்படுத்தலைப் பெற்றார்."
+
+msgctxt "ticketing->transfer->modalTitle"
+msgid "Transférer mon billet"
+msgstr "எனது டிக்கெட்டை மாற்றவும்"
+
+msgctxt "ticketing->transfer->toEmail->errorCantBeSameEmailAsUser"
+msgid "L'email du destinataire doit être différente de votre propre compte."
+msgstr ""
+"பெறுநரின் மின்னஞ்சல் உங்கள் சொந்த கணக்கிலிருந்து வேறுபட்டிருக்க வேண்டும்."
+
+msgctxt "ticketing->transfer->toEmail->label"
+msgid "Email du destinataire"
+msgstr "பெறுநர் மின்னஞ்சல்"
+
+msgctxt "ticketing->transfer->transfer"
+msgid "Transférer"
+msgstr "இடமாற்றம்"
+
+msgctxt "ticketing->transfer->transferAndUnregister"
+msgid "Transférer et se désinscrire"
+msgstr "பரிமாற்றம் மற்றும் குழுவிலகவும்"
+
+msgctxt "ticketing->transfer->transferredFromEmailOnDate"
+msgid "Transféré depuis l'email {{fromEmail}} le {{date}}"
+msgstr "{{fromEmail}} {{date}} என்ற மின்னஞ்சலில் இருந்து மாற்றப்பட்டது"
+
+msgctxt "ticketing->transfer->warningAlert"
+msgid ""
+"Les arnaques à la vente de billet sont fréquentes : achetez et vendez votre "
+"billet seulement entre  personnes de confiance."
+msgstr ""
+"டிக்கெட்டுகளை விற்பனை செய்வதற்கான மோசடிகள் அடிக்கடி நிகழ்கின்றன: நம்பகமான "
+"நபர்களிடையே மட்டுமே உங்கள் டிக்கெட்டை வாங்கி விற்கவும்."
+
+msgctxt "ticketing->transfer->warningOnlyOneTicketAlert->description"
+msgid ""
+"Si vous transférez votre ticket, vous serez <strong>automatiquement "
+"désinscrit·e</strong> de l'événement et vos inscriptions aux activités "
+"seront supprimées."
+msgstr ""
+"உங்கள் டிக்கெட்டை மாற்றினால், நீங்கள் நிகழ்வின் <strong> தானாக "
+"குழுவிலகப்படாத </strong> ஆக இருப்பீர்கள், மேலும் நடவடிக்கைகளுக்கான உங்கள் "
+"பதிவுகள் நீக்கப்படும்."
+
+msgctxt "ticketing->transfer->warningOnlyOneTicketAlert->message"
+msgid "Vous ne possédez qu'un seul billet !"
+msgstr "உங்களிடம் ஒரே ஒரு இடுகை மட்டுமே உள்ளது!"
+
+msgctxt "ticketing->youHaveYourTicket"
+msgid "C'est bon, vous avez votre billet."
+msgstr "இது நல்லது, உங்கள் டிக்கெட் உங்களிடம் உள்ளது."
+
+msgctxt "volunteeringGauge->fullRegistrationRecap"
+msgid ""
+"Tu comptabilises {{numberOfDaysOfPresence}} jours de présence, et ton total "
+"de bénévolat s'élève à {{total}}. Par jour, cela fait donc {{totalPerDay}}."
+msgstr ""
+"நீங்கள் {{numberOfDaysOfPresence}}} நாட்களை எண்ணுகிறீர்கள், மேலும் உங்கள் "
+"மொத்த தன்னார்வலர் {{total}}. எனவே, இது {{totalPerDay}}."
+
+msgctxt "volunteeringGauge->fullRegistrationRecapAbsolute"
+msgid "Ton total de bénévolat s'élève à {{total}}."
+msgstr "உங்கள் தன்னார்வ மொத்தம் {{total}}."
+
+msgctxt "volunteeringGauge->hint->itsPerfect"
+msgid "Ni trop, ni pas assez: ta jauge de bénévolat est parfaite."
+msgstr "அதிகமாகவோ போதுமானதாகவோ இல்லை: உங்கள் தன்னார்வ பாதை சரியானது."
+
+#, ignore-ellipsis
+msgctxt "volunteeringGauge->hint->lessNeeded"
+msgid "Tu fais beaucoup de bénévolat... Pense à prendre du temps pour toi !"
+msgstr ""
+"நீங்கள் நிறைய தன்னார்வலர்களை செய்கிறீர்கள் ... உங்களுக்காக நேரம் எடுக்க "
+"நினைவில் கொள்ளுங்கள்!"
+
+msgctxt "volunteeringGauge->hint->moreNeeded"
+msgid "Inscris toi à plus d'activités de bénévolat pour remplir ta jauge."
+msgstr "உங்கள் அளவை நிரப்ப அதிக தன்னார்வ நடவடிக்கைகளுக்கு பதிவு செய்யுங்கள்."
+
+msgctxt "volunteeringGauge->projectRecap"
+msgid ""
+"Le nombre d'heures par jour conseillé se trouve entre {{min}} et {{max}}."
+msgstr ""
+"பரிந்துரைக்கப்பட்ட ஒரு நாளைக்கு மணிநேரங்களின் எண்ணிக்கை {{min}} மற்றும் "
+"{{max} between க்கு இடையில் உள்ளது."

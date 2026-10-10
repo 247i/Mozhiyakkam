@@ -1,0 +1,755 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: சுற்றுப்பலகையியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "acid trap"
+msgstr "அமிலக்கண்ணி"
+
+msgid "artwork"
+msgstr "ஒளிமறைப்பு"
+
+msgid "assembled board"
+msgstr "ஒன்றுகூட்டப்பட்டப் பலகை"
+
+msgid "assembled board"
+msgstr "ஒன்றுகூட்டப்பட்டப் பலகை"
+
+msgid "automatic assembly"
+msgstr "தன்னியக்க ஒன்றுக்கூட்டலில் "
+
+msgid "automatic optical inspection"
+msgstr "தன்னியக்க ஒளியாய்பொறி"
+
+msgid "automatic test equipment"
+msgstr "தன்னியக்கச் சோதனைப் பொறி"
+
+msgid "back-drilled via"
+msgstr "பின்துளை வழிமம்"
+
+msgid "ball grid array"
+msgstr "பந்தணி"
+
+msgid "bare board"
+msgstr "வெற்றுப் பலகை"
+
+msgid "bed of nails"
+msgstr "ஆணிப்படுகை"
+
+msgid "bed-of-nails"
+msgstr "ஆணிப்படுகை"
+
+msgid "bipolar junction transistor"
+msgstr "இருமுனைவுச் சந்தித் திரிதடையம்"
+
+msgid "bjt"
+msgstr "சந்தித் திரிதடையம்"
+
+msgid "blind via"
+msgstr "மறை வழிமம்"
+
+msgid "board file"
+msgstr "சுற்றுப்பலகைக் கோப்பு"
+
+msgid "board outline"
+msgstr "பலகைத் திட்டவரை"
+
+msgid "buffered oxide etch"
+msgstr "தாங்கலுயிரக அரிபொருள்"
+
+msgid "built-in self test"
+msgstr "தன்னகச்சோதனை"
+
+msgid "burried via"
+msgstr "பதி வழிமம்"
+
+msgid "capacitive load"
+msgstr "மின்தேக்கச் சுமை"
+
+msgid "chamfer"
+msgstr "முளைமுழுக்கல்"
+
+msgid "clock"
+msgstr "கடிகை"
+
+msgid "clock routing"
+msgstr "கடிகைத் திசைவு"
+
+msgid "clock signal"
+msgstr "கடிகைக் குறிகை"
+
+msgid "cmos gate"
+msgstr "நிரப்புமாழைவுயிரக வாயில் "
+
+msgid "cmos technology"
+msgstr "உயிரகத் தொழில்நுட்பம்"
+
+msgid "coating"
+msgstr "மேற்பூச்சு"
+
+msgid "complimentary metal oxide semiconductor"
+msgstr "நிரப்பு மாழை உயிரகம்"
+
+msgid "component"
+msgstr "உறுப்பு"
+
+msgid "component orientation"
+msgstr "உறுப்பு திசையமைவு"
+
+msgid "connector"
+msgstr "இணைப்பி"
+
+msgid "controlled impedance"
+msgstr "கட்டுப்படு மின்மறுப்பு"
+
+msgid "controlled impedance traces"
+msgstr "கட்டுப்படு மின்மறுப்பு மின்தடங்கள்"
+
+msgid "copper pour"
+msgstr "செப்பூற்று"
+
+msgid "cross-talk"
+msgstr "குறுக்குப் பேச்சு"
+
+msgid "custom fixture"
+msgstr "தனிப்பயன் நிலைப்பொருத்தி"
+
+msgid "cut-out"
+msgstr "அறுபகுதி"
+
+msgid "cyanide"
+msgstr "தழைமக்கரிமம்"
+
+msgid "decap"
+msgstr "பிணைநீக்கு மின்தேக்கி"
+
+msgid "decoupling capacitor"
+msgstr "பிணைநீக்கு மின்தேக்கி"
+
+msgid "deposition"
+msgstr "படியும்"
+
+msgid "development"
+msgstr "படவளர்ப்பு"
+
+msgid "diffusion"
+msgstr "விரவல்"
+
+msgid "dip processing"
+msgstr "முக்கல் செய்முறை"
+
+msgid "dissipation"
+msgstr "மின்விரயம்"
+
+msgid "dry etching"
+msgstr "உலர் அரிபொறிப்பு"
+
+msgid "electroless nickel immersion gold (enig)"
+msgstr "மின்னற்ற வன்வெள்ளி தங்கமூழ்கல்"
+
+msgid "emulator"
+msgstr "போன்றி"
+
+msgid "etchant"
+msgstr "அரிபொருள்"
+
+msgid "etching"
+msgstr "அரிபொறிப்பு"
+
+msgid "fab house"
+msgstr "புனைவகம்"
+
+msgid "fabrication"
+msgstr "புனைவு"
+
+msgid "ferric chloride"
+msgstr "இரும்பு பாசிகம்"
+
+msgid "fet"
+msgstr "புலவிளைவி"
+
+msgid "fiducial"
+msgstr "நம்பகப்புள்ளி"
+
+msgid "field effect transistor"
+msgstr "புலவிளைவுத் திரிதடையம்"
+
+msgid "fine pitch"
+msgstr "நுண்புரி"
+
+msgid "fine-pitched component"
+msgstr "துல்லியப் புரி உறுப்பு"
+
+msgid "flex pcb"
+msgstr "நெகிழ் சுற்றுப்பலகை, நெகிழ்ப்பலகை"
+
+msgid "flux"
+msgstr "இளக்கி"
+
+msgid "flux-solder mixture"
+msgstr "இளக்கி-சூட்டிணைக் கலவை"
+
+msgid "flying probe"
+msgstr "பறக்கும் தேட்டி"
+
+msgid "foam flux"
+msgstr "நுரை இளக்கி"
+
+msgid "footprint"
+msgstr "அமர்வகுதி"
+
+msgid "functional"
+msgstr "செயல்பாடு"
+
+msgid "gate"
+msgstr "வாயில்"
+
+msgid "gate array"
+msgstr "வாயிலணி"
+
+msgid "gerber"
+msgstr "கர்பர்"
+
+msgid "gold"
+msgstr "தங்கம்"
+
+msgid "grid"
+msgstr "நெய்யரி"
+
+msgid "ground plane"
+msgstr "நிலத்தளம்"
+
+msgid "ground return"
+msgstr "நிலத் திரும்பம்"
+
+msgid "header"
+msgstr "தலைப்பி"
+
+msgid "headers"
+msgstr "தலைப்பிகளுக்கு"
+
+msgid "heat sink"
+msgstr "வெப்பமடு"
+
+msgid "heel fillet"
+msgstr "குதிகால் நிரப்பு"
+
+msgid "high-density interconnect"
+msgstr "அடரிடையிணைப்பு"
+
+msgid "hot air"
+msgstr "அனல்கற்று"
+
+msgid "hot air surface levelling"
+msgstr "அனல்முறை பரப்பு மட்டமாக்கல்"
+
+msgid "immersion silver"
+msgstr "வெள்ளிமூழ்கல்"
+
+msgid "in-circuit testing"
+msgstr "உட்சுற்றுச் சோதனை"
+
+msgid "incircuit tester"
+msgstr "உட்சுற்றுச் சோதிப்பி"
+
+msgid "incircuit testing"
+msgstr "உட்சுற்றுச் சோதனை"
+
+msgid "inert gas"
+msgstr "மந்தவளிமம்"
+
+msgid "infrared lamp"
+msgstr "அகச்சிவப்பு விளக்கு"
+
+msgid "input node capacitance"
+msgstr "நுழைக்கணு மின்தேக்கம்"
+
+msgid "interconnect capacitance"
+msgstr "இடைவிணைப்பு மின்தேக்கம்"
+
+msgid "internal layer"
+msgstr "உள்ளடுக்கு"
+
+msgid "jfet"
+msgstr "சந்தியி"
+
+msgid "jumper"
+msgstr "துள்ளி"
+
+msgid "junction field effect transistor"
+msgstr "சந்திப் புலவிளைவுத் திரிதடையம்"
+
+msgid "keep-out area"
+msgstr "தடைப் பகுதி"
+
+msgid "laminate"
+msgstr "மென்தகடு"
+
+msgid "land pattern"
+msgstr "அமர்வகுதி"
+
+msgid "land patterns "
+msgstr "அமர்வகுதிகள்"
+
+msgid "layout"
+msgstr "மனையமைவு"
+
+msgid "layout design"
+msgstr "மனையமை வடிவமைப்பு"
+
+msgid "lead"
+msgstr "ஈயம்"
+
+msgid "leads"
+msgstr "இழுதுகள்"
+
+msgid "lithography"
+msgstr "அச்சோவியம்"
+
+msgid "logic"
+msgstr "தருக்கம், ஏரணம்"
+
+msgid "logic blocks"
+msgstr "தருக்கக்கூற்றுகள்"
+
+msgid "logic level"
+msgstr "தருக்க மட்டம், ஏரண மட்டம்"
+
+msgid "logic synthesis"
+msgstr "தருக்கவிணைப்பாக்கம்"
+
+msgid "manufacturing"
+msgstr "தயாரிப்பு"
+
+msgid "manufacturing defect analyzers"
+msgstr "சோதனைப்பொறிகள் தயாரிப்பு"
+
+msgid "mask"
+msgstr "மறைப்பு"
+
+msgid "metal oxide semiconductor"
+msgstr "மாழை உயிரகக் குறைக்கடத்தி"
+
+msgid "metal oxide semiconductor field effect transistor"
+msgstr "மாழை உயிரகப் புலவிளைவுத் திரிதடையம்"
+
+msgid "micro-inch"
+msgstr "நுண்ணங்குலம்"
+
+msgid "micron"
+msgstr "நுண்மீட்டர்"
+
+msgid "microstrip"
+msgstr "நுண்கீற்று"
+
+msgid "moat"
+msgstr "அகழி"
+
+msgid "moating"
+msgstr "அகழியிடல்"
+
+msgid "molten tin-lead alloy"
+msgstr "நீர்ம வெள்ளீய-ஈய கலப்புமாழை"
+
+msgid "mosfet"
+msgstr "மாழை உயிரகி"
+
+msgid "multi-chip module"
+msgstr "பலசில்லு கட்டகம்"
+
+msgid "multiplexer"
+msgstr "பன்மையாக்கி"
+
+msgid "n-channel metal oxide semiconductor field effect transistor"
+msgstr "எதிர்த்தட மாழை உயிரகப் புலவிளைவுத் திரிதடையம்"
+
+msgid "negative junction field effect transistor"
+msgstr "எதிர்த்தடச் சந்திப் புலவிளைவுத் திரிதடையம்"
+
+msgid "negative transparency"
+msgstr "எதிர்மத் தெளிதகடு "
+
+msgid "net"
+msgstr "வலைமம்"
+
+msgid "netlist"
+msgstr "வலைமப்பட்டியல்"
+
+msgid "nickel"
+msgstr "வன்வெள்ளி"
+
+msgid "njfet"
+msgstr "எதிர்ச்சந்தியி"
+
+msgid "nmos transistor"
+msgstr "எதிர்மாழைவுயிரகி"
+
+msgid "non-solder mask defined"
+msgstr "இடைவெளி சூட்டிணை மறைப்பு"
+
+msgid "npn"
+msgstr "எதிர்நேரெதிரி"
+
+msgid "npn transistor"
+msgstr "எதிரகம்-நேரகம்-எதிரகம் திரிதடையம்"
+
+msgid "off state"
+msgstr "அகல்நிலை"
+
+msgid "on state"
+msgstr "நிகழ்நிலை"
+
+msgid "open"
+msgstr "திறப்பு"
+
+msgid "opens"
+msgstr "திறப்புகள்"
+
+msgid "organic solderability preservative"
+msgstr "அங்ககச் சூட்டிணைத்தகவு பதப்பொருள்"
+
+msgid "outer layer"
+msgstr "வெளியடுக்கு"
+
+msgid "output capacitance"
+msgstr "வெளியீடு மின்தேக்கம்"
+
+msgid "output node capacitance"
+msgstr "வெளிக்கணு மின்தேக்கம்"
+
+msgid "oven"
+msgstr "போறணை"
+
+msgid "over etching"
+msgstr "மிகை அரிபொறிப்பு"
+
+msgid "oxidation"
+msgstr "உயிரகமேற்றமாகால்"
+
+msgid "p-channel metal oxide semiconductor field effect transistor"
+msgstr "நேர்த்தட மாழை உயிரகப் புலவிளைவுத் திரிதடையம்"
+
+msgid "package"
+msgstr "பொதி"
+
+msgid "packaging"
+msgstr "பொதியாக்கம்"
+
+msgid "pad"
+msgstr "நிரப்பிடம்"
+
+msgid "pad brittleness"
+msgstr "நிரப்பிட நொறுங்கல்"
+
+msgid "pad size"
+msgstr "நிரப்பிட அளவு"
+
+msgid "pads"
+msgstr "நிரப்பிடங்கள்"
+
+msgid "palladium"
+msgstr "வெண்ணிரும்பு"
+
+msgid "panelling"
+msgstr "பலகவமைவு"
+
+msgid "panellize"
+msgstr "பலகவமை"
+
+msgid "panellized pcbs"
+msgstr "பலகவமைவுச் சுற்றுப்பலகைகளை"
+
+msgid "passive component values"
+msgstr "உயிர்பற்ற உறுப்புகளின் மதிப்புகள்"
+
+msgid "pencil"
+msgstr "எழுதுகோல்"
+
+msgid "phase"
+msgstr "கட்டம்"
+
+msgid "photolithographic process"
+msgstr "ஒளியச்சோவிய செய்முறை"
+
+msgid "photolithography"
+msgstr "ஒளியச்சோவியம்"
+
+msgid "photoresist"
+msgstr "ஒளித்தடுப்பு"
+
+msgid "pick and place machine"
+msgstr "எடுவிடு இயந்திரம்"
+
+msgid "pin"
+msgstr "முள்"
+
+msgid "pin placement"
+msgstr "முள்ளிடவமைவு"
+
+msgid "pjfet"
+msgstr "நேர்ச்சந்தியி"
+
+msgid "place and route"
+msgstr "இடவமைவுத் திசைவு"
+
+msgid "placement"
+msgstr "இடவமைவு"
+
+msgid "plane layer"
+msgstr "தள அடுக்கு"
+
+msgid "pmos"
+msgstr "நேர்மாழைவுயிரகி"
+
+msgid "pnp transistor"
+msgstr "நேரெதிர்நேரி திரிதடையம்"
+
+msgid "positive junction field effect transistor"
+msgstr "நேர்த்தடச் சந்திப் புலவிளைவுத் திரிதடையம்"
+
+msgid "potassium hydroxide"
+msgstr "சாம்பரம் நீரகவுயிரகம்"
+
+msgid "power"
+msgstr "மின்திறன்"
+
+msgid "power dissipation"
+msgstr "மின்திறன் விரயம்"
+
+msgid "power plane"
+msgstr "மின்திறன் தளம்"
+
+msgid "power supply"
+msgstr "மின்வழங்கி"
+
+msgid "pre-pregnated material"
+msgstr "முன்னிறைவுபொருள்"
+
+msgid "pre-silicon emulation"
+msgstr "புனைவு முன்போன்றல்"
+
+msgid "printed circuit board"
+msgstr "மின் சுற்றுப்பலகை"
+
+msgid "probes"
+msgstr "தேட்டிகள்"
+
+msgid "rats (nest)"
+msgstr "எலிக்கூடு வலைமங்கள்"
+
+msgid "reactant gas"
+msgstr "வளிம வினைபடுபொருள்"
+
+msgid "reduction of hazardous substances directive"
+msgstr "இடர்ப்பொருள் குறைப்பு பொதுக்கட்டளை"
+
+msgid "reflow phase"
+msgstr "மறுபாய்வுக் கட்டம்"
+
+msgid "reflow soldering"
+msgstr "மறுபாய்வு சூட்டிணைப்பு"
+
+msgid "relay matrix"
+msgstr "அஞ்சலணி"
+
+msgid "removal"
+msgstr "நீக்கும்"
+
+msgid "return current"
+msgstr "திரும்பு மின்னோட்டம்/திரும்போட்டம்"
+
+msgid "rohs directive"
+msgstr "இடர்ப்பொருள் குறைப்பு பொதுக்கட்டளை"
+
+msgid "scan chain"
+msgstr "வருடல் சங்கிலி"
+
+msgid "scan registers"
+msgstr "வருடல் பதிவகங்கள்"
+
+msgid "score-line"
+msgstr "பொறிவுக்கோடு"
+
+msgid "scoring"
+msgstr "பொறிவுசெய்தல்"
+
+msgid "semiconductor materials"
+msgstr "குறைக்கடத்தி மூலதனங்கள்"
+
+msgid "short"
+msgstr "குறுக்கு"
+
+msgid "short circuit"
+msgstr "குறுக்குச்சுற்றை"
+
+msgid "short circuit current"
+msgstr "குறுக்கு மின்னோட்டம்"
+
+msgid "shorting jumpers"
+msgstr "குறுக்கு துள்ளிகள்"
+
+msgid "shorts"
+msgstr "குறுக்குகள்"
+
+msgid "signal"
+msgstr "குறிகை"
+
+msgid "signal integrity"
+msgstr "குறிகை மெய்மை"
+
+msgid "signal integrity analysis"
+msgstr "குறிகை மெய்யாய்வு"
+
+msgid "silkscreen"
+msgstr "சிறப்புத் திரையச்சு"
+
+msgid "silkscreen"
+msgstr "திரையச்சு"
+
+msgid "socket"
+msgstr "மாட்டி"
+
+msgid "solder"
+msgstr "சூட்டிணை"
+
+msgid "solder balls"
+msgstr "சூட்டிணைப்பந்துகள்"
+
+msgid "solder mask"
+msgstr "சூட்டிணை மறைப்பு"
+
+msgid "solder mask defined"
+msgstr "மேல்வீழல் சூட்டிணை மறைப்பு"
+
+msgid "solder pad"
+msgstr "சூட்டிணை நிரப்பிடம்"
+
+msgid "solder paste"
+msgstr "சூட்டிணைப் பசை"
+
+msgid "split plane"
+msgstr "பிரிதளம்"
+
+msgid "spray flux"
+msgstr "தெளிப்பு இளக்கி"
+
+msgid "stack-up"
+msgstr "அடுக்கமைவு"
+
+msgid "standing waves"
+msgstr "நிலையலைகள்"
+
+msgid "stencil"
+msgstr "வரையச்சு"
+
+msgid "stripline"
+msgstr "கீற்றுத்தடம்"
+
+msgid "stub"
+msgstr "முளை"
+
+msgid "sulfur hexaflouride"
+msgstr "கந்தகம் அறுவினைவியம்"
+
+msgid "surface finish"
+msgstr "பரப்புச் சீர்மை"
+
+msgid "surface finishing"
+msgstr "பரப்புச்சீர்மையாக்கல்"
+
+msgid "surface mount component"
+msgstr "பரப்பேற்றுறுப்பு"
+
+msgid "switching current"
+msgstr "நிலைமாறு மின்னோட்டம்"
+
+msgid "tape-out"
+msgstr "கட்டீடு"
+
+msgid "technology"
+msgstr "தொழில்நுட்பம்"
+
+msgid "test coverage"
+msgstr "சோதனைத் துழாவுகை"
+
+msgid "thermal shock"
+msgstr "வெம்மையதிர்ச்சி"
+
+msgid "thermal soak"
+msgstr "வெம்மையூறல்"
+
+msgid "through-hole component"
+msgstr "துளைப்புகு உறுப்பு"
+
+msgid "through-hole via"
+msgstr "துளைப்புகு வழிமம்"
+
+msgid "tin"
+msgstr "வெள்ளீயம்"
+
+msgid "toe fillet"
+msgstr "கால்விரல் நிரப்பு"
+
+msgid "traces"
+msgstr "மின்தடங்கள்"
+
+msgid "track"
+msgstr "மின்தடம் "
+
+msgid "ultraviolet"
+msgstr "புறவூதாவொளி"
+
+msgid "under-etching"
+msgstr "குறை அரபொறிப்பு"
+
+msgid "unsymmetrical stackup"
+msgstr "சமச்சீரற்ற அடுக்கமைவு"
+
+msgid "uv light"
+msgstr "புறவூதாவொளி"
+
+msgid "via"
+msgstr "வழிமம்"
+
+msgid "visibility"
+msgstr "விழிமை"
+
+msgid "visible light"
+msgstr "விழியொளி"
+
+msgid "wafer"
+msgstr "சீவல்"
+
+msgid "warping"
+msgstr "நெளிவு"
+
+msgid "wave soldering"
+msgstr "அலை சூட்டிணைப்பு"
+
+msgid "wet etching"
+msgstr "ஈர அரிபொறிப்பு"
+
+msgid "whisker"
+msgstr "நுண்தொடர்பி"
+
+msgid "whiskers"
+msgstr "நுண்தொடர்பிகள்"
+
+msgid "xenon"
+msgstr "அணுகன்"
+
+msgid "yield"
+msgstr "விளைச்சல்"
+
+msgid "yield analysis"
+msgstr "விளையாய்வு"

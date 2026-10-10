@@ -1,0 +1,1250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (+me frontend)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-30 14:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/plus-me-frontend/"
+"frontend/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+#, i18next-interpolation
+msgctxt "OK"
+msgid "OK"
+msgstr "சரி"
+
+#, i18next-interpolation
+msgctxt "CANCEL"
+msgid "Abbrechen"
+msgstr "ரத்துசெய்"
+
+#, i18next-interpolation
+msgctxt "CONNERROR"
+msgid ""
+"Verbindung zum Server fehlgeschlagen, bitte überprüfe deine "
+"Internetverbindung."
+msgstr ""
+"சேவையகத்திற்கான இணைப்பு தோல்வியடைந்தது, உங்கள் இணைய இணைப்பை சரிபார்க்கவும்."
+
+#, i18next-interpolation
+msgctxt "WIP"
+msgid "Dieses feature steht noch nicht zur Verfügung."
+msgstr "இந்த நற்பொருத்தம் இன்னும் கிடைக்கவில்லை."
+
+#, i18next-interpolation
+msgctxt "QUESTION.ANSWER"
+msgid "{{value}} Antwort"
+msgstr "{{value}} பதில்"
+
+#, i18next-interpolation
+msgctxt "QUESTION.ANSWERS"
+msgid "{{value}} Antworten"
+msgstr "{{value}} பதில்கள்"
+
+#, i18next-interpolation
+msgctxt "QUESTION.GOOD"
+msgid "gute Frage"
+msgstr "நல்ல கேள்வி"
+
+#, i18next-interpolation
+msgctxt "QUESTION.BAD"
+msgid "schlechte Frage"
+msgstr "மோசமான கேள்வி"
+
+#, i18next-interpolation
+msgctxt "QUESTION.REPORT"
+msgid "Diese Frage melden"
+msgstr "இந்த கேள்வியைப் புகாரளிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "QUESTION.REPORT_CONFIRM"
+msgid ""
+"Wir werden uns diese Frage anschauen. Wenn sie gegen unseren +me Codex "
+"verstößt wird sie gelöscht."
+msgstr ""
+"இந்த கேள்வியைப் பார்ப்போம். அவள் எங்கள் +மீ கோடெக்சை மீறினால், அது நீக்கப்படும்."
+
+#, i18next-interpolation
+msgctxt "FAQ.TITLE"
+msgid "Häufig gestellte Fragen"
+msgstr "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ1"
+msgid ""
+"<h2>Wie kann ich auf +me eine Frage stellen?</h2><p>Im Homescreen gibt es "
+"einen Button „Frage stellen”. Hier kannst du deine Frage eingeben und "
+"gleichzeitig mit bis zu drei Hashtags verknüpfen. Hashtags helfen anderen "
+"Nutzern, Fragen zu Themen zu finden, die sie interessieren. Um eigene Fragen "
+"stellen zu können, musst du vorher Fragen anderer Nutzer bewerten. Bitte "
+"beachte bei deiner Frage unseren +me Codex."
+msgstr ""
+"<H2> எனக்கு ஒரு கேள்வியைக் கேட்க முடியும் +</h2> <p> முகப்புத் திரையில் ஒரு பொத்தானை "
+"\"கேள்வி கேளுங்கள்\". இங்கே நீங்கள் உங்கள் கேள்வியை உள்ளிட்டு ஒரே நேரத்தில் மூன்று "
+"ஏச்டேக்குகளை இணைக்கலாம். மற்ற பயனர்கள் ஆர்வமுள்ள தலைப்புகளைப் பற்றிய கேள்விகளைக் கண்டுபிடிக்"
+"க ஏச்டேக்குகள் உதவுகின்றன. உங்கள் சொந்த கேள்விகளைக் கேட்க, நீங்கள் பிற பயனர்களிடமிருந்து "
+"கேள்விகளை முன்பே மதிப்பீடு செய்ய வேண்டும். கேட்டால் எங்கள் +மீ கோடெக்ச் நினைவில் கொள்க."
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ2"
+msgid ""
+"<h2>Warum muss ich persönliche Daten angeben um die App nutzen zu können?</"
+"h2><p>Mit diesen Angaben wollen wir verhindern, dass Fake-Profile erstellt "
+"werden und die Meinung der Community verzerrt wird. Die hierfür notwendige "
+"Datenerfassung ist auf ein Mindestniveau beschränkt.</p>"
+msgstr ""
+"<h2>பயன்பாட்டைப் பயன்படுத்த நான் ஏன் தனிப்பட்ட தரவை வழங்க வேண்டும்?</h2><p>இந்தத் தகவலுடன், "
+"போலி சுயவிவரங்கள் உருவாக்கப்படுவதையும் சமூகத்தின் கருத்தைச் சிதைப்பதையும் தடுக்க "
+"விரும்புகிறோம். இதற்குத் தேவையான தரவு சேகரிப்பு குறைந்தபட்ச மட்டத்திற்கு "
+"மட்டுப்படுத்தப்பட்டுள்ளது.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ3"
+msgid ""
+"<h2>Kann man sehen, von wem welche Frage ist?</h2><p>Nein. Niemand aus der "
+"Community oder den Politiker kann sehen, wer welche Frage gestellt hat. Du "
+"allein hast einen Überblick darüber, welche Fragen du selbst gestellt und "
+"welchen du dich hinzugefügt hast.</p>"
+msgstr ""
+"<h2>யாரிடமிருந்து என்ன கேள்வி?</h2><p>எந்தக் கேள்வியை யார் கேட்டார்கள் என்று "
+"சமூகத்திலிருந்தோ அல்லது அரசியல்வாதியையோ யாரும் பார்க்க முடியாது. நீங்கள் என்ன கேள்விகளைக் "
+"கேட்கிறீர்கள், எது சேர்த்தீர்கள் என்பதற்கான கண்ணோட்டம் மட்டுமே</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ4"
+msgid ""
+"<h2>Ist +me politisch neutral?</h2><p>Ja. Wir bieten allen Parteien die "
+"gleiche Möglichkeit, auf eure Fragen zu antworten. Es wurden allerdings nur "
+"jene Parteien eingeladen, die einen Spitzenkandidaten zur Bundestagswahl "
+"2017 gestellt haben und die in mindestens einem Landesparlament vertreten "
+"sind. Somit kamen folgende Parteien zustande:</p><ul><li>Christlich "
+"Demokratische Union Deutschlands (CDU)</li><li>Sozialdemokratische Partei "
+"Deutschlands (SPD)</li><li>Christlich-Soziale Union in Bayern (CSU)</"
+"li><li>Freie Demokratische Partei (FDP)</li><li>Alternative für Deutschland "
+"(AfD)</li><li>Bündnis 90/Die Grünen</li><li>Die Linke</li></ul>"
+msgstr ""
+"<h2>நான் அரசியல் ரீதியாக நடுநிலை? </h2> <p> ஆம். உங்கள் கேள்விகளுக்குப் பதிலளிக்க எல்லா "
+"தரப்பினருக்கும் ஒரே வழியில் நாங்கள் வழங்குகிறோம். எவ்வாறாயினும், 2017 பன்டெச்டாக் "
+"தேர்தலுக்கு ஒரு சிறந்த வேட்பாளரை வழங்கிய கட்சிகள் மற்றும் குறைந்தது ஒரு மாநில "
+"பாராளுமன்றத்தில் பிரதிநிதித்துவம் செய்யப்பட்டவர்கள் மட்டுமே அழைக்கப்பட்டனர். பின்வரும் கட்சிகள் "
+"வந்தன: </p> <ul> <li> செர்மனியின் கிறிச்தவ சனநாயக ஒன்றியம் (சிடியு) </li> <li> "
+"செர்மனியின் சமூக சனநாயகக் கட்சி (எச்பிடி) </li> <li> கிறிச்தவ-சமூக ஒன்றியம் "
+"பவேரியாவில் (சிஎச்யு) </li> <li> இலவச சனநாயகக் கட்சி (எஃப்டிபி) </li> <li> "
+"செர்மனிக்கான மாற்று (AFD) </li> <li> Bundnis 90/GREENS </li> <li> டை லிங்க் </li> "
+"</ul>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ5"
+msgid ""
+"<h2>Werden die Fragen und Antworten von euch bearbeitet oder verändert?</"
+"h2><p>Nein. Wir geben eine maximale Anzahl von Zeichen für die Fragen und "
+"die Antworten vor, darüber hinaus nehmen wir keinerlei Einfluss auf deren "
+"Inhalt. Bitte achte darauf, dass deine Frage nicht gegen den +me Codex "
+"verstößt, sonst müssen wir sie löschen.</p>"
+msgstr ""
+"<h2>நீங்கள் செயலாக்கிய அல்லது மாற்றப்பட்ட கேள்விகள் மற்றும் பதில்கள்.</h2><p>கேள்விகள் மற்றும் "
+"பதில்களுக்கு அதிகபட்ச கதாபாத்திரங்களை நாங்கள் தருகிறோம், மேலும் அவற்றின் உள்ளடக்கத்திலும் "
+"எங்களுக்கு எந்தச் செல்வாக்கும் இல்லை. உங்கள் கேள்வி +மீக்கோடெக்சை மீறாது என்பதை "
+"உறுதிப்படுத்தவும், இல்லையெனில் நாங்கள் அதை நீக்க வேண்டும்</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ6"
+msgid ""
+"<h2>Kann ich eine Frage von mir wieder löschen oder mich entfernen?</"
+"h2><p>Nein. Sobald du eine Frage als interessant bewertet hast, folgst du "
+"dieser Frage. Falls du eine selbst gestellte Frage wieder löschen möchtest, "
+"schreibe uns bitte unter Hilfe im Burger Menu eine Mail.</p>"
+msgstr ""
+"<h2>என்னிடமிருந்து ஒரு கேள்வியை நீக்க முடியுமா அல்லது என்னை அகற்ற "
+"முடியுமா?</h2><p>நீங்கள் ஒரு கேள்வியைச் சுவாரச்யமானதாக மதிப்பிட்டவுடன், இந்தக் கேள்வியை "
+"நீங்கள் பின்பற்றுவீர்கள். நீங்கள் ஒரு தன்வய கேள்வியை நீக்க விரும்பினால், தயவுசெய்து பர்கர் "
+"பட்டியலில் ஒரு மின்னஞ்சலை எழுதுங்கள்.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ7"
+msgid ""
+"<h2>Sehen die Politiker, wie ihre Antworten bewertet werden?</h2><p>Ja. Wir "
+"geben auf Nachfrage den Politikern darüber Auskunft, wie gut oder schlecht "
+"ihre Antworten bei den Nutzern von +me ankamen. Es gibt aber keine Auskunft "
+"darüber, wie einzelne Nutzer Antworten bewertet haben.</p>"
+msgstr ""
+"<h2>அரசியல்வாதிகள் தங்கள் பதில்கள் எவ்வாறு மதிப்பீடு "
+"செய்யப்படுகிறார்கள்?</h2><p>கோரிக்கையின் பேரில், அரசியல்வாதிகளுக்கு அவர்களின் பதில்கள் +"
+"ME பயனர்களால் எவ்வளவு நன்றாகவோ அல்லது மோசமாகவோ பெறப்பட்டன என்பது குறித்து நாங்கள் "
+"வழங்குகிறோம். இருப்பினும், தனிப்பட்ட பயனர்கள் பதில்களை எவ்வாறு மதிப்பீடு செய்தார்கள் என்பது "
+"பற்றிய எந்தத் தகவலும் இல்லை.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ8"
+msgid ""
+"<h2>Was passiert mit den Fragen und Antworten nach der Wahl?</h2><p>Die App "
+"wird auch nach der Wahl noch eine Weile verfügbar sein. Wir werden aber auch "
+"alle Fragen und Antworten sammeln und sie auf unserer Website "
+"www.wepublic.me veröffentlichen.</p>"
+msgstr ""
+"<h2>தேர்வைப் பற்றிய கேள்விகள் மற்றும் பதில்களுக்கு என்ன நடக்கும்?</h2><p>ஆனால் நாங்கள் எல்லா "
+"கேள்விகளையும் பதில்களையும் சேகரித்து எங்கள் வலைத்தளமான www.wepublic.me இல் "
+"வெளியிடுவோம்.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ9"
+msgid ""
+"<h2>Ich fand eine Frage interessant, habe Sie aber leider weggedrückt. Finde "
+"ich diese noch mal?</h2><p>Mit der kleinen Lupe bei Top Fragen kannst du "
+"jede Frage wiederfinden, auch wenn du diese nicht als interessant bewertet "
+"hattest. Du kannst dafür auch über die hashtags nach dem Thema suchen, zu "
+"dem die Frage war.</p>"
+msgstr ""
+"<h2>நான் ஒரு கேள்வியைச் சுவாரச்யமாகக் கண்டேன், ஆனால் துரதிர்ச்டவசமாக அதைத் தள்ளிவிட்டேன். "
+"இதை நான் மீண்டும் கண்டுபிடித்துள்ளேனா?</h2><p>மேல் கேள்விகளில் சிறிய பூதக்கண்ணாடி மூலம், "
+"நீங்கள் அதைத் தலைப்புக்காக மதிப்பிடாவிட்டாலும் கூட, எந்தக் கேள்வியையும் நீங்கள் காணலாம். கேள்வி"
+" இருந்த தலைப்பைத் தேடவும் ஏச்டேக்குகளைப் பயன்படுத்தலாம்.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ10"
+msgid ""
+"<h2>Gibt es eine max. Anzahl an Fragen, die ich unterstützen kann?</"
+"h2><p>Nein. Es können beliebig viele Fragen unterstützt werden."
+msgstr ""
+"<H2> நான் ஆதரிக்கக்கூடிய அதிகபட்ச எண்ணிக்கை இருக்கிறதா? எந்தவொரு கேள்வியையும் "
+"ஆதரிக்கலாம்."
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ11"
+msgid ""
+"<h2>Warum erscheint meine Frage nicht bei +me?</h2><p>Wenn eine Frage gegen "
+"den +me Codex verstößt, wird sie von uns gelöscht. Wenn du damit nicht "
+"einverstanden bist oder glaubst, es gab einen technischen Fehler, schreibe "
+"uns bitte unter Kontakt im Menu eine Mail.</p>"
+msgstr ""
+"<h2>எனது கேள்வி ஏன் +</h2> <p> ஒரு கேள்வி +மீக்கோடெக்சை மீறினால், அது எங்களால் நீக்கப்படும்"
+". தொழில்நுட்ப தவறு இருப்பதாக நீங்கள் ஒப்புக் கொள்ளவில்லை அல்லது நம்பவில்லை என்றால், பட்டியலில்"
+" தொடர்புகளின் கீழ் எங்களுக்கு ஒரு மின்னஞ்சலை எழுதுங்கள்.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ12"
+msgid ""
+"<h2>Wie wird das Projekt finanziert?</h2><p>Das Projekt wird ausschließlich "
+"ehrenamtlich betrieben. Eine finanzielle Förderung gibt es nicht.</p>"
+msgstr ""
+"<h2>திட்டம் எவ்வாறு நிதியளிக்கப்படுகிறது?</h2><p>இந்தத் திட்டம் தன்னார்வ அடிப்படையில் "
+"பிரத்தியேகமாக நடத்தப்படுகிறது. நிதி உதவி இல்லை.</p>"
+
+#, i18next-interpolation
+msgctxt "FAQ.FAQ13"
+msgid ""
+"Wenn deine Frage hier noch nicht beantwortet wurde, schreibe uns bitte unter "
+"Kontakt im Menu eine Mail."
+msgstr ""
+"உங்கள் கேள்விக்கு இன்னும் பதிலளிக்கப்படவில்லை என்றால், பட்டியலில் தொடர்புகளின் கீழ் ஒரு "
+"மின்னஞ்சலை எங்களுக்கு எழுதுங்கள்."
+
+#, i18next-interpolation
+msgctxt "MAINMENU.OPENQUESTIONS"
+msgid "Offene Fragen"
+msgstr "திறந்த கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "MAINMENU.ANSWEREDQUESTIONS"
+msgid "Beantwortete Fragen"
+msgstr "பதிலளித்த கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "MAINMENU.ASK"
+msgid "Frage stellen"
+msgstr "கேள்வி கேளுங்கள்"
+
+#, i18next-interpolation
+msgctxt "MAINMENU.NEWS"
+msgid "Info"
+msgstr "தகவல்"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.ASK_QUESTION"
+msgid "Frage stellen"
+msgstr "கேள்வி கேளுங்கள்"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.TAG_QUESTION"
+msgid "Ein bis drei #Tags"
+msgstr "ஒன்று முதல் மூன்று #TAGS"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.YOUR_QUESTION"
+msgid ""
+"Gib deine Frage hier ein, aber richte sie bitte nicht direkt an einen "
+"Politiker oder Partei, weil Antworten bekommst du von allen!"
+msgstr ""
+"உங்கள் கேள்வியை இங்கே உள்ளிடவும், ஆனால் தயவுசெய்து அதை நேரடியாக ஒரு அரசியல்வாதி அல்லது "
+"விருந்துக்கு அமைக்க வேண்டாம், ஏனெனில் நீங்கள் எல்லோரிடமிருந்தும் பதில்களைப் பெறுவீர்கள்!"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.POSTED_TITLE"
+msgid "Vielen Dank für deine Frage!"
+msgstr "உங்கள் கேள்விக்கு நன்றி!"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.POSTED"
+msgid "Andere User können sich ihr nun anschließen."
+msgstr "மற்ற பயனர்கள் இப்போது அவளுடன் சேரலாம்."
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.OF_X_TAGS"
+msgid "{{x}} von {{max}} #Tags"
+msgstr "{{x}} {{max}} #Tags இலிருந்து"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.OF_X_CHARACTERS"
+msgid "{{x}} von {{max}} Zeichen"
+msgstr "{{x}} {{max}} sign இலிருந்து"
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.ERROR_NO_TAGS"
+msgid "Du musst mindestens ein #Tag vergeben."
+msgstr "நீங்கள் குறைந்தது ஒரு #TAG ஐ வழங்க வேண்டும்."
+
+#, i18next-interpolation
+msgctxt "ENTERQUESTION.ERROR_SHORT_TEXT"
+msgid "Die Frage ist zu kurz."
+msgstr "கேள்வி மிகக் குறைவு."
+
+#, i18next-interpolation
+msgctxt "welcome.title"
+msgid "+me"
+msgstr "+நான்"
+
+#, i18next-interpolation
+msgctxt "welcome.subtitle"
+msgid ""
+"Unterstütze Fragen, die dich interessieren und mache sie zu deinen Fragen."
+msgstr ""
+"உங்களுக்கு விருப்பமான கேள்விகளை ஆதரிக்கவும், உங்கள் கேள்விகளை உருவாக்கவும்."
+
+#, i18next-interpolation
+msgctxt "welcome.signupText"
+msgid ""
+"Hier kannst du dein Konto anlegen und nach der Bestätigung deiner E-mail-"
+"Adresse direkt loslegen."
+msgstr ""
+"இங்கே நீங்கள் உங்கள் கணக்கை உருவாக்கி, உங்கள் மின்னஞ்சல் முகவரியை உறுதிப்படுத்திய பின் "
+"நேரடியாக தொடங்கலாம்."
+
+#, i18next-interpolation
+msgctxt "welcome.loginText"
+msgid "Falls du schon ein Konto bei +me besitzt, kannst du dich hier anmelden."
+msgstr ""
+"நீங்கள் ஏற்கனவே +என்னுடன் ஒரு கணக்கு இருந்தால், நீங்கள் இங்கே பதிவு செய்யலாம்."
+
+#, i18next-interpolation
+msgctxt "welcome.login"
+msgid "Anmelden"
+msgstr "பதிவு செய்யுங்கள்"
+
+#, i18next-interpolation
+msgctxt "welcome.signup"
+msgid "Konto erstellen"
+msgstr "ஒரு கணக்கை உருவாக்கவும்"
+
+#, i18next-interpolation
+msgctxt "LOGIN.EMAIL"
+msgid "E-Mail"
+msgstr "மின்னஞ்சல்"
+
+#, i18next-interpolation
+msgctxt "LOGIN.FAILED"
+msgid "Anmeldung fehlgeschlagen"
+msgstr "உள்நுழைவு தோல்வியடைந்தது"
+
+#, i18next-interpolation
+msgctxt "LOGIN.LOGIN"
+msgid "Anmeldung"
+msgstr "பதிவு"
+
+#, i18next-interpolation
+msgctxt "LOGIN.PASSWORD"
+msgid "Passwort"
+msgstr "கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "LOGIN.SIGNIN"
+msgid "Anmelden"
+msgstr "பதிவு செய்யுங்கள்"
+
+#, i18next-interpolation
+msgctxt "LOGIN.FORGOTPW"
+msgid "Passwort vergessen?"
+msgstr "கடவுச்சொல்லை மறக்கவா?"
+
+#, i18next-interpolation
+msgctxt "LOGIN.INVALID_USER"
+msgid "Diese E-Mail-Adresse ist uns nicht bekannt."
+msgstr "இந்த மின்னஞ்சல் முகவரி பற்றி எங்களுக்குத் தெரியாது."
+
+#, i18next-interpolation
+msgctxt "MENU.INBOX"
+msgid "Neue Fragen für dich"
+msgstr "உங்களுக்காக புதிய கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "MENU.MINE"
+msgid "Meine Fragen"
+msgstr "என் கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "MENU.DISMISSED"
+msgid "Abgelehnte Fragen"
+msgstr "நிராகரிக்கப்பட்ட கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "MENU.PRIVACY"
+msgid "Datenschutz"
+msgstr "தரவு பாதுகாப்பு"
+
+#, i18next-interpolation
+msgctxt "MENU.LICENSES"
+msgid "Lizenzen"
+msgstr "உரிமம்"
+
+#, i18next-interpolation
+msgctxt "MENU.ANSWERS"
+msgid "Antworten"
+msgstr "பதில்"
+
+#, i18next-interpolation
+msgctxt "MENU.FAQ"
+msgid "Häufig gestellte Fragen"
+msgstr "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "MENU.IMPRINT"
+msgid "Impressum"
+msgstr "முத்திரை"
+
+#, i18next-interpolation
+msgctxt "MENU.MENU"
+msgid "Mein Profil"
+msgstr "எனது சுயவிவரம்"
+
+#, i18next-interpolation
+msgctxt "MENU.ONBOARDING"
+msgid "Einführung"
+msgstr "அறிமுகம்"
+
+#, i18next-interpolation
+msgctxt "MENU.LOGOUT"
+msgid "Abmelden"
+msgstr "வெளியேறு"
+
+#, i18next-interpolation
+msgctxt "contact.header"
+msgid "So kannst Du uns kontaktieren"
+msgstr "எனவே நீங்கள் எங்களை தொடர்பு கொள்ளலாம்"
+
+#, i18next-interpolation
+msgctxt "contact.title"
+msgid "Kontakt"
+msgstr "தொடர்பு"
+
+#, i18next-interpolation
+msgctxt "contact.instagram"
+msgid "plusme_app"
+msgstr "என்னைச்சேர்_பயன்"
+
+#, i18next-interpolation
+msgctxt "contact.instagramUrl"
+msgid "https://www.instagram.com/plusme_app/"
+msgstr "https://www.instagram.com/plusme_app/"
+
+#, i18next-interpolation
+msgctxt "contact.twitter"
+msgid "@plusme_app"
+msgstr "@என்னைச்சேர்_பயன்"
+
+#, i18next-interpolation
+msgctxt "contact.twitterUrl"
+msgid "https://twitter.com/plusme_app"
+msgstr "https://twitter.com/plusme_app"
+
+#, i18next-interpolation
+msgctxt "contact.mail"
+msgid "contact@plus-me.de"
+msgstr "contact@plus-me.de"
+
+#, i18next-interpolation
+msgctxt "contact.github"
+msgid "@plus-me"
+msgstr "@"
+
+#, i18next-interpolation
+msgctxt "contact.githubUrl"
+msgid "https://github.com/plus-me"
+msgstr "https://github.com/plus-me"
+
+#, i18next-interpolation
+msgctxt "ANSWERS.TITLE"
+msgid "Antworten"
+msgstr "பதில்"
+
+#, i18next-interpolation
+msgctxt "ANSWERS.BAD"
+msgid "schlechte Antwort"
+msgstr "மோசமான பதில்"
+
+#, i18next-interpolation
+msgctxt "ANSWERS.GOOD"
+msgid "gute Antwort"
+msgstr "நல்ல பதில்"
+
+#, i18next-interpolation
+msgctxt "ANSWERS.NO_ANSWERS"
+msgid "Zu dieser Frage gibt es bisher keine Antworten."
+msgstr "இதுவரை இந்த கேள்விக்கு பதில்கள் இல்லை."
+
+#, i18next-interpolation
+msgctxt "OPEN_QUESTIONS.EMPTY"
+msgid ""
+"Hier siehst du alle Fragen, die du positiv bewertet hast und die noch nicht "
+"beantwortet wurden."
+msgstr ""
+"நீங்கள் சாதகமாக மதிப்பீடு செய்த அனைத்து கேள்விகளையும் இங்கே காணலாம், இன்னும் "
+"பதிலளிக்கப்படவில்லை."
+
+#, i18next-interpolation
+msgctxt "ANSWERED_QUESTIONS.EMPTY"
+msgid "Hier siehst du alle deine Fragen, die bereits beantwortet wurden."
+msgstr "ஏற்கனவே பதிலளிக்கப்பட்ட உங்கள் எல்லா கேள்விகளையும் இங்கே காண்பீர்கள்."
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.SKIP_ONBOARDING"
+msgid "Überspringen"
+msgstr "தவிர்க்கவும்"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.BEGIN_ONBOARDING"
+msgid "Wie funktioniert's?"
+msgstr "இது எவ்வாறு செயல்படுகிறது?"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.HEADLINE_PAGE1"
+msgid "Willkommen bei +me"
+msgstr "எனக்கு வருக"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.PAGE1"
+msgid ""
+"Bei +me kannst du bis zur Landtagswahl in NRW deine Fragen zu wichtigen "
+"Themen an verschiedene Parteien gleichzeitig stellen."
+msgstr ""
+"AT +ME உங்கள் கேள்விகளை NRW இல் மாநிலத் தேர்தல் வரை ஒரே நேரத்தில் வெவ்வேறு கட்சிகளுக்கு "
+"முக்கியமான தலைப்புகளில் கேட்கலாம்."
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.HEADLINE_PAGE2"
+msgid "Fragen stellen"
+msgstr "கேள்விகளைக் கேளுங்கள்"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.PAGE2"
+msgid ""
+"Was möchtest du von den teilnehmenden Parteien beantwortet haben? Stell "
+"deine Frage und sprich die wichtigen Themen an!"
+msgstr ""
+"பங்கேற்கும் கட்சிகளிடமிருந்து நீங்கள் என்ன பதிலளிக்க விரும்புகிறீர்கள்? உங்கள் கேள்வியைக் கேட்டு"
+" முக்கியமான தலைப்புகளுடன் பேசுங்கள்!"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.HEADLINE_PAGE3"
+msgid "Fragen unterstützen"
+msgstr "கேள்விகளை ஆதரிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.PAGE3"
+msgid ""
+"Oder unterstütze die guten Fragen von anderen! Mit einem Tap auf +me zeigst "
+"du, dass dich eine Frage ebenso interessiert."
+msgstr ""
+"அல்லது மற்றவர்களிடமிருந்து நல்ல கேள்விகளை ஆதரிக்கவும்! ஒரு தட்டினால் +நீங்கள் ஒரு கேள்வியில்"
+" ஆர்வமாக உள்ளீர்கள் என்பதைக் காட்டுகிறீர்கள்."
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.HEADLINE_PAGE4"
+msgid "Antworten erhalten"
+msgstr "பதில்களைப் பெறுக"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.PAGE4"
+msgid ""
+"Die Fragen mit den meisten Unterstützer:innen werden jeden Tag von den "
+"Parteien beantwortet - direkt, gleichzeitig und vergleichbar!"
+msgstr ""
+"பெரும்பாலான ஆதரவாளர்களுடனான கேள்விகள்: கட்சிகளுக்கு ஒவ்வொரு நாளும் பதில் "
+"அளிக்கப்படுகிறது - நேரடியாக, ஒரே நேரத்தில் மற்றும் ஒப்பிடத்தக்கது!"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.HEADLINE_PAGE5"
+msgid "Antworten bewerten"
+msgstr "பதில்களை மதிப்பிடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.PAGE5"
+msgid ""
+"Welche Antwort von welcher Partei kommt siehst du aber erst, nachdem du sie "
+"für dich bewertet hast. So erkennst du, wer deine Interessen vertritt - und "
+"musst am 15.05 in NRW nur noch wählen gehen!"
+msgstr ""
+"உங்களுக்காக அவற்றை மதிப்பீடு செய்த பின்னரே எந்தக் கட்சியிலிருந்து எந்த பதிலை நீங்கள் காண்பீர்கள்"
+". உங்கள் நலன்களை யார் பிரதிநிதித்துவப்படுத்துகிறார்கள் என்பதை நீங்கள் அங்கீகரிப்பது இதுதான் - "
+"மே 15 அன்று NRW இல் மட்டுமே வாக்களிக்க வேண்டும்!"
+
+#, i18next-interpolation
+msgctxt "ONBOARDING.OK_GO"
+msgid "Los geht’s"
+msgstr "போகலாம்"
+
+#, i18next-interpolation
+msgctxt "RANDOM.EMPTY"
+msgid "Keine weiteren Fragen übrig."
+msgstr "மேலும் கேள்விகள் எதுவும் இல்லை."
+
+#, i18next-interpolation
+msgctxt "SEARCH.TITLE"
+msgid "Suche"
+msgstr "தேடல்"
+
+#, i18next-interpolation
+msgctxt "SEARCH.EMPTY"
+msgid "Zu diesem Suchbegriff gibt es noch keine Fragen."
+msgstr "இந்த தேடல் காலத்தைப் பற்றி எந்த கேள்வியும் இல்லை."
+
+#, i18next-interpolation
+msgctxt "SEARCH.SELECT_TAGS"
+msgid "Bitte #Tags auswählen"
+msgstr "#Tags ஐத் தேர்ந்தெடுக்கவும்"
+
+#, i18next-interpolation
+msgctxt "SEARCH.next"
+msgid "Weiter"
+msgstr "மேலும்"
+
+#, i18next-interpolation
+msgctxt "SEARCH.previous"
+msgid "Zurück"
+msgstr "பின்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.CHANGE_PW"
+msgid "Passwort ändern"
+msgstr "கடவுச்சொல்லை மாற்றவும்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.EMAIL"
+msgid "Email-Adresse"
+msgstr "மின்னஞ்சல் முகவரி"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.FIRSTNAME"
+msgid "Vorname"
+msgstr "முதல் பெயர்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.LASTNAME"
+msgid "Nachname"
+msgstr "கடைசி பெயர்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.NEW_PW"
+msgid "Neues Passwort"
+msgstr "புதிய கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.OLD_PW"
+msgid "Altes Passwort"
+msgstr "பழைய கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.REPEAT_PW"
+msgid "Passwort bestätigen"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.SAVE_SETTINGS"
+msgid "Speichern"
+msgstr "சேமிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "SETTINGS.YOUR_PROFILE"
+msgid "Dein Profil"
+msgstr "உங்கள் சுயவிவரம்"
+
+#, i18next-interpolation
+msgctxt "signup.title"
+msgid "Konto erstellen"
+msgstr "ஒரு கணக்கை உருவாக்கவும்"
+
+#, i18next-interpolation
+msgctxt "signup.ok"
+msgid "Verstanden"
+msgstr "புரிந்து கொள்ளப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "signup.wrongInputs"
+msgid ""
+"Deine Eingaben sind ungültig. Bitte gib eine gültige E-Mail Adresse ein und "
+"benutze ein Passwort mit mindestens 8 Zeichen."
+msgstr ""
+"உங்கள் உள்ளீடுகள் தவறானவை. சரியான மின்னஞ்சல் முகவரியை உள்ளிட்டு குறைந்தது 8 எழுத்துகளுடன் "
+"கடவுச்சொல்லைப் பயன்படுத்தவும்."
+
+#, i18next-interpolation
+msgctxt "signup.checkEmail"
+msgid ""
+"Wir haben dir eine E-Mail mit einem Link zur Bestätigung geschickt. Bitte "
+"klicke auf diesen Link um fortzufahren. (Überprüfe bitte auch deinen Spam-"
+"Ordner.)"
+msgstr ""
+"உறுதிப்படுத்தலுக்கான இணைப்புடன் ஒரு மின்னஞ்சலை உங்களுக்கு அனுப்பினோம். தொடர இந்த இணைப்பைக் "
+"சொடுக்கு செய்க. (தயவுசெய்து உங்கள் ச்பேம் கோப்புறையையும் சரிபார்க்கவும்.)"
+
+#, i18next-interpolation
+msgctxt "signup.name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, i18next-interpolation
+msgctxt "signup.email"
+msgid "E-Mail"
+msgstr "மின்னஞ்சல்"
+
+#, i18next-interpolation
+msgctxt "signup.password"
+msgid "Passwort"
+msgstr "கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "signup.repeatPassword"
+msgid "Passwort bestätigen"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+
+#, i18next-interpolation
+msgctxt "signup.welcome"
+msgid "Willkommen!"
+msgstr "வரவேற்கிறோம்!"
+
+#, i18next-interpolation
+msgctxt "signup.greeter"
+msgid "Schön, dass Du dabei bist."
+msgstr "நீங்கள் அங்கு இருப்பது நல்லது."
+
+#, i18next-interpolation
+msgctxt "signup.subtitle"
+msgid ""
+"Ein paar Infos brauchen wir, um deinen Account anzulegen. Bitte gib zuerst "
+"deine gültige E-Mail-Adresse an und wähle danach ein sicheres Passwort mit "
+"mindestens 8 Zeichen."
+msgstr ""
+"உங்கள் கணக்கை உருவாக்க எங்களுக்கு சில தகவல்கள் தேவை. முதலில் உங்கள் செல்லுபடியாகும் "
+"மின்னஞ்சல் முகவரியை உள்ளிட்டு, குறைந்தது 8 எழுத்துகளுடன் பாதுகாப்பான கடவுச்சொல்லைத் "
+"தேர்வுசெய்க."
+
+#, i18next-interpolation
+msgctxt "signup.submitSignup"
+msgid "Jetzt Konto anlegen!"
+msgstr "இப்போது ஒரு கணக்கை உருவாக்கவும்!"
+
+#, i18next-interpolation
+msgctxt "signup.cancel"
+msgid "Abbrechen"
+msgstr "ரத்துசெய்"
+
+#, i18next-interpolation
+msgctxt "signup.confirmlabel1"
+msgid "Durch Fortfahren akzeptierst Du unseren "
+msgstr "தொடர்வதன் மூலம் நீங்கள் எங்கள் ஏற்றுக்கொள்கிறீர்கள் "
+
+#, i18next-interpolation
+msgctxt "signup.confirmlabel2"
+msgid " und die "
+msgstr " மற்றும் "
+
+#, i18next-interpolation
+msgctxt "signup.unknownSignupError"
+msgid ""
+"Die Registrierung hat leider nicht geklappt. Bitte kontaktiere uns, falls Du "
+"denkst, dies ist ein Fehler auf unserer Seite."
+msgstr ""
+"துரதிர்ச்டவசமாக, பதிவு வேலை செய்யவில்லை. இது எங்கள் பக்கத்தில் தவறு என்று நீங்கள் நினைத்தால்"
+" தயவுசெய்து எங்களை தொடர்பு கொள்ளவும்."
+
+#, i18next-interpolation
+msgctxt "signup.retry"
+msgid "Nochmal versuchen"
+msgstr "மீண்டும் முயற்சிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "TABS.HOME"
+msgid "Home"
+msgstr "வீடு"
+
+#, i18next-interpolation
+msgctxt "TABS.MY"
+msgid "Meine"
+msgstr "என்னுடையது"
+
+#, i18next-interpolation
+msgctxt "TABS.MATCH"
+msgid "Fragen entdecken"
+msgstr "கேள்விகளைக் கண்டறியவும்"
+
+#, i18next-interpolation
+msgctxt "TABS.LIKED"
+msgid "Interesse"
+msgstr "ஆர்வம்"
+
+#, i18next-interpolation
+msgctxt "TABS.SEARCH"
+msgid "Top Fragen"
+msgstr "சிறந்த கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "TABS.TRENDING"
+msgid "Beliebt"
+msgstr "மக்கள்"
+
+#, i18next-interpolation
+msgctxt "TABS.YOUR_QUESTION"
+msgid "Deine Frage"
+msgstr "உங்கள் கேள்வி"
+
+#, i18next-interpolation
+msgctxt "TABS.ME"
+msgid "Ich"
+msgstr "I"
+
+#, i18next-interpolation
+msgctxt "terms.title"
+msgid "+me codex"
+msgstr "+மீ கோடெக்ச்"
+
+#, i18next-interpolation
+msgctxt "privacy.title"
+msgid "Datenschutzrichtlinien"
+msgstr "தரவு பாதுகாப்பு வழிகாட்டுதல்கள்"
+
+#, i18next-interpolation
+msgctxt "imprint.title"
+msgid "Impressum"
+msgstr "முத்திரை"
+
+#, i18next-interpolation
+msgctxt "sidebar.profile"
+msgid "Mein Profil"
+msgstr "எனது சுயவிவரம்"
+
+#, i18next-interpolation
+msgctxt "sidebar.randomQuestion"
+msgid "Neue Fragen für dich"
+msgstr "உங்களுக்காக புதிய கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "sidebar.myQuestions"
+msgid "Meine Fragen"
+msgstr "என் கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "sidebar.rejectedQuestions"
+msgid "Abgelehnte Fragen"
+msgstr "நிராகரிக்கப்பட்ட கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "sidebar.terms"
+msgid "+me codex"
+msgstr "+மீ கோடெக்ச்"
+
+#, i18next-interpolation
+msgctxt "sidebar.privacy"
+msgid "Datenschutz"
+msgstr "தரவு பாதுகாப்பு"
+
+#, i18next-interpolation
+msgctxt "sidebar.imprint"
+msgid "Impressum"
+msgstr "முத்திரை"
+
+#, i18next-interpolation
+msgctxt "sidebar.licenses"
+msgid "Lizenzen"
+msgstr "உரிமம்"
+
+#, i18next-interpolation
+msgctxt "sidebar.contact"
+msgid "Kontakt"
+msgstr "தொடர்பு"
+
+#, i18next-interpolation
+msgctxt "sidebar.version"
+msgid "Version"
+msgstr "பதிப்பு"
+
+#, i18next-interpolation
+msgctxt "sidebar.inbox"
+msgid "Antworten"
+msgstr "பதில்"
+
+#, i18next-interpolation
+msgctxt "sidebar.myDownvotedQuestions"
+msgid "Abgelehnte Fragen"
+msgstr "நிராகரிக்கப்பட்ட கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "createQuestion.title"
+msgid "Deine Frage an alle Parteien"
+msgstr "எல்லா கட்சிகளுக்கும் உங்கள் கேள்வி"
+
+#, i18next-interpolation
+msgctxt "createQuestion.question"
+msgid "Stelle deine Frage"
+msgstr "உங்கள் கேள்வியைக் கேளுங்கள்"
+
+#, i18next-interpolation
+msgctxt "createQuestion.tags"
+msgid "#Schlagwörter"
+msgstr "#KeyWords"
+
+#, i18next-interpolation
+msgctxt "createQuestion.tagsHelp"
+msgid "Damit andere deine Frage besser finden"
+msgstr "மற்றவர்கள் உங்கள் கேள்வியை சிறப்பாகக் கண்டுபிடிப்பார்கள்"
+
+#, i18next-interpolation
+msgctxt "createQuestion.submit"
+msgid "Senden"
+msgstr "உங்களிடமிருந்து"
+
+#, i18next-interpolation
+msgctxt "createQuestion.respect"
+msgid ""
+"Bitte sei freundlich und respektvoll und überprüfe, ob es deine Frage schon "
+"gibt."
+msgstr ""
+"தயவுசெய்து நட்பாகவும் மரியாதையுடனும் இருங்கள், உங்கள் கேள்வி ஏற்கனவே இருக்கிறதா என்று "
+"சரிபார்க்கவும்."
+
+#, i18next-interpolation
+msgctxt "createQuestion.codexLink"
+msgid "Hier gibts Tips zum Frage stellen."
+msgstr "கேள்வி பற்றிய குறிப்புகள் இங்கே."
+
+#, i18next-interpolation
+msgctxt "createQuestion.success"
+msgid "Deine Frage wurde erfolgreich eingereicht."
+msgstr "உங்கள் கேள்வி வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது."
+
+#, i18next-interpolation
+msgctxt "createQuestion.error"
+msgid "Deine Frage kann so leider nicht gestellt werden:"
+msgstr "துரதிர்ச்டவசமாக, உங்கள் கேள்வியைக் கேட்க முடியாது:"
+
+#, i18next-interpolation
+msgctxt "createQuestion.errors.text"
+msgid ""
+"Deine Frage ist zu lange. Bitte gebe maximal 280 Zeichen für die Frage an."
+msgstr ""
+"உங்கள் கேள்வி மிக நீளமானது. கேள்விக்கு அதிகபட்சம் 280 எழுத்துக்களை உள்ளிடவும்."
+
+#, i18next-interpolation
+msgctxt "createQuestion.errors.noText"
+msgid "Deine Frage ist leer."
+msgstr "உங்கள் கேள்வி காலியாக உள்ளது."
+
+#, i18next-interpolation
+msgctxt "createQuestion.errors.tooManyTags"
+msgid ""
+"Du hast zuviele Schlagwörter ausgewählt. Bitte wähle maximal drei "
+"Schlagwörter."
+msgstr ""
+"நீங்கள் பல முக்கிய வார்த்தைகளைத் தேர்ந்தெடுத்துள்ளீர்கள். அதிகபட்சம் மூன்று முக்கிய வார்த்தைகளைத் "
+"தேர்வுசெய்க."
+
+#, i18next-interpolation
+msgctxt "createQuestion.errors.unknownHttpError"
+msgid "Mit der Serverkommunikation ist etwas schiefgegangen 🤷"
+msgstr "சேவையக தகவல்தொடர்புகளில் ஏதோ தவறு ஏற்பட்டது"
+
+#, i18next-interpolation
+msgctxt "createQuestion.errors.unknownError"
+msgid "Irgendwas ist schief gegangen 🤷"
+msgstr "ஏதோ தவறு நடந்தது"
+
+#, i18next-interpolation
+msgctxt "createQuestion.errors.notEnoughReputation"
+msgid ""
+"Folge erst ein paar Fragen, bevor du deine erste eigener Frage posten kannst "
+"💪"
+msgstr ""
+"உங்கள் முதல் சொந்த கேள்வியை இடுகையிடுவதற்கு முன் சில கேள்விகளைப் பின்பற்றவும்"
+
+#, i18next-interpolation
+msgctxt "questionBubble.peopleAsking"
+msgid "Personen fragen"
+msgstr "மக்கள் கேட்கிறார்கள்"
+
+#, i18next-interpolation
+msgctxt "questionBubble.personAsking"
+msgid "Person fragt"
+msgstr "நபர் கப்பல்"
+
+#, i18next-interpolation
+msgctxt "questionBubble.notInterested"
+msgid "Interessiert mich nicht"
+msgstr "எனக்கு ஆர்வம் இல்லை"
+
+#, i18next-interpolation
+msgctxt "questionBubble.nextQuestion"
+msgid "Nächste Frage"
+msgstr "அடுத்த கேள்வி"
+
+#, i18next-interpolation
+msgctxt "questionBubble.report"
+msgid "Frage melden"
+msgstr "கேள்வி அறிக்கை"
+
+#, i18next-interpolation
+msgctxt "profile.title"
+msgid "Mein Profil"
+msgstr "எனது சுயவிவரம்"
+
+#, i18next-interpolation
+msgctxt "profile.changePasswordTitle"
+msgid "Passwort ändern"
+msgstr "கடவுச்சொல்லை மாற்றவும்"
+
+#, i18next-interpolation
+msgctxt "profile.changePasswordLabel"
+msgid "Du kannst Dein aktuelles Passwort ändern:"
+msgstr "உங்கள் தற்போதைய கடவுச்சொல்லை மாற்றலாம்:"
+
+#, i18next-interpolation
+msgctxt "profile.currentPassword"
+msgid "Bitte gib Dein aktuelles Passwort ein"
+msgstr "உங்கள் தற்போதைய கடவுச்சொல்லை உள்ளிடவும்"
+
+#, i18next-interpolation
+msgctxt "profile.newPassword"
+msgid "Neues Passwort eingeben"
+msgstr "புதிய கடவுச்சொல்லை உள்ளிடவும்"
+
+#, i18next-interpolation
+msgctxt "profile.changedPassword"
+msgid "Dein Passwort wurde aktualisiert! Bitte logge Dich neu ein."
+msgstr "உங்கள் கடவுச்சொல் புதுப்பிக்கப்பட்டுள்ளது! மீண்டும் உள்நுழைக."
+
+#, i18next-interpolation
+msgctxt "profile.changePasswordFailed"
+msgid "Das hat leider nicht geklappt."
+msgstr "துரதிர்ச்டவசமாக, அது வேலை செய்யவில்லை."
+
+#, i18next-interpolation
+msgctxt "profile.update"
+msgid "Aktualisieren"
+msgstr "புதுப்பிப்பு"
+
+#, i18next-interpolation
+msgctxt "profile.logoutTitle"
+msgid "Ausloggen"
+msgstr "வெளியேறு"
+
+#, i18next-interpolation
+msgctxt "profile.logout"
+msgid "Ausloggen"
+msgstr "வெளியேறு"
+
+#, i18next-interpolation
+msgctxt "profile.logoutLabel"
+msgid "Du kannst Dich von +me abmelden:"
+msgstr "நீங்கள் +என்னிடமிருந்து குழுவிலகலாம்:"
+
+#, i18next-interpolation
+msgctxt "profile.delete"
+msgid "Profil löschen"
+msgstr "சுயவிவரத்தை நீக்கு"
+
+#, i18next-interpolation
+msgctxt "profile.deleteLabel"
+msgid "Du kannst auch Dein Profil (unwiderbringlich!) löschen:"
+msgstr "உங்கள் சுயவிவரத்தையும் நீக்கலாம் (மறுக்கமுடியாதது!):"
+
+#, i18next-interpolation
+msgctxt "profile.deleteConfirmMessage"
+msgid ""
+"Schade dass du gehst! Du kannst Dir jederzeit einen neuen Accout anlegen."
+msgstr ""
+"நீங்கள் செல்வது ஒரு அவமானம்! நீங்கள் எந்த நேரத்திலும் ஒரு புதிய கணக்கை உருவாக்கலாம்."
+
+#, i18next-interpolation
+msgctxt "profile.deleteConfirmTitle"
+msgid "Account endgültig löschen?"
+msgstr "இறுதியாக கணக்கை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "profile.deleteConfirmButton"
+msgid "Ja, ich möchte mein Profil löschen"
+msgstr "ஆம், எனது சுயவிவரத்தை நீக்க விரும்புகிறேன்"
+
+#, i18next-interpolation
+msgctxt "profile.deleteAbortButton"
+msgid "Nein danke"
+msgstr "நன்றி இல்லை"
+
+#, i18next-interpolation
+msgctxt "profile.resetLinkSent"
+msgid ""
+"Ein link zum Zurücksetzen Deines Passwortes wurde an Deine Email-Adresse "
+"geschickt."
+msgstr ""
+"உங்கள் கடவுச்சொல்லை மீட்டமைப்பதற்கான இணைப்பு உங்கள் மின்னஞ்சல் முகவரிக்கு அனுப்பப்பட்டது."
+
+#, i18next-interpolation
+msgctxt "profile.resetLinkError"
+msgid "Leider hat das nicht geklappt."
+msgstr "துரதிர்ச்டவசமாக அது வேலை செய்யவில்லை."
+
+#, i18next-interpolation
+msgctxt "notifications.askForConsentTitle"
+msgid "Möchtest du Push Nachrichten erhalten?"
+msgstr "புச் செய்திகளைப் பெற விரும்புகிறீர்களா?"
+
+#, i18next-interpolation
+msgctxt "notifications.askForConsentDescription"
+msgid ""
+"Wir benutzen Push-Nachrichten, um dich zu informieren, wenn neue Antworten "
+"zu Fragen, denen du folgst, eingegangen sind. Im nächsten Schritt wird dein "
+"Betriebssystem dich nach den Berechtigungen dazu fragen."
+msgstr ""
+"நீங்கள் பின்பற்றும் புதிய பதில்கள் கிடைத்தபோது உங்களைத் தெரிவிக்க புச் செய்திகளைப் "
+"பயன்படுத்துகிறோம். அடுத்த கட்டத்தில், உங்கள் இயக்க முறைமை இசைவு பற்றி உங்களிடம் கேட்கும்."
+
+#, i18next-interpolation
+msgctxt "notifications.denyNotifications"
+msgid "Nein"
+msgstr "இல்லை"
+
+#, i18next-interpolation
+msgctxt "notifications.consentNotifications"
+msgid "Ja"
+msgstr "மற்றும்"
+
+#, i18next-interpolation
+msgctxt "myQuestions.title"
+msgid "Meine Fragen"
+msgstr "என் கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "myDownvotes.title"
+msgid "Meine abgelehnten Fragen"
+msgstr "எனது நிராகரிக்கப்பட்ட கேள்விகள்"
+
+#, i18next-interpolation
+msgctxt "questionListItem.unread"
+msgid "Ungelesen"
+msgstr "படிக்காதது"
+
+#, i18next-interpolation
+msgctxt "questionListItem.followers"
+msgid "folgen"
+msgstr "விளைவுகள்"
+
+#, i18next-interpolation
+msgctxt "questionListItem.follows"
+msgid "folgt"
+msgstr "பின்வருமாறு"
+
+#, i18next-interpolation
+msgctxt "questionListItem.answers"
+msgid "Antworten"
+msgstr "பதில்"
+
+#, i18next-interpolation
+msgctxt "questionListItem.answer"
+msgid "Antwort"
+msgstr "பதில்"
+
+#, i18next-interpolation
+msgctxt "questionListItem.mine"
+msgid "meine Frage"
+msgstr "என் கேள்வி"
+
+#, i18next-interpolation
+msgctxt "questionListItem.following"
+msgid "folge ich"
+msgstr "என்னைப் பின்தொடரவும்"
+
+#, i18next-interpolation
+msgctxt "inbox.title"
+msgid "Antworten"
+msgstr "பதில்"
+
+#, i18next-interpolation
+msgctxt "inbox.mine"
+msgid "Meine"
+msgstr "என்னுடையது"
+
+#, i18next-interpolation
+msgctxt "inbox.all"
+msgid "Alle"
+msgstr "அனைத்தும்"
+
+#, i18next-interpolation
+msgctxt "myQuestionsListComponent.myQuestions"
+msgid "Hier siehst Du alle Deine Fragen"
+msgstr "உங்கள் எல்லா கேள்விகளையும் இங்கே காணலாம்"
+
+#, i18next-interpolation
+msgctxt "allAnsweredQuestionsListComponent.allQuestions"
+msgid "Hier siehst Du alle beantworteten Fragen"
+msgstr "பதிலளித்த அனைத்து கேள்விகளையும் இங்கே காணலாம்"
+
+#, i18next-interpolation
+msgctxt "answers.title"
+msgid "Antworten bewerten"
+msgstr "பதில்களை மதிப்பிடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "answers.reveal"
+msgid "Bewerten um Partei zu sehen"
+msgstr "கட்சியைப் பார்க்க மதிப்பீடு செய்யப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "sort.newest"
+msgid "Neueste"
+msgstr "அண்மைக் கால"
+
+#, i18next-interpolation
+msgctxt "sort.upvotes"
+msgid "Beliebtheit"
+msgstr "புகழ்"
+
+#, i18next-interpolation
+msgctxt "sort.following"
+msgid "Folge ich"
+msgstr "என்னைப் பின்தொடரவும்"
+
+#, i18next-interpolation
+msgctxt "sort.answers"
+msgid "Beantwortet"
+msgstr "பதிலளித்த"
+
+#, i18next-interpolation
+msgctxt "newVersion"
+msgid ""
+"Bitte update die +me App, um weniger Bugs und mehr Funktionalität zu "
+"bekommen. Ohne Updates können wir eine ordnungsgemäße Funktion nicht "
+"garantieren."
+msgstr ""
+"குறைவான பிழைகள் மற்றும் கூடுதல் செயல்பாட்டைப் பெற +ME பயன்பாட்டைப் புதுப்பிக்கவும். "
+"புதுப்பிப்புகள் இல்லாமல், சரியான செயல்பாட்டிற்கு நாங்கள் பொறுப்பு அளிக்க முடியாது."

@@ -1,0 +1,2147 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: மின்னியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "3-phase circuit"
+msgstr "மும்முனைச் சுற்று, முத்தறுவாய் சுற்று"
+
+msgid "8b10b encoding"
+msgstr "எட்டுக்குப்பத்து குறியாக்கம்"
+
+msgid "ac current"
+msgstr "ஆடலோட்டம், மாறுதிசை மின்னோட்டம்"
+
+msgid "ac voltage"
+msgstr "மாறுதிசை மின்னழுத்தம்"
+
+msgid "acoustic coupler"
+msgstr "கேட்பொலிப் பிணைப்பி"
+
+msgid "acoustics"
+msgstr "கேட்பொலியியல்"
+
+msgid "active device"
+msgstr "செயல்படுச் சாதனம்"
+
+msgid "active load"
+msgstr "செயல்படு சுமை"
+
+msgid "admittance"
+msgstr "விடுப்பு"
+
+msgid "algorithm"
+msgstr "படிமுறை"
+
+msgid "aliasing, alias frequency"
+msgstr "புனைவு, புனையலைவெண்"
+
+msgid "amplidyne"
+msgstr "மிகைப்பி மின்னாக்கி"
+
+msgid "amplitude shift keying"
+msgstr "வீச்சு பெயர்வு இணைத்தல்"
+
+msgid "analog electronics"
+msgstr "ஒப்புமை மின்னணுவியல், ஒப்புமையியல்"
+
+msgid "analysis"
+msgstr "பகுப்பாய்வு"
+
+msgid "analyzer"
+msgstr "பகுப்பி"
+
+msgid "and gate"
+msgstr "உம்மை வாயில்"
+
+msgid "anisotropic antenna"
+msgstr "ஒருதிசை அலைக்கம்பம்"
+
+msgid "anode"
+msgstr "நேர்முனை"
+
+msgid "antenna"
+msgstr "அலைக்கம்பம்"
+
+msgid "antenna coupler"
+msgstr "அலைக்கம்பப் பிணைப்பி"
+
+msgid "apparent power"
+msgstr "தோற்றத் திறன்"
+
+msgid "argon"
+msgstr "இலியன்"
+
+msgid "armature"
+msgstr "மின்னகம்"
+
+msgid "arsenic"
+msgstr "பிறாக்காண்டம்"
+
+msgid "atomic instruction"
+msgstr "அணுநிலை ஆணை"
+
+msgid "attenuation, attenuator"
+msgstr "மெலிப்பு, மெலிப்பி"
+
+msgid "auto pilot"
+msgstr "தானோட்டி"
+
+msgid "auto router"
+msgstr "தானியங்குத் திசைவி"
+
+msgid "auto-correlation"
+msgstr "தன் ஒட்டுறவு"
+
+msgid "automatic gain control"
+msgstr "தானியங்கு மிகைப்பு கட்டுப்பாடு"
+
+msgid "average current"
+msgstr "சராசரி ஓட்டம்"
+
+msgid "averager"
+msgstr "சராசரிப்படுத்தி"
+
+msgid "axiom"
+msgstr "அடிகோள்"
+
+msgid "azimuth"
+msgstr "திசை கோடு"
+
+msgid "back-to-back"
+msgstr "பின்பிணைந்த"
+
+msgid "balun"
+msgstr "சமனிலாச்சமனி"
+
+msgid "bandpass filter"
+msgstr "பட்டைவிடு வடிப்பி"
+
+msgid "bandstop filter"
+msgstr "பட்டைத்தடை வடிப்பி"
+
+msgid "bandwidth"
+msgstr "பட்டை அகலம்"
+
+msgid "battery"
+msgstr "மின்கலம்"
+
+msgid "beacon"
+msgstr "சுழலொளி"
+
+msgid "beam (of light, electrons etc.)"
+msgstr "கற்றை"
+
+msgid "bias current"
+msgstr "சாருகை மின்னோட்டம்"
+
+msgid "bias voltage"
+msgstr "சாருகை மின்னழுத்தம்"
+
+msgid "biasing"
+msgstr "சாருகையிடுதல்"
+
+msgid "binary"
+msgstr "இருமம்"
+
+msgid "bit (data)"
+msgstr "துணுக்கு (தரவு)"
+
+msgid "bit rate"
+msgstr "துகள் வீதம்"
+
+msgid "bitstream"
+msgstr "துணுக்கோடை"
+
+msgid "blanking"
+msgstr "மறைத்தல்"
+
+msgid "bootstrap, bootstrapping, bootstrap circuit"
+msgstr "ஈடேற்று, ஈடேற்றம், ஈடேற்றுச் சுற்று"
+
+msgid "broadband"
+msgstr "அகலப்பட்டை, அகண்ட அலைவரிசை"
+
+msgid "broadside array (antenna)"
+msgstr "முகமியக்க அணி (அலைக்கம்பம்)"
+
+msgid "bromine"
+msgstr "நெடியம்"
+
+msgid "bronze"
+msgstr "வெண்கலம்"
+
+msgid "buffer, buffer amplifer"
+msgstr "இடையகம், இடையக மிகைப்பி"
+
+msgid "buried via"
+msgstr "மறைந்த வழிமம்"
+
+msgid "bus (data)"
+msgstr "பாட்டை (தரவு)"
+
+msgid "busy, busy state"
+msgstr "வேலயாக, வேலையான நிலை"
+
+msgid "byte (= octet)"
+msgstr "எண்ணெண்"
+
+msgid "cable"
+msgstr "வடம்"
+
+msgid "cable modem"
+msgstr "வடப் பண்பேற்றிறக்கி"
+
+msgid "cache memory"
+msgstr "இடைமாற்று நினைவகம்"
+
+msgid "calculator"
+msgstr "கணிப்பான்"
+
+msgid "calculus"
+msgstr "நுண்கணிதம்"
+
+msgid "camcorder"
+msgstr "நிகழ்பதிவி"
+
+msgid "capacitive reactance"
+msgstr "கொண்ம எதிர்வினைப்பு"
+
+msgid "capacitor"
+msgstr "மின்தேக்கி, கொண்மி"
+
+msgid "capillary action"
+msgstr "புழை இயக்கம்"
+
+msgid "carrier signal"
+msgstr "சுமப்பி குறிகை"
+
+msgid "cartridge"
+msgstr "பொதியுறை"
+
+msgid "cascade"
+msgstr "ஓடையிணைப்பு"
+
+msgid "catalyst"
+msgstr "வினையூக்கி"
+
+msgid "cathode"
+msgstr "எதிர்முனை"
+
+msgid "cd read write"
+msgstr "எழுதுப்படிப்புக் குறுவட்டு"
+
+msgid "cd recordable"
+msgstr "பதிவுக் குறுவட்டு"
+
+msgid "cdrom"
+msgstr "படிப்பு குறுவட்டு"
+
+msgid "cell phone (mobile phone)"
+msgstr "கைபேசி (நகர்பேசி)"
+
+msgid "centre of gravity"
+msgstr "ஈர்ப்பு மையம்"
+
+msgid "centre of mass"
+msgstr "பொருண்மை மையம்"
+
+msgid "charecteristic"
+msgstr "சிறப்பியல்பு"
+
+msgid "charecteristic impedence"
+msgstr "சிறப்பு மின்மறுப்பு"
+
+msgid "charge"
+msgstr "மின்னூட்டு"
+
+msgid "charger"
+msgstr "மின்னூட்டி"
+
+msgid "chassis ground"
+msgstr "சட்டநிலம்"
+
+msgid "chipset"
+msgstr "சில்லுத்தொகுதி"
+
+msgid "chord (in a circle)"
+msgstr "நாண்"
+
+msgid "chord (music)"
+msgstr "பன்னிசை"
+
+msgid "chroma / chrominance"
+msgstr "நிறப்பொலிவு"
+
+msgid "circumference"
+msgstr "பரிதி"
+
+msgid "clock buffer"
+msgstr "கடிகார இடையகம்"
+
+msgid "clock signal"
+msgstr "கடிகாரக் குறிகை"
+
+msgid "coax(ial) cable"
+msgstr "ஓரச்சு வடம்"
+
+msgid "coaxial lenses"
+msgstr "ஓரச்சு வில்லைகள்"
+
+msgid "cobalt"
+msgstr "மென்வெள்ளி"
+
+msgid "codec"
+msgstr "புரிப்பு"
+
+msgid "collector (transistor)"
+msgstr "ஏற்புவாய்"
+
+msgid "combination, combination group"
+msgstr "சேர்வு, சேர்வுக் குலம்"
+
+msgid "commutator"
+msgstr ""
+"திசைமாற்றி மின்னோடிகளில் மின்னோட்டத்தின் திசையை காலசுழற்சியில் திசைமாற்றும் "
+"சாதனம்"
+
+msgid "composite video"
+msgstr "கலவை ஒளிதோற்றம்"
+
+msgid "computer"
+msgstr "கணிப்பொறி, கணிணி"
+
+msgid "computer"
+msgstr "கணிப்பொறி, கணிணி"
+
+msgid "computer engineering"
+msgstr "கணினியியல்"
+
+msgid "concave lens"
+msgstr "குழிவில்லை"
+
+msgid "concave mirror"
+msgstr "குழியாடி"
+
+msgid "conductance"
+msgstr "கடத்தம்"
+
+msgid "cone"
+msgstr "கூம்பு"
+
+msgid "configurable programmable logic device (cpld)"
+msgstr "உள்ளமை நிரல்படு தருக்கச் சாதனம்"
+
+msgid "configuration"
+msgstr "உள்ளமைவு"
+
+msgid "constant"
+msgstr "மாறா, மாறிலி"
+
+msgid "continuos function"
+msgstr "தொடர்ச்சியுள்ள சார்வு"
+
+msgid "convex lens"
+msgstr "குவிவில்லை"
+
+msgid "convex mirror"
+msgstr "குவியாடி"
+
+msgid "convolution"
+msgstr "சுருளல்"
+
+msgid "coordinate"
+msgstr "ஆயம்"
+
+msgid "correlation"
+msgstr "ஒட்டுறவு"
+
+msgid "crystal"
+msgstr "படிகம்"
+
+msgid "crystal oscillator"
+msgstr "படிக அலைவி/அலைப்பி"
+
+msgid "cube"
+msgstr "கன சதுரம்"
+
+msgid "current"
+msgstr "மின்னோட்ட்ம், ஓட்டம்"
+
+msgid "cyclotron"
+msgstr "சுழற்சியலைவி"
+
+msgid "data"
+msgstr "தரவு"
+
+msgid "data pattern"
+msgstr "தரவு உருபடிவம்"
+
+msgid "datasheet"
+msgstr "தரவுத்தாள்"
+
+msgid "dc current"
+msgstr "நேரோட்டம்"
+
+msgid "dc current"
+msgstr "நேரோட்டம், ஒருதிசை மின்னோட்டம்"
+
+msgid "dc voltage"
+msgstr "ஒருதிசை மின்னழுத்தம்"
+
+msgid "decimate, decimation"
+msgstr "வீதக்குறை, வீதக்குறைவு"
+
+msgid "decode, decoding, decoder"
+msgstr "குறிவிலக்கு, குறிவிலக்கம், குறிவிலக்கி"
+
+msgid "decrypt"
+msgstr "மறைவிலக்கு"
+
+msgid "demodulation"
+msgstr "பண்பிறக்கம்"
+
+msgid "descrambling"
+msgstr "கலர்விலக்கம்"
+
+msgid "detector"
+msgstr "உணர்வி"
+
+msgid "diac (diode for ac)"
+msgstr "மாறுமின் இருமுனையம் மாறுமின்னோட்ட கட்டுப்பாட்டிற்கு பயனாகும் சாதனம்"
+
+msgid "diameter"
+msgstr "விட்டம்"
+
+msgid "differential, differentiation, differentiator"
+msgstr "வகையீட்டு, வகையீட்டல், வகையீட்டி"
+
+msgid "diffraction"
+msgstr "அலைவளைவு"
+
+msgid "diffraction grating"
+msgstr "அலைவளைவுக் கீற்றணி"
+
+msgid "digital filter"
+msgstr "இலக்க வடிப்பி"
+
+msgid "diode"
+msgstr "இருமுனையம்"
+
+msgid "directional antenna"
+msgstr "திசைவு அலைக்கம்பம்"
+
+msgid "directional coupler"
+msgstr "திசைவுப் பிணைப்பி"
+
+msgid "disc"
+msgstr "வட்டு"
+
+msgid "discharge (electric)"
+msgstr "மின்னிறக்கம்"
+
+msgid "discreet values"
+msgstr "தனித்த அளவுகள்"
+
+msgid "discriminator"
+msgstr "பிரித்துணர்வி"
+
+msgid "dish antenna"
+msgstr "அலைக்கம்பா"
+
+msgid "distorsion"
+msgstr "உருக்குலைவு"
+
+msgid "double-byte"
+msgstr "ஈரெண்ணெண்"
+
+msgid "double-stub (impedence) matching"
+msgstr "இருமுளை (மின் மறுப்புப்) பொறுத்தம்"
+
+msgid "driver (software)"
+msgstr "இயக்கமென்பொருள்"
+
+msgid "dynamo"
+msgstr "மின்னாக்கி"
+
+msgid "earth ground"
+msgstr "புவி நிலம்"
+
+msgid "earth wire"
+msgstr "புவிக் கம்பி"
+
+msgid "earthing"
+msgstr "புவியிடுதல்"
+
+msgid "eddy current"
+msgstr "சுழலோட்டம்"
+
+msgid "egress"
+msgstr "வெளிவாய்"
+
+msgid "electric field"
+msgstr "மின்புலம்"
+
+msgid "electrical"
+msgstr "மின்னியல்"
+
+msgid "electricity"
+msgstr "மின்சாரம்"
+
+msgid "electrocardiograph"
+msgstr "மின் இதயத்துடிப்பு வரைவி"
+
+msgid "electrode"
+msgstr "மின்வாய்"
+
+msgid "electromagnetic interference (emi)"
+msgstr "மின்காந்த இடையீடு"
+
+msgid "electromagnetic wave"
+msgstr "மின்காந்த அலை"
+
+msgid "electromagnetics"
+msgstr "மின்காந்தவியல்"
+
+msgid "electron"
+msgstr "எதிர்மின்னி"
+
+msgid "electron"
+msgstr "எதிர்மின்னி"
+
+msgid "electronics"
+msgstr "மின்னணுவியல்"
+
+msgid "electronics"
+msgstr "மின்னணுவியல்"
+
+msgid "electrostatic discharge (esd)"
+msgstr "நிலைமின்னிறக்கம்"
+
+msgid "electrostatic sensitive (=esd sensitive)"
+msgstr "நிலைமின்பாதிக்கப்படத்தக்க(து)"
+
+msgid "electrostatics"
+msgstr "நிலைமின்னியல்"
+
+msgid "element"
+msgstr "தனிமம்"
+
+msgid "elevation"
+msgstr "உயர்வு ரேகை"
+
+msgid "emitter"
+msgstr "உமிழ்வாய்"
+
+msgid "emulation"
+msgstr "போன்மம்"
+
+msgid "end-fire array (antenna)"
+msgstr "முனையியக்க அணி (அலைக்கம்பம்)"
+
+msgid "engine"
+msgstr "பொறி"
+
+msgid "entity"
+msgstr "உருபொருள்"
+
+msgid "ethernet"
+msgstr "தூயவெளியம், தூயவெளி வலை"
+
+msgid "ethernet card"
+msgstr "தூயவெளி அட்டை"
+
+msgid "fabrication"
+msgstr "கட்டுருவாக்கம்"
+
+msgid "factorial"
+msgstr "தொடர்பெருக்கு"
+
+msgid "fall time"
+msgstr "விழுநேரம்"
+
+msgid "falling edge"
+msgstr "விழுவிளிம்பு"
+
+msgid "fan out"
+msgstr "வீச்சு விரிப்பு"
+
+msgid "fan-in"
+msgstr "வீச்சு சுருக்கம்"
+
+msgid "far-field region"
+msgstr "தொலைபுல மண்டலம்"
+
+msgid "feed horn"
+msgstr "அலையூட்டுக் குழல்"
+
+msgid "fetch cycle"
+msgstr "கொணர் சுழர்ச்சி"
+
+msgid "fibre-optic cable"
+msgstr "ஒளியிழைவடம்"
+
+msgid "fidelity"
+msgstr "மெய்நிலை"
+
+msgid "fidelity"
+msgstr "மெய்நிலை"
+
+msgid "fiducial"
+msgstr "நம்பகப்புள்ளி"
+
+msgid "field"
+msgstr "புலம்"
+
+msgid "field effect transistor (fet)"
+msgstr "புலவிளைவுத் திரிதடையம்"
+
+msgid "field programmable gate array"
+msgstr "களம் நிரல்படு வாயிலணி"
+
+msgid "file"
+msgstr "கோப்பு"
+
+msgid "file allocation table"
+msgstr "கோப்பு பிரிப்பு அட்டவணை"
+
+msgid "finite impulse response filter"
+msgstr "முடிவு கணத்தாக்க மறுமொழி விடிப்பி"
+
+msgid "finline"
+msgstr "துடுப்புத்தடம்"
+
+msgid "flat panel display"
+msgstr "தட்டைப் பலகக் காட்சி"
+
+msgid "flow chart"
+msgstr "பாய்வுப்படம்"
+
+msgid "fluorescent lamps"
+msgstr "குழல்விளக்குகள்"
+
+msgid "forward bias"
+msgstr "முன்னோக்கு சாருகை"
+
+msgid "frequency hopping"
+msgstr "அலைவெண் துள்ளல்"
+
+msgid "frequency modulation"
+msgstr "அலைவெண் பண்பேற்றம்"
+
+msgid "frequency shift keying"
+msgstr "அலைவெண் பெயர்வு இணைத்தல்"
+
+msgid "full adder"
+msgstr "முழுக்கூட்டி"
+
+msgid "function (mathematical)"
+msgstr "சார்பு"
+
+msgid "function (subroutine, subprogram)"
+msgstr "துணைநிரல்"
+
+msgid "functionality"
+msgstr "செயல்கூறு"
+
+msgid "fuse"
+msgstr "உருகி"
+
+msgid "fuzzy logic"
+msgstr "இடைநிலை தருக்கம், இடைநிலை ஏரணம்"
+
+msgid "gain"
+msgstr "பெருக்கம்"
+
+msgid "gallium"
+msgstr "மென்தங்கம்"
+
+msgid "galvanometer"
+msgstr "கல்வனோமானி"
+
+msgid "gang, ganging"
+msgstr "கூட்டியங்கு, கூட்டியங்குதல்"
+
+msgid "gate"
+msgstr "வாயில்"
+
+msgid "gate (in f.e.t.)"
+msgstr "வாயில்வாய் (புலவிளைவு திரிதடையத்தில்)"
+
+msgid "gate array"
+msgstr "வாயிலணி, வாயில் அணி"
+
+msgid "gateway"
+msgstr "நுழைவாயில்"
+
+msgid "general purpose register"
+msgstr "பொதுப்பயன் பதிவகம்"
+
+msgid "generator"
+msgstr "மின்னியற்றி"
+
+msgid "glitch"
+msgstr "தடுமாற்றம்"
+
+msgid "global positioning system"
+msgstr "உலக இடம் காட்டும் அமைப்பு"
+
+msgid "gps"
+msgstr "உலக இடம் காட்டும் அமைப்பு"
+
+msgid "grating"
+msgstr "கீற்றணி"
+
+msgid "grid (electric)"
+msgstr "மின்தொகுப்பு"
+
+msgid "ground current"
+msgstr "நிலஓட்டம்"
+
+msgid "ground plane"
+msgstr "நிலத் தளம்"
+
+msgid "ground wave"
+msgstr "நிலஅலை"
+
+msgid "ground wire"
+msgstr "நிலக் கம்பி"
+
+msgid "grounding"
+msgstr "நிலமிடுதல்"
+
+msgid "half adder"
+msgstr "அரைக்கூட்டி"
+
+msgid "halogen"
+msgstr "உப்பீனி"
+
+msgid "hard disk"
+msgstr "நிலைவட்டு"
+
+msgid "hardware"
+msgstr "வன்பொருள்"
+
+msgid "harmonic(s)"
+msgstr "இசையம்(ங்கள்)"
+
+msgid "helical antenna"
+msgstr "சுருள் அலைக்கம்பம்"
+
+msgid "helium"
+msgstr "எல்லியம்"
+
+msgid "hetrodyne, hetrodyning"
+msgstr "கலக்கிப்பிரி, கலக்கிப்பிரிப்பு"
+
+msgid "hex number"
+msgstr "பதின்அறும எண்"
+
+msgid "hexode"
+msgstr "அறுமுனையம்"
+
+msgid "high pass filter"
+msgstr "உயர்பட்டை வடிப்பி"
+
+msgid "holography"
+msgstr "ஒளிப்படவியல்"
+
+msgid "homogenious"
+msgstr "ஒருபடித்தான"
+
+msgid "horizontal line"
+msgstr "கிடை வரைவு"
+
+msgid "horizontal retrace"
+msgstr "கிடை மீள்வரைவு"
+
+msgid "horizontally polarized wave"
+msgstr "கிடை முனைவாக்கப்பட்ட அலை"
+
+msgid "host"
+msgstr "விருந்தோம்பி"
+
+msgid "hub"
+msgstr "குவியன்"
+
+msgid "hue"
+msgstr "வண்ணச்சாயல்"
+
+msgid "hyperbola"
+msgstr "அதிபரவளையம்"
+
+msgid "ideal"
+msgstr "கருதியல்"
+
+msgid "ideal conductors"
+msgstr "கருதியல் மின்தடங்கள்"
+
+msgid "identity"
+msgstr "முற்றொருமை"
+
+msgid "idle, idle state"
+msgstr "பயனிலான, பயனில் நிலை"
+
+msgid "impedence"
+msgstr "மறுப்பு"
+
+msgid "impedence matching"
+msgstr "மின் எதிர்ப்பு பொறுத்தம்"
+
+msgid "impulse"
+msgstr "கணத்தாக்கம்"
+
+msgid "impulse response"
+msgstr "கணத்தாக்க மறுமொழி"
+
+msgid "incidence (light)"
+msgstr "ஒளிப்படுகை"
+
+msgid "inderminate"
+msgstr "தேரா, தேரப்பெறாத"
+
+msgid "indium"
+msgstr "அவுரியம்"
+
+msgid "inductive reactance"
+msgstr "தூண்ட எதிர்வினைப்பு"
+
+msgid "industry standard architecture"
+msgstr "தொழிலக நெறிக் கட்டமைப்பு"
+
+msgid "inertia"
+msgstr "சடத்துவம், ஜடத்துவம்"
+
+msgid "infinite impulse response filter"
+msgstr "முடிவற்ற கணத்தாக்க மறுமொழி வடிப்பி"
+
+msgid "infinity"
+msgstr "முடிவிலி"
+
+msgid "ingress"
+msgstr "உள்வாய்"
+
+msgid "initialization"
+msgstr "முன்னமைவு"
+
+msgid "initiator"
+msgstr "துவக்கி"
+
+msgid "instrument landing system"
+msgstr "தரையிறங்கு கருவி அமைப்பு"
+
+msgid "insulate, insulation"
+msgstr "மின்காப்பிடுதல், மின்காப்பு"
+
+msgid "insulated"
+msgstr "மின்காப்பிடப்பட்ட(து)"
+
+msgid "integer"
+msgstr "முழு எண்"
+
+msgid "integral, integration, integrator"
+msgstr "தொகையிடு, தொகையீட்டல், தொகையீட்டி"
+
+msgid "intelligence"
+msgstr "நுண்ணறிவு"
+
+msgid "interference"
+msgstr "இடையீடு"
+
+msgid "interlace"
+msgstr "தொடர்பின்னல்"
+
+msgid "interlaced scanning"
+msgstr "பின்னிய துருவுதல்"
+
+msgid "intermediate frequency (if)"
+msgstr "இடைநிலை அலைவெண், இடையலை"
+
+msgid "interpolate, interpolation"
+msgstr "வீதமேற்று, வீதமேற்றம்"
+
+msgid "interpolate, interpolation (statistics)"
+msgstr "இடைச்செருகு, இடைச்செருகல்"
+
+msgid "interrupt"
+msgstr "குறுக்கீடு"
+
+msgid "invariant, invariance"
+msgstr "மாற்றமுறாதது, மாற்றமுறாமை"
+
+msgid "inverse square law"
+msgstr "எதிர் வர்க்க விதி"
+
+msgid "inverter"
+msgstr "மாறுதிசையாக்கி"
+
+msgid "involute, involution"
+msgstr "சுருட்சிவரை, சுருட்சி"
+
+msgid "iridium"
+msgstr "உறுதியம்"
+
+msgid "iron loss"
+msgstr "இறும்பு இழப்பு"
+
+msgid "irregularity"
+msgstr "ஒழுங்கின்மை"
+
+msgid "isolation"
+msgstr "தனிமையாக்கம்"
+
+msgid "jacket"
+msgstr "உறை"
+
+msgid "jam"
+msgstr "நெரிசல்"
+
+msgid "jaw"
+msgstr "தாடை"
+
+msgid "job"
+msgstr "பணி"
+
+msgid "joystick"
+msgstr "இயக்குப்பிடி"
+
+msgid "jump"
+msgstr "தாவு"
+
+msgid "junction"
+msgstr "சந்தி"
+
+msgid "junction diode"
+msgstr "சந்திப்பு இருமுனையம்"
+
+msgid "junction transistor"
+msgstr "சந்திப்புத் திரிதடையம்"
+
+msgid "key bounce"
+msgstr "சாவித் துள்ளல், விசைத் துள்ளல்"
+
+msgid "key bounce"
+msgstr "விசைத் துள்ளல்"
+
+msgid "key way"
+msgstr "சாவித் துளை"
+
+msgid "keyboard (computer, typewriter)"
+msgstr "விசைப்பலகை"
+
+msgid "keyboard (music)"
+msgstr "இசைப்பலகை"
+
+msgid "keying"
+msgstr "இணைத்தல்"
+
+msgid "kinetic energy"
+msgstr "இயக்க ஆற்றல்"
+
+msgid "klystron, klyston oscillator"
+msgstr "மின் கற்றையலைக் குழல், மின் கற்றையலைவி/கற்றையலைப்பி"
+
+msgid "knee point"
+msgstr "திருப்பும் முனை"
+
+msgid "knob"
+msgstr "குமிழ்"
+
+msgid "krypton"
+msgstr "மறைவியம்"
+
+msgid "laser"
+msgstr "ஊடொளி"
+
+msgid "laser diode"
+msgstr "ஊடொளி இருமுனையம்"
+
+msgid "latch"
+msgstr "தாழ்ப்பாள்"
+
+msgid "latency"
+msgstr "சுணக்கம்"
+
+msgid "latent heat"
+msgstr "உள்ளுறை வெப்பம்"
+
+msgid "lattice"
+msgstr "உருபொருள்"
+
+msgid "layout (ic, pcb)"
+msgstr "மனையமைவு"
+
+msgid "light emitting diode"
+msgstr "ஒளி உமிழ் இருமுனையம்"
+
+msgid "linear (particle) accelerator"
+msgstr "நேரியல் (துகள்) முடுக்கி"
+
+msgid "linear ic"
+msgstr "நேரியல் ஒருங்கிணைச்சுற்று"
+
+msgid "linker"
+msgstr "தொடுப்பி"
+
+msgid "liquid crystal display (lcd)"
+msgstr "திரவப் படிகக் காட்சி"
+
+msgid "lithium"
+msgstr "மென்னியம்"
+
+msgid "load, load (v.), loading"
+msgstr "சுமை, சுமைக்கொடு, சுமைக்கொடுத்தல்"
+
+msgid "locus"
+msgstr "நியமாப்பாதை"
+
+msgid "log in"
+msgstr "புகுபதிகை"
+
+msgid "log out"
+msgstr "விடுபதிகை"
+
+msgid "logarithm"
+msgstr "மடக்கை"
+
+msgid "logic"
+msgstr "தருக்கம், ஏரணம்"
+
+msgid "logic design"
+msgstr "தருக்க வடிவமைப்பு"
+
+msgid "logic element"
+msgstr "தருக்கத் தனிமம்"
+
+msgid "logic lock region"
+msgstr "தருக்கம் அடைப்பு மண்டலம்"
+
+msgid "longitude"
+msgstr "நெட்டாங்கு"
+
+msgid "low drop out regulator"
+msgstr "தாழ்வீழ்ச்சி சீர்ப்படுத்தி, தாழ்வீழ்ச்சி சீர்ப்பி"
+
+msgid "low noise"
+msgstr "தாழ் இரைச்சல்"
+
+msgid "low noise block downconverter"
+msgstr "தாழ்விறைச்சல் பட்டை கீழ்மாற்றி"
+
+msgid "low pass filter"
+msgstr "தாழ்பட்டை வடிப்பி"
+
+msgid "luma"
+msgstr "ஒளிர்மை"
+
+msgid "luminance"
+msgstr "ஒளிர்மை"
+
+msgid "lumped circuit elements"
+msgstr "திரண்ட சுற்றுருப்புக்கள்"
+
+msgid "macro"
+msgstr "குறுநிரல்"
+
+msgid "magnetograph"
+msgstr "காந்தவரைவி"
+
+msgid "magnetometer"
+msgstr "காந்தமானி"
+
+msgid "magnetron"
+msgstr "காந்த அலைவி"
+
+msgid "magnification"
+msgstr "உருப்பெருக்கம்"
+
+msgid "magnitude"
+msgstr "வீச்சளவு"
+
+msgid "mantissa"
+msgstr "அடிஎண்"
+
+msgid "mass"
+msgstr "நிறை"
+
+msgid "mass storage"
+msgstr "திரள் சேமிப்பகம்"
+
+msgid "master clock"
+msgstr "முதன்மைக் கடிகாரம்"
+
+msgid "math coprocessor"
+msgstr "கணித இணைச்செயலி"
+
+msgid "matrix"
+msgstr "அணி"
+
+msgid "memory address"
+msgstr "நினைவக முகவரி"
+
+msgid "memory allocation"
+msgstr "நினைவக ஒதுக்கீடு"
+
+msgid "metal layer"
+msgstr "உலோக அடுக்கு"
+
+msgid "metallization"
+msgstr "உலோகப்பூசு, உலோகப்பூசல்"
+
+msgid "microphone"
+msgstr "ஒலிவாங்கி"
+
+msgid "microstrip"
+msgstr "நுண்கீற்று"
+
+msgid "microwave oven"
+msgstr "நுண்ணலை அடுப்பு"
+
+msgid "mixer"
+msgstr "கலப்பி"
+
+msgid "model"
+msgstr "மாதிரியுரு"
+
+msgid "modem"
+msgstr "இணக்கி"
+
+msgid "modulation index"
+msgstr "பண்பேற்ற குறியெண்"
+
+msgid "modulator"
+msgstr "பண்பேற்றி"
+
+msgid "moment"
+msgstr "திருப்பம்"
+
+msgid "momentum"
+msgstr "உந்தம்"
+
+msgid "motherboard"
+msgstr "தாய்ப்பலகை"
+
+msgid "motor"
+msgstr "மின்னோடி"
+
+msgid "multi-port network"
+msgstr "பலதுறை பிணையம்"
+
+msgid "multimedia"
+msgstr "பன்னூடகம்"
+
+msgid "multimeter"
+msgstr "பன்னளவி"
+
+msgid "multiprocessor system"
+msgstr "பல்செயலி முறைமை"
+
+msgid "multirate system"
+msgstr "பல்வீத அமைப்பு"
+
+msgid "multistage amplifier"
+msgstr "பலகூற்று மிகைப்பி"
+
+msgid "multiswitch"
+msgstr "பன்னிலைமாற்றி"
+
+msgid "nand gate"
+msgstr "இல்-உம்மை வாயில்"
+
+msgid "navigational aid"
+msgstr "வழிகாணுதவி"
+
+msgid "near-field region"
+msgstr "அருகுபுல மண்டலம்"
+
+msgid "network"
+msgstr "பிணையம்"
+
+msgid "network analysis"
+msgstr "பிணையப் பகுப்பாய்வு"
+
+msgid "neutron"
+msgstr "நொதுமின்னி"
+
+msgid "nibble"
+msgstr "நாலெண்"
+
+msgid "nickel"
+msgstr "வன்வெள்ளி"
+
+msgid "no load charecteristic"
+msgstr "சுமையில் சிறப்பியல்பு"
+
+msgid "no load current"
+msgstr "சுமையிலோட்டம்"
+
+msgid "node"
+msgstr "கணு"
+
+msgid "noise"
+msgstr "இரைச்சல்"
+
+msgid "noise figure, noise factor"
+msgstr "இரைச்சல் அளவெண், இரைச்சல் காரணி"
+
+msgid "noise resistance"
+msgstr "இரைச்சல் மின்தடை"
+
+msgid "noise suppression"
+msgstr "இரைச்சல் நீக்கம்"
+
+msgid "numeric"
+msgstr "எண் வரிசை"
+
+msgid "objective lens"
+msgstr "பொருள்நோக்கு வில்லை"
+
+msgid "oblique"
+msgstr "சாய்வான"
+
+msgid "observer"
+msgstr "நோக்காளன்"
+
+msgid "octet (= byte)"
+msgstr "எண்ணெண்"
+
+msgid "omnidirectional antenna"
+msgstr "சமதிசை அலைக்கம்பம்"
+
+msgid "open circuit"
+msgstr "திறந்த மின்சுற்று, திறந்த மின்பாதை"
+
+msgid "open loop gain"
+msgstr "திறந்த வளையப் பெருக்கம்"
+
+msgid "operating range"
+msgstr "இயக்க நெடுக்கம்"
+
+msgid "operational amplifier (op-amp)"
+msgstr "செயல்படு மிகைப்பி (செய்மிகைப்பி)"
+
+msgid "or gate"
+msgstr "அல்லது வாயில்"
+
+msgid "orbit"
+msgstr "சுற்றுப்பாதை"
+
+msgid "orientation"
+msgstr "திசையமைவு"
+
+msgid "oscillation"
+msgstr "அலைவு"
+
+msgid "oscilloscope"
+msgstr "அலை(வு)நோக்கி"
+
+msgid "overflow"
+msgstr "வழிவு"
+
+msgid "overshoot"
+msgstr "மேல்பாய்வு"
+
+msgid "panaromic"
+msgstr "அகலப் பரப்பு"
+
+msgid "para-magnet"
+msgstr "இணைக்காந்தம்"
+
+msgid "parabolic reflector"
+msgstr "பரவளைய எதிரொலிப்பி"
+
+msgid "parallax"
+msgstr "இடமாறு தோற்றம்"
+
+msgid "parallel conncetion"
+msgstr "பக்க இணைப்பு"
+
+msgid "parallelized digital"
+msgstr "இணைநிலை இலக்கம்"
+
+msgid "parallellogram"
+msgstr "இணைகரம்"
+
+msgid "parameter"
+msgstr "கூறளவு"
+
+msgid "parasitic antenna"
+msgstr "போலி அலைக்கம்பம்"
+
+msgid "parasitic capacitance"
+msgstr "போலி மின்தேக்கம், போலி மின்கொண்மம்"
+
+msgid "parasitic impedence"
+msgstr "போலி மின் மறுப்பு"
+
+msgid "parasitic inductance"
+msgstr "போலி மின்தூண்டம்"
+
+msgid "parity bit"
+msgstr "சமநிலைத் துகள்"
+
+msgid "parity check"
+msgstr "சமநிலை சரிபார்ப்பு"
+
+msgid "pass band"
+msgstr "கடத்துப் பட்டை"
+
+msgid "passive electric cicuit"
+msgstr "ஒரு உயிர்பற்ற மின்சுற்று"
+
+msgid "passive load"
+msgstr "உயிர்ப்பில் சுமை, உயிர்பற்றச் சுமை"
+
+msgid "patch cord"
+msgstr "எளிதிணைப்பு வடம்"
+
+msgid "peer"
+msgstr "ஒப்பி"
+
+msgid "peer-peer transfer"
+msgstr "ஒப்பி-ஒப்பி பரிமாற்றம்"
+
+msgid "pentode"
+msgstr "ஐம்முனையம்"
+
+msgid "periodic table"
+msgstr "தனிம அட்டவணை"
+
+msgid "peripheral component interconnect (pci)"
+msgstr "புறக்கருவி இணைமுகம்"
+
+msgid "permeability"
+msgstr "காந்த உட்புகு திறன்"
+
+msgid "permittivity"
+msgstr "மின் தற்கோள் திறன்"
+
+msgid "permutation, permutation group"
+msgstr "வரிசைமாற்றம், வரிசைமாற்றக் குலம்"
+
+msgid "phase (angular)"
+msgstr "கட்டம்"
+
+msgid "phase (eg. 3-phase circuit)"
+msgstr "தறுவாய்"
+
+msgid "phase locked loop (pll)"
+msgstr "கட்டமடைவு வளையம்"
+
+msgid "phase shift keying (psk)"
+msgstr "கட்டப் பெயர்வு இணைத்தல்"
+
+msgid "phased array radar"
+msgstr "கட்டஅணி கதிரலைக் கும்பா"
+
+msgid "phosphorous"
+msgstr "தீமுறி, பிரகாசிதம்"
+
+msgid "photon"
+msgstr "ஒளித்துகள்"
+
+msgid "photosphere"
+msgstr "ஒளிமண்டலம்"
+
+msgid "pick-up"
+msgstr "அலையெடுப்பி"
+
+msgid "picture tube"
+msgstr "படக் குழாய்"
+
+msgid "piezo-electric crystal"
+msgstr "அமுக்கமின் பளிங்கு"
+
+msgid "place and route"
+msgstr "இடவமைவு-திசைவு"
+
+msgid "placement"
+msgstr "இடவமைவு"
+
+msgid "plane polarized wave"
+msgstr "தள முனைவாக்கப்பட்ட அலை"
+
+msgid "plasma"
+msgstr "மின்மம்"
+
+msgid "platinum"
+msgstr "வெண்தங்கம்"
+
+msgid "plotter"
+msgstr "வரைவி"
+
+msgid "plug"
+msgstr "செருகி"
+
+msgid "plutonium"
+msgstr "அயலாம்"
+
+msgid "polar axes"
+msgstr "துருவ அச்சுக்கள், முனையச்சுக்கள்"
+
+msgid "polar coordinates"
+msgstr "துருவ ஆயங்கள், முனை ஆயங்கள்"
+
+msgid "polarimeter"
+msgstr "முனைவாக்கமானி"
+
+msgid "polarity (positve/negative; north/south)"
+msgstr "கதிர்வு"
+
+msgid "polarizer, polaroid"
+msgstr "முனைவாக்கி"
+
+msgid "pole (north/south)"
+msgstr "முனை"
+
+msgid "pole (of a transfer function)"
+msgstr "முனைமம்"
+
+msgid "power plane"
+msgstr "திறன் தளம்"
+
+msgid "power spectral density"
+msgstr "திறனிறமாலை அடர்வு"
+
+msgid "power spectrum"
+msgstr "திறனிறமாலை"
+
+msgid "prism"
+msgstr "அரியம், பட்டகம்"
+
+msgid "probability"
+msgstr "நிகழ்தகவு"
+
+msgid "probability density function"
+msgstr "நிகழ்தகவு அடர்சார்பு"
+
+msgid "probe"
+msgstr "தேட்டி"
+
+msgid "programmable logic device"
+msgstr "நிரல்படு தருக்கக் கருவி"
+
+msgid "programmer"
+msgstr "நிரலி (device), நிரலர் (person)"
+
+msgid "propogation"
+msgstr "பரப்புகை"
+
+msgid "proton"
+msgstr "நேர்முன்னி"
+
+msgid "pulse amplifier"
+msgstr "துடிப்பு மிகைப்பி"
+
+msgid "pulse code modulation"
+msgstr "துடிப்பு சங்கேத பண்பேற்றம்"
+
+msgid "pulse counter"
+msgstr "துடிப்பு எண்ணி"
+
+msgid "pulse generator"
+msgstr "துடிப்பாக்கி"
+
+msgid "pulse shaper"
+msgstr "துடிப்பு உருமாற்றி"
+
+msgid "pulse transformer"
+msgstr "துடிப்பு மின்மாற்றி"
+
+msgid "pump"
+msgstr "எக்கி"
+
+msgid "pyramid"
+msgstr "கூம்பகம்"
+
+msgid "q (quality) factor"
+msgstr "தரக் காரணி"
+
+msgid "quadrature phase shift keying (qpsk)"
+msgstr "பரப்புக்காண் கட்டப் பெயர்வு இணைத்தல்"
+
+msgid "quadrilateral"
+msgstr "நாற்கரம்"
+
+msgid "quantization"
+msgstr "சொட்டாக்கம்"
+
+msgid "quantization level"
+msgstr "சொட்டாக்க படிநிலை"
+
+msgid "quantizer"
+msgstr "சொட்டாக்கி"
+
+msgid "quantum"
+msgstr "துளிமம்"
+
+msgid "quarter wave antenna"
+msgstr "கால் அலைக்கம்பம்"
+
+msgid "quartz"
+msgstr "பளிங்கு"
+
+msgid "radar"
+msgstr "கதிரலைக் கும்பா"
+
+msgid "radian"
+msgstr "ஆரகம்"
+
+msgid "radiation pattern"
+msgstr "கதிர்வீச்சு உருபடிவம்"
+
+msgid "radiator"
+msgstr "கதிர்வீசி"
+
+msgid "radio activity"
+msgstr "கதிரியக்கம்"
+
+msgid "radio beacon"
+msgstr "வழிக்காணலை"
+
+msgid "radio beacon (transmitter)"
+msgstr "வழிகாணலை செலுத்தி"
+
+msgid "radio channel"
+msgstr "வானலைத் அலைவரிசை"
+
+msgid "radium"
+msgstr "கருகன்"
+
+msgid "radius"
+msgstr "ஆரம்"
+
+msgid "radon"
+msgstr "ஆரகன்"
+
+msgid "random variable"
+msgstr "சமவாய்ப்பு மாறி"
+
+msgid "rastor display"
+msgstr "பரவல் காட்சி"
+
+msgid "rating"
+msgstr "செயல்வரம்பு"
+
+msgid "reactance"
+msgstr "எதிர்வினைப்பு"
+
+msgid "reactive component"
+msgstr "எதிர்வினை உறுப்பு"
+
+msgid "reactive element"
+msgstr "எதிர்வினை உறுப்பு"
+
+msgid "real-time"
+msgstr "நிகழ்நேரம்"
+
+msgid "receiver"
+msgstr "பெறுவி"
+
+msgid "reciprocal, reciprocity"
+msgstr "ஏற்றெதிர், ஏற்றெதிர்மை"
+
+msgid "reconfiguration"
+msgstr "மீள்உள்ளமைவு"
+
+msgid "rectifier"
+msgstr "(மின்)திருத்தி"
+
+msgid "reflected/transmission charecteristics of power applied"
+msgstr "அளிப்பு திறனின் எதிரொளிப்பு/பரப்புகை பண்புகள்"
+
+msgid "reflection (electric signals)"
+msgstr "எதிரலை"
+
+msgid "reflection (light, images)"
+msgstr "எதிரொளி"
+
+msgid "reflex klystron oscillator"
+msgstr "எதிர்வினை மின் கற்றையலைவி/கற்றையலைப்பி"
+
+msgid "refract"
+msgstr "திரிபுறு"
+
+msgid "refraction"
+msgstr "ஒளித்திரிபு"
+
+msgid "refractive index"
+msgstr "ஒளித்திரிபுக் கெழு"
+
+msgid "relative motion"
+msgstr "சார்பியக்கம்"
+
+msgid "relativity theory"
+msgstr "சார்பியல் கோட்பாடு"
+
+msgid "relay"
+msgstr "அஞ்சல் சுருள்"
+
+msgid "reset"
+msgstr "மீளமை, மீளமைவு"
+
+msgid "resistance"
+msgstr "தடையம்"
+
+msgid "resolution"
+msgstr "பிரித்திறண்"
+
+msgid "resonance"
+msgstr "ஒத்திசை"
+
+msgid "resonator"
+msgstr "ஒத்திசைவி"
+
+msgid "retrace"
+msgstr "மீள்வரைவு"
+
+msgid "reverse bias"
+msgstr "பின்னோக்கு சாருகை"
+
+msgid "revolution"
+msgstr "சுற்று"
+
+msgid "rf (radio frequency)"
+msgstr "வானொலி அலை, வானலை"
+
+msgid "rf engineering"
+msgstr "வானலையியல்"
+
+msgid "rf frequency"
+msgstr "வானலைவெண்"
+
+msgid "rf ground"
+msgstr "வானலை நிலம்"
+
+msgid "rheostat"
+msgstr "தடைமாற்றி"
+
+msgid "rhombus"
+msgstr "சாய்வுசதுரம்"
+
+msgid "ripple"
+msgstr "குறுவலை"
+
+msgid "rise time"
+msgstr "எழுநேரம்"
+
+msgid "rising edge"
+msgstr "எழுவிளிம்பு"
+
+msgid "rotation"
+msgstr "சுழற்சி"
+
+msgid "rotor"
+msgstr "சுற்றகம்"
+
+msgid "s-parameters"
+msgstr "சிதறல் பண்பளவுகள்"
+
+msgid "sample"
+msgstr "மாதிரி"
+
+msgid "sampling"
+msgstr "மாதிரி எடுத்தல்"
+
+msgid "sampling rate, sampling frequency"
+msgstr "மாதிரி வீதம்"
+
+msgid "sampling theorem"
+msgstr "மாதிரி எடுப்புத் தேற்றம்"
+
+msgid "sandpaper"
+msgstr "மண்காகிதம்"
+
+msgid "satellite"
+msgstr "செயற்கைக் கோள்"
+
+msgid "saturation"
+msgstr "தெவிட்டு நிலை"
+
+msgid "scanner"
+msgstr "வருடி"
+
+msgid "scattering parameters"
+msgstr "சிதறல் பண்பளவுகள்"
+
+msgid "scr"
+msgstr "மண்ணியத் திருத்திகள்"
+
+msgid "scrambling"
+msgstr "கலரீடு"
+
+msgid "sensor"
+msgstr "உணரி"
+
+msgid "serdes"
+msgstr "இயைப்பி"
+
+msgid "series connection"
+msgstr "தொடர்நிலை இணைப்பு"
+
+msgid "server"
+msgstr "வழங்கி"
+
+msgid "set"
+msgstr "கணம்"
+
+msgid "set top box"
+msgstr "மேலமர்வுப் பெட்டி"
+
+msgid "short circuit"
+msgstr "குறுக்கு மின்பாதை, குறுக்கிணைப்பு"
+
+msgid "short circuit (fault, accident)"
+msgstr "மின்கசிவு"
+
+msgid "short-circuited"
+msgstr "குறுக்கிணைந்த"
+
+msgid "shot noise"
+msgstr "மாது இரைச்சல்"
+
+msgid "side band"
+msgstr "பக்கப்பட்டை"
+
+msgid "signal"
+msgstr "குறிகை"
+
+msgid "signal integrity"
+msgstr "குறிகை மெய்மை"
+
+msgid "silicon"
+msgstr "மண்ணியம்"
+
+msgid "simulation"
+msgstr "பாவனை"
+
+msgid "simulator"
+msgstr "பாவிப்பி"
+
+msgid "single phase"
+msgstr "ஒற்றைத் தறுவாய்"
+
+msgid "single side band (ssb) modulation"
+msgstr "ஒருபக்கப்பட்டைப் பண்பேற்றம்"
+
+msgid "single-stub (impedence) matching"
+msgstr "ஒருமுளை (மின் மறுப்பு) பொறுத்தம்"
+
+msgid "skew"
+msgstr "இடைச்சுணக்கம்"
+
+msgid "skin effect"
+msgstr "பரிதி விளைவு"
+
+msgid "skyscraper"
+msgstr "வானளாவி"
+
+msgid "skywave"
+msgstr "விண்ணலை"
+
+msgid "socket"
+msgstr "பொறுந்துவாய்"
+
+msgid "sodium"
+msgstr "உவர்மம்"
+
+msgid "solder flux"
+msgstr "சூட்டிணை மெழுகு"
+
+msgid "solder iron"
+msgstr "சூட்டிணைக் கோல்"
+
+msgid "solder lead"
+msgstr "சூட்டிணை உருகுகம்பி"
+
+msgid "solid angle"
+msgstr "திண்மக் கோணம்"
+
+msgid "sonar"
+msgstr "ஊடொலிக் கும்பா"
+
+msgid "sound card"
+msgstr "ஒலி அட்டை"
+
+msgid "source code"
+msgstr "மூலக் குறியீடு"
+
+msgid "speaker"
+msgstr "ஒலிபெருக்கி, ஒலிபரப்பி"
+
+msgid "spectrometer"
+msgstr "நிறமாலைமானி"
+
+msgid "spectrum analyzer"
+msgstr "நிறமாலைப் பகுப்பி"
+
+msgid "sphere"
+msgstr "கோளம்"
+
+msgid "spread spectrum"
+msgstr "பரவல் நிறமாலை"
+
+msgid "spreadsheet"
+msgstr "விரிவுத்தாள்"
+
+msgid "square of magnitude of auto-correlation"
+msgstr ""
+"அக்குறிகையின் தன்னொட்டுறவின் ஃபுரியர் உருமாற்ற வீச்சளவின் இருபடியாகும்"
+
+msgid "stability"
+msgstr "நிலைப்புத்தன்மை"
+
+msgid "stability condition"
+msgstr "நிலைப்பு நிபந்தனை"
+
+msgid "standing wave"
+msgstr "நிலையலை"
+
+msgid "standing wave ratio (swr)"
+msgstr "நிலையலை (மின்னழுத்த) விகிதம்"
+
+msgid "static electricity"
+msgstr "நிலைமின்சாரம்"
+
+msgid "stop band"
+msgstr "தடைப் பட்டை"
+
+msgid "strain"
+msgstr "திரிபு, விகாரம்"
+
+msgid "stream (of bits, data etc.)"
+msgstr "தாரை"
+
+msgid "stress"
+msgstr "தகைவு"
+
+msgid "stripline"
+msgstr "கீற்றுத்தடம்"
+
+msgid "stub"
+msgstr "முளை"
+
+msgid "subsystem"
+msgstr "துணைமுறைமை, துணையமைப்பு"
+
+msgid "superposition theorem"
+msgstr "மேல்படி தேற்றம்"
+
+msgid "supply voltage"
+msgstr "வழங்கல் மின்னழுத்தம்"
+
+msgid "surface mount component"
+msgstr "மேல்பரப்பு உறுப்பு"
+
+msgid "surge"
+msgstr "எழுச்சி"
+
+msgid "susceptance"
+msgstr "ஏற்பு"
+
+msgid "switch, switching"
+msgstr "நிலைமாற்றி, நிலைமாற்றம்"
+
+msgid "switcher, switching regulator"
+msgstr "நிலைமாற்றுச் சீர்ப்படுத்தி"
+
+msgid "synch charecter"
+msgstr "இசைவு உரு"
+
+msgid "synchronization"
+msgstr "ஒத்தியக்கம்"
+
+msgid "synchronous"
+msgstr "ஒத்தியங்கு"
+
+msgid "synthesis"
+msgstr "இணைபடுத்தல்"
+
+msgid "synthesizer"
+msgstr "இணைபடுத்தி"
+
+msgid "tachometer"
+msgstr "சுழற்சிமானி, சுழற்சி அளவி"
+
+msgid "tangent"
+msgstr "தொடுகோடு"
+
+msgid "tank circuit"
+msgstr "தொட்டிச் சுற்று"
+
+msgid "tantallum"
+msgstr "இஞ்சாயம்"
+
+msgid "tape recorder"
+msgstr "நாடாப் பதிவி"
+
+msgid "target (in a bus etc.)"
+msgstr "இலக்கு"
+
+msgid "telescope"
+msgstr "தொலைநோக்கி"
+
+msgid "tension"
+msgstr "இழுவிசை"
+
+msgid "terminate (transmission lines)"
+msgstr "முடித்துவிடு"
+
+msgid "termination resistor, termination resistance"
+msgstr "முடிப்பு மின்தடை, முடிப்பு மின்தடையம்"
+
+msgid "terrestrial, terrestrially"
+msgstr "புவிப்பரவு, புவிப்பரவாக"
+
+msgid "test bench"
+msgstr "சோதனை மேடை"
+
+msgid "tetrode"
+msgstr "நான்முனையம்"
+
+msgid "thermal noise"
+msgstr "வெப்ப இரைச்சல்"
+
+msgid "thermistor"
+msgstr "வெப்பத்தடையம்"
+
+msgid "thermocouple"
+msgstr "வெப்ப இரட்டை"
+
+msgid "thermodynamics"
+msgstr "வெப்ப இயக்கியல்"
+
+msgid "thick film"
+msgstr "தடிபடலம்"
+
+msgid "thick lens"
+msgstr "தடிவில்லை"
+
+msgid "thin film"
+msgstr "மென்படலம்"
+
+msgid "thin lens"
+msgstr "மென்வில்லை"
+
+msgid "thorium"
+msgstr "இடியம்"
+
+msgid "through-hole component"
+msgstr "துளைப்புகு உறுப்பு"
+
+msgid "through-hole via"
+msgstr "துளை வழிமம்"
+
+msgid "through-hole vias"
+msgstr "துளை வழிமங்கள்"
+
+msgid "throughput"
+msgstr "செய்வீதம்"
+
+msgid "thyratron"
+msgstr "வளிமும்முனையம்"
+
+msgid "timebase"
+msgstr "காலவடி"
+
+msgid "timing"
+msgstr "நேரவிவரம்"
+
+msgid "titanium"
+msgstr "வெண்வெள்ளி"
+
+msgid "tone"
+msgstr "தொனி"
+
+msgid "toroid(al coil)"
+msgstr "நங்கூரச்சுருள்"
+
+msgid "transceiver"
+msgstr "செலுத்துப்பெறுவி"
+
+msgid "transfer function"
+msgstr "மாற்றச் சார்பு"
+
+msgid "transform"
+msgstr "உருமாற்று, உருமாற்றம்"
+
+msgid "transient"
+msgstr "மாறுநிலை"
+
+msgid "transmission line"
+msgstr "பரப்புத் தடம், செலுத்துத் தடம்"
+
+msgid "transmitter"
+msgstr "செலுத்தி"
+
+msgid "transponder"
+msgstr "செலுத்துவாங்கி"
+
+msgid "travelling wave tube"
+msgstr "இயங்குஅலைக் குழல்"
+
+msgid "triac (triode for ac)"
+msgstr "மாறுமின் மும்முனையம்"
+
+msgid "trigger(ing)"
+msgstr "குதிரை(யிடல்)"
+
+msgid "triode"
+msgstr "மும்முனையம்"
+
+msgid "trippler"
+msgstr "மும்மடங்காக்கி"
+
+msgid "troposhere"
+msgstr "அடிவளிமண்டலம்"
+
+msgid "truth table"
+msgstr "மெய் அட்டவணை"
+
+msgid "tuned"
+msgstr "ஒத்தியைந்த, சுரம்கூட்டிய"
+
+msgid "tuned amplifier"
+msgstr "இசைப்புறு மிகைப்பி"
+
+msgid "tuner"
+msgstr "இசைப்பி"
+
+msgid "tungsten"
+msgstr "மெல்லிழையம்"
+
+msgid "tunnel diode"
+msgstr "சுரங் இருமுனையம், சுரங்கி"
+
+msgid "turbine"
+msgstr "சுழலி"
+
+msgid "tweeter"
+msgstr "மேல்சுர ஒலிபெருக்கி"
+
+msgid "twinax cable"
+msgstr "ஈரச்சு வடம்"
+
+msgid "ultra high frequency (uhf)"
+msgstr "அதிஉயர் அலைவெண்"
+
+msgid "ultrasonic"
+msgstr "கேளாஒலி"
+
+msgid "ultrasound"
+msgstr "ஊடொலி"
+
+msgid "ultraviolet"
+msgstr "புறஊதா"
+
+msgid "underflow"
+msgstr "குறைப்பாய்வு"
+
+msgid "undershoot"
+msgstr "கீழ்பாய்வு"
+
+msgid "uniform quantization"
+msgstr "சீரானச் சொட்டாக்கம்"
+
+msgid "uranium"
+msgstr "அடரியம்"
+
+msgid "vanadium"
+msgstr "பழீயம்"
+
+msgid "variance"
+msgstr "மாறுபாட்டெண்"
+
+msgid "vector quantization"
+msgstr "நெறிமச் சொட்டாக்கம்"
+
+msgid "vector space"
+msgstr "நெறிம வெளி"
+
+msgid "velocity"
+msgstr "திசைவேகம்"
+
+msgid "vertical retrace"
+msgstr "நெடு மீள்வரைவு"
+
+msgid "vertically polarized wave"
+msgstr "செங்குத்து/நெடு முனைவாக்கப்பட்ட அலை"
+
+msgid "vestigial side-band modulation"
+msgstr "எச்சத்தக்கப் பக்கப்பட்டை பண்பேற்றம்"
+
+msgid "via"
+msgstr "வழிமம்"
+
+msgid "vias"
+msgstr "துளைகள்"
+
+msgid "video"
+msgstr "ஒளிதோற்றம்"
+
+msgid "video recorder"
+msgstr "ஒளிதோற்றப் பதிவி"
+
+msgid "voltage regulator"
+msgstr "மின்னழுத்தச் சீர்ப்பி"
+
+msgid "voltage stabilizer"
+msgstr "மின்னழுத்த நிலைப்பி"
+
+msgid "voltage standing wave ratio (vswr)"
+msgstr "நிலையலை மின்னழுத்த விகிதம்"
+
+msgid "wafer"
+msgstr "சீவல்"
+
+msgid "wave front"
+msgstr "அலை முகப்பு"
+
+msgid "wave propagation"
+msgstr "அலைப் பரவுதல்"
+
+msgid "waveform"
+msgstr "அலைவடிவம், அலைப்படம்"
+
+msgid "waveguide"
+msgstr "அலையடை, அலைவழிகாட்டி, அலைவழிபடுத்தி"
+
+msgid "waypoint"
+msgstr "பாதைப்புள்ளி "
+
+msgid "weather radar"
+msgstr "வானிலை கதிரலைக் கும்பா"
+
+msgid "white noise"
+msgstr "வெண்ணிறைச்சல்"
+
+msgid "wireless"
+msgstr "கம்பியில்லா"
+
+msgid "woofer"
+msgstr "அடிச்சுர ஒலிபெருக்கி"
+
+msgid "word"
+msgstr "சொல்"
+
+msgid "x-ray"
+msgstr "ஊடுக்கதிர்"
+
+msgid "yellow connector"
+msgstr "மஞ்சள் நிற இணைப்பி"
+
+msgid "yoke"
+msgstr "நுகம்"
+
+msgid "zero"
+msgstr "சுழியம"

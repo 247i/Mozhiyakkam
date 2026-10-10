@@ -1,0 +1,147 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Theme Color)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-09 16:18+0200\n"
+"PO-Revision-Date: 2025-03-15 22:40+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/theme-color/glossary/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
+
+#, terminology
+msgid "Sliders"
+msgstr "ச்லைடர்கள்"
+
+#, forbidden, read-only, terminology
+msgid "dconf dump"
+msgstr "dconf டம்ப்"
+
+#, terminology
+msgctxt "1"
+msgid "Remorse Item"
+msgstr "வருத்தப்பட்ட உருப்படி"
+
+#, terminology
+msgid "shelf"
+msgstr "அலமாரி"
+
+#, terminology
+msgid "Remorse Item"
+msgstr "வருத்தப்பட்ட உருப்படி"
+
+#, terminology
+msgid "Button"
+msgstr "பொத்தான்"
+
+#, forbidden, read-only, terminology
+msgctxt "1"
+msgid "rpmbuild"
+msgstr "rpmbuild"
+
+#, terminology
+msgid "shelves"
+msgstr "அலமாரிகள்"
+
+#, forbidden, terminology
+msgid "Jolla"
+msgstr "சொல்லா"
+
+#, terminology
+msgid "Atelier"
+msgstr "அட்லியர்"
+
+#, terminology
+msgid "Pulley menu"
+msgstr "கப்பி பட்டியல்"
+
+#, terminology
+msgid "Ambience"
+msgstr "சூழல்"
+
+#, terminology
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, terminology
+msgid "RPM Package"
+msgstr "ஆர்.பி.எம் தொகுப்பு"
+
+#, terminology
+msgid "Palette"
+msgstr "தட்டு"
+
+#, terminology
+msgid "Error Color"
+msgstr "பிழை நிறம்"
+
+#, terminology
+msgid "Laboratory"
+msgstr "ஆய்வகம்"
+
+#, forbidden, read-only, terminology
+msgid "/org/nephros/openrepos-themecolor/storage"
+msgstr "/Org/nephros/openorops-themekal ৰ/சேமிப்பு"
+
+#, terminology
+msgid "Showroom"
+msgstr "சோரூம்"
+
+#, terminology
+msgid "PushUp menu"
+msgstr "புசப் பட்டியல்"
+
+#, terminology
+msgid "General"
+msgstr "பொது"
+
+#, terminology
+msgid "Remorse Timer"
+msgstr "வருத்தப்பட்ட நேரங்குறிகருவி"
+
+#, terminology
+msgid "Manual"
+msgstr "கையேடு"
+
+#, forbidden, read-only, terminology
+msgctxt "1"
+msgid "Lipstick"
+msgstr "உதட்டுச்சாயம்"
+
+#, terminology
+msgctxt "1"
+msgid "Remorse Timer"
+msgstr "வருத்தப்பட்ட நேரங்குறிகருவி"
+
+#, terminology
+msgid "Help"
+msgstr "உதவி"
+
+#, forbidden, read-only, terminology
+msgid "Lipstick"
+msgstr "உதட்டுச்சாயம்"
+
+#, terminology
+msgid "Cupboard"
+msgstr "அலமாரியில்"
+
+#, terminology
+msgid "Builder"
+msgstr "பில்டர்"
+
+#, terminology
+msgid "PullDown menu"
+msgstr "புல்லவுன் பட்டியல்"
+
+#, forbidden, terminology
+msgid "rpmbuild"
+msgstr "rpmbuild"
+
+#, terminology
+msgid "Background Color"
+msgstr "பின்னணி நிறம்"

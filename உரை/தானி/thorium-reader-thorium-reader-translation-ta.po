@@ -1,0 +1,4328 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Thorium Reader)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-02 05:32+0200\n"
+"PO-Revision-Date: 2025-08-02 14:42\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/thorium-reader/thorium-reader-translation/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+#. In the Bookshelfs, each book has a three dots button to access book menu,
+#. activating it will display a list of menu items
+#, i18next-interpolation
+msgctxt "accessibility.bookMenu"
+msgid "Menu"
+msgstr "பட்டியல்"
+
+#. Accessible name (aria-label) of the close button (with a X pictogram) used
+#. in several places and contexts, to close the panels (settings, annotations,
+#. navigation, Add OPDS, etc),
+#, i18next-interpolation
+msgctxt "accessibility.closeDialog"
+msgid "Close"
+msgstr "மூடு"
+
+#. Available from the Home and Library views, this button opens a system file
+#. explorer window to select a file to import
+#, i18next-interpolation
+msgctxt "accessibility.importFile"
+msgid "Import publication"
+msgstr "இறக்குமதி வெளியீடு"
+
+#. button used in several places to display the previous set of contents (like
+#. previous 5 publications displayed in the bookshelf)
+#, i18next-interpolation
+msgctxt "accessibility.leftSlideButton"
+msgid "Slide to the left"
+msgstr "இடதுபுறத்தில் ச்லைடு"
+
+#. Accessible name (aria-label) of the main part of the window, not rendered
+#. visually but rendered through screen reader
+#, i18next-interpolation
+msgctxt "accessibility.mainContent"
+msgid "main content"
+msgstr "முக்கிய உள்ளடக்கம்"
+
+#. button used in several places to display the next set of contents (like
+#. next 5 publications displayed in the bookshelf)
+#, i18next-interpolation
+msgctxt "accessibility.rightSlideButton"
+msgid "Slide to the right"
+msgstr "வலதுபுறம் சரிய"
+
+#. First keyboard tab stroke in a reading window will make appear this link to
+#. skip the navigation bar and reach directly the content of the book, so
+#. keyboard and screen reader users can access quickly to the book content
+#, i18next-interpolation
+msgctxt "accessibility.skipLink"
+msgid "Skip to content"
+msgstr "உள்ளடக்கத்தைத் தவிர்க்கவும்"
+
+#, i18next-interpolation
+msgctxt "accessibility.toolbar"
+msgid "toolbar"
+msgstr "கருவிப்பட்டி"
+
+#, i18next-interpolation
+msgctxt "apiapp.documentation"
+msgid "Thorium Documentation"
+msgstr "தோரியம் ஆவணம்"
+
+#, i18next-interpolation
+msgctxt "apiapp.howItWorks"
+msgid "How does it work?"
+msgstr "இது எவ்வாறு செயல்படுகிறது?"
+
+#, i18next-interpolation
+msgctxt "apiapp.informations"
+msgid ""
+"In France, many public libraries provide a machine-readable catalog (similar to OPDS but not identical), letting patrons download digital publications from their personal bookshelf. Integrating this technology in Thorium Reader allows you to download an ebook or audiobook directly into Thorium Reader for instant reading.\n"
+"How do you connect your French public library account to Thorium Reader? It's simple. Enter a French city ('Paris') or part of the library name in the Search field and hit the Search button. A list of public libraries corresponding to your search will appear. Select a library and hit Add. In the updated list of catalogs, select this library: an authentication form is displayed. Enter your username/email address and password, and hit Login. You can now see the content of your personal bookshelf, from which you can download and read the ebooks and audiobooks you previously borrowed."
+msgstr ""
+"பிரான்சில், பல பொது நூலகங்கள் இயந்திரத்தால் படிக்கக்கூடிய பட்டியலை வழங்குகின்றன (OPD கள் போன்றவை ஆனால் ஒரே மாதிரியாக இல்லை), புரவலர்கள் தங்கள் தனிப்பட்ட புத்தக அலமாரியில் இருந்து டிசிட்டல் வெளியீடுகளை பதிவிறக்கம் செய்ய அனுமதிக்கின்றன. இந்த தொழில்நுட்பத்தை தோரியம் ரீடரில் ஒருங்கிணைப்பது உடனடி வாசிப்புக்காக ஒரு புத்தக அல்லது ஆடியோபுக்கை நேரடியாக தோரியம் ரீடரில் பதிவிறக்கம் செய்ய உங்களை அனுமதிக்கிறது.\n"
+" உங்கள் பிரஞ்சு பொது நூலகக் கணக்கை தோரியம் ரீடருடன் எவ்வாறு இணைப்பது? இது எளிது. தேடல் புலத்தில் ஒரு பிரஞ்சு நகரம் ('பாரிச்') அல்லது நூலக பெயரின் ஒரு பகுதியை உள்ளிட்டு தேடல் பொத்தானை அழுத்தவும். உங்கள் தேடலுடன் தொடர்புடைய பொது நூலகங்களின் பட்டியல் தோன்றும். ஒரு நூலகத்தைத் தேர்ந்தெடுத்து சேர் அழுத்தவும். பட்டியல்களின் புதுப்பிக்கப்பட்ட பட்டியலில், இந்த நூலகத்தைத் தேர்ந்தெடுக்கவும்: அங்கீகார படிவம் காட்டப்படும். உங்கள் பயனர்பெயர்/மின்னஞ்சல் முகவரி மற்றும் கடவுச்சொல்லை உள்ளிட்டு, உள்நுழைவை அழுத்தவும். உங்கள் தனிப்பட்ட புத்தக அலமாரியின் உள்ளடக்கத்தை இப்போது நீங்கள் காணலாம், அதில் இருந்து நீங்கள் முன்பு கடன் வாங்கிய மின்புத்தகங்கள் மற்றும் ஆடியோபுக்குகளை பதிவிறக்கம் செய்து படிக்கலாம்."
+
+#, i18next-interpolation
+msgctxt "apiapp.noLibraryFound"
+msgid "No library found ({{- name}})"
+msgstr "எந்த நூலகமும் கிடைக்கவில்லை ({{- name}})"
+
+#, i18next-interpolation
+msgctxt "app.edit.copy"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, i18next-interpolation
+msgctxt "app.edit.cut"
+msgid "Cut"
+msgstr "வெட்டு"
+
+#, i18next-interpolation
+msgctxt "app.edit.paste"
+msgid "Paste"
+msgstr "ஒட்டு"
+
+#, i18next-interpolation
+msgctxt "app.edit.print"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#, i18next-interpolation
+msgctxt "app.edit.redo"
+msgid "Redo"
+msgstr "மீண்டும்செய்"
+
+#, i18next-interpolation
+msgctxt "app.edit.selectAll"
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#, i18next-interpolation
+msgctxt "app.edit.title"
+msgid "Edit"
+msgstr "தொகு"
+
+#, i18next-interpolation
+msgctxt "app.edit.undo"
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#, i18next-interpolation
+msgctxt "app.hide"
+msgid "Hide {{- appName}}"
+msgstr "{{- appName}} ஐ மறைக்கவும்"
+
+#, i18next-interpolation
+msgctxt "app.quit"
+msgid "Quit {{- appName}}"
+msgstr "{{- appName}} வெளியேறு"
+
+#, i18next-interpolation
+msgctxt "app.session.exit.askBox.button.no"
+msgid "No"
+msgstr "இல்லை"
+
+#, i18next-interpolation
+msgctxt "app.session.exit.askBox.button.yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, i18next-interpolation
+msgctxt "app.session.exit.askBox.help"
+msgid ""
+"Activate this if you want reader windows that are open when you close the "
+"application to automatically re-open at next launch."
+msgstr ""
+"அடுத்த துவக்கத்தில் தானாகவே மீண்டும் திறக்க பயன்பாட்டை மூடும்போது "
+"திறந்திருக்கும் வாசகர் சாளரங்களை நீங்கள் விரும்பினால் இதைச் செயல்படுத்தவும்."
+
+#, i18next-interpolation
+msgctxt "app.session.exit.askBox.message"
+msgid "Saving and restoring the reading session"
+msgstr "வாசிப்பு அமர்வை சேமித்தல் மற்றும் மீட்டமைத்தல்"
+
+#, i18next-interpolation
+msgctxt "app.session.exit.askBox.title"
+msgid "Save session?"
+msgstr "அமர்வை சேமிக்கவா?"
+
+#, i18next-interpolation
+msgctxt "app.update.message"
+msgid "New version available, click to learn more."
+msgstr "புதிய பதிப்பு கிடைக்கிறது, மேலும் அறிய சொடுக்கு செய்க."
+
+#, i18next-interpolation
+msgctxt "app.update.title"
+msgid "{{- appName}} software update."
+msgstr "{{- appName}} மென்பொருள் புதுப்பிப்பு."
+
+#, i18next-interpolation
+msgctxt "app.window.showLibrary"
+msgid "Show library / bookshelf"
+msgstr "நூலகம் / புத்தக அலமாரி காட்டு"
+
+#, i18next-interpolation
+msgctxt "catalog.about.title"
+msgid "About {{- appName}} (online)"
+msgstr "பற்றி {{- appName}} (ஆன்லைன்)"
+
+#, i18next-interpolation
+msgctxt "catalog.addBookToLib"
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#, i18next-interpolation
+msgctxt "catalog.addTags"
+msgid "Add tag"
+msgstr "குறிச்சொல்லைச் சேர்க்கவும்"
+
+#, i18next-interpolation
+msgctxt "catalog.addTagsButton"
+msgid "Add"
+msgstr "கூட்டு"
+
+#, i18next-interpolation
+msgctxt "catalog.allBooks"
+msgid "All publications"
+msgstr "அனைத்து வெளியீடுகளும்"
+
+#, i18next-interpolation
+msgctxt "catalog.bookInfo"
+msgid "About publication"
+msgstr "வெளியீடு பற்றி"
+
+#, i18next-interpolation
+msgctxt "catalog.column.ascending"
+msgid "ascending"
+msgstr "ஏறுதல்"
+
+#, i18next-interpolation
+msgctxt "catalog.column.descending"
+msgid "descending"
+msgstr "இறங்கு"
+
+#, i18next-interpolation
+msgctxt "catalog.column.unsorted"
+msgid "unsorted"
+msgstr "வரிசைப்படுத்தப்படாதது"
+
+#, i18next-interpolation
+msgctxt "catalog.delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, i18next-interpolation
+msgctxt "catalog.deleteBook"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, i18next-interpolation
+msgctxt "catalog.deleteTag"
+msgid "Delete tag"
+msgstr "குறிச்சொல்லை நீக்கு"
+
+#, i18next-interpolation
+msgctxt "catalog.description"
+msgid "Description"
+msgstr "விவரம்"
+
+#, i18next-interpolation
+msgctxt "catalog.emptyTagList"
+msgid "No tagged publications."
+msgstr "குறிக்கப்பட்ட வெளியீடுகள் இல்லை."
+
+#, i18next-interpolation
+msgctxt "catalog.entry.continueReading"
+msgid "Resume reading"
+msgstr "மீண்டும் வாசிப்பு"
+
+#, i18next-interpolation
+msgctxt "catalog.entry.lastAdditions"
+msgid "Recently added"
+msgstr "அண்மைக் காலத்தில் சேர்க்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "catalog.export"
+msgid "Save as"
+msgstr "என சேமி"
+
+#, i18next-interpolation
+msgctxt "catalog.exportAnnotation"
+msgid "Export notes"
+msgstr "ஏற்றுமதி குறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt "catalog.format"
+msgid "Format"
+msgstr "வடிவம்"
+
+#, i18next-interpolation
+msgctxt "catalog.importAnnotation"
+msgid "Import notes"
+msgstr "குறிப்புகளை இறக்குமதி செய்யுங்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.lang"
+msgid "Language"
+msgstr "மொழி"
+
+#, i18next-interpolation
+msgctxt "catalog.lastRead"
+msgid "Last Read"
+msgstr "கடைசியாக படியுங்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.moreInfo"
+msgid "Publication Details"
+msgstr "வெளியீட்டு விவரங்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.myBooks"
+msgid "My publications"
+msgstr "எனது வெளியீடுகள்"
+
+#, i18next-interpolation
+msgctxt "catalog.noPublicationHelpL1"
+msgid "Drop files here"
+msgstr "கோப்புகளை இங்கே விடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.noPublicationHelpL2"
+msgid "or use the \"{{- importTitle }}\" button above."
+msgstr "அல்லது மேலே உள்ள \"{{- importTitle }}\" பொத்தானைப் பயன்படுத்தவும்."
+
+#, i18next-interpolation
+msgctxt "catalog.noPublicationHelpL3"
+msgid "LCP-protected publications are supported."
+msgstr "எல்.சி.பி பாதுகாக்கப்பட்ட வெளியீடுகள் ஆதரிக்கப்படுகின்றன."
+
+#, i18next-interpolation
+msgctxt "catalog.noPublicationHelpL4"
+msgid "Supported extensions:"
+msgstr "உதவி நீட்டிப்புகள்:"
+
+#, i18next-interpolation
+msgctxt "catalog.numberOfPages"
+msgid "Number of pages"
+msgstr "பக்கங்களின் எண்ணிக்கை"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.auth.cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.auth.login"
+msgid "Login"
+msgstr "புகுபதிவு"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.auth.password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.auth.register"
+msgid "Register"
+msgstr "பதிவு செய்யுங்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.auth.username"
+msgid "Username / Email Address"
+msgstr "பயனர்பெயர் / மின்னஞ்சல் முகவரி"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableSince"
+msgid "Since"
+msgstr "முதல்"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableState.available"
+msgid "Available"
+msgstr "கிடைக்கிறது"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableState.ready"
+msgid "Ready"
+msgstr "ஆயத்தம்"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableState.reserved"
+msgid "Reserved"
+msgstr "ஒதுக்கப்பட்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableState.unavailable"
+msgid "Unavailable"
+msgstr "கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableState.unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.availableUntil"
+msgid "Until"
+msgstr "வரை"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.copyAvalaible"
+msgid "Available"
+msgstr "கிடைக்கிறது"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.copyTotal"
+msgid "Copies"
+msgstr "நகல்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.holdPosition"
+msgid "Hold position"
+msgstr "நிலை பிடி"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.holdTotal"
+msgid "Held"
+msgstr "நடைபெற்றது"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.numberOfItems"
+msgid "Number of items"
+msgstr "பொருட்களின் எண்ணிக்கை"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.priveValue"
+msgid "Price"
+msgstr "விலை"
+
+#, i18next-interpolation
+msgctxt "catalog.opds.info.state"
+msgid "State"
+msgstr "மாநிலம்"
+
+#, i18next-interpolation
+msgctxt "catalog.publisher"
+msgid "Publisher"
+msgstr "வெளியீட்டாளர்"
+
+#, i18next-interpolation
+msgctxt "catalog.readBook"
+msgid "Read"
+msgstr "படிக்க"
+
+#, i18next-interpolation
+msgctxt "catalog.released"
+msgid "Published on"
+msgstr "வெளியிடப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "catalog.sort"
+msgid "Sort by"
+msgstr "வரிசைப்படுத்தவும்"
+
+#, i18next-interpolation
+msgctxt "catalog.tag"
+msgid "Tag"
+msgstr "குறிச்சொல்"
+
+#, i18next-interpolation
+msgctxt "catalog.tags"
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+#, i18next-interpolation
+msgctxt "catalog.update"
+msgid "Edit"
+msgstr "தொகு"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.descAuthor"
+msgid "by '{{- author}}'"
+msgstr "வழங்கியவர் '{{- author}}'"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.descCreator"
+msgid "created by"
+msgstr "உருவாக்கியது"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.descList"
+msgid ""
+"{{- nb}} note(s) {{- creator}} will be imported into '{{- title}}' {{- "
+"author}}"
+msgstr ""
+"{{- nb}} குறிப்பு(கள்) {{- creator}} இல் இறக்குமதி செய்யப்படும் '{{- "
+"title}}' {{- author}}"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.descNewer"
+msgid "Conflict(s): {{- nb}} newer note(s)"
+msgstr "மோதல்(கள்): {{- nb}} புதிய குறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.descOlder"
+msgid "Conflict(s): {{- nb}} older note(s)"
+msgstr "மோதல்(கள்): {{- nb}} பழைய குறிப்புகளில்"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.descTitle"
+msgid "Annotations title: "
+msgstr "சிறுகுறிப்பு தலைப்பு: "
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.importAll"
+msgid "Import all notes"
+msgstr "எல்லா குறிப்புகளையும் இறக்குமதி செய்யுங்கள்"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.importWithoutConflict"
+msgid "Import only conflict-free notes"
+msgstr "மோதல் இல்லாத குறிப்புகளை மட்டுமே இறக்குமதி செய்க"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.origin"
+msgid "Origin publication: '{{- title}}' {{- author}}"
+msgstr "தோற்றம் வெளியீடு: '{{- title}}' {{- author}}"
+
+#, i18next-interpolation
+msgctxt "dialog.annotations.title"
+msgid "Import notes?"
+msgstr "குறிப்புகள் இறக்குமதி?"
+
+#, i18next-interpolation
+msgctxt "dialog.cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, i18next-interpolation
+msgctxt "dialog.deleteAnnotations"
+msgid "Delete annotations?"
+msgstr "சிறுகுறிப்புகளை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "dialog.deleteAnnotationsText"
+msgid "Are you sure you want to delete {{- annotationListLength}} note(s)?"
+msgstr ""
+"நீங்கள் நிச்சயமாக {{- annotationListLength}} குறிப்புகளை நீக்க "
+"விரும்புகிறீர்களா?"
+
+#, i18next-interpolation
+msgctxt "dialog.deleteBookmarks"
+msgid "Delete bookmarks?"
+msgstr "புக்மார்க்குகளை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "dialog.deleteBookmarksText"
+msgid "Are you sure you want to delete {{- bookmarkListLength}} bookmark(s)?"
+msgstr "{{- bookmarkListLength}} புக்மார்க்குகளை நீக்க விரும்புகிறீர்களா?"
+
+#, i18next-interpolation
+msgctxt "dialog.deleteFeed"
+msgid "Delete catalog?"
+msgstr "பட்டியலை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "dialog.deletePublication"
+msgid "Delete publication?"
+msgstr "வெளியீட்டை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "dialog.deletePublicationWithNotes"
+msgid ""
+"Warning: this publication has annotations and/or bookmarks, they will be "
+"deleted too! (if you want to keep them, make sure to export the notes before"
+" removing the publication)"
+msgstr ""
+"எச்சரிக்கை: இந்த வெளியீட்டில் சிறுகுறிப்புகள் மற்றும்/அல்லது புக்மார்க்குகள்"
+" உள்ளன, அவை நீக்கப்படும்! (நீங்கள் அவற்றை வைத்திருக்க விரும்பினால், "
+"வெளியீட்டை அகற்றுவதற்கு முன் குறிப்புகளை ஏற்றுமதி செய்வதை உறுதிப்படுத்திக் "
+"கொள்ளுங்கள்)"
+
+#, i18next-interpolation
+msgctxt "dialog.import"
+msgid "Confirm import:"
+msgstr "இறக்குமதியை உறுதிப்படுத்தவும்:"
+
+#, i18next-interpolation
+msgctxt "dialog.importError"
+msgid "An error occurred, verify the file extension ({{acceptedExtension}})"
+msgstr ""
+"பிழை ஏற்பட்டது, கோப்பு நீட்டிப்பை சரிபார்க்கவும் ({{acceptedExtension}})"
+
+#, i18next-interpolation
+msgctxt "dialog.renew"
+msgid "Renew/extend loan?"
+msgstr "கடனைப் புதுப்பிக்க/நீட்டிக்கவா?"
+
+#, i18next-interpolation
+msgctxt "dialog.return"
+msgid "Return publication?"
+msgstr "வெளியீட்டைத் திரும்ப?"
+
+#, i18next-interpolation
+msgctxt "dialog.yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, i18next-interpolation
+msgctxt "error.errorBox.error"
+msgid "Error message:"
+msgstr "பிழை செய்தி:"
+
+#, i18next-interpolation
+msgctxt "error.errorBox.message"
+msgid "Error in {{- filename}}"
+msgstr "{{- filename}} இல் பிழை"
+
+#, i18next-interpolation
+msgctxt "error.errorBox.title"
+msgid "Internal {{- appName}} Error"
+msgstr "உள் {{- appName}}} பிழை"
+
+#, i18next-interpolation
+msgctxt "header.allBooks"
+msgid "All publications"
+msgstr "அனைத்து வெளியீடுகளும்"
+
+#, i18next-interpolation
+msgctxt "header.catalogs"
+msgid "Catalogs"
+msgstr "பட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "header.downloads"
+msgid "Downloads"
+msgstr "பதிவிறக்கங்கள்"
+
+#, i18next-interpolation
+msgctxt "header.fitlerTagTitle"
+msgid "Filter by tag"
+msgstr "குறிச்சொல் மூலம் வடிகட்டவும்"
+
+#, i18next-interpolation
+msgctxt "header.gridTitle"
+msgid "Grid"
+msgstr "வலைவாய்"
+
+#, i18next-interpolation
+msgctxt "header.home"
+msgid "Bookshelf menu"
+msgstr "புத்தக அலமாரி பட்டியல்"
+
+#, i18next-interpolation
+msgctxt "header.homeTitle"
+msgid "Home"
+msgstr "வீடு"
+
+#, i18next-interpolation
+msgctxt "header.importTitle"
+msgid "Import publication"
+msgstr "இறக்குமதி வெளியீடு"
+
+#, i18next-interpolation
+msgctxt "header.listTitle"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#, i18next-interpolation
+msgctxt "header.myCatalogs"
+msgid "My catalogs"
+msgstr "எனது பட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "header.refreshTitle"
+msgid "reload"
+msgstr "ஏற்றவும்"
+
+#, i18next-interpolation
+msgctxt "header.searchPlaceholder"
+msgid "Search"
+msgstr "தேடல்"
+
+#, i18next-interpolation
+msgctxt "header.searchTitle"
+msgid "Search"
+msgstr "தேடல்"
+
+#, i18next-interpolation
+msgctxt "header.settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "header.viewMode"
+msgid "View mode"
+msgstr "பார்வை பயன்முறையை"
+
+#, i18next-interpolation
+msgctxt "library.lcp.hint"
+msgid "Hint:"
+msgstr "குறிப்பு:"
+
+#, i18next-interpolation
+msgctxt "library.lcp.open"
+msgid "Open"
+msgstr "திற"
+
+#, i18next-interpolation
+msgctxt "library.lcp.password"
+msgid "Passphrase"
+msgstr "கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "library.lcp.sentence"
+msgid "This publication needs an LCP passphrase to be opened"
+msgstr "இந்த வெளியீட்டிற்கு எல்.சி.பி பாச்ஃபிரேச் திறக்கப்பட வேண்டும்"
+
+#, i18next-interpolation
+msgctxt "library.lcp.urlHint"
+msgid "Forgot your passphrase? Click here to get support."
+msgstr ""
+"உங்கள் கடவுச்சொல் மறந்துவிட்டீர்களா? ஆதரவைப் பெற இங்கே சொடுக்கு செய்க."
+
+#, i18next-interpolation
+msgctxt "library.lcp.whatIsLcp?"
+msgid "What is LCP?"
+msgstr "எல்.சி.பி என்றால் என்ன?"
+
+#, i18next-interpolation
+msgctxt "library.lcp.whatIsLcpInfoDetails"
+msgid "LCP stands for 'Licensed Content Protection'."
+msgstr ""
+"எல்.சி.பி என்பது 'உரிமம் பெற்ற உள்ளடக்க பாதுகாப்பு' என்பதைக் குறிக்கிறது."
+
+#, i18next-interpolation
+msgctxt "library.lcp.whatIsLcpInfoDetailsLink"
+msgid "To learn more, click this link to the EDRLab website."
+msgstr ""
+"மேலும் அறிய, எட்ர்லாப் வலைத்தளத்திற்கான இந்த இணைப்பைக் சொடுக்கு செய்க."
+
+#, i18next-interpolation
+msgctxt "message.annotations.alreadyImported"
+msgid "All notes are already imported."
+msgstr "எல்லா குறிப்புகளும் ஏற்கனவே இறக்குமதி செய்யப்பட்டுள்ளன."
+
+#, i18next-interpolation
+msgctxt "message.annotations.emptyFile"
+msgid "No notes available in the file."
+msgstr "கோப்பில் குறிப்புகள் எதுவும் கிடைக்கவில்லை."
+
+#, i18next-interpolation
+msgctxt "message.annotations.errorParsing"
+msgid "Error during file parsing: "
+msgstr "கோப்பு பாகுபடுத்தலின் போது பிழை: "
+
+#, i18next-interpolation
+msgctxt "message.annotations.noBelongTo"
+msgid ""
+"Unable to import notes, at least one note does not belong to the "
+"publication."
+msgstr ""
+"குறிப்புகளை இறக்குமதி செய்ய முடியவில்லை, குறைந்தது ஒரு குறிப்பையாவது "
+"வெளியீட்டிற்கு சொந்தமானது அல்ல."
+
+#, i18next-interpolation
+msgctxt "message.annotations.nothing"
+msgid "There is no note ready to be imported, aborting the import"
+msgstr "இறக்குமதியை நிறுத்தி, இறக்குமதி செய்ய எந்த குறிப்பும் தயாராக இல்லை"
+
+#, i18next-interpolation
+msgctxt "message.annotations.success"
+msgid "Import completed successfully."
+msgstr "இறக்குமதி வெற்றிகரமாக முடிந்தது."
+
+#, i18next-interpolation
+msgctxt "message.download.error"
+msgid "Downloading [{{- title}}] failed: [{{- err}}]"
+msgstr "பதிவிறக்கம் [{{- title}}] தோல்வியுற்றது: [{{- err}}]"
+
+#, i18next-interpolation
+msgctxt "message.import.alreadyImport"
+msgid "[{{- title}}] was already imported."
+msgstr "[{{- title}}] ஏற்கனவே இறக்குமதி செய்யப்பட்டது."
+
+#, i18next-interpolation
+msgctxt "message.import.fail"
+msgid "Importing [{{- path}}] failed: [{{- err}}]"
+msgstr "இறக்குமதி [{{- path}}] தோல்வியுற்றது: [{{- err}}]"
+
+#, i18next-interpolation
+msgctxt "message.import.success"
+msgid "Importing [{{- title}}] completed."
+msgstr "இறக்குமதி [{{- title}}] நிறைவு செய்யப்பட்டது."
+
+#, i18next-interpolation
+msgctxt "message.open.error"
+msgid "Loading publication failed: [{{- err}}]"
+msgstr "வெளியீட்டை ஏற்றுவது தோல்வியுற்றது: [{{- err}}]"
+
+#, i18next-interpolation
+msgctxt "opds.addForm.addButton"
+msgid "Add"
+msgstr "கூட்டு"
+
+#, i18next-interpolation
+msgctxt "opds.addForm.name"
+msgid "Name:"
+msgstr "பெயர்:"
+
+#, i18next-interpolation
+msgctxt "opds.addForm.namePlaceholder"
+msgid "Name"
+msgstr "பெயர்"
+
+#, i18next-interpolation
+msgctxt "opds.addForm.url"
+msgid "Link:"
+msgstr "இணைப்பு:"
+
+#, i18next-interpolation
+msgctxt "opds.addForm.urlPlaceholder"
+msgid "Link"
+msgstr "இணைப்பு"
+
+#, i18next-interpolation
+msgctxt "opds.addFormApiapp.title"
+msgid "Add library account"
+msgstr "நூலகக் கணக்கைச் சேர்க்கவும்"
+
+#, i18next-interpolation
+msgctxt "opds.addMenu"
+msgid "Add OPDS feed"
+msgstr "OPDS ஊட்டத்தைச் சேர்க்கவும்"
+
+#, i18next-interpolation
+msgctxt "opds.breadcrumbRoot"
+msgid "Catalogs"
+msgstr "பட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "opds.documentation"
+msgid "OPDS official website"
+msgstr "OPDS அதிகாரப்பூர்வ வலைத்தளம்"
+
+#, i18next-interpolation
+msgctxt "opds.empty"
+msgid "No publication found"
+msgstr "வெளியீடு எதுவும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "opds.firstPage"
+msgid "First"
+msgstr "முதல்"
+
+#, i18next-interpolation
+msgctxt "opds.informations"
+msgid ""
+"Imagine a world where you can explore and download digital publications from public libraries and digital booksellers with just a few clicks. That's exactly what the Open Publication Distribution System (OPDS) catalog format offers. With OPDS, you can navigate through catalogs from various ebook providers, sign up, borrow, buy a publication, or visit your personal bookshelf. You can even download an ebook or audiobook directly into Thorium Reader for instant reading.\n"
+"So, how do you find an OPDS catalog? It's simple. Look for a hyperlink (URL) leading to the catalog. Copy this URL into the Link field above. Keep in mind that there's no one-stop shop for all active OPDS catalogs. You'll need to contact your preferred library or bookseller and ask for their OPDS catalog URL. If you're not sure where to start, Wikipedia has a few registries of OPDS catalogs in various languages that might be helpful.\n"
+"The Name field is left at your convenience; it provides an easy way to identify the feed in Thorium Reader."
+msgstr ""
+"ஒரு சில கிளிக்குகளில் பொது நூலகங்கள் மற்றும் டிசிட்டல் புத்தக விற்பனையாளர்களிடமிருந்து டிசிட்டல் வெளியீடுகளை ஆராய்ந்து பதிவிறக்கக்கூடிய ஒரு உலகத்தை கற்பனை செய்து பாருங்கள். திறந்த வெளியீட்டு விநியோக அமைப்பு (OPDS) பட்டியல் வடிவம் வழங்குகிறது. OPDS உடன், நீங்கள் பல்வேறு மின்புத்தக வழங்குநர்களிடமிருந்து பட்டியல்கள் மூலம் செல்லலாம், பதிவுபெறலாம், கடன் வாங்கலாம், வெளியீட்டை வாங்கலாம் அல்லது உங்கள் தனிப்பட்ட புத்தக அலமாரியைப் பார்வையிடலாம். உடனடி வாசிப்புக்காக நீங்கள் ஒரு புத்தக அல்லது ஆடியோபுக்கை நேரடியாக தோரியம் ரீடரில் பதிவிறக்கம் செய்யலாம்.\n"
+" எனவே, OPDS பட்டியலை எவ்வாறு கண்டுபிடிப்பது? இது எளிது. பட்டியலுக்கு வழிவகுக்கும் ஒரு ஐப்பர்லிங்க் (URL) ஐத் தேடுங்கள். இந்த முகவரி ஐ மேலே உள்ள இணைப்பு புலத்தில் நகலெடுக்கவும். அனைத்து செயலில் உள்ள OPDS பட்டியல்களுக்கும் ஒரு நிறுத்த கடை இல்லை என்பதை நினைவில் கொள்ளுங்கள். நீங்கள் விரும்பும் நூலகம் அல்லது புத்தக விற்பனையாளரைத் தொடர்புகொண்டு அவர்களின் OPDS பட்டியல் முகவரி ஐக் கேட்க வேண்டும். எங்கிருந்து தொடங்குவது என்று உங்களுக்குத் தெரியாவிட்டால், விக்கிபீடியாவில் பல்வேறு மொழிகளில் OPDS பட்டியல்களின் சில பதிவுகள் உள்ளன, அவை உதவியாக இருக்கும்.\n"
+" உங்கள் வசதிக்காக பெயர் புலம் விடப்பட்டுள்ளது; தோரியம் ரீடரில் ஊட்டத்தை அடையாளம் காண இது ஒரு எளிதான வழியை வழங்குகிறது."
+
+#, i18next-interpolation
+msgctxt "opds.lastPage"
+msgid "Last"
+msgstr "கடைசி"
+
+#, i18next-interpolation
+msgctxt "opds.menu.aboutBook"
+msgid "About publication"
+msgstr "வெளியீடு பற்றி"
+
+#, i18next-interpolation
+msgctxt "opds.menu.addExtract"
+msgid "Import extract"
+msgstr "இறக்குமதி சாறு"
+
+#, i18next-interpolation
+msgctxt "opds.menu.goBuyBook"
+msgid "Buy publication"
+msgstr "வெளியீடு வாங்கவும்"
+
+#, i18next-interpolation
+msgctxt "opds.menu.goLoanBook"
+msgid "Borrow publication"
+msgstr "கடன் வெளியீடு"
+
+#, i18next-interpolation
+msgctxt "opds.menu.goRevokeLoanBook"
+msgid "Revoke loan"
+msgstr "கடனைத் திரும்பப் பெறுங்கள்"
+
+#, i18next-interpolation
+msgctxt "opds.menu.goSubBook"
+msgid "Subscribe"
+msgstr "குழுசேர்"
+
+#, i18next-interpolation
+msgctxt "opds.network.error"
+msgid "Error accessing feed"
+msgstr "ஊட்டத்தை அணுகுவதில் பிழை"
+
+#, i18next-interpolation
+msgctxt "opds.network.noInternet"
+msgid "No internet"
+msgstr "இணையம் இல்லை"
+
+#, i18next-interpolation
+msgctxt "opds.network.noInternetMessage"
+msgid "Try checking the network cable, modem, router or wifi"
+msgstr "பிணையம் கேபிள், மோடம், திசைவி அல்லது வைஃபை சரிபார்க்க முயற்சிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "opds.network.reject"
+msgid "Sorry, unexpected error!"
+msgstr "மன்னிக்கவும், எதிர்பாராத பிழை!"
+
+#, i18next-interpolation
+msgctxt "opds.network.timeout"
+msgid "Network timeout, please try again later"
+msgstr "பிணையம் நேரம் முடிந்தது, தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "opds.next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, i18next-interpolation
+msgctxt "opds.previous"
+msgid "Previous"
+msgstr "முந்தைய"
+
+#, i18next-interpolation
+msgctxt "opds.shelf"
+msgid "Shelf"
+msgstr "அலமாரி"
+
+#, i18next-interpolation
+msgctxt "opds.updateForm.name"
+msgid "Name:"
+msgstr "பெயர்:"
+
+#, i18next-interpolation
+msgctxt "opds.updateForm.title"
+msgid "Edit OPDS feed"
+msgstr "OPDS ஊட்டத்தைத் திருத்து"
+
+#, i18next-interpolation
+msgctxt "opds.updateForm.updateButton"
+msgid "Edit"
+msgstr "தொகு"
+
+#, i18next-interpolation
+msgctxt "opds.updateForm.url"
+msgid "Link:"
+msgstr "இணைப்பு:"
+
+#, i18next-interpolation
+msgctxt "opds.whatIsOpds"
+msgid "What Is OPDS?"
+msgstr "OPDS என்றால் என்ன?"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.accessibility-summary.accessibility-summary-title"
+msgid "Accessibility summary"
+msgstr "அணுகல் சுருக்கம்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-aria.compact"
+msgid "ARIA roles included"
+msgstr "ஏரியா பாத்திரங்கள் சேர்க்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-aria.descriptive"
+msgid ""
+"Content is enhanced with ARIA roles to optimize organization and facilitate "
+"navigation"
+msgstr ""
+"அமைப்பை மேம்படுத்துவதற்கும் வழிசெலுத்தலை எளிதாக்குவதற்கும் ஏரியா "
+"பாத்திரங்களுடன் உள்ளடக்கம் மேம்படுத்தப்பட்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-audio-descriptions.compact"
+msgid "Audio descriptions"
+msgstr "ஆடியோ விளக்கங்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-audio-descriptions.descriptive"
+msgid "Audio descriptions"
+msgstr "ஆடியோ விளக்கங்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-braille.compact"
+msgid "Braille"
+msgstr "பிரெய்ல்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-braille.descriptive"
+msgid "Braille"
+msgstr "பிரெய்ல்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-full-ruby-annotations.compact"
+msgid "Full ruby annotations"
+msgstr "முழு ரூபி சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-full-ruby-annotations.descriptive"
+msgid "Full ruby annotations"
+msgstr "முழு ரூபி சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-high-contrast-between-foreground-and-background-"
+"audio.compact"
+msgid "High contrast between foreground and background audio"
+msgstr "முன்புறம் மற்றும் பின்னணி ஆடியோவுக்கு இடையில் அதிக வேறுபாடு"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-high-contrast-between-foreground-and-background-"
+"audio.descriptive"
+msgid "High contrast between foreground and background audio"
+msgstr "முன்புறம் மற்றும் பின்னணி ஆடியோவுக்கு இடையில் அதிக வேறுபாடு"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-high-contrast-between-text-and-background.compact"
+msgid "High contrast between foreground text and background"
+msgstr "முன்புற உரை மற்றும் பின்னணிக்கு இடையில் அதிக வேறுபாடு"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-high-contrast-between-text-and-"
+"background.descriptive"
+msgid "High contrast between foreground text and background"
+msgstr "முன்புற உரை மற்றும் பின்னணிக்கு இடையில் அதிக வேறுபாடு"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-large-print.compact"
+msgid "Large print"
+msgstr "பெரிய அச்சு"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-large-print.descriptive"
+msgid "Large print"
+msgstr "பெரிய அச்சு"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-page-breaks.compact"
+msgid "Page breaks included"
+msgstr "பக்க இடைவெளிகள் சேர்க்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-page-breaks.descriptive"
+msgid "Page breaks included from the original print source"
+msgstr "அசல் அச்சு மூலத்திலிருந்து பக்க இடைவெளிகள் சேர்க்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-ruby-annotations.compact"
+msgid "Some Ruby annotations"
+msgstr "சில ரூபி சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-ruby-annotations.descriptive"
+msgid "Some Ruby annotations"
+msgstr "சில ரூபி சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-sign-language.compact"
+msgid "Sign language"
+msgstr "சைகை மொழி"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-sign-language.descriptive"
+msgid "Sign language"
+msgstr "சைகை மொழி"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-tactile-graphics.compact"
+msgid "Tactile graphics included"
+msgstr "தொட்டுணரக்கூடிய கிராபிக்ச் சேர்க்கப்பட்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-tactile-graphics.descriptive"
+msgid ""
+"Tactile graphics have been integrated to facilitate access to visual "
+"elements for blind people"
+msgstr ""
+"பார்வையற்றவர்களுக்கு காட்சி கூறுகளை அணுகுவதற்கு தொட்டுணரக்கூடிய கிராபிக்ச் "
+"ஒருங்கிணைக்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-tactile-objects.compact"
+msgid "Tactile 3D objects"
+msgstr "தொட்டுணரக்கூடிய 3D பொருள்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-tactile-objects.descriptive"
+msgid "Tactile 3D objects"
+msgstr "தொட்டுணரக்கூடிய 3D பொருள்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-text-to-speech-hinting.compact"
+msgid "Text-to-speech hinting provided"
+msgstr "உரை-க்கு-பேச்சு குறிப்பு வழங்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-text-to-speech-hinting.descriptive"
+msgid "Text-to-speech hinting provided"
+msgstr "உரை-க்கு-பேச்சு குறிப்பு வழங்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.additional-accessibility-information.additional-"
+"accessibility-information-title"
+msgid "Additional accessibility information"
+msgstr "கூடுதல் அணுகல் செய்தி"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-a.compact"
+msgid "This publication meets minimum accessibility standards"
+msgstr "இந்த வெளியீடு குறைந்தபட்ச அணுகல் தரங்களை நிறைவு செய்கிறது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-a.descriptive"
+msgid ""
+"The publication contains a conformance statement that it meets the EPUB "
+"Accessibility and WCAG 2 Level A standard"
+msgstr ""
+"வெளியீட்டில் எபப் அணுகல் மற்றும் WCAG 2 நிலை ஒரு தரத்தை நிறைவு செய்கிறது "
+"என்ற இணக்க அறிக்கை உள்ளது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-aa.compact"
+msgid "This publication meets accepted accessibility standards"
+msgstr "இந்த வெளியீடு ஏற்றுக்கொள்ளப்பட்ட அணுகல் தரங்களை நிறைவு செய்கிறது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-aa.descriptive"
+msgid ""
+"The publication contains a conformance statement that it meets the EPUB "
+"Accessibility and WCAG 2 Level AA standard"
+msgstr ""
+"வெளியீட்டில் EPUB அணுகல் மற்றும் WCAG 2 நிலை AA தரத்தை நிறைவு செய்கிறது என்ற"
+" இணக்க அறிக்கை உள்ளது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-aaa.compact"
+msgid "This publication exceeds accepted accessibility standards"
+msgstr "இந்த வெளியீடு ஏற்றுக்கொள்ளப்பட்ட அணுகல் தரங்களை மீறுகிறது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-aaa.descriptive"
+msgid ""
+"The publication contains a conformance statement that it meets the EPUB "
+"Accessibility and WCAG 2 Level AAA standard"
+msgstr ""
+"வெளியீட்டில் EPUB அணுகல் மற்றும் WCAG 2 நிலை AAA தரத்தை நிறைவு செய்கிறது "
+"என்ற இணக்க அறிக்கை உள்ளது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-certifier.compact"
+msgid "The publication was certified by "
+msgstr "வெளியீடு சான்றிதழ் பெற்றது "
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-certifier-"
+"credentials.compact"
+msgid "The certifier's credential is "
+msgstr "சான்றிதழின் நற்சான்றிதழ் "
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-certifier-"
+"report.compact"
+msgid "For more information refer to the certifier's report"
+msgstr "மேலும் தகவலுக்கு சான்றிதழின் அறிக்கையைப் பார்க்கவும்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-claim.compact"
+msgid "This publication claims to meet"
+msgstr "இந்த வெளியீடு சந்திப்பதாகக் கூறுகிறது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-claim.descriptive"
+msgid "This publication claims to meet"
+msgstr "இந்த வெளியீடு சந்திப்பதாகக் கூறுகிறது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-epub-"
+"accessibility-1-0.compact"
+msgid "EPUB Accessibility 1.0"
+msgstr "எபப் அணுகல் 1.0"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-epub-"
+"accessibility-1-0.descriptive"
+msgid "EPUB Accessibility 1.0"
+msgstr "எபப் அணுகல் 1.0"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-epub-"
+"accessibility-1-1.compact"
+msgid "EPUB Accessibility 1.1"
+msgstr "எபப் அணுகல் 1.1"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-epub-"
+"accessibility-1-1.descriptive"
+msgid "EPUB Accessibility 1.1"
+msgstr "எபப் அணுகல் 1.1"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-level-a.compact"
+msgid "Level A"
+msgstr "நிலை a"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-level-a.descriptive"
+msgid "Level A"
+msgstr "நிலை a"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-level-aa.compact"
+msgid "Level AA"
+msgstr "நிலை AA"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-level-aa.descriptive"
+msgid "Level AA"
+msgstr "நிலை AA"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-level-aaa.compact"
+msgid "Level AAA"
+msgstr "நிலை AAA"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-level-"
+"aaa.descriptive"
+msgid "Level AAA"
+msgstr "நிலை AAA"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-wcag-2-0.compact"
+msgid "WCAG 2.0"
+msgstr "WCAG 2.0"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-wcag-2-1.compact"
+msgid "WCAG 2.1"
+msgstr "WCAG 2.1"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-wcag-2-1.descriptive"
+msgid "Web Content Accessibility Guidelines (WCAG) 2.1"
+msgstr "வலை உள்ளடக்க அணுகல் வழிகாட்டுதல்கள் (WCAG) 2.1"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-wcag-2-2.compact"
+msgid "WCAG 2.2"
+msgstr "WCAG 2.2"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-details-wcag-2-2.descriptive"
+msgid "Web Content Accessibility Guidelines (WCAG) 2.2"
+msgstr "வலை உள்ளடக்க அணுகல் வழிகாட்டுதல்கள் (WCAG) 2.2"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-no.compact"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-no.descriptive"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.conformance.conformance-title"
+msgid "Conformance"
+msgstr "இணக்கம்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-unknown-standard.compact"
+msgid ""
+"Conformance to accepted standards for accessibility of this publication "
+"cannot be determined"
+msgstr ""
+"இந்த வெளியீட்டின் அணுகலுக்கான ஏற்றுக்கொள்ளப்பட்ட தரங்களுக்கு இணங்குவதை "
+"தீர்மானிக்க முடியாது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.conformance.conformance-unknown-standard.descriptive"
+msgid ""
+"Conformance to accepted standards for accessibility of this publication "
+"cannot be determined"
+msgstr ""
+"இந்த வெளியீட்டின் அணுகலுக்கான ஏற்றுக்கொள்ளப்பட்ட தரங்களுக்கு இணங்குவதை "
+"தீர்மானிக்க முடியாது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-flashing.compact"
+msgid "Flashing content"
+msgstr "ஒளிரும் உள்ளடக்கம்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-flashing.descriptive"
+msgid ""
+"The publication contains flashing content which can cause photosensitive "
+"seizures"
+msgstr ""
+"வெளியீட்டில் ஒளிரும் உள்ளடக்கம் உள்ளது, இது ஒளிச்சேர்க்கை "
+"வலிப்புத்தாக்கங்களை ஏற்படுத்தும்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-flashing-none.compact"
+msgid "No flashing content"
+msgstr "ஒளிரும் உள்ளடக்கம் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-flashing-none.descriptive"
+msgid "The publication contains no flashing content"
+msgstr "வெளியீட்டில் ஒளிரும் உள்ளடக்கம் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-flashing-unknown.compact"
+msgid "The presence of flashing content is unknown"
+msgstr "ஒளிரும் உள்ளடக்கத்தின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-flashing-unknown.descriptive"
+msgid "The presence of flashing content is unknown"
+msgstr "ஒளிரும் உள்ளடக்கத்தின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-motion.compact"
+msgid "Motion simulation"
+msgstr "இயக்க உருவகப்படுத்துதல்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-motion.descriptive"
+msgid ""
+"The publication contains motion simulations that can cause motion sickness"
+msgstr ""
+"இயக்க நோயை ஏற்படுத்தக்கூடிய இயக்க உருவகப்படுத்துதல்களை வெளியீட்டில் "
+"கொண்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-motion-none.compact"
+msgid "No motion simulation"
+msgstr "இயக்க உருவகப்படுத்துதல் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-motion-none.descriptive"
+msgid "The publication contains no motion simulation"
+msgstr "வெளியீட்டில் இயக்க உருவகப்படுத்துதல் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-motion-unknown.compact"
+msgid "The presence of motion simulation is unknown"
+msgstr "இயக்க உருவகப்படுத்துதலின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-motion-unknown.descriptive"
+msgid "The presence of motion simulation is unknown"
+msgstr "இயக்க உருவகப்படுத்துதலின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-no-metadata.compact"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-no-metadata.descriptive"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-none.compact"
+msgid "No hazards"
+msgstr "ஆபத்துகள் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-none.descriptive"
+msgid "The publication contains no hazards"
+msgstr "வெளியீட்டில் எந்த ஆபத்துகளும் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-sound.compact"
+msgid "Sounds"
+msgstr "ஒலிகள்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-sound.descriptive"
+msgid "The publication contains sounds which can be uncomfortable"
+msgstr "வெளியீட்டில் சங்கடமான ஒலிகள் உள்ளன"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-sound-none.compact"
+msgid "No sounds"
+msgstr "ஒலிகள் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-sound-none.descriptive"
+msgid "The publication contains no sounds"
+msgstr "வெளியீட்டில் எந்த ஒலிகளும் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-sound-unknown.compact"
+msgid "The presence of sounds is unknown"
+msgstr "ஒலிகளின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-sound-unknown.descriptive"
+msgid "The presence of sounds is unknown"
+msgstr "ஒலிகளின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-title"
+msgid "Hazards"
+msgstr "ஆபத்துகள்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-unknown.compact"
+msgid "The presence of hazards is unknown"
+msgstr "அபாயங்களின் இருப்பு தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.hazards.hazards-unknown.descriptive"
+msgid "The presents of hazards is unknown"
+msgstr "ஆபத்துகளின் பரிசுகள் தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-index.compact"
+msgid "Index"
+msgstr "குறியெண்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-index.descriptive"
+msgid "Index with links to referenced entries"
+msgstr "குறிப்பிடப்பட்ட உள்ளீடுகளுக்கான இணைப்புகளுடன் குறியீடு"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-no-metadata.compact"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.navigation.navigation-no-metadata.descriptive"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.navigation.navigation-page-navigation.compact"
+msgid "Go to page"
+msgstr "பக்கத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.navigation.navigation-page-navigation.descriptive"
+msgid "Page list to go to pages from the print source version"
+msgstr "அச்சு மூல பதிப்பிலிருந்து பக்கங்களுக்குச் செல்ல பக்க பட்டியல்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-structural.compact"
+msgid "Headings"
+msgstr "தலைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-structural.descriptive"
+msgid "Elements such as headings, tables, etc for structured navigation"
+msgstr ""
+"கட்டமைக்கப்பட்ட வழிசெலுத்தலுக்கான தலைப்புகள், அட்டவணைகள் போன்ற கூறுகள்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-title"
+msgid "Navigation"
+msgstr "வானோடல்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-toc.compact"
+msgid "Table of contents"
+msgstr "உள்ளடக்க அட்டவணை"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.navigation.navigation-toc.descriptive"
+msgid "Table of contents to all chapters of the text via links"
+msgstr ""
+"இணைப்புகள் வழியாக உரையின் அனைத்து அத்தியாயங்களுக்கும் உள்ளடக்க அட்டவணை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-chemistry-as-"
+"latex.compact"
+msgid "Chemical formulas in LaTeX"
+msgstr "லேடெக்சில் வேதியியல் சூத்திரங்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-chemistry-as-"
+"latex.descriptive"
+msgid "Chemical formulas in accessible format (LaTeX)"
+msgstr "அணுகக்கூடிய வடிவத்தில் வேதியியல் சூத்திரங்கள் (லேடெக்ச்)"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-chemistry-as-"
+"mathml.compact"
+msgid "Chemical formulas in MathML"
+msgstr "கணிதத்தில் வேதியியல் சூத்திரங்கள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-chemistry-as-"
+"mathml.descriptive"
+msgid "Chemical formulas in accessible format (MathML)"
+msgstr "அணுகக்கூடிய வடிவத்தில் வேதியியல் சூத்திரங்கள் (MATHML)"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-math-as-"
+"latex.compact"
+msgid "Math as LaTeX"
+msgstr "கணிதம் லேடெக்ச்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-math-as-"
+"latex.descriptive"
+msgid "Math formulas in accessible format (LaTeX)"
+msgstr "அணுகக்கூடிய வடிவத்தில் கணித சூத்திரங்கள் (லேடெக்ச்)"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-math-as-"
+"mathml.compact"
+msgid "Math as MathML"
+msgstr "கணிதமாக கணிதம்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-math-as-"
+"mathml.descriptive"
+msgid "Math formulas in accessible format (MathML)"
+msgstr "அணுகக்கூடிய வடிவத்தில் கணித சூத்திரங்கள் (MATHML)"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-math-"
+"described.compact"
+msgid "Text descriptions of math are provided"
+msgstr "கணிதத்தின் உரை விளக்கங்கள் வழங்கப்படுகின்றன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-accessible-math-"
+"described.descriptive"
+msgid "Text descriptions of math are provided"
+msgstr "கணிதத்தின் உரை விளக்கங்கள் வழங்கப்படுகின்றன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-closed-captions.compact"
+msgid "Videos have closed captions"
+msgstr "வீடியோக்களில் மூடிய தலைப்புகள் உள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-closed-"
+"captions.descriptive"
+msgid "Videos included in publications have closed captions"
+msgstr "வெளியீடுகளில் சேர்க்கப்பட்ட வீடியோக்கள் மூடிய தலைப்புகளைக் கொண்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.rich-content.rich-content-extended.compact"
+msgid "Information-rich images are described by extended descriptions"
+msgstr ""
+"செய்தி நிறைந்த படங்கள் நீட்டிக்கப்பட்ட விளக்கங்களால் விவரிக்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-extended.descriptive"
+msgid "Information-rich images are described by extended descriptions"
+msgstr ""
+"செய்தி நிறைந்த படங்கள் நீட்டிக்கப்பட்ட விளக்கங்களால் விவரிக்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-open-captions.compact"
+msgid "Videos have open captions"
+msgstr "வீடியோக்களில் திறந்த தலைப்புகள் உள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-open-captions.descriptive"
+msgid "Videos included in publications have open captions"
+msgstr ""
+"வெளியீடுகளில் சேர்க்கப்பட்ட வீடியோக்கள் திறந்த தலைப்புகளைக் கொண்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.rich-content.rich-content-title"
+msgid "Rich content"
+msgstr "பணக்கார உள்ளடக்கம்"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.rich-content.rich-content-transcript.compact"
+msgid "Transcript(s) provided"
+msgstr "டிரான்ச்கிரிப்ட் (கள்) வழங்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-transcript.descriptive"
+msgid "Transcript(s) provided"
+msgstr "டிரான்ச்கிரிப்ட் (கள்) வழங்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.rich-content.rich-content-unknown.compact"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.rich-content.rich-content-unknown.descriptive"
+msgid "No information is available"
+msgstr "எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"alt-text.compact"
+msgid "Has alternative text"
+msgstr "மாற்று உரை உள்ளது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"alt-text.descriptive"
+msgid "Has alternative text descriptions for images"
+msgstr "படங்களுக்கான மாற்று உரை விளக்கங்கள் உள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"no-metadata.compact"
+msgid "No information about nonvisual reading is available"
+msgstr "அல்லாத வாசிப்பு பற்றிய எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"no-metadata.descriptive"
+msgid "No information about nonvisual reading is available"
+msgstr "அல்லாத வாசிப்பு பற்றிய எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"none.compact"
+msgid "Not readable in read aloud or dynamic braille"
+msgstr "சத்தமாக அல்லது மாறும் பிரெய்லில் படிக்க முடியாது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"none.descriptive"
+msgid "The content is not readable as read aloud speech or dynamic braille"
+msgstr ""
+"உரத்த பேச்சு அல்லது மாறும் பிரெய்ல் வாசிப்பதால் உள்ளடக்கம் படிக்க முடியாது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"not-fully.compact"
+msgid "Not fully readable in read aloud or dynamic braille"
+msgstr "சத்தமாக அல்லது மாறும் பிரெயிலில் படிக்க முழுமையாக படிக்க முடியாது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"not-fully.descriptive"
+msgid ""
+"Not all of the content will be readable as read aloud speech or dynamic "
+"braille"
+msgstr ""
+"உரத்த பேச்சு அல்லது மாறும் பிரெய்லைப் படிக்கும்போது எல்லா உள்ளடக்கங்களும் "
+"படிக்க முடியாது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"readable.compact"
+msgid "Readable in read aloud or dynamic braille"
+msgstr "உரக்க அல்லது மாறும் பிரெயிலில் படிக்கக்கூடியது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-nonvisual-reading-"
+"readable.descriptive"
+msgid "All content can be read as read aloud speech or dynamic braille"
+msgstr "எல்லா உள்ளடக்கத்தையும் உரத்த பேச்சு அல்லது மாறும் பிரெய்ல் படிக்கலாம்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"complementary.compact"
+msgid "Prerecorded audio clips"
+msgstr "முன்பதிவு செய்யப்பட்ட ஆடியோ கிளிப்புகள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"complementary.descriptive"
+msgid "Prerecorded audio clips are embedded in the content"
+msgstr ""
+"முன்பதிவு செய்யப்பட்ட ஆடியோ கிளிப்புகள் உள்ளடக்கத்தில் உட்பொதிக்கப்பட்டுள்ளன"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"no-metadata.compact"
+msgid "No information about prerecorded audio is available"
+msgstr ""
+"முன்கூட்டியே பதிவுசெய்யப்பட்ட ஆடியோ பற்றிய தகவல்கள் எதுவும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"no-metadata.descriptive"
+msgid "No information about prerecorded audio is available"
+msgstr ""
+"முன்கூட்டியே பதிவுசெய்யப்பட்ட ஆடியோ பற்றிய தகவல்கள் எதுவும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"only.compact"
+msgid "Prerecorded audio only"
+msgstr "முன்பதிவு செய்யப்பட்ட ஆடியோ மட்டுமே"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"only.descriptive"
+msgid "Audiobook with no text alternative"
+msgstr "உரை மாற்று இல்லாத ஆடியோபுக்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"synchronized.compact"
+msgid "Prerecorded audio synchronized with text"
+msgstr "முன்பதிவு செய்யப்பட்ட ஆடியோ உரையுடன் ஒத்திசைக்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-prerecorded-audio-"
+"synchronized.descriptive"
+msgid ""
+"All the content is available as prerecorded audio synchronized with text"
+msgstr ""
+"அனைத்து உள்ளடக்கங்களும் உரையுடன் ஒத்திசைக்கப்பட்ட ஆடியோவை ஒத்திசைக்கின்றன"
+
+#, i18next-interpolation
+msgctxt "publ-a11y-display-guide.ways-of-reading.ways-of-reading-title"
+msgid "Ways of reading"
+msgstr "வாசிப்பதற்கான வழிகள்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-visual-adjustments-"
+"modifiable.compact"
+msgid "Appearance can be modified"
+msgstr "தோற்றத்தை மாற்றியமைக்கலாம்"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-visual-adjustments-"
+"modifiable.descriptive"
+msgid ""
+"Appearance of the text and page layout can be modified according to the "
+"capabilities of the reading system (font family and font size, spaces "
+"between paragraphs, sentences, words, and letters, as well as color of "
+"background and text)"
+msgstr ""
+"உரை மற்றும் பக்க தளவமைப்பின் தோற்றத்தை வாசிப்பு அமைப்பின் திறன்களின்படி "
+"மாற்றலாம் (எழுத்துரு குடும்பம் மற்றும் எழுத்துரு அளவு, பத்திகள், "
+"வாக்கியங்கள், சொற்கள் மற்றும் கடிதங்கள், அத்துடன் பின்னணி மற்றும் உரையின் "
+"நிறம்)"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-visual-adjustments-"
+"unknown.compact"
+msgid "No information about appearance modifiability is available"
+msgstr "தோற்றம் மாற்றியமைத்தல் பற்றிய எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt ""
+"publ-a11y-display-guide.ways-of-reading.ways-of-reading-visual-adjustments-"
+"unknown.descriptive"
+msgid "No information about appearance modifiability is available"
+msgstr "தோற்றம் மாற்றியமைத்தல் பற்றிய எந்த தகவலும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessModeSufficient.textual"
+msgid "All content can be read as read aloud speech or dynamic braille"
+msgstr "எல்லா உள்ளடக்கத்தையும் உரத்த பேச்சு அல்லது மாறும் பிரெய்ல் படிக்கலாம்"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityFeature.alternativeText"
+msgid "Has alt text on images"
+msgstr "படங்களில் மாற்று உரை உள்ளது"
+
+#, i18next-interpolation
+msgctxt ""
+"publication.accessibility.accessibilityFeature.displayTransformability"
+msgid "Appearance of the text and page layout can be modified"
+msgstr "உரை மற்றும் பக்க தளவமைப்பின் தோற்றத்தை மாற்றலாம்"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityFeature.longDescription"
+msgid "Fully described graphical resources"
+msgstr "முழுமையாக விவரிக்கப்பட்ட வரைகலை வளங்கள்"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityFeature.printPageNumbers"
+msgid "Contains a page list to go to pages from the print source version"
+msgstr ""
+"அச்சு மூல பதிப்பிலிருந்து பக்கங்களுக்குச் செல்ல ஒரு பக்க பட்டியலைக் "
+"கொண்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityFeature.readingOrder"
+msgid "Contains a reading order"
+msgstr "ஒரு வாசிப்பு வரிசையைக் கொண்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityFeature.synchronizedAudioText"
+msgid "Text & audio synchronised"
+msgstr "உரை மற்றும் ஆடியோ ஒத்திசைக்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityFeature.tableOfContents"
+msgid "Contains a Table Of Contents"
+msgstr "உள்ளடக்க அட்டவணையைக் கொண்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.flashing"
+msgid "Flashing"
+msgstr "ஒளிரும்"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.motionSimulation"
+msgid "Motion simulation"
+msgstr "இயக்க உருவகப்படுத்துதல்"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.name"
+msgid "Hazard:"
+msgstr "ஆபத்து:"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.noFlashing"
+msgid "No flashing"
+msgstr "ஒளிரும் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.noMotionSimulation"
+msgid "No motion simulation"
+msgstr "இயக்க உருவகப்படுத்துதல் இல்லை"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.noSound"
+msgid "No sound"
+msgstr "ஒலி இல்லை"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.sound"
+msgid "Sound"
+msgstr "ஒலி"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.accessibilityHazard.unknown"
+msgid "Unknown"
+msgstr "தெரியவில்லை"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.certifierReport"
+msgid "Certifier report:"
+msgstr "ஒத்திவைப்பு சான்றளிக்கவும்:"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.conformsTo"
+msgid "Conforms to:"
+msgstr "இதற்கு இணங்குகிறது:"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.moreInformation"
+msgid "More information"
+msgstr "மேலும் செய்தி"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.name"
+msgid "Accessibility"
+msgstr "அணுகல்"
+
+#, i18next-interpolation
+msgctxt "publication.accessibility.noA11y"
+msgid "No accessibility information available"
+msgstr "அணுகல் தகவல்கள் எதுவும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "publication.actions"
+msgid "Actions"
+msgstr "செயல்கள்"
+
+#, i18next-interpolation
+msgctxt "publication.audio.tracks"
+msgid "Tracks"
+msgstr "தடங்கள்"
+
+#, i18next-interpolation
+msgctxt "publication.author"
+msgid "Author"
+msgstr "நூலாசிரியர்"
+
+#, i18next-interpolation
+msgctxt "publication.cancelledLcp"
+msgid "This publication's LCP license is cancelled."
+msgstr "இந்த வெளியீட்டின் எல்.சி.பி உரிமம் ரத்து செய்யப்பட்டது."
+
+#, i18next-interpolation
+msgctxt "publication.certificateRevoked"
+msgid "Revoked LCP license certificate."
+msgstr "ரத்து செய்யப்பட்ட எல்.சி.பி உரிம சான்றிதழ்."
+
+#, i18next-interpolation
+msgctxt "publication.certificateSignatureInvalid"
+msgid "Invalid LCP license certificate signature."
+msgstr "தவறான எல்.சி.பி உரிம சான்றிதழ் கையொப்பம்."
+
+#, i18next-interpolation
+msgctxt "publication.cover.img"
+msgid "cover image"
+msgstr "கவர் படம்"
+
+#, i18next-interpolation
+msgctxt "publication.day"
+msgid "day"
+msgstr "நாள்"
+
+#, i18next-interpolation
+msgctxt "publication.days"
+msgid "days"
+msgstr "நாட்கள்"
+
+#, i18next-interpolation
+msgctxt "publication.duration.title"
+msgid "Duration"
+msgstr "காலம்"
+
+#, i18next-interpolation
+msgctxt "publication.encryptedNoLicense"
+msgid "Publication is encrypted but lacks an LCP license!"
+msgstr "வெளியீடு குறியாக்கம் செய்யப்பட்டுள்ளது, ஆனால் எல்.சி.பி உரிமம் இல்லை!"
+
+#, i18next-interpolation
+msgctxt "publication.expired"
+msgid "Loan expired"
+msgstr "கடன் காலாவதியானது"
+
+#, i18next-interpolation
+msgctxt "publication.expiredLcp"
+msgid "This publication's LCP license is expired."
+msgstr "இந்த வெளியீட்டின் எல்.சி.பி உரிமம் காலாவதியானது."
+
+#, i18next-interpolation
+msgctxt "publication.incorrectPassphrase"
+msgid ""
+"No stored passphrase fits the publication, or the entered passphrase is "
+"wrong."
+msgstr ""
+"சேமிக்கப்பட்ட பாச்ஃபிரேச் வெளியீட்டிற்கு பொருந்தவில்லை, அல்லது நுழைந்த "
+"பாச்ஃபிரேச் தவறானது."
+
+#, i18next-interpolation
+msgctxt "publication.lcpEnd"
+msgid "End"
+msgstr "முடிவு"
+
+#, i18next-interpolation
+msgctxt "publication.lcpRightsCopy"
+msgid "Copied characters"
+msgstr "நகலெடுக்கப்பட்ட எழுத்துக்கள்"
+
+#, i18next-interpolation
+msgctxt "publication.lcpRightsPrint"
+msgid "Printed pages"
+msgstr "அச்சிடப்பட்ட பக்கங்கள்"
+
+#, i18next-interpolation
+msgctxt "publication.lcpStart"
+msgid "Start"
+msgstr "தொடங்கு"
+
+#, i18next-interpolation
+msgctxt "publication.licenceLCP"
+msgid "License (LCP)"
+msgstr "உரிமம் (எல்.சி.பி)"
+
+#, i18next-interpolation
+msgctxt "publication.licenseCertificateDateInvalid"
+msgid ""
+"The LCP provider certificate expired before the license issue date ({{- "
+"dateTime}})."
+msgstr "காலாவதியான எல்.சி.பி வழங்குநர் சான்றிதழ் ({{- dateTime}})."
+
+#, i18next-interpolation
+msgctxt "publication.licenseOutOfDate"
+msgid "Out of date LCP License."
+msgstr "எல்.சி.பி உரிமத்திற்கு வெளியே."
+
+#, i18next-interpolation
+msgctxt "publication.licenseSignatureInvalid"
+msgid "Invalid LCP license signature."
+msgstr "தவறான எல்.சி.பி உரிம கையொப்பம்."
+
+#, i18next-interpolation
+msgctxt "publication.licensed"
+msgid "Licensed"
+msgstr "உரிமம்"
+
+#, i18next-interpolation
+msgctxt "publication.markAsRead"
+msgid "Mark as read"
+msgstr "படித்தபடி குறி"
+
+#, i18next-interpolation
+msgctxt "publication.notStarted"
+msgid "Not Started"
+msgstr "தொடங்கப்படவில்லை"
+
+#, i18next-interpolation
+msgctxt "publication.onGoing"
+msgid "In Progress"
+msgstr "முன்னேற்றத்தில் உள்ளது"
+
+#, i18next-interpolation
+msgctxt "publication.progression.title"
+msgid "Progression"
+msgstr "முன்னேற்றம்"
+
+#, i18next-interpolation
+msgctxt "publication.read"
+msgid "Finished"
+msgstr "முடிந்தது"
+
+#, i18next-interpolation
+msgctxt "publication.remainingTime"
+msgid "Loan (remaining time)"
+msgstr "கடன் (மீதமுள்ள நேரம்)"
+
+#, i18next-interpolation
+msgctxt "publication.renewButton"
+msgid "Renew"
+msgstr "புதுப்பித்தல்"
+
+#, i18next-interpolation
+msgctxt "publication.returnButton"
+msgid "Return"
+msgstr "திரும்ப"
+
+#, i18next-interpolation
+msgctxt "publication.returnedLcp"
+msgid "This LCP-protected publication is returned."
+msgstr "இந்த எல்.சி.பி-பாதுகாக்கப்பட்ட வெளியீடு திரும்பப் பெறப்படுகிறது."
+
+#, i18next-interpolation
+msgctxt "publication.revokedLcp"
+msgid "This publication's LCP license is revoked."
+msgstr "இந்த வெளியீட்டின் எல்.சி.பி உரிமம் ரத்து செய்யப்படுகிறது."
+
+#, i18next-interpolation
+msgctxt "publication.seeLess"
+msgid "See less"
+msgstr "குறைவாகக் காண்க"
+
+#, i18next-interpolation
+msgctxt "publication.seeMore"
+msgid "See more"
+msgstr "மேலும் காண்க"
+
+#, i18next-interpolation
+msgctxt "publication.timeLeft"
+msgid "Remaining time"
+msgstr "மீதமுள்ள நேரம்"
+
+#, i18next-interpolation
+msgctxt "publication.title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, i18next-interpolation
+msgctxt "publication.userKeyCheckInvalid"
+msgid "Incorrect passphrase."
+msgstr "தவறான கடவுச்சொல்."
+
+#, i18next-interpolation
+msgctxt "reader.annotations.Color"
+msgid "Color"
+msgstr "நிறம்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.addNote"
+msgid "Annotate"
+msgstr "சிறுகுறிப்பு"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.advancedMode"
+msgid "Instant mode (auto create after select)"
+msgstr "உடனடி பயன்முறை (தேர்ந்தெடுக்கப்பட்ட பிறகு தானாக உருவாக்கு)"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.annotationsExport.description"
+msgid "Name the exported notes:"
+msgstr "ஏற்றுமதி செய்யப்பட்ட குறிப்புகளுக்கு பெயரிடுங்கள்:"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.annotationsExport.title"
+msgid "Title"
+msgstr "தலைப்பு"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.annotationsOptions"
+msgid "Annotation Options"
+msgstr "சிறுகுறிப்பு விருப்பங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.date"
+msgid "Modification date"
+msgstr "மாற்றும் தேதி"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.export"
+msgid "Save notes as..."
+msgstr "குறிப்புகளை சேமிக்கவும் ..."
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.all"
+msgid "All"
+msgstr "அனைத்தும்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.filterByColor"
+msgid "Filter by Color"
+msgstr "வண்ணத்தால் வடிகட்டவும்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.filterByCreator"
+msgid "Filter by Creator"
+msgstr "படைப்பாளரால் வடிகட்டவும்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.filterByDrawtype"
+msgid "Filter by Type"
+msgstr "வகை மூலம் வடிகட்டவும்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.filterByTag"
+msgid "Filter by Tag"
+msgstr "குறிச்சொல் மூலம் வடிகட்டவும்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.filterOptions"
+msgid "Filter Options"
+msgstr "வடிகட்டி விருப்பங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.filter.none"
+msgid "None"
+msgstr "எதுவுமில்லை"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.hide"
+msgid "Do not display"
+msgstr "காட்ட வேண்டாம்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.highlight"
+msgid "Highlight"
+msgstr "சிறப்பம்சமாக"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.noSelectionToast"
+msgid "No selection"
+msgstr "தேர்வு இல்லை"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.note"
+msgid "{{- color}} Note"
+msgstr "{{- color}} குறிப்பு"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.quickAnnotations"
+msgid "Quick create (skip editor)"
+msgstr "விரைவான உருவாக்கு (ச்கிப் எடிட்டரைத் தவிர்)"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.saveNote"
+msgid "Save"
+msgstr "சேமி"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.sorting.lastcreated"
+msgid "Last created"
+msgstr "கடைசியாக உருவாக்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.sorting.lastmodified"
+msgid "Last modified"
+msgstr "கடைசியாக மாற்றப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.sorting.progression"
+msgid "Progression"
+msgstr "முன்னேற்றம்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.sorting.sortingOptions"
+msgid "Sorting Options"
+msgstr "வரிசையாக்க விருப்பங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.toggleMarginMarks"
+msgid "Display in margins"
+msgstr "விளிம்புகளில் காண்பி"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.type.outline"
+msgid "Outline"
+msgstr "அவுட்லைன்"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.type.solid"
+msgid "Solid background"
+msgstr "திட பின்னணி"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.type.strikethrough"
+msgid "Strikethrough"
+msgstr "ச்ட்ரைகெத்ரோ"
+
+#, i18next-interpolation
+msgctxt "reader.annotations.type.underline"
+msgid "Underline"
+msgstr "அடிக்கோடிட்டு"
+
+#, i18next-interpolation
+msgctxt "reader.bookmarks.index"
+msgid "Bookmark {{- index}}"
+msgstr "புக்மார்க்கு {{- index}}"
+
+#, i18next-interpolation
+msgctxt "reader.divina.mute"
+msgid "mute audio"
+msgstr "முடக்கு ஆடியோ"
+
+#, i18next-interpolation
+msgctxt "reader.divina.unmute"
+msgid "unmute audio"
+msgstr "இயக்க ஆடியோ"
+
+#, i18next-interpolation
+msgctxt "reader.fxl.fit"
+msgid "Fit"
+msgstr "பொருத்தம்"
+
+#, i18next-interpolation
+msgctxt "reader.goToContent"
+msgid "Go to the content"
+msgstr "உள்ளடக்கத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.imgViewer.title"
+msgid "Image viewer (zoom)"
+msgstr "பட பார்வையாளர் (பெரிதாக்கு)"
+
+#, i18next-interpolation
+msgctxt "reader.imgViewer.zoomIn"
+msgid "Zoom In"
+msgstr "உள் பெரிதாக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.imgViewer.zoomOut"
+msgid "Zoom Out"
+msgstr "சிறிதாக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.imgViewer.zoomReset"
+msgid "Reset Zoom"
+msgstr "பெரிதாக்கு மீட்டமைக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.marks.annotations"
+msgid "Annotations"
+msgstr "சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt "reader.marks.bookmarks"
+msgid "Bookmarks"
+msgstr "புக்மார்க்குகள்"
+
+#, i18next-interpolation
+msgctxt "reader.marks.delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.marks.edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, i18next-interpolation
+msgctxt "reader.marks.goTo"
+msgid "Go to page"
+msgstr "பக்கத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.marks.landmarks"
+msgid "Landmarks"
+msgstr "அடையாளங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.marks.saveMark"
+msgid "Save"
+msgstr "சேமி"
+
+#, i18next-interpolation
+msgctxt "reader.marks.search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, i18next-interpolation
+msgctxt "reader.marks.searchResult"
+msgid "Search [{{- searchText}}]"
+msgstr "தேடு [{{- searchText}}]"
+
+#, i18next-interpolation
+msgctxt "reader.marks.toc"
+msgid "Table of Contents"
+msgstr "உள்ளடக்க அட்டவணை"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.activate"
+msgid "Activate Readaloud"
+msgstr "சத்தமாக படிக்க செயல்படுத்தவும்"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.captions"
+msgid "Captions / clean view"
+msgstr "தலைப்புகள் / தூய்மையான பார்வை"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.captionsDescription"
+msgid "Simplified text view with minimal captions styling."
+msgstr "குறைந்தபட்ச தலைப்புகள் ச்டைலிங் கொண்ட எளிமைப்படுத்தப்பட்ட உரை காட்சி."
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.disableContinuousPlay"
+msgid "Disable continuous play"
+msgstr "தொடர்ச்சியான விளையாட்டை முடக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.disableContinuousPlayDescription"
+msgid ""
+"Do not automatically play the next item, pause immediately after the current"
+" item has finished playing."
+msgstr ""
+"அடுத்த உருப்படியை தானாகவே இயக்க வேண்டாம், தற்போதைய உருப்படி விளையாடுவதை "
+"முடித்த உடனேயே இடைநிறுத்தவும்."
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.ignoreAndUseTTS"
+msgid "Ignore pre-recorded audio, use TTS"
+msgstr "முன்பே பதிவுசெய்யப்பட்ட ஆடியோவைப் புறக்கணித்து, TTS ஐப் பயன்படுத்து"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.ignoreAndUseTTSDescription"
+msgid "Ignore EPUB Media Overlays, read with Text To Speech instead"
+msgstr ""
+"EPUB மீடியா மேலடுக்குகளைப் புறக்கணித்து, அதற்குப் பதிலாக உரையிலிருந்துபேசு "
+"உடன் படி"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.next"
+msgid "Next Readaloud"
+msgstr "அடுத்து சத்தமாக படியுங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.pause"
+msgid "Pause Readaloud"
+msgstr "இடைநிறுத்தம் சத்தமாக படிக்க"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.play"
+msgid "Play Readaloud"
+msgstr "சத்தமாக வாசிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.previous"
+msgid "Previous Readaloud"
+msgstr "முந்தைய சத்தமாக படித்தது"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.skip"
+msgid "Skippability"
+msgstr "ச்கிப்பிபிலிட்டி"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.skipDescription"
+msgid ""
+"Jump over / ignore auxiliary content such as pagebreaks, footnotes/endnotes,"
+" etc."
+msgstr ""
+"பேச் பிரேக்குகள், அடிக்குறிப்புகள் / இறுதி குறிப்புகள் போன்ற துணை "
+"உள்ளடக்கத்தை மேலே செல்லவும் / புறக்கணிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.speed"
+msgid "Readaloud playback rate"
+msgstr "Readoloud பின்னணி வீதம்"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.stop"
+msgid "Stop Readaloud"
+msgstr "சத்தமாக வாசிப்பதை நிறுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.media-overlays.title"
+msgid "Readaloud"
+msgstr "READOWLOUD"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.ZenModeExit"
+msgid "Exit Zen mode"
+msgstr "சென் பயன்முறையில் வெளியேறவும்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.ZenModeTitle"
+msgid "Zen mode"
+msgstr "சென் ஃபேசன்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.annotationTitle"
+msgid "Annotation"
+msgstr "சிறுகுறி"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.backHomeTitle"
+msgid "Close this reading window (back to bookshelf)"
+msgstr "இந்த வாசிப்பு சாளரத்தை மூடு (புத்தக அலமாரிக்கு திரும்பவும்)"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.bookmarkTitle"
+msgid "Bookmark"
+msgstr "புத்தககுறி"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.currentPage"
+msgid "Current page: {{- current}}"
+msgstr "தற்போதைய பக்கம்: {{- current}}"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.currentPageTotal"
+msgid "Current page: {{- current}}/{{- total}}"
+msgstr "தற்போதைய பக்கம்: {{- current}}/{{- total}}"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.detachWindowTitle"
+msgid "Show library / bookshelf window"
+msgstr "நூலகம் / புத்தக அலமாரி சாளரத்தைக் காட்டு"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.goTo"
+msgid "Go to"
+msgstr "செல்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.goToError"
+msgid "Page break does not exist"
+msgstr "பக்க இடைவெளி இல்லை"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.goToPlaceHolder"
+msgid "Enter page number"
+msgstr "பக்க எண்ணை உள்ளிடவும்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.goToTitle"
+msgid "Go to page"
+msgstr "பக்கத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.historyNext"
+msgid "Jump forward"
+msgstr "முன்னோக்கி செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.historyPrevious"
+msgid "Jump back"
+msgstr "பின்னால் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.infoTitle"
+msgid "Information"
+msgstr "தகவல்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.magnifyingGlassButton"
+msgid "Search publication"
+msgstr "தேடல் வெளியீடு"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.openTableOfContentsTitle"
+msgid "Navigation"
+msgstr "வானோடல்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.page"
+msgid "Page"
+msgstr "பக்கம்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.pdfscalemode"
+msgid "Page fit or width"
+msgstr "பக்க பொருத்தம் அல்லது அகலம்"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.print"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.printDisabled"
+msgid "Print forbidden"
+msgstr "தடைசெய்யப்பட்ட அச்சு"
+
+#, i18next-interpolation
+msgctxt "reader.navigation.settingsTitle"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "reader.notes.colors.cyan"
+msgid "Cyan"
+msgstr "சியான்"
+
+#, i18next-interpolation
+msgctxt "reader.notes.colors.green"
+msgid "Green"
+msgstr "பச்சை"
+
+#, i18next-interpolation
+msgctxt "reader.notes.colors.orange"
+msgid "Orange"
+msgstr "ஆரஞ்சு"
+
+#, i18next-interpolation
+msgctxt "reader.notes.colors.purple"
+msgid "Purple"
+msgstr "ஊதா"
+
+#, i18next-interpolation
+msgctxt "reader.notes.colors.red"
+msgid "Red"
+msgstr "சிவப்பு"
+
+#, i18next-interpolation
+msgctxt "reader.notes.colors.yellow"
+msgid "Yellow"
+msgstr "மஞ்சள்"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.founds"
+msgid "{{- nResults}} match(es)"
+msgstr "{{- nResults}} பொருந்துகிறது"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.input"
+msgid "text to match"
+msgstr "பொருத்த உரை"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.notFound"
+msgid "no matches"
+msgstr "போட்டிகள் இல்லை"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.previous"
+msgid "Previous"
+msgstr "முந்தைய"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.results"
+msgid "Results"
+msgstr "முடிவுகள்"
+
+#, i18next-interpolation
+msgctxt "reader.picker.search.submit"
+msgid "Find"
+msgstr "கண்டுபிடி"
+
+#, i18next-interpolation
+msgctxt "reader.picker.searchTitle"
+msgid "Search:"
+msgstr "தேடல்:"
+
+#, i18next-interpolation
+msgctxt "reader.print.descriptionLcpCount"
+msgid "Remaining pages limit: {{- count}}"
+msgstr "மீதமுள்ள பக்கங்களின் வரம்பு: {{- எண்ணிக்கை}}"
+
+#, i18next-interpolation
+msgctxt "reader.print.descriptionLcpPrintable"
+msgid "Previously printed pages: {{- printable}} ({{- count}})"
+msgstr "முன்னர் அச்சிடப்பட்ட பக்கங்கள்: {{- அச்சிடக்கூடிய}} ({{- எண்ணிக்கை}})"
+
+#, i18next-interpolation
+msgctxt "reader.print.howTo"
+msgid "How to select a range of pages to print"
+msgstr "அச்சிட பக்கங்களின் வரம்பைத் தேர்ந்தெடுப்பது எப்படி"
+
+#, i18next-interpolation
+msgctxt "reader.print.lcpInfo"
+msgid ""
+"The number of pages you can print in this publication is limited to {{- "
+"count}}. Choose the pages you require here."
+msgstr ""
+"இந்த வெளியீட்டில் நீங்கள் அச்சிடக்கூடிய பக்கங்களின் எண்ணிக்கை {{- count} "
+"பெறுநர் க்கு மட்டுமே. உங்களுக்கு தேவையான பக்கங்களை இங்கே தேர்வு செய்யவும்."
+
+#, i18next-interpolation
+msgctxt "reader.print.noPagesLcpLimitReached"
+msgid "You have reached the LCP limit"
+msgstr "நீங்கள் எல்.சி.பி வரம்பை எட்டியுள்ளீர்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.print.noPrintablePages"
+msgid "No Printables pages"
+msgstr "அச்சிடக்கூடிய பக்கங்கள் இல்லை"
+
+#, i18next-interpolation
+msgctxt "reader.print.pageHelpInfo"
+msgid "Page selector syntax:"
+msgstr "பக்க தேர்வாளர் தொடரியல்:"
+
+#, i18next-interpolation
+msgctxt "reader.print.pageHelpInfo1"
+msgid "enter a page number to reference a single page (e.g. \"6\")"
+msgstr "ஒரு பக்கத்தைக் குறிப்பிட ஒரு பக்க எண்ணை உள்ளிடவும் (எ.கா. \"6\")"
+
+#, i18next-interpolation
+msgctxt "reader.print.pageHelpInfo2"
+msgid ""
+"enter two page numbers separated by a dash character to reference a range of"
+" contiguous pages (e.g. \"6-13\")"
+msgstr ""
+"தொடர்ச்சியான பக்கங்களின் வரம்பைக் குறிக்க ஒரு கோடு எழுத்துக்களால் "
+"பிரிக்கப்பட்ட இரண்டு பக்க எண்களை உள்ளிடவும் (எ.கா. \"6-13\")"
+
+#, i18next-interpolation
+msgctxt "reader.print.pageHelpInfo3"
+msgid ""
+"use the semicolon character to separate multiple pages or page ranges (e.g. "
+"\"5;14-20;37\")"
+msgstr ""
+"பல பக்கங்கள் அல்லது பக்க வரம்புகளைப் பிரிக்க அரைக்காத் தன்மையைப் "
+"பயன்படுத்தவும் (எ.கா. \"5; 14-20; 37\")"
+
+#, i18next-interpolation
+msgctxt "reader.print.pageHelpInfo4"
+msgid ""
+"leave out the first or last page of a range to reference the first or last "
+"page of the publication (e.g. \"-16\" is equivalent to \"1-16\", and \"34-\""
+" is equivalent to \"34-100\" assuming a book with a total of 100 pages)"
+msgstr ""
+"வெளியீட்டின் முதல் அல்லது கடைசி பக்கத்தைக் குறிப்பிடுவதற்கான வரம்பின் முதல் "
+"அல்லது கடைசி பக்கத்தை விட்டு விடுங்கள் (எ.கா. \"-16\" என்பது \"1-16\" க்கு "
+"சமம், மற்றும் \"34-\" என்பது \"34-100\" க்கு சமம், மொத்தம் 100 பக்கங்களைக் "
+"கொண்ட ஒரு புத்தகத்தை அனுமானிக்கிறது)"
+
+#, i18next-interpolation
+msgctxt "reader.print.pages"
+msgid "Pages"
+msgstr "பக்கங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.print.preview"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#, i18next-interpolation
+msgctxt "reader.print.print"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#, i18next-interpolation
+msgctxt "reader.print.printablePages"
+msgid "Printables pages (total)"
+msgstr "அச்சிடக்கூடிய பக்கங்கள் (மொத்தம்)"
+
+#, i18next-interpolation
+msgctxt "reader.print.title"
+msgid "Selection of printable pages"
+msgstr "அச்சிடக்கூடிய பக்கங்களின் தேர்வு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.column.auto"
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+#, i18next-interpolation
+msgctxt "reader.settings.column.one"
+msgid "1 col"
+msgstr "1 கோல்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.column.title"
+msgid "Columns"
+msgstr "நெடுவரிசைகள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.column.two"
+msgid "2 cols"
+msgstr "2 நெடுவரிசைகள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.customFontSelected"
+msgid "You have chosen a personal font"
+msgstr "நீங்கள் ஒரு தனிப்பட்ட எழுத்துருவைத் தேர்ந்தெடுத்துள்ளீர்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.customizeReader"
+msgid "Customize text formatting"
+msgstr "உரை வடிவமைப்பைத் தனிப்பயனாக்குங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.disabled"
+msgid "disabled"
+msgstr "முடக்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "reader.settings.display"
+msgid "Display"
+msgstr "காட்சி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.disposition.title"
+msgid "Layout"
+msgstr "மனையமைவு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.font"
+msgid "Font"
+msgstr "எழுத்துரு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.fontSize"
+msgid "Font size"
+msgstr "எழுத்துரு அளவு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.infoCustomFont"
+msgid "Select custom font from operating system by typing its name"
+msgstr ""
+"இயக்க முறைமை அதன் பெயரைத் தட்டச்சு செய்வதன் மூலம் தனிப்பயன் எழுத்துருவைத் "
+"தேர்ந்தெடுக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.justification"
+msgid "Alignment"
+msgstr "இருப்புவழி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.justify"
+msgid "Justify"
+msgstr "நியாயப்படுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.letterSpacing"
+msgid "Letter spacing"
+msgstr "கடிதம் இடைவெளி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.lineSpacing"
+msgid "Line spacing"
+msgstr "வரி இடைவெளி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.margin"
+msgid "Margin"
+msgstr "விளிம்பு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.mathjax"
+msgid "Enable MathJax"
+msgstr "கணிதத்தை இயக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.noFootnotes"
+msgid "Disable popup footnotes"
+msgstr "பாப்அப் அடிக்குறிப்புகளை முடக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.noRTLFlip"
+msgid "Disable Right-To-Left UI"
+msgstr "வலது-இடது இடைமுகம் ஐ முடக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.noRuby"
+msgid "Hide Japanese Ruby"
+msgstr "சப்பானிய ரூபியை மறைக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.noTemporaryNavTargetOutline"
+msgid "Disable visual navigation indicators"
+msgstr "காட்சி வழிசெலுத்தல் குறிகாட்டிகளை முடக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.paginated"
+msgid "Paginated"
+msgstr "பிணைப்பு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.paraSpacing"
+msgid "Paragraph spacing"
+msgstr "பத்தி இடைவெளி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.100pct"
+msgid "100%"
+msgstr "100%"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.150pct"
+msgid "150%"
+msgstr "150%"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.200pct"
+msgid "200%"
+msgstr "200%"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.300pct"
+msgid "300%"
+msgstr "300%"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.500pct"
+msgid "500%"
+msgstr "500%"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.50pct"
+msgid "50%"
+msgstr "50%"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.fit"
+msgid "page fit"
+msgstr "பக்க பொருத்தம்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.name.width"
+msgid "page width"
+msgstr "பக்க அகலம்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.pdfZoom.title"
+msgid "Zoom"
+msgstr "பெரிதாக்கு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.apply"
+msgid "Apply"
+msgstr "இடு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.applyDetails"
+msgid "Apply your preferred configuration to the current publication."
+msgstr ""
+"தற்போதைய வெளியீட்டில் உங்களுக்கு விருப்பமான உள்ளமைவைப் பயன்படுத்துங்கள்."
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.detail"
+msgid "Save / Apply / Reset your preferred configuration."
+msgstr ""
+"உங்களுக்கு விருப்பமான உள்ளமைவைச் சேமிக்கவும் / விண்ணப்பிக்கவும் / "
+"மீட்டமைக்கவும்."
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.reset"
+msgid "Reset"
+msgstr "மீட்டமை"
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.resetDetails"
+msgid "Reset your preferred configuration (default settings)."
+msgstr ""
+"உங்களுக்கு விருப்பமான உள்ளமைவை மீட்டமைக்கவும் (இயல்புநிலை அமைப்புகள்)."
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.save"
+msgid "Save"
+msgstr "சேமி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.saveDetails"
+msgid ""
+"This action saves the current configuration, i.e. your preferred display and"
+" text formatting options. The settings can then be applied to other "
+"publications by clicking the 'apply' button in other reader windows."
+msgstr ""
+"இந்த செயல் தற்போதைய உள்ளமைவை சேமிக்கிறது, அதாவது உங்கள் விருப்பமான காட்சி "
+"மற்றும் உரை வடிவமைப்பு விருப்பங்கள். பிற வாசகர் சாளரங்களில் "
+"'விண்ணப்பிக்கவும்' பொத்தானைக் சொடுக்கு செய்வதன் மூலம் அமைப்புகள் பிற "
+"வெளியீடுகளுக்குப் பயன்படுத்தப்படலாம்."
+
+#, i18next-interpolation
+msgctxt "reader.settings.preset.title"
+msgid "Preferences"
+msgstr "விருப்பத்தேர்வுகள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.preview"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.reduceMotion"
+msgid "Reduce motion"
+msgstr "இயக்கத்தைக் குறைக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.scrolled"
+msgid "Scrollable"
+msgstr "கீறப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "reader.settings.spacing"
+msgid "Spacing"
+msgstr "இடைவெளி"
+
+#, i18next-interpolation
+msgctxt "reader.settings.text"
+msgid "Text"
+msgstr "உரை"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Contrast1"
+msgid "Contrast 1"
+msgstr "மாறுபாடு 1"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Contrast2"
+msgid "Contrast 2"
+msgstr "மாறுபாடு 2"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Contrast3"
+msgid "Contrast 3"
+msgstr "மாறுபாடு 3"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Contrast4"
+msgid "Contrast 4"
+msgstr "மாறுபாடு 4"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Neutral"
+msgid "Neutral"
+msgstr "நடுநிலை"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Night"
+msgid "Night"
+msgstr "இரவு"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Paper"
+msgid "Paper"
+msgstr "காகிதம்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.name.Sepia"
+msgid "Sepia"
+msgstr "செபியா"
+
+#, i18next-interpolation
+msgctxt "reader.settings.theme.title"
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+#, i18next-interpolation
+msgctxt "reader.settings.wordSpacing"
+msgid "Word spacing"
+msgstr "சொல் இடைவெளி"
+
+#, i18next-interpolation
+msgctxt "reader.svg.left"
+msgid "Left"
+msgstr "இடது"
+
+#, i18next-interpolation
+msgctxt "reader.svg.right"
+msgid "Right"
+msgstr "வலது"
+
+#, i18next-interpolation
+msgctxt "reader.toc.publicationNoToc"
+msgid "No table of contents"
+msgstr "உள்ளடக்க அட்டவணை இல்லை"
+
+#, i18next-interpolation
+msgctxt "reader.tts.activate"
+msgid "Activate Text To Speech (TTS)"
+msgstr "உரைக்கு உரையை செயல்படுத்தவும் (TTS)"
+
+#, i18next-interpolation
+msgctxt "reader.tts.language"
+msgid "TTS language"
+msgstr "Tts மொழி"
+
+#, i18next-interpolation
+msgctxt "reader.tts.next"
+msgid "Next TTS"
+msgstr "அடுத்த டி.டி.எச்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.options"
+msgid "TTS options"
+msgstr "TTS விருப்பங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.pause"
+msgid "Pause TTS"
+msgstr "இடைவேளை tts"
+
+#, i18next-interpolation
+msgctxt "reader.tts.play"
+msgid "Play TTS"
+msgstr "TTS ஐ விளையாடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.previous"
+msgid "Previous TTS"
+msgstr "முந்தைய டி.டி.எச்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.sentenceDetect"
+msgid "Split TTS text"
+msgstr "டி.டி.எச் உரையை பிரிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.sentenceDetectDescription"
+msgid "Break long paragraphs into sentences."
+msgstr "நீண்ட பத்திகளை வாக்கியங்களாக உடைக்கவும்."
+
+#, i18next-interpolation
+msgctxt "reader.tts.speed"
+msgid "TTS playback rate"
+msgstr "TTS பிளேபேக் வீதம்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.stop"
+msgid "Stop TTS"
+msgstr "TTS ஐ நிறுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "reader.tts.voice"
+msgid "TTS voice"
+msgstr "Tts குரல்"
+
+#, i18next-interpolation
+msgctxt "settings.annotationCreator.creator"
+msgid "Annotations creator (optional)"
+msgstr "சிறுகுறிப்புகள் உருவாக்கியவர் (விரும்பினால்)"
+
+#, i18next-interpolation
+msgctxt "settings.annotationCreator.help"
+msgid ""
+"If specified, this name will be included in the metadata of exported notes."
+msgstr ""
+"குறிப்பிடப்பட்டால், இந்த பெயர் ஏற்றுமதி செய்யப்பட்ட குறிப்புகளின் "
+"மெட்டாடேட்டாவில் சேர்க்கப்படும்."
+
+#, i18next-interpolation
+msgctxt "settings.annotationCreator.name"
+msgid "Name"
+msgstr "பெயர்"
+
+#, i18next-interpolation
+msgctxt "settings.annotationCreator.organization"
+msgid "Organization"
+msgstr "அமைப்பு"
+
+#, i18next-interpolation
+msgctxt "settings.annotationCreator.person"
+msgid "Person"
+msgstr "ஆள்"
+
+#, i18next-interpolation
+msgctxt "settings.annotationCreator.type"
+msgid "Type:"
+msgstr "தட்டச்சு:"
+
+#, i18next-interpolation
+msgctxt "settings.auth.help"
+msgid "This action deletes all OPDS login credentials."
+msgstr "இந்த செயல் அனைத்து OPDS உள்நுழைவு நற்சான்றுகளையும் நீக்குகிறது."
+
+#, i18next-interpolation
+msgctxt "settings.auth.title"
+msgid "Access to publication catalogs"
+msgstr "வெளியீட்டு பட்டியல்களுக்கான அணுகல்"
+
+#, i18next-interpolation
+msgctxt "settings.auth.wipeData"
+msgid "Clear login data"
+msgstr "உள்நுழைவு தரவை அழிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.advancedMenu"
+msgid "Keyboard shortcuts advanced menu"
+msgstr "விசைப்பலகை குறுக்குவழிகள் மேம்பட்ட பட்டியல்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.cancel"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.disclaimer"
+msgid ""
+"The application defaults were designed based on the physical location of "
+"keys on a QWERTY layout"
+msgstr ""
+"பயன்பாட்டு இயல்புநிலைகள் qwerty தளவமைப்பில் விசைகளின் இயற்பியல் "
+"இருப்பிடத்தின் அடிப்படையில் வடிவமைக்கப்பட்டன"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.editUserJson"
+msgid "Edit user file..."
+msgstr "பயனர் கோப்பைத் திருத்து ..."
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.keyboardShortcuts"
+msgid "Keyboard shortcuts"
+msgstr "விசைப்பலகை குறுக்குவழிகள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AddBookmarkWithLabel.description"
+msgid ""
+"Open the bookmark creation dialog and edit the textual label (note), color "
+"and tag"
+msgstr ""
+"புக்மார்க்கு உருவாக்கும் உரையாடலைத் திறந்து உரை சிட்டை (குறிப்பு), வண்ணம் "
+"மற்றும் குறிச்சொல்லைத் திருத்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AddBookmarkWithLabel.name"
+msgid "Create Bookmark with Label"
+msgstr "லேபிளுடன் புத்தகக்குறியை உருவாக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AnnotationsCreate.description"
+msgid ""
+"Open the annotation creation dialog for the selected document text, and edit"
+" the textual note, highlight color and type, and tag"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட ஆவண உரைக்கான சிறுகுறிப்பு உருவாக்கும் உரையாடலைத் "
+"திறந்து, உரை குறிப்பைத் திருத்தி, வண்ணம் மற்றும் வகையை முன்னிலைப்படுத்தவும்,"
+" குறிச்சொல்லாகவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AnnotationsCreate.name"
+msgid "Create Annotation"
+msgstr "சிறுகுறிப்பை உருவாக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AnnotationsCreateQuick.description"
+msgid ""
+"Quickly create an annotation for the selected text, with the last-used "
+"highlight color and type (note and tag will be empty)"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட உரைக்கு ஒரு சிறுகுறிப்பை உருவாக்கவும், கடைசியாகப் "
+"பயன்படுத்தப்பட்ட சிறப்பம்சமாக வண்ணம் மற்றும் வகையுடன் (குறிப்பு மற்றும் "
+"குறிச்சொல் காலியாக உள்ளது)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AnnotationsCreateQuick.name"
+msgid "Create Quick Annotation"
+msgstr "விரைவான சிறுகுறிப்பை உருவாக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AnnotationsToggleMargin.description"
+msgid ""
+"Alternate the annotation and bookmark visual indicators, either in the "
+"document margin or in the text"
+msgstr ""
+"ஆவண விளிம்பில் அல்லது உரையில் சிறுகுறிப்பு மற்றும் புக்மார்க்கு காட்சி "
+"குறிகாட்டிகளை மாற்றவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AnnotationsToggleMargin.name"
+msgid "Toggle Annotation Margin"
+msgstr "சிறுகுறிப்பு விளிம்பை மாற்றவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioNext.description"
+msgid ""
+"Move forward to the next audio segment in the narration (EPUB3 Media "
+"Overlays, Text To Speech, or pre-recorded audiobook)"
+msgstr ""
+"விவரிப்பில் அடுத்த ஆடியோ பிரிவுக்கு முன்னேறவும் (EPUB3 மீடியா மேலடுக்குகள், "
+"உரைக்கு உரை அல்லது முன்பே பதிவு செய்யப்பட்ட ஆடியோபுக்)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioNext.name"
+msgid "Next Audio Segment"
+msgstr "அடுத்த ஆடியோ பிரிவு"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioNextAlt.description"
+msgid ""
+"Move forward to the next audio segment in the narration (EPUB3 Media "
+"Overlays, Text To Speech read-aloud, or pre-recorded audiobook). This skips "
+"any currently escapable structure"
+msgstr ""
+"EPUB3 மீடியா மேலடுக்குகளில் அடுத்த ஆடியோ நிகழ்வுக்கு முன்னேறவும், உரையை "
+"உரக்கப் படிக்க உரை, ஆடியோபுக்குகளுக்கு. தற்போதைய தப்பிக்கக்கூடிய "
+"கட்டமைப்பைத் தவிர்க்கிறது"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioNextAlt.name"
+msgid "Next Audio Segment (escape)"
+msgstr "அடுத்த ஆடியோ பிரிவு (தப்பித்தல்)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioPlayPause.description"
+msgid ""
+"Toggle play/pause for current narration (EPUB3 Media Overlays, Text To "
+"Speech read-aloud, or pre-recorded audiobook)"
+msgstr ""
+"EPUB3 மீடியா மேலடுக்கில் நாடகம்/இடைநிறுத்தம், உரையின் உரை சத்தமாக "
+"வாசிக்கவும், ஆடியோபுக்குகளுக்கு"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioPlayPause.name"
+msgid "Play/Pause Audio"
+msgstr "ஆடியோவை இயக்கவும்/இடைநிறுத்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioPrevious.description"
+msgid ""
+"Move back to the previous audio segment in the narration (EPUB3 Media "
+"Overlays, Text To Speech read-aloud, or pre-recorded audiobook)"
+msgstr ""
+"விவரிப்பில் முந்தைய ஆடியோ பிரிவுக்கு திரும்பிச் செல்லுங்கள் (EPUB3 மீடியா "
+"மேலடுக்குகள், பேச்சு வாசிப்பு-சத்தமாக உரை அல்லது முன்பே பதிவு செய்யப்பட்ட "
+"ஆடியோபுக்)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioPrevious.name"
+msgid "Previous Audio Segment"
+msgstr "முந்தைய ஆடியோ பிரிவு"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioPreviousAlt.description"
+msgid ""
+"Move back to the previous audio segment in the narration (EPUB3 Media "
+"Overlays, Text To Speech read-aloud, or pre-recorded audiobook). This skips "
+"any currently escapable structure"
+msgstr ""
+"விவரிப்பில் முந்தைய ஆடியோ பிரிவுக்கு திரும்பிச் செல்லுங்கள் (EPUB3 மீடியா "
+"மேலடுக்குகள், பேச்சு வாசிப்பு-சத்தமாக உரை அல்லது முன்பே பதிவு செய்யப்பட்ட "
+"ஆடியோபுக்). இது தற்போது தப்பிக்கக்கூடிய எந்தவொரு கட்டமைப்பையும் தவிர்க்கிறது"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioPreviousAlt.name"
+msgid "Previous Audio Segment (escape)"
+msgstr "முந்தைய ஆடியோ பிரிவு (தப்பித்தல்)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioStop.description"
+msgid ""
+"Stop current audio (EPUB3 Media Overlays, Text To Speech read-aloud, or pre-"
+"recorded audiobook)"
+msgstr ""
+"தற்போதைய ஆடியோவை நிறுத்துங்கள் (EPUB3 மீடியா மேலடுக்குகள், பேச்சு வாசிப்பு "
+"உரத்த உரை அல்லது முன்பே பதிவு செய்யப்பட்ட ஆடியோபுக்)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.AudioStop.name"
+msgid "Stop Audio"
+msgstr "ஆடியோவை நிறுத்து"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.CloseReader.description"
+msgid "Close the reader window and return to the library"
+msgstr "வாசகர் சாளரத்தை மூடி நூலகத்திற்குத் திரும்புக"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.CloseReader.name"
+msgid "Close Reader"
+msgstr "மூடு வாசகர்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FXLZoomIn.description"
+msgid "Zoom into a fixed layout single page or 2-page spread."
+msgstr ""
+"ஒரு நிலையான தளவமைப்பு ஒற்றை பக்கம் அல்லது 2 பக்க பரவலாக பெரிதாக்கவும்."
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FXLZoomIn.name"
+msgid "FXL Zoom In"
+msgstr "Fxl பெரிதாக்கு"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FXLZoomOut.description"
+msgid "Zoom out of a fixed layout single page or 2-page spread."
+msgstr ""
+"ஒரு நிலையான தளவமைப்பு ஒற்றை பக்கம் அல்லது 2 பக்க பரவலில் இருந்து "
+"பெரிதாக்கவும்."
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FXLZoomOut.name"
+msgid "FXL Zoom Out"
+msgstr "FXL பெரிதாக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FXLZoomReset.description"
+msgid "Reset zoom on a fixed layout single page or 2-page spread."
+msgstr ""
+"ஒரு நிலையான தளவமைப்பு ஒற்றை பக்கம் அல்லது 2 பக்க பரவலில் பெரிதாக்கத்தை "
+"மீட்டமைக்கவும்."
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FXLZoomReset.name"
+msgid "Reset FXL Zoom"
+msgstr "FXL சூம் மீட்டமைக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusMain.description"
+msgid ""
+"Move the keyboard focus to the 'main' landmark in the graphical user "
+"interface. In the reader window, this moves into the publication content"
+msgstr ""
+"விசைப்பலகை மையத்தை வரைகலை பயனர் இடைமுகத்தில் உள்ள 'முதன்மையான' "
+"அடையாளத்திற்கு நகர்த்தவும். வாசகர் சாளரத்தில், இது வெளியீட்டு உள்ளடக்கத்தில்"
+" நகர்கிறது"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusMain.name"
+msgid "Focus on Main Content"
+msgstr "முக்கிய உள்ளடக்கத்தில் கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusMainDeep.description"
+msgid ""
+"In the reader window, this moves the keyboard focus into the publication "
+"content using a more reliable technique for screen readers"
+msgstr ""
+"ரீடர் சாளரத்தில், இது விசைப்பலகை கவனம் செலுத்தும் உள்ளடக்கத்தில் வெளியீட்டு "
+"உள்ளடக்கத்தில் திரை வாசகர்களுக்கான நம்பகமான நுட்பத்தைப் பயன்படுத்தி "
+"நகர்த்துகிறது"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusMainDeep.name"
+msgid "Deep Focus on Main Content"
+msgstr "முக்கிய உள்ளடக்கத்தில் ஆழ்ந்த கவனம்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderGotoPage.description"
+msgid ""
+"Move the keyboard focus to the 'goto page' section of the reader window's "
+"navigation panel"
+msgstr ""
+"விசைப்பலகை மையத்தை ரீடர் சாளரத்தின் வழிசெலுத்தல் குழுவின் 'கோட்டோ பக்கம்' "
+"பகுதிக்கு நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderGotoPage.name"
+msgid "Focus on 'Go to Page'"
+msgstr "'பக்கத்திற்குச் செல்லுங்கள்' என்பதில் கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigation.description"
+msgid "Move the keyboard focus to the reader window's navigation panel"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் வழிசெலுத்தல் பேனலுக்கு நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigation.name"
+msgid "Focus on Navigation Panel"
+msgstr "வழிசெலுத்தல் குழுவில் கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationAnnotations.description"
+msgid ""
+"Move the keyboard focus to the 'annotations' section of the reader window's "
+"navigation panel"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் வழிசெலுத்தல் குழுவின் 'சிறுகுறிப்புகள்'"
+" பகுதிக்கு நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationAnnotations.name"
+msgid "Focus on 'Annotations'"
+msgstr "'சிறுகுறிப்புகளில்' கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationBookmarks.description"
+msgid ""
+"Move the keyboard focus to the 'bookmarks' section of the reader window's "
+"navigation panel"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் வழிசெலுத்தல் குழுவின் 'புக்மார்க்ச்' "
+"பகுதிக்கு நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationBookmarks.name"
+msgid "Focus on 'Bookmarks'"
+msgstr "'புக்மார்க்குகள்' மீது கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationSearch.description"
+msgid ""
+"Move the keyboard focus to the 'search' section of the reader window's "
+"navigation panel"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் வழிசெலுத்தல் குழுவின் 'தேடல்' பகுதிக்கு"
+" நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationSearch.name"
+msgid "Focus on 'Search'"
+msgstr "'தேடலில்' கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationTOC.description"
+msgid ""
+"Move the keyboard focus to the 'TOC' section of the reader window's "
+"navigation panel"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் வழிசெலுத்தல் குழுவின் 'TOC' பிரிவுக்கு "
+"நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderNavigationTOC.name"
+msgid "Focus on 'table of contents'"
+msgstr "'உள்ளடக்க அட்டவணையில்' கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderSettings.description"
+msgid ""
+"Move the keyboard focus to the reader window's settings panel (display "
+"preferences, etc.)"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் அமைப்புகள் பேனலுக்கு நகர்த்தவும் "
+"(காட்சி விருப்பத்தேர்வுகள் போன்றவை)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusReaderSettings.name"
+msgid "Focus on Reader Settings"
+msgstr "வாசகர் அமைப்புகளில் கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusSearch.description"
+msgid ""
+"Move the keyboard focus to the reader window's text search input, or in the "
+"library window this searches the bookshelf or the active OPDS feed"
+msgstr ""
+"விசைப்பலகை மையத்தை வாசகர் சாளரத்தின் உரை தேடல் உள்ளீட்டிற்கு நகர்த்தவும் "
+"அல்லது நூலக சாளரத்தில் இது புத்தக அலமாரி அல்லது செயலில் உள்ள OPDS ஊட்டத்தைத்"
+" தேடுகிறது"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusSearch.name"
+msgid "Search Command"
+msgstr "தேடல் கட்டளை"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusToolbar.description"
+msgid ""
+"Move the keyboard focus to the landmark area of the graphical user interface"
+" immediately before the 'skip link' (which itself moves the focus to the "
+"main content area of the library or reader window)"
+msgstr ""
+"விசைப்பலகை மையத்தை 'ச்கிப் லிங்க்' க்கு முன் வரைகலை பயனர் இடைமுகத்தின் "
+"மைல்கல் பகுதிக்கு நகர்த்தவும் (இது நூலகத்தின் முக்கிய உள்ளடக்க பகுதிக்கு "
+"அல்லது வாசகர் சாளரத்திற்கு கவனம் செலுத்துகிறது)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.FocusToolbar.name"
+msgid "Focus on Toolbar"
+msgstr "கருவிப்பட்டியில் கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextChapter.description"
+msgid ""
+"In the reader window, navigate to the next document in the reading order of "
+"the publication (e.g. chapter in the book spine). Note that there is an "
+"alternative keyboard shortcut to this default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டின் வாசிப்பு வரிசையில் அடுத்த ஆவணத்திற்கு "
+"செல்லவும் (எ.கா. முதுகெலும்பு புத்தகத்தில் அத்தியாயம்). இந்த இயல்புநிலைக்கு "
+"மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextChapter.name"
+msgid "Go to Next Chapter"
+msgstr "அடுத்த அத்தியாயத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextChapterAlt.description"
+msgid ""
+"In the reader window, navigate to the next document in the reading order of "
+"the publication (e.g. chapter in the book spine). This is an alternative "
+"keyboard shortcut to the default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டின் வாசிப்பு வரிசையில் அடுத்த ஆவணத்திற்கு "
+"செல்லவும் (எ.கா. முதுகெலும்பு புத்தகத்தில் அத்தியாயம்). இது இயல்புநிலைக்கு "
+"மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextChapterAlt.name"
+msgid "Go to Next Chapter (Alternative)"
+msgstr "அடுத்த அத்தியாயத்திற்குச் செல்லுங்கள் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextHistory.description"
+msgid "In the reader window, jump one step forward in the navigation history"
+msgstr "வாசகர் சாளரத்தில், வழிசெலுத்தல் வரலாற்றில் ஒரு படி மேலே செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextHistory.name"
+msgid "Go to Next History"
+msgstr "அடுத்த வரலாற்றுக்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextLibraryPage.description"
+msgid ""
+"In the library window, show the next page of a paginated list of "
+"publications. Note that there is an alternative keyboard shortcut to this "
+"default one"
+msgstr ""
+"நூலக சாளரத்தில், வெளியீடுகளின் சிறிய பட்டியலின் அடுத்த பக்கத்தைக் "
+"காட்டுங்கள். இந்த இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை"
+" நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextLibraryPage.name"
+msgid "Go to Next Library Page"
+msgstr "அடுத்த நூலகப் பக்கத்திற்குச் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextLibraryPageAlt.description"
+msgid ""
+"In the library window, show the next page of a paginated list of "
+"publications. This is an alternative keyboard shortcut to the default one"
+msgstr ""
+"நூலக சாளரத்தில், வெளியீடுகளின் சிறிய பட்டியலின் அடுத்த பக்கத்தைக் "
+"காட்டுங்கள். இது இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextLibraryPageAlt.name"
+msgid "Go to Next Library Page (Alternative)"
+msgstr "அடுத்த நூலகப் பக்கத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextOPDSPage.description"
+msgid ""
+"In the library window for catalogs / OPDS feeds, follow the next pagination "
+"link. Note that there is an alternative keyboard shortcut to this default "
+"one"
+msgstr ""
+"பட்டியல்கள் / OPDS ஊட்டங்களுக்கான நூலக சாளரத்தில், அடுத்த மாசு இணைப்பைப் "
+"பின்பற்றவும். இந்த இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது "
+"என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextOPDSPage.name"
+msgid "Go to Next OPDS Page"
+msgstr "அடுத்த OPDS பக்கத்திற்குச் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextOPDSPageAlt.description"
+msgid ""
+"In the library window for catalogs / OPDS feeds, follow the next pagination "
+"link. This is an alternative keyboard shortcut to the default one"
+msgstr ""
+"பட்டியல்கள் / OPDS ஊட்டங்களுக்கான நூலக சாளரத்தில், அடுத்த மாசு இணைப்பைப் "
+"பின்பற்றவும். இது இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextOPDSPageAlt.name"
+msgid "Go to Next OPDS Page (Alternative)"
+msgstr "அடுத்த OPDS பக்கத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextPage.description"
+msgid ""
+"In the reader window, turn to the next 'page' in the publication. Note that "
+"there is an alternative keyboard shortcut to this default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டில் அடுத்த 'பக்கத்திற்கு' திரும்பவும். இந்த "
+"இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextPage.name"
+msgid "Go to Next Page"
+msgstr "அடுத்த பக்கத்திற்குச் செல்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextPageAlt.description"
+msgid ""
+"In the reader window, turn to the next 'page' in the publication. This is an"
+" alternative keyboard shortcut to the default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டில் அடுத்த 'பக்கத்திற்கு' திரும்பவும். இது "
+"இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateNextPageAlt.name"
+msgid "Go to Next Page (Alternative)"
+msgstr "அடுத்த பக்கத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousChapter.description"
+msgid ""
+"In the reader window, navigate to the previous document in the reading order"
+" of the publication (e.g. chapter in the book spine). Note that there is an "
+"alternative keyboard shortcut to this default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டின் வாசிப்பு வரிசையில் முந்தைய ஆவணத்திற்கு "
+"செல்லவும் (எ.கா. முதுகெலும்பில் அத்தியாயம்). இந்த இயல்புநிலைக்கு மாற்று "
+"விசைப்பலகை குறுக்குவழி உள்ளது என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousChapter.name"
+msgid "Go to Previous Chapter"
+msgstr "முந்தைய அத்தியாயத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousChapterAlt.description"
+msgid ""
+"In the reader window, navigate to the previous document in the reading order"
+" of the publication (e.g. chapter in the book spine). This is an alternative"
+" keyboard shortcut to the default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டின் வாசிப்பு வரிசையில் முந்தைய ஆவணத்திற்கு "
+"செல்லவும் (எ.கா. முதுகெலும்பில் அத்தியாயம்). இது இயல்புநிலைக்கு மாற்று "
+"விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousChapterAlt.name"
+msgid "Go to Previous Chapter (Alternative)"
+msgstr "முந்தைய அத்தியாயத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousHistory.description"
+msgid ""
+"In the reader window, jump one step backwards in the navigation history"
+msgstr ""
+"வாசகர் சாளரத்தில், வழிசெலுத்தல் வரலாற்றில் ஒரு படி பின்னோக்கி செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousHistory.name"
+msgid "Go to Previous History"
+msgstr "முந்தைய வரலாற்றுக்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousLibraryPage.description"
+msgid ""
+"In the library window, show the previous page of a paginated list of "
+"publications. Note that there is an alternative keyboard shortcut to this "
+"default one"
+msgstr ""
+"நூலக சாளரத்தில், வெளியீடுகளின் சிறிய பட்டியலின் முந்தைய பக்கத்தைக் "
+"காட்டுங்கள். இந்த இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை"
+" நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousLibraryPage.name"
+msgid "Go to Previous Library Page"
+msgstr "முந்தைய நூலகப் பக்கத்திற்குச் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousLibraryPageAlt.description"
+msgid ""
+"In the library window, show the previous page of a paginated list of "
+"publications. This is an alternative keyboard shortcut to the default one"
+msgstr ""
+"நூலக சாளரத்தில், வெளியீடுகளின் சிறிய பட்டியலின் முந்தைய பக்கத்தைக் "
+"காட்டுங்கள். இது இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousLibraryPageAlt.name"
+msgid "Go to Previous Library Page (Alternative)"
+msgstr "முந்தைய நூலகப் பக்கத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousOPDSPage.description"
+msgid ""
+"In the library window for catalogs / OPDS feeds, follow the previous "
+"pagination link. Note that there is an alternative keyboard shortcut to this"
+" default one"
+msgstr ""
+"பட்டியல்கள் / OPDS ஊட்டங்களுக்கான நூலக சாளரத்தில், முந்தைய மாசு இணைப்பைப் "
+"பின்பற்றவும். இந்த இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது "
+"என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousOPDSPage.name"
+msgid "Go to Previous OPDS Page"
+msgstr "முந்தைய OPDS பக்கத்திற்குச் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousOPDSPageAlt.description"
+msgid ""
+"In the library window for catalogs / OPDS feeds, follow the previous "
+"pagination link. This is an alternative keyboard shortcut to the default one"
+msgstr ""
+"பட்டியல்கள் / OPDS ஊட்டங்களுக்கான நூலக சாளரத்தில், முந்தைய மாசு இணைப்பைப் "
+"பின்பற்றவும். இது இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousOPDSPageAlt.name"
+msgid "Go to Previous OPDS Page (Alternative)"
+msgstr "முந்தைய OPDS பக்கத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousPage.description"
+msgid ""
+"In the reader window, turn to the previous 'page' in the publication. Note "
+"that there is an alternative keyboard shortcut to this default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டில் முந்தைய 'பக்கத்திற்கு' திரும்பவும். இந்த "
+"இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousPage.name"
+msgid "Go to Previous Page"
+msgstr "முந்தைய பக்கத்திற்குச் செல்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousPageAlt.description"
+msgid ""
+"In the reader window, turn to the previous 'page' in the publication. This "
+"is an alternative keyboard shortcut to the default one"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டில் முந்தைய 'பக்கத்திற்கு' திரும்பவும். இது "
+"இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigatePreviousPageAlt.name"
+msgid "Go to Previous Page (Alternative)"
+msgstr "முந்தைய பக்கத்திற்குச் செல்லவும் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateToBegin.description"
+msgid "In the reader window, go to the beginning of the publication"
+msgstr "வாசகர் சாளரத்தில், வெளியீட்டின் தொடக்கத்திற்குச் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateToBegin.name"
+msgid "Go to Beginning"
+msgstr "தொடக்கத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateToEnd.description"
+msgid "In the reader window, go to the end of the publication"
+msgstr "வாசகர் சாளரத்தில், வெளியீட்டின் முடிவுக்குச் செல்லவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.NavigateToEnd.name"
+msgid "Go to End"
+msgstr "முடிவுக்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.OpenReaderInfo.description"
+msgid "In the reader window, open the information dialog for the publication"
+msgstr "வாசகர் சாளரத்தில், வெளியீட்டிற்கான செய்தி உரையாடலைத் திறக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.OpenReaderInfo.name"
+msgid "Display Publication Information"
+msgstr "வெளியீட்டு தகவலைக் காண்பி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.OpenReaderInfoWhereAmI.description"
+msgid ""
+"In the reader window, open the popup dialog that display information about "
+"the publication, and focus the keyboard on the section that shows the "
+"context of the current reading location"
+msgstr ""
+"வாசகர் சாளரத்தில், வெளியீட்டைப் பற்றிய தகவல்களைக் காண்பிக்கும் மேல்தோன்றல் "
+"உரையாடலைத் திறந்து, தற்போதைய வாசிப்பு இருப்பிடத்தின் சூழலைக் காட்டும் "
+"பிரிவில் விசைப்பலகை கவனம் செலுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.OpenReaderInfoWhereAmI.name"
+msgid "Display Publication Information, Show Reading Location"
+msgstr "வெளியீட்டு தகவலைக் காண்பி, வாசிப்பு இருப்பிடத்தைக் காண்பி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.Print.description"
+msgid "In the reader window, open the print dialog"
+msgstr "வாசகர் சாளரத்தில், அச்சு உரையாடலைத் திறக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.Print.name"
+msgid "Print"
+msgstr "அச்சிடுக"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchNext.description"
+msgid ""
+"In the reader window's search tool, go to the next search result. Note that "
+"there is an alternative keyboard shortcut to this default one"
+msgstr ""
+"ரீடர் சாளரத்தின் தேடல் கருவியில், அடுத்த தேடல் முடிவுக்குச் செல்லவும். இந்த "
+"இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchNext.name"
+msgid "Search Result Next"
+msgstr "அடுத்த தேடல் முடிவு"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchNextAlt.description"
+msgid ""
+"In the reader window's search tool, go to the next search result. This is an"
+" alternative keyboard shortcut to the default one"
+msgstr ""
+"ரீடர் சாளரத்தின் தேடல் கருவியில், அடுத்த தேடல் முடிவுக்குச் செல்லவும். இது "
+"இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchNextAlt.name"
+msgid "Search Result Next (Alternative)"
+msgstr "அடுத்த தேடல் (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchPrevious.description"
+msgid ""
+"In the reader window's search tool, go to the previous search result. Note "
+"that there is an alternative keyboard shortcut to this default one"
+msgstr ""
+"வாசகர் சாளரத்தின் தேடல் கருவியில், முந்தைய தேடல் முடிவுக்குச் செல்லவும். "
+"இந்த இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி உள்ளது என்பதை நினைவில் "
+"கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchPrevious.name"
+msgid "Search Result Previous"
+msgstr "முந்தைய தேடல் முடிவு"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchPreviousAlt.description"
+msgid ""
+"In the reader window's search tool, go to the previous search result. This "
+"is an alternative keyboard shortcut to the default one"
+msgstr ""
+"வாசகர் சாளரத்தின் தேடல் கருவியில், முந்தைய தேடல் முடிவுக்குச் செல்லவும். இது"
+" இயல்புநிலைக்கு மாற்று விசைப்பலகை குறுக்குவழி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SearchPreviousAlt.name"
+msgid "Search Result Previous (Alternative)"
+msgstr "தேடல் முடிவு முந்தைய (மாற்று)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SpeakReaderInfoWhereAmI.description"
+msgid ""
+"In the reader window, describe the context of the current reading location, "
+"using speech text compatible with screen readers"
+msgstr ""
+"வாசகர் சாளரத்தில், தற்போதைய வாசிப்பு இருப்பிடத்தின் சூழலை விவரிக்கவும், "
+"பேச்சு உரையை திரை வாசகர்களுடன் இணக்கமாகப் பயன்படுத்துங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.SpeakReaderInfoWhereAmI.name"
+msgid "Describe Reading Location (Speech)"
+msgstr "வாசிப்பு இருப்பிடத்தை விவரிக்கவும் (பேச்சு)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.ToggleBookmark.description"
+msgid ""
+"Add a new bookmark or remove an existing one if it is currently selected"
+msgstr ""
+"புதிய புக்மார்க்கைச் சேர்க்கவும் அல்லது தற்போது தேர்ந்தெடுக்கப்பட்டால் "
+"ஏற்கனவே இருக்கும் ஒன்றை அகற்றவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.ToggleBookmark.name"
+msgid "Toggle Bookmark"
+msgstr "புத்தக்குறியை மாற்று"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.ToggleReaderFullscreen.description"
+msgid ""
+"In the reader window, activate system fullscreen or restore normal window "
+"mode. Note that this is different from 'zen mode' which simplifies the user "
+"interface"
+msgstr ""
+"ரீடர் சாளரத்தில், கணினி முழுத் திரையை செயல்படுத்தவும் அல்லது சாதாரண சாளர "
+"பயன்முறையை மீட்டெடுக்கவும். இது பயனர் இடைமுகத்தை எளிதாக்கும் 'சென் பயன்முறை'"
+" இலிருந்து வேறுபட்டது என்பதை நினைவில் கொள்க"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.list.ToggleReaderFullscreen.name"
+msgid "Toggle Fullscreen"
+msgstr "மாற்று முழுத்திரை"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.loadUserJson"
+msgid "Load from user file"
+msgstr "பயனர் கோப்பிலிருந்து ஏற்றவும்"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.noShortcutFound"
+msgid "No shortcut found with this label"
+msgstr "இந்த லேபிளுடன் குறுக்குவழி எதுவும் கிடைக்கவில்லை"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.resetDefaults"
+msgid "Reset (load defaults)"
+msgstr "மீட்டமைக்கவும் (இயல்புநிலைகளை ஏற்றவும்)"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.save"
+msgid "Save"
+msgstr "சேமி"
+
+#, i18next-interpolation
+msgctxt "settings.keyboard.searchPlaceholder"
+msgid "Type to search a shortcut"
+msgstr "குறுக்குவழியைத் தேட தட்டச்சு செய்க"
+
+#, i18next-interpolation
+msgctxt "settings.language.languageChoice"
+msgid "Language"
+msgstr "மொழி"
+
+#, i18next-interpolation
+msgctxt "settings.library.enableAPIAPP"
+msgid "Activate the 'PNB' library system"
+msgstr "'PNB' நூலக அமைப்பை செயல்படுத்தவும்"
+
+#, i18next-interpolation
+msgctxt "settings.library.title"
+msgid "Access to French library accounts"
+msgstr "பிரஞ்சு நூலக கணக்குகளுக்கான அணுகல்"
+
+#, i18next-interpolation
+msgctxt "settings.note.export.applyDefaultTemplate"
+msgid "Load default template"
+msgstr "இயல்புநிலை வார்ப்புருவை ஏற்றவும்"
+
+#, i18next-interpolation
+msgctxt "settings.note.export.enableCheckbox"
+msgid "Customize the HTML template"
+msgstr "உஉகுமொ வார்ப்புருவைத் தனிப்பயனாக்குங்கள்"
+
+#, i18next-interpolation
+msgctxt "settings.note.export.overrideHTMLTemplate"
+msgid "Notes export (annotations and bookmarks)"
+msgstr "குறிப்புகள் ஏற்றுமதி (சிறுகுறிப்புகள் மற்றும் புக்மார்க்குகள்)"
+
+#, i18next-interpolation
+msgctxt "settings.session.title"
+msgid "Enable session saving"
+msgstr "அமர்வு சேமிப்பை இயக்கவும்"
+
+#, i18next-interpolation
+msgctxt "settings.tabs.appearance"
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#, i18next-interpolation
+msgctxt "settings.tabs.general"
+msgid "General"
+msgstr "பொது"
+
+#, i18next-interpolation
+msgctxt "settings.tabs.keyboardShortcuts"
+msgid "Keyboard shortcuts"
+msgstr "விசைப்பலகை குறுக்குவழிகள்"
+
+#, i18next-interpolation
+msgctxt "settings.theme.auto"
+msgid "Automatic"
+msgstr "தானியங்கி"
+
+#, i18next-interpolation
+msgctxt "settings.theme.dark"
+msgid "Dark"
+msgstr "இருண்ட"
+
+#, i18next-interpolation
+msgctxt "settings.theme.description"
+msgid "Application theme matches operating system."
+msgstr "பயன்பாட்டு கருப்பொருள் இயக்க முறைமையுடன் பொருந்துகிறது."
+
+#, i18next-interpolation
+msgctxt "settings.theme.light"
+msgid "Light"
+msgstr "ஒளி"
+
+#, i18next-interpolation
+msgctxt "settings.theme.title"
+msgid "Application Theme"
+msgstr "பயன்பாட்டு கருப்பொருள்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.mainColor"
+msgid "Main colour"
+msgstr "முக்கிய நிறம்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.maskBlockWordOutline"
+msgid "Mask Block, Word Outline"
+msgstr "மறைப்பு Block, சொல் Outline"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.maskBlockWordSolidBackground"
+msgid "Mask Block, Word Solid Background"
+msgstr "முகமூடி தொகுதி, சொல் திட பின்னணி"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.maskBlockWordUnderline"
+msgid "Mask Block, Word Underline"
+msgstr "முகமூடி தொகுதி, சொல் அடிக்கோடிட்டு"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.maskWordOutline"
+msgid "Mask, Word Outline"
+msgstr "முகமூடி, சொல் அவுட்லைன்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.maskWordSolidBackground"
+msgid "Mask, Word Solid Background"
+msgstr "முகமூடி, சொல் திட பின்னணி"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.maskWordUnderline"
+msgid "Mask, Word Underline"
+msgstr "முகமூடி, சொல் அடிக்கோடிட்டு"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.outlineWordOutline"
+msgid "Outline, Word Outline"
+msgstr "அவுட்லைன், சொல் அவுட்லைன்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.outlineWordSolidBackground"
+msgid "Outline, Word Solid Background"
+msgstr "அவுட்லைன், சொல் திட பின்னணி"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.outlineWordUnderline"
+msgid "Outline, Word Underline"
+msgstr "அவுட்லைன், சொல் அடிக்கோடிட்டு"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.preview"
+msgid "TTS highlight style preview"
+msgstr "TTS சிறப்பம்சமாக பாணி முன்னோட்டம்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.solidBackgroundWordOutline"
+msgid "Solid Background, Word Outline"
+msgstr "திடமான பின்னணி, சொல் அவுட்லைன்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.solidBackgroundWordSolidBackground"
+msgid "Solid Background, Word Solid Background"
+msgstr "திடமான பின்னணி, சொல் திட பின்னணி"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.solidBackgroundWordUnderline"
+msgid "Solid Background, Word Underline"
+msgstr "திடமான பின்னணி, சொல் அடிக்கோடிட்டு"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.style"
+msgid "TTS highlight style"
+msgstr "TTS சிறப்பம்சமாக பாணி"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.underlineWordOutline"
+msgid "Underline, Word Outline"
+msgstr "அடிக்கோடிட்டு, சொல் அவுட்லைன்"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.underlineWordSolidBackground"
+msgid "Underline, Word Solid Background"
+msgstr "அடிக்கோடிட்டு, சொல் திட பின்னணி"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.underlineWordUnderline"
+msgid "Underline, Word Underline"
+msgstr "அடிக்கோடிட்டு, சொல் அடிக்கோடிட்டு"
+
+#, i18next-interpolation
+msgctxt "tts.highlight.wordColor"
+msgid "Word colour"
+msgstr "சொல் நிறம்"
+
+#, i18next-interpolation
+msgctxt "wizard.buttons.discover"
+msgid "Discover what's new"
+msgstr "புதியதைக் கண்டறியவும்"
+
+#, i18next-interpolation
+msgctxt "wizard.buttons.goToBooks"
+msgid "Go to my publications"
+msgstr "எனது வெளியீடுகளுக்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "wizard.buttons.next"
+msgid "Next"
+msgstr "அடுத்தது"
+
+#, i18next-interpolation
+msgctxt "wizard.description.annotations"
+msgid ""
+"Highlight document text, choose style and color, attach personal notes. "
+"Create annotations in 'quick' mode to bypass the editor (you can enter text "
+"and customize styles later). For extra speed, use the 'instant' mode which "
+"creates notes immediately after highlighting document text!"
+msgstr ""
+"ஆவண உரையை முன்னிலைப்படுத்தவும், பாணி மற்றும் வண்ணத்தைத் தேர்வுசெய்யவும், "
+"தனிப்பட்ட குறிப்புகளை இணைக்கவும். எடிட்டரைத் தவிர்ப்பதற்கு 'விரைவு' "
+"பயன்முறையில் சிறுகுறிப்புகளை உருவாக்கவும் (நீங்கள் உரையை உள்ளிட்டு பின்னர் "
+"பாணிகளைத் தனிப்பயனாக்கலாம்). கூடுதல் வேகத்திற்கு, ஆவண உரையை "
+"முன்னிலைப்படுத்திய உடனேயே குறிப்புகளை உருவாக்கும் 'உடனடி' பயன்முறையைப் "
+"பயன்படுத்தவும்!"
+
+#, i18next-interpolation
+msgctxt "wizard.description.catalogs"
+msgid ""
+"Borrow publications from your local library or discover publications via "
+"OPDS feeds. Access a variety of publications from multiple sources thanks to"
+" online catalogs."
+msgstr ""
+"உங்கள் உள்ளக நூலகத்திலிருந்து வெளியீடுகளை கடன் வாங்கவும் அல்லது OPDS "
+"ஊட்டங்கள் வழியாக வெளியீடுகளைக் கண்டறியவும். நிகழ்நிலை பட்டியல்களுக்கு நன்றி "
+"பல ஆதாரங்களிலிருந்து பல்வேறு வெளியீடுகளை அணுகவும்."
+
+#, i18next-interpolation
+msgctxt "wizard.description.home"
+msgid "Thorium looks different! Let's discover what's new..."
+msgstr ""
+"தோரியம் வித்தியாசமாகத் தெரிகிறது! புதியது என்ன என்பதைக் கண்டுபிடிப்போம் ..."
+
+#, i18next-interpolation
+msgctxt "wizard.description.readingView1"
+msgid ""
+"Customize your reading and listening preferences: Thorium now offers "
+"multiple color themes for both the user interface and publication documents."
+" It is now also easier to configure 'readaloud' ebooks with synthetic speech"
+" and synchronized text/audio narration."
+msgstr ""
+"உங்கள் வாசிப்பு மற்றும் கேட்கும் விருப்பங்களைத் தனிப்பயனாக்குங்கள்: தோரியம் "
+"இப்போது பயனர் இடைமுகம் மற்றும் வெளியீட்டு ஆவணங்கள் இரண்டிற்கும் பல வண்ண "
+"கருப்பொருள்களை வழங்குகிறது. செயற்கை பேச்சு மற்றும் ஒத்திசைக்கப்பட்ட "
+"உரை/ஆடியோ விவரிப்புடன் 'மெடோலூட்' மின்புத்தகங்களை உள்ளமைப்பதும் இப்போது "
+"எளிதானது."
+
+#, i18next-interpolation
+msgctxt "wizard.description.readingView2"
+msgid ""
+"Thorium's improved user interface makes it easier to find text in "
+"publications, explore search results, go to specific pages, browse the table"
+" of contents, create bookmarks, etc. thanks to the new 'docked' panels. The "
+"fullscreen reading mode continues to offer a distraction-free environment."
+msgstr ""
+"தோரியத்தின் மேம்பட்ட பயனர் இடைமுகம் வெளியீடுகளில் உரையைக் கண்டுபிடிப்பது, "
+"தேடல் முடிவுகளை ஆராய்வது, குறிப்பிட்ட பக்கங்களுக்குச் செல்வது, உள்ளடக்க "
+"அட்டவணையை உலாவுவது, புக்மார்க்குகளை உருவாக்குவது போன்றவற்றை எளிதாக்குகிறது. "
+"புதிய 'நறுக்கப்பட்ட' பேனல்களுக்கு நன்றி. முழுத்திரை வாசிப்பு முறை "
+"கவனச்சிதறல் இல்லாத சூழலை தொடர்ந்து வழங்குகிறது."
+
+#, i18next-interpolation
+msgctxt "wizard.description.yourBooks"
+msgid ""
+"Welcome to your redesigned personal bookshelf! In the 'grid' view, easily "
+"filter by tags or find publications by keywords. In the advanced 'table' "
+"view, select and sort publications by specific authors, title, date, format,"
+" etc."
+msgstr ""
+"உங்கள் மறுவடிவமைப்பு செய்யப்பட்ட தனிப்பட்ட புத்தக அலமாரிக்கு வருக! 'கட்டம்' "
+"பார்வையில், குறிச்சொற்களால் எளிதில் வடிகட்டவும் அல்லது முக்கிய வார்த்தைகளால்"
+" வெளியீடுகளைக் கண்டறியவும். மேம்பட்ட 'அட்டவணை' பார்வையில், குறிப்பிட்ட "
+"ஆசிரியர்கள், தலைப்பு, தேதி, வடிவம் போன்றவற்றின் வெளியீடுகளைத் தேர்ந்தெடுத்து"
+" வரிசைப்படுத்துங்கள்."
+
+#, i18next-interpolation
+msgctxt "wizard.dontShow"
+msgid "Don't show again"
+msgstr "மீண்டும் காட்ட வேண்டாம்"
+
+#, i18next-interpolation
+msgctxt "wizard.tab.annotations"
+msgid "Annotations"
+msgstr "சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt "wizard.tab.catalogs"
+msgid "Catalogs"
+msgstr "பட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "wizard.tab.home"
+msgid "Home"
+msgstr "வீடு"
+
+#, i18next-interpolation
+msgctxt "wizard.tab.readingView"
+msgid "Reading view"
+msgstr "வாசிப்பு பார்வை"
+
+#, i18next-interpolation
+msgctxt "wizard.tab.yourBooks"
+msgid "Your publications"
+msgstr "உங்கள் வெளியீடுகள்"
+
+#, i18next-interpolation
+msgctxt "wizard.title.allBooks"
+msgid "All my publications"
+msgstr "எனது வெளியீடுகள் அனைத்தும்"
+
+#, i18next-interpolation
+msgctxt "wizard.title.newFeature"
+msgid "New feature: Annotations"
+msgstr "புதிய அம்சம்: சிறுகுறிப்புகள்"
+
+#, i18next-interpolation
+msgctxt "wizard.title.welcome"
+msgid "Welcome to Thorium 3.0"
+msgstr "தோரியம் 3.0 க்கு வருக"

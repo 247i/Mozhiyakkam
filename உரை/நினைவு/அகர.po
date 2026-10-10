@@ -1,0 +1,340 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: தமிழ்_பிறமொழி_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid ", "
+msgstr ", "
+
+msgid ": "
+msgstr ": "
+
+msgid "alt"
+msgstr "மாற்று"
+
+msgid "Analytics"
+msgstr "பகுப்பாய்வு"
+
+msgid "android"
+msgstr "மாந்தஉரு பொறி"
+
+msgid "animation"
+msgstr "அசைவூட்டம்"
+
+msgid "api"
+msgstr "பநிஇ"
+
+msgid "app"
+msgstr "பயன்பாடு"
+
+msgid "Application"
+msgstr "பயன்பாடு"
+
+msgid "april"
+msgstr "ப-சித்திரை"
+
+msgid "ASCII"
+msgstr "தபஅநிகு"
+
+msgid "august"
+msgstr "ஆ-ஆவணி"
+
+msgid "battery"
+msgstr "மின்கலம்"
+
+msgid "bootstrap"
+msgstr "துவக்கபட்டா"
+
+msgid "budget"
+msgstr "நிதித்திட்டம்"
+
+msgid "calendar"
+msgstr "நாள்காட்டி"
+
+msgid "cancel"
+msgstr "நீக்கறல்"
+
+msgid "ci"
+msgstr "தொஒ"
+
+msgid "Click"
+msgstr "சொடுக்கு"
+
+msgid "clipboard"
+msgstr "இடைநிலைப் பலகை"
+
+msgid "cpu"
+msgstr "மைசெபி"
+
+msgid "chromas"
+msgstr "நிறமிகள்"
+
+msgid "Cromeplugin"
+msgstr "வண்ணசொருகி"
+
+msgid "csv"
+msgstr "காபிம"
+
+msgid "ctrl"
+msgstr "கட்டுப்பாடு"
+
+msgid "Dashboard"
+msgstr "முகப்பலகை"
+
+msgid "december"
+msgstr "கா-மார்கழி"
+
+msgid "editor"
+msgstr "திருத்தி"
+
+msgid "esc"
+msgstr "தப்பி"
+
+msgid "Feature"
+msgstr "நற்பொருத்தம்"
+
+msgid "february"
+msgstr "தை-மாசி"
+
+msgid "frames"
+msgstr "சட்டங்கள்"
+
+msgid "FTP"
+msgstr "கோபநெ"
+
+msgid "Gallery"
+msgstr "காட்சியகம்"
+
+msgid "gettext"
+msgstr "உரைபெறு"
+
+msgid "Gif"
+msgstr "வபவ"
+
+msgid "gitea"
+msgstr "அறிவிலிதேநீர்"
+
+msgid "gitee"
+msgstr "அறிவிலிஈ"
+
+msgid "Graphics"
+msgstr "வரைகலை"
+
+msgid "Hotfix"
+msgstr "சூடானதிருத்தம்"
+
+msgid "html"
+msgstr "உஉகுமொ"
+
+msgid "http"
+msgstr "உஉபநெ"
+
+msgid "i18n"
+msgstr "ப18ல்"
+
+msgid "ini"
+msgstr "இனி"
+
+msgid "integration"
+msgstr "ஒருங்கிணைப்பு"
+
+msgid "ios"
+msgstr "ஐஇமு"
+
+msgid "ip"
+msgstr "இநெ"
+
+msgid "january"
+msgstr "மா-தை"
+
+msgid "jquery"
+msgstr "சேவினாவல்"
+
+msgid "json"
+msgstr "சேதொபொகு"
+
+msgid "july"
+msgstr "ஆ-ஆடி"
+
+msgid "june"
+msgstr "வை-ஆனி"
+
+msgid "label"
+msgstr "சிட்டை"
+
+msgid "labels"
+msgstr "சிட்டைகள்"
+
+msgid "march"
+msgstr "மா-பங்குனி"
+
+msgid "Markdown"
+msgstr "குறைகுறி"
+
+msgid "n/a"
+msgstr "இதற்கில்லை"
+
+msgid "november"
+msgstr "ஐ-கார்த்திகை"
+
+msgid "october"
+msgstr "பு-ஐப்பசி"
+
+msgid "openssh"
+msgstr "திறந்தபாஓடு"
+
+msgid "Pageant"
+msgstr "அணிவகுப்பு"
+
+msgid "pixel"
+msgstr "படப்புள்ளி"
+
+msgid "pixels"
+msgstr "படப்புள்ளிகள்"
+
+msgid "popup"
+msgstr "மேல்தோன்றல்"
+
+msgid "possible"
+msgstr "நிகழக்கூடிய"
+
+msgid "Proxy"
+msgstr "பதிலாள்"
+
+msgid "PuTTY"
+msgstr "மக்கு"
+
+msgid "qt"
+msgstr "கியுடி"
+
+msgid "recorder"
+msgstr "பதிப்பான்"
+
+msgid "regex"
+msgstr "வழக்கவெளி"
+
+msgid "resolution"
+msgstr "பகுத்தல்"
+
+msgid "ScreenToGif"
+msgstr "திரையிலிருந்துவபவ"
+
+msgid "script"
+msgstr "கைஉரை"
+
+msgid "september"
+msgstr "ஆ-புரட்டாசி"
+
+msgid "server"
+msgstr "சேவையகம்"
+
+msgid "servers"
+msgstr "சேவையகங்கள்"
+
+msgid "sFTP"
+msgstr "பாகோபநெ"
+
+msgid "sketchboard"
+msgstr "ஓவியப் பலகை"
+
+msgid "shift"
+msgstr "உயர்த்து"
+
+msgid "sphinx"
+msgstr "சூரரிமாச்சிலை"
+
+msgid "ssh"
+msgstr "பாஓடு"
+
+msgid "SSL"
+msgstr "பாகுஅ"
+
+msgid "sso"
+msgstr "ஒருகைஉள்"
+
+msgid "stylesheet"
+msgstr "பாணிதாள்"
+
+msgid "swag"
+msgstr "ஈட்டம்"
+
+msgid "teamlead"
+msgstr "குழுத்தலைவர்"
+
+msgid "Theme"
+msgstr "கருப்பொருள்"
+
+msgid "timer"
+msgstr "நேரக்கண்காணி"
+
+msgid "timesheet"
+msgstr "நேரத்தாள்"
+
+msgid "TLS"
+msgstr "பஅபா"
+
+msgid "TTL"
+msgstr "வாழ்நேரம்"
+
+msgid "tmserver"
+msgstr "மொநிசேவையகம்"
+
+msgid "Tweet"
+msgstr "கீச்சு"
+
+msgid "ui"
+msgstr "இடைமுகம்"
+
+msgid "united"
+msgstr "ஒன்றுபட்டது"
+
+msgid "url"
+msgstr "முகவரி"
+
+msgid "VShop"
+msgstr "வீகடை"
+
+msgid "webcam"
+msgstr "வலைபடக்கருவி"
+
+msgid "weblate"
+msgstr "வலைபெயர்ப்பு"
+
+msgid "widget"
+msgstr "நிரல்பலகை"
+
+msgid "widgets"
+msgstr "நிரல்பலகைகள்"
+
+msgid "wxsmith"
+msgstr "சாஃகொல்லன்"
+
+msgid "wxssmith"
+msgstr "சாஃகொகொல்லன்"
+
+msgid "wxwidgets"
+msgstr "சாஃநிரல்பலகைகள்"
+
+msgid "xliff"
+msgstr "ஃலிப்ப்"
+
+msgid "x"
+msgstr "ஒ"
+
+msgid "y"
+msgstr "ஓ"
+
+msgid "z"
+msgstr "ஔ"
+
+

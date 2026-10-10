@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: மலர்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "african marigold"
+msgstr "துலுக்கமல்லிகை"
+
+msgid "artabotrys uncinatus"
+msgstr "மனோரஞ்சிதம்"
+
+msgid "bachelor's buttons"
+msgstr "வாடாமல்லி"
+
+msgid "cananga odorata"
+msgstr "கருமுகை"
+
+msgid "canangabaum"
+msgstr "மனோரஞ்சிதம"
+
+msgid "climbing ylang ylang"
+msgstr "கருமுகை"
+
+msgid "crape jasmine"
+msgstr "நந்தியாவட்டை"
+
+msgid "daffodil"
+msgstr "பேரரளி"
+
+msgid "dahlia"
+msgstr "சீமையல்லி"
+
+msgid "daisy"
+msgstr "வெளிராதவன், வெளிராதவப்பூ"
+
+msgid "ervatamia divaricata"
+msgstr "நந்தியாவட்டை"
+
+msgid "ficus glomata"
+msgstr "அத்திப்பூ"
+
+msgid "frangipanni"
+msgstr "பெருங்கள்ளி"
+
+msgid "gloriosa lily"
+msgstr "கார்த்திகைப்பூ"
+
+msgid "gomphrena globosa"
+msgstr "வாடாமல்லி"
+
+msgid "herium odorum"
+msgstr "அலரி"
+
+msgid "hibiscus"
+msgstr "செம்பருத்தி"
+
+msgid "lavandula augustifolia"
+msgstr "சுகந்தி"
+
+msgid "lavender"
+msgstr "சுகந்தி"
+
+msgid "lily"
+msgstr "அல்லி"
+
+msgid "marigold"
+msgstr "செண்டிகைப்பூ"
+
+msgid "memecylon tinctorium"
+msgstr "காசாம்பூ"
+
+msgid "narcissus"
+msgstr "பேரரளி"
+
+msgid "nyphaea lotus"
+msgstr "ஆம்பல்"
+
+msgid "oleander"
+msgstr "அலரி"
+
+msgid "periwinkle"
+msgstr "பட்டிப்பூ, நித்தியக்கல்யாணி"
+
+msgid "rafflesia"
+msgstr "பிணவல்லி"
+
+msgid "safflower"
+msgstr "குசம்பப்பூ"
+
+msgid "shoeflower"
+msgstr "செம்பருத்தி"
+
+msgid "sunflower"
+msgstr "பொழுதுவணங்கி"
+
+msgid "tagetes erecta"
+msgstr "துலுக்கமல்லிகை"
+
+msgid "tribulus terrestris"
+msgstr "நெருஞ்சி"
+
+msgid "water lily"
+msgstr "ஆம்பல்"
+
+msgid "water water lily"
+msgstr "வெள்ளாம்பல்"
+
+msgid "white orchid"
+msgstr "வெள்ளை மந்தாரை"
+
+msgid "ylang ylang"
+msgstr "மனோரஞ்சிதம்"
+
+msgid "zinnia"
+msgstr "நிறவாதவன், நிறவாதவப்பூ"

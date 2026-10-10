@@ -1,0 +1,1597 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: வேதியியல்_1.0\n"
+"Report-Msgid-Bugs-To: anishprabu.t@gmail.com\n"
+"POT-Creation-Date: 2054-01-01 59:59+0530\n"
+"PO-Revision-Date: 2055-01-01 59:59+0530\n"
+"Last-Translator: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language-Team: தமிழ்நேரம் <https://TamilNeram.github.io>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "acceptor"
+msgstr "ஏற்பி"
+
+msgid "accumulator"
+msgstr "சேமக்கலம்"
+
+msgid "acetal"
+msgstr "காடி மதுசாரம்"
+
+msgid "acetaldehyde"
+msgstr "இருக்கொள்ளிய நீரகநீங்கியம்"
+
+msgid "acetate"
+msgstr "காடியம்"
+
+msgid "acetone"
+msgstr "இரட்டை ஒருக்கொள்ளியக் கொழுக்காடியம்"
+
+msgid "acetylene"
+msgstr "முப்பிணை இருக்கொள்ளியம்"
+
+msgid "acid"
+msgstr "அமிலம்"
+
+msgid "acidimetry"
+msgstr "அமில அளவியல்"
+
+msgid "acrylic"
+msgstr "ஆக்கிர"
+
+msgid "actinium"
+msgstr "கதிர்வினைமம், நீலமம்"
+
+msgid "acyl"
+msgstr "அமிலமம்"
+
+msgid "acylation"
+msgstr "அமிலமவேற்றம்"
+
+msgid "adsorbsion"
+msgstr "பரப்புக்கவர்ச்சி"
+
+msgid "alcohol"
+msgstr "மதுசாரம்"
+
+msgid "aldehyde"
+msgstr "நீரகநீங்கியம்"
+
+msgid "aliphatic"
+msgstr "கொழுப்பார்ந்தம்"
+
+msgid "alkaloid"
+msgstr "காரப்போலி"
+
+msgid "alkane"
+msgstr "ஒருப்பிணைக்கொள்ளியம்"
+
+msgid "alkene"
+msgstr "இருப்பிணைக்கொள்ளியம்"
+
+msgid "alkene family"
+msgstr "இருப்பிணை இருக்கொள்ளியவினங்கள் "
+
+msgid "alkyl"
+msgstr "கொள்ளியம்"
+
+msgid "alkyne"
+msgstr "முப்பிணைக்கொள்ளியம்"
+
+msgid "allene (class of hydrocarbons)"
+msgstr "தொடர் ஈரிருப்பிணைக்கொள்ளியம்"
+
+msgid "allene (compound)"
+msgstr "(1,2) ஈரிருப்பிணை முக்கொள்ளியம்"
+
+msgid "allotrope"
+msgstr "புறவேற்றுரு"
+
+msgid "allotropy"
+msgstr "புறவேற்றுமை"
+
+msgid "aluminium"
+msgstr "அளமியம்"
+
+msgid "aluminosilicate"
+msgstr "அளமியமண்ணியம், அளமண்ணியம்"
+
+msgid "americium"
+msgstr "அமரகம்"
+
+msgid "amethyst"
+msgstr "செவ்வந்திக்கல்"
+
+msgid "amide"
+msgstr "நீரகப்பரியம்"
+
+msgid "amine"
+msgstr "நவச்சியம்"
+
+msgid "amino"
+msgstr "நவச்சியம்"
+
+msgid "ammonium"
+msgstr "நவச்சாரியம்"
+
+msgid "amorphous solid"
+msgstr "பொடிமம்"
+
+msgid "anabolism"
+msgstr "வளர்மாற்றம்"
+
+msgid "anhydride"
+msgstr "நீரிலி"
+
+msgid "aniline"
+msgstr "அவுரியுருந்தி"
+
+msgid "anion"
+msgstr "நேர்மின்னூட்டணு"
+
+msgid "anneal"
+msgstr "சீராற்று"
+
+msgid "annealing"
+msgstr "சீராற்றல்"
+
+msgid "antimony"
+msgstr "கருநிமிளை"
+
+msgid "aramid"
+msgstr "கடுநார்"
+
+msgid "argon"
+msgstr "இலியன், மடியன்"
+
+msgid "aromatic"
+msgstr "நறுமணம"
+
+msgid "arsenic"
+msgstr "பிறாக்காண்டம்"
+
+msgid "arsenide"
+msgstr "பிறாக்காண்டம்"
+
+msgid "arsenite"
+msgstr "மூவுயிரகப்பிறாக்காண்டம்"
+
+msgid "aryl"
+msgstr "மணமம்"
+
+msgid "asparagine"
+msgstr "கிளவரியம்"
+
+msgid "aspartame"
+msgstr "மதக்கிளவரியம்"
+
+msgid "aspartic"
+msgstr "கிளவரியம்"
+
+msgid "asphalt"
+msgstr "நிலக்கீல்"
+
+msgid "astatine"
+msgstr "தேய்தன், நொறுங்கிமம்"
+
+msgid "atom"
+msgstr "அணு"
+
+msgid "azide"
+msgstr "முத்தழைமம்"
+
+msgid "azo"
+msgstr "இலவணியம்"
+
+msgid "band"
+msgstr "பட்டை"
+
+msgid "barium"
+msgstr "பாரவியம், பேரீயம், மங்கிமம்"
+
+msgid "base"
+msgstr "காரம்"
+
+msgid "benzal"
+msgstr "தூபடை"
+
+msgid "benzaldehyde"
+msgstr "தூபிய நீரகநீங்கியம்"
+
+msgid "benzene"
+msgstr "தூபியம்"
+
+msgid "benzo"
+msgstr "தூபொடை"
+
+msgid "benzoate"
+msgstr "தூபியவீருயிரகக்கரிமம்"
+
+msgid "benzoic"
+msgstr "தூபிவீருயிரகக்கரிமநீரகம்"
+
+msgid "benzyl"
+msgstr "தூபிடை"
+
+msgid "berkelium"
+msgstr "விழுக்கலிழியம்"
+
+msgid "beryl"
+msgstr "வருணப்பாறை"
+
+msgid "berylium"
+msgstr "வெளிரியம்"
+
+msgid "berylium"
+msgstr "வெளிரியம், குருகம்"
+
+msgid "bibenzyl"
+msgstr "இருதூபிடை"
+
+msgid "biphenol"
+msgstr "இருமக்கியம் "
+
+msgid "biphenyl"
+msgstr "இருமக்கிடை பிற கரிமச்சேர்மங்கள்"
+
+msgid "bismuth"
+msgstr "நிமிளை"
+
+msgid "bitumen"
+msgstr "நிலக்கீல்"
+
+msgid "black lead"
+msgstr "காரீயம்"
+
+msgid "bluevitreol"
+msgstr "நீலத்துத்தம்"
+
+msgid "bohrium"
+msgstr "புறவியம்"
+
+msgid "bond"
+msgstr "பிணைப்பு"
+
+msgid "borax"
+msgstr "வெண்காரம், பொறிகாரம்"
+
+msgid "boric"
+msgstr "கார்மம்"
+
+msgid "boride"
+msgstr "கார்மம்"
+
+msgid "boron"
+msgstr "கார்மம்"
+
+msgid "bromide"
+msgstr "நெடியம்"
+
+msgid "bromine"
+msgstr "நெடியம், செந்நீர்மம்"
+
+msgid "bromoform"
+msgstr "ஒருக்கொள்ளிய முன்னெடியம், முன்னெடியவொருக்கொள்ளியம்"
+
+msgid "buckminsterfullerene-c60"
+msgstr "அறுபதாங்கோளக்கரிமம்"
+
+msgid "buckminsterfullerene-c70"
+msgstr "எழுபதாங்கோளக்கரிமம்"
+
+msgid "buckyball"
+msgstr "கோளக்கரிமம்"
+
+msgid "butadiene"
+msgstr "(1,3) ஈரிருப்பிணை நாற்கொள்ளியம்"
+
+msgid "butane"
+msgstr "ஒருப்பிணை நாற்கொள்ளியம்"
+
+msgid "butene"
+msgstr "இருப்பிணை நாற்கொள்ளியம்"
+
+msgid "butyl"
+msgstr "நாற்கொள்ளிய"
+
+msgid "butyne"
+msgstr "முப்பிணை நாற்கொள்ளியம்"
+
+msgid "by-product"
+msgstr "துணை வினைபொருள்"
+
+msgid "cadmium"
+msgstr "வெண்ணீலிமம், நீலீயம்"
+
+msgid "caffeine"
+msgstr "வெறியம்"
+
+msgid "calcium"
+msgstr "சுண்ணவியம்"
+
+msgid "californium"
+msgstr "கலிழ்வெள்ளீயம்"
+
+msgid "carbide"
+msgstr "கரிமம்"
+
+msgid "carbon"
+msgstr "கரிமம்"
+
+msgid "carbon-14"
+msgstr "பதினாறாங்கரிமம்"
+
+msgid "carbonate"
+msgstr "மூவுயிரகக்கரிமம்"
+
+msgid "carbonic"
+msgstr "கரியம்"
+
+msgid "carbonyl"
+msgstr "உயிரகக்கரிமம்"
+
+msgid "carboxyl"
+msgstr "ஈருயிரகக்கரிமநீரகம்"
+
+msgid "carboxylate"
+msgstr "ஈருயிரகக்கரிமம்"
+
+msgid "carboxylic"
+msgstr "ஈருயிரகக்கரிமநீரகம்"
+
+msgid "catabolism"
+msgstr "சிதைமாற்றம்"
+
+msgid "catalyst"
+msgstr "வினையூக்கி"
+
+msgid "cellulose"
+msgstr "மரநார்"
+
+msgid "ceramic"
+msgstr "வனைபொருள்"
+
+msgid "cerium"
+msgstr "சிற்றீயம், சீரீயம், கருவெள்ளி"
+
+msgid "cesium"
+msgstr "வெண்ணிதள், சீரிலியம்"
+
+msgid "chain"
+msgstr "சங்கிலி"
+
+msgid "chemical decomposition"
+msgstr "வேதிச் சிதைவு"
+
+msgid "chemical equilibrium"
+msgstr "வேதிச் சமநிலை"
+
+msgid "chemotherapy"
+msgstr "வேதிச்சிகிச்சை"
+
+msgid "chloral(dehyde)"
+msgstr "பாசிக நீரகநீங்கியம்"
+
+msgid "chloride"
+msgstr "பாசிகம்"
+
+msgid "chlorination"
+msgstr "பாசிகமூட்டல்"
+
+msgid "chlorine"
+msgstr "பாசிகம்"
+
+msgid "chloro dimethyl benzene"
+msgstr "பாசிக இரட்டைக் கொள்ளியத் தூபியம்"
+
+msgid "chloro ethylene"
+msgstr "பாசிகவிருப்பிணை இருக்கொள்ளியம்"
+
+msgid "chloro methyl benzene"
+msgstr "பாசிக ஒருக்கொள்ளியத் தூபியம்"
+
+msgid "chlorobenzene"
+msgstr "பாசிகத்தூபியம்"
+
+msgid "chloroflourocarbon"
+msgstr "பாசிகவினைவியக்கரிமம்"
+
+msgid "chloroflourohydrocarbon"
+msgstr "பாசிகவினைவியநீரகக்கரிமம்"
+
+msgid "chloroform"
+msgstr "முப்பாசிகவொருக்கொள்ளியம்"
+
+msgid "chloromethane"
+msgstr "பாசிகவொருக்கொள்ளியம்"
+
+msgid "chlorophyll"
+msgstr "பச்சையம்"
+
+msgid "chloroxylene"
+msgstr "பாசிகமரநீர்"
+
+msgid "chromatography"
+msgstr "நிறவியல்"
+
+msgid "chromium"
+msgstr "நீலிரும்பு, குருமம்"
+
+msgid "cinchonine"
+msgstr "சுரப்பட்டைக்காரம்"
+
+msgid "cis"
+msgstr "ஒருப்பக்க"
+
+msgid "citric"
+msgstr "எலுமிச்சம்புளி"
+
+msgid "coagulation"
+msgstr "திரளுதல்"
+
+msgid "coal tar"
+msgstr "நிலக்கரிக்கீல்"
+
+msgid "cobalt"
+msgstr "மென்வெள்ளி, வண்ணிமம்"
+
+msgid "coenzyme"
+msgstr "துணைநொதியம்"
+
+msgid "complex"
+msgstr "அணைவு"
+
+msgid "compound"
+msgstr "சேர்மம்"
+
+msgid "compounds"
+msgstr "இனம்"
+
+msgid "conduction"
+msgstr "கடத்தும்"
+
+msgid "copernicium"
+msgstr "விழுச்செப்பு, விழுச்செம்பு, விழுத்தாமிரம்"
+
+msgid "copper"
+msgstr "செம்பு, செப்பு, தாமிரம்"
+
+msgid "covalent"
+msgstr "ஒருவலு"
+
+msgid "cream of tartar"
+msgstr "திராக்கவுப்பு"
+
+msgid "cumene"
+msgstr "சீரகவீனி"
+
+msgid "cuminole"
+msgstr "சீரகநெய்"
+
+msgid "cyanamide"
+msgstr "இருத்தழைமக்கரிமம்"
+
+msgid "cyanate"
+msgstr "உயிரகக்ரகரிமத்தழைமம்"
+
+msgid "cyanide"
+msgstr "தழைமக்கரிமம்"
+
+msgid "cyano"
+msgstr "தழைமக்கரிமம்"
+
+msgid "cyanogen"
+msgstr "கரிமம் தழைமம் "
+
+msgid "cyclobutadine"
+msgstr "வளைய ஈரிருப்பிணை நாற்கொள்ளியம்"
+
+msgid "cyclomin"
+msgstr "மீனஞ்சம்"
+
+msgid "cyclopentane"
+msgstr "வளையவொருப்பிணை ஐங்கொள்ளியம்"
+
+msgid "cyclopentene"
+msgstr "வளையவிருப்பிணை ஐங்கொள்ளியம்"
+
+msgid "cyclosilicate"
+msgstr "வளையமண்ணியவீனி"
+
+msgid "cymene"
+msgstr "சீரகவியம்"
+
+msgid "darmstadtium"
+msgstr "நொடியன்"
+
+msgid "diene"
+msgstr "ஈரிருப்பிணைக்கொள்ளியம்"
+
+msgid "diesel"
+msgstr "வளியெண்ணை"
+
+msgid "dihydride"
+msgstr "இருநீரகம்"
+
+msgid "dimethyl"
+msgstr "இரட்டை ஒருக்கொள்ளியம்"
+
+msgid "diol"
+msgstr "இரமதுசாரம்"
+
+msgid "dioxide"
+msgstr "ஈருயிரகம்"
+
+msgid "donor"
+msgstr "வழங்கி"
+
+msgid "double"
+msgstr "இரட்டை"
+
+msgid "doublebond"
+msgstr "இருப்பிணை"
+
+msgid "dubnium"
+msgstr "துப்பினியம்"
+
+msgid "ductile"
+msgstr "நீள்மையுடைய"
+
+msgid "ductility"
+msgstr "நீள்மை"
+
+msgid "dye"
+msgstr "சாயம்"
+
+msgid "dynamite"
+msgstr "களிக்கரை வெடி"
+
+msgid "dysprosium"
+msgstr "கலிழியம், உறிமம்"
+
+msgid "einsteinium"
+msgstr "ஈந்தியம்"
+
+msgid "emulsion"
+msgstr "பால்மம்"
+
+msgid "epoxide"
+msgstr "ஆடைவுயிரகம்"
+
+msgid "erbium"
+msgstr "எல்லிரும்பு"
+
+msgid "ergot"
+msgstr "சோளக்காளான்"
+
+msgid "ester"
+msgstr "அத்தர்"
+
+msgid "esterification"
+msgstr "அத்தராதல்"
+
+msgid "ethanal"
+msgstr "இருக்கொள்ளிய நீரகநீங்கியம்"
+
+msgid "ethane"
+msgstr "ஒருப்பிணை இருக்கொள்ளியம்"
+
+msgid "ethanoyl"
+msgstr "இருக்கொள்ளியவமிலம்"
+
+msgid "ethene"
+msgstr "இருப்பிணை இருக்கொள்ளியம்"
+
+msgid "ether"
+msgstr "அமுதியம்"
+
+msgid "ethyl"
+msgstr "இருக்கொள்ளியம்"
+
+msgid "ethylene"
+msgstr "இருப்பிணை இருக்கொள்ளியம்"
+
+msgid "ethylene chlorotrifloroethylene (ectfe)"
+msgstr ""
+"அரியிலம், (இருப்பிணை) இருக்கொள்ளிய பாசிக மூவினைவிய (இருப்பிணை) "
+"இருக்கொள்ளியம் "
+
+msgid "ethyne"
+msgstr "முப்பிணை இருக்கொள்ளியம்"
+
+msgid "europium"
+msgstr "அரியவியம், சிறும்பொன், சிறுந்தங்கம்"
+
+msgid "feldspar"
+msgstr "அளமண்ணியக்கல்"
+
+msgid "fermium"
+msgstr "வெளுகன்"
+
+msgid "ferric"
+msgstr "மூவிணை இரும்பு"
+
+msgid "ferrite"
+msgstr "இரும்பியம்"
+
+msgid "ferrous"
+msgstr "ஈவிணை இரும்பு"
+
+msgid "flerovium"
+msgstr "விழுவெள்ளி"
+
+msgid "flouride"
+msgstr "வினைவியவினம்"
+
+msgid "flourine"
+msgstr "வினைவியம், பைம்மஞ்சள்வளி"
+
+msgid "flouroform"
+msgstr "ஒருக்கொள்ளிய மூவினைவியம்"
+
+msgid "formaldehyde"
+msgstr "ஒருக்கொள்ளிய நீரகநீங்கியம்"
+
+msgid "formyl"
+msgstr "ஒருக்கொள்ளியவமிலம்"
+
+msgid "formylation"
+msgstr "நீரகநீங்கியவேற்றம், ஒருக்கொள்ளியவலிமவேற்றம்"
+
+msgid "francium"
+msgstr "வெடியிதள்"
+
+msgid "fructose"
+msgstr "பழச்சர்க்கரை"
+
+msgid "fullerene"
+msgstr "கூடுக்கரிமம்"
+
+msgid "furan"
+msgstr "தவிடியம்"
+
+msgid "gadolinium"
+msgstr "காந்தவியம், காந்தனிமம்"
+
+msgid "gallium"
+msgstr "பொன்னிதள்"
+
+msgid "gas"
+msgstr "வளிமம்"
+
+msgid "gel"
+msgstr "களிமம்"
+
+msgid "germanium"
+msgstr "சாம்பலியம்"
+
+msgid "glucitol"
+msgstr "மாச்சர்க்கரைமதுசாரம்"
+
+msgid "glucose"
+msgstr "மாச்சர்க்கரை"
+
+msgid "glutamate"
+msgstr "மதவீருயிரகக்கரிமம்"
+
+msgid "glutamic"
+msgstr "மதவீருயிரகக்கரிமநீரக"
+
+msgid "gluten"
+msgstr "மதம்"
+
+msgid "glycerine"
+msgstr "களிக்கரை"
+
+msgid "glycerol"
+msgstr "களிக்கரை"
+
+msgid "glycol"
+msgstr "இருமதுசாரம்"
+
+msgid "graphite"
+msgstr "காரீயம், எழுதுகரி"
+
+msgid "greenvitriol"
+msgstr "பச்சைத்துத்தம்"
+
+msgid "guaicol"
+msgstr "குவாட்டிநெய்"
+
+msgid "hafnium"
+msgstr "அவிரியம்"
+
+msgid "halar"
+msgstr "அரியிலம்"
+
+msgid "halide"
+msgstr "உப்பீனியினம்"
+
+msgid "hassium"
+msgstr "அசையன்"
+
+msgid "helium"
+msgstr "பரிதியம், எல்லியம், கதிர்வளி"
+
+msgid "highdensity"
+msgstr "அடர்"
+
+msgid "holmium"
+msgstr "ஒளிமியம்"
+
+msgid "hydride"
+msgstr "நீரகம்"
+
+msgid "hydrocarbon"
+msgstr "நீரகக்கரிமம்"
+
+msgid "hydrogen"
+msgstr "நீரகம்"
+
+msgid "hydroxide"
+msgstr "நீரகவுயிரகம்"
+
+msgid "hydroxyl"
+msgstr "நீரகவுயிரகம்"
+
+msgid "hygroscopic"
+msgstr "நீர்க்கவரும்"
+
+msgid "hygroscopy"
+msgstr "நீர்க்கவர்ச்சி"
+
+msgid "ideal"
+msgstr "கருத்தியல்"
+
+msgid "incandescence"
+msgstr "வெள்ளொளிர்வு"
+
+msgid "indane"
+msgstr "ஒருப்பிணை இறஞ்சியம்"
+
+msgid "indene"
+msgstr "இருப்பிணை இறஞ்சியம்"
+
+msgid "indicator"
+msgstr "காட்டி"
+
+msgid "indium"
+msgstr "அவுரியம், நீலவரிமம்"
+
+msgid "inert"
+msgstr "மந்த"
+
+msgid "ingot"
+msgstr "பாளம்"
+
+msgid "inhibitor"
+msgstr "வினைத்தடுப்பி"
+
+msgid "inosilicate"
+msgstr "சங்கிலி மண்ணியவீனி"
+
+msgid "insulin"
+msgstr "கணையநீர்"
+
+msgid "inter-halogen"
+msgstr "இடையுப்பீனிம்"
+
+msgid "iodide"
+msgstr "நைலம்"
+
+msgid "iodine"
+msgstr "நைலம்"
+
+msgid "iodoform"
+msgstr "ஒருக்கொள்ளிய முன்னைலம், முன்னைலவொருக்கொள்ளியம்"
+
+msgid "ion"
+msgstr "மின்னூட்டணு"
+
+msgid "ionic"
+msgstr "மின்னூட்டணுவியம்"
+
+msgid "ions"
+msgstr "மின்னூட்டணுக்கள்"
+
+msgid "iridium"
+msgstr "உறுதியம், உறுதிமம்"
+
+msgid "isobutane"
+msgstr "ஒத்தம் ஒருப்பிணை நாற்கொள்ளியம்"
+
+msgid "isobutyl"
+msgstr "ஒத்தம் நாற்கொள்ளிய"
+
+msgid "isolated"
+msgstr "தனித்த"
+
+msgid "isomer"
+msgstr "மாற்றியம்"
+
+msgid "isotope"
+msgstr "ஓரிடமி"
+
+msgid "isotopism"
+msgstr "ஓரிடமை"
+
+msgid "ivory black"
+msgstr "தந்தக்கரி"
+
+msgid "jelly"
+msgstr "திடக்கூழ், திண்மக்கூழ்"
+
+msgid "ketone"
+msgstr "கொழுக்காடியம்"
+
+msgid "ketose"
+msgstr "காடியச்சர்க்கரை"
+
+msgid "kevlar"
+msgstr "கடுமம்"
+
+msgid "krypton"
+msgstr "மறைவியம்"
+
+msgid "labelled"
+msgstr "குறியிட்ட"
+
+msgid "lanoline"
+msgstr "கம்பளெண்ணை"
+
+msgid "lanthanum"
+msgstr "மாய்மம், ஊக்கிமம்"
+
+msgid "lawrencium"
+msgstr "உலரியம்"
+
+msgid "lead"
+msgstr "ஈயம், அதங்கம்"
+
+msgid "ligand"
+msgstr "ஈந்தணைவி"
+
+msgid "ligands"
+msgstr "ஈந்தணைவிகள்"
+
+msgid "lignite"
+msgstr "பழுப்பு நிலக்கரி"
+
+msgid "limestone"
+msgstr "சுண்ணாம்புக்கல்"
+
+msgid "linoleum"
+msgstr "சிறுசணலியத்திண்மம்"
+
+msgid "linotype"
+msgstr "வரியச்சு"
+
+msgid "linoxyn"
+msgstr "சிறுசணலியம்"
+
+msgid "lipid"
+msgstr "கொழுமியம்"
+
+msgid "lipoprotein"
+msgstr "கொழுமியப்புரதம்"
+
+msgid "lithium"
+msgstr "மென்னியம், கல்லம்"
+
+msgid "litmus"
+msgstr "பாசிச்சாயம்"
+
+msgid "litmuspaper"
+msgstr "பாசிச்சாயத்தாள்"
+
+msgid "livermorium"
+msgstr "இளவமியம்"
+
+msgid "lonepair"
+msgstr "தனியிணை"
+
+msgid "lowdensity"
+msgstr "ஐது"
+
+msgid "lutetium"
+msgstr "மிளிரியம், மஞ்சிமம்"
+
+msgid "lysergic"
+msgstr "சோளக்காளான் பிளவு"
+
+msgid "lysergic acid diethylamide"
+msgstr "சோளக்காளான் ஈரிருக்கொள்ளிய நீரகப்பரியம், சோளக்காளான் போதை"
+
+msgid "magnesium"
+msgstr "வெளிமம்"
+
+msgid "malleability"
+msgstr "தகடுமை"
+
+msgid "malleable"
+msgstr "தகடுமையுடைய"
+
+msgid "manganese"
+msgstr "மங்கனம்"
+
+msgid "meitnerium"
+msgstr "மறுவியம்"
+
+msgid "mendelevium"
+msgstr "மைந்தியம்"
+
+msgid "menthol"
+msgstr "கற்பூரியம்"
+
+msgid "metal"
+msgstr "மாழை"
+
+msgid "metal acetylide"
+msgstr "முப்பிணை மாழைக்கொள்ளியம்"
+
+msgid "metalloid"
+msgstr "மாழைப்போலி"
+
+msgid "methanal"
+msgstr "ஒருக்கொள்ளிய நீரகநீங்கியம்"
+
+msgid "methane"
+msgstr "கொள்ளிவளி, ஒருப்பிணை ஒருக்கொள்ளியம்"
+
+msgid "methanoyl"
+msgstr "ஒருக்கொள்ளியவமிலம்"
+
+msgid "methenol"
+msgstr "ஒருக்கொள்ளிய மதுசாரம்"
+
+msgid "methenoyl"
+msgstr "ஒருக்கொள்ளியவமிலம்"
+
+msgid "methyl"
+msgstr "ஒருக்கொள்ளியம்"
+
+msgid "mineral"
+msgstr "ஈனி"
+
+msgid "molecule"
+msgstr "மூலக்கூறு"
+
+msgid "monosilane"
+msgstr "ஒருப்பிணை ஒருமண்ணியநீரகம்"
+
+msgid "monosodium"
+msgstr "ஓருவர்மம்"
+
+msgid "monoxide"
+msgstr "ஓருயிரகம்"
+
+msgid "moscovium"
+msgstr "மிகுவியம், மிகைவியம்"
+
+msgid "mu-metal"
+msgstr "ஊடாமாழை"
+
+msgid "mustard"
+msgstr "கடுகு"
+
+msgid "napalm"
+msgstr "பொடிக்கட்டி"
+
+msgid "naphthalene"
+msgstr "கீல்ச்சூடன், அந்துநஞ்சம்"
+
+msgid "neodymium"
+msgstr "இரட்டியம், புதுமஞ்சை"
+
+msgid "neoflon"
+msgstr "புதுவினையம்"
+
+msgid "neon"
+msgstr "ஒளிரியம், புத்தொளிரி"
+
+msgid "neptunium"
+msgstr "நெருப்பியம், சேண்மிமம்"
+
+msgid "nesosilicate"
+msgstr "தனி மண்ணியவீனி"
+
+msgid "nickel"
+msgstr "வன்வெள்ளி, வெள்ளையம்"
+
+msgid "nicotine"
+msgstr "புகைநஞ்சம்"
+
+msgid "nihonium"
+msgstr "நகுவியம்"
+
+msgid "niobium"
+msgstr "அருமிமம், களங்கன்"
+
+msgid "nitrate"
+msgstr "மூவுயிரகத்தழைமம்"
+
+msgid "nitre"
+msgstr "வெடியுப்பு"
+
+msgid "nitrecake"
+msgstr "வெடியுப்பப்பம்"
+
+msgid "nitric"
+msgstr "தழைமம்"
+
+msgid "nitride"
+msgstr "தழைமம்"
+
+msgid "nitrile"
+msgstr "கரிமத்தழைமம்"
+
+msgid "nitrite"
+msgstr "ஈவுயிரகதழைமம்"
+
+msgid "nitro"
+msgstr "தழைமவீருயிரகம்"
+
+msgid "nitrobenzene"
+msgstr "தழைமவீருரகயிரகத் தூபியம்"
+
+msgid "nitrogen"
+msgstr "தழைமம்"
+
+msgid "nitroglycerine"
+msgstr "தழைமவீருயிரகக் களிக்கரை"
+
+msgid "nobelium"
+msgstr "நறுங்கன்"
+
+msgid "non-metal"
+msgstr "மாழையிலி"
+
+msgid "oganesson"
+msgstr "உகுந்தியம்"
+
+msgid "olefiantgas"
+msgstr "நெய்தருவளி"
+
+msgid "olefin"
+msgstr "நெய்யாக்குவளி"
+
+msgid "oleic"
+msgstr "சைதூணெய்"
+
+msgid "oleum"
+msgstr "புகைக்கந்தகவமிலம்"
+
+msgid "osmium"
+msgstr "கருநீலீயம்"
+
+msgid "oxidant"
+msgstr "உயிரகமேற்றி"
+
+msgid "oxidation"
+msgstr "உயிரகமேற்றம்"
+
+msgid "oxide"
+msgstr "உயிரகம்"
+
+msgid "oxygen"
+msgstr "உயிரகம், உயிர்வளி"
+
+msgid "ozone"
+msgstr "சாரலியம்/மிகுவுயிரகம்"
+
+msgid "palladium"
+msgstr "வெண்ணிரும்பு, பொன்னிமம்"
+
+msgid "paraffin"
+msgstr "வெண்மெழுகு"
+
+msgid "paraphenylenediamine"
+msgstr "1,4-இருப்பிணை மக்கிடை இருநவச்சியம், 1,4-இருநவச்சியத்தூபியம்"
+
+msgid "pent-1-ene"
+msgstr "1-இருப்பிணை ஐங்கொள்ளியம்"
+
+msgid "pent-2-ene"
+msgstr "2-இருப்பிணை ஐங்கொள்ளியம்"
+
+msgid "pentagon"
+msgstr "ஐங்கோணம்"
+
+msgid "pentane"
+msgstr "ஒருப்பிணை ஐங்கொள்ளியம்"
+
+msgid "pentasulphide"
+msgstr "ஐங்கந்தகம்"
+
+msgid "pentene"
+msgstr "இருப்பிணை ஐங்கொள்ளியம்"
+
+msgid "pentoxide"
+msgstr "ஐயுயிரகம்"
+
+msgid "pentyne"
+msgstr "முப்பிணை ஐங்கொள்ளியம்"
+
+msgid "peptisation"
+msgstr "கூழ்மமாகல்"
+
+msgid "permalloy"
+msgstr "ஊடுமாழை"
+
+msgid "permanganate"
+msgstr "நாலுயிரகமங்கனம்"
+
+msgid "peroxide"
+msgstr "ஈருயிரகம்"
+
+msgid "petrochemical"
+msgstr "பாறைவேதிப்பொருள்"
+
+msgid "petroleum"
+msgstr "பாறையெண்ணை, பாறைநெய்"
+
+msgid "phenol"
+msgstr "மக்கியம்"
+
+msgid "phenyamine"
+msgstr "மக்கிடைத்தூபியம்"
+
+msgid "phenyl"
+msgstr "மக்கிடை"
+
+msgid "phenylene"
+msgstr "இருப்பிணை மக்கிடை"
+
+msgid "phosgene"
+msgstr "ஒளியீனி"
+
+msgid "phosphate"
+msgstr "நாலுயிரகத்தீமுறி"
+
+msgid "phosphoric"
+msgstr "தீமுறி"
+
+msgid "phosphorous"
+msgstr "தீமுறி"
+
+msgid "pinene"
+msgstr "(இருப்பிணை) ஓங்கியம்"
+
+msgid "plastic"
+msgstr "நெகிழி"
+
+msgid "platinum"
+msgstr "வெண்தங்கம், வெண்மம், விழுப்பொன், வன்பொன்"
+
+msgid "plutonium"
+msgstr "அயலியம், சேணாமம்"
+
+msgid "polonium"
+msgstr "அனலியம், மஞ்சளம்"
+
+msgid "polychlorotrifluoroethylene"
+msgstr "புதுவினையம், பலபடி பாசிக மூவினைவிய நெய்தருவளி"
+
+msgid "polyester"
+msgstr "பலபடியத்தர், பலமரிழை"
+
+msgid "polymer"
+msgstr "பலபடியம், பலமர்"
+
+msgid "polymerization"
+msgstr "பலபடியாக்கம்"
+
+msgid "polyoxymethylene"
+msgstr "பலபடியுயிரக இருப்பிணை ஒருக்கொள்ளியம்"
+
+msgid "polystyrene"
+msgstr "பல்படி மலக்கியம்"
+
+msgid "polytetraflouroethylene"
+msgstr "பலபடி நாவினைவிய இருப்பிணை இருக்கொள்ளியம்"
+
+msgid "polyvinyl"
+msgstr "பலபடித்தேறலியம்"
+
+msgid "potassium"
+msgstr "சாம்பரம்"
+
+msgid "praseodymium"
+msgstr "குழைவெள்ளி, வெண்மஞ்சை"
+
+msgid "promethium"
+msgstr "அரிதியம், கதிர்மம்"
+
+msgid "propadiene"
+msgstr "ஈரிருப்பிணை முக்கொள்ளியம்"
+
+msgid "propane"
+msgstr "ஒருப்பிணை முக்கொள்ளியம்"
+
+msgid "propene"
+msgstr "இருப்பிணை முக்கொள்ளியம்"
+
+msgid "propyne"
+msgstr "முப்பிணை முக்கொள்ளியம்"
+
+msgid "protactinum"
+msgstr "பாகையம், புறக்கதிரம்"
+
+msgid "quantum"
+msgstr "துளியன்"
+
+msgid "quantumnumber"
+msgstr "துளிமையெண்"
+
+msgid "quarternary"
+msgstr "நாலிணை"
+
+msgid "quartz"
+msgstr "படிகக்கல்"
+
+msgid "quinic"
+msgstr "சுரப்பட்டை"
+
+msgid "quinine"
+msgstr "சுரப்பட்டையம்"
+
+msgid "quinone"
+msgstr "சுரப்பட்டையீனி"
+
+msgid "radium"
+msgstr "கருகன், கதிரியம், கதிரிமம்"
+
+msgid "radon"
+msgstr "ஆரகன், கதிரம்"
+
+msgid "refridgerant"
+msgstr "குளிர்பதனூட்டி"
+
+msgid "rhenium"
+msgstr "கரிவெள்ளி, அரிமம்"
+
+msgid "rhodium"
+msgstr "அரத்தியம், திண்ணிமம்"
+
+msgid "ring"
+msgstr "வளையம்"
+
+msgid "rocksalt"
+msgstr "இந்துப்பு"
+
+msgid "roentgenium"
+msgstr "உருத்தியம்"
+
+msgid "rubber"
+msgstr "மீள்மம்"
+
+msgid "rubidium"
+msgstr "அரும்பியம், செவ்வரியம்"
+
+msgid "rule"
+msgstr "விதி"
+
+msgid "rust"
+msgstr "துறு"
+
+msgid "ruthenium"
+msgstr "சீர்பொன், சீர்தங்கம், உருத்தீனம்"
+
+msgid "rutherfordium"
+msgstr "உருத்திரவியம், உருத்தரம்"
+
+msgid "saccharase"
+msgstr "சர்க்கரைநொதி"
+
+msgid "saccharimeter"
+msgstr "சர்க்கரைமானி"
+
+msgid "saccharin"
+msgstr "சர்க்கரைப்போலி"
+
+msgid "saccharometer"
+msgstr "சர்க்கரைச்செறிவுமானி"
+
+msgid "saltpetre"
+msgstr "வெடியுப்பு"
+
+msgid "samarium"
+msgstr "சுடர்மம், வெண்நரைமம்"
+
+msgid "sarin"
+msgstr "சரணன்"
+
+msgid "seaborgium"
+msgstr "சிற்பியம்"
+
+msgid "selenium"
+msgstr "செங்கந்தகம், மதிமம்"
+
+msgid "sesquioxide"
+msgstr "ஒன்றரையுயிரகம்"
+
+msgid "silane"
+msgstr "ஒருப்பிணை மண்ணியநீரகம்"
+
+msgid "silica"
+msgstr "மணல்மம்"
+
+msgid "silicate"
+msgstr "மண்ணியவீனி"
+
+msgid "silicon"
+msgstr "மண்ணியம்"
+
+msgid "silicone"
+msgstr "மணற்காடியம்"
+
+msgid "silicoxane"
+msgstr "உயிரகமண்ணியக்கொள்ளியம்"
+
+msgid "silver"
+msgstr "வெள்ளி"
+
+msgid "silyl"
+msgstr "மண்ணியநீரகம்"
+
+msgid "single"
+msgstr "ஒற்றை"
+
+msgid "singlebond"
+msgstr "ஒருப்பிணை"
+
+msgid "slag"
+msgstr "கசடு"
+
+msgid "soda"
+msgstr "காலகம்"
+
+msgid "sodium"
+msgstr "உவர்மம்"
+
+msgid "sol"
+msgstr "நீர்மக்கூழ்"
+
+msgid "solution"
+msgstr "நீர்மக்கூழ்"
+
+msgid "solvent"
+msgstr "கரைப்பி"
+
+msgid "sorbitol"
+msgstr "மாச்சர்க்கரைமதுசாரம்"
+
+msgid "sorosilicate"
+msgstr "இருத்தனி மண்ணியவீனி"
+
+msgid "spodulene"
+msgstr "தீயணற்பாறை"
+
+msgid "steroid"
+msgstr "ஊக்கியம்"
+
+msgid "strontium"
+msgstr "சிதறியம், வெண்ணிமம்"
+
+msgid "styrene"
+msgstr "மலக்கியம்"
+
+msgid "styrofoam"
+msgstr "மலக்கிய மெத்து "
+
+msgid "sucrose"
+msgstr "கரும்புச்சர்க்கரை"
+
+msgid "sulphate"
+msgstr "நாலுயிரகக்கந்தகம்"
+
+msgid "sulphite"
+msgstr "மூவுயிரகக்கந்தகம்"
+
+msgid "sulphocyanate"
+msgstr "கந்தகக்கரிமத்தழைம"
+
+msgid "surfactant"
+msgstr "பரப்பிழுவிசைக்குறைப்பி"
+
+msgid "tantallum"
+msgstr "இஞ்சாயம், வெம்மம்"
+
+msgid "tar"
+msgstr "கரிக்கீல்"
+
+msgid "taroil"
+msgstr "கரிக்கீலெண்ணை"
+
+msgid "tartaric"
+msgstr "திராக்கம்"
+
+msgid "technetium"
+msgstr "பசகன், செய்தனிமம்"
+
+msgid "teflon"
+msgstr "வினைவிப்படியம்"
+
+msgid "tellurium"
+msgstr "ஒளிர்மம், வெண்கந்தகம்"
+
+msgid "tennessine"
+msgstr "திணிவியம்"
+
+msgid "terbium"
+msgstr "தென்னிரும்பு, விளர்மம்"
+
+msgid "terpene"
+msgstr "பயினியம்"
+
+msgid "tetrachloride"
+msgstr "நாற்பாசிகம்"
+
+msgid "tetraflouride"
+msgstr "நால்வினைவியம்"
+
+msgid "tetrahydride"
+msgstr "நாநீரகம்"
+
+msgid "tetroxide"
+msgstr "நாலுயிரகம்"
+
+msgid "thallium"
+msgstr "தெள்ளீயம், சாம்பிமம்"
+
+msgid "thermate"
+msgstr "மீவெப்பேற்றி"
+
+msgid "thermite"
+msgstr "மீவெப்பூட்டி"
+
+msgid "thermocole"
+msgstr "மலக்கிய மெத்து"
+
+msgid "thermoplastic"
+msgstr "வெப்பநெகிழி"
+
+msgid "thermosetting"
+msgstr "வெப்பமிறகு"
+
+msgid "thiocyanate"
+msgstr "கந்தகக்கரிமத்தழைமம்"
+
+msgid "thiocyanide"
+msgstr "கந்தகக்கரிமத்தழைம"
+
+msgid "thiofuran"
+msgstr "கந்தகத்தவிடியம்"
+
+msgid "thiol"
+msgstr "நீரகக்கந்தகம்"
+
+msgid "thiophene"
+msgstr "கந்தகத்தவிடியம்"
+
+msgid "thorium"
+msgstr "இடியம், சுடரிமம்"
+
+msgid "thulium"
+msgstr "துலங்கியம், வடமம்"
+
+msgid "titanium"
+msgstr "வெண்வெள்ளி"
+
+msgid "toluene"
+msgstr "வர்ணியம்"
+
+msgid "trans"
+msgstr "எதிர்ப்பக்க"
+
+msgid "transisomer"
+msgstr "எதிர்ப்பக்கமாற்றியம்"
+
+msgid "tribromide"
+msgstr "முன்னெடியம்"
+
+msgid "tribromometane"
+msgstr "முன்னெடியவொருக்கொள்ளியம்"
+
+msgid "trichloride"
+msgstr "முப்பாசிகம்"
+
+msgid "trichloromethane"
+msgstr "முப்பாசிகவொருக்கொள்ளியம்"
+
+msgid "triiodide"
+msgstr "முன்னைலம்"
+
+msgid "triiodomethane"
+msgstr "முன்னைலவொருக்கொள்ளியம்"
+
+msgid "trinitro"
+msgstr "முத்தழைமவீயுயிரக"
+
+msgid "triple"
+msgstr "மும்மை"
+
+msgid "triplebond"
+msgstr "முப்பிணை"
+
+msgid "tungsten"
+msgstr "மெல்லிழையம், மின்னிழைமம்"
+
+msgid "uranium"
+msgstr "அடரியம், விண்ணிமம்"
+
+msgid "urea"
+msgstr "அமுரியம்"
+
+msgid "uric"
+msgstr "அமுரியம்"
+
+msgid "valence"
+msgstr "இணைதிறன்"
+
+msgid "valency"
+msgstr "இணைதிறன்"
+
+msgid "vanadium"
+msgstr "வெண்ணாகம், பழீயம்"
+
+msgid "varnish"
+msgstr "மெருகெண்ணை"
+
+msgid "verdigris"
+msgstr "செம்புக்களிம்பு"
+
+msgid "vinyl"
+msgstr "தேறலியம்"
+
+msgid "vitreol"
+msgstr "துத்தம்"
+
+msgid "vitriol"
+msgstr "துத்தம்"
+
+msgid "volatile"
+msgstr "வெடிமையுடைய"
+
+msgid "volatility"
+msgstr "வெடிமை"
+
+msgid "vulcanization"
+msgstr "வலுப்பதனீட்டல்"
+
+msgid "vulcanize"
+msgstr "வலுப்பதனிடு"
+
+msgid "vulcanized"
+msgstr "வலுப்பதனிட்ட"
+
+msgid "weak"
+msgstr "மென்"
+
+msgid "wood"
+msgstr "மரம்"
+
+msgid "xenon"
+msgstr "அணுகன், அயலிமம்"
+
+msgid "xylene"
+msgstr "மரநீர்"
+
+msgid "xylenol"
+msgstr "மரமக்கியம்"
+
+msgid "xylitol"
+msgstr "மரச்சர்க்கரை மதுசாரம்"
+
+msgid "yttrium"
+msgstr "திகழியம், கருநரைமம்"
+
+msgid "zinc"
+msgstr "நாகம்"
+
+msgid "zirconium"
+msgstr "வண்மம், வன்தங்கம்"

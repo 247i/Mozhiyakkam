@@ -1,0 +1,2548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (Podverse)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-01 09:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/podverse/"
+"podverse-web/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
+
+#, i18next-interpolation
+msgctxt "_translatorsField"
+msgid ""
+msgstr "தமிழ்நேரம்(https://tamilneram.github.io/)"
+
+#, i18next-interpolation
+msgctxt "_translatorsFieldExample"
+msgid ""
+"Jane Doe<https://jane.doe.homepage>,Joe Bloggs,Juan Perez<https://"
+"some.socialmedia/juan>"
+msgstr ""
+"சேன் டோ <https: //jane.doe.homepage>, சோ பிளாக்குசு, சுவான் பெரெச்<https: //"
+"some.socialmedia/juan>"
+
+#, i18next-interpolation
+msgctxt "18 per year after that"
+msgid "$18/year thereafter."
+msgstr "அதற்குப் பிறகு ஆண்டிற்கு $ 18."
+
+#, i18next-interpolation
+msgctxt "3 months free"
+msgid "3 months free"
+msgstr "3 திங்கள்கள் இலவசம்"
+
+#, i18next-interpolation
+msgctxt "About"
+msgid "About"
+msgstr "பற்றி"
+
+#, i18next-interpolation
+msgctxt "Account Claim Token"
+msgid "Account Claim Token"
+msgstr "கணக்கு உரிமைகோரல் கிள்ளாக்கு"
+
+#, i18next-interpolation
+msgctxt "Add or update feed from Podcast Index"
+msgid "Add or update feed from the Podcast Index"
+msgstr ""
+"வலையொலி குறியீட்டிலிருந்து ஊட்டத்தைச் சேர்க்கவும் அல்லது புதுப்பிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Add to Playlist"
+msgid "Add to Playlist"
+msgstr "இயக்குபட்டியலில் சேர்"
+
+#, i18next-interpolation
+msgctxt "Admin Tools"
+msgid "Admin Tools"
+msgstr "நிர்வாக கருவிகள்"
+
+#, i18next-interpolation
+msgctxt "Anonymous"
+msgid "Anonymous"
+msgstr "பெயரிலி"
+
+#, i18next-interpolation
+msgctxt "Are you sure you want to delete this clip"
+msgid "Delete clip?"
+msgstr "நறுக்கை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "Are you sure you want to delete this playlist"
+msgid "Delete playlist?"
+msgstr "இயக்குபட்டியலை நீக்கவா?"
+
+#, i18next-interpolation
+msgctxt "Are you sure you want to remove all of your history items"
+msgid "Remove all history?"
+msgstr "எல்லா வரலாற்றையும் அகற்றவா?"
+
+#, i18next-interpolation
+msgctxt "Are you sure you want to remove all of your queue items"
+msgid "Remove queue?"
+msgstr "வரிசையை அகற்றவா?"
+
+#, i18next-interpolation
+msgctxt "ARIA - Toggle UI theme change"
+msgid "UI theme change"
+msgstr "இடைமுகம் கருப்பொருள் மாற்று"
+
+#, i18next-interpolation
+msgctxt "ARIA - Toggle video only mode"
+msgid "Video only"
+msgstr "காணொளி மட்டும்"
+
+#, i18next-interpolation
+msgctxt "Auto Queue"
+msgid "Auto-queue"
+msgstr "தானி-வரிசை"
+
+#, i18next-interpolation, read-only
+msgctxt "Auto-scroll button - aria description"
+msgid ""
+msgstr ""
+
+#, i18next-interpolation
+msgctxt "Auto-scroll button - off"
+msgid "Auto-scroll: Off"
+msgstr "தானி-சுருள்: அணை"
+
+#, i18next-interpolation
+msgctxt "Auto-scroll button - on"
+msgid "Auto-scroll: On"
+msgstr "தானி-சுருள்: இயக்கு"
+
+#, i18next-interpolation
+msgctxt "Below are a few ways you can support the project"
+msgid "Below are a few ways you can support the project."
+msgstr "நீங்கள் திட்டத்தை ஆதரிக்கச் சில வழிகள் கீழே உள்ளன."
+
+#, i18next-interpolation
+msgctxt "Below is a table comparing free and premium features"
+msgid "Below is a table comparing the free and premium features."
+msgstr "இலவச மற்றும் காப்பீடு நற்பண்புகளை ஒப்பிடும் அட்டவணை கீழே உள்ளது."
+
+#, i18next-interpolation
+msgctxt "Bitcoin wallet address"
+msgid "Bitcoin wallet address"
+msgstr "மின்காசின் பணப்பை முகவரி"
+
+#, i18next-interpolation
+msgctxt "Bitcoin Lightning Alby address"
+msgid "Bitcoin Lightning Alby address"
+msgstr "மின்காசின் மின்னல் ஆல்பி முகவரி"
+
+#, i18next-interpolation
+msgctxt "Boostagram all failed"
+msgid "Boostagram failed to send. Click for more info."
+msgstr "போச்டாகிராம் அனுப்பத் தவறிவிட்டது. மேலும் தகவலுக்குச் சொடுக்குக."
+
+#, i18next-interpolation
+msgctxt "Boostagram info"
+msgid "Boostagram info"
+msgstr "பூச்டாகிராம் தகவல்"
+
+#, i18next-interpolation
+msgctxt "Boostagram some failed"
+msgid "Could not send Boostagram to some recipients. Click for more info."
+msgstr ""
+"சில பெறுநர்களுக்கு பூச்டாகிராமை அனுப்ப முடியவில்லை. மேலும் தகவலுக்குச் சொடுக்குக."
+
+#, i18next-interpolation
+msgctxt "Boostagram succeeded"
+msgid "Boostagram sent!"
+msgstr "போச்டாகிராம் அனுப்பப்பட்டது!"
+
+#, i18next-interpolation
+msgctxt "brandName chat is powered by"
+msgid "Podverse live chat is powered by these open source libraries"
+msgstr "ஒலிவசனம் நேரலை அரட்டை இந்தத் திறந்த மூல நூலகங்களால் இயக்கப்படுகிறது"
+
+#, i18next-interpolation
+msgctxt "Bug Report"
+msgid "Report a bug"
+msgstr "ஒரு பிழையைப் புகாரளி"
+
+#, i18next-interpolation
+msgctxt "Buy a Podverse premium membership"
+msgid "Purchase Podverse Premium"
+msgstr "ஒலிவசனம் காப்பீடு வாங்கவும்"
+
+#, i18next-interpolation
+msgctxt "Cancel"
+msgid "Cancel"
+msgstr "நீக்கறல்"
+
+#, i18next-interpolation
+msgctxt "category - arts"
+msgid "Arts"
+msgstr "கலை"
+
+#, i18next-interpolation
+msgctxt "category - business"
+msgid "Business"
+msgstr "வணிகம்"
+
+#, i18next-interpolation
+msgctxt "category - comedy"
+msgid "Comedy"
+msgstr "நகைச்சுவை"
+
+#, i18next-interpolation
+msgctxt "category - education"
+msgid "Education"
+msgstr "கல்வி"
+
+#, i18next-interpolation
+msgctxt "category - fiction"
+msgid "Fiction"
+msgstr "புனைகதை"
+
+#, i18next-interpolation
+msgctxt "category - government"
+msgid "Government"
+msgstr "அரசாங்கம்"
+
+#, i18next-interpolation
+msgctxt "category - healthfitness"
+msgid "Health and Fitness"
+msgstr "உடல்நலம் மற்றும் உடற்பயிற்சி"
+
+#, i18next-interpolation
+msgctxt "category - history"
+msgid "History"
+msgstr "வரலாறு"
+
+#, i18next-interpolation
+msgctxt "category - kidsfamily"
+msgid "Kids and Family"
+msgstr "குழந்தைகள் மற்றும் குடும்பத்தினர்"
+
+#, i18next-interpolation
+msgctxt "category - leisure"
+msgid "Leisure"
+msgstr "ஓய்வு"
+
+#, i18next-interpolation
+msgctxt "category - music"
+msgid "Music"
+msgstr "இசை"
+
+#, i18next-interpolation
+msgctxt "category - news"
+msgid "News"
+msgstr "செய்தி"
+
+#, i18next-interpolation
+msgctxt "category - religionspirituality"
+msgid "Religion and Spirituality"
+msgstr "மதம் மற்றும் இறைமை"
+
+#, i18next-interpolation
+msgctxt "category - science"
+msgid "Science"
+msgstr "அறிவியல்"
+
+#, i18next-interpolation
+msgctxt "category - societyculture"
+msgid "Society and Culture"
+msgstr "சமூகம் மற்றும் பண்பாடு"
+
+#, i18next-interpolation
+msgctxt "category - sports"
+msgid "Sports"
+msgstr "விளையாட்டு"
+
+#, i18next-interpolation
+msgctxt "category - technology"
+msgid "Technology"
+msgstr "தொழில்நுட்பம்"
+
+#, i18next-interpolation
+msgctxt "category - truecrime"
+msgid "True Crime"
+msgstr "உண்மையான குற்றம்"
+
+#, i18next-interpolation
+msgctxt "category - tvfilm"
+msgid "TV and Film"
+msgstr "தொகா மற்றும் திரைப்படம்"
+
+#, i18next-interpolation
+msgctxt "Chapters"
+msgid "Chapters"
+msgstr "பாடங்கள்"
+
+#, i18next-interpolation
+msgctxt "Chat Room"
+msgid "Chat Room"
+msgstr "அரட்டை அறை"
+
+#, i18next-interpolation
+msgctxt "Claim free premium membership"
+msgid ""
+"To claim your free premium membership, please log into your Podverse "
+"account, then click the \"Claim Token\" button below."
+msgstr ""
+"உங்கள் இலவச காப்பீடு உறுப்பினரைக் கோர, தயவுசெய்து உங்கள் ஒலிவசன கணக்கில் உள்நுழைந்து, கீழே "
+"உள்ள \"உரிமைகோரல் கிள்ளாக்கு\" பொத்தானைக் சொடுக்குக."
+
+#, i18next-interpolation
+msgctxt "Clip"
+msgid "Clip"
+msgstr "நறுக்கு"
+
+#, i18next-interpolation
+msgctxt "Clip times"
+msgid "Clip times"
+msgstr "நறுக்கு நேரங்கள்"
+
+#, i18next-interpolation
+msgctxt "Clip title"
+msgid "Clip title"
+msgstr "நறுக்கு தலைப்பு"
+
+#, i18next-interpolation
+msgctxt "Clips"
+msgid "Clips"
+msgstr "நறுக்குகள்"
+
+#, i18next-interpolation
+msgctxt "Clips from this episode"
+msgid "Clips from this episode"
+msgstr "இந்த இயல்களிலிருந்து நறுக்குகள்"
+
+#, i18next-interpolation
+msgctxt "Close"
+msgid "Close"
+msgstr "மூடு"
+
+#, i18next-interpolation
+msgctxt "Comments"
+msgid "Comments"
+msgstr "கருத்துகள்"
+
+#, i18next-interpolation
+msgctxt "Confirm Password"
+msgid "Confirm Password"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்து"
+
+#, i18next-interpolation
+msgctxt "ConfirmDeleteModalLine1"
+msgid "Delete your account for good?"
+msgstr "நன்மைக்காக உங்கள் கணக்கை நீக்கவா?"
+
+# Should we need to translate "delete" or not?
+#, i18next-interpolation
+msgctxt "ConfirmDeleteModalLine2"
+msgid ""
+"Type the word \"delete\" to delete your account, then click "
+"\"Delete Account\"."
+msgstr ""
+"உங்கள் கணக்கை நீக்க \"நீக்கு\" என்ற சொல்லைத் தட்டச்சு செய்து, பின்னர் \"கணக்கை நீக்கு\" என்பதைக் "
+"சொடுக்குக."
+
+#, i18next-interpolation
+msgctxt "confirmed"
+msgid "confirmed"
+msgstr "உறுதிப்படுத்தப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "Contact"
+msgid "Contact"
+msgstr "தொடர்பு"
+
+#, i18next-interpolation
+msgctxt "ContactSupport"
+msgid ""
+"If it still doesn't appear, please e-mail <1>contact@podverse.fm</1> for "
+"help."
+msgstr ""
+"அது இன்னும் தோன்றவில்லை என்றால், தயவுசெய்து மின்னஞ்சல் <1> contact@podverse.fm </1> "
+"உதவிக்கு."
+
+#, i18next-interpolation
+msgctxt "ContactXMPPChatRooms"
+msgid "XMPP chat-rooms"
+msgstr "எக்ச்எம்பிபி அரட்டை அறைகள்"
+
+#, i18next-interpolation
+msgctxt "ContactXMPPText1"
+msgid ""
+"XMPP is free and open technology letting anyone create and host their own "
+"universal chat platform."
+msgstr ""
+"எக்ச்எம்பிபி இலவச மற்றும் திறந்த தொழில்நுட்பமாகும், இது யாரையும் தங்கள் சொந்த உலகளாவிய "
+"அரட்டை தளத்தை உருவாக்கிப் புரவலன் செய்ய அனுமதிக்கிறது."
+
+#, i18next-interpolation
+msgctxt "ContactXMPPText2"
+msgid ""
+"If you have an XMPP account, you can log in using our official chat client:"
+msgstr ""
+"உங்களிடம் எக்ச்எம்பிபி கணக்கு இருந்தால், எங்கள் அதிகாரப்பூர்வ அரட்டை வாங்குநரைப் பயன்படுத்தி "
+"உள்நுழையலாம்:"
+
+#, i18next-interpolation
+msgctxt "Contribute"
+msgid "Contribute"
+msgstr "பங்களிப்பு"
+
+#, i18next-interpolation
+msgctxt "Contribute page"
+msgid "Contribution page"
+msgstr "பங்களிப்புப் பக்கம்"
+
+#, i18next-interpolation
+msgctxt "Contribute info"
+msgid ""
+"Help Podverse in any capacity. Please reach out using one of the options on "
+"the \"Contact\" page."
+msgstr ""
+"எந்தவொரு திறனிலும் ஒலிவசனத்திற்கு உதவுங்கள். \"தொடர்பு\" பக்கத்தில் உள்ள விருப்பங்களில் "
+"ஒன்றைப் பயன்படுத்தி அணுகவும்."
+
+#, i18next-interpolation
+msgctxt "Copied"
+msgid "Copied"
+msgstr "நகலெடுக்கப்பட்டது"
+
+#, i18next-interpolation
+msgctxt "Copy"
+msgid "Copy"
+msgstr "நகலெடு"
+
+#, i18next-interpolation
+msgctxt "Create Playlist"
+msgid "Create Playlist"
+msgstr "இயக்குபட்டியலை உருவாக்கு"
+
+#, i18next-interpolation
+msgctxt "Created by"
+msgid "Created by"
+msgstr "உருவாக்கியது"
+
+#, i18next-interpolation
+msgctxt "Current time"
+msgid "Current time"
+msgstr "தற்போதைய நேரம்"
+
+#, i18next-interpolation
+msgctxt "Custom CSS styles"
+msgid "Custom CSS styles"
+msgstr "தனிப்பயன் சிஎச்எச் பாணிகள்"
+
+#, i18next-interpolation
+msgctxt "delete"
+msgid "delete"
+msgstr "நீக்கு"
+
+#, i18next-interpolation
+msgctxt "Delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#, i18next-interpolation
+msgctxt "Delete Clip"
+msgid "Delete Clip"
+msgstr "நறுக்கை நீக்கு"
+
+#, i18next-interpolation
+msgctxt "DeleteAccount"
+msgid "Delete Account"
+msgstr "கணக்கை நீக்கு"
+
+#, i18next-interpolation
+msgctxt "Demo"
+msgid "Demo"
+msgstr "செயற்காட்சி"
+
+#, i18next-interpolation
+msgctxt "Display the full screen media player"
+msgid "Show the fullscreen media player"
+msgstr "முழுத்திரை ஊடக இயக்கியைக் காட்டு"
+
+#, i18next-interpolation
+msgctxt "Done"
+msgid "Done"
+msgstr "முடிந்தது"
+
+#, i18next-interpolation
+msgctxt "Download"
+msgid "Download my data"
+msgstr "எனது தரவைப் பதிவிறக்கு"
+
+#, i18next-interpolation
+msgctxt "Delete my account"
+msgid "Delete my account"
+msgstr "எனது கணக்கை நீக்கு"
+
+#, i18next-interpolation
+msgctxt "Donate with Github"
+msgid "Donate on GitHub"
+msgstr "அறிவிலிமையத்தில் நன்கொடை"
+
+#, i18next-interpolation
+msgctxt "Donate with Patreon"
+msgid "Donate on Patreon"
+msgstr "பேட்ரியன் மீது நன்கொடை"
+
+#, i18next-interpolation
+msgctxt "Donate with PayPal"
+msgid "Donate with PayPal"
+msgstr "பேபால் மூலம் நன்கொடை"
+
+#, i18next-interpolation
+msgctxt "Download my data"
+msgid "Download my data"
+msgstr "எனது தரவைப் பதிவிறக்கு"
+
+#, i18next-interpolation
+msgctxt "Download my data explanation"
+msgid "Download a full copy of your data."
+msgstr "உங்கள் தரவின் முழு நகலையும் பதிவிறக்கு."
+
+#, i18next-interpolation
+msgctxt "Download on the App Store"
+msgid "Download on the App Store"
+msgstr "பயன்பாடு கடையில் பதிவிறக்கு"
+
+#, i18next-interpolation
+msgctxt "Download on the F-Droid Store"
+msgid "Download on F-Droid"
+msgstr "எஃப்-டிராய்டில் பதிவிறக்கு"
+
+#, i18next-interpolation
+msgctxt "Download on the Google Play Store"
+msgid "Download on Google Play"
+msgstr "கூகிள் விளையாட்டில் பதிவிறக்கவும்"
+
+#, i18next-interpolation
+msgctxt "DownloadDataBackup"
+msgid "Download a backup of your data."
+msgstr "உங்கள் தரவின் காப்புப்பிரதியைப் பதிவிறக்கு."
+
+#, i18next-interpolation
+msgctxt "Download Episode"
+msgid "Download Episode"
+msgstr "இயல் பதிவிறக்கு"
+
+#, i18next-interpolation
+msgctxt "Duration"
+msgid "Duration"
+msgstr "காலம்"
+
+#, i18next-interpolation
+msgctxt "Edit"
+msgid "Edit"
+msgstr "தொகு"
+
+#, i18next-interpolation
+msgctxt "Edit activation description - remove"
+msgid "Upon activation, a button for removal appears next to each list item."
+msgstr ""
+"செயல்படுத்தப்பட்டவுடன், ஒவ்வொரு பட்டியல் உருப்படிக்கும் அடுத்ததாக அகற்றுவதற்கான பொத்தான் "
+"தோன்றும்."
+
+#, i18next-interpolation
+msgctxt "Edit Clip"
+msgid "Edit Clip"
+msgstr "நறுக்கைத் திருத்து"
+
+#, i18next-interpolation
+msgctxt "Email"
+msgid "E-mail"
+msgstr "மின்னஞ்சல்"
+
+#, i18next-interpolation
+msgctxt "Email verified redirecting to home page"
+msgid "E-mail verified. Redirecting to the landing page…"
+msgstr "மின்னஞ்சல் சரிபார்க்கப்பட்டது. இறங்கும் பக்கத்திற்கு திருப்பி விடுதல்…"
+
+#, i18next-interpolation
+msgctxt "Embed"
+msgid "Embed"
+msgstr "உட்பொதி"
+
+#, i18next-interpolation
+msgctxt "Embed player overrides error info"
+msgid ""
+"To use the embeddable Podverse web player with custom overrides, first add a "
+"list of \"approved media URLs\" for this podcast. (Required to prevent use "
+"of the embeddable player to pirate or misrepresent podcasts.) Please get in "
+"contact to have this feature turned on for you."
+msgstr ""
+"தனிப்பயன் மேலெழுதல்களுடன் உட்பொதிக்கக்கூடிய ஒலிவசனம் வலை இயக்கியைப் பயன்படுத்த, முதலில் இந்"
+"த வலையொலிக்கு \"அங்கீகரிக்கப்பட்ட மீடியா முகவரி களின்\" பட்டியலைச் சேர். (வலையொலிகளைத் "
+"திருடவோ அல்லது தவறாகப் பிரதிநிதித்துவப்படுத்தவோ உட்பொதிக்கக்கூடிய இயக்கியைப் "
+"பயன்படுத்துவதைத் தடுக்க இது அவசியம்.) இந்த நற்பண்பை உங்களுக்காக இயக்குவதற்குத் தொடர்பு "
+"கொள்ளவும்."
+
+#, i18next-interpolation
+msgctxt "Embed player overrides error email body"
+msgid ""
+"Please provide a link to the RSS feed for your podcast so the embeddable "
+"player override feature can be turned on for you."
+msgstr ""
+"உங்கள் வலையொலிக்கான RSS ஊட்டத்திற்கு ஒரு இணைப்பை வழங்கவும், எனவே உட்பொதிக்கக்கூடிய இயக்கி "
+"மேலெழுதும் நற்பண்பை உங்களுக்காக இயக்க முடியும்."
+
+#, i18next-interpolation
+msgctxt "Embed player overrides error email subject"
+msgid ""
+"Help with setting approved media URLs for the embeddable player override "
+"feature"
+msgstr ""
+"உட்பொதிக்கக்கூடிய இயக்கி மேலெழுதும் நற்பண்பிற்கு அங்கீகரிக்கப்பட்ட ஊடக முகவரி களை "
+"அமைப்பதற்கு உதவுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Embed custom CSS intro instructions"
+msgid ""
+"Override the style of the embedded Podverse player with a script on your "
+"website."
+msgstr ""
+"உங்கள் இணையதளத்தில் கைஉரை மூலம் உட்பொதிக்கப்பட்ட ஒலிவசன இயக்கியின் பாணியை மீறவும்."
+
+#, i18next-interpolation
+msgctxt "Embed custom CSS instructions"
+msgid ""
+"Use JavaScript to override the style of the embeddable player. Copy the "
+"script below, change it if you want, then paste it into (the bottom of) your "
+"website."
+msgstr ""
+"உட்பொதிக்கக்கூடிய இயக்கியின் பாணியை மேலெழுத சாவாகைஉரையைப் பயன்படுத்தவும். கீழே உள்ள "
+"கைஉரையை நகலெடுத்து, நீங்கள் விரும்பினால் அதை மாற்றவும், பின்னர் அதை உங்கள் வலைத்தளத்தின் "
+"(கீழே) ஒட்டவும்."
+
+#, i18next-interpolation
+msgctxt "Embed episode only instructions"
+msgid ""
+"Embed a single episode by pressing the \"Share\" icon in Podverse, copy the "
+"\"Embed\" code, and paste it into your webpage."
+msgstr ""
+"ஒலிவசனத்தில் \"பகிர்\" சின்னத்தை அழுத்துவதன் மூலம் ஒரு இயலை உட்பொதித்து, "
+"\"உட்பொதிக்கப்பட்ட\" குறியீட்டை நகலெடுத்து, அதை உங்கள் வலைப்பக்கத்தில் ஒட்டவும்."
+
+#, i18next-interpolation
+msgctxt "Embed podcast with episodes instructions"
+msgid ""
+"Include an episode list with the embeddedable player by pressing the "
+"\"Share\" icon in Podverse, copying the \"Embed\" code, and pasting it into "
+"your webpage."
+msgstr ""
+"ஒலிவசனத்தில் \"பகிர்\" சின்னத்தை அழுத்துவதன் மூலமும், \"உட்பொதிக்கப்பட்ட\" குறியீட்டை "
+"நகலெடுப்பதன் மூலமும், அதை உங்கள் வலைப்பக்கத்தில் ஒட்டுவதன் மூலமும் உட்பொதிக்கக்கூடிய "
+"இயக்கியுடன் ஒரு இயல் பட்டியலைச் சேர்."
+
+#, i18next-interpolation
+msgctxt "End"
+msgid "End"
+msgstr "முடிவு"
+
+#, i18next-interpolation
+msgctxt "End livestream"
+msgid "End livestream"
+msgstr "நேரடி ஒளிபரப்பை முடி"
+
+#, i18next-interpolation
+msgctxt "Ended"
+msgid "Ended: "
+msgstr "முடிந்தது: "
+
+#, i18next-interpolation
+msgctxt "Ends"
+msgid "Ends: "
+msgstr "முடிக்கிறது: "
+
+#, i18next-interpolation
+msgctxt "Enjoy Podverse Premium"
+msgid "Enjoy Podverse Premium"
+msgstr "ஒலிவசனம் மதிப்பு எச்சத்தை அனுபவி"
+
+#, i18next-interpolation
+msgctxt "Episode"
+msgid "Episode"
+msgstr "இயல்"
+
+#, i18next-interpolation
+msgctxt "Episode only"
+msgid "Episode only"
+msgstr "இயல் மட்டுமே"
+
+#, i18next-interpolation
+msgctxt "Episode Summary"
+msgid "Episode Summary"
+msgstr "இயல் சுருக்கம்"
+
+#, i18next-interpolation
+msgctxt "Episodes"
+msgid "Episodes"
+msgstr "இயல்கள்"
+
+#, i18next-interpolation
+msgctxt "Expired"
+msgid "Expired"
+msgstr "காலாவதியான"
+
+#, i18next-interpolation
+msgctxt "Export OPML"
+msgid "Export OPML"
+msgstr "ஒபிஎம்எல் ஏற்றுமதி"
+
+#, i18next-interpolation
+msgctxt "Export OPML Description"
+msgid ""
+"Export your subscriptions as an OPML file to import them in other podcast "
+"apps."
+msgstr ""
+"உங்கள் சந்தாக்களை மற்ற வலையொலி பயன்பாடுகளில் இறக்குமதி செய்ய ஒபிஎம்எல் கோப்பாக ஏற்றுமதி "
+"செய்யுங்கள்."
+
+#, i18next-interpolation
+msgctxt "Extend Membership"
+msgid "Extend Membership"
+msgstr "உறுப்பினரை நீட்டிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Extend Membership Text"
+msgid ""
+"Please log in on the website, select \"Membership\" from the upper-right "
+"dropdown, then click the \"Extend Membership\" button to checkout with "
+"PayPal."
+msgstr ""
+"தயவுசெய்து இணையதளத்தில் உள்நுழைந்து, மேல்-வலது கீழ்தோன்றலிலிருந்து \"உறுப்பினர்\" என்பதைத் "
+"தேர்ந்தெடுத்து, பின்னர் பேபால் மூலம் புதுப்பிக்க \"உறுப்பினர் நீட்டிப்பு\" பொத்தானைக் "
+"சொடுக்குக."
+
+#, i18next-interpolation
+msgctxt "Extend Membership Text 2"
+msgid "Apple and Google payments are also accepted."
+msgstr "ஆப்பிள் மற்றும் கூகிள் கொடுப்பனவுகளும் ஏற்றுக்கொள்ளப்படுகின்றன."
+
+#, i18next-interpolation
+msgctxt "Extend Membership Text 3"
+msgid ""
+"Podverse is a value-for-value company, so if the renewal cost is out of your "
+"budget, e-mail contact@podverse.fm and your membership will be extended."
+msgstr ""
+"ஒலிவசனம் என்பது மதிப்புக்கான மதிப்பு நிறுவனமாகும், எனவே புதுப்பித்தல் செலவு உங்கள் "
+"நிதித்திட்டத்தில் இல்லை என்றால், மின்னஞ்சல் contact@podvers.fm மற்றும் உங்கள் உறுப்பினர் "
+"நீட்டிக்கப்படும்."
+
+#, i18next-interpolation
+msgctxt "Extend Membership Text 4"
+msgid "Please visit <0>{{contributePage}}</0> to help Podverse in other ways."
+msgstr ""
+"மற்ற வழிகளில் ஒலிவசனதிற்கு உதவ <0> {{contributePage}} </0> ஐப் பார்வையிடவும்."
+
+#, i18next-interpolation
+msgctxt "Features"
+msgid "Features"
+msgstr "நற்பொருத்தங்கள்"
+
+#, i18next-interpolation
+msgctxt "Feature is only available in the mobile app"
+msgid "Open the mobile app to make use of this feature."
+msgstr "இந்த நற்பொருத்தத்தைப் பயன்படுத்தக் கைபேசி பயன்பாட்டைத் திற."
+
+#, i18next-interpolation
+msgctxt "Feature is only available on the website"
+msgid "(Only available on the website.)"
+msgstr "(இணையதளத்தில் மட்டுமே கிடைக்கும்.)"
+
+#, i18next-interpolation
+msgctxt "Feature Demo"
+msgid "Feature Demo"
+msgstr "நற்பொருத்த செயற்காட்சி"
+
+#, i18next-interpolation
+msgctxt "Feature Request"
+msgid "Feature request"
+msgstr "நற்பொருத்த கோரிக்கை"
+
+#, i18next-interpolation
+msgctxt "features - add custom rss feeds"
+msgid "Add custom RSS feeds"
+msgstr "தனிப்பயன் ஆர்எச்எச் ஊட்டங்களைச் சேர்"
+
+#, i18next-interpolation
+msgctxt "features - apple carplay"
+msgid "Apple CarPlay"
+msgstr "ஆப்பிள் மகிழுந்துவிளையாட்டு"
+
+#, i18next-interpolation
+msgctxt "features - create and share playlists"
+msgid "Create and share playlists"
+msgstr "இயக்குபட்டியல்களை உருவாக்கிப் பகிர்ந்து கொள்ளுங்கள்"
+
+#, i18next-interpolation
+msgctxt "features - create and share podcast clips"
+msgid "Create and share clips"
+msgstr "நறுக்குகளை உருவாக்கிப் பகிரவும்"
+
+#, i18next-interpolation
+msgctxt "features - download episodes"
+msgid "Download episodes"
+msgstr "இயல்களைப் பதிவிறக்கவும்"
+
+#, i18next-interpolation
+msgctxt "features - livestreams"
+msgid "Livestream playback"
+msgstr "நேரடி ஒளிபரப்புகள் பின்னணி"
+
+#, i18next-interpolation
+msgctxt "features - mark episodes as played"
+msgid "Mark episodes as played"
+msgstr "விளையாடிய இயல்களை குறிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "features - new episodes and livestream notifications"
+msgid "Notifications about new episodes and livestreams"
+msgstr "புதிய இயல்கள் மற்றும் நேரடி ஒளிபரப்புகள் பற்றிய அறிவிப்புகள்"
+
+#, i18next-interpolation
+msgctxt "features - opml import and export"
+msgid "OPML import and export"
+msgstr "ஒபிஎம்எல் இறக்குமதி மற்றும் ஏற்றுமதி"
+
+#, i18next-interpolation
+msgctxt "features - podcasting 2.0 chapters"
+msgid "Chapters (Podcasting 2.0)"
+msgstr "இயல்கள் (வலையொலி 2.0)"
+
+#, i18next-interpolation
+msgctxt "features - podcasting 2.0 cross-app comments"
+msgid "Cross-app comments (Podcasting 2.0)"
+msgstr "குறுக்கு பயன்பாட்டு கருத்துகள் (வலையொலி 2.0)"
+
+#, i18next-interpolation
+msgctxt "features - podcasting 2.0 transcripts"
+msgid "Transcripts (Podcasting 2.0)"
+msgstr "பெயர்ப்புரைகள் (வலையொலி 2.0)"
+
+#, i18next-interpolation
+msgctxt "features - screen-reader accessibility"
+msgid "Screen-reader accessibility"
+msgstr "திரை-வாசகர் அணுகல்"
+
+#, i18next-interpolation
+msgctxt "features - sleep timer"
+msgid "Sleep timer"
+msgstr "தூக்க நேரங்குறிகருவி"
+
+#, i18next-interpolation
+msgctxt "features - subscribe to listener profiles"
+msgid "Subscribe to listener profiles"
+msgstr "கேட்பவரின் தன்விவரங்களுக்கு குழுசேரவும்"
+
+#, i18next-interpolation
+msgctxt "features - subscribe to podcasts"
+msgid "Subscribe to podcasts"
+msgstr "வலையொலிகளுக்கு குழுசேரவும்"
+
+#, i18next-interpolation
+msgctxt "features - support open source software"
+msgid "Support open source software"
+msgstr "திறந்த மூல மென்பொருளை ஆதரிக்கவும்"
+
+#, i18next-interpolation
+msgctxt ""
+"features - Sync your subscriptions, queue, and history across all your "
+"devices"
+msgid "Sync your subscriptions, queue, and history across all your devices"
+msgstr ""
+"உங்கள் எல்லா சாதனங்களிலும் உங்கள் சந்தாக்கள், வரிசை மற்றும் வரலாற்றை ஒத்திசைக்கவும்"
+
+#, fuzzy, i18next-interpolation
+msgctxt "features - value for value boostagrams"
+msgid "Boostagrams (Value for Value)"
+msgstr "Boostagrams (மதிப்புக்கான மதிப்பு)"
+
+#, i18next-interpolation
+msgctxt "features - value for value streaming"
+msgid "Streaming (Value for Value)"
+msgstr "பாய்வு (மதிப்புக்கான மதிப்பு)"
+
+#, i18next-interpolation
+msgctxt "features - video playback"
+msgid "Video playback"
+msgstr "காணொளி மீட்பொலி"
+
+#, i18next-interpolation
+msgctxt "filter from - all"
+msgid "All"
+msgstr "அனைத்தும்"
+
+#, i18next-interpolation
+msgctxt "filter from - category"
+msgid "Category"
+msgstr "வகை"
+
+#, i18next-interpolation
+msgctxt "filter from - clips"
+msgid "Clips"
+msgstr "நறுக்குகள்"
+
+#, i18next-interpolation
+msgctxt "filter from - episodes"
+msgid "Episodes"
+msgstr "இயல்கள்"
+
+#, i18next-interpolation
+msgctxt "filter from - subscribed"
+msgid "Subscribed"
+msgstr "சந்தா"
+
+#, i18next-interpolation
+msgctxt "filter from - all - aria"
+msgid "Filtering by all podcasts"
+msgstr "அனைத்து வலையொலிகளால் வடிகட்டுதல்"
+
+#, i18next-interpolation
+msgctxt "filter from - category - aria"
+msgid "Filtering by category"
+msgstr "வகைமூலம் வடிகட்டுதல்"
+
+#, i18next-interpolation
+msgctxt "filter from - subscribed - aria"
+msgid "Filtering by subscribed"
+msgstr "சந்தா செலுத்துவதன் மூலம் வடிகட்டுதல்"
+
+#, i18next-interpolation
+msgctxt "filter sorting - alphabetical"
+msgid "Alphabetical"
+msgstr "அகரவரிசை"
+
+#, i18next-interpolation
+msgctxt "filter sorting - chronological"
+msgid "Chronological"
+msgstr "காலவரிசை"
+
+#, i18next-interpolation
+msgctxt "filter sorting - most-recent"
+msgid "Recent"
+msgstr "அண்மைக் கால"
+
+#, i18next-interpolation
+msgctxt "filter sorting - oldest"
+msgid "Oldest"
+msgstr "பழமையானது"
+
+#, i18next-interpolation
+msgctxt "filter sorting - random"
+msgid "Random"
+msgstr "சீரற்ற"
+
+#, i18next-interpolation
+msgctxt "filter sorting - top-past-day"
+msgid "Top — Past Day"
+msgstr "மேல் - கடந்த நாள்"
+
+#, i18next-interpolation
+msgctxt "filter sorting - top-past-week"
+msgid "Top — Past Week"
+msgstr "மேல் - கடந்த வாரம்"
+
+#, i18next-interpolation
+msgctxt "filter sorting - top-past-month"
+msgid "Top — Past Month"
+msgstr "மேல் - கடந்த திங்கள்"
+
+#, i18next-interpolation
+msgctxt "filter sorting - top-past-year"
+msgid "Top — Past Year"
+msgstr "மேல் - கடந்த ஆண்டு"
+
+#, i18next-interpolation
+msgctxt "filter sorting - top-all-time"
+msgid "Top — All Time"
+msgstr "மேல் - எல்லா நேரமும்"
+
+#, i18next-interpolation
+msgctxt "filter status - live now"
+msgid "Live"
+msgstr "நேரலை"
+
+#, i18next-interpolation
+msgctxt "filter status - scheduled"
+msgid "Scheduled"
+msgstr "திட்டமிடப்பட்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "filter type - clips"
+msgid "Clips"
+msgstr "நறுக்குகள்"
+
+#, i18next-interpolation
+msgctxt "filter type - playlists"
+msgid "Playlists"
+msgstr "இயக்குபட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "filter type - podcasts"
+msgid "Podcasts"
+msgstr "வலையொலிகள்"
+
+#, i18next-interpolation
+msgctxt "Filtering by all podcasts"
+msgid "Filtering by all podcasts"
+msgstr "அனைத்து வலையொலிகளால் வடிகட்டுதல்"
+
+#, i18next-interpolation
+msgctxt "Filtering by category"
+msgid "Filtering by category"
+msgstr "வகைமூலம் வடிகட்டுதல்"
+
+#, i18next-interpolation
+msgctxt "Filtering by subscribed"
+msgid "Filtering by subscribed"
+msgstr "சந்தா செலுத்துவதன் மூலம் வடிகட்டுதல்"
+
+#, i18next-interpolation
+msgctxt "Finished episode"
+msgid "Finished episode"
+msgstr "முடிந்த இயல்"
+
+#, i18next-interpolation
+msgctxt "Footer links"
+msgid "Footer links"
+msgstr "அடிக்குறிப்பு இணைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "Footer links continued"
+msgid "Footer links continued"
+msgstr "அடிக்குறிப்பு இணைப்புகள் தொடர்ந்தன"
+
+#, i18next-interpolation
+msgctxt "Forgot Password"
+msgid "Forgotten Password"
+msgstr "மறந்துவிட்ட கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "Forgot password modal"
+msgid "Forgotten password"
+msgstr "மறந்துவிட்ட கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "Forgot?"
+msgid "Forgot?"
+msgstr "மறந்துவிட்டீர்களா?"
+
+#, i18next-interpolation
+msgctxt "Full screen player"
+msgid "Fullscreen player"
+msgstr "முழுத்திரை இயக்கி"
+
+#, i18next-interpolation
+msgctxt "Funding"
+msgid "Funding"
+msgstr "நிதிநல்கை"
+
+#, i18next-interpolation
+msgctxt "General"
+msgid "General"
+msgstr "பொது"
+
+#, i18next-interpolation
+msgctxt "GetItOnGooglePlay"
+msgid "Get it on Google Play"
+msgstr "கூகிள் விளையாட்டில் அதைப் பெறுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Go to current live time"
+msgid "Go to current live time"
+msgstr "தற்போதைய நேரடி நேரத்திற்குச் செல்லுங்கள்"
+
+#, i18next-interpolation
+msgctxt "hhmmss"
+msgid "hh:mm:ss"
+msgstr "hh:mm:ss"
+
+#, i18next-interpolation
+msgctxt "Hide full screen player"
+msgid "Hide fullscreen player"
+msgstr "முழுத்திரை இயக்கியை மறை"
+
+#, i18next-interpolation
+msgctxt "HideFilterButtons"
+msgid "Hide filter buttons"
+msgstr "வடிகட்டிப் பொத்தான்களை மறை"
+
+#, i18next-interpolation
+msgctxt "HidePlaybackSpeedButton"
+msgid "Hide playback-speed button"
+msgstr "பின்னணி-வேக பொத்தானை மறை"
+
+#, i18next-interpolation
+msgctxt "History"
+msgid "History"
+msgstr "வரலாறு"
+
+#, i18next-interpolation
+msgctxt "Home page"
+msgid "Landing page"
+msgstr "இறங்கும் பக்கம்"
+
+#, fuzzy, i18next-interpolation
+msgctxt "Hosts"
+msgid "Hosts"
+msgstr "ஓச்ட்கள்"
+
+#, i18next-interpolation
+msgctxt "How To"
+msgid "How To"
+msgstr "எப்படி"
+
+#, i18next-interpolation
+msgctxt "Inactive"
+msgid "Inactive"
+msgstr "செயலற்றது"
+
+#, i18next-interpolation
+msgctxt "internetConnectivityErrorMessage"
+msgid "Please connect to the Internet and try again."
+msgstr "தயவுசெய்து இணையத்துடன் இணைத்து மீண்டும் முயற்சிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "Items"
+msgid "Items"
+msgstr "உருப்படிகள்"
+
+#, i18next-interpolation
+msgctxt "Join our Discord"
+msgid "Chat with us on Discord"
+msgstr "முரண்பாட்டில் எங்களுடன் அரட்டையடிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "join our Discord server"
+msgid "Chat with us on Discord"
+msgstr "முரண்பாட்டில் எங்களுடன் அரட்டையடிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Join our Matrix space"
+msgid "Join our Matrix space"
+msgstr "எங்கள் அணி இடத்தில் சேரவும்"
+
+#, i18next-interpolation
+msgctxt "Join our XMPP server"
+msgid "Join our XMPP server"
+msgstr "எங்கள் எக்ச்எம்பிபி சேவையகத்தில் சேரவும்"
+
+#, i18next-interpolation
+msgctxt "Jump back 1 second"
+msgid "Jump back 1 second"
+msgstr "1 நொடி திரும்பிச் செல்"
+
+#, i18next-interpolation
+msgctxt "Jump back 10 seconds"
+msgid "Jump back 10 seconds"
+msgstr "10 நொடிகள் பின்னால் செல்"
+
+#, i18next-interpolation
+msgctxt "Jump forward 1 second"
+msgid "Jump forward 1 second"
+msgstr "1 நொடி முன்னோக்கி செல்"
+
+#, i18next-interpolation
+msgctxt "Jump forward 30 seconds"
+msgid "Jump forward 30 seconds"
+msgstr "30 நொடிகள் முன்னோக்கி செல்"
+
+#, i18next-interpolation
+msgctxt "Language"
+msgid "Language"
+msgstr "மொழி"
+
+#, i18next-interpolation
+msgctxt "language - de"
+msgid "German"
+msgstr "செர்மன்"
+
+#, i18next-interpolation
+msgctxt "language - en"
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+#, i18next-interpolation
+msgctxt "language - es"
+msgid "Spanish"
+msgstr "எசுப்பானியம்"
+
+#, i18next-interpolation
+msgctxt "language - el"
+msgid "Greek"
+msgstr "கிரேக்கம்"
+
+#, i18next-interpolation
+msgctxt "language - fr"
+msgid "French"
+msgstr "பிரஞ்சு"
+
+#, i18next-interpolation
+msgctxt "language - lt"
+msgid "Lithuanian"
+msgstr "லிதுவேனியன்"
+
+#, i18next-interpolation
+msgctxt "language - nb-NO"
+msgid "Norwegian"
+msgstr "நோர்வே"
+
+#, i18next-interpolation
+msgctxt "language - nl"
+msgid "Dutch"
+msgstr "டச்சு"
+
+#, i18next-interpolation
+msgctxt "language - ru"
+msgid "Russian"
+msgstr "ரச்ய"
+
+#, i18next-interpolation
+msgctxt "language - pt"
+msgid "Portuguese (Portugal)"
+msgstr "போர்த்துகீசியம் (போர்ச்சுகல்)"
+
+#, i18next-interpolation
+msgctxt "language - pt-BR"
+msgid "Portuguese (Brazil)"
+msgstr "போர்த்துகீசியம் (பிரேசில்)"
+
+#, i18next-interpolation
+msgctxt "language - sv"
+msgid "Swedish"
+msgstr "ச்வீடிச்"
+
+#, i18next-interpolation
+msgctxt "language - tr"
+msgid "Turkish"
+msgstr "துருக்கிய"
+
+#, i18next-interpolation
+msgctxt "Last Visited"
+msgid "Last Visited"
+msgstr "கடைசியாகப் பார்வையிட்டார்"
+
+#, i18next-interpolation
+msgctxt "Latest episode"
+msgid "Latest episode"
+msgstr "அண்மைக் கால இயல்"
+
+#, i18next-interpolation
+msgctxt "left"
+msgid "Left"
+msgstr "இடது"
+
+#, i18next-interpolation
+msgctxt "Learn more"
+msgid "Learn more"
+msgstr "மேலும் அறிக"
+
+#, i18next-interpolation
+msgctxt "License and free trial info"
+msgid ""
+"All Podverse software is provided under a free and open source (FOSS) "
+"licence. Features that require updating our servers are available only with "
+"a Premium membership. Sign up today and get a 3 month free trial."
+msgstr ""
+"அனைத்து ஒலிவசன மென்பொருளும் இலவச மற்றும் திறந்த மூல (ஃஒஎச்எச்) உரிமத்தின் கீழ் "
+"வழங்கப்படுகின்றன. எங்கள் சேவையகங்களைப் புதுப்பிக்க வேண்டிய நற்பொருத்தங்கள் காப்பீடு "
+"உறுப்பினருடன் மட்டுமே கிடைக்கின்றன. இன்று பதிவுசெய்து 3 திங்கள் இலவச சோதனையைப் பெறுங்கள்."
+
+#, i18next-interpolation
+msgctxt "Link to clip"
+msgid "Link to clip"
+msgstr "நறுக்குபிற்கான இணைப்பு"
+
+#, i18next-interpolation
+msgctxt "Live Chat"
+msgid "Live chat"
+msgstr "நேரடி அரட்டை"
+
+#, i18next-interpolation
+msgctxt "Live Ended"
+msgid "No longer live"
+msgstr "இனி நேரலை இல்லை"
+
+#, i18next-interpolation
+msgctxt "Live"
+msgid "Live"
+msgstr "நேரலை"
+
+#, i18next-interpolation
+msgctxt "Live Now"
+msgid "Live Now"
+msgstr "இப்போது நேரலை"
+
+#, i18next-interpolation
+msgctxt "Live Schedule"
+msgid "Live Schedule"
+msgstr "நேரடி அட்டவணை"
+
+#, i18next-interpolation
+msgctxt "Live Time"
+msgid "Live Time"
+msgstr "நேரடி நேரம்"
+
+#, i18next-interpolation
+msgctxt "Livestreams"
+msgid "Livestreams"
+msgstr "நேரடி ஒளிபரப்புகள்"
+
+#, i18next-interpolation
+msgctxt "Login"
+msgid "Log in"
+msgstr "புகுபதிகை"
+
+#, i18next-interpolation
+msgctxt "Login to continue"
+msgid "Log in to continue"
+msgstr "தொடர உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToAddItemsToPlaylists"
+msgid "Log in to add to playlists"
+msgstr "இயக்குபட்டியல்களில் சேர்க்க உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToAddItemToQueue"
+msgid "Log in to enqueue"
+msgstr "வரிசையில் இட உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToCreateAndShareClips"
+msgid "Log in to create and share clips"
+msgstr "நறுக்குகளை உருவாக்க மற்றும் பகிர உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToMarkAsPlayed"
+msgid "Log in to mark as played"
+msgstr "விளையாடியபடி அடையாளமாக உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToSubscribeToPlaylists"
+msgid "Log in to subscribe to playlists"
+msgstr "இயக்குபட்டியல்களுக்கு குழுசேர உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToSubscribeToPodcasts"
+msgid "Log in to subscribe to podcasts"
+msgstr "வலையொலிகளுக்கு குழுசேர உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToSubscribeToProfiles"
+msgid "Log in to subscribe to profiles"
+msgstr "தன்விவரங்களுக்கு குழுசேர உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToViewClipsYouCreated"
+msgid "Log in to view clips you created"
+msgstr "நீங்கள் உருவாக்கிய நறுக்குகளைக் காண உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToViewYourHistory"
+msgid "Log in to view history"
+msgstr "வரலாற்றைக் காண உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToViewYourPlaylists"
+msgid "Log in to view your playlists"
+msgstr "உங்கள் இயக்குபட்டியல்களைக் காண உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToViewYourProfile"
+msgid "Log in to view your profile"
+msgstr "உங்கள் தன்விவரத்தைக் காண உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToViewYourProfiles"
+msgid "Log in to view your profiles"
+msgstr "உங்கள் தன்விவரங்களைக் காண உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "LoginToViewYourQueue"
+msgid "Log in to view queue"
+msgstr "வரிசையைக் காண உள்நுழைக"
+
+#, i18next-interpolation
+msgctxt "Logout"
+msgid "Log out"
+msgstr "விடுபதிகை"
+
+#, i18next-interpolation
+msgctxt "Make Clip"
+msgid "Make Clip"
+msgstr "நறுக்கு செய்"
+
+#, i18next-interpolation
+msgctxt "Management"
+msgid "Management"
+msgstr "மேலாண்மை"
+
+#, i18next-interpolation
+msgctxt "Maintenance mode"
+msgid "The site is down for maintenance."
+msgstr "பராமரிப்புக்காகத் தளம் கீழே உள்ளது."
+
+#, i18next-interpolation
+msgctxt "Maintenance mode subtext"
+msgid "It will be back as soon as the update is finished."
+msgstr "புதுப்பிப்பு முடிந்தவுடன் அது திரும்பி வரும்."
+
+#, i18next-interpolation
+msgctxt "Mark as Played"
+msgid "Mark as Played"
+msgstr "விளையாடியபடி குறி"
+
+#, i18next-interpolation
+msgctxt "Mark as Unplayed"
+msgid "Mark as Unplayed"
+msgstr "விளையாடப்படாததைக் குறிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "MayAppearNextToContentYouCreate"
+msgid "May appear beside content you create"
+msgstr "நீங்கள் உருவாக்கும் உள்ளடக்கத்திற்கு அருகில் தோன்றலாம்"
+
+#, i18next-interpolation
+msgctxt "Media player controls"
+msgid "Controls for the media player"
+msgstr "ஊடக இயக்கிக்கான கட்டுப்பாடுகள்"
+
+#, i18next-interpolation
+msgctxt "Membership"
+msgid "Membership"
+msgstr "உறுப்பினர்"
+
+#, i18next-interpolation
+msgctxt "MembershipEnded"
+msgid "Please renew Podverse Premium to use all features."
+msgstr ""
+"எல்லா நற்பொருத்தங்களையும் பயன்படுத்த ஒலிவசனம் மதிப்பு எச்சத்தைப் புதுப்பிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "MembershipInactive"
+msgid "Please renew your inactive Podverse Premium to use all features."
+msgstr ""
+"எல்லா நற்பொருத்தங்களையும் பயன்படுத்த உங்கள் செயலற்ற ஒலிவசனம் மதிப்பு எச்சத்தைப் "
+"புதுப்பிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "Membership preview text legend"
+msgid "Click the play icon to watch a preview of the feature."
+msgstr "நற்பொருத்தத்தின் முன்னோட்டத்தைக் காண இயக்கு சின்னத்தைக் சொடுக்குக."
+
+#, i18next-interpolation
+msgctxt "Mission statement"
+msgid ""
+"Podverse creates free and open source software to expand what is possible in "
+"podcasting."
+msgstr ""
+"வலையொலியில் நிகழக்கூடியதை விரிவாக்க ஒலிவசனம் இலவச மற்றும் திறந்த மூல மென்பொருளை "
+"உருவாக்குகிறது."
+
+#, i18next-interpolation
+msgctxt "Mobile App"
+msgid "Mobile App"
+msgstr "கைபேசி பயன்பாடு"
+
+#, i18next-interpolation
+msgctxt "More"
+msgid "More"
+msgstr "மேலும்"
+
+#, i18next-interpolation
+msgctxt "Move"
+msgid "Move"
+msgstr "நகர்த்தவும்"
+
+#, i18next-interpolation
+msgctxt "Must be a number larger than 1"
+msgid "Must be 2 or more"
+msgstr "2 அல்லது அதற்கு மேற்பட்டதாக இருக்க வேண்டும்"
+
+#, i18next-interpolation
+msgctxt "Mute"
+msgid "Mute"
+msgstr "ஒலிமுடக்கு"
+
+#, i18next-interpolation
+msgctxt "My account"
+msgid "My account"
+msgstr "எனது கணக்கு"
+
+#, i18next-interpolation
+msgctxt "MyClips"
+msgid "My Clips"
+msgstr "என் நறுக்குகள்"
+
+#, i18next-interpolation
+msgctxt "MyData"
+msgid "My Data"
+msgstr "எனது தரவு"
+
+#, i18next-interpolation
+msgctxt "MyLibrary"
+msgid "My Library"
+msgstr "எனது நூலகம்"
+
+#, i18next-interpolation
+msgctxt "MyProfile"
+msgid "My Profile"
+msgstr "எனது தன்விவரம்"
+
+#, i18next-interpolation
+msgctxt "Navigation menu"
+msgid "Navigation menu"
+msgstr "வழிசெலுத்தல் பட்டியல்"
+
+#, i18next-interpolation
+msgctxt "New Password"
+msgid "New Password"
+msgstr "புதிய கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "Next chapter"
+msgid "Next chapter"
+msgstr "அடுத்த பாடம்"
+
+#, i18next-interpolation
+msgctxt "Next track"
+msgid "Next track"
+msgstr "அடுத்த பாடல்"
+
+#, i18next-interpolation
+msgctxt "Next Up"
+msgid "Next Up"
+msgstr "அடுத்து"
+
+#, i18next-interpolation
+msgctxt "No"
+msgid "No"
+msgstr "இல்லை"
+
+#, i18next-interpolation
+msgctxt "No chapters found"
+msgid "Could not find any chapters"
+msgstr "எந்தப் பாடங்களையும் கண்டுபிடிக்க முடியவில்லை"
+
+#, i18next-interpolation
+msgctxt "No clips found"
+msgid "Could not find any clips"
+msgstr "எந்த நறுக்குகளையும் கண்டுபிடிக்க முடியவில்லை"
+
+#, i18next-interpolation
+msgctxt "No episode notes available"
+msgid "Could not find any episode notes"
+msgstr "எந்த இயல் குறிப்புகளையும் கண்டுபிடிக்க முடியவில்லை"
+
+#, i18next-interpolation
+msgctxt "No results found"
+msgid "No results"
+msgstr "முடிவுகள் இல்லை"
+
+#, i18next-interpolation
+msgctxt "Not subscribed to any podcasts"
+msgid "You have no podcast subscriptions yet"
+msgstr "உங்களிடம் இதுவரை வலையொலி சந்தாக்கள் இல்லை"
+
+#, i18next-interpolation
+msgctxt "Only with link"
+msgid "Only with link"
+msgstr "இணைப்புடன் மட்டுமே"
+
+#, i18next-interpolation
+msgctxt "Open in Podverse"
+msgid "Open in Podverse"
+msgstr "ஒலிவசனத்தில் திற"
+
+#, i18next-interpolation
+msgctxt "open source"
+msgid "Open Source"
+msgstr "திறந்த மூல"
+
+#, i18next-interpolation
+msgctxt "Open web chat"
+msgid "Open web chat"
+msgstr "வலை அரட்டையைத் திற"
+
+#, i18next-interpolation
+msgctxt "optional"
+msgid "Optional"
+msgstr "விரும்பினால்"
+
+#, i18next-interpolation
+msgctxt "Page next"
+msgid "Next page"
+msgstr "அடுத்த பக்கம்"
+
+#, i18next-interpolation
+msgctxt "Page not found"
+msgid "Could not find the page"
+msgstr "பக்கத்தைக் கண்டுபிடிக்க முடியவில்லை"
+
+#, i18next-interpolation
+msgctxt "Page numbers"
+msgid "Pagination"
+msgstr "பக்கமாக்கல்"
+
+#, i18next-interpolation
+msgctxt "Page out of range"
+msgid "`The page number must be below {{totalPages}}."
+msgstr "`பக்க எண் {{totalPages}} விடக் குறைவாக இருக்க வேண்டும்."
+
+#, i18next-interpolation
+msgctxt "Page previous"
+msgid "Previous page"
+msgstr "முந்தைய பக்கம்"
+
+#, i18next-interpolation
+msgctxt "pages-about_Description"
+msgid ""
+"Podcasting 2.0 certified player for Android, F-Droid, iOS, and the web. "
+"Share created clips, highlights, playlists, and chapters, sync your queue "
+"and history to all devices, and create backups with Podverse Premium. Value-"
+"for-value (V4V) funding. Not only Open Source, but also copylefted libre "
+"software. Explore the Podcast Index with popularity, profiles, and "
+"transcripts."
+msgstr ""
+"ஆண்ட்ராய்டு, எஃப்-டிராய்டு, ஐஇமு மற்றும் வலை ஆகியவற்றிற்கான வலையொலி 2.0 சான்றளிக்கப்பட்ட "
+"இயக்கி. பகிரப்பட்ட நறுக்குகள், நற்பண்புகள், இயக்குபட்டியல்கள் மற்றும் பாடங்களைப் பகிரவும், "
+"உங்கள் வரிசை மற்றும் வரலாற்றை எல்லா சாதனங்களுக்கும் ஒத்திசைக்கவும், ஒலிவசனம் மதிப்பு "
+"எச்சத்துடன் காப்புப்பிரதிகளை உருவாக்கவும். மதிப்பிற்கு-மதிப்பு (ம-ம) நிதிநல்கை. திறந்த "
+"மூலத்தை மட்டுமல்ல, நகலெடுக்கும் விடுதலை மென்பொருளும். புகழ், தன்விவரங்கள் மற்றும் "
+"பெயர்ப்புரைகளுடன் வலையொலி குறியீட்டை ஆராயுங்கள்."
+
+#, i18next-interpolation
+msgctxt "pages-about_Title"
+msgid "About"
+msgstr "பற்றி"
+
+#, i18next-interpolation
+msgctxt "pages-account-claim-token_Title"
+msgid "Account Claim Token"
+msgstr "கணக்கு உரிமைகோரல் கிள்ளாக்கு"
+
+#, i18next-interpolation
+msgctxt "pages-admin_Title"
+msgid "Admin"
+msgstr "நிர்வாகி"
+
+#, i18next-interpolation
+msgctxt "pages-chat_Description"
+msgid "Chat with the Podverse community."
+msgstr "ஒலிவசன சமூகத்துடன் அரட்டையடிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "pages-chat_Title"
+msgid "Podverse Chat"
+msgstr "ஒலிவசன அரட்டை"
+
+#, i18next-interpolation
+msgctxt "pages-clips_Title"
+msgid "Clips"
+msgstr "நறுக்குகள்"
+
+#, i18next-interpolation
+msgctxt "pages-contact_Description"
+msgid "Contact Podverse"
+msgstr "ஒலிவசனத்தைத் தொடர்பு கொள்"
+
+#, i18next-interpolation
+msgctxt "pages-contact_Title"
+msgid "Contact"
+msgstr "தொடர்பு"
+
+#, i18next-interpolation
+msgctxt "pages-coupon_Description"
+msgid "Redeem your offer"
+msgstr "உங்கள் சலுகையை மீட்டெடுக்கவும்"
+
+#, i18next-interpolation
+msgctxt "pages-coupon_Title"
+msgid "Coupon"
+msgstr "கைச்சீட்டு"
+
+#, i18next-interpolation
+msgctxt "pages-embed-player-demo_Description"
+msgid "What the embeddable Podverse player looks like."
+msgstr "உட்பொதிக்கக்கூடிய ஒலிவசன இயக்கி எப்படி இருக்கும்."
+
+#, i18next-interpolation
+msgctxt "pages-embed-player-demo_Title"
+msgid "Demo of the Embeddeddable Player"
+msgstr "உட்பொதிக்கக்கூடிய ஒலிவசன இயக்கியின் செயற்காட்சி"
+
+#, i18next-interpolation
+msgctxt "pages-embed-player-demo-custom-css_Description"
+msgid "What the embeddable Podverse player looks like."
+msgstr "உட்பொதிக்கக்கூடிய ஒலிவசன இயக்கி எப்படி இருக்கும்."
+
+#, i18next-interpolation
+msgctxt "pages-embed-player-demo-custom-css_Title"
+msgid "Embed with Custom CSS"
+msgstr "தனிப்பயன் சிஎச்எச் உடன் உட்பொதிக்கப்பட்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "pages-episodes_Title"
+msgid "Episodes"
+msgstr "இயல்கள்"
+
+#, i18next-interpolation
+msgctxt "pages-extend-membership_Title"
+msgid "Extend Membership"
+msgstr "உறுப்பினரை நீட்டி"
+
+#, i18next-interpolation
+msgctxt "pages-history_Title"
+msgid "History"
+msgstr "வரலாறு"
+
+#, i18next-interpolation
+msgctxt "pages-index_Title"
+msgid "Podverse"
+msgstr "ஒலிவசனம்"
+
+#, i18next-interpolation
+msgctxt "pages-live-items_Title"
+msgid "Livestreams"
+msgstr "நேரடி ஒளிபரப்புகள்"
+
+#, i18next-interpolation
+msgctxt "pages-membership_Title"
+msgid "Membership"
+msgstr "உறுப்பினர்"
+
+#, i18next-interpolation
+msgctxt "pages-my_profile_Title"
+msgid "My Profile"
+msgstr "எனது தன்விவரம்"
+
+#, i18next-interpolation
+msgctxt "pages-payment_paypal_confirming_Description"
+msgid "PayPal payment confirmation in Podverse"
+msgstr "ஒலிவசனத்தில் செலுத்துநண்பன் கட்டண உறுதிப்படுத்தல்"
+
+#, i18next-interpolation
+msgctxt "pages-payment_paypal_confirming_Title"
+msgid "Confirming PayPal payment…"
+msgstr "செலுத்துநண்பன் கட்டணத்தை உறுதிப்படுத்துகிறது…"
+
+#, i18next-interpolation
+msgctxt "pages-playlists_Title"
+msgid "Playlists"
+msgstr "இயக்குபட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "pages-podcasts_Title"
+msgid "Podcasts"
+msgstr "வலையொலிகள்"
+
+#, i18next-interpolation
+msgctxt "pages-podping-admin_Title"
+msgid "Podping Admin"
+msgstr "நிர்வாகி நெற்று"
+
+#, i18next-interpolation
+msgctxt "pages-profiles_Title"
+msgid "Profiles"
+msgstr "தன்விவரங்கள்"
+
+#, i18next-interpolation
+msgctxt "pages-queue_Title"
+msgid "Queue"
+msgstr "வரிசை"
+
+#, i18next-interpolation
+msgctxt "pages-reset_password_Description"
+msgid "Reset your account password in Podverse"
+msgstr "உங்கள் கணக்கு கடவுச்சொல்லை ஒலிவசனத்தில் மீட்டமை"
+
+#, i18next-interpolation
+msgctxt "pages-reset_password_Title"
+msgid "Reset Password"
+msgstr "கடவுச்சொல்லை மீட்டமை"
+
+#, i18next-interpolation
+msgctxt "pages-search_Title"
+msgid "Search"
+msgstr "தேடல்"
+
+#, i18next-interpolation
+msgctxt "pages-settings_Title"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "pages-support_Description"
+msgid "How to pay what Podverse is worth to you"
+msgstr "ஒலிவசனம் உங்களுக்கு மதிப்புள்ளதை எவ்வாறு செலுத்துவது"
+
+#, i18next-interpolation
+msgctxt "pages-support_Title"
+msgid "Support"
+msgstr "உதவி"
+
+#, i18next-interpolation
+msgctxt "pages-terms_Description"
+msgid "Podverse Terms of Service"
+msgstr "ஒலிவசனம் பணி விதிமுறைகள்"
+
+#, i18next-interpolation
+msgctxt "pages-terms_Title"
+msgid "Terms of Service"
+msgstr "பணி விதிமுறைகள்"
+
+#, i18next-interpolation
+msgctxt "pages-tutorials_Description"
+msgid ""
+"Tutorials and frequently asked questions about how to use the Podverse web "
+"and mobile apps."
+msgstr ""
+"ஒலிவசனம் வலை மற்றும் கைபேசி பயன்பாடுகளை எவ்வாறு பயன்படுத்துவது என்பது குறித்த பயிற்சிகள் "
+"மற்றும் அடிக்கடி கேட்கப்படும் கேள்விகள்."
+
+#, i18next-interpolation
+msgctxt "pages-tutorials_Title"
+msgid "Tutorials"
+msgstr "பயிற்சிகள்"
+
+#, i18next-interpolation
+msgctxt "pages-v4vWallet_Description"
+msgid ""
+"A browser extension that lets you send Bitcoin to content creators on any "
+"value-for-value website."
+msgstr ""
+"மதிப்பிற்கானமதிப்புக்கான எந்தவொரு வலைத்தளத்திலும் உள்ளடக்கப் படைப்பாளர்களுக்கு மின்காசை "
+"அனுப்ப உங்களை அனுமதிக்கும் உலாவி நீட்டிப்பு."
+
+#, i18next-interpolation
+msgctxt "pages-v4vWallet_Title"
+msgid "Value-for-value wallet"
+msgstr "மதிப்பு-மதிப்புக்கான பணப்பையை"
+
+#, i18next-interpolation
+msgctxt "pages-verify_email_Description"
+msgid "Verify your e-mail address in Podverse"
+msgstr "உங்கள் மின்னஞ்சல் முகவரியை ஒலிவசனத்தில் சரிபார்"
+
+#, i18next-interpolation
+msgctxt "pages-verify_email_Title"
+msgid "Verify your e-mail address"
+msgstr "உங்கள் மின்னஞ்சல் முகவரியை சரிபார்"
+
+#, i18next-interpolation
+msgctxt "pages-xmpp_Description"
+msgid "About the Podverse XMPP server"
+msgstr "ஒலிவசனம் எக்ச்எம்பிபி சேவையகம் பற்றி"
+
+#, i18next-interpolation
+msgctxt "pages-xmpp_Title"
+msgid "Podverse XMPP"
+msgstr "ஒலிவசனம் எக்ச்எம்பிபி"
+
+#, i18next-interpolation
+msgctxt "Parse feed"
+msgid "Parse feed"
+msgstr "பாகுபடுத்தி தீவனம்"
+
+#, i18next-interpolation
+msgctxt "Password"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, i18next-interpolation
+msgctxt "Password must contain"
+msgid ""
+"Passwords must have a number, an upper and lowercase letter, and at least 8 "
+"characters."
+msgstr ""
+"கடவுச்சொற்களில் ஒரு எண், மேல் மற்றும் சிறிய எழுத்து மற்றும் குறைந்தது 8 எழுத்துக்கள் இருக்க "
+"வேண்டும்."
+
+#, i18next-interpolation
+msgctxt "Password requirements explanation"
+msgid ""
+"Your password must contain a lowercase letter, an uppercase letter, a "
+"number, and be at least 8 characters long."
+msgstr ""
+"உங்கள் கடவுச்சொல்லில் சிறிய எழுத்து, ஒரு பெரிய எழுத்து, ஒரு எண் இருக்க வேண்டும், மேலும் "
+"குறைந்தது 8 எழுத்துக்கள் நீளமாக இருக்க வேண்டும்."
+
+#, i18next-interpolation
+msgctxt "password validation - has lowercase"
+msgid "— lowercase"
+msgstr "- சிறிய எழுத்துக்கள்"
+
+#, i18next-interpolation
+msgctxt "password validation - has number"
+msgid "— number"
+msgstr "- எண்"
+
+#, i18next-interpolation
+msgctxt "password validation - has uppercase"
+msgid "— uppercase"
+msgstr "- பெரிய எழுத்து"
+
+#, i18next-interpolation
+msgctxt "password validation - is at least 8 characters"
+msgid "— at least 8 characters"
+msgstr "- குறைந்தது 8 எழுத்துக்கள்"
+
+#, i18next-interpolation
+msgctxt "passwordMatchError"
+msgid "Mismatching passwords."
+msgstr "பொருந்தாத கடவுச்சொற்கள்."
+
+#, i18next-interpolation
+msgctxt "Pause this clip"
+msgid "Pause clip"
+msgstr "இடைநிறுத்த நறுக்கு"
+
+#, i18next-interpolation
+msgctxt "Pause this episode"
+msgid "Pause episode"
+msgstr "இடைநிறுத்த இயல்"
+
+#, i18next-interpolation
+msgctxt "Play"
+msgid "Play"
+msgstr "விளையாடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Play Last"
+msgid "Play last"
+msgstr "கடைசியாக விளையாடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Play Next"
+msgid "Play next"
+msgstr "அடுத்து விளையாடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Play this chapter"
+msgid "Play chapter"
+msgstr "பாடம் விளையாடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Play this clip"
+msgid "Play clip"
+msgstr "நறுக்கு விளையாடுங்கள்"
+
+#, i18next-interpolation
+msgctxt "Play this episode"
+msgid "Play episode"
+msgstr "இயல் விளையாடு"
+
+#, i18next-interpolation
+msgctxt "Playback speed"
+msgid "Playback speed"
+msgstr "பின்னணி விரைவு"
+
+#, i18next-interpolation
+msgctxt "Player progress bar"
+msgid "Progress bar"
+msgstr "முன்னேற்றப் பட்டி"
+
+#, i18next-interpolation
+msgctxt "Playlist"
+msgid "Playlist"
+msgstr "இயக்குபட்டியல்"
+
+#, i18next-interpolation
+msgctxt "Playlist Title"
+msgid "Playlist Title"
+msgstr "இயக்குபட்டியல் தலைப்பு"
+
+#, i18next-interpolation
+msgctxt "playlistOnPodverse"
+msgid " — playlist in Podverse "
+msgstr " - இயக்குபட்டியல் மற்றும் ஒலிவசனம் "
+
+#, i18next-interpolation
+msgctxt "Playlists"
+msgid "Playlists"
+msgstr "இயக்குபட்டியல்கள்"
+
+#, i18next-interpolation
+msgctxt "PleaseProvideValidEmail"
+msgid "Please correct the e-mail address"
+msgstr "மின்னஞ்சல் முகவரியை சரிசெய்யவும்"
+
+#, i18next-interpolation
+msgctxt "PleaseVerifyEmail"
+msgid "Please verify your e-mail address to log in."
+msgstr "உள்நுழைய உங்கள் மின்னஞ்சல் முகவரியை சரிபார்க்கவும்."
+
+#, i18next-interpolation
+msgctxt "Podcast"
+msgid "Podcast"
+msgstr "வலையொலி"
+
+#, i18next-interpolation
+msgctxt "Podcast with all episodes"
+msgid "Podcast with all episodes"
+msgstr "எல்லா இயல்களுடனும் வலையொலி"
+
+#, i18next-interpolation
+msgctxt "Podcast artwork"
+msgid "Podcast artwork"
+msgstr "வலையொலி கலைப்படைப்பு"
+
+#, i18next-interpolation
+msgctxt "Podcast Request"
+msgid "Podcast request"
+msgstr "வலையொலி கோரிக்கை"
+
+#, i18next-interpolation
+msgctxt "Podcast title"
+msgid "Podcast title"
+msgstr "வலையொலி தலைப்பு"
+
+#, i18next-interpolation
+msgctxt "Podcasts"
+msgid "Podcasts"
+msgstr "வலையொலிகள்"
+
+#, i18next-interpolation
+msgctxt "Podping Admin Tools"
+msgid "Podping Administration"
+msgstr "நெற்று நிர்வாகம்"
+
+#, i18next-interpolation
+msgctxt "Podverse logo"
+msgid "Podverse logo"
+msgstr "ஒலிவசனத்திற்கு உட்பட்டது"
+
+#, i18next-interpolation
+msgctxt "Podverse is a FOSS podcast manager"
+msgid "Podverse is a FOSS podcast manager for iOS, Android, F-Droid, and web."
+msgstr ""
+"ஒலிவசனம் என்பது ஐஇமு, ஆண்ட்ராய்டு, ஃப்-டராய்டு மற்றும் விரலிடைத் தோல்லுக்கான ஃப்ஒஎசெச் வலையொலி "
+"மேலாளர்."
+
+#, i18next-interpolation
+msgctxt "Premium"
+msgid "Premium"
+msgstr "காப்பீடு"
+
+#, i18next-interpolation, ignore-same
+msgctxt "PremiumFreeTrial"
+msgid "Premium — Free Trial"
+msgstr "காப்பீடு - இலவச சோதனை"
+
+#, i18next-interpolation
+msgctxt "PremiumMembershipRequired"
+msgid "Purchase Podverse Premium to use this"
+msgstr "இதைப் பயன்படுத்த ஒலிவசனம் காப்பீடு வாங்கவும்"
+
+#, i18next-interpolation
+msgctxt "Press the left or right arrows to adjust the time"
+msgid "Click the left- or rightward arrows to adjust the time"
+msgstr "நேரத்தை சரிசெய்ய இடது அல்லது வலதுசாரி அம்புகளைக் சொடுக்குக"
+
+#, i18next-interpolation
+msgctxt "Preview"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#, i18next-interpolation
+msgctxt "Preview clip before end time"
+msgid "Preview clip ending"
+msgstr "முன்னோட்டம் நறுக்கு முடிவுக்கு வருகிறது"
+
+#, i18next-interpolation
+msgctxt "Preview clip before start time"
+msgid "Preview clip start"
+msgstr "முன்னோட்டம் நறுக்கு தொடங்குகிறது"
+
+#, i18next-interpolation
+msgctxt "Previous chapter"
+msgid "Previous chapter"
+msgstr "முந்தைய பாடம்"
+
+#, i18next-interpolation
+msgctxt "Previous track"
+msgid "Previous track"
+msgstr "முந்தைய பாடல்"
+
+#, i18next-interpolation
+msgctxt "Private"
+msgid "Private"
+msgstr "தனிப்பட்ட"
+
+#, i18next-interpolation
+msgctxt "Processing Payment"
+msgid "Processing payment…"
+msgstr "கட்டண செயலாக்க…"
+
+#, i18next-interpolation
+msgctxt "Profile"
+msgid "Profile"
+msgstr "தன்விவரம்"
+
+#, i18next-interpolation
+msgctxt "Profiles"
+msgid "Profiles"
+msgstr "தன்விவரங்கள்"
+
+#, i18next-interpolation
+msgctxt "Public"
+msgid "Public"
+msgstr "பொது"
+
+#, i18next-interpolation
+msgctxt "Queue"
+msgid "Queue"
+msgstr "வரிசை"
+
+#, i18next-interpolation
+msgctxt "Queue Last"
+msgid "Queue: Last"
+msgstr "வரிசை: கடைசியாக"
+
+#, i18next-interpolation
+msgctxt "Queue Next"
+msgid "Queue: Next"
+msgstr "வரிசை: அடுத்து"
+
+#, i18next-interpolation
+msgctxt "RatingsProvidedByPodcasters"
+msgid "Ratings are provided by podcasters,"
+msgstr "மதிப்பீடுகள் வலையொலியாளர்களால் வழங்கப்படுகின்றன,"
+
+#, i18next-interpolation
+msgctxt "Report a content issue"
+msgid "Report a content issue"
+msgstr "உள்ளடக்க சிக்கலைப் புகாரளிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+#, i18next-interpolation
+msgctxt "Remove All"
+msgid "Remove All"
+msgstr "அனைத்தையும் அகற்று"
+
+#, i18next-interpolation
+msgctxt "Renew"
+msgid "Renew"
+msgstr "புதுப்பித்தல்"
+
+#, i18next-interpolation
+msgctxt "Reset Password"
+msgid "Reset Password"
+msgstr "கடவுச்சொல்லை மீட்டமை"
+
+#, i18next-interpolation
+msgctxt "Reset password email sent1"
+msgid "E-mail sent."
+msgstr "மின்னஞ்சல் அனுப்பப்பட்டது."
+
+#, i18next-interpolation
+msgctxt "Reset password email sent2"
+msgid "The e-mail may be in your spam folder."
+msgstr "மின்னஞ்சல் உங்கள் பழுதான கோப்புறையில் இருக்கலாம்."
+
+#, i18next-interpolation
+msgctxt "Reset password successful"
+msgid "You can now use your new password"
+msgstr "இப்போது உங்கள் புதிய கடவுச்சொல்லைப் பயன்படுத்தலாம்"
+
+#, i18next-interpolation
+msgctxt "RSS Feed"
+msgid "RSS Feed"
+msgstr "ஆர்எச்எச் ஊட்டம்"
+
+#, i18next-interpolation
+msgctxt "RSS Feed Link"
+msgid "RSS Feed Link"
+msgstr "ஆர்எச்எச் ஊட்ட இணைப்பு"
+
+#, i18next-interpolation
+msgctxt "RSS Feed URL"
+msgid "RSS Feed URL"
+msgstr "ஆர்எச்எச் ஊட்ட முகவரி"
+
+#, i18next-interpolation
+msgctxt "Save"
+msgid "Save"
+msgstr "சேமி"
+
+#, i18next-interpolation
+msgctxt "Scheduled"
+msgid "Scheduled"
+msgstr "திட்டமிடப்பட்டுள்ளது"
+
+#, i18next-interpolation
+msgctxt "Search"
+msgid "Search"
+msgstr "தேடல்"
+
+#, i18next-interpolation
+msgctxt "Search clips"
+msgid "Search clips"
+msgstr "நறுக்குகளைத் தேடு"
+
+#, i18next-interpolation
+msgctxt "Search episodes"
+msgid "Search episodes"
+msgstr "இயல்களைத் தேடு"
+
+#, i18next-interpolation
+msgctxt "Search livestreams"
+msgid "Search livestreams"
+msgstr "நேரடி ஒளிபரப்புகளைத் தேடு"
+
+#, i18next-interpolation
+msgctxt "Search podcasts"
+msgid "Search podcasts"
+msgstr "வலையொலிகளைத் தேடு"
+
+#, i18next-interpolation
+msgctxt "SearchError"
+msgid "Please connect to the Internet and try again."
+msgstr "தயவுசெய்து இணையத்துடன் இணைத்து மீண்டும் முயற்சிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "Select by category"
+msgid "Select by category"
+msgstr "வகை மூலம் தேர்ந்தெடுக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Send Bitcoin donations and boostagrams to podcasters"
+msgid "Send Bitcoin donations and boostagrams to podcasters"
+msgstr ""
+"பிட்காயின் நன்கொடைகள் மற்றும் பூச்டாகிராம்களை போச்ட்காச்டர்களுக்கு அனுப்பவும்"
+
+#. This text is for a temporary feature that lets podcasters send a "going live" or "livestream ended" notification to Podping, which then sends a notification to all podcast apps that are listening for Podping livestream updates.
+#, i18next-interpolation
+msgctxt "Send Podping live status notification"
+msgid "Notify Podping when podcasting"
+msgstr "வலையொலியின் போது நெற்றிற்கு அறிவிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "send us an email"
+msgid "Send us an e-mail"
+msgstr "எங்களுக்கு ஒரு மின்னஞ்சல் அனுப்புங்கள்"
+
+#, i18next-interpolation
+msgctxt "Settings"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "Share"
+msgid "Share"
+msgstr "பங்கு"
+
+#, i18next-interpolation
+msgctxt "Share Clip"
+msgid "Share Clip"
+msgstr "நறுக்கைப் பகிர்"
+
+#, i18next-interpolation
+msgctxt "Show all podcasts"
+msgid "Show all podcasts"
+msgstr "அனைத்து வலையொலிகளையும் காட்டு"
+
+#, i18next-interpolation
+msgctxt "Show full screen player"
+msgid "Show fullscreen player"
+msgstr "முழுத்திரை இயக்கியைக் காட்டு"
+
+#, i18next-interpolation
+msgctxt "Show More"
+msgid "Show More"
+msgstr "மேலும் காட்டு"
+
+#, i18next-interpolation
+msgctxt "Show navigation menu"
+msgid "Show navigation menu"
+msgstr "வழிசெலுத்தல் பட்டியலைக் காட்டு"
+
+#, i18next-interpolation
+msgctxt "Sign Up"
+msgid "Sign Up"
+msgstr "பதிவு செய்க"
+
+#, i18next-interpolation
+msgctxt "Sign up modal"
+msgid "Registration"
+msgstr "பதிவு"
+
+#, i18next-interpolation
+msgctxt "Skip to page"
+msgid "Skip to page"
+msgstr "பக்கத்திற்குச் செல்"
+
+#, i18next-interpolation
+msgctxt "Social Media - Discord"
+msgid "Join our Discord server"
+msgstr "எங்கள் முரண்பாடு சேவையகத்தில் சேரவும்"
+
+#, i18next-interpolation
+msgctxt "Social Media - GitHub"
+msgid "Source code on GitHub"
+msgstr "அறிவிலிமையத்தில் மூலக் குறியீடு"
+
+#, i18next-interpolation
+msgctxt "Social Media - Mastodon"
+msgid "Follow us on Mastodon"
+msgstr "மாச்டோடனில் எங்களைப் பின்தொடரவும்"
+
+#, i18next-interpolation
+msgctxt "Social Media - reddit"
+msgid "Join us on Reddit"
+msgstr "ரெடிட்டில் எங்களுடன் சேருங்கள்"
+
+#, i18next-interpolation
+msgctxt "Social Media - Twitter"
+msgid "Follow us on Twitter"
+msgstr "கீச்சகத்தில் எங்களைப் பின்தொடரவும்"
+
+#, i18next-interpolation
+msgctxt "Social Media - XMPP"
+msgid "Chat with us on our XMPP server"
+msgstr "எங்கள் எக்ச்எம்பிபி சேவையகத்தில் எங்களுடன் அரட்டையடிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Social media links"
+msgid "Links to social media"
+msgstr "சமூக ஊடகங்களுக்கான இணைப்புகள்"
+
+#, i18next-interpolation
+msgctxt "Something went wrong"
+msgid "Please connect to the Internet and try again."
+msgstr "தயவுசெய்து இணையத்துடன் இணைத்து மீண்டும் முயற்சிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "Source"
+msgid "Source"
+msgstr "மூலம்"
+
+#, i18next-interpolation
+msgctxt "Start"
+msgid "Start"
+msgstr "தொடங்கு"
+
+#, i18next-interpolation
+msgctxt "Start livestream"
+msgid "Start livestream"
+msgstr "நேரடி ஒளிபரப்பை தொடங்கவும்"
+
+#, i18next-interpolation
+msgctxt "Start time"
+msgid "Start-time"
+msgstr "தொடக்க நேரம்"
+
+#, i18next-interpolation
+msgctxt "Status"
+msgid "Status"
+msgstr "நிலை"
+
+#, i18next-interpolation
+msgctxt "Submit"
+msgid "Submit"
+msgstr "சமர்ப்பிக்கவும்"
+
+#, i18next-interpolation
+msgctxt "Subscribe"
+msgid "Subscribe"
+msgstr "குழுசேர்"
+
+#, i18next-interpolation
+msgctxt "Subscribed"
+msgid "Subscribed"
+msgstr "சந்தா"
+
+#, i18next-interpolation
+msgctxt "Support Podverse"
+msgid "Support Podverse"
+msgstr "உதவி ஒலிவசனம்"
+
+#, i18next-interpolation
+msgctxt "Terms"
+msgid "Terms"
+msgstr "விதிமுறைகள்"
+
+#, i18next-interpolation
+msgctxt "This feature is only available for premium members"
+msgid "Please log in with or renew your Podverse Premium first."
+msgstr ""
+"முதலில் உங்கள் ஒலிவசனம் காப்பீடுடன் உள்நுழைய அல்லது புதுப்பிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "This token has been claimed"
+msgid "This token has been claimed or it does not exist."
+msgstr "இந்த கிள்ளாக்கு உரிமை கோரப்பட்டுள்ளது அல்லது அது இல்லை."
+
+#, i18next-interpolation
+msgctxt "Transcript"
+msgid "Transcript"
+msgstr "பெயர்ப்புரைகள்"
+
+#, i18next-interpolation
+msgctxt "Transcript search"
+msgid "Search transcript"
+msgstr "பெயர்ப்புரையைத் தேடு"
+
+#, i18next-interpolation
+msgctxt "TrialEnded"
+msgid "Please renew Podverse Premium to use all features."
+msgstr "எல்லா நற்பொருத்தங்களையும் பயன்படுத்த ஒலிவசனம் காப்பீடத்தை புதுப்பிக்கவும்."
+
+#, i18next-interpolation
+msgctxt "Tutorials"
+msgid "Tutorials"
+msgstr "பயிற்சிகள்"
+
+#, i18next-interpolation
+msgctxt "tutorials link - history"
+msgid "Learn more about history"
+msgstr "வரலாறு பற்றி மேலும் அறிக"
+
+#, i18next-interpolation
+msgctxt "tutorials link - playlists"
+msgid "Learn more about playlists"
+msgstr "இயக்குபட்டியல்களைப் பற்றி மேலும் அறிக"
+
+#, i18next-interpolation
+msgctxt "tutorials link - profiles"
+msgid "Learn more about profiles"
+msgstr "தன்விவரங்களைப் பற்றி மேலும் அறிக"
+
+#, i18next-interpolation
+msgctxt "tutorials link - queue"
+msgid "Learn more about queue"
+msgstr "வரிசை பற்றி மேலும் அறிக"
+
+#, i18next-interpolation
+msgctxt "tutorials link - tutorials"
+msgid "Go to tutorials page"
+msgstr "பயிற்சிகள் பக்கத்திற்குச் செல்"
+
+#, i18next-interpolation
+msgctxt "Try premium free for 3 months"
+msgid "Try Premium free for 3 months!"
+msgstr "காப்பீடு இலவசமாக 3 திங்களுக்கு முயற்சிக்கவும்!"
+
+#, i18next-interpolation
+msgctxt "Type"
+msgid "Type"
+msgstr "வகை"
+
+#, i18next-interpolation
+msgctxt "Type a title for your playlist"
+msgid "Type a title for your playlist"
+msgstr "உங்கள் இயக்குபட்டியலுக்கு ஒரு தலைப்பை தட்டச்சு செய்க"
+
+#, i18next-interpolation
+msgctxt "Type delete"
+msgid "Type \"delete\""
+msgstr "\"நீக்கு\""
+
+#, i18next-interpolation
+msgctxt "Unsubscribe"
+msgid "Unsubscribe"
+msgstr "குழுவிலகவும்"
+
+#, i18next-interpolation
+msgctxt "Unsupported file type alert"
+msgid "This filetype is not supported yet."
+msgstr "இந்த கோப்பு வகை இன்னும் ஆதரிக்கப்படவில்லை."
+
+#, i18next-interpolation
+msgctxt "untitledChapter"
+msgid "Untitled Chapter"
+msgstr "பெயரிடப்படாத பாடம்"
+
+#, i18next-interpolation
+msgctxt "untitledClip"
+msgid "Untitled Clip"
+msgstr "பெயரிடப்படாத நறுக்கு"
+
+#, i18next-interpolation
+msgctxt "untitledEpisode"
+msgid "Untitled Episode"
+msgstr "பெயரிடப்படாத இயல்"
+
+#, i18next-interpolation
+msgctxt "untitledPlaylist"
+msgid "Untitled Playlist"
+msgstr "பெயரிடப்படாத இயக்குபட்டியல்"
+
+#, i18next-interpolation
+msgctxt "untitledPodcast"
+msgid "Untitled Podcast"
+msgstr "பெயரிடப்படாத வலையொலி"
+
+#, i18next-interpolation
+msgctxt "Value-4-Value"
+msgid "Value for Value"
+msgstr "மதிப்புக்கான மதிப்பு"
+
+#, i18next-interpolation
+msgctxt "Verify Email"
+msgid "Verify E-mail Address"
+msgstr "மின்னஞ்சல் முகவரியை சரிபார்"
+
+#, i18next-interpolation
+msgctxt "Verify email modal"
+msgid "E-mail verification"
+msgstr "மின்னஞ்சல் சரிபார்ப்பு"
+
+#, i18next-interpolation
+msgctxt "Verifying your email address"
+msgid "Verifying e-mail address…"
+msgstr "மின்னஞ்சல் முகவரியை சரிபார்க்கிறது…"
+
+#, i18next-interpolation
+msgctxt "Volume"
+msgid "Volume"
+msgstr "தொகுதி"
+
+#, i18next-interpolation
+msgctxt "When"
+msgid "When"
+msgstr "எப்போது"
+
+#, i18next-interpolation
+msgctxt "year"
+msgid "year"
+msgstr "ஆண்டு"
+
+#, i18next-interpolation
+msgctxt "years"
+msgid "years"
+msgstr "ஆண்டுகள்"
+
+#, i18next-interpolation
+msgctxt "Years to add"
+msgid "Years to add"
+msgstr "சேர்க்க ஆண்டுகள்"
+
+#, i18next-interpolation
+msgctxt "Yes"
+msgid "Yes"
+msgstr "ஆம்"
+
+#, i18next-interpolation
+msgctxt "Your Name"
+msgid "Your Name"
+msgstr "உங்கள் பெயர்"
+
+#, i18next-interpolation
+msgctxt "YourMembershipHasExpired"
+msgid "Please renew Podverse Premium to use all features."
+msgstr "எல்லா அம்சங்களையும் பயன்படுத்த ஒலிவசனம் மதிப்பு எச்சத்தை புதுப்பிக்கவும்."

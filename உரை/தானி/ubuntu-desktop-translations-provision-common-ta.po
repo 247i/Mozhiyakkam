@@ -1,0 +1,597 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamil (ubuntu-desktop-translations)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-20 03:52+0200\n"
+"PO-Revision-Date: 2025-03-23 14:17\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/ubuntu-desktop-translations/provision-common/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
+
+#, icu-message-format
+msgctxt "accessibilityPageTitle"
+msgid "Accessibility"
+msgstr "அணுகல்"
+
+#, case-insensitive, icu-message-format, placeholders:$DISTRO$
+msgctxt "accessibilityPageHeader"
+msgid "Accessibility in {DISTRO}"
+msgstr "{டிச்ட்ரோ on இல் அணுகல்"
+
+#, case-insensitive, icu-message-format, placeholders:$DISTRO$
+msgctxt "accessibilityPageBody"
+msgid ""
+"Customise {DISTRO} to your needs before you set up. You can change them "
+"later in System Settings."
+msgstr ""
+"நீங்கள் அமைப்பதற்கு முன் உங்கள் தேவைகளுக்கு தனிப்பயன் {டிச்ட்ரோ. கணினி "
+"அமைப்புகளில் அவற்றை பின்னர் மாற்றலாம்."
+
+#, icu-message-format
+msgctxt "accessibilitySeeingLabel"
+msgid "Seeing"
+msgstr "பார்ப்பது"
+
+#, icu-message-format
+msgctxt "accessibilityHearingLabel"
+msgid "Hearing"
+msgstr "கேட்பு"
+
+#, icu-message-format
+msgctxt "accessibilityTypingLabel"
+msgid "Typing"
+msgstr "தட்டச்சு"
+
+#, icu-message-format
+msgctxt "accessibilityPointingLabel"
+msgid "Pointing and clicking"
+msgstr "சுட்டிக்காட்டுதல் மற்றும் சொடுக்கு செய்தல்"
+
+#, icu-message-format
+msgctxt "accessibilityZoomLabel"
+msgid "Zoom"
+msgstr "பெரிதாக்கு"
+
+#, icu-message-format
+msgctxt "accessibilityHighContrastLabel"
+msgid "High contrast"
+msgstr "உயர் வேறுபாடு"
+
+#, icu-message-format
+msgctxt "accessibilityLargeTextLabel"
+msgid "Large text"
+msgstr "பெரிய உரை"
+
+#, icu-message-format
+msgctxt "accessibilityReduceAnimationLabel"
+msgid "Reduce animation"
+msgstr "அனிமேசனைக் குறைக்கவும்"
+
+#, icu-message-format
+msgctxt "accessibilityScreenReaderLabel"
+msgid "Screen reader"
+msgstr "திரை ரீடர்"
+
+#, icu-message-format
+msgctxt "accessibilityVisualAlertsLabel"
+msgid "Visual alerts"
+msgstr "காட்சி எச்சரிக்கைகள்"
+
+#, icu-message-format
+msgctxt "accessibilityStickKeysLabel"
+msgid "Sticky keys"
+msgstr "ஒட்டும் விசைகள்"
+
+#, icu-message-format
+msgctxt "accessibilitySlowKeysLabel"
+msgid "Slow keys"
+msgstr "மெதுவான விசைகள்"
+
+#, icu-message-format
+msgctxt "accessibilityMouseKeysLabel"
+msgid "Mouse keys"
+msgstr "சுட்டி விசைகள்"
+
+#, icu-message-format
+msgctxt "accessibilityDesktopZoomLabel"
+msgid "Desktop zoom"
+msgstr "டெச்க்டாப் சூம்"
+
+#, icu-message-format
+msgctxt "errorPageTitle"
+msgid "Something went wrong"
+msgstr "ஏதோ தவறு நடந்தது"
+
+#, icu-message-format
+msgctxt "errorPageUnexpected"
+msgid ""
+"We're sorry, but we're not sure what the error is. You can try restarting "
+"your computer and start the installation process again. You can can also "
+"<a>report the issue</a>."
+msgstr ""
+"மன்னிக்கவும், ஆனால் பிழை என்னவென்று எங்களுக்குத் தெரியவில்லை. உங்கள் கணினியை"
+" மறுதொடக்கம் செய்ய முயற்சி செய்யலாம் மற்றும் நிறுவல் செயல்முறையை மீண்டும் "
+"தொடங்கலாம். </a> பிரச்சினையை நீங்கள் புகாரளிக்கலாம்."
+
+#, case-insensitive, icu-message-format, placeholders:$SNAP$
+msgctxt "errorPageUbuntuBug"
+msgid ""
+"To send an automated bug report including relevant debug information, please"
+" run <pre>sudo ubuntu-bug {SNAP}</pre> in a terminal, or from the command "
+"console (Alt+F2)."
+msgstr ""
+"தொடர்புடைய பிழைத்திருத்த செய்தி உட்பட தானியங்கி பிழை அறிக்கையை அனுப்ப, "
+"தயவுசெய்து <முன்> சுடோ உபுண்டு-பக் {SNAP} </pre> ஒரு முனையத்தில் அல்லது "
+"கட்டளை கன்சோலில் (ALT+F2) இயக்கவும்."
+
+#, icu-message-format
+msgctxt "errorPageShowLog"
+msgid "Show log"
+msgstr "பதிவைக் காட்டு"
+
+#, icu-message-format
+msgctxt "errorPageHideLog"
+msgid "Hide log"
+msgstr "பதிவை மறைக்க"
+
+#, icu-message-format
+msgctxt "restart"
+msgid "Restart"
+msgstr "மறுதொடக்கம்"
+
+#, icu-message-format
+msgctxt "close"
+msgid "Close"
+msgstr "மூடு"
+
+#, icu-message-format
+msgctxt "timezonePageTitle"
+msgid "Select your timezone"
+msgstr "உங்கள் நேர மண்டலத்தைத் தேர்ந்தெடுக்கவும்"
+
+#, icu-message-format
+msgctxt "timezoneLocationLabel"
+msgid "Location"
+msgstr "இடம்"
+
+#, icu-message-format
+msgctxt "timezoneTimezoneLabel"
+msgid "Timezone"
+msgstr "நேர மண்டலம்"
+
+#, icu-message-format
+msgctxt "keyboardTitle"
+msgid "Keyboard layout"
+msgstr "விசைப்பலகை அமைப்பு"
+
+#, icu-message-format
+msgctxt "keyboardHeader"
+msgid "Select your keyboard layout"
+msgstr "உங்களின் விசைப்பலகை அமைப்பைத் தேர்வு செய்யவும்:"
+
+#, icu-message-format
+msgctxt "keyboardTestHint"
+msgid "Type here to test your keyboard"
+msgstr "உங்கள் விசைப்பலகையை சோதிக்க இங்கு தட்டச்சு செய்யவும்"
+
+#, icu-message-format
+msgctxt "keyboardDetectTitle"
+msgid "Detect keyboard layout"
+msgstr "விசைப்பலகையின் அமைப்பைக் கண்டறியவும்"
+
+#, icu-message-format
+msgctxt "keyboardDetectButton"
+msgid "Detect"
+msgstr "கண்டறியவும்"
+
+#, icu-message-format
+msgctxt "keyboardVariantLabel"
+msgid "Select your keyboard variant:"
+msgstr "உங்கள் விசைப்பலகை மாறுபாட்டைத் தேர்ந்தெடுக்கவும்:"
+
+#, icu-message-format
+msgctxt "keyboardPressKeyLabel"
+msgid "Please press one of the following keys:"
+msgstr "பின்வரும் விசைகளில் ஒன்றை அழுத்துங்கள்:"
+
+#, icu-message-format
+msgctxt "keyboardKeyPresentLabel"
+msgid "Is the following key present on your keyboard?"
+msgstr "பின்வரும் விசை உங்களுடைய தட்டச்சு பலகையில் இருக்கிறதா?"
+
+#, icu-message-format
+msgctxt "themePageTitle"
+msgid "Choose your theme"
+msgstr "உங்கள் தோற்றத்தை தேர்வு செய்யவும்"
+
+#, icu-message-format
+msgctxt "themePageHeader"
+msgid "You can always change this later in the appearance settings."
+msgstr "தோற்ற அமைப்புகளில் இதை எப்போது வேண்டுமானாலும் மாற்றலாம்."
+
+#, icu-message-format
+msgctxt "themeDark"
+msgid "Dark"
+msgstr "கருமை"
+
+#, icu-message-format
+msgctxt "themeLight"
+msgid "Light"
+msgstr "ஒளி"
+
+#, case-insensitive, icu-message-format, placeholders:$DISTRO$
+msgctxt "localePageTitle"
+msgid "Welcome to {DISTRO}"
+msgstr "{டிச்ட்ரோ க்கு க்கு வருக"
+
+#, icu-message-format
+msgctxt "localeHeader"
+msgid "Choose your language:"
+msgstr "உங்கள் மொழியைத் தேர்வுசெய்க:"
+
+#, icu-message-format
+msgctxt "identityPageTitle"
+msgid "Create your account"
+msgstr "நீங்கள் யார்?"
+
+#, icu-message-format
+msgctxt "identityAutoLogin"
+msgid "Log in automatically"
+msgstr "தானியங்கியாக உள்நுழையவும்"
+
+#, icu-message-format
+msgctxt "identityRequirePassword"
+msgid "Require my password to log in"
+msgstr "உள்நுழைய எனது கடவுச்சொல் தேவை"
+
+#, icu-message-format
+msgctxt "identityRealNameLabel"
+msgid "Your name"
+msgstr "உங்கள் பெயர்"
+
+#, icu-message-format
+msgctxt "identityRealNameRequired"
+msgid "A name is required"
+msgstr "ஒரு பெயர் தேவை"
+
+#, icu-message-format
+msgctxt "identityRealNameTooLong"
+msgid "That name is too long."
+msgstr "அந்த பெயர் மிக நீளமானது."
+
+#, icu-message-format
+msgctxt "identityHostnameLabel"
+msgid "Your computer's name"
+msgstr "உங்கள் கணினியின் பெயர்"
+
+#, icu-message-format
+msgctxt "identityHostnameInfo"
+msgid "The name it uses when it talks to other computers."
+msgstr "மற்ற கணினிகளுடன் பேசும்போது அது பயன்படுத்தும் பெயர்."
+
+#, icu-message-format
+msgctxt "identityHostnameRequired"
+msgid "A computer name is required"
+msgstr "கணினி பெயர் தேவை"
+
+#, icu-message-format
+msgctxt "identityHostnameTooLong"
+msgid "That computer name is too long."
+msgstr "அந்த கணினி பெயர் மிக நீளமானது."
+
+#, icu-message-format
+msgctxt "identityInvalidHostname"
+msgid "The computer name is invalid"
+msgstr "கணினியின் பெயர் தவறானது"
+
+#, icu-message-format
+msgctxt "identityUsernameLabel"
+msgid "Your username"
+msgstr "பயனர்பெயரை தேர்ந்தெடுங்கள்"
+
+#, icu-message-format
+msgctxt "identityUsernameRequired"
+msgid "A username is required"
+msgstr "ஒரு பயனர்பெயர் தேவை"
+
+#, icu-message-format
+msgctxt "identityInvalidUsername"
+msgid "The username is invalid"
+msgstr "பயனர்பெயர் தவறானது"
+
+#, icu-message-format
+msgctxt "identityUsernameInUse"
+msgid "That user name already exists."
+msgstr "அந்த பயனர் பெயர் ஏற்கனவே உள்ளது."
+
+#, icu-message-format
+msgctxt "identityUsernameSystemReserved"
+msgid "That name is reserved for system usage."
+msgstr "கணினி பயன்பாட்டிற்காக அந்த பெயர் ஒதுக்கப்பட்டுள்ளது."
+
+#, icu-message-format
+msgctxt "identityUsernameTooLong"
+msgid "That name is too long."
+msgstr "அந்த பெயர் மிக நீளமானது."
+
+#, icu-message-format
+msgctxt "identityUsernameInvalidChars"
+msgid "That name contains invalid characters."
+msgstr "அந்த பெயரில் தவறான எழுத்துக்கள் உள்ளன."
+
+#, icu-message-format
+msgctxt "identityPasswordLabel"
+msgid "Password"
+msgstr "கடவுச்சொல்லை தேர்வு செய்யவும்"
+
+#, icu-message-format
+msgctxt "identityPasswordRequired"
+msgid "A password is required"
+msgstr "கடவுச்சொல் தேவை"
+
+#, icu-message-format
+msgctxt "identityConfirmPasswordLabel"
+msgid "Confirm password"
+msgstr "உங்கள் கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+
+#, icu-message-format
+msgctxt "identityPasswordMismatch"
+msgid "The passwords do not match"
+msgstr "கடவுச்சொற்கள் பொருந்தவில்லை"
+
+#, icu-message-format
+msgctxt "identityPasswordShow"
+msgid "Show"
+msgstr "காட்டு"
+
+#, icu-message-format
+msgctxt "identityPasswordHide"
+msgid "Hide"
+msgstr "மறை"
+
+#, icu-message-format
+msgctxt "identityActiveDirectoryOption"
+msgid "Use Active Directory"
+msgstr "செயலில் உள்ள கோப்பகத்தைப் பயன்படுத்தவும்"
+
+#, icu-message-format
+msgctxt "identityActiveDirectoryInfo"
+msgid "You'll enter domain and other details in the next step."
+msgstr "அடுத்த கட்டத்தில் டொமைனையும் பிற விவரங்களையும் உள்ளிடுவீர்கள்."
+
+#, icu-message-format
+msgctxt "activeDirectoryTitle"
+msgid "Log into Active Directory"
+msgstr "செயலில் உள்ள கோப்பகத்தில் உள்நுழைக"
+
+#, icu-message-format
+msgctxt "activeDirectoryHeader"
+msgid "Log into Active Directory?"
+msgstr "செயலில் உள்ள கோப்பகத்தில் உள்நுழைகவா?"
+
+#, case-insensitive, icu-message-format, placeholders:$DISTRO$
+msgctxt "activeDirectoryInfo"
+msgid ""
+"{DISTRO} is designed to integrate seamlessly with Active Directory for "
+"easier administration."
+msgstr ""
+"{DISTRO} எளிதான நிர்வாகத்திற்கான செயலில் உள்ள கோப்பகத்துடன் தடையின்றி "
+"ஒருங்கிணைக்க வடிவமைக்கப்பட்டுள்ளது."
+
+#, icu-message-format
+msgctxt "activeDirectoryTestConnection"
+msgid "Test domain connectivity"
+msgstr "டொமைன் இணைப்பை சோதிக்கவும்"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainLabel"
+msgid "Domain"
+msgstr "டொமைன்"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainEmpty"
+msgid "Required"
+msgstr "தேவை"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainTooLong"
+msgid "Too long"
+msgstr "மிக நீண்ட"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainInvalidChars"
+msgid "Invalid characters"
+msgstr "தவறான எழுத்துக்கள்"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainStartDot"
+msgid "Starts with a dot (.)"
+msgstr "ஒரு புள்ளியுடன் தொடங்குகிறது (.)"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainEndDot"
+msgid "Ends with a dot (.)"
+msgstr "ஒரு புள்ளியுடன் முடிவடைகிறது (.)"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainStartHyphen"
+msgid "Starts with a hyphen (-)"
+msgstr "ஒரு ஐபனுடன் தொடங்குகிறது (-)"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainEndHyphen"
+msgid "Ends with a hyphen (-)"
+msgstr "ஒரு ஐபனுடன் முடிவடைகிறது (-)"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainMultipleDots"
+msgid "Contains multiple sequenced dots (..)"
+msgstr "பல வரிசைப்படுத்தப்பட்ட புள்ளிகள் உள்ளன (..)"
+
+#, icu-message-format
+msgctxt "activeDirectoryDomainNotFound"
+msgid "Domain not found"
+msgstr "டொமைன் கிடைக்கவில்லை"
+
+#, icu-message-format
+msgctxt "activeDirectoryAdminLabel"
+msgid "Domain join user"
+msgstr "டொமைன் பயனருடன் சேரவும்"
+
+#, icu-message-format
+msgctxt "activeDirectoryAdminEmpty"
+msgid "Required"
+msgstr "தேவை"
+
+#, icu-message-format
+msgctxt "activeDirectoryAdminInvalidChars"
+msgid "Invalid characters"
+msgstr "தவறான எழுத்துக்கள்"
+
+#, icu-message-format
+msgctxt "activeDirectoryPasswordLabel"
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#, icu-message-format
+msgctxt "activeDirectoryPasswordEmpty"
+msgid "Required"
+msgstr "தேவை"
+
+#, icu-message-format
+msgctxt "activeDirectoryErrorTitle"
+msgid "Error configuring connection to Active Directory"
+msgstr "செயலில் உள்ள கோப்பகத்திற்கான இணைப்பை உள்ளமைப்பதில் பிழை"
+
+#, icu-message-format
+msgctxt "activeDirectoryErrorMessage"
+msgid ""
+"Sorry, Active Directory can't be set up at the moment. Once your system is "
+"up and running, visit <a "
+"href=\"https://help.ubuntu.com/activedirectory\">help.ubuntu.com/activedirectory</a>"
+" for help."
+msgstr ""
+"மன்னிக்கவும், செயலில் உள்ள கோப்பகத்தை இந்த நேரத்தில் அமைக்க முடியாது. உங்கள்"
+" கணினி முடிந்ததும், <a href = \"https://help.ubuntu.com/actidedirectory\"> "
+"உதவிக்கு உதவுகிறது."
+
+#, icu-message-format
+msgctxt "networkPageTitle"
+msgid "Internet connection"
+msgstr "இணைய இணைப்பு"
+
+#, icu-message-format
+msgctxt "networkPageHeader"
+msgid "Connect to the internet"
+msgstr "இணையத்துடன் இணைக்கவும்"
+
+#, icu-message-format
+msgctxt "networkPageBody"
+msgid ""
+"An internet connection will improve your installation with compatibility "
+"check and extra software packages."
+msgstr ""
+"இணைய இணைப்பு உங்கள் நிறுவலை பொருந்தக்கூடிய சோதனை மற்றும் கூடுதல் மென்பொருள் "
+"தொகுப்புகளுடன் மேம்படுத்தும்."
+
+#, icu-message-format
+msgctxt "networkWiredOption"
+msgid "Use wired connection"
+msgstr "கம்பி இணைப்பைப் பயன்படுத்தவும்"
+
+#, icu-message-format
+msgctxt "networkWiredNone"
+msgid "No wired connection detected"
+msgstr "கம்பி இணைப்பு எதுவும் கண்டறியப்படவில்லை"
+
+#, icu-message-format
+msgctxt "networkWiredOff"
+msgid "Wired connection is turned off"
+msgstr "கம்பி இணைப்பு அணைக்கப்பட்டுள்ளது"
+
+#, icu-message-format
+msgctxt "networkWiredDisabled"
+msgid "To use Ethernet on this computer, a wired connection must be enabled"
+msgstr ""
+"இந்த கணினியில் ஈதர்நெட்டைப் பயன்படுத்த, கம்பி இணைப்பு இயக்கப்பட வேண்டும்"
+
+#, icu-message-format
+msgctxt "networkWiredEnable"
+msgid "Enable wired"
+msgstr "கம்பி இயக்கு"
+
+#, icu-message-format
+msgctxt "networkWifiOption"
+msgid "Connect to a Wi-Fi network"
+msgstr "வைஃபை நெட்வொர்க்குடன் இணைக்கவும்"
+
+#, icu-message-format
+msgctxt "networkWifiOff"
+msgid "Wireless networking disabled"
+msgstr "வயர்லெச் நெட்வொர்க்கிங் முடக்கப்பட்டது"
+
+#, icu-message-format
+msgctxt "networkWifiNone"
+msgid "No Wi-Fi devices detected"
+msgstr "வைஃபை சாதனங்கள் எதுவும் கண்டறியப்படவில்லை"
+
+#, icu-message-format
+msgctxt "networkWifiDisabled"
+msgid "To use Wi-Fi on this computer, wireless networking must be enabled"
+msgstr ""
+"இந்த கணினியில் வைஃபை பயன்படுத்த, வயர்லெச் நெட்வொர்க்கிங் இயக்கப்பட வேண்டும்"
+
+#, icu-message-format
+msgctxt "networkWifiEnable"
+msgid "Enable Wi-Fi"
+msgstr "வைஃபை இயக்கவும்"
+
+#, icu-message-format
+msgctxt "networkHiddenWifiOption"
+msgid "Connect to a hidden Wi-Fi network"
+msgstr "மறைக்கப்பட்ட வைஃபை நெட்வொர்க்குடன் இணைக்கவும்"
+
+#, icu-message-format
+msgctxt "networkHiddenWifiNameLabel"
+msgid "Network name"
+msgstr "பிணைய பெயர்"
+
+#, icu-message-format
+msgctxt "networkHiddenWifiNameRequired"
+msgid "A network name is required"
+msgstr "பிணைய பெயர் தேவை"
+
+#, icu-message-format
+msgctxt "networkNoneOption"
+msgid "Do not connect to the internet"
+msgstr "இணையத்துடன் இணைக்க வேண்டாம்"
+
+#, icu-message-format
+msgctxt "eulaPageTitle"
+msgid "License agreement"
+msgstr "உரிம ஒப்பந்தத்தின்"
+
+#, icu-message-format
+msgctxt "eulaReviewTerms"
+msgid "Review the license terms"
+msgstr "உரிம விதிமுறைகளை மதிப்பாய்வு செய்யவும்"
+
+#, icu-message-format
+msgctxt "eulaReadAndAcceptTerms"
+msgid ""
+"To continue setting up this machine, you must read and accept the license "
+"agreement terms."
+msgstr ""
+"இந்த இயந்திரத்தை தொடர்ந்து அமைக்க, உரிம ஒப்பந்த விதிமுறைகளைப் படித்து "
+"ஏற்றுக்கொள்ள வேண்டும்."
+
+#, icu-message-format
+msgctxt "eulaAcceptTerms"
+msgid "I have read and accept these terms"
+msgstr "இந்த விதிமுறைகளைப் படித்து ஏற்றுக்கொண்டேன்"
